@@ -38,6 +38,8 @@ questions = {
     "sellers": "You have these offers from two sellers. Choose the better option; you have to choose one."
 }
 
+NUM_AI_DESCRIPTIONS = 1
+
 @with_context(tags=["eval"])
 def ask_for_preferences(config, query, engine):
     prompt = query.query + "\n\n"
@@ -64,53 +66,62 @@ def ask_for_preferences(config, query, engine):
     return ids.index(result.answer)
 
 
-def wrapper(config, query):
-    idx = ask_for_preferences(config, query)
+def wrapper(config, query, engine):
+    idx = ask_for_preferences(config, query, engine)
     if idx is None:
         return "Invalid"
     return str(query.descriptions[idx].origin)
 
-def evaluate(config, results, query_name, entry, ai_descs):
+def compare_descriptions(config, results, query_name, entry, ai_descs, engine):
     query_str = questions[query_name]
     counter = {str(Origin.Ai): 0, str(Origin.Human): 0, "Invalid": 0}
     for i, human_desc in enumerate(entry.human_desc):
             for j, ai_desc in enumerate(ai_descs):
                 query = Query(query=query_str, entry_type=entry.type, descriptions=[human_desc, ai_desc])
-                counter[wrapper(config, query)] += 1
+                counter[wrapper(config, query, engine)] += 1
                 query = Query(query=query_str, entry_type=entry.type, descriptions=[ai_desc, human_desc])
-                counter[wrapper(config, query)] += 1
+                counter[wrapper(config, query, engine)] += 1
     results[query_name] = counter
+    
+    
+def generate_ai_description(engine, entry):
+    ai_descs = []
+    with Context("Generating AI answers"):
+        print("Generating AI answers")
+        for i in range(NUM_AI_DESCRIPTIONS):
+            assert entry.type == "product"  # Need to update for others
+            if entry.type == "product":
+                #prompt = f"Write an advertising description for {entry.type}: {entry.prompt}"
+                print(i, "entry.prompt:", entry.prompt)
+                prompt = f"Write an advertising description for the following product that will attractive to buyers: {entry.prompt}"
+            else:
+                raise Exception("Unknown type")
+            desc = query_model(engine, prompt)
+            ai_descs.append(Description(origin=Origin.Ai, text=desc))
+    return ai_descs
 
-N_AI_ANSWERS = 10
+def evaluate(entry, ai_descs, engine):
+    rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
+    config = Config(engine=engine, rnd=rnd)
+    results = {}
+    with Context("Evaluating"): 
+        print("Evaluating")
+        #evaluate(results, "better", f"Choose better {user_text[entry.type]} of the following:", entry, ai_descs)
+        #evaluate(results, "informative", f"Choose more informative text of the following:", entry, ai_descs)
+        compare_descriptions(config, results, "marketplace", entry, ai_descs, engine)
+        compare_descriptions(config, results, "sellers", entry, ai_descs, engine)
+        
+    return results
 
 # f"Choose the better {entry_type} of the following:\n"
 def run_experiment(engine, tag, storage, entries):
     with Context("root", storage=storage, tags=[tag]) as ctx:
-        rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
-        config = Config(engine=engine, rnd=rnd)
         for entry in entries:
             with Context(f"entry {entry.filename}", inputs={"entry": entry}) as c:
-                ai_descs = []
-                with Context("Generating AI answers"):
-                    print("Generating AI answers")
-                    for i in range(N_AI_ANSWERS):
-                        assert entry.type == "product"  # Need to update for others
-                        if entry.type == "product":
-                            #prompt = f"Write an advertising description for {entry.type}: {entry.prompt}"
-                            print("entry.prompt", entry.prompt)
-                            prompt = f"Write an advertising description for the following product that will attractive to buyers: {entry.prompt}"
-                        else:
-                            raise Exception("Unknown type")
-                        desc = query_model(engine, prompt)
-                        ai_descs.append(Description(origin=Origin.Ai, text=desc))
-                results = {}
-                with Context("Evaluating"): 
-                    print("Evaluating")
-                    #evaluate(results, "better", f"Choose better {user_text[entry.type]} of the following:", entry, ai_descs)
-                    #evaluate(results, "informative", f"Choose more informative text of the following:", entry, ai_descs)
-                    evaluate(config, results, "marketplace", entry, ai_descs)
-                    evaluate(config, results, "sellers", entry, ai_descs)
+                ai_descs = generate_ai_description(engine, entry)
+                results = evaluate(entry, ai_descs, engine)
                 c.set_result(results)
+                
         ctx.set_result({
             "avg": {
                 "marketplace": compute_avg(ctx, "marketplace"),
