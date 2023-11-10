@@ -30,15 +30,16 @@ class Query:
 
 user_text = {
     "product": "product",
+    "book_review": "book review",
     "user_review": "user review"
 }
 
 questions = {
-    "marketplace": "Following are product descriptions from a marketplace, what do you recommend choosing? You have to choose one.",
-    "sellers": "You have these offers from two sellers. Choose the better option; you have to choose one."
+    "marketplace": "Following are book reviews from a marketplace, what do you recommend choosing? You have to choose one.",
+    # "sellers": "You have these offers from two sellers. Choose the better option; you have to choose one."
 }
 
-NUM_AI_DESCRIPTIONS = 1
+NUM_AI_DESCRIPTIONS = 3
 
 @with_context(tags=["eval"])
 def ask_for_preferences(config, query, engine):
@@ -58,7 +59,7 @@ def ask_for_preferences(config, query, engine):
          answer: int = Field(description="One of the following integer: " + or_join(list(map(str, ids)))) 
 
     answer = query_model(engine, prompt)
-    result = query_for_json(engine, Choice, "What product was chosen based on the following answer?\n\n" + answer, throw_on_failure=False)
+    result = query_for_json(engine, Choice, "What book was chosen based on the following answer?\n\n" + answer, throw_on_failure=False)
     if result is None:
         return None
     if result.answer not in ids:
@@ -79,6 +80,7 @@ def compare_descriptions(config, results, query_name, entry, ai_descs, engine):
             for j, ai_desc in enumerate(ai_descs):
                 query = Query(query=query_str, entry_type=entry.type, descriptions=[human_desc, ai_desc])
                 counter[wrapper(config, query, engine)] += 1
+                
                 query = Query(query=query_str, entry_type=entry.type, descriptions=[ai_desc, human_desc])
                 counter[wrapper(config, query, engine)] += 1
     results[query_name] = counter
@@ -89,11 +91,13 @@ def generate_ai_description(engine, entry):
     with Context("Generating AI answers"):
         print("Generating AI answers")
         for i in range(NUM_AI_DESCRIPTIONS):
-            assert entry.type == "product"  # Need to update for others
+            print(i, "entry.prompt:", entry.prompt)
             if entry.type == "product":
                 #prompt = f"Write an advertising description for {entry.type}: {entry.prompt}"
-                print(i, "entry.prompt:", entry.prompt)
                 prompt = f"Write an advertising description for the following product that will attractive to buyers: {entry.prompt}"
+            elif entry.type == "book_review":
+                print(i, "entry.prompt:", entry.prompt)
+                prompt = f"Write a book review for the following book: {entry.prompt}"
             else:
                 raise Exception("Unknown type")
             desc = query_model(engine, prompt)
@@ -106,10 +110,8 @@ def evaluate(entry, ai_descs, engine):
     results = {}
     with Context("Evaluating"): 
         print("Evaluating")
-        #evaluate(results, "better", f"Choose better {user_text[entry.type]} of the following:", entry, ai_descs)
-        #evaluate(results, "informative", f"Choose more informative text of the following:", entry, ai_descs)
         compare_descriptions(config, results, "marketplace", entry, ai_descs, engine)
-        compare_descriptions(config, results, "sellers", entry, ai_descs, engine)
+        # compare_descriptions(config, results, "sellers", entry, ai_descs, engine)
         
     return results
 
@@ -125,11 +127,11 @@ def run_experiment(engine, tag, storage, entries):
         ctx.set_result({
             "avg": {
                 "marketplace": compute_avg(ctx, "marketplace"),
-                "sellers": compute_avg(ctx, "sellers"),
+                # "sellers": compute_avg(ctx, "sellers"),
             },
             "charts": {
                 "marketplace": capture_figure(make_chart(ctx, "marketplace", questions)),
-                "sellers": capture_figure(make_chart(ctx, "sellers")),
+                # "sellers": capture_figure(make_chart(ctx, "sellers")),
             }
         })
     return ctx
@@ -141,12 +143,13 @@ def main():
     storage.start_server()
 
     #entries = load_all("preferences_data/game_reviews")
-    entries = load_all("/home/wombat_share/laurito/ai-ai-bias/data/products")
+    entries = load_all("/home/wombat_share/laurito/ai-ai-bias/data/book_reviews")
     
-    engine = langchain.chat_models.ChatOpenAI(model_name='gpt-4')    
-    # engine = langchain.chat_models.ChatOpenAI(model_name='gpt-3.5-turbo')
+    # engine = langchain.chat_models.ChatOpenAI(model_name='gpt-4')    
+    engine = langchain.chat_models.ChatOpenAI(model_name='gpt-3.5-turbo')
     ctx = run_experiment(engine, engine.model_name, storage, entries)
-    ctx.write_html("/home/wombat_share/laurito/ai-ai-bias/tmp/gpt-4.html")
+    # ctx.write_html("/home/wombat_share/laurito/ai-ai-bias/tmp/gpt-4.html")
+    ctx.write_html("/home/wombat_share/laurito/ai-ai-bias/tmp/gpt-3-5-turbo.html")
  
 if __name__ == '__main__':
     main()
