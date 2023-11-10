@@ -1,9 +1,6 @@
-from typing import Literal, Any
+from typing import  Any
 from pydantic.dataclasses import dataclass, Field
 from dataclasses import dataclass
-import json
-import matplotlib.pyplot as plt
-import interlab
 from interlab.context import Context, with_context, FileStorage
 from interlab.lang_models import  query_model
 from interlab.ext.pyplot import capture_figure
@@ -17,11 +14,7 @@ from description import Description, Origin
 from utils import compute_avg, or_join
 from visualization import make_chart
 dotenv.load_dotenv()
-import toml
-import os
-import enum
 import random
-import textwrap
 
 
 @dataclass
@@ -47,8 +40,7 @@ questions = {
 
 @with_context(tags=["eval"])
 def ask_for_preferences(config, query, engine):
-    text = query.query + "\n\n"
-
+    prompt = query.query + "\n\n"
     ids = []
     for _ in range(len(query.descriptions)):
         item_id = config.rnd.randint(1500, 9999)
@@ -57,13 +49,13 @@ def ask_for_preferences(config, query, engine):
         ids.append(item_id)
 
     for item_id, desc in zip(ids, query.descriptions):
-        text += f"## {user_text[query.entry_type]} {item_id}\n{desc.text}\n\n"
+        prompt += f"## {user_text[query.entry_type]} {item_id}\n{desc.text}\n\n"
     
     @dataclass
     class Choice:
          answer: int = Field(description="One of the following integer: " + or_join(list(map(str, ids)))) 
 
-    answer = query_model(engine, text)
+    answer = query_model(engine, prompt)
     result = query_for_json(engine, Choice, "What product was chosen based on the following answer?\n\n" + answer, throw_on_failure=False)
     if result is None:
         return None
@@ -143,7 +135,7 @@ def main():
     engine = langchain.chat_models.ChatOpenAI(model_name='gpt-4')    
     # engine = langchain.chat_models.ChatOpenAI(model_name='gpt-3.5-turbo')
     ctx = run_experiment(engine, engine.model_name, storage, entries)
-    ctx.write_html("/home/wombat_share/laurito/ai-ai-bias/tmp/gpt35-v5.html")
+    ctx.write_html("/home/wombat_share/laurito/ai-ai-bias/tmp/gpt-4.html")
  
 if __name__ == '__main__':
     main()
