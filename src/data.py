@@ -16,16 +16,7 @@ class Entry:
     
     
 def remove_empty_lines(file):
-    """
-    Remove empty lines from a given file.
-
-    Args:
-    file_path (str): The path to the file from which empty lines should be removed.
-
-    Returns:
-    None: The function modifies the file in-place and does not return anything.
-    """
-
+    """Remove empty lines from file."""
     lines = file.readlines()
     no_empty_lines = [line for line in lines if line.strip()]
     return "".join(no_empty_lines)
