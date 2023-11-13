@@ -3,13 +3,13 @@ import pprint
 
 import dotenv
 
-from llm_text_generator.config import get_text_item_generation_prompt_config
-from llm_text_generator.file_io import (
+from config import get_text_item_generation_prompt_config
+from file_io import (
     load_many_human_text_item_descriptions_from_toml_files,
     save_llm_description_batch_to_json_file,
 )
-from llm_text_generator.prompt_generation import create_text_item_generation_prompt_from_config
-from llm_text_generator.query_llm import generate_ai_descriptions
+from prompt_generation import create_text_item_generation_prompt_from_config
+from query_llm import generate_ai_descriptions
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -19,10 +19,10 @@ logging.basicConfig(
 dotenv.load_dotenv()
 
 
-N_AI_ANSWERS = 10
+N_AI_ANSWERS = 1
 
 
-def __main__():
+def main():
     # TODO: don't hardcode these? or at least make them CONSTANTS/config?
     item_type = "products"
     prompt_nickname = "include_descriptions"
@@ -60,3 +60,5 @@ def __main__():
             llm_description_batch=llm_description_batch,
         )
 
+if __name__ == '__main__':
+    main()

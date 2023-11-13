@@ -5,9 +5,10 @@ import re
 import toml
 from typing import Optional
 
-from llm_text_generator.schema import (
+from schema import (
     HumanTextItemDescriptionBatch,
     LlmGeneratedTextItemDescriptionBatch,
+    Origin,
 )
 
 THIS_FILE_DIR = pathlib.Path(__file__).parent.resolve()
@@ -28,6 +29,7 @@ def load_human_text_item_descriptions_from_toml_file(
         item_type=item_type,
         title=title.strip(),
         descriptions=[d.strip() for d in descriptions],
+        origin=Origin.Human,
     )
 
 def load_many_human_text_item_descriptions_from_toml_files(

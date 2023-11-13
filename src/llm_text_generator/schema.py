@@ -2,7 +2,7 @@ import enum
 from dataclasses import dataclass
 
 
-class Origin(enum.Enum):
+class Origin(str, enum.Enum):
     Ai = "Ai"
     Human = "Human"
 
