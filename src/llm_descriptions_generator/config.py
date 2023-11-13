@@ -1,4 +1,4 @@
-from llm_text_generator.schema import TextItemGenerationPromptConfig
+from schema import TextItemGenerationPromptConfig
 
 TEXT_GENERATION_PROMPT_CONFIG = {
     "products": [

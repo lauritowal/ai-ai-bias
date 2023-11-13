@@ -4,7 +4,7 @@ import langchain
 
 from interlab.lang_models import  query_model
 
-from llm_text_generator.schema import (
+from schema import (
     LlmGeneratedTextItemDescriptionBatch,
     TextItemGenerationPrompt,
     Origin,

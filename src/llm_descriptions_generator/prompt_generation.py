@@ -1,12 +1,11 @@
 import hashlib
 from typing import Optional
 
-from llm_text_generator.schema import (
+from schema import (
     HumanTextItemDescriptionBatch,
     TextItemGenerationPrompt,
     TextItemGenerationPromptConfig,
 )
-from llm_text_generator.config import get_text_item_generation_prompt_config
 
 
 def append_item_title(
