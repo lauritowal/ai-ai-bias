@@ -19,7 +19,8 @@ HUMAN_GENERATED_INPUT_TOML_DIR = THIS_FILE_DIR / "../../data/"
 def load_human_text_item_descriptions_from_toml_file(
     filepath: str,
 ) -> HumanTextItemDescriptionBatch:
-    print("Loading", filepath)
+    print("Loading Human Text from", filepath)
+
     with open(filepath) as f:
         data = toml.loads(f.read())
     item_type = data["type"].strip()
@@ -43,6 +44,7 @@ def load_many_human_text_item_descriptions_from_toml_files(
         return [load_human_text_item_descriptions_from_toml_file(str(filepath))]
     
     filepaths = item_type_dirpath.glob("*.toml")
+
     human_item_description_batches = [
         load_human_text_item_descriptions_from_toml_file(filepath) for filepath in filepaths
     ]
@@ -85,11 +87,13 @@ def save_llm_description_batch_to_json_file(
     with open(filepath, "w") as file:
         json.dump(llm_description_batch.__dict__, file, ensure_ascii=False, indent=4)
 
+    print("Saved llm_description_batch to", filepath)
+
 
 def load_llm_description_batch_from_json_file(
     filepath: str,
 ) -> LlmGeneratedTextItemDescriptionBatch:
-    print("Loading", filepath)
+    print("Loading LLM-generated description from", filepath)
     with open(filepath) as f:
         data = json.load(f)
     return LlmGeneratedTextItemDescriptionBatch(**data)

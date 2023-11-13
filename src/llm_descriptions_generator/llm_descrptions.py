@@ -27,6 +27,7 @@ def generate_ai_descriptions_for_item_type(item_type, prompt_nickname, descripti
         item_type=item_type,
         prompt_nickname=prompt_nickname,
     )
+
     human_text_item_descriptions = load_many_human_text_item_descriptions_from_toml_files(
         item_type=item_type,
         # item_filename="bag.toml",
@@ -37,10 +38,6 @@ def generate_ai_descriptions_for_item_type(item_type, prompt_nickname, descripti
             config=generation_config,
             human_description_batch=human_description_batch,
         )
-        pprint.pprint(
-            generation_prompt.__dict__,
-            width=200,
-        )
 
         filepath = generate_filepath(
             title=generation_prompt.item_title, 
@@ -49,11 +46,10 @@ def generate_ai_descriptions_for_item_type(item_type, prompt_nickname, descripti
         )
 
         if filepath.exists():
-            logging.info(f"File already exists: {filepath}")
-            pprint.pprint(f"File already exists: {filepath}. Loading existing file instead of generating new one.")
-
+            logging.info(f"Loading already existing file: {filepath}.")
             llm_description_batch = load_llm_description_batch_from_json_file(filepath)
         else:
+            logging.info(f"Generating file: {filepath}.")
             llm_description_batch = generate_llm_descriptions(
                 generation_prompt=generation_prompt,
                 description_count=description_count,
@@ -64,12 +60,7 @@ def generate_ai_descriptions_for_item_type(item_type, prompt_nickname, descripti
                 filepath=filepath,
             )
 
-        pprint.pprint(
-            llm_description_batch,
-            width=200,
-        )
-
-    return llm_description_batch
+            return llm_description_batch
 
 if __name__ == "__main__":
     cli_args = sys.argv[1:]
@@ -84,5 +75,4 @@ if __name__ == "__main__":
         prompt_nickname=prompt_nickname,
         description_count=description_count,
     )
-    print("llm_description_batch", llm_description_batch)
-
+    print("Generation done")
