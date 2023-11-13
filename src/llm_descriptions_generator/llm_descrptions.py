@@ -1,5 +1,6 @@
 import logging
 import pprint
+import sys
 
 import dotenv
 
@@ -21,18 +22,11 @@ logging.basicConfig(
 dotenv.load_dotenv()
 
 
-def generate():
-    # TODO: don't hardcode these? or at least make them CONSTANTS/config?
-    # Probably arg parse is enough
-    item_type = "products"
-    prompt_nickname = "include_descriptions"
-    n_ai_answers = 1
-
+def generate_ai_descriptions_for_item_type(item_type, prompt_nickname, description_count):
     generation_config = get_text_item_generation_prompt_config(
         item_type=item_type,
         prompt_nickname=prompt_nickname,
     )
-
     human_text_item_descriptions = load_many_human_text_item_descriptions_from_toml_files(
         item_type=item_type,
         # item_filename="bag.toml",
@@ -62,7 +56,7 @@ def generate():
         else:
             llm_description_batch = generate_llm_descriptions(
                 generation_prompt=generation_prompt,
-                description_count=n_ai_answers,
+                description_count=description_count,
             )
 
             save_llm_description_batch_to_json_file(
@@ -78,5 +72,17 @@ def generate():
     return llm_description_batch
 
 if __name__ == "__main__":
-    llm_description_batch = generate()
+    cli_args = sys.argv[1:]
+    if len(cli_args) != 3:
+        print("Please provide CLI args in the form of `python run.py {item_type} {prompt_nickname} {description_count}`")
+        exit(0)
+    item_type = cli_args[0]
+    prompt_nickname = cli_args[1]
+    description_count = int(cli_args[2])
+    llm_description_batch = generate_ai_descriptions_for_item_type(
+        item_type=item_type,
+        prompt_nickname=prompt_nickname,
+        description_count=description_count,
+    )
     print("llm_description_batch", llm_description_batch)
+
