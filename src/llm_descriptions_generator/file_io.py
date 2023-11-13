@@ -57,16 +57,14 @@ def to_safe_filename(
 ) -> str:
     cleaned_title = re.sub(r'[^A-Za-z0-9 ]+', "", title_text).replace(" ", "_").lower()
     cleaned_shortened_title = cleaned_title[:max_title_characters]
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M")
     filename = "-".join([
         cleaned_shortened_title,
         prompt_uid,
-        timestamp,
     ])
     filename += file_extension
     return filename
 
-def generate_filepath(title: str, item_type: str, file_extension: str, prompt_uid: str = ".json"):
+def generate_filepath(title: str, item_type: str,  prompt_uid: str, file_extension: str = ".json"):
     filename = to_safe_filename(
         title_text=title,
         file_extension=file_extension,
@@ -81,12 +79,6 @@ def save_llm_description_batch_to_json_file(
     llm_description_batch: LlmGeneratedTextItemDescriptionBatch,
     filepath: pathlib.Path
 ) -> None:
-    # filepath = generate_filepath(
-    #     title=llm_description_batch.title, 
-    #     item_type=llm_description_batch.item_type, 
-    #     prompt_uid=llm_description_batch.generation_prompt_uid
-    # )
-
     # create directory if not exists
     filepath.parent.mkdir(exist_ok=True, parents=True) 
 
