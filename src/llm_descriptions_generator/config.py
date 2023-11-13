@@ -31,7 +31,7 @@ def get_text_item_generation_prompt_config(
 ) -> TextItemGenerationPromptConfig:
     configs = TEXT_GENERATION_PROMPT_CONFIG.get(item_type)
     if not configs:
-        raise f"item_type: '{item_type}' has no configs set up"
+        raise Exception(f"item_type: '{item_type}' has no configs set up")
     for config in configs:
         if config.prompt_nickname == prompt_nickname:
             return config

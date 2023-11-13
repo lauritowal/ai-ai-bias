@@ -14,7 +14,7 @@ ENGINE = "gpt-3.5-turbo"
 # ENGINE = "gpt-4"
 
 
-def generate_ai_descriptions(
+def generate_llm_descriptions(
     generation_prompt: TextItemGenerationPrompt,
     description_count: int
 ) -> LlmGeneratedTextItemDescriptionBatch:

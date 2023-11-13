@@ -19,7 +19,8 @@ HUMAN_GENERATED_INPUT_TOML_DIR = THIS_FILE_DIR / "../../data/"
 def load_human_text_item_descriptions_from_toml_file(
     filepath: str,
 ) -> HumanTextItemDescriptionBatch:
-    print("Loading", filepath)
+    print("Loading Human Text from", filepath)
+
     with open(filepath) as f:
         data = toml.loads(f.read())
     item_type = data["type"].strip()
@@ -43,6 +44,7 @@ def load_many_human_text_item_descriptions_from_toml_files(
         return [load_human_text_item_descriptions_from_toml_file(str(filepath))]
     
     filepaths = item_type_dirpath.glob("*.toml")
+
     human_item_description_batches = [
         load_human_text_item_descriptions_from_toml_file(filepath) for filepath in filepaths
     ]
@@ -57,28 +59,41 @@ def to_safe_filename(
 ) -> str:
     cleaned_title = re.sub(r'[^A-Za-z0-9 ]+', "", title_text).replace(" ", "_").lower()
     cleaned_shortened_title = cleaned_title[:max_title_characters]
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M")
     filename = "-".join([
         cleaned_shortened_title,
         prompt_uid,
-        timestamp,
     ])
     filename += file_extension
     return filename
 
+def generate_filepath(title: str, item_type: str,  prompt_uid: str, file_extension: str = ".json"):
+    filename = to_safe_filename(
+        title_text=title,
+        file_extension=file_extension,
+        prompt_uid=prompt_uid,
+    )   
+
+    filepath = LLM_GENERATED_OUTPUT_DIR / item_type / filename
+
+    return filepath
 
 def save_llm_description_batch_to_json_file(
     llm_description_batch: LlmGeneratedTextItemDescriptionBatch,
+    filepath: pathlib.Path
 ) -> None:
-    filename = to_safe_filename(
-        title_text=llm_description_batch.title,
-        file_extension=".json",
-        prompt_uid=llm_description_batch.generation_prompt_uid,
-    )   
-
-    filepath = LLM_GENERATED_OUTPUT_DIR / llm_description_batch.item_type / filename
     # create directory if not exists
     filepath.parent.mkdir(exist_ok=True, parents=True) 
 
     with open(filepath, "w") as file:
         json.dump(llm_description_batch.__dict__, file, ensure_ascii=False, indent=4)
+
+    print("Saved llm_description_batch to", filepath)
+
+
+def load_llm_description_batch_from_json_file(
+    filepath: str,
+) -> LlmGeneratedTextItemDescriptionBatch:
+    print("Loading LLM-generated description from", filepath)
+    with open(filepath) as f:
+        data = json.load(f)
+    return LlmGeneratedTextItemDescriptionBatch(**data)
