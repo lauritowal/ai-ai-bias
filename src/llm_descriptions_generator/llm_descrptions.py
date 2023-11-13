@@ -3,15 +3,15 @@ import pprint
 
 import dotenv
 
-from llm_text_generator.config import get_text_item_generation_prompt_config
-from llm_text_generator.file_io import (
+from config import get_text_item_generation_prompt_config
+from file_io import (
+    generate_filepath,
     load_llm_description_batch_from_json_file,
     load_many_human_text_item_descriptions_from_toml_files,
     save_llm_description_batch_to_json_file,
-    generate_filepath
 )
-from llm_text_generator.prompt_generation import create_text_item_generation_prompt_from_config
-from llm_text_generator.query_llm import generate_llm_descriptions
+from prompt_generation import create_text_item_generation_prompt_from_config
+from query_llm import generate_ai_descriptions
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -19,6 +19,7 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S',
 )
 dotenv.load_dotenv()
+
 
 
 def get_llm_descriptions():
@@ -61,9 +62,7 @@ def get_llm_descriptions():
                 width=200,
             )
 
-            generation_prompt.item_type
-
-            llm_description_batch = generate_llm_descriptions(
+            llm_description_batch = generate_ai_descriptions(
                 generation_prompt=generation_prompt,
                 description_count=n_ai_answers,
             )
@@ -75,7 +74,6 @@ def get_llm_descriptions():
 
             save_llm_description_batch_to_json_file(
                 llm_description_batch=llm_description_batch,
-                filepath=filepath,
             )
 
     return llm_description_batch
