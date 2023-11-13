@@ -35,4 +35,4 @@ def get_text_item_generation_prompt_config(
     for config in configs:
         if config.prompt_nickname == prompt_nickname:
             return config
-    raise f"item_type: '{item_type}' has no configs set up matching nickname: {prompt_nickname}"
+    raise f"item_type: '{item_type}' has no configs set up matching prompt_nickname: {prompt_nickname}"
