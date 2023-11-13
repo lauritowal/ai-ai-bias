@@ -64,19 +64,38 @@ def to_safe_filename(
     filename += file_extension
     return filename
 
+def generate_filepath(title: str, item_type: str, file_extension: str, prompt_uid: str = ".json"):
+    filename = to_safe_filename(
+        title_text=title,
+        file_extension=file_extension,
+        prompt_uid=prompt_uid,
+    )   
+
+    filepath = LLM_GENERATED_OUTPUT_DIR / item_type / filename
+
+    return filepath
 
 def save_llm_description_batch_to_json_file(
     llm_description_batch: LlmGeneratedTextItemDescriptionBatch,
+    filepath: pathlib.Path
 ) -> None:
-    filename = to_safe_filename(
-        title_text=llm_description_batch.title,
-        file_extension=".json",
-        prompt_uid=llm_description_batch.generation_prompt_uid,
-    )   
+    # filepath = generate_filepath(
+    #     title=llm_description_batch.title, 
+    #     item_type=llm_description_batch.item_type, 
+    #     prompt_uid=llm_description_batch.generation_prompt_uid
+    # )
 
-    filepath = LLM_GENERATED_OUTPUT_DIR / llm_description_batch.item_type / filename
     # create directory if not exists
     filepath.parent.mkdir(exist_ok=True, parents=True) 
 
     with open(filepath, "w") as file:
         json.dump(llm_description_batch.__dict__, file, ensure_ascii=False, indent=4)
+
+
+def load_llm_description_batch_from_json_file(
+    filepath: str,
+) -> LlmGeneratedTextItemDescriptionBatch:
+    print("Loading", filepath)
+    with open(filepath) as f:
+        data = json.load(f)
+    return LlmGeneratedTextItemDescriptionBatch(**data)

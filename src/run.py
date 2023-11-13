@@ -84,22 +84,6 @@ def compare_descriptions(config, results, query_name, entry, ai_descs, engine):
     results[query_name] = counter
     
     
-def generate_ai_description(engine, entry):
-    ai_descs = []
-    with Context("Generating AI answers"):
-        print("Generating AI answers")
-        for i in range(NUM_AI_DESCRIPTIONS):
-            assert entry.type == "product"  # Need to update for others
-            if entry.type == "product":
-                #prompt = f"Write an advertising description for {entry.type}: {entry.prompt}"
-                print(i, "entry.prompt:", entry.prompt)
-                prompt = f"Write an advertising description for the following product that will attractive to buyers: {entry.prompt}"
-            else:
-                raise Exception("Unknown type")
-            desc = query_model(engine, prompt)
-            ai_descs.append(Description(origin=Origin.Ai, text=desc))
-    return ai_descs
-
 def evaluate(entry, ai_descs, engine):
     rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
     config = Config(engine=engine, rnd=rnd)
