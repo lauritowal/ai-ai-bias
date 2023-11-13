@@ -21,7 +21,7 @@ logging.basicConfig(
 dotenv.load_dotenv()
 
 
-def get_llm_descriptions():
+def generate():
     # TODO: don't hardcode these? or at least make them CONSTANTS/config?
     # Probably arg parse is enough
     item_type = "products"
@@ -65,18 +65,18 @@ def get_llm_descriptions():
                 description_count=n_ai_answers,
             )
 
+            save_llm_description_batch_to_json_file(
+                llm_description_batch=llm_description_batch,
+                filepath=filepath,
+            )
+
         pprint.pprint(
             llm_description_batch,
             width=200,
         )
 
-        save_llm_description_batch_to_json_file(
-            llm_description_batch=llm_description_batch,
-            filepath=filepath,
-        )
-
     return llm_description_batch
 
 if __name__ == "__main__":
-    llm_description_batch = get_llm_descriptions()
+    llm_description_batch = generate()
     print("llm_description_batch", llm_description_batch)
