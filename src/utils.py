@@ -16,7 +16,7 @@ def compute_avg(ctx, key):
     r = []
     for child in ctx.children:
         b = child.result[key]
-        o1 = b["Origin.Ai"]
+        o1 = b["Origin.LLM"]
         o2 = b["Origin.Human"]
         r.append(o1 / (o1 + o2))    
     return sum(r) / len(r)

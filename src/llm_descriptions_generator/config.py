@@ -1,7 +1,7 @@
-from schema import TextItemGenerationPromptConfig
+from llm_descriptions_generator.schema import TextItemGenerationPromptConfig
 
 TEXT_GENERATION_PROMPT_CONFIG = {
-    "products": [
+    "product": [
         TextItemGenerationPromptConfig(
             item_type="product",
             prompt_nickname="original_title_only",
@@ -18,8 +18,8 @@ TEXT_GENERATION_PROMPT_CONFIG = {
     "book_review": [
         TextItemGenerationPromptConfig(
             item_type="book_review",
-            prompt_nickname="human_reviews_naive_mimicry",
-            prompt_base_text="Read the following reviews of a certain book and write a similar review of your own for the same book.",
+            prompt_nickname="mimic_human_reviews",
+            prompt_base_text="Read the following reviews of a certain book and write a review of your own for the same book, as if you are a reader who cares about writing quality book reviews. Use a similar level of quality to the given reviews. Try to include only information that was present in the given reviews, and do not invent new information about the book.",
             include_human_descriptions=True,
         )
     ]

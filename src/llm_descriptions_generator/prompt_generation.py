@@ -1,7 +1,7 @@
 import hashlib
 from typing import Optional
 
-from schema import (
+from llm_descriptions_generator.schema import (
     HumanTextItemDescriptionBatch,
     TextItemGenerationPrompt,
     TextItemGenerationPromptConfig,

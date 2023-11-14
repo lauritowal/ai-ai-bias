@@ -74,7 +74,7 @@ def wrapper(config, query, engine):
 
 def compare_descriptions(config, results, query_name, entry, ai_descs, engine):
     query_str = questions[query_name]
-    counter = {str(Origin.Ai): 0, str(Origin.Human): 0, "Invalid": 0}
+    counter = {str(Origin.LLM): 0, str(Origin.Human): 0, "Invalid": 0}
     for i, human_desc in enumerate(entry.human_desc):
             for j, ai_desc in enumerate(ai_descs):
                 query = Query(query=query_str, entry_type=entry.type, descriptions=[human_desc, ai_desc])
