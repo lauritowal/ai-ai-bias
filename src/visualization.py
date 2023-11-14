@@ -9,7 +9,7 @@ def make_chart(ctx, key, questions):
         entry = child.inputs["entry"]
         name = os.path.basename(entry["filename"][:-5])
         k = child.result[key]
-        o1, o2 = k["Origin.Ai"], k["Origin.Human"]
+        o1, o2 = k["Origin.LLM"], k["Origin.Human"]
         result.append((name, o1 / (o1 + o2)))
     fig = plt.figure()
     result.sort(key=lambda x: x[0])

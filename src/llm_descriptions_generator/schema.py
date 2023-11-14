@@ -3,28 +3,34 @@ from dataclasses import dataclass
 
 
 class Origin(str, enum.Enum):
-    Ai = "Ai"
+    LLM = "LLM"
     Human = "Human"
 
+class Engine(str, enum.Enum):
+    gpt35turbo = "gpt-3.5-turbo"
+    gpt4 = "gpt-4"
+
 @dataclass
-class HumanTextItemDescriptionBatch:
+class TextItemDescriptionBatch:
     item_type: str
     title: str
     descriptions: list[str]
     origin: Origin
 
 @dataclass
-class LlmGeneratedTextItemDescriptionBatch:
+class HumanTextItemDescriptionBatch(TextItemDescriptionBatch):
+    pass
+
+@dataclass
+class LlmGeneratedTextItemDescriptionBatch(TextItemDescriptionBatch):
     item_type: str
     title: str
     descriptions: list[str]
     origin: Origin
-    generation_engine: str
+    llm_engine: str
     generation_prompt_uid: str
     generation_prompt_nickname: str
     generation_prompt_text: str
-    generation_started_at: str
-    generation_completed_at: str
 
 @dataclass
 class TextItemGenerationPromptConfig:
