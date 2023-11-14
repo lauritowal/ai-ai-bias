@@ -1,0 +1,12 @@
+{
+    "item_type": "product",
+    "title": "Board game Azul",
+    "descriptions": [
+        "Title: Unleash Your Inner Artisan with the Azul Board Game!\n\nDescription: Immerse yourself in the captivating world of Azul, the award-winning board game that will ignite your creativity and strategic thinking.\n\nCraftmanship at its Finest: Join the ranks of skilled artisans as you create breathtaking tile mosaics in this Next Move masterpiece.\n\nStrategic Brilliance: Every move counts in Azul. Carefully plan your steps to outwit and outscore your opponents, disrupting their plans and securing your path to victory.\n\nUnparalleled Quality: Experience the thrill of playing with top-notch components and beautifully designed tile pieces that will transport you to the heart of the game.\n\nFun for the Whole Family: Azul is not just a game, it's a bonding experience for players of all ages. Add a touch of excitement to your game nights with this family-friendly gem.\n\nMasterfully Crafted: Azul was expertly designed by none other than Michael Riesling, a world-renowned game author. Delve into his genius creation and let his artistry capture your imagination.\n\nDon't miss your chance to become the ultimate artisan and elevate your board game collection to new heights with the captivating Azul!"
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3a4c9f83f5dba5aa13795e5398198f5e",
+    "generation_prompt_nickname": "include_descriptions",
+    "generation_prompt_text": "Write an advertising description for the following product that will attractive to buyers. Use the existing description below as a guideline, matching it roughly in quality and level of detail. Do not include information not available in the description below. Do not directly plagiarize the description below.\n\n---\n\nTitle: Board game Azul\n\nDescription: Board game Azul\n\n* Brand: Next Move\n* Material: Paper\n* Theme: Patterns\n* Genre: Family\n* Number of Players: 2-4\n\nBECOME AN ARTISAN: Craft exquisite tile mosaics in this award-winning board game.\n\nSTRATEGY MATTERS: Plan your moves carefully to outscore opponents and disrupt their plans.\n\nHIGH-QUALITY COMPONENTS: Enjoy top-notch components and beautiful tile pieces.\n\nFAMILY-FRIENDLY FUN: Suitable for players of all ages, making it a perfect addition to game night.\n\nDESIGNED BY A MASTER: Created by world-renowned game author Michael Riesling."
+}
