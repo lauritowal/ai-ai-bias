@@ -55,13 +55,13 @@ def generate_llm_descriptions_for_item_type(
                 existing_llm_description_batch = None
                 existing_description_count = 0
             else:
-                logging.info(f"Loading existing data at: {filepath}")
+                # logging.info(f"Loading existing data at: {filepath}")
                 existing_llm_description_batch = load_description_batch_from_json_file(filepath)
                 existing_description_count = len(existing_llm_description_batch.descriptions)
             
-            logging.info(f"{filepath} description count at: ({existing_description_count}/{description_count})")
+            logging.info(f"{filepath.name} -- Description count at: ({existing_description_count}/{description_count})")
             if existing_description_count >= description_count:
-                logging.info(f"{filepath} sufficient descriptions exist.")
+                logging.info(f"{filepath.name} -- Sufficient descriptions exist ({existing_description_count}/{description_count})")
                 llm_description_batches.append(existing_llm_description_batch)
                 break
 

@@ -125,7 +125,7 @@ def save_description_batch_to_json_file(
 def load_description_batch_from_json_file(
     filepath: str,
 ) -> TextItemDescriptionBatch:
-    logging.info(f"Loading description from: {filepath}")
+    logging.info(f"Loading descriptions from: {filepath}")
     with open(filepath) as f:
         data = json.load(f)
     origin = data.get("origin")
