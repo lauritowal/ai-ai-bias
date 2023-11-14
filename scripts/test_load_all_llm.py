@@ -1,9 +1,9 @@
 import scripts_common_setup
 
-from llm_descriptions_generator.file_io import load_all_existing_llm_description_batches
+from llm_descriptions_generator.file_io import load_all_llm_description_batches
 from pprint import pprint
 
-llm_batches = load_all_existing_llm_description_batches(
+llm_batches = load_all_llm_description_batches(
     item_type="book_review",
     # title="poop",
     # title="Tomorrow, and Tomorrow, and Tomorrow [Gabrielle Zevin]",

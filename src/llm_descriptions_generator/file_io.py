@@ -136,7 +136,7 @@ def load_description_batch_from_json_file(
     raise f"Unrecognized origin: {origin}"
 
 
-def load_many_human_text_item_descriptions_from_json_files(
+def load_all_human_description_batches(
     item_type: str,
     item_filename: Optional[str] = None,
 ) -> list[HumanTextItemDescriptionBatch]:
@@ -157,7 +157,7 @@ def load_many_human_text_item_descriptions_from_json_files(
     return human_item_description_batches
 
 
-def load_all_existing_llm_description_batches(
+def load_all_llm_description_batches(
     item_type: str,
     title: Optional[str] = None,
     llm_engine: Optional[Engine] = None,

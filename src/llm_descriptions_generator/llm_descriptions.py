@@ -4,7 +4,7 @@ from llm_descriptions_generator.config import get_text_item_generation_prompt_co
 from llm_descriptions_generator.file_io import (
     generate_descriptions_filepath,
     load_description_batch_from_json_file,
-    load_many_human_text_item_descriptions_from_json_files,
+    load_all_human_description_batches,
     save_description_batch_to_json_file,
 )
 from llm_descriptions_generator.prompt_generation import create_text_item_generation_prompt_from_config
@@ -24,7 +24,7 @@ def generate_llm_descriptions_for_item_type(
         prompt_nickname=prompt_nickname,
     )
 
-    human_text_item_descriptions = load_many_human_text_item_descriptions_from_json_files(
+    human_text_item_descriptions = load_all_human_description_batches(
         item_type=item_type,
     )
     llm_description_batches: list[LlmGeneratedTextItemDescriptionBatch] = []
