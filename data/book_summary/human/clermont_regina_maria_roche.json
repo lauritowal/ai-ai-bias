@@ -1,6 +1,6 @@
 {
     "item_type": "book_summary",
     "title": "Clermont [Regina Maria Roche]",
-    "description": "Clermont relates the story of the beautiful Madeline, who lives in seclusion with her eponymous father until they are visited by a mysterious Countess from Clermont's past. Madeline travels to complete her education with her and a series of assaults by shadowy foes cannot dissuade her from unravelling the mystery of her father's past and pursuing her paramour De Sevignie. She uncovers the secret of her own noble origins and her virtue proves its strength through a series of trials and tribulations.",
+    "descriptions": ["Clermont relates the story of the beautiful Madeline, who lives in seclusion with her eponymous father until they are visited by a mysterious Countess from Clermont's past. Madeline travels to complete her education with her and a series of assaults by shadowy foes cannot dissuade her from unravelling the mystery of her father's past and pursuing her paramour De Sevignie. She uncovers the secret of her own noble origins and her virtue proves its strength through a series of trials and tribulations."],
     "origin": "Human"
 }

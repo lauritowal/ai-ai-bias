@@ -1,6 +1,6 @@
 {
     "item_type": "book_summary",
     "title": "Valhalla Rising [Clive Cussler]",
-    "description": "Dirk Pitt has to stop an evil CEO of an oil and natural gas company in the US from establishing absolute monopoly over oil resources and supplies. It is a typical Dirk Pitt novel dealing with a countdown, bribed officials, and ruthless evil leaders. Pitt also unravels the work of a brilliant, reclusive scientist who had made great advances in oil technology, traced the history and found the remains of a Viking settlement on the Hudson River, and discovered the remains of Captain Nemo's Nautilus and unriddled and improved its power system (a magnetohydrodynamic engine).",
+    "descriptions": ["Dirk Pitt has to stop an evil CEO of an oil and natural gas company in the US from establishing absolute monopoly over oil resources and supplies. It is a typical Dirk Pitt novel dealing with a countdown, bribed officials, and ruthless evil leaders. Pitt also unravels the work of a brilliant, reclusive scientist who had made great advances in oil technology, traced the history and found the remains of a Viking settlement on the Hudson River, and discovered the remains of Captain Nemo's Nautilus and unriddled and improved its power system (a magnetohydrodynamic engine)."],
     "origin": "Human"
 }

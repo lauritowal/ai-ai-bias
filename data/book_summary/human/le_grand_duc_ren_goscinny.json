@@ -1,6 +1,6 @@
 {
     "item_type": "book_summary",
     "title": "Le Grand Duc [Ren\u00e9 Goscinny]",
-    "description": "A Russian grand duke pays a diplomatic visit to the United States, but in order for an important treaty to be completed, he first wants to have a recreational trip through the West, complete with bandits and Indian attacks! Lucky Luke is assigned as a bodyguard to the duke, who is quickly targeted by all sorts of villainous persons - first and foremost a Russian spy who tries his best (or worst) to assassinate the grand duke.",
+    "descriptions": ["A Russian grand duke pays a diplomatic visit to the United States, but in order for an important treaty to be completed, he first wants to have a recreational trip through the West, complete with bandits and Indian attacks! Lucky Luke is assigned as a bodyguard to the duke, who is quickly targeted by all sorts of villainous persons - first and foremost a Russian spy who tries his best (or worst) to assassinate the grand duke."],
     "origin": "Human"
 }
