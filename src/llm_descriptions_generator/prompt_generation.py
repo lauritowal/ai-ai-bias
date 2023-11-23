@@ -1,8 +1,8 @@
 import hashlib
-from typing import Optional
+import typing as t
 
 from llm_descriptions_generator.schema import (
-    HumanTextItemDescriptionBatch,
+    TextItemDescriptionBatch,
     TextItemGenerationPrompt,
     TextItemGenerationPromptConfig,
 )
@@ -17,7 +17,7 @@ def append_item_title(
 def append_item_title_and_descriptions(
     base_text: str,
     title: str,
-    descriptions: Optional[list[str]],
+    descriptions: t.Optional[list[t.Union[str, dict]]] = None,
 ) -> str:
     text = base_text
     if descriptions is None or len(descriptions) == 0:
@@ -33,24 +33,24 @@ def append_item_title_and_descriptions(
 
 def create_text_item_generation_prompt_from_config(
     config: TextItemGenerationPromptConfig,
-    human_description_batch: HumanTextItemDescriptionBatch,
+    source_description_batch: TextItemDescriptionBatch,
 ) -> TextItemGenerationPrompt:
     prompt_text = config.prompt_base_text
-    if not config.include_human_descriptions:
+    if not config.include_descriptions:
         prompt_text = append_item_title(
             base_text=config.prompt_base_text,
-            title=human_description_batch.title,
+            title=source_description_batch.title,
         )
-    elif config.include_human_descriptions == True:
+    elif config.include_descriptions == True:
         prompt_text = append_item_title_and_descriptions(
             base_text=config.prompt_base_text,
-            title=human_description_batch.title,
-            descriptions=human_description_batch.descriptions,
+            title=source_description_batch.title,
+            descriptions=source_description_batch.descriptions,
         )
     
     return TextItemGenerationPrompt(
         item_type=config.item_type,
-        item_title=human_description_batch.title,
+        item_title=source_description_batch.title,
         prompt_text=prompt_text,
         prompt_uid=hashlib.md5(prompt_text.encode('utf-8')).hexdigest(),
         prompt_nickname=config.prompt_nickname,

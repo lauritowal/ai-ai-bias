@@ -5,11 +5,18 @@ from llm_descriptions_generator.file_io import (
     generate_descriptions_filepath,
     load_description_batch_from_json_file,
     load_all_human_description_batches,
+    load_all_llm_json_summary_batches,
     save_description_batch_to_json_file,
 )
 from llm_descriptions_generator.prompt_generation import create_text_item_generation_prompt_from_config
 from llm_descriptions_generator.query_llm import generate_llm_descriptions
-from llm_descriptions_generator.schema import Engine, LlmGeneratedTextItemDescriptionBatch, Origin
+from llm_descriptions_generator.schema import (
+    PromptDescriptionSource,
+    Engine,
+    LlmGeneratedTextItemDescriptionBatch,
+    Origin,
+    TextItemDescriptionBatch,
+)
 
 DEFAULT_ENGINE = Engine.gpt35turbo
 
@@ -24,15 +31,22 @@ def generate_llm_descriptions_for_item_type(
         prompt_nickname=prompt_nickname,
     )
 
-    human_text_item_descriptions = load_all_human_description_batches(
-        item_type=item_type,
-    )
+    source_description_batches: list[TextItemDescriptionBatch] = []
+
+    if generation_config.description_source == PromptDescriptionSource.Human:
+        source_description_batches = load_all_human_description_batches(
+            item_type=item_type,
+        )
+    elif generation_config.description_source == PromptDescriptionSource.LLM_JSON_Summary:
+        source_description_batches = load_all_llm_json_summary_batches(
+            item_type=item_type,
+        )
     llm_description_batches: list[LlmGeneratedTextItemDescriptionBatch] = []
 
-    for human_description_batch in human_text_item_descriptions:
+    for source_description_batch in source_description_batches:
         generation_prompt = create_text_item_generation_prompt_from_config(
             config=generation_config,
-            human_description_batch=human_description_batch,
+            source_description_batch=source_description_batch,
         )
 
         filepath = generate_descriptions_filepath(
@@ -71,6 +85,7 @@ def generate_llm_descriptions_for_item_type(
                 generation_prompt=generation_prompt,
                 description_count=1,
                 llm_engine=llm_engine,
+                output_description_type=generation_config.output_description_type,
             )
             # merge existing descriptions with new
             if existing_llm_description_batch:

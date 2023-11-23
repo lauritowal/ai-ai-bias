@@ -1,9 +1,11 @@
+import json
 import logging
 import time
+import typing as t
 
 import langchain
 from interlab.lang_models import query_model
-from interlab.queries import QueryFailure
+from interlab.queries import QueryFailure, query_for_json
 from interlab.queries.experimental.repeat import repeat_on_failure
 from openai.error import (
     APIError,
@@ -13,6 +15,7 @@ from openai.error import (
 )
 
 from llm_descriptions_generator.schema import (
+    ProductDetailsJson,
     Engine,
     LlmGeneratedTextItemDescriptionBatch,
     TextItemGenerationPrompt,
@@ -27,6 +30,7 @@ def generate_llm_descriptions(
     generation_prompt: TextItemGenerationPrompt,
     description_count: int,
     llm_engine: Engine,
+    output_description_type: t.Optional[t.Any] = None,
 ) -> LlmGeneratedTextItemDescriptionBatch:
     logging.info(
         "Querying LLM for new description for prompt uid: "
@@ -41,9 +45,11 @@ def generate_llm_descriptions(
     engine = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
 
     for i in range(description_count):
-        def query_llm_for_new_description():
+        def query_llm_for_new_description() -> t.Union[str, ProductDetailsJson]:
             # TODO: make retry logic more flexible and/or better integrated with interlab/langchain tooling
             try:
+                if output_description_type:
+                    return query_for_json(engine, output_description_type, generation_prompt.prompt_text)
                 return query_model(engine, generation_prompt.prompt_text)
             except (APIError, Timeout, APIConnectionError) as e:
                 retry_interval = SUPER_RETRY_WAIT_INTERVAL_SECONDS
@@ -65,7 +71,12 @@ def generate_llm_descriptions(
             throw_if_fail=True,
         )
         
-        descriptions.append(desc)
+        if output_description_type:
+            product_name = desc.product_name
+            product_details = json.loads(desc.product_details) if isinstance(desc.product_details, str) else desc.product_details
+            descriptions.append({"product_name": product_name, "product_details": product_details})
+        else:
+            descriptions.append(desc)
 
     llm_description_batch = LlmGeneratedTextItemDescriptionBatch(
         item_type=generation_prompt.item_type,

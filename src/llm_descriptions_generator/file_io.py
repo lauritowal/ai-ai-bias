@@ -157,6 +157,31 @@ def load_all_human_description_batches(
     return human_item_description_batches
 
 
+def load_all_llm_json_summary_batches(
+    item_type: str,
+) -> list[LlmGeneratedTextItemDescriptionBatch]:
+    LATEST_JSON_SUMMARY_ENGINE = Engine.gpt4turbo
+    LATEST_JSON_SUMMARY_PROMPT_NICKNAME = "jsonify_key_details"
+    
+    dirpath = generate_descriptions_dirpath(
+        item_type=item_type,
+        origin=Origin.LLM,
+        llm_engine=LATEST_JSON_SUMMARY_ENGINE,
+    )
+    filepaths = dirpath.glob("*.json")
+
+    description_batches: list[LlmGeneratedTextItemDescriptionBatch] = [
+        load_description_batch_from_json_file(filepath) for filepath in filepaths
+    ]
+
+    json_summary_description_batches = [
+        db for db in description_batches
+        if db.generation_prompt_nickname == LATEST_JSON_SUMMARY_PROMPT_NICKNAME
+    ]
+
+    return json_summary_description_batches
+
+
 def load_all_llm_description_batches(
     item_type: str,
     title: Optional[str] = None,
