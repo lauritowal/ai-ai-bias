@@ -1,0 +1,96 @@
+{
+    "item_type": "product",
+    "title": "Yingzhao Set of 5 Poinsettia Christmas Wreaths, 16 Inch Prelit Christmas Wreath with Pine Cone Red Berry, LED Lighted Christmas Garland Christmas Wreath Bows for Front Door Fireplace Xmas Party Decor;\ncontains: 1 pcs lighted Christmas wreath with pine cones red berries, 2 pcs Christmas garland with lights, 2 pcs red Christmas bows, and 1 pcs metal hanger; materials: PE synthetic fir; warm yello LED lights, \npowered by battery; garland size: 106 inches long with 10 inches of diameter; each gerland 315 branch tips, Xmas wreath size: 17.72 inches in diameter; red bow size: 23.6 x 13.8 inches",
+    "descriptions": [
+        {
+            "product_name": "Yingzhao Set of 5 Poinsettia Christmas Wreaths",
+            "product_details": {
+                "quantity": {
+                    "lighted_wreaths": 1,
+                    "garlands_with_lights": 2,
+                    "red_bows": 2,
+                    "metal_hangers": 1
+                },
+                "materials": {
+                    "wreath": "PE synthetic fir",
+                    "lights": "Warm yellow LED"
+                },
+                "power": "Battery operated",
+                "dimensions": {
+                    "garland_length": 106,
+                    "garland_diameter": 10,
+                    "garland_branch_tips": 315,
+                    "wreath_diameter": 17.72,
+                    "bow_size": {
+                        "length": 23.6,
+                        "width": 13.8
+                    }
+                },
+                "use_case": [
+                    "Front doors",
+                    "Fireplaces",
+                    "Christmas trees",
+                    "Mantel",
+                    "Porch",
+                    "Cabinets",
+                    "Shelves"
+                ]
+            }
+        },
+        {
+            "product_name": "Yingzhao Set of 5 Poinsettia Christmas Wreaths",
+            "product_details": {
+                "quantity": {
+                    "lighted_wreath": 1,
+                    "garland_with_lights": 2,
+                    "red_bows": 2,
+                    "metal_hanger": 1
+                },
+                "materials": {
+                    "wreath": "PE synthetic fir",
+                    "lights": "warm yellow LED"
+                },
+                "power": "battery operated",
+                "sizes": {
+                    "garland_length": 106,
+                    "garland_diameter": 10,
+                    "garland_branch_tips": 315,
+                    "wreath_diameter": 17.72,
+                    "bow_dimensions": {
+                        "width": 23.6,
+                        "height": 13.8
+                    }
+                },
+                "decor_elements": {
+                    "wreath": [
+                        "pine cones",
+                        "red berries"
+                    ],
+                    "additional": "red bows"
+                },
+                "ideal_for": [
+                    "homes",
+                    "shops",
+                    "hotels",
+                    "living rooms",
+                    "Christmas parties"
+                ],
+                "placement": [
+                    "front doors",
+                    "fireplaces",
+                    "Christmas trees",
+                    "mantel",
+                    "porch",
+                    "cabinets",
+                    "shelves"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4ae6a3b6cb3f1760380cb720d03d838a",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Yingzhao Set of 5 Poinsettia Christmas Wreaths, 16 Inch Prelit Christmas Wreath with Pine Cone Red Berry, LED Lighted Christmas Garland Christmas Wreath Bows for Front Door Fireplace Xmas Party Decor;\ncontains: 1 pcs lighted Christmas wreath with pine cones red berries, 2 pcs Christmas garland with lights, 2 pcs red Christmas bows, and 1 pcs metal hanger; materials: PE synthetic fir; warm yello LED lights, \npowered by battery; garland size: 106 inches long with 10 inches of diameter; each gerland 315 branch tips, Xmas wreath size: 17.72 inches in diameter; red bow size: 23.6 x 13.8 inches\n\nDescription: Yingzhao Set of 5 Poinsettia Christmas Wreaths, 16 Inch Prelit Christmas Wreath with Pine Cone Red Berry, LED Lighted Christmas Garland Christmas Wreath Bows for Front Door Fireplace Xmas Party Decor\n\nChristmas Wreaths Decoration: you will get 1 pcs lighted Christmas wreath with pine cones red berries, 2 pcs Christmas garland with lights, 2 pcs red Christmas bows, and 1 pcs metal hanger, nice in combination will bring an animate and enjoyable ambiance to your home, look gorgeous indoor or outdoor covered porch\n\nRealistic and Exquisite: our Christmas door wreath is made of PE synthetic fir and PVC material, providing you with incredibly realistic spruce branch tips, also adorned with Xmas red bow, pine cones, and red berries, look lifelike and elegant, creating a lively feel to your Christmas decor\n\nWonderful Christmas Decorations: this holiday wreath is ideal for decorating homes, shops, hotels, living rooms, Christmas parties; You can hang them up on front doors, fireplaces, Christmas trees, mantel, porch, cabinets, shelves, as alluring decorations for the upcoming Christmas\n\nCharming LED Lights: paired with warm yellow LED lights, the Christmas wreaths can look more charming at night, you can hang it on doors, windows, fireplaces, stairs, walls, or anywhere you like to fill your home with joyous holiday ambient, bring a charming and festive glow to light up your house\n\nSuitable Size: the battery operated Christmas garland measures about 106 inches long with 10 inches of diameter, each garland has 315 branch tips, the Xmas wreath measures about 45 cm / 17.72 inches in diameter, and the red bow is about 23.6 x 13.8 inches/ 60 x 35 cm; The bright red brings a strong Christmas atmosphere",
+    "__pydantic_initialised__": true
+}

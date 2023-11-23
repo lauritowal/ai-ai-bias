@@ -1,0 +1,48 @@
+{
+    "item_type": "product",
+    "title": "Stainless Steel Refrigerator Shovel Ice Scraper Removal Deicing Tool Kitchen;\nstainless stell and PP material; colors: blue, gray, pink; size: 17x4.5 cm;",
+    "descriptions": [
+        {
+            "product_name": "Stainless Steel Refrigerator Shovel Ice Scraper Removal Deicing Tool Kitchen",
+            "product_details": {
+                "material": "stainless steel and PP",
+                "colors": [
+                    "blue",
+                    "gray",
+                    "pink"
+                ],
+                "size": "17x4.5 cm"
+            }
+        },
+        {
+            "product_name": "Stainless Steel Refrigerator Shovel Ice Scraper Removal Deicing Tool Kitchen",
+            "product_details": {
+                "material": "stainless steel and PP",
+                "colors": [
+                    "blue",
+                    "gray",
+                    "pink"
+                ],
+                "size": "17x4.5 cm"
+            }
+        },
+        {
+            "product_name": "Stainless Steel Refrigerator Shovel Ice Scraper Removal Deicing Tool Kitchen",
+            "product_details": {
+                "material": "stainless steel and PP",
+                "colors": [
+                    "blue",
+                    "gray",
+                    "pink"
+                ],
+                "size": "17x4.5 cm"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8876997895923ee5b4a0ea05d2346fcf",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Stainless Steel Refrigerator Shovel Ice Scraper Removal Deicing Tool Kitchen;\nstainless stell and PP material; colors: blue, gray, pink; size: 17x4.5 cm;\n\nDescription: Introducing the Brand New and high-quality Fridge Ice Scraper! Made of durable stainless steel and PP material, this ice remover is built to last. Its purpose is to clean the ice and frost on your fridge, keeping it tidy and clean. This practical mini ice shovel is perfect for household requirements. It comes in Blue, Grey, and Pink colors and measures approximately 17 x 4.5 cm. The package includes one Fridge Ice Scraper. Please note that there may be a 1-5mm measuring deviation due to manual measurement, and the actual color of the item may differ slightly from the color shown in the pictures due to different monitors and lighting effects. Say goodbye to the hassle of removing ice from your fridge with this efficient and practical Fridge Ice Scraper!",
+    "__pydantic_initialised__": true
+}

@@ -1,0 +1,54 @@
+{
+    "item_type": "product",
+    "title": "Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat with Easy-Cinch Yoga Mat Carrier Strap, 72\"L x 24\"W x 2/5 Inch Thick; color: teal",
+    "descriptions": [
+        {
+            "product_name": "Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat with Easy-Cinch Yoga Mat Carrier Strap",
+            "product_details": {
+                "length": "72L",
+                "width": "24W",
+                "thickness": "2/5 Inch Thick",
+                "color": "teal",
+                "material": "NBR foam",
+                "weight": "3.11 pounds",
+                "suitable_for": [
+                    "yoga",
+                    "Pilates",
+                    "floor exercises"
+                ],
+                "features": {
+                    "extra_thick": true,
+                    "soft_cushion": true,
+                    "includes_carrier_strap": true
+                }
+            }
+        },
+        {
+            "product_name": "Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat",
+            "product_details": {
+                "length": "72 inches",
+                "width": "24 inches",
+                "thickness": "2/5 inch",
+                "color": "teal",
+                "material": "NBR foam",
+                "weight": "3.11 pounds",
+                "suitable_for": [
+                    "yoga",
+                    "Pilates",
+                    "floor exercises"
+                ],
+                "features": {
+                    "extra_thick": true,
+                    "soft_cushion": true,
+                    "includes_carrier_strap": true
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "066cefbbecf67d7954c02dc04a505a2c",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat with Easy-Cinch Yoga Mat Carrier Strap, 72\"L x 24\"W x 2/5 Inch Thick; color: teal\n\nDescription: Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat with Easy-Cinch Yoga Mat Carrier Strap, 72\"L x 24\"W x 2/5 Inch Thick; teal\n\nFITNESS & EXERCISE MAT: Classic yoga mat is great for all types of fitness and exercise routines including yoga, Pilates and any floor exercise where additional cushion and support is appreciated.\n\nEXTRA THICK YOGA MAT: These 2/5 inch exercise mats make for the ideal all purpose fitness mat in the studio or at home, even around the house under knees or as a standing pad or cushion.\n\nSOFT CUSHION: This yoga mat made of NBR foam is designed to provide soft cushioning with the padded material for comfortable stretching and posing - an ideal yoga mat for beginners with comfort in mind.\n\nINCLUDES YOGA MAT CARRIER STRAP: Included with your yoga mat is a carrying strap so you can strap up your mat and go.\n\nDIMENSIONS: 72 inches L x 24 inches W x 2/5 Inch (3.11 pounds).",
+    "__pydantic_initialised__": true
+}

@@ -1,0 +1,38 @@
+{
+    "item_type": "product",
+    "title": "Board game Azul",
+    "descriptions": [
+        {
+            "product_name": "Board game Azul",
+            "product_details": {
+                "Brand": "Next Move",
+                "Material": "Paper",
+                "Theme": "Patterns",
+                "Genre": "Family",
+                "Number_of_Players": "2-4",
+                "Designer": "Michael Riesling",
+                "Components_Quality": "High-quality"
+            }
+        },
+        {
+            "product_name": "Board game Azul",
+            "product_details": {
+                "Brand": "Next Move",
+                "Material": "Paper",
+                "Theme": "Patterns",
+                "Genre": "Family",
+                "Number_of_Players": {
+                    "Min": 2,
+                    "Max": 4
+                },
+                "Designed_by": "Michael Riesling"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "831dd6927dc9b2aa20c226804eae458a",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Board game Azul\n\nDescription: Board game Azul\n\n* Brand: Next Move\n* Material: Paper\n* Theme: Patterns\n* Genre: Family\n* Number of Players: 2-4\n\nBECOME AN ARTISAN: Craft exquisite tile mosaics in this award-winning board game.\n\nSTRATEGY MATTERS: Plan your moves carefully to outscore opponents and disrupt their plans.\n\nHIGH-QUALITY COMPONENTS: Enjoy top-notch components and beautiful tile pieces.\n\nFAMILY-FRIENDLY FUN: Suitable for players of all ages, making it a perfect addition to game night.\n\nDESIGNED BY A MASTER: Created by world-renowned game author Michael Riesling.",
+    "__pydantic_initialised__": true
+}
