@@ -3,3 +3,4 @@ pexpect==4.8.0 ; python_version >= "3.10" and python_version < "4.0" and sys_pla
 python-dotenv==1.0.0
 langchain==0.0.335
 interlab==0.3.5
+click>=8.1.7
