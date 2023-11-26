@@ -82,7 +82,7 @@ def generate_descriptions_dirpath(
         return DATA_DIR / item_type_dirname / origin_dirname
     if origin == Origin.LLM:
         if not llm_engine:
-            raise "Generating LLM description filepaths requires explicit `llm_engine`"
+            raise Exception("Generating LLM description filepaths requires explicit `llm_engine`")
         llm_engine_dirname = standardize_for_filepath(llm_engine)
         return DATA_DIR / item_type_dirname / origin_dirname / llm_engine_dirname
     raise f"Unrecognized origin: '{origin}'"
@@ -154,6 +154,7 @@ def load_all_human_description_batches(
     human_item_description_batches = [
         load_description_batch_from_json_file(filepath) for filepath in filepaths
     ]
+
     return human_item_description_batches
 
 
@@ -217,4 +218,6 @@ def load_all_llm_description_batches(
         llm_description_batches.append(
             load_description_batch_from_json_file(filepath=filepath)
         )
+
+        print("filepath llms", filepath)
     return llm_description_batches
