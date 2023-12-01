@@ -170,3 +170,6 @@ start.sh
 
 # don't commit output file
 tmp
+
+# oversized hammer that enables sharing cached runs
+!context_cache/**/*.gz
