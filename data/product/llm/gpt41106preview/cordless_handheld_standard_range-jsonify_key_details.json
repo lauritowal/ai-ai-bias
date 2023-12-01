@@ -5,6 +5,37 @@
         {
             "product_name": "Cordless Handheld Standard Range Area Imager Kit with Presentation Cradle and USB Kit, Black",
             "product_details": {
+                "compatible_devices": [
+                    "Laptop",
+                    "Desktop"
+                ],
+                "power_source": [
+                    "Corded Electric",
+                    "USB Cable",
+                    "3 AAA batteries"
+                ],
+                "brand": "ZEBRA",
+                "connectivity_technology": "USB Cable",
+                "number_of_batteries": 3,
+                "battery_type": "AAA",
+                "scanner_type": "1D/2D Imager",
+                "use_case": "General Purpose",
+                "intended_industry": [
+                    "Retail",
+                    "Hospitality"
+                ],
+                "features": {
+                    "ergonomic_design": true,
+                    "lightweight": true,
+                    "omni_directional_scanning": true,
+                    "pre_configured": true,
+                    "auto_host_cables": true
+                }
+            }
+        },
+        {
+            "product_name": "Cordless Handheld Standard Range Area Imager Kit with Presentation Cradle and USB Kit, Black",
+            "product_details": {
                 "Compatible_Devices": [
                     "Laptop",
                     "Desktop"

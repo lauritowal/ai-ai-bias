@@ -5,6 +5,36 @@
         {
             "product_name": "Logitech Trackman Marble 2017 Trackball Mouse",
             "product_details": {
+                "connectivity": [
+                    "PS/2",
+                    "USB"
+                ],
+                "DPI": 300,
+                "colors": [
+                    "red",
+                    "gray",
+                    "white"
+                ],
+                "dimensions": {
+                    "length": 7,
+                    "height": 2.5,
+                    "width": 4
+                },
+                "features": {
+                    "trackball": true,
+                    "side_to_side_scrolling": true,
+                    "two_buttons": true
+                },
+                "suitability": {
+                    "left_handed": true,
+                    "right_handed": true
+                },
+                "origin_country": "China"
+            }
+        },
+        {
+            "product_name": "Logitech Trackman Marble 2017 Trackball Mouse",
+            "product_details": {
                 "type": "Trackball Mouse",
                 "connectivity": [
                     "PS/2",

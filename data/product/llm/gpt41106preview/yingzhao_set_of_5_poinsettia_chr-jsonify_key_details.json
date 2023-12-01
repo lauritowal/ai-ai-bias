@@ -6,6 +6,56 @@
             "product_name": "Yingzhao Set of 5 Poinsettia Christmas Wreaths",
             "product_details": {
                 "quantity": {
+                    "lighted_wreath": 1,
+                    "garlands_with_lights": 2,
+                    "red_bows": 2,
+                    "metal_hanger": 1
+                },
+                "materials": {
+                    "wreath": "PE synthetic fir",
+                    "lights": "warm yellow LED"
+                },
+                "power": "battery",
+                "sizes": {
+                    "garland": {
+                        "length": 106,
+                        "diameter": 10,
+                        "branch_tips": 315
+                    },
+                    "wreath_diameter": 17.72,
+                    "bow": {
+                        "width": 23.6,
+                        "height": 13.8
+                    }
+                },
+                "decor_elements": {
+                    "wreath": [
+                        "pine cones",
+                        "red berries"
+                    ],
+                    "garland": [
+                        "LED lights"
+                    ],
+                    "bows": [
+                        "red"
+                    ]
+                },
+                "usage": [
+                    "front door",
+                    "fireplace",
+                    "Christmas tree",
+                    "mantel",
+                    "porch",
+                    "cabinets",
+                    "shelves"
+                ],
+                "occasion": "Christmas"
+            }
+        },
+        {
+            "product_name": "Yingzhao Set of 5 Poinsettia Christmas Wreaths",
+            "product_details": {
+                "quantity": {
                     "lighted_wreaths": 1,
                     "garlands_with_lights": 2,
                     "red_bows": 2,

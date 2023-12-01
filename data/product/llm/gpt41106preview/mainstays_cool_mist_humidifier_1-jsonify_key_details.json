@@ -5,6 +5,24 @@
         {
             "product_name": "Mainstays Cool Mist Humidifier, 1 gallon, Black",
             "product_details": {
+                "tank_capacity": "1 gallon",
+                "color": "Black",
+                "technology": "Cool mist evaporative",
+                "low_tank_indicator": true,
+                "dishwasher_safe": true,
+                "humidity_capacity_ml_per_hour": 142,
+                "aroma_tray": true,
+                "speed_settings": 3,
+                "control_type": "mechanical knob",
+                "coverage_area_sq_ft": 320,
+                "weight_lbs": 6.33,
+                "replacement_filter": "BestAir H62",
+                "empty_tank_protection": true
+            }
+        },
+        {
+            "product_name": "Mainstays Cool Mist Humidifier, 1 gallon, Black",
+            "product_details": {
                 "color": "Black",
                 "capacity_gallons": 1,
                 "mist_type": "Cool Mist",

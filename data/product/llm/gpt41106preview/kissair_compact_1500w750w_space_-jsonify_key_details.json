@@ -3,6 +3,45 @@
     "title": "KISSAIR Compact 1500W/750W Space Heater with Thermostat - ETL Certified Ceramic Portable Heater Fan, Ideal for Home/Dorm/Office/Kitchen, Black; indoor, electric, size: 7.72\" x 6.38\" x 9.13\"; weight: 2.6 pounds, three modes: heating 750W, heating 1500W, air circulation; safety: automatically turns off at 45 degrees; delivers heating in 2 seconds, PTC (Positive Temperature Coefficient), noise below 45 dB",
     "descriptions": [
         {
+            "product_name": "KISSAIR Compact Space Heater with Thermostat",
+            "product_details": {
+                "power_options": {
+                    "low_heat": "750W",
+                    "high_heat": "1500W",
+                    "air_circulation": "Fan mode"
+                },
+                "safety_features": {
+                    "overheat_protection": true,
+                    "tip_over_protection": {
+                        "shutoff_angle": "45 degrees"
+                    }
+                },
+                "dimensions": {
+                    "width": "7.72 inches",
+                    "depth": "6.38 inches",
+                    "height": "9.13 inches"
+                },
+                "weight": "2.6 pounds",
+                "certifications": [
+                    "ETL"
+                ],
+                "ideal_for": [
+                    "Home",
+                    "Dorm",
+                    "Office",
+                    "Kitchen"
+                ],
+                "color": "Black",
+                "type": "indoor",
+                "power_source": "electric",
+                "heating_element": "PTC",
+                "quick_heating": {
+                    "time_to_heat": "2 seconds"
+                },
+                "noise_level": "below 45 dB"
+            }
+        },
+        {
             "product_name": "KISSAIR Compact 1500W/750W Space Heater with Thermostat",
             "product_details": {
                 "brand": "KISSAIR",

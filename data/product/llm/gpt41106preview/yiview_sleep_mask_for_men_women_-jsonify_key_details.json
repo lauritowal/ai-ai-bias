@@ -7,6 +7,39 @@
             "product_details": {
                 "light_blocking": "100%",
                 "design": "3D ergonomic",
+                "eye_space": "Deeper and wider eye pockets",
+                "pressure": "Zero pressure on eyeballs",
+                "makeup_friendly": true,
+                "material": {
+                    "memory_foam": "Slow rebound",
+                    "skin_friendly": true,
+                    "lightweight": true,
+                    "fabric_quality": "Smooth, lint-free, fade-resistant"
+                },
+                "durability": {
+                    "edge_sealing_process": "Advance",
+                    "sturdy": true,
+                    "durable": true,
+                    "marks_on_face": "None"
+                },
+                "use_cases": [
+                    "office naps",
+                    "airplane travel",
+                    "nighttime sleep",
+                    "camping"
+                ],
+                "strap": {
+                    "type": "adjustable buckle",
+                    "suitable_for": "different head sizes and shapes",
+                    "tangle_free": true
+                }
+            }
+        },
+        {
+            "product_name": "YIVIEW Sleep Mask for Men Women",
+            "product_details": {
+                "light_blocking": "100%",
+                "design": "3D ergonomic",
                 "eye_mask_type": "Night Sleeping Blindfold",
                 "pressure": "Zero Pressure Eye Cover",
                 "material": "Memory Foam",

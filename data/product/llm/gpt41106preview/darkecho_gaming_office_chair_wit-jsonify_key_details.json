@@ -8,6 +8,73 @@
                 "color": "Purple",
                 "material": "Premium soft PU leather",
                 "stitching": "Hand-sewing diamond cross stitching",
+                "lumbar_pillow": {
+                    "USB_powered": true,
+                    "massage_function": true
+                },
+                "reclining": {
+                    "range": {
+                        "min": 90,
+                        "max": 155
+                    }
+                },
+                "swivel": "360°",
+                "height_adjustable": true,
+                "rocking": "15°",
+                "armrests": {
+                    "adjustable": {
+                        "vertical": true,
+                        "horizontal": true
+                    },
+                    "material": "Soft PU leather coated"
+                },
+                "frame": "Integrated metal",
+                "wheelbase": {
+                    "type": "5-point heavy duty anti-rollover",
+                    "rolling_tests": "2000 miles"
+                },
+                "chassis": "Thickened explosion-proof",
+                "tilt_mechanism": {
+                    "adjustable_angle_range": {
+                        "min": 90,
+                        "max": 155
+                    },
+                    "safety_lock": true
+                },
+                "gas_cylinder": "SGS and BIFMA certificated",
+                "weight_capacity": 330,
+                "warranty": {
+                    "return_policy": "One-month free return",
+                    "parts_replacement": "5 years"
+                },
+                "seat_cushion": {
+                    "thickness": 4.3,
+                    "material": "High density shaped foam"
+                },
+                "ergonomics": {
+                    "retractable_footrest": true,
+                    "headrest": "Detachable and adjustable",
+                    "lumbar_support": "Adjustable pillow"
+                },
+                "suitability": [
+                    "Gaming",
+                    "Office"
+                ],
+                "assembly": {
+                    "easy_to_assemble": true,
+                    "pre-assembled_screws": true
+                },
+                "customer_service": {
+                    "24_7_support": true
+                }
+            }
+        },
+        {
+            "product_name": "Darkecho Gaming Office Chair with Footrest Massage Racing Ergonomic Leather Reclining Video Game Chair",
+            "product_details": {
+                "color": "Purple",
+                "material": "Premium soft PU leather",
+                "stitching": "Hand-sewing diamond cross stitching",
                 "features": {
                     "lumbar_pillow": {
                         "USB_powered": true,

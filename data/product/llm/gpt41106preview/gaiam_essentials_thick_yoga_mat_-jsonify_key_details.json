@@ -3,6 +3,29 @@
     "title": "Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat with Easy-Cinch Yoga Mat Carrier Strap, 72\"L x 24\"W x 2/5 Inch Thick; color: teal",
     "descriptions": [
         {
+            "product_name": "Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat",
+            "product_details": {
+                "dimensions": {
+                    "length": "72 inches",
+                    "width": "24 inches",
+                    "thickness": "2/5 inch"
+                },
+                "weight": "3.11 pounds",
+                "color": "teal",
+                "material": "NBR foam",
+                "suitable_for": [
+                    "yoga",
+                    "Pilates",
+                    "floor exercises"
+                ],
+                "features": {
+                    "extra_thick": true,
+                    "soft_cushion": true,
+                    "includes_carrier_strap": true
+                }
+            }
+        },
+        {
             "product_name": "Gaiam Essentials Thick Yoga Mat Fitness & Exercise Mat with Easy-Cinch Yoga Mat Carrier Strap",
             "product_details": {
                 "length": "72L",

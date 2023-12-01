@@ -1,0 +1,80 @@
+{
+    "item_type": "product",
+    "title": "4-in-1 Kitchen Knife Accessories: 3-Stage Knife Sharpener Helps Repair, Restore, Polish Blades and Cut-Resistant Glove (Black)",
+    "descriptions": [
+        {
+            "product_name": "4-in-1 Kitchen Knife Accessories",
+            "product_details": {
+                "sharpener_stages": 3,
+                "stage_1": "diamond sharpening rod repairs and straightens damaged blades",
+                "stage_2": "sharpens to restore blade's V-shape",
+                "stage_3": "fine tunes for a clean polish",
+                "usage": "suitable for right or left-handed users",
+                "handle": "ergonomic",
+                "safety_features": {
+                    "non_slip_base": true,
+                    "cut_resistant_glove_included": true
+                },
+                "material": "solid ABS plastic",
+                "quality": "high",
+                "risk_free_purchase": {
+                    "money_back_guarantee": true,
+                    "return_policy_days": 30
+                }
+            }
+        },
+        {
+            "product_name": "4-in-1 Kitchen Knife Accessories",
+            "product_details": {
+                "sharpener_stages": 3,
+                "stage_1": "Diamond sharpening rod repairs and straightens damaged blades",
+                "stage_2": "Sharpens to restore V-shape",
+                "stage_3": "Fine tunes for a clean polish",
+                "ease_of_use": "Suitable for right or left-handed users",
+                "ergonomic_handle": true,
+                "cut_resistant_glove_included": true,
+                "safety_features": {
+                    "non_slip_base": true,
+                    "comfortable_control": true
+                },
+                "material": "Solid ABS plastic",
+                "durability": "Designed to last a lifetime",
+                "quality": "High quality",
+                "risk_free_purchase": true,
+                "money_back_guarantee": {
+                    "time_period": 30,
+                    "full_refund": true
+                }
+            }
+        },
+        {
+            "product_name": "4-in-1 Kitchen Knife Accessories",
+            "product_details": {
+                "sharpening_stages": 3,
+                "stage_1": "Diamond sharpening rod repairs and straightens damaged blades",
+                "stage_2": "Sharpens to restore V-shape",
+                "stage_3": "Fine tunes for a clean polish",
+                "usage": "Suitable for right or left-handed users",
+                "handle": "Ergonomic",
+                "safety_features": {
+                    "non_slip_base": true,
+                    "cut_resistant_glove_included": true
+                },
+                "material": "Solid ABS plastic",
+                "quality": "Premium",
+                "chef_grade": true,
+                "money_back_guarantee": {
+                    "time_period": 30,
+                    "condition": "Unconditional"
+                },
+                "color": "Black"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bd8ba80def31cc10dcf686c48a423750",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: 4-in-1 Kitchen Knife Accessories: 3-Stage Knife Sharpener Helps Repair, Restore, Polish Blades and Cut-Resistant Glove (Black)\n\nDescription: 3-Step Knife Sharpener: With our incredible 3-slot system, we’re revolutionizing the art of knife sharpening! The 1st diamond sharpening rod repairs and straightens damaged blades before the 2nd slot sharpens to restore its V-shape. Finally, the 3rd slot fine tunes for a clean polish.\n\nEasy to Use: Whether you’re right or left-handed, the ergonomic handle allows you to restore your cooking knives in a matter of seconds! Simply place the blade in each of the slots and gently pull the knife through a few times for fast, effective sharpening.\n\nCut-Resistant Glove Included: At Kitchellence, we put the safety of our customers above all else. Designed with a non-slip base, our kitchen knife sharpener offers comfortable control while you work. We’re even including a cut-resistant glove for added safety!\n\nPremium Quality: With our professional knife sharpener kit, you don’t have to be a chef to cook like one! Crafted from solid ABS plastic, it’s strong, durable and designed to last a lifetime. Made with high quality materials, knives will look and work like new.\n\nShop Risk Free: We’re so confident that you’ll love our knife sharpening kit, we’re backing each order with our unconditional money back guarantee! If you are not completely satisfied, simply return the product within 30 days and we’ll refund your purchase.",
+    "__pydantic_initialised__": true
+}

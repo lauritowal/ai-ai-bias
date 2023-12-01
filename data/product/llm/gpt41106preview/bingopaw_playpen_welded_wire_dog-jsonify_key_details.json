@@ -9,6 +9,50 @@
                     "width": 4.2,
                     "length": 4.0,
                     "height": 4.4,
+                    "units": "ft"
+                },
+                "suitability": {
+                    "indoor": true,
+                    "outdoor": true,
+                    "animals": [
+                        "dog",
+                        "chicken",
+                        "rabbit",
+                        "duck"
+                    ]
+                },
+                "construction": {
+                    "material": "galvanized metal iron",
+                    "finish": "paint-coated",
+                    "rust_resistance": true,
+                    "sharp_edges": "none"
+                },
+                "cover": {
+                    "material": "210D oxford cloth",
+                    "features": [
+                        "windproof",
+                        "weatherproof",
+                        "sunshade"
+                    ]
+                },
+                "security": {
+                    "gate_type": "solid latching swing gate",
+                    "latches": "strong"
+                },
+                "sizes_available": [
+                    "small",
+                    "large"
+                ],
+                "installation": "easy to install panels"
+            }
+        },
+        {
+            "product_name": "BingoPaw Playpen Welded Wire Dog Kennel W/ Cover",
+            "product_details": {
+                "dimensions": {
+                    "width": 4.2,
+                    "length": 4.0,
+                    "height": 4.4,
                     "unit": "ft"
                 },
                 "suitability": {

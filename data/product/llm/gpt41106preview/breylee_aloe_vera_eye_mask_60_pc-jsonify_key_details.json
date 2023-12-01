@@ -1,0 +1,121 @@
+{
+    "item_type": "product",
+    "title": "BREYLEE Aloe Vera Eye Mask– 60 Pcs - Puffy Eyes and Dark Circles Treatments – Look Younger and Reduce Wrinkles and Fine Lines Undereye, Improve and Firm eye Skin - Pure Natural Material Extraction",
+    "descriptions": [
+        {
+            "product_name": "BREYLEE Aloe Vera Eye Mask",
+            "product_details": {
+                "quantity": 60,
+                "treatment_for": [
+                    "Puffy Eyes",
+                    "Dark Circles"
+                ],
+                "benefits": [
+                    "Look Younger",
+                    "Reduce Wrinkles",
+                    "Reduce Fine Lines",
+                    "Improve Firmness",
+                    "Skin Hydration"
+                ],
+                "ingredients": [
+                    "Aloe Vera",
+                    "Collagen"
+                ],
+                "material_type": "Pure Natural Material Extraction",
+                "usage_instructions": {
+                    "application": "Clean face and eyes, apply under eyes, press gently",
+                    "duration": "20 minutes",
+                    "frequency": "Twice a day or at least once a day",
+                    "additional": "Pat remaining essence after removal"
+                },
+                "special_features": [
+                    "Moisturizing",
+                    "Anti-wrinkle",
+                    "Easy To Use",
+                    "Time Saving",
+                    "Non-slip"
+                ]
+            }
+        },
+        {
+            "product_name": "BREYLEE Aloe Vera Eye Mask",
+            "product_details": {
+                "quantity": 60,
+                "treatment_type": [
+                    "Puffy Eyes",
+                    "Dark Circles"
+                ],
+                "benefits": [
+                    "Reduces Wrinkles",
+                    "Reduces Fine Lines",
+                    "Improves Skin Firmness",
+                    "Hydrates Skin"
+                ],
+                "key_ingredients": [
+                    "Aloe Vera",
+                    "Collagen"
+                ],
+                "material_type": "Pure Natural",
+                "usage_instructions": {
+                    "initial_step": "Clean face and eyes with warm water",
+                    "application": "Place pads under eyes and press gently",
+                    "duration": "20 minutes",
+                    "frequency": "Twice a day or at least once a day",
+                    "post_application": "Remove pads and pat remaining essence"
+                },
+                "special_features": [
+                    "Easy To Use",
+                    "Time Saving",
+                    "Non-Slip"
+                ]
+            }
+        },
+        {
+            "product_name": "BREYLEE Aloe Vera Eye Mask",
+            "product_details": {
+                "quantity": 60,
+                "treatments_for": [
+                    "Puffy Eyes",
+                    "Dark Circles",
+                    "Wrinkles",
+                    "Fine Lines"
+                ],
+                "benefits": [
+                    "Look Younger",
+                    "Reduce Wrinkles",
+                    "Improve Firmness",
+                    "Firm Eye Skin"
+                ],
+                "ingredients": [
+                    "Aloe Vera",
+                    "Collagen"
+                ],
+                "material": "Pure Natural",
+                "features": {
+                    "moisturizing_effect": "long-lasting",
+                    "skin_improvement": [
+                        "refreshed",
+                        "hydrated"
+                    ],
+                    "collagen_benefits": [
+                        "strengthens skin",
+                        "improves elasticity",
+                        "enhances hydration"
+                    ],
+                    "usage": {
+                        "application": "under eyes",
+                        "duration": "20 minutes",
+                        "frequency": "twice a day or at least once a day",
+                        "additional": "non-slip, time-saving design"
+                    }
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ac7d637131469d83272d596cf0f45d12",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: BREYLEE Aloe Vera Eye Mask– 60 Pcs - Puffy Eyes and Dark Circles Treatments – Look Younger and Reduce Wrinkles and Fine Lines Undereye, Improve and Firm eye Skin - Pure Natural Material Extraction\n\nDescription: 🌿【Moisturizing】- Anti wrinkle and moisturizing effect, long-lasting moisture. With natural ingredients that provide a long-lasting moisturizing effect to the skin around the eyes. You will notice your skin refreshed and hydrated from the very first application.\n\n🌿【Puffy Eyes And Dark Circles Treatment】- under eye gel pads support smooth skin under the eyes while reducing eye bags, dark circles, wrinkles, fine lines, and puffiness. Collagen eye mask will help refresh your skin even after poor sleep.\n\n🌿【Become Younger】- Using BREYLEE collagen under eye pads are a sure way of improving your look and feel. under eye masks containing collagen which is proven to play a role in strengthening your skin, improving elasticity and hydration. Make you become younger.\n\n🌿【Easy To Use】- Clean your face and eyes with warm water, then put eye pads under your eyes and press gently to secure them. Keep it for 20 minutes, remove the eye pads and gently pat the remaining essence. Twice a day or at least once a day.\n\n🌿【Time Saving】- One side is designed with a grid, which allows you to move your body and work while using it, non-slip not to fall off and save time.",
+    "__pydantic_initialised__": true
+}
