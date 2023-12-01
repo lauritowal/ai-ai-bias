@@ -1,3 +1,5 @@
+# NOTE: superseded by scripts, e.g. scripts/generate_and_compare_descriptions.py
+
 from typing import  Any
 from pydantic.dataclasses import dataclass, Field
 from dataclasses import dataclass

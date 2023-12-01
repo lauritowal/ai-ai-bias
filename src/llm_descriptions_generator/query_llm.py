@@ -4,6 +4,7 @@ import time
 import typing as t
 
 import langchain
+from interlab.context import Context, FileStorage
 from interlab.lang_models import query_model
 from interlab.queries import QueryFailure, query_for_json
 from interlab.queries.experimental.repeat import repeat_on_failure
@@ -26,6 +27,12 @@ MAX_SUPER_RETRY_COUNT = 10
 SUPER_RETRY_WAIT_INTERVAL_SECONDS = 60
 
 
+
+# @with_context(
+#     name="generate_many_descriptions",
+#     storage=DEFAULT_STORAGE,
+#     directory=True,
+# )
 def generate_llm_descriptions(
     generation_prompt: TextItemGenerationPrompt,
     description_count: int,
@@ -44,6 +51,18 @@ def generate_llm_descriptions(
     descriptions: list[str] = []
     engine = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
 
+    # with Context(
+    #     "BATCH generate_llm_descriptions",
+    #     inputs={
+    #         "llm_engine":llm_engine,
+    #         # "output_description_type": output_description_type,
+    #         "generation_prompt": generation_prompt.__dict__,
+    #         "target_description_count": description_count
+    #     },
+    #     storage=FileStorage("logs"),
+    #     tags=["trying a thing", "runkey:foobar"],
+    #     directory=True,
+    # ) as ctx:
     for i in range(description_count):
         def query_llm_for_new_description() -> t.Union[str, ProductDetailsJson]:
             # TODO: make retry logic more flexible and/or better integrated with interlab/langchain tooling
@@ -64,19 +83,46 @@ def generate_llm_descriptions(
             except Exception as e:
                 raise e
 
+
+        # desc = repeat_on_failure(
+        #     fn=query_llm_for_new_description,
+        #     max_repeats=MAX_SUPER_RETRY_COUNT,
+        #     use_context=False,
+        #     throw_if_fail=True,
+        # )
+        # if output_description_type:
+        #     product_name = desc.product_name
+        #     product_details = json.loads(desc.product_details) if isinstance(desc.product_details, str) else desc.product_details
+        #     descriptions.append({"product_name": product_name, "product_details": product_details})
+        # else:
+        #     descriptions.append(desc)
+        
+        # with Context(
+        #     "repeat query_llm_for_new_description",
+        #     # inputs={
+        #     #     "llm_engine":llm_engine,
+        #     #     # "output_description_type": output_description_type,
+        #     #     "generation_prompt": generation_prompt.__dict__,
+        #     # },
+        #     # storage=FileStorage("logs"),
+        #     # tags=["trying a thing", "runkey:foobar"],
+        #     # directory=True,
+        # ) as ctx:
         desc = repeat_on_failure(
             fn=query_llm_for_new_description,
             max_repeats=MAX_SUPER_RETRY_COUNT,
             use_context=False,
             throw_if_fail=True,
         )
-        
+
         if output_description_type:
             product_name = desc.product_name
             product_details = json.loads(desc.product_details) if isinstance(desc.product_details, str) else desc.product_details
-            descriptions.append({"product_name": product_name, "product_details": product_details})
+            result = {"product_name": product_name, "product_details": product_details}
         else:
-            descriptions.append(desc)
+            result = desc
+
+        descriptions.append(result)
 
     llm_description_batch = LlmGeneratedTextItemDescriptionBatch(
         item_type=generation_prompt.item_type,
