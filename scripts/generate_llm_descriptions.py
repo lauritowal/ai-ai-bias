@@ -8,10 +8,51 @@ from llm_descriptions_generator.schema import Engine
 from llm_descriptions_generator.config import TEXT_GENERATION_PROMPT_CONFIG
 from llm_descriptions_generator.llm_descriptions import generate_llm_descriptions_for_item_type
 
-# ENGINE = Engine.gpt35turbo
-# ENGINE = Engine.gpt4
-ENGINE = Engine.gpt4turbo
+DEFAULT_ENGINE = Engine.gpt4turbo
 
+engine_choices = [e.value for e in Engine]
+
+
+def batch_gen_descriptions(
+    item_type: str,
+    prompt_nickname: str,
+    target_count: int,
+    all_combos: bool,
+    item_title_like: list[str],
+    engine: str,
+) -> None:
+    if all_combos:
+        item_prompts_to_generate: list[(str, str)] = []
+        for item_type in TEXT_GENERATION_PROMPT_CONFIG:
+            item_prompts_to_generate += [
+                (item_type, prompt_config.prompt_nickname)
+                for prompt_config in TEXT_GENERATION_PROMPT_CONFIG[item_type]
+            ]
+    else:
+        item_prompts_to_generate: list[(str, str)] = [(item_type, prompt_nickname)]
+    
+    llm_engine = Engine(engine)
+    logging.info(f"""
+Running item description generator with the following options:
+- LLM Engine: {llm_engine}
+- Target Description Count: {target_count}
+- Item Type & Prompts to iterate over: {item_prompts_to_generate}
+"""
+    )
+    llm_description_batches = []
+    for (item, nickname) in item_prompts_to_generate:
+        llm_description_batch = generate_llm_descriptions_for_item_type(
+            item_type=item,
+            prompt_nickname=nickname,
+            description_count=target_count,
+            llm_engine=llm_engine,
+            item_title_like=item_title_like if item_title_like else None,
+        )
+        llm_description_batches.append(llm_description_batch)
+    logging.info("Generation done")
+    return llm_description_batches
+
+# CLI func
 @click.command()
 @click.option(
     "--item-type",
@@ -38,11 +79,25 @@ ENGINE = Engine.gpt4turbo
     is_flag=True,
     help="CAUTION: Flag requesting batch generating descriptions for every prompt configuration in config.py.",
 )
-def batch_gen_descriptions(
+@click.option(
+    "--item-title-like",
+    multiple=True,
+    default=[],
+    help="(Multiple OK) Optional item title(s) (fragments ok) to limit generation script to.",
+)
+@click.option(
+    "--engine",
+    type=click.Choice(engine_choices, case_sensitive=False),
+    default=DEFAULT_ENGINE,
+    help="LLM model/engine to run description generation script with.",
+)
+def _cli_func(
     item_type: str,
     prompt_nickname: str,
     target_count: int,
     all_combos: bool,
+    item_title_like: list[str],
+    engine: str,
 ) -> None:
     if (
         (not item_type and not prompt_nickname and not all_combos)
@@ -50,31 +105,15 @@ def batch_gen_descriptions(
     ):
         logging.warning("Please provide CLI args indicating one or the other of (A) a specific --item-type and --prompt-nickname combination, or (B) the --all-combos flag.")
         exit(0)
-    if all_combos:
-        item_prompts_to_generate: list[(str, str)] = []
-        for item_type in TEXT_GENERATION_PROMPT_CONFIG:
-            item_prompts_to_generate += [
-                (item_type, prompt_config.prompt_nickname)
-                for prompt_config in TEXT_GENERATION_PROMPT_CONFIG[item_type]
-            ]
-    else:
-        item_prompts_to_generate: list[(str, str)] = [(item_type, prompt_nickname)]
-    
-    logging.info(f"""
-Running item description generator with the following options:
-- LLM Engine: {ENGINE}
-- Target Description Count: {target_count}
-- Item Type & Prompts to iterate over: {item_prompts_to_generate}
-"""
+    return batch_gen_descriptions(
+        item_type=item_type,
+        prompt_nickname=prompt_nickname,
+        target_count=target_count,
+        all_combos=all_combos,
+        item_title_like=item_title_like,
+        engine=engine,
     )
-    for (item, nickname) in item_prompts_to_generate:
-        llm_description_batch = generate_llm_descriptions_for_item_type(
-            item_type=item,
-            prompt_nickname=nickname,
-            description_count=target_count,
-            llm_engine=ENGINE,
-        )
-    logging.info("Generation done")
+
 
 if __name__ == '__main__':
-    batch_gen_descriptions()
+    _cli_func()

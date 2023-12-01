@@ -59,14 +59,17 @@ def standardize_for_filepath(text: str) -> str:
 def to_safe_filename(
     title_text: str,
     file_extension: Optional[str] = None,
-    prompt_uid: Optional[str] = None,
+    # prompt_uid: Optional[str] = None,
+    prompt_key: Optional[str] = None,
     max_title_characters: Optional[int] = 32,
 ) -> str:
     cleaned_title = standardize_for_filepath(title_text)
     cleaned_shortened_title = cleaned_title[:max_title_characters]
     filename = cleaned_shortened_title
-    if prompt_uid:
-        filename += f"-{prompt_uid}"
+    # if prompt_uid:
+    #     filename += f"-{prompt_uid}"
+    if prompt_key:
+        filename += f"-{prompt_key}"
     if file_extension:
         filename += file_extension
     return filename
@@ -82,7 +85,7 @@ def generate_descriptions_dirpath(
         return DATA_DIR / item_type_dirname / origin_dirname
     if origin == Origin.LLM:
         if not llm_engine:
-            raise "Generating LLM description filepaths requires explicit `llm_engine`"
+            raise Exception("Generating LLM description filepaths requires explicit `llm_engine`")
         llm_engine_dirname = standardize_for_filepath(llm_engine)
         return DATA_DIR / item_type_dirname / origin_dirname / llm_engine_dirname
     raise f"Unrecognized origin: '{origin}'"
@@ -93,12 +96,14 @@ def generate_descriptions_filepath(
     origin: Origin,
     file_extension: str = ".json",
     llm_engine: Optional[Engine] = None,
-    prompt_uid: Optional[str] = None,
+    # prompt_uid: Optional[str] = None,
+    prompt_key: Optional[str] = None,
 ) -> Path:
     filename = to_safe_filename(
         title_text=title,
         file_extension=file_extension,
-        prompt_uid=prompt_uid,
+        # prompt_uid=prompt_uid,
+        prompt_key=prompt_key,
     )
     dirpath = generate_descriptions_dirpath(
         item_type=item_type,
@@ -138,6 +143,8 @@ def load_description_batch_from_json_file(
 
 def load_all_human_description_batches(
     item_type: str,
+    # title: Optional[str] = None,
+    item_title_like: Optional[list[str]] = None,
     item_filename: Optional[str] = None,
 ) -> list[HumanTextItemDescriptionBatch]:
     dirpath = generate_descriptions_dirpath(
@@ -149,16 +156,24 @@ def load_all_human_description_batches(
         filepath = dirpath / item_filename
         return [load_description_batch_from_json_file(str(filepath))]
     
-    filepaths = dirpath.glob("*.json")
+    filepaths = []
+    if item_title_like:
+        for title_fragment in item_title_like:
+            partial_filename = to_safe_filename(title_text=title_fragment)
+            filepaths += dirpath.glob(f"*{partial_filename}*.json")
+    else:
+        filepaths = dirpath.glob("*.json")
 
     human_item_description_batches = [
         load_description_batch_from_json_file(filepath) for filepath in filepaths
     ]
+
     return human_item_description_batches
 
 
 def load_all_llm_json_summary_batches(
     item_type: str,
+    item_title_like: Optional[list[str]] = None,
 ) -> list[LlmGeneratedTextItemDescriptionBatch]:
     LATEST_JSON_SUMMARY_ENGINE = Engine.gpt4turbo
     LATEST_JSON_SUMMARY_PROMPT_NICKNAME = "jsonify_key_details"
@@ -168,7 +183,15 @@ def load_all_llm_json_summary_batches(
         origin=Origin.LLM,
         llm_engine=LATEST_JSON_SUMMARY_ENGINE,
     )
-    filepaths = dirpath.glob("*.json")
+
+    filepaths = []
+    if item_title_like:
+        for title_fragment in item_title_like:
+            partial_filename = to_safe_filename(title_text=title_fragment)
+            filepaths += dirpath.glob(f"*{partial_filename}*.json")
+    else:
+        filepaths = dirpath.glob("*.json")
+    # filepaths = dirpath.glob("*.json")
 
     description_batches: list[LlmGeneratedTextItemDescriptionBatch] = [
         load_description_batch_from_json_file(filepath) for filepath in filepaths
@@ -186,7 +209,8 @@ def load_all_llm_description_batches(
     item_type: str,
     title: Optional[str] = None,
     llm_engine: Optional[Engine] = None,
-    prompt_uid: Optional[str] = None,
+    # prompt_uid: Optional[str] = None,
+    prompt_nickname: Optional[str] = None,
 ) -> list[LlmGeneratedTextItemDescriptionBatch]:
     if llm_engine:
         llm_engines = [llm_engine]
@@ -204,11 +228,11 @@ def load_all_llm_description_batches(
         if title:
             partial_filename = to_safe_filename(
                 title_text=title,
-                prompt_uid=prompt_uid,
+                # prompt_uid=prompt_uid,
             )
             filepaths += dirpath.glob(f"*{partial_filename}*.json")
-        elif prompt_uid:
-            filepaths += dirpath.glob(f"*{prompt_uid}*.json")
+        # elif prompt_uid:
+        #     filepaths += dirpath.glob(f"*{prompt_uid}*.json")
         else:
             filepaths += dirpath.glob("*.json")
     
@@ -217,4 +241,12 @@ def load_all_llm_description_batches(
         llm_description_batches.append(
             load_description_batch_from_json_file(filepath=filepath)
         )
+
+        print("filepath llms", filepath)
+    
+    if prompt_nickname:
+        llm_description_batches = [
+            batch for batch in llm_description_batches
+            if batch.generation_prompt_nickname == prompt_nickname
+        ]
     return llm_description_batches
