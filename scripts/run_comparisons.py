@@ -22,7 +22,7 @@ def run_comparisons(
     comparison_prompt_key: str,
     description_engine: str,
     description_prompt_key: str,
-) -> None:
+):
     comparison_prompt_config = get_comparison_prompt_config(
         item_type=item_type,
         prompt_key=comparison_prompt_key,

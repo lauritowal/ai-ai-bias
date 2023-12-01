@@ -288,7 +288,7 @@ def compare_saved_description_batches(
     description_prompt_key: t.Optional[str] = None,
     item_title_like: t.Optional[list[str]] = None,
     storage: StorageBase = DEFAULT_STORAGE,
-) -> tuple[dict[str, list[DescriptionBattleTally]], DescriptionBattleTally]:
+) -> tuple[dict[str, DescriptionBattleTally], DescriptionBattleTally]:
     with Context(
         name="batch_compare_item_type",
         inputs={
@@ -312,7 +312,7 @@ def compare_saved_description_batches(
             item_title_like=item_title_like,
         )
 
-        tallies_by_item_title: dict[str, list[DescriptionBattleTally]] = {}
+        tallies_by_item_title: dict[str, DescriptionBattleTally] = {}
 
         total_tally: DescriptionBattleTally = {
             Origin.Human: 0,
@@ -329,50 +329,50 @@ def compare_saved_description_batches(
                 prompt_nickname=description_prompt_key,
             )
             human_descriptions = _make_descriptions_from_human_description_batch(human_description_batch)
-            for llm_description_batch in llm_description_batches:
-                llm_descriptions = _make_descriptions_from_llm_description_batch(llm_description_batch)
+            
+            # NOTE: llm_description_generation has been modified so there really should be
+            # only one batch per (item_type + engine + prompt), so just take first hit
+            llm_description_batch = llm_description_batches[0]
 
-                (winners, battle_tally) = compare_description_lists_for_one_item(
-                    llm_engine=comparison_llm_engine,
-                    comparison_prompt_config=comparison_prompt_config,
-                    storage=storage,
-                    description_list_1=human_descriptions,
-                    description_list_2=llm_descriptions
-                )
+            llm_descriptions = _make_descriptions_from_llm_description_batch(llm_description_batch)
 
-                filesafe_title = to_safe_filename(title)
+            (winners, battle_tally) = compare_description_lists_for_one_item(
+                llm_engine=comparison_llm_engine,
+                comparison_prompt_config=comparison_prompt_config,
+                storage=storage,
+                description_list_1=human_descriptions,
+                description_list_2=llm_descriptions
+            )
 
-                print(f"""
-                ------Batch Results------
+            filesafe_title = to_safe_filename(title)
 
-                item_type: {item_type}
-                item_title: {title}
-                file_title_like: {filesafe_title}
-                description_llm_engine: {description_llm_engine}
-                description_prompt_key: {description_prompt_key}
-                comparison_llm_engine: {comparison_llm_engine}
-                comparison_prompt_key: {comparison_prompt_config.prompt_key}
+            print(f"""
+            ------Batch Results------
 
-                    """)
-                print(json.dumps(battle_tally, indent=4))
-                # print(json.dumps(winners, indent=4))
+            item_type: {item_type}
+            item_title: {title}
+            file_title_like: {filesafe_title}
+            description_llm_engine: {description_llm_engine}
+            description_prompt_key: {description_prompt_key}
+            comparison_llm_engine: {comparison_llm_engine}
+            comparison_prompt_key: {comparison_prompt_config.prompt_key}
 
-                if tallies_by_item_title.get(filesafe_title, None) is None:
-                    tallies_by_item_title[filesafe_title] = []
-                tallies_by_item_title[filesafe_title].append(battle_tally)
-                # if tallies_by_item_title.get(title, None) is None:
-                #     tallies_by_item_title[title] = []
-                # tallies_by_item_title[title].append(battle_tally)
+                """)
+            print(json.dumps(battle_tally, indent=4))
+            # print(json.dumps(winners, indent=4))
 
-                total_tally[Origin.Human] += battle_tally[Origin.Human]
-                total_tally[Origin.LLM] += battle_tally[Origin.LLM]
-                total_tally["Invalid"] += battle_tally["Invalid"]
+            tallies_by_item_title[filesafe_title] = battle_tally
+
+            total_tally[Origin.Human] += battle_tally[Origin.Human]
+            total_tally[Origin.LLM] += battle_tally[Origin.LLM]
+            total_tally["Invalid"] += battle_tally["Invalid"]
 
 
         print("-----tallies_by_item_title-----")
         print(json.dumps(tallies_by_item_title, indent=4))
         print("-----total_tally-----")
         print(json.dumps(total_tally, indent=4))
+
         ctx.set_result((tallies_by_item_title, total_tally))
 
         # TODO: compute averages
