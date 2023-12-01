@@ -33,3 +33,6 @@ def get_comparison_prompt_config(
         ):
             return prompt_config
     raise Exception(f"No comparison prompt config for <item_type: {item_type}, prompt_key: {prompt_key}>")
+
+def get_all_comparison_prompt_keys_for_item_type(item_type: str) -> list[str]:
+    return [config.prompt_key for config in COMPARISON_PROMPTS if config.item_type == item_type]
