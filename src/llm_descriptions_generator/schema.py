@@ -9,7 +9,7 @@ class Origin(str, enum.Enum):
 
 class Engine(str, enum.Enum):
     gpt35turbo = "gpt-3.5-turbo"
-    gpt4 = "gpt-4"
+    # gpt4 = "gpt-4"
     gpt4turbo = "gpt-4-1106-preview"
 
 class PromptDescriptionSource(str, enum.Enum):
