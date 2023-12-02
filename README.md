@@ -97,7 +97,7 @@ python scripts/generate_and_compare_descriptions.py
     --min-description-generation-count=10
 ```
 
-NOTE/WARNING: The query above has 4^2 permutations, so it's like running a single version 16 times. Expect it to easily take 24 hours and probably exceed your openai API quota.
+NOTE/WARNING: The query above has 2^4 permutations, so it's like running a single version 16 times. Expect it to easily take 24 hours and probably exceed your openai API quota.
 
 On the other hand, the pile of data it will generate at the end is probably what we ultimately want, so if we can build up the caches to the point that this could run in <30 mins, the final output should be great.
 
