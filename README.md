@@ -176,7 +176,7 @@ NOTE: this does require committing the entire past context stack to source contr
 
 The goal is allowing an option for quickly pulling the results of a recent comparison of the same inputs by a specific LLM instead of asking for a new comparison.
 
-See https://github.com/lauritowal/ai-ai-bias/blob/dffb6f67716fbd404bbdd350f132b9654697aea6/src/llm_comparison/llm_comparison.py#L98 for (somewhat hacky) implementation. Can be expanded with more options if needed (e.g. a time filter or explicit run key).
+See [somewhat hacky implementation here](https://github.com/lauritowal/ai-ai-bias/blob/dffb6f67716fbd404bbdd350f132b9654697aea6/src/llm_comparison/llm_comparison.py#L98). Can be expanded with more options if needed (e.g. a time filter or explicit run key).
 
 
 #### Retro on custom json cache vs interlab Context
