@@ -15,7 +15,7 @@ sampled_data = random.sample(list(dataset), sample_size)
 papers_dir = DATA_DIR / "paper"
 papers_dir.mkdir(exist_ok=True, parents=True)
 for i, paper in enumerate(sampled_data):
-    with open(f'{papers_dir}/paper_{i}.json', 'w') as file:
+    with open(f'{papers_dir}/human/paper_{i}.json', 'w') as file:
         print("Generate data", i)
         example = {
             "item_type": "paper",
