@@ -12,22 +12,22 @@ Use this script: https://github.com/lauritowal/ai-ai-bias/blob/main/scripts/gene
 
 Ex: Creates/confirms 6 generated descriptions for the "from_json_details" prompt using GPT-4-turbo for every item in the "product" item type
 ```
-python scripts/generate_llm_descriptions.py
-    --item-type=product 
-    --prompt-nickname=from_json_details
-    --engine=gpt-4-1106-preview
+python scripts/generate_llm_descriptions.py \
+    --item-type=product \
+    --prompt-nickname=from_json_details \
+    --engine=gpt-4-1106-preview \
     --target-count=6
 ```
 
 Ex: Same as above but limited to product items with titles/filenames containing the string "avapow" or "cooking"
 
 ```
-python scripts/generate_llm_descriptions.py
-    --item-type=product 
-    --prompt-nickname=from_json_details
-    --engine=gpt-4-1106-preview
-    --target-count=6
-    --item-title-like=avapow
+python scripts/generate_llm_descriptions.py \
+    --item-type=product \
+    --prompt-nickname=from_json_details \
+    --engine=gpt-4-1106-preview \
+    --target-count=6 \
+    --item-title-like=avapow \
     --item-title-like=cooking
 ```
 
@@ -42,13 +42,13 @@ Use this script: https://github.com/lauritowal/ai-ai-bias/blob/main/scripts/run_
 
 Ex: Run comparisons using GPT-4-turbo and the "marketplace" prompt key in the [comparison prompt config](https://github.com/lauritowal/ai-ai-bias/blob/main/src/llm_comparison/config.py) between every human description and (existing) LLM description that was generated with GPT-3.5-turbo and the "from_json_details" prompt key in the [description prompt config](https://github.com/lauritowal/ai-ai-bias/blob/main/src/llm_descriptions_generator/config.py) for every item in the "product" category where the title/filename contains the string "avapow" or "stainless":
 ```
-python scripts/run_comparisons.py
-    --item-type=product 
-    --comparison-prompt-key=marketplace
-    --comparison-engine='gpt-4-1106-preview' 
-    --description-prompt-key=from_json_details 
-    --description-engine='gpt-3.5-turbo' 
-    --item-title-like=avapow
+python scripts/run_comparisons.py \
+    --item-type=product \
+    --comparison-prompt-key=marketplace \
+    --comparison-engine='gpt-4-1106-preview' \
+    --description-prompt-key=from_json_details \
+    --description-engine='gpt-3.5-turbo' \
+    --item-title-like=avapow \
     --item-title-like=stainless
 ```
 
@@ -66,14 +66,14 @@ Basically just combines the description generation and comparison scripts above,
 Ex: For all items with human descriptions in the "product" item_type category containing the strings "avapow" or "stainless", make sure that at least 6 LLM versions exist in the cache that were generated with GPT-3.5.-turbo using the "from_json_details" [description prompt](https://github.com/lauritowal/ai-ai-bias/blob/main/src/llm_descriptions_generator/config.py), and then run comparisons between those LLM descriptions and the human ones using GPT-4-turbo and the "marketplace" [comparison prompt](https://github.com/lauritowal/ai-ai-bias/blob/main/src/llm_comparison/config.py)
 
 ```
-python scripts/generate_and_compare_descriptions.py
-    --item-type=product 
-    --comparison-prompt-key=marketplace 
-    --comparison-engine='gpt-4-1106-preview' 
-    --description-prompt-key=from_json_details 
-    --description-engine='gpt-3.5-turbo' 
-    --item-title-like=avapow
-    --item-title-like=stainless 
+python scripts/generate_and_compare_descriptions.py \
+    --item-type=product \
+    --comparison-prompt-key=marketplace \
+    --comparison-engine='gpt-4-1106-preview' \
+    --description-prompt-key=from_json_details \
+    --description-engine='gpt-3.5-turbo' \
+    --item-title-like=avapow \
+    --item-title-like=stainless \
     --min-description-generation-count=6
 ```
 
@@ -84,16 +84,16 @@ Note: Like `item-title-like`, the `comparison-prompt-key`, `comparison-descripti
 Ex: Do a massive run that iterates through every item in the "product" category and generates/confirms LLM descriptions (at least 10 per item) and does comparisons against human text for both the "from_json_details" and "short_and_pointed" description prompts AND both the "marketplace" and "seller" comparison prompts, across all combinations of using GPT 3.5 and 4 turbo for either query role.
 
 ```
-python scripts/generate_and_compare_descriptions.py
-    --item-type=product 
-    --comparison-prompt-key=marketplace
-    --comparison-prompt-key=seller
-    --comparison-engine='gpt-3.5-turbo'
-    --comparison-engine='gpt-4-1106-preview'
-    --description-prompt-key=from_json_details
-    --description-prompt-key=short_and_pointed
-    --description-engine='gpt-3.5-turbo'
-    --description-engine='gpt-4-1106-preview'
+python scripts/generate_and_compare_descriptions.py \
+    --item-type=product \
+    --comparison-prompt-key=marketplace \
+    --comparison-prompt-key=seller \
+    --comparison-engine='gpt-3.5-turbo' \
+    --comparison-engine='gpt-4-1106-preview' \
+    --description-prompt-key=from_json_details \
+    --description-prompt-key=short_and_pointed \
+    --description-engine='gpt-3.5-turbo' \
+    --description-engine='gpt-4-1106-preview' \
     --min-description-generation-count=10
 ```
 
@@ -115,10 +115,10 @@ NOTE: We use specifically GPT-4-Turbo for this, since it seems to be reliably be
 To create additional JSON summaries, run the following command:
 
 ```
-python scripts/generate_llm_descriptions.py
-    --item-type=product
-    --prompt-nickname=jsonify_key_details
-    --engine=gpt-4-1106-preview
+python scripts/generate_llm_descriptions.py \
+    --item-type=product \
+    --prompt-nickname=jsonify_key_details \
+    --engine='gpt-4-1106-preview' \
     --target-count=3
 ```
 
