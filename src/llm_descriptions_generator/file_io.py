@@ -188,21 +188,14 @@ def load_all_llm_json_summary_batches(
     if item_title_like:
         for title_fragment in item_title_like:
             partial_filename = to_safe_filename(title_text=title_fragment)
-            filepaths += dirpath.glob(f"*{partial_filename}*.json")
+            filepaths += dirpath.glob(f"*{partial_filename}*{LATEST_JSON_SUMMARY_PROMPT_NICKNAME}*.json")
     else:
-        filepaths = dirpath.glob("*.json")
-    # filepaths = dirpath.glob("*.json")
+        filepaths = dirpath.glob(f"*{LATEST_JSON_SUMMARY_PROMPT_NICKNAME}*.json")
 
     description_batches: list[LlmGeneratedTextItemDescriptionBatch] = [
         load_description_batch_from_json_file(filepath) for filepath in filepaths
     ]
-
-    json_summary_description_batches = [
-        db for db in description_batches
-        if db.generation_prompt_nickname == LATEST_JSON_SUMMARY_PROMPT_NICKNAME
-    ]
-
-    return json_summary_description_batches
+    return description_batches
 
 
 def load_all_llm_description_batches(

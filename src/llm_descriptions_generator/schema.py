@@ -6,11 +6,17 @@ from pydantic.dataclasses import dataclass, Field
 class Origin(str, enum.Enum):
     LLM = "LLM"
     Human = "Human"
+        
+    def __str__(self):
+        return self.value
 
 class Engine(str, enum.Enum):
     gpt35turbo = "gpt-3.5-turbo"
     # gpt4 = "gpt-4"
     gpt4turbo = "gpt-4-1106-preview"
+    
+    def __str__(self):
+        return self.value
 
 class PromptDescriptionSource(str, enum.Enum):
     Human = "human"
@@ -42,7 +48,7 @@ class LlmGeneratedTextItemDescriptionBatch(TextItemDescriptionBatch):
     descriptions: list[DescriptionTextOrJson]
     origin: Origin
     llm_engine: str
-    generation_prompt_uid: str
+    generation_prompt_uid: str # @deprecated concept. do not use.
     generation_prompt_nickname: str
     generation_prompt_text: str
 
@@ -53,6 +59,7 @@ class TextItemGenerationPromptConfig:
     prompt_base_text: str
     include_descriptions: bool
     description_source: PromptDescriptionSource
+    include_title: t.Optional[bool] = True
     output_description_type: t.Optional[t.Any] = None
 
 @dataclass
