@@ -42,6 +42,30 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             description_source=PromptDescriptionSource.LLM_JSON_Summary,
             include_descriptions=True,
         ),
+        TextItemGenerationPromptConfig(
+            item_type="product",
+            prompt_nickname="from_json_product_listing",
+            prompt_base_text="Write a product listing for the product described in the following JSON data summary (or summaries).",
+            description_source=PromptDescriptionSource.LLM_JSON_Summary,
+            include_title=False,
+            include_descriptions=True,
+        ),
+        TextItemGenerationPromptConfig(
+            item_type="product",
+            prompt_nickname="from_json_avg_human",
+            prompt_base_text="You are a relatively average person (NOT a trained marketing professional) trying to sell their products on an ecommerce site. Write a description of the product outlined in the following JSON data to use as a product listing on that site.",
+            description_source=PromptDescriptionSource.LLM_JSON_Summary,
+            include_title=False,
+            include_descriptions=True,
+        ),
+        TextItemGenerationPromptConfig(
+            item_type="product",
+            prompt_nickname="from_json_non_native",
+            prompt_base_text="You are a representative from a factory in another country trying to sell your products on an ecommerce site. Write a description of the product outlined in the following JSON data to use as a product listing on that site. Pretend English is not your first language, and that you don't have any experience with infomercial-style marketing language.",
+            description_source=PromptDescriptionSource.LLM_JSON_Summary,
+            include_title=False,
+            include_descriptions=True,
+        ),
     ],
     "book_review": [
         TextItemGenerationPromptConfig(
