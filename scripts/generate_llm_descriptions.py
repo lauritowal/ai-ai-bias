@@ -1,5 +1,6 @@
 import scripts_common_setup
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import logging
 
 import click
@@ -9,6 +10,7 @@ from llm_descriptions_generator.config import TEXT_GENERATION_PROMPT_CONFIG
 from llm_descriptions_generator.llm_descriptions import generate_llm_descriptions_for_item_type
 
 DEFAULT_ENGINE = Engine.gpt4turbo
+MAX_CONCURRENT_WORKERS = 3
 
 engine_choices = [e.value for e in Engine]
 
@@ -40,15 +42,27 @@ Running item description generator with the following options:
 """
     )
     llm_description_batches = []
-    for (item, nickname) in item_prompts_to_generate:
-        llm_description_batch = generate_llm_descriptions_for_item_type(
+
+    def generate_descriptions(item, nickname):
+        return generate_llm_descriptions_for_item_type(
             item_type=item,
             prompt_nickname=nickname,
             description_count=target_count,
             llm_engine=llm_engine,
             item_title_like=item_title_like if item_title_like else None,
         )
-        llm_description_batches.append(llm_description_batch)
+
+    with ThreadPoolExecutor(max_workers=MAX_CONCURRENT_WORKERS) as executor:
+        future_to_item = {executor.submit(generate_descriptions, item, nickname): (item, nickname) for item, nickname in item_prompts_to_generate}
+        for future in as_completed(future_to_item):
+            item, nickname = future_to_item[future]
+            try:
+                llm_description_batch = future.result()
+            except Exception as exc:
+                logging.error(f'{item, nickname} generated an exception: {exc}')
+            else:
+                llm_description_batches.append(llm_description_batch)
+
     logging.info("Generation done")
     return llm_description_batches
 

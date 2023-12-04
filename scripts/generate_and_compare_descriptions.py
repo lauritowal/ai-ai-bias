@@ -1,5 +1,6 @@
 import scripts_common_setup
 
+import json
 import click
 
 from interlab.context import Context
@@ -8,12 +9,13 @@ from interlab.ext.pyplot import capture_figure
 from generate_llm_descriptions import batch_gen_descriptions
 from llm_comparison.config import get_all_comparison_prompt_keys_for_item_type
 from llm_comparison.presentation import (
+    compute_llm_win_ratio,
     compute_avg_llm_win_ratio,
     make_chart,
     make_full_comparison_label,
 )
 from llm_descriptions_generator.config import get_all_description_prompt_keys_for_item_type
-from llm_descriptions_generator.schema import Engine
+from llm_descriptions_generator.schema import Engine, Origin
 from run_comparisons import run_comparisons
 from storage import cache_friendly_file_storage
 
@@ -49,7 +51,6 @@ engine_choices = [e.value for e in Engine]
     type=str,
     multiple=True,
     required=True,
-    # default=[""],
     help="Specific comparison prompt key/nickname to run comparison script with.",
 )
 @click.option(
@@ -63,7 +64,6 @@ engine_choices = [e.value for e in Engine]
     "--description-prompt-key",
     type=str,
     multiple=True,
-    # default="",
     required=True,
     help="Specific description prompt key/nickname to run comparison script against.",
 )
@@ -82,7 +82,6 @@ def generate_and_compare_descriptions(
     description_prompt_key: str,
     min_description_generation_count: int,
 ) -> None:
-    # TODO: enable script for multiple prompt keys (or even item types?)
     print(f"""
             item_type: {item_type}
             item_title_like: {item_title_like}
@@ -121,6 +120,7 @@ def generate_and_compare_descriptions(
         },
         storage=cache_friendly_file_storage,
     ) as root_ctx:
+        results_by_item = {}
         avg_llm_win_ratio = {}
         charts = {}
 
@@ -150,12 +150,25 @@ def generate_and_compare_descriptions(
                 description_llm_engine=rp["description_engine"],
                 description_prompt_key=rp["description_prompt_key"],
             )
+            results_by_item[label] = {
+                title: {
+                    "LLM_win_ratio": compute_llm_win_ratio(tally),
+                    "Human": tally[str(Origin.Human)],
+                    "LLM": tally[str(Origin.LLM)],
+                    "Invalid": tally["Invalid"],
+                }
+                for (title, tally) in tallies_by_item_title.items()
+            }
             avg_llm_win_ratio[label] = compute_avg_llm_win_ratio(list(tallies_by_item_title.values()))
             charts[label] = capture_figure(make_chart(label, tallies_by_item_title))
 
-        # TODO: modify script to handle multiple prompt+engine configurations in one go
-        # (so the dictionaries below would contain more than one)
+        print(json.dumps({
+            "results_by_item": results_by_item,
+            "avg_llm_win_ratio": avg_llm_win_ratio,
+        }, indent=4))
+        
         root_ctx.set_result({
+            "results_by_item": results_by_item,
             "avg_llm_win_ratio": avg_llm_win_ratio,
             "charts": charts,
         })

@@ -3,6 +3,7 @@ import json
 import logging
 import random
 import typing as t
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import langchain
 from pydantic.dataclasses import dataclass, Field
@@ -31,6 +32,7 @@ rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
 # DEFAULT_RUN_KEY = "default"
 
 DEFAULT_STORAGE = cache_friendly_file_storage
+MAX_CONCURRENT_WORKERS = 3
 
 @dataclass
 class Description:
@@ -173,14 +175,15 @@ def compare_descriptions(
         
         @dataclass
         class Choice:
-            answer: int = Field(description="One of the following integers: " + or_join(list(descriptions_by_int_id.keys()))) 
+            # answer: int = Field(description="One of the following integers: " + or_join(list(descriptions_by_int_id.keys()))) 
+            answer: t.Optional[int] = Field(description=f"The integer ID (one of the following: {or_join(list(descriptions_by_int_id.keys()))} of the item that was chosen, or None if no clear choice was made." )
 
         llm_model = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
         choice_answer = query_model(llm_model, prompt)
         int_id_result: Choice = query_for_json(
             llm_model,
             Choice,
-            f"What {comparison_prompt_config.item_type_name} was chosen based on the following answer?\n\n" + choice_answer,
+            f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
         )
         chosen_int_id = str(int_id_result.answer)
         chosen_description = (
@@ -217,8 +220,8 @@ def compare_description_lists_for_one_item(
     ) as ctx:
         winning_descriptions: list[t.Optional[Description]] = []
         battle_tally: DescriptionBattleTally = {
-            Origin.Human: 0,
-            Origin.LLM: 0,
+            str(Origin.Human): 0,
+            str(Origin.LLM): 0,
             "Invalid": 0,
         }
         ordered_combos = (
@@ -236,7 +239,7 @@ def compare_description_lists_for_one_item(
             if winner is None:
                 battle_tally["Invalid"] += 1
             else:
-                battle_tally[winner.origin] += 1
+                battle_tally[str(winner.origin)] += 1
         
         ctx.set_result((winning_descriptions, battle_tally))
         
@@ -315,11 +318,14 @@ def compare_saved_description_batches(
         tallies_by_item_title: dict[str, DescriptionBattleTally] = {}
 
         total_tally: DescriptionBattleTally = {
-            Origin.Human: 0,
-            Origin.LLM: 0,
+            str(Origin.Human): 0,
+            str(Origin.LLM): 0,
             "Invalid": 0,
         }
-        for human_description_batch in human_description_batches:
+
+        def run_comparisons_for_human_description_batch(
+            human_description_batch: HumanTextItemDescriptionBatch,
+        ) -> tuple[list[t.Optional[Description]], DescriptionBattleTally]:
             title = human_description_batch.title
             logging.info(f"Starting next <{item_type}> --> '{title}'")
             llm_description_batches = load_all_llm_description_batches(
@@ -343,29 +349,47 @@ def compare_saved_description_batches(
                 description_list_1=human_descriptions,
                 description_list_2=llm_descriptions
             )
+            return (winners, battle_tally)
 
-            filesafe_title = to_safe_filename(title)
+        with ThreadPoolExecutor(max_workers=MAX_CONCURRENT_WORKERS) as thread_exec:
+            future_to_item = {
+                thread_exec.submit(
+                    run_comparisons_for_human_description_batch,
+                    human_description_batch,
+                ): human_description_batch
+                for human_description_batch in human_description_batches
+            }
 
-            print(f"""
-            ------Batch Results------
+            for future in as_completed(future_to_item):
+                human_description_batch = future_to_item[future]
+                title = human_description_batch.title
+                try:
+                    (winners, battle_tally) = future.result()
+                except Exception as exc:
+                    logging.error(f'{human_description_batch} generated an exception: {exc}')
+                else:
+                    filesafe_title = to_safe_filename(title)
 
-            item_type: {item_type}
-            item_title: {title}
-            file_title_like: {filesafe_title}
-            description_llm_engine: {description_llm_engine}
-            description_prompt_key: {description_prompt_key}
-            comparison_llm_engine: {comparison_llm_engine}
-            comparison_prompt_key: {comparison_prompt_config.prompt_key}
+                    print(f"""
+                    ------Batch Results------
 
-                """)
-            print(json.dumps(battle_tally, indent=4))
-            # print(json.dumps(winners, indent=4))
+                    item_type: {item_type}
+                    item_title: {title}
+                    file_title_like: {filesafe_title}
+                    description_llm_engine: {description_llm_engine}
+                    description_prompt_key: {description_prompt_key}
+                    comparison_llm_engine: {comparison_llm_engine}
+                    comparison_prompt_key: {comparison_prompt_config.prompt_key}
 
-            tallies_by_item_title[filesafe_title] = battle_tally
+                        """)
+                    print(json.dumps(battle_tally, indent=4))
+                    # print(json.dumps(winners, indent=4))
 
-            total_tally[Origin.Human] += battle_tally[Origin.Human]
-            total_tally[Origin.LLM] += battle_tally[Origin.LLM]
-            total_tally["Invalid"] += battle_tally["Invalid"]
+                    tallies_by_item_title[filesafe_title] = battle_tally
+
+                    total_tally[str(Origin.Human)] += battle_tally[str(Origin.Human)]
+                    total_tally[str(Origin.LLM)] += battle_tally[str(Origin.LLM)]
+                    total_tally["Invalid"] += battle_tally["Invalid"]
 
 
         print("-----tallies_by_item_title-----")
@@ -375,6 +399,4 @@ def compare_saved_description_batches(
 
         ctx.set_result((tallies_by_item_title, total_tally))
 
-        # TODO: compute averages
-        # TODO: generate chart?
         return (tallies_by_item_title, total_tally)
