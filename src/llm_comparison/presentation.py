@@ -19,13 +19,11 @@ def make_full_comparison_label(
     description_llm_engine: str,
     description_prompt_key: str,
 ) -> str:
-    return "-".join([
-        item_type,
-        comparison_llm_engine,
-        comparison_prompt_key,
-        description_llm_engine,
-        description_prompt_key,
-    ])
+    return (
+        f"{item_type}"
+        + f"---DESCRIPTION-{description_prompt_key}|{description_llm_engine}"
+        + f"---COMPARISON-{comparison_prompt_key}|{comparison_llm_engine}"
+    )
 
 def make_chart(
     chart_label: str,

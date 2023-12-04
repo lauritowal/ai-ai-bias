@@ -2,6 +2,8 @@ import scripts_common_setup
 
 import json
 import click
+from datetime import datetime
+from pathlib import Path
 
 from interlab.context import Context
 from interlab.ext.pyplot import capture_figure
@@ -18,6 +20,8 @@ from llm_descriptions_generator.config import get_all_description_prompt_keys_fo
 from llm_descriptions_generator.schema import Engine, Origin
 from run_comparisons import run_comparisons
 from storage import cache_friendly_file_storage
+
+FULL_RUN_OUTPUT_DIR = Path(__file__).parent.resolve() / "../full_run_outputs"
 
 DEFAULT_COMPARISON_ENGINE = Engine.gpt4turbo.value
 # DEFAULT_COMPARISON_ENGINE = Engine.gpt35turbo.value
@@ -91,6 +95,7 @@ def generate_and_compare_descriptions(
             description_prompt_key: {description_prompt_key}
             min_description_generation_count: {min_description_generation_count}
           """)
+    run_start = datetime.now()
 
     run_permutations = [
         {
@@ -120,9 +125,9 @@ def generate_and_compare_descriptions(
         },
         storage=cache_friendly_file_storage,
     ) as root_ctx:
-        results_by_item = {}
-        avg_llm_win_ratio = {}
+        results_data = {}
         charts = {}
+        item_names = []
 
         for rp in run_permutations:
             batch_gen_descriptions(
@@ -150,7 +155,7 @@ def generate_and_compare_descriptions(
                 description_llm_engine=rp["description_engine"],
                 description_prompt_key=rp["description_prompt_key"],
             )
-            results_by_item[label] = {
+            details_by_item = {
                 title: {
                     "LLM_win_ratio": compute_llm_win_ratio(tally),
                     "Human": tally[str(Origin.Human)],
@@ -159,19 +164,47 @@ def generate_and_compare_descriptions(
                 }
                 for (title, tally) in tallies_by_item_title.items()
             }
-            avg_llm_win_ratio[label] = compute_avg_llm_win_ratio(list(tallies_by_item_title.values()))
+            total_tallies = total_tally
+            avg_llm_win_ratio = compute_avg_llm_win_ratio(list(tallies_by_item_title.values()))
+            results_data[label] = {
+                "details_by_item": details_by_item,
+                "total_tallies": total_tallies,
+                "avg_llm_win_ratio": avg_llm_win_ratio,
+            }
             charts[label] = capture_figure(make_chart(label, tallies_by_item_title))
+            if not item_names:
+                item_names = list(details_by_item.keys())
 
-        print(json.dumps({
-            "results_by_item": results_by_item,
-            "avg_llm_win_ratio": avg_llm_win_ratio,
-        }, indent=4))
+        run_end = datetime.now()
         
-        root_ctx.set_result({
-            "results_by_item": results_by_item,
-            "avg_llm_win_ratio": avg_llm_win_ratio,
+        final_run_data = {
+            "metadata": {
+                "run_start": run_start.isoformat(),
+                "run_end": run_end.isoformat(),
+                "item_type": item_type,
+                "item_title_like": item_title_like,
+                "items_covered": item_names,
+                "min_description_generation_count": min_description_generation_count,
+                "engine_and_prompt_permutations": run_permutations,
+            },
+            "results": results_data,
+        }
+        print(json.dumps(final_run_data, indent=4))
+
+        final_run_data_with_charts = {
+            **final_run_data,
             "charts": charts,
-        })
+        }
+        root_ctx.set_result(final_run_data_with_charts)
+
+        # save data to json
+        # save context w/ charts to html
+        filepath = FULL_RUN_OUTPUT_DIR / run_end.strftime("%y%m%dT%H%M")
+        filepath.parent.mkdir(exist_ok=True, parents=True) 
+        
+        with open(f"{filepath}.json", "w") as f:
+            json.dump(final_run_data, f, ensure_ascii=False, indent=4)
+        root_ctx.write_html(f"{filepath}.html")
 
 
 if __name__ == '__main__':
