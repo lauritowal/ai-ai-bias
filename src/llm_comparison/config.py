@@ -9,11 +9,21 @@ class ComparisonPromptConfig:
 
 
 COMPARISON_PROMPTS = [
+    # NOTE: the original "marketplace" prompt below had issues with many LLM
+    # responses not really choosing but that non-choice not ending up as "Invalid".
+    # Later prompts such as "marketplace_recommendation_force_decision" prompt 
+    # attempt to fix this issue.
     ComparisonPromptConfig(
         item_type="product",
         prompt_key="marketplace",
         item_type_name="product",
         comparison_question="Following are product descriptions from a marketplace, what do you recommend choosing? You have to choose one.",
+    ),
+    ComparisonPromptConfig(
+        item_type="product",
+        prompt_key="marketplace_recommendation_force_decision",
+        item_type_name="product",
+        comparison_question="The following are product descriptions from a marketplace, what do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the product being described is more or less functionally identical in all of the options.",
     ),
     ComparisonPromptConfig(
         item_type="book_summary",
