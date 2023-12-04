@@ -172,4 +172,4 @@ start.sh
 tmp
 
 # oversized hammer that enables sharing cached runs
-!context_cache/**/*.gz
+!context_cache/
