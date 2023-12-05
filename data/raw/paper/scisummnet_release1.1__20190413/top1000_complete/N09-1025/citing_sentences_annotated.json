@@ -1,0 +1,182 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "W10-1761", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Hieu, Hoang | Philipp, Koehn", 
+    "raw_text": "Chiang et al (2009) added thousands of linguistically-motivated features to hierarchical and syntax systems, however, the source syntax features are derived from the research above", 
+    "clean_text": "Chiang et al (2009) added thousands of linguistically-motivated features to hierarchical and syntax systems, however, the source syntax features are derived from the research above.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "P14-1129", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "Jacob, Devlin | Rabih, Zbib | Zhongqiang, Huang | Thomas, Lamar | Richard M., Schwartz | John, Makhoul", 
+    "raw_text": "Our base line decoder contains a large and powerful set of features, which include:? Forward and backward rule probabilities? 4-gram KneserNey LM? Dependency LM (Shen et al, 2010)? Contextual lexical smoothing (Devlin, 2009)? Length distribution (Shen et al, 2010)? Trait features (Devlin and Matsoukas, 2012)? Factored source syntax (Huang et al, 2013)? 7 sparse feature types, totaling 50k features (Chiang et al, 2009)? LM adaptation (Snover et al, 2008) 1374 We also perform 1000-bestrescoring with the following features:? 5-gram KneserNey LM? Recurrent neural network language model (RNNLM) (Mikolov et al, 2010) Although we consider the RNNLM to be part of our baseline, we give it special treatment in the results section because we would expect it to have the highest overlap with our NNJM", 
+    "clean_text": "Our baseline decoder contains a large and powerful set of features, which include: 7 sparse feature types, totaling 50k features (Chiang et al., 2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "D11-1080", 
+    "citing_paper_authority": 5, 
+    "citing_paper_authors": "Christof, Monz", 
+    "raw_text": "Potentially, improvements could be gained from using separate weights for individual local models, but this would require an optimization procedure such as MIRA (Chiang et al, 2009), which can handle a larger number of features", 
+    "clean_text": "Potentially, improvements could be gained from using separate weights for individual local models, but this would require an optimization procedure such as MIRA (Chiang et al, 2009), which can handle a larger number of features.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "W10-1718", 
+    "citing_paper_authority": 8, 
+    "citing_paper_authors": "Zhifei, Li | Chris, Callison-Burch | Chris, Dyer | Juri, Ganitkevitch | Ann, Irvine | Sanjeev P., Khudanpur | Lane, Schwartz | Wren N. G., Thornton | Ziyuan, Wang | Jonathan, Weese | Omar F., Zaidan", 
+    "raw_text": "Given the current infrastructure, other training methods (e.g., maximum conditional likelihood or MIRA as used by Chiang et al (2009)) can also be easily supported with minimum coding", 
+    "clean_text": "Given the current infrastructure, other training methods (e.g., maximum conditional likelihood or MIRA as used by Chiang et al (2009)) can also be easily supported with minimum coding.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "C10-2052", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Dirk, Hovy | Stephen, Tratz | Eduard, Hovy", 
+    "raw_text": "We explore the different options for context and feature se 1See (Chan et al, 2007) for the relevance of word sense disambiguation and (Chiang et al, 2009) for the role of prepositions in MT. 454lection, the influence of different preprocessing methods, and different levels of sense granularity", 
+    "clean_text": "See (Chan et al, 2007) for the relevance of word sense disambiguation and (Chiang et al, 2009) for the role of prepositions in MT.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "N12-1006", 
+    "citing_paper_authority": 16, 
+    "citing_paper_authors": "Jacob, Devlin | Erika, Malchiodi | Rabih, Zbib | David G., Stallard | Richard M., Schwartz | Spyros, Matsoukas | John, Makhoul | Omar F., Zaidan | Chris, Callison-Burch", 
+    "raw_text": "Additionally, we used 50,000 sparse, binary-valued source and target features based on Chiang et al (2009)", 
+    "clean_text": "Additionally, we used 50,000 sparse, binary-valued source and target features based on Chiang et al (2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "P10-4002", 
+    "citing_paper_authority": 67, 
+    "citing_paper_authors": "Chris, Dyer | Adam, Lopez | Juri, Ganitkevitch | Jonathan, Weese | Ferhan, Ture | Philip, Blunsom | Hendra, Setiawan | Vladimir, Eidelman | Philip, Resnik", 
+    "raw_text": "Further training pipelines are under development, including minimum risk training using a linearly decomposable approximation of BLEU (Li and Eisner, 2009), and MIRA training (Chiang et al, 2009)", 
+    "clean_text": "Further training pipelines are under development, including minimum risk training using a linearly decomposable approximation of BLEU (Li and Eisner, 2009), and MIRA training (Chiang et al, 2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "P12-1001", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Kevin, Duh | Katsuhito, Sudoh | Xianchao, Wu | Hajime, Tsukada | Masaaki, Nagata", 
+    "raw_text": "Alternatively, by using the large margin optimizer in (Chiang et al, 2009) and moving it into the for-each loop (lines 4-9), one can get an on line algorithm such PMO-MIRA", 
+    "clean_text": "Alternatively, by using the large margin optimizer in (Chiang et al, 2009) and moving it into the for-each loop (lines 4-9), one can get an online algorithm such PMO-MIRA.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "C10-2075", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Zhifei, Li | Ziyuan, Wang | Sanjeev P., Khudanpur | Jason M., Eisner", 
+    "raw_text": "With the training sentences yi and their simulated confusion sets N (yi)? represented as hyper graphs D (yi))? we can perform the discriminative training using any of a number of procedures such as MERT (Och, 2003) or MIRA as used by Chiang et al (2009)", 
+    "clean_text": "With the training sentences yi and their simulated confusion sets N (yi) \u2014 represented as hypergraphs D(yi)) \u2014 we can perform the discriminative training using any of a number of procedures such as MERT (Och, 2003) or MIRA as used by Chiang et al. (2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "N12-1059", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Jacob, Devlin | Spyros, Matsoukas", 
+    "raw_text": "present in the output??, based on (Chiang et al, 2009)", 
+    "clean_text": "Additionally, we use 50,000 sparse, binary-valued features such as \"Is the bi-gram 'united states' present in the output?\", based on (Chiang et al., 2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "W10-1738", 
+    "citing_paper_authority": 18, 
+    "citing_paper_authors": "David, Vilar | Daniel, Stein | Matthias, Huck | Hermann, Ney", 
+    "raw_text": "The second one is the MIRA algorithm, first applied for machine translation in (Chiang et al, 2009)", 
+    "clean_text": "The second one is the MIRA algorithm, first applied for machine translation in (Chiang et al, 2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "P11-2029", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Jinxi, Xu | Jinying, Chen", 
+    "raw_text": "In addition, it uses a large number of discriminatively tuned features, which were inspired by Chiang et al (2009) and implemented in a way described in (Devlin 2009)", 
+    "clean_text": "In addition, it uses a large number of discriminatively tuned features, which were inspired by Chiang et al (2009) and implemented in a way described in (Devlin 2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "D11-1081", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Xinyan, Xiao | Yang, Liu | Qun, Liu | Shouxun, Lin", 
+    "raw_text": "Following (Chiang et al, 2009), we only use 100 most frequent words for word context feature", 
+    "clean_text": "Following (Chiang et al, 2009), we only use 100 most frequent words for word context feature.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "D10-1054", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Zhongjun, He | Yao, Meng | Hao, Yu", 
+    "raw_text": "Such features could include syntactical features (Chiang et al, 2009)", 
+    "clean_text": "Such features could include syntactical features (Chiang et al, 2009).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 15, 
+    "citing_paper_id": "P12-1002", 
+    "citing_paper_authority": 15, 
+    "citing_paper_authors": "Patrick, Simianer | Stefan, Riezler | Chris, Dyer", 
+    "raw_text": "For example, the features introduced by Chiang et al (2008) and Chiang et al (2009) for an SCFG model for Chinese/English translation are of two types: The first type explicitly counters overestimates of rule counts, or rules with bad overlap points, bad rewrites, or with undesired insertions of target-side terminals", 
+    "clean_text": "For example, the features introduced by Chiang et al (2008) and Chiang et al (2009) for an SCFG model for Chinese/English translation are of two types: The first type explicitly counters overestimates of rule counts, or rules with bad overlap points, bad rewrites, or with undesired insertions of target-side terminals.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 16, 
+    "citing_paper_id": "P10-1146", 
+    "citing_paper_authority": 42, 
+    "citing_paper_authors": "David, Chiang", 
+    "raw_text": "The base feature set for all systems was similar to the expanded set recently used for Hiero (Chiang et al, 2009), but with bigram features (source and target word) instead of trigram features (source and target word and neighboring source word)", 
+    "clean_text": "The base feature set for all systems was similar to the expanded set recently used for Hiero (Chiang et al, 2009), but with bigram features (source and target word) instead of trigram features (source and target word and neighboring source word).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 17, 
+    "citing_paper_id": "N10-1080", 
+    "citing_paper_authority": 9, 
+    "citing_paper_authors": "Daniel, Cer | Christopher D., Manning | Daniel, Jurafsky", 
+    "raw_text": "The situation might be improved by using a model that does a better job of both capturing the structure of the source and target sentence sand their allowable reorderings, such as a syntactic tree-to-string system that uses contextually rich rewrite rules (Galley et al, 2006), or by making use of larger more fine grained feature sets (Chiangetal., 2009) that allow for better discrimination be tween hypotheses", 
+    "clean_text": "The situation might be improved by using a model that does a better job of both capturing the structure of the source and target sentences and their allowable reorderings, such as a syntactic tree-to-string system that uses contextually rich rewrite rules (Galley et al, 2006), or by making use of larger more fine grained feature sets (Chiang et al., 2009) that allow for better discrimination between hypotheses.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 18, 
+    "citing_paper_id": "P13-1031", 
+    "citing_paper_authority": 7, 
+    "citing_paper_authors": "Spence, Green | Sida, Wang | Daniel, Cer | Christopher D., Manning", 
+    "raw_text": "This was well understood in previous work, so heuristic filtering was usually applied (Chiang et al, 2009, inter alia)", 
+    "clean_text": "This was well understood in previous work, so heuristic filtering was usually applied (Chiang et al, 2009, inter alia).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 19, 
+    "citing_paper_id": "W10-1757", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Kevin, Duh | Katsuhito, Sudoh | Hajime, Tsukada | Hideki, Isozaki | Masaaki, Nagata", 
+    "raw_text": "Recent work by (Chiang et al, 2009 )de scribes new features for hierarchical phrase-based MT, while (Collins and Koo, 2005) describes features for parsing", 
+    "clean_text": "Recent work by (Chiang et al, 2009) describes new features for hierarchical phrase-based MT, while (Collins and Koo, 2005) describes features for parsing.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 20, 
+    "citing_paper_id": "D11-1125", 
+    "citing_paper_authority": 66, 
+    "citing_paper_authors": "Mark, Hopkins | Jonathan, May", 
+    "raw_text": "Chiang et al (2009), Section 4.1)? Target word insertion features9We used the following feature classes in SBMT extended scenarios only (cf", 
+    "clean_text": "Discount features for rule frequency bins (cf. Chiang et al. (2009), Section 4.1).", 
+    "keep_for_gold": 0
+  }
+]

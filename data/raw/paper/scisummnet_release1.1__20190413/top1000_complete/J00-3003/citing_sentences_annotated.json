@@ -1,0 +1,182 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "W01-1627", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Mary McGee, Wood", 
+    "raw_text": "tagging (Stolcke et al2000)), which they and three other groups have developed for this highly specialised domain", 
+    "clean_text": "This paper describes the parameters and tagsets (analogous to \"Dialogue Act\" tagging (Stolcke et al2000)), which they and three other groups have developed for this highly specialised domain.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "W01-1627", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Mary McGee, Wood", 
+    "raw_text": "These are similar to some of the Dialogue Act labels used in NLP work: Stolcke et als (2000) agreement, response acknowledgement, summarize, or VERBMOBIL? s suggest, confirm, clarify (Jekat et al1995)", 
+    "clean_text": "These are similar to some of the Dialogue Act labels used in NLP work: Stolcke et al's (2000) agreement, response acknowledgement, summarize, or VERBMOBIL's suggest, confirm, clarify (Jekat et al1995).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "P06-2008", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Joyce, Chai | Chen, Zhang | Tyler, Baldwin", 
+    "raw_text": "Tremendous amounts of work has focused on this aspect (Stolcke et al, 2000)", 
+    "clean_text": "Tremendous amounts of work has focused on this aspect (Stolcke et al, 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "D12-1009", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Michael, Paul", 
+    "raw_text": "Stolcke et al (2000) used HMMs as a general model of discourse with an application to speech acts (or dialog acts) in conversations", 
+    "clean_text": "Stolcke et al (2000) used HMMs as a general model of discourse with an application to speech acts (or dialog acts) in conversations.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "C10-2117", 
+    "citing_paper_authority": 7, 
+    "citing_paper_authors": "Vinodkumar, Prabhakaran | Owen, Rambow | Mona, Diab", 
+    "raw_text": "These notions have been particularly fruitful in the dialog community, where dialog act tagging is a major topic of research; to cite just one prominent example: (Stolcke et al, 2000)", 
+    "clean_text": "These notions have been particularly fruitful in the dialog community, where dialog act tagging is a major topic of research; to cite just one prominent example: (Stolcke et al, 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "P05-2014", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Edward, Ivanovic", 
+    "raw_text": "Stolcke et al (2000) point out that the use of dialogue acts is a useful first level of analysis for describing discourse structure", 
+    "clean_text": "Stolcke et al (2000) point out that the use of dialogue acts is a useful first level of analysis for describing discourse structure.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "P05-2014", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Edward, Ivanovic", 
+    "raw_text": "We chose 12 tags by manually labelling the dialogue corpus using tags that seemed appropriate from the 42 tags used by Stolcke et al (2000) based on the Dialog Act Markup in Several Layers (DAMSL) tag set (Core and Allen, 1997)", 
+    "clean_text": "We chose 12 tags by manually labelling the dialogue corpus using tags that seemed appropriate from the 42 tags used by Stolcke et al (2000) based on the Dialog Act Markup in Several Layers (DAMSL) tag set (Core and Allen, 1997).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "P05-2014", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Edward, Ivanovic", 
+    "raw_text": "A super set of dialogue acts that covers all domains would necessarily be a large number of tags (at least the 42 identified by Stolcke et al (2000)) with many tags not being appropriate for other domains", 
+    "clean_text": "A super set of dialogue acts that covers all domains would necessarily be a large number of tags (at least the 42 identified by Stolcke et al (2000)) with many tags not being appropriate for other domains.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "P05-2014", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Edward, Ivanovic", 
+    "raw_text": "Although this is higher than the results from 13 recent studies presented by Stolcke et al (2000) with accuracy ranging from? 40% to 81.2%, the tasks, data, and tag sets used were all quite different, so any comparison should be used as only a guide line", 
+    "clean_text": "Although this is higher than the results from 13 recent studies presented by Stolcke et al (2000) with accuracy ranging from 40% to 81.2%, the tasks, data, and tag sets used were all quite different, so any comparison should be used as only a guideline.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "W05-0613", 
+    "citing_paper_authority": 16, 
+    "citing_paper_authors": "Jason, Baldridge | Alex, Lascarides", 
+    "raw_text": "Another main approach to robust dialogue processing has been statistical mod els for identifying dialogue acts (e.g., Stolcke et al (2000))", 
+    "clean_text": "Another main approach to robust dialogue processing has been statistical models for identifying dialogue acts (e.g., Stolcke et al (2000)).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "W09-1003", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Jeroen, Geertzen", 
+    "raw_text": "For instance, Stolcke et al (2000) explore n-gram models based on transcribed words and prosodic in formation for SWBD-DAMSL dialogue acts in the Switchboard corpus (Godfrey et al, 1992)", 
+    "clean_text": "For instance, Stolcke et al (2000) explore n-gram models based on transcribed words and prosodic information for SWBD-DAMSL dialogue acts in the Switchboard corpus (Godfrey et al, 1992).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "W10-2607", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Anna, Margolis | Karen, Livescu | Mari, Ostendorf", 
+    "raw_text": "The work of Stolckeet al (2000) found benefits to using Markovsequence models and prosodic features in addition to word features, but those benefits were relatively small, so for simplicity our experiments here use only word features and classify utterances in isolation", 
+    "clean_text": "The work of Stolcke et al (2000) found benefits to using Markov sequence models and prosodic features in addition to word features, but those benefits were relatively small, so for simplicity our experiments here use only word features and classify utterances in isolation.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "P04-1088", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "Riccardo, Serafin | Barbara Di, Eugenio", 
+    "raw_text": "Inthis sort of situations, tag categories are often collapsed when running experiments so as to get meaningful frequencies (Stolcke et al, 2000)", 
+    "clean_text": "In this sort of situations, tag categories are often collapsed when running experiments so as to get meaningful frequencies (Stolcke et al, 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "P04-1088", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "Riccardo, Serafin | Barbara Di, Eugenio", 
+    "raw_text": "(Stolcke et al, 2000) reports an impressive 71% accuracy on transcribed Switch board dialogues, using a tag set of 42 DAs", 
+    "clean_text": "(Stolcke et al, 2000) reports an impressive 71% accuracy on transcribed Switchboard dialogues, using a tag set of 42 DAs.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 15, 
+    "citing_paper_id": "P04-1088", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "Riccardo, Serafin | Barbara Di, Eugenio", 
+    "raw_text": "(Stolckeet al, 2000) employs a combination of HMM, neural networks and decision trees trained on all avail able features (words, prosody, sequence of DAs and speaker identity)", 
+    "clean_text": "(Stolcke et al, 2000) employs a combination of HMM, neural networks and decision trees trained on all available features (words, prosody, sequence of DAs and speaker identity).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 16, 
+    "citing_paper_id": "P11-1102", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Elijah, Mayfield | Carolyn Penstein, Ros&eacute;", 
+    "raw_text": "Work in dialogue act tagging is also relevant, as it seeks to describe the actions and moves with which speakers display these types of positioning (Stolcke et al, 2000)", 
+    "clean_text": "Work in dialogue act tagging is also relevant, as it seeks to describe the actions and moves with which speakers display these types of positioning (Stolcke et al, 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 17, 
+    "citing_paper_id": "P11-1102", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Elijah, Mayfield | Carolyn Penstein, Ros&eacute;", 
+    "raw_text": "1019This task involves defining the role of each contribution based on its function (Stolcke et al, 2000) .We know that there are interesting correlations be tween these acts and other factors, such as learning gains (Litman and Forbes-Riley, 2006) and the relevance of a contribution for summarization (Wrede and Shriberg, 2003)", 
+    "clean_text": "This task involves defining the role of each contribution based on its function (Stolcke et al, 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 18, 
+    "citing_paper_id": "P07-2027", 
+    "citing_paper_authority": 5, 
+    "citing_paper_authors": "Surabhi, Gupta | Matthew, Purver | Daniel, Jurafsky", 
+    "raw_text": "As (Stolcke et al., 2000) report good accuracy (87%) for statement vs. question classification on manual Switchboard transcripts, such coarse-grained information might be reliably available", 
+    "clean_text": "As (Stolcke et al., 2000) report good accuracy (87%) for statement vs. question classification on manual Switchboard transcripts, such coarse-grained information might be reliably available.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 19, 
+    "citing_paper_id": "N12-1010", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Diane J., Litman | Kate, Forbes-Riley | Heather, Friedberg | Joanna, Drummond", 
+    "raw_text": "They model engagement using manually coded dialogue acts based on the SWBDL-DAMSL scheme (Stolcke et al, 2000)", 
+    "clean_text": "They model engagement using manually coded dialogue acts based on the SWBDL-DAMSL scheme (Stolcke et al, 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 20, 
+    "citing_paper_id": "C10-2150", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Nick, Webb | Michael, Ferguson", 
+    "raw_text": "Classification over the Switchboard corpus has been demonstrated using Decision Trees (Verbree et al, 2006), Memory-Based Learning (Rotaru, 2002) and Hidden Markov Models (HMM) (Stolcke et al, 2000)", 
+    "clean_text": "Classification over the Switchboard corpus has been demonstrated using Decision Trees (Verbree et al, 2006), Memory-Based Learning (Rotaru, 2002) and Hidden Markov Models (HMM) (Stolcke et al, 2000).", 
+    "keep_for_gold": 0
+  }
+]

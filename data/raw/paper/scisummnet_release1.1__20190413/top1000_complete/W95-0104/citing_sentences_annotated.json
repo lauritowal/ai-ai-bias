@@ -1,0 +1,92 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "W02-1005", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Silviu, Cucerzan | David, Yarowsky", 
+    "raw_text": "For CSSC, we tested our system on the identical data from the Brown corpus used by Golding (1995), Golding and Roth (1996 )andMangu and Brill (1997)", 
+    "clean_text": "For CSSC, we tested our system on the identical data from the Brown corpus used by Golding (1995), Golding and Roth (1996) and Mangu and Brill (1997).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "P01-1005", 
+    "citing_paper_authority": 60, 
+    "citing_paper_authors": "Michele, Banko | Eric, Brill", 
+    "raw_text": "The more recent set of techniques includes multiplicative weight update algorithms (Golding and Roth, 1998), latent semantic analysis (Jones and Martin, 1997), transformation-based learning (Mangu and Brill, 1997), differential grammars (Powers, 1997), decision lists (Yarowsky, 1994), and a variety of Bayesian classifiers (Gale et al, 1993, Golding, 1995, Golding and Schabes, 1996)", 
+    "clean_text": "The more recent set of techniques includes multiplicative weight update algorithms (Golding and Roth, 1998), latent semantic analysis (Jones and Martin, 1997), transformation-based learning (Mangu and Brill, 1997), differential grammars (Powers, 1997), decision lists (Yarowsky, 1994), and a variety of Bayesian classifiers (Gale et al, 1993, Golding, 1995, Golding and Schabes, 1996).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "N10-1019", 
+    "citing_paper_authority": 25, 
+    "citing_paper_authors": "Michael, Gamon", 
+    "raw_text": "The majority of the data-driven methods use a classification technique to determine whether a word is used appropriately in its context ,continuing the tradition established for contextual spelling correction by Golding (1995) and Golding and Roth (1996)", 
+    "clean_text": "The majority of the data-driven methods use a classification technique to determine whether a word is used appropriately in its context, continuing the tradition established for contextual spelling correction by Golding (1995) and Golding and Roth (1996).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "N04-1016", 
+    "citing_paper_authority": 24, 
+    "citing_paper_authors": "Mirella, Lapata | Frank, Keller", 
+    "raw_text": "All methods use either the full set or a subset of 18 confusion sets originally gathered by Golding (1995)", 
+    "clean_text": "All methods use either the full set or a subset of 18 confusion sets originally gathered by Golding (1995).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "N04-1016", 
+    "citing_paper_authority": 24, 
+    "citing_paper_authors": "Mirella, Lapata | Frank, Keller", 
+    "raw_text": "Table 6 shows 3An exception is Golding (1995), who uses the entire Browncorpus for training (1M words) and 3/4 of the Wall Street Journal corpus (Marcus et al, 1993) for testing", 
+    "clean_text": "Table 6 shows 3An exception is Golding (1995), who uses the entire Brown corpus for training (1M words) and 3/4 of the Wall Street Journal corpus (Marcus et al, 1993) for testing.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "N04-1016", 
+    "citing_paper_authority": 24, 
+    "citing_paper_authors": "Mirella, Lapata | Frank, Keller", 
+    "raw_text": "Acompari son with the literature shows that the best Altavista model outperforms Golding (1995), Jones and Martin (1997) and performs similar to Golding and Schabes (1996)", 
+    "clean_text": "A comparison with the literature shows that the best Altavista model outperforms Golding (1995), Jones and Martin (1997) and performs similar to Golding and Schabes (1996).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "E06-1030", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Vinci, Liu | James R., Curran", 
+    "raw_text": "The memory-based learner was tested using the 18 confusion word sets from Golding (1995) on the WSJ section of the Penn Treebank and the Brown Corpus", 
+    "clean_text": "The memory-based learner was tested using the 18 confusion word sets from Golding (1995) on the WSJ section of the Penn Treebank and the Brown Corpus.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "D07-1012", 
+    "citing_paper_authority": 8, 
+    "citing_paper_authors": "Joachim, Wagner | Jennifer, Foster | Josef, van Genabith", 
+    "raw_text": "Golding (1995) builds a classifier based on a rich set of context features", 
+    "clean_text": "Golding (1995) builds a classifier based on a rich set of context features.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "A00-2019", 
+    "citing_paper_authority": 24, 
+    "citing_paper_authors": "Martin, Chodorow | Claudia, Leacock", 
+    "raw_text": "Golding (1995) showed how methods used for WSD (decision lists and Bayesian classifiers) could be adapted to detect errors resulting from 140 common spelling confusions among sets such as there, their, and they &apos; re", 
+    "clean_text": "Golding (1995) showed how methods used for WSD (decision lists and Bayesian classifiers) could be adapted to detect errors resulting from 140 common spelling confusions among sets such as there, their, and they &apos; re.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "C04-1131", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Laurent, Audibert", 
+    "raw_text": "We have also selected a decision list classifier (DL) which is similar to the classifier used by (Yarowsky, 1994) for words having two senses, and extended for more senses by (Golding, 1995)", 
+    "clean_text": "We have also selected a decision list classifier (DL) which is similar to the classifier used by (Yarowsky, 1994) for words having two senses, and extended for more senses by (Golding, 1995).", 
+    "keep_for_gold": 0
+  }
+]
