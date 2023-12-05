@@ -91,7 +91,7 @@ def main(src_root_directory, dest_directory, num_dirs, output_format='md'):
         process_directory(directory, dest_directory, output_format)
 
 # Source root directory containing the subdirectories with XML files (relative to project root)
-src_root_directory = Path('data/raw/scisummnet_release1.1__20190413/top1000_complete')
+src_root_directory = Path('data/raw/paper/scisummnet_release1.1__20190413/top1000_complete')
 
 # Destination directory to save the JSON files (relative to project root)
 dest_directory = Path('data/paper_2')
