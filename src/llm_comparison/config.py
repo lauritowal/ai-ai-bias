@@ -31,6 +31,12 @@ COMPARISON_PROMPTS = [
         item_type_name="book summary",
         comparison_question="The following are two summaries of the same book by different people. Which is the better summary?",
     ),
+    ComparisonPromptConfig(
+        item_type="paper",
+        prompt_key="better_paper_abstract",
+        item_type_name="academic paper",
+        comparison_question="The following are two different drafts of an abstract for the same academic paper. Which is the better choice to be the official abstract? You must choose one.",
+    ),
 ]
 def get_comparison_prompt_config(
     item_type: str,

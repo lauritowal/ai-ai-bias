@@ -67,6 +67,16 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             include_descriptions=True,
         ),
     ],
+    "paper": [
+        TextItemGenerationPromptConfig(
+            item_type="paper",
+            prompt_nickname="write_xml_paper_abstract",
+            prompt_base_text="Read the following academic paper (in XML format) and create an abstract for it.",
+            description_source=PromptDescriptionSource.AcademicPaperBody,
+            include_title=False,
+            include_descriptions=True,
+        )
+    ],
     "book_review": [
         TextItemGenerationPromptConfig(
             item_type="book_review",

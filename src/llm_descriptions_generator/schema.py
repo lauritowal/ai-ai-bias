@@ -20,6 +20,7 @@ class Engine(str, enum.Enum):
 
 class PromptDescriptionSource(str, enum.Enum):
     Human = "human"
+    AcademicPaperBody = "academic_paper_body"
     LLM_JSON_Summary = "llm_json_summary"
 
 
