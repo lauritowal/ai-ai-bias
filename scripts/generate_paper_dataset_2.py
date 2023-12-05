@@ -94,6 +94,6 @@ def main(src_root_directory, dest_directory, num_dirs, output_format='md'):
 src_root_directory = Path('data/raw/paper/scisummnet_release1.1__20190413/top1000_complete')
 
 # Destination directory to save the JSON files (relative to project root)
-dest_directory = Path('data/paper_2')
+dest_directory = Path('data/paper_2/human')
 
 main(src_root_directory, dest_directory, 100, output_format='xml')
