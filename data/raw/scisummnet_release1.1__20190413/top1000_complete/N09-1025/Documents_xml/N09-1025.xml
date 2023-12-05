@@ -1,0 +1,167 @@
+<PAPER>
+  <S sid="0">11001 New Features for Statistical Machine Translation</S>
+  <ABSTRACT>
+    <S sid="1" ssid="1">We use the Margin Infused Relaxed Algorithm of Crammer et al. to add a large number of new features to two machine translation systems: the Hiero hierarchical phrasebased translation system and our syntax-based translation system.</S>
+    <S sid="2" ssid="2">On a large-scale Chinese- English translation task, we obtain statistically improvements of respectively.</S>
+    <S sid="3" ssid="3">We analyze the impact of the new features and the performance of the learning algorithm.</S>
+  </ABSTRACT>
+  <SECTION title="1 Introduction" number="1">
+    <S sid="4" ssid="1">What linguistic features can improve statistical machine translation (MT)?</S>
+    <S sid="5" ssid="2">This is a fundamental question for the discipline, particularly as it pertains to improving the best systems we have.</S>
+    <S sid="6" ssid="3">Further: In this paper, we address these questions by experimenting with a large number of new features.</S>
+    <S sid="7" ssid="4">We add more than 250 features to improve a syntaxbased MT system&#8212;already the highest-scoring single system in the NIST 2008 Chinese-English common-data track&#8212;by +1.1 BLEU.</S>
+    <S sid="8" ssid="5">We also add more than 10,000 features to Hiero (Chiang, 2005) and obtain a +1.5 BLEU improvement.</S>
+    <S sid="9" ssid="6">Many of the new features use syntactic information, and in particular depend on information that is available only inside a syntax-based translation model.</S>
+    <S sid="10" ssid="7">Thus they widen the advantage that syntaxbased models have over other types of models.</S>
+    <S sid="11" ssid="8">The models are trained using the Margin Infused Relaxed Algorithm or MIRA (Crammer et al., 2006) instead of the standard minimum-error-rate training or MERT algorithm (Och, 2003).</S>
+    <S sid="12" ssid="9">Our results add to a growing body of evidence (Watanabe et al., 2007; Chiang et al., 2008) that MIRA is preferable to MERT across languages and systems, even for very large-scale tasks.</S>
+  </SECTION>
+  <SECTION title="2 Related Work" number="2">
+    <S sid="13" ssid="1">The work of Och et al (2004) is perhaps the bestknown study of new features and their impact on translation quality.</S>
+    <S sid="14" ssid="2">However, it had a few shortcomings.</S>
+    <S sid="15" ssid="3">First, it used the features for reranking n-best lists of translations, rather than for decoding or forest reranking (Huang, 2008).</S>
+    <S sid="16" ssid="4">Second, it attempted to incorporate syntax by applying off-the-shelf part-ofspeech taggers and parsers to MT output, a task these tools were never designed for.</S>
+    <S sid="17" ssid="5">By contrast, we incorporate features directly into hierarchical and syntaxbased decoders.</S>
+    <S sid="18" ssid="6">A third difficulty with Och et al.&#8217;s study was that it used MERT, which is not an ideal vehicle for feature exploration because it is observed not to perform well with large feature sets.</S>
+    <S sid="19" ssid="7">Others have introduced alternative discriminative training methods (Tillmann and Zhang, 2006; Liang et al., 2006; Turian et al., 2007; Blunsom et al., 2008; Macherey et al., 2008), in which a recurring challenge is scalability: to train many features, we need many training examples, and to train discriminatively, we need to search through all possible translations of each training example.</S>
+    <S sid="20" ssid="8">Another line of research (Watanabe et al., 2007; Chiang et al., 2008) tries to squeeze as many features as possible from a relatively small dataset.</S>
+    <S sid="21" ssid="9">We follow this approach here.</S>
+  </SECTION>
+  <SECTION title="3 Systems Used" number="3">
+    <S sid="22" ssid="1">Hiero (Chiang, 2005) is a hierarchical, string-tostring translation system.</S>
+    <S sid="23" ssid="2">Its rules, which are extracted from unparsed, word-aligned parallel text, are synchronous CFG productions, for example: As the number of nonterminals is limited to two, the grammar is equivalent to an inversion transduction grammar (Wu, 1997).</S>
+    <S sid="24" ssid="3">The baseline model includes 12 features whose weights are optimized using MERT.</S>
+    <S sid="25" ssid="4">Two of the features are n-gram language models, which require intersecting the synchronous CFG with finite-state automata representing the language models.</S>
+    <S sid="26" ssid="5">This grammar can be parsed efficiently using cube pruning (Chiang, 2007).</S>
+    <S sid="27" ssid="6">Our syntax-based system transforms source Chinese strings into target English syntax trees.</S>
+    <S sid="28" ssid="7">Following previous work in statistical MT (Brown et al., 1993), we envision a noisy-channel model in which a language model generates English, and then a translation model transforms English trees into Chinese.</S>
+    <S sid="29" ssid="8">We represent the translation model as a tree transducer (Knight and Graehl, 2005).</S>
+    <S sid="30" ssid="9">It is obtained from bilingual text that has been word-aligned and whose English side has been syntactically parsed.</S>
+    <S sid="31" ssid="10">From this data, we use the the GHKM minimal-rule extraction algorithm of (Galley et al., 2004) to yield rules like: Though this rule can be used in either direction, here we use it right-to-left (Chinese to English).</S>
+    <S sid="32" ssid="11">We follow Galley et al. (2006) in allowing unaligned Chinese words to participate in multiple translation rules, and in collecting larger rules composed of minimal rules.</S>
+    <S sid="33" ssid="12">These larger rules have been shown to substantially improve translation accuracy (Galley et al., 2006; DeNeefe et al., 2007).</S>
+    <S sid="34" ssid="13">We apply Good-Turing discounting to the transducer rule counts and obtain probability estimates: When we apply these probabilities to derive an English sentence e and a corresponding Chinese sentence c, we wind up with the joint probability P(e, c).</S>
+    <S sid="35" ssid="14">The baseline model includes log P(e, c), the two n-gram language models log P(e), and other features for a total of 25.</S>
+    <S sid="36" ssid="15">For example, there is a pair of features to punish rules that drop Chinese content words or introduce spurious English content words.</S>
+    <S sid="37" ssid="16">All features are linearly combined and their weights are optimized using MERT.</S>
+    <S sid="38" ssid="17">For efficient decoding with integrated n-gram language models, all transducer rules must be binarized into rules that contain at most two variables and can be incrementally scored by the language model (Zhang et al., 2006).</S>
+    <S sid="39" ssid="18">Then we use a CKY-style parser (Yamada and Knight, 2002; Galley et al., 2006) with cube pruning to decode new sentences.</S>
+    <S sid="40" ssid="19">We include two other techniques in our baseline.</S>
+    <S sid="41" ssid="20">To get more general translation rules, we restructure our English training trees using expectationmaximization (Wang et al., 2007), and to get more specific translation rules, we relabel the trees with up to 4 specialized versions of each nonterminal symbol, again using expectation-maximization and the split/merge technique of Petrov et al. (2006).</S>
+    <S sid="42" ssid="21">We incorporate all our new features into a linear model (Och and Ney, 2002) and train them using MIRA (Crammer et al., 2006), following previous work (Watanabe et al., 2007; Chiang et al., 2008).</S>
+    <S sid="43" ssid="22">Let e stand for output strings or their derivations, and let h(e) stand for the feature vector for e. Initialize the feature weights w. Then, repeatedly: 10-best translations according to each of: where C = 0.01.</S>
+    <S sid="44" ssid="23">This minimization is performed by a variant of sequential minimal optimization (Platt, 1998).</S>
+    <S sid="45" ssid="24">Following Chiang et al. (2008), we calculate the sentence B&#63340;&#7431;&#7452; scores in (1), (2), and (3) in the context of some previous 1-best translations.</S>
+    <S sid="46" ssid="25">We run 20 of these learners in parallel, and when training is finished, the weight vectors from all iterations of all learners are averaged together.</S>
+    <S sid="47" ssid="26">Since the interface between the trainer and the decoder is fairly simple&#8212;for each sentence, the decoder sends the trainer a forest, and the trainer returns a weight update&#8212;it is easy to use this algorithm with a variety of CKY-based decoders: here, we are using it in conjunction with both the Hiero decoder and our syntax-based decoder.</S>
+  </SECTION>
+  <SECTION title="4 Features" number="4">
+    <S sid="48" ssid="1">In this section, we describe the new features introduced on top of our baseline systems.</S>
+    <S sid="49" ssid="2">Discount features Both of our systems calculate several features based on observed counts of rules in the training data.</S>
+    <S sid="50" ssid="3">Though the syntax-based system uses Good-Turing discounting when computing the P(e, c) feature, we find, as noted above, that it uses quite a few one-count rules, suggesting that their probabilities have been overestimated.</S>
+    <S sid="51" ssid="4">We can directly attack this problem by adding features counti that reward or punish rules seen i times, or features count[i,j] for rules seen between i and j times.</S>
+    <S sid="52" ssid="5">String-to-tree MT offers some unique levers to pull, in terms of target-side features.</S>
+    <S sid="53" ssid="6">Because the system outputs English trees, we can analyze output trees on the tuning set and design new features to encourage the decoder to produce more grammatical trees.</S>
+    <S sid="54" ssid="7">Rule overlap features While individual rules observed in decoder output are often quite reasonable, two adjacent rules can create problems.</S>
+    <S sid="55" ssid="8">For example, a rule that has a variable of type IN (preposition) needs another rule rooted with IN to fill the position.</S>
+    <S sid="56" ssid="9">If the second rule supplies the wrong preposition, a bad translation results.</S>
+    <S sid="57" ssid="10">The IN node here is an overlap point between rules.</S>
+    <S sid="58" ssid="11">Considering that certain nonterminal symbols may be more reliable overlap points than others, we create a binary feature for each nonterminal.</S>
+    <S sid="59" ssid="12">A rule like: will have feature rule-root-IN set to 1 and all other rule-root features set to 0.</S>
+    <S sid="60" ssid="13">Our rule root features range over the original (non-split) nonterminal set; we have 105 in total.</S>
+    <S sid="61" ssid="14">Even though the rule root features are locally attached to individual rules&#8212;and therefore cause no additional problems for the decoder search&#8212;they are aimed at problematic rule/rule interactions.</S>
+    <S sid="62" ssid="15">Bad single-level rewrites Sometimes the decoder uses questionable rules, for example: This rule is learned from 62 cases in our training data, where the VBN is almost always the word given.</S>
+    <S sid="63" ssid="16">However, the decoder misuses this rule with other VBNs.</S>
+    <S sid="64" ssid="17">So we can add a feature that penalizes any rule in which a PP dominates a VBN and NP-C.</S>
+    <S sid="65" ssid="18">The feature class bad-rewrite comprises penalties for the following configurations based on our analysis of the tuning set: Node count features It is possible that the decoder creates English trees with too many or too few nodes of a particular syntactic category.</S>
+    <S sid="66" ssid="19">For example, there may be an tendency to generate too many determiners or past-tense verbs.</S>
+    <S sid="67" ssid="20">We therefore add a count feature for each of the 109 (non-split) English nonterminal symbols.</S>
+    <S sid="68" ssid="21">For a rule like the feature node-count-NPB gets value 1, nodecount-NNP gets value 2, and all others get 0.</S>
+    <S sid="69" ssid="22">Insertion features Among the rules we extract from bilingual corpora are target-language insertion rules, which have a word on the English side, but no words on the source Chinese side.</S>
+    <S sid="70" ssid="23">Sample syntaxbased insertion rules are: We notice that our decoder, however, frequently fails to insert words like is and are, which often have no equivalent in the Chinese source.</S>
+    <S sid="71" ssid="24">We also notice that the-insertion rules sometimes have a good effect, as in the translation &#8220;in the bloom of youth,&#8221; but other times have a bad effect, as in &#8220;people seek areas of the conspiracy.&#8221; Each time the decoder uses (or fails to use) an insertion rule, it incurs some risk.</S>
+    <S sid="72" ssid="25">There is no guarantee that the interaction of the rule probabilities and the language model provides the best way to manage this risk.</S>
+    <S sid="73" ssid="26">We therefore provide MIRA with a feature for each of the most common English words appearing in insertion rules, e.g., insert-the and insert-is.</S>
+    <S sid="74" ssid="27">There are 35 such features.</S>
+    <S sid="75" ssid="28">We now turn to features that make use of source-side context.</S>
+    <S sid="76" ssid="29">Although these features capture dependencies that cross boundaries between rules, they are still local in the sense that no new states need to be added to the decoder.</S>
+    <S sid="77" ssid="30">This is because the entire source sentence, being fixed, is always available to every feature.</S>
+    <S sid="78" ssid="31">Soft syntactic constraints Neither of our systems uses source-side syntactic information; hence, both could potentially benefit from soft syntactic constraints as described by Marton and Resnik (2008).</S>
+    <S sid="79" ssid="32">In brief, these features use the output of an independent syntactic parser on the source sentence, rewarding decoder constituents that match syntactic constituents and punishing decoder constituents that cross syntactic constituents.</S>
+    <S sid="80" ssid="33">We use separatelytunable features for each syntactic category.</S>
+    <S sid="81" ssid="34">Structural distortion features Both of our systems have rules with variables that generalize over possible fillers, but neither system&#8217;s basic model conditions a rule application on the size of a filler, making it difficult to distinguish long-distance reorderings from short-distance reorderings.</S>
+    <S sid="82" ssid="35">To remedy this problem, Chiang et al. (2008) introduce a structural distortion model, which we include in our experiment.</S>
+    <S sid="83" ssid="36">Our syntax-based baseline includes the generative version of this model already.</S>
+    <S sid="84" ssid="37">Word context During rule extraction, we retain word alignments from the training data in the extracted rules.</S>
+    <S sid="85" ssid="38">(If a rule is observed with more than one set of word alignments, we keep only the most frequent one.)</S>
+    <S sid="86" ssid="39">We then define, for each triple (f, e, f+1), a feature that counts the number of times that f is aligned to e and f+1 occurs to the right of f; and similarly for triples (f, e, f&#8722;1) with f&#8722;1 occurring to the left of f. In order to limit the size of the model, we restrict words to be among the 100 most frequently occurring words from the training data; all other words are replaced with a token &lt;unk&gt;.</S>
+    <S sid="87" ssid="40">These features are somewhat similar to features used by Watanabe et al. (2007), but more in the spirit of features used in the word sense disambiguation model introduced by Lee and Ng (2002) and incorporated as a submodel of a translation system by Chan et al.</S>
+    <S sid="88" ssid="41">(2007); here, we are incorporating some of its features directly into the translation model.</S>
+  </SECTION>
+  <SECTION title="5 Experiments" number="5">
+    <S sid="89" ssid="1">For our experiments, we used a 260 million word Chinese/English bitext.</S>
+    <S sid="90" ssid="2">We ran GIZA++ on the entire bitext to produce IBM Model 4 word alignments, and then the link deletion algorithm (Fossum et al., 2008) to yield better-quality alignments.</S>
+    <S sid="91" ssid="3">For the syntax-based system, we ran a reimplementation of the Collins parser (Collins, 1997) on the English half of the bitext to produce parse trees, then restructured and relabeled them as described in Section 3.2.</S>
+    <S sid="92" ssid="4">Syntax-based rule extraction was performed on a 65 million word subset of the training data.</S>
+    <S sid="93" ssid="5">For Hiero, rules with up to two nonterminals were extracted from a 38 million word subset and phrasal rules were extracted from the remainder of the training data.</S>
+    <S sid="94" ssid="6">We trained three 5-gram language models: one on the English half of the bitext, used by both systems, one on one billion words of English, used by the syntax-based system, and one on two billion words of English, used by Hiero.</S>
+    <S sid="95" ssid="7">Modified Kneser-Ney smoothing (Chen and Goodman, 1998) was applied to all language models.</S>
+    <S sid="96" ssid="8">The language models are represented using randomized data structures similar to those of Talbot et al. (2007).</S>
+    <S sid="97" ssid="9">Our tuning set (2010 sentences) and test set (1994 sentences) were drawn from newswire data from the NIST 2004 and 2005 evaluations and the GALE program (with no overlap at either the segment or document level).</S>
+    <S sid="98" ssid="10">For the source-side syntax features, we used the Berkeley parser (Petrov et al., 2006) to parse the Chinese side of both sets.</S>
+    <S sid="99" ssid="11">We implemented the source-side context features for Hiero and the target-side syntax features for the syntax-based system, and the discount features for both.</S>
+    <S sid="100" ssid="12">We then ran MIRA on the tuning set with 20 parallel learners for Hiero and 73 parallel learners for the syntax-based system.</S>
+    <S sid="101" ssid="13">We chose a stopping iteration based on the BLEU score on the tuning set, and used the averaged feature weights from all iterations of all learners to decode the test set.</S>
+    <S sid="102" ssid="14">The results (Table 1) show significant improvements in both systems (p &lt; 0.01) over already very strong MERT baselines.</S>
+    <S sid="103" ssid="15">Adding the source-side and discount features to Hiero yields a +1.5 BLEU improvement, and adding the target-side syntax and discount features to the syntax-based system yields a +1.1 BLEU improvement.</S>
+    <S sid="104" ssid="16">The results also show that for Hiero, the various classes of features contributed roughly equally; for the syntax-based system, we see that two of the feature classes make small contributions but time constraints unfortunately did not permit isolated testing of all feature classes.</S>
+  </SECTION>
+  <SECTION title="6 Analysis" number="6">
+    <S sid="105" ssid="1">How did the various new features improve the translation quality of our two systems?</S>
+    <S sid="106" ssid="2">We begin by examining the discount features.</S>
+    <S sid="107" ssid="3">For these features, we used slightly different schemes for the two systems, shown in Table 2 with their learned feature weights.</S>
+    <S sid="108" ssid="4">We see in both cases that one-count rules are strongly penalized, as expected.</S>
+    <S sid="109" ssid="5">Table 3 shows word-insertion feature weights.</S>
+    <S sid="110" ssid="6">The system rewards insertion of forms of be; examples 1&#8211;3 in Figure 1 show typical improved translations that result.</S>
+    <S sid="111" ssid="7">Among determiners, inserting a is rewarded, while inserting the is punished.</S>
+    <S sid="112" ssid="8">This seems to be because the is often part of a fixed phrase, such as the White House, and therefore comes naturally as part of larger phrasal rules.</S>
+    <S sid="113" ssid="9">Inserting the outside these fixed phrases is a risk that the generative model is too inclined to take.</S>
+    <S sid="114" ssid="10">We also note that the system learns to punish unmotivated insertions of commas and periods, which get into our grammar via quirks in the MT training data.</S>
+    <S sid="115" ssid="11">Table 4 shows weights for rule-overlap features.</S>
+    <S sid="116" ssid="12">MIRA punishes the case where rules overlap with an IN (preposition) node.</S>
+    <S sid="117" ssid="13">This makes sense: if a rule has a variable that can be filled by any English preposition, there is a risk that an incorrect preposition will fill it.</S>
+    <S sid="118" ssid="14">On the other hand, splitting at a period is a safe bet, and frees the model to use rules that dig deeper into NP and VP trees when constructing a top-level S. Table 5 shows weights for generated English nonterminals: SBAR-C nodes are rewarded and commas are punished.</S>
+    <S sid="119" ssid="15">The combined effect of all weights is subtle.</S>
+    <S sid="120" ssid="16">To interpret them further, it helps to look at gross changes in the system&#8217;s behavior.</S>
+    <S sid="121" ssid="17">For example, a major error in the baseline system is to move &#8220;X said&#8221; or &#8220;X asked&#8221; from the beginning of the Chinese input to the middle or end of the English translation.</S>
+    <S sid="122" ssid="18">The error occurs with many speaking verbs, and each time, we trace it to a different rule.</S>
+    <S sid="123" ssid="19">The problematic rules can even be non-lexical, e.g.</S>
+    <S sid="124" ssid="20">: It is therefore difficult to come up with a straightforward feature to address the problem.</S>
+    <S sid="125" ssid="21">However, when we apply MIRA with the features already listed, these translation errors all disappear, as demonstrated by examples 4&#8211;5 in Figure 1.</S>
+    <S sid="126" ssid="22">Why does this happen?</S>
+    <S sid="127" ssid="23">It turns out that in translation hypotheses that move &#8220;X said&#8221; or &#8220;X asked&#8221; away from the beginning of the sentence, more commas appear, and fewer S-C and SBAR-C nodes appear.</S>
+    <S sid="128" ssid="24">Therefore, the new features work to discourage these hypotheses.</S>
+    <S sid="129" ssid="25">Example 6 shows additionally that commas next to speaking verbs are now correctly deleted.</S>
+    <S sid="130" ssid="26">Examples 7&#8211;8 in Figure 1 show other kinds of unanticipated improvements.</S>
+    <S sid="131" ssid="27">We do not have space for a fuller analysis, but we note that the specific effects we describe above account for only part of the overall B1.Eu improvement.</S>
+    <S sid="132" ssid="28">In Table 6 are shown feature weights learned for the word-context features.</S>
+    <S sid="133" ssid="29">A surprising number of the highest-weighted features have to do with translations of dates and bylines.</S>
+    <S sid="134" ssid="30">Many of the penalties seem to discourage spurious insertion or deletion of frequent words (for, &#8217;s, said, parentheses, and quotes).</S>
+    <S sid="135" ssid="31">Finally, we note that several of the features (the third- and eighth-ranked reward and twelfthranked penalty) shape the translation of shuo &#8216;said&#8217;, preferring translations with an overt complementizer that and without a comma.</S>
+    <S sid="136" ssid="32">Thus these features work together to attack a frequent problem that our targetsyntax features also addressed.</S>
+    <S sid="137" ssid="33">Figure 2 shows the performance of Hiero with all of its features on the tuning and test sets over time.</S>
+    <S sid="138" ssid="34">The scores on the tuning set rise rapidly, and the scores on the test set also rise, but much more slowly, and there appears to be slight degradation after the 18th pass through the tuning data.</S>
+    <S sid="139" ssid="35">This seems in line with the finding of Watanabe et al. (2007) that with on the order of 10,000 features, overfitting is possible, but we can still improve accuracy on new data.</S>
+    <S sid="140" ssid="36">Early stopping would have given +0.2 B1.Eu over the results reported in Table 1.1</S>
+  </SECTION>
+  <SECTION title="7 Conclusion" number="7">
+    <S sid="141" ssid="1">We have described a variety of features for statistical machine translation and applied them to syntaxbased and hierarchical systems.</S>
+    <S sid="142" ssid="2">We saw that these features, discriminatively trained using MIRA, led to significant improvements, and took a closer look at the results to see how the new features qualitatively improved translation quality.</S>
+    <S sid="143" ssid="3">We draw three conclusions from this study.</S>
+    <S sid="144" ssid="4">First, we have shown that these new features can improve the performance even of top-scoring MT systems.</S>
+    <S sid="145" ssid="5">Second, these results add to a growing body of evidence that MIRA is preferable to MERT for discriminative training.</S>
+    <S sid="146" ssid="6">When training over 10,000 features on a modest amount of data, we, like Watanabe et al. (2007), did observe overfitting, yet saw improvements on new data.</S>
+    <S sid="147" ssid="7">Third, we have shown that syntax-based machine translation offers possibilities for features not available in other models, making syntax-based MT and MIRA an especially strong combination for future work.</S>
+    <S sid="148" ssid="8">2 MERT: ... the average life expectancy of only 18 months , canada &#8217;s minority goverment will ... MIRA: ... the average life expectancy of canada&#8217;s previous minority government is only 18 months ... ...</S>
+  </SECTION>
+</PAPER>

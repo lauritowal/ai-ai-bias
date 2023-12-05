@@ -1,0 +1,128 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "W11-0910", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Claire, Bonial | Susan Windisch, Brown | Jena D., Hwang | Christopher, Parisien | Martha, Palmer | Suzanne, Stevenson", 
+    "raw_text": "Complicating the issue is the phenomenon of regular sense extensions (Dang et al, 1998), where what once may have been coercion has become entrenched and is now seen as a different sense of the verb", 
+    "clean_text": "Complicating the issue is the phenomenon of regular sense extensions (Dang et al, 1998), where what once may have been coercion has become entrenched and is now seen as a different sense of the verb.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "C00-2148", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "Hoa Trang, Dang | Karin Christine, Kipper | Martha, Palmer", 
+    "raw_text": "Dang et al (1998) showed that multiple listings could in some cases be interpreted as regular sense xtensions, and defined intersective Levin classes, which are a more line-grained, syntactically and semantically coherent refinement of basic Levin classes", 
+    "clean_text": "Dang et al (1998) showed that multiple listings could in some cases be interpreted as regular sense extensions, and defined intersective Levin classes, which are a more fine-grained, syntactically and semantically coherent refinement of basic Levin classes.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "C08-1002", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Omri, Abend | Roi, Reichart | Ari, Rappoport", 
+    "raw_text": "VN is built on a refinement of the Levin classes, the intersective Levin classes (Dang et al, 1998), aimed at achieving more coherent classes both semantically and syntactically", 
+    "clean_text": "VN is built on a refinement of the Levin classes, the intersective Levin classes (Dang et al, 1998), aimed at achieving more coherent classes both semantically and syntactically.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "W04-2606", 
+    "citing_paper_authority": 8, 
+    "citing_paper_authors": "Anna, Korhonen | Ted, Briscoe", 
+    "raw_text": "Dang et al (1998) have supplemented the taxonomy with intersective classes: special classes for verbs which share membership of more than one Levin class because of regular polysemy", 
+    "clean_text": "Dang et al (1998) have supplemented the taxonomy with intersective classes: special classes for verbs which share membership of more than one Levin class because of regular polysemy.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "W04-2606", 
+    "citing_paper_authority": 8, 
+    "citing_paper_authors": "Anna, Korhonen | Ted, Briscoe", 
+    "raw_text": "One can grasp this easily by looking at intersective Levin classes (Dangetal., 1998), created by grouping together subsets of existing classes with overlapping members", 
+    "clean_text": "One can grasp this easily by looking at intersective Levin classes (Dang et al., 1998), created by grouping together subsets of existing classes with overlapping members.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "P03-1009", 
+    "citing_paper_authority": 23, 
+    "citing_paper_authors": "Anna, Korhonen | Yuval, Krymolowski | Zvika, Marx", 
+    "raw_text": "In 8 cases there was a clear indication in the data (when examining SCFs and the selectional preferences on argument heads) that the polysemousverb indeed had its predominant sense in the relevant class and that the co-occurrence was not due to noise.3) Regular Polysemy: Several clusters were produced which represent linguistically plausible inter sective classes (e.g. A3) (Dang et al, 1998) rather than single classes.4) Irregular Polysemy: Verbs with irregular polysemy11 were frequently assigned to singleton clusters", 
+    "clean_text": "Several clusters were produced which represent linguistically plausible inter sective classes (e.g. A3) (Dang et al, 1998) rather than single classes.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "P06-1117", 
+    "citing_paper_authority": 12, 
+    "citing_paper_authors": "Ana-Maria, Giuglea | Alessandro, Moschitti", 
+    "raw_text": "A very good candidate seems to be the Intersective Levin class (ILC) (Dang et al, 1998) that can be found as well in other predicate resources like PB and VerbNet (VN) (Kipper et al, 2000)", 
+    "clean_text": "A very good candidate seems to be the Intersective Levin class (ILC) (Dang et al, 1998) that can be found as well in other predicate resources like PB and VerbNet (VN) (Kipper et al, 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "P06-1117", 
+    "citing_paper_authority": 12, 
+    "citing_paper_authors": "Ana-Maria, Giuglea | Alessandro, Moschitti", 
+    "raw_text": "This constraint of having the same semantic roles is further ensured inside the VN lexicon which is constructed based on a more refined version of the Levin? s classification, called Intersective Levin classes (ILCs) (Dang et al, 1998)", 
+    "clean_text": "This constraint of having the same semantic roles is further ensured inside the VN lexicon which is constructed based on a more refined version of the Levin's classification, called Intersective Levin classes (ILCs) (Dang et al, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "W06-2611", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Ana-Maria, Giuglea | Alessandro, Moschitti", 
+    "raw_text": "A very good candidate seems to be the Intersective Levin classes (Dang et al, 1998) that can be found as well in other predicate re sources like PropBank and VerbNet (Kipper et al., 2000)", 
+    "clean_text": "A very good candidate seems to be the Intersective Levin classes (Dang et al, 1998) that can be found as well in other predicate resources like PropBank and VerbNet (Kipper et al., 2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "W06-2611", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Ana-Maria, Giuglea | Alessandro, Moschitti", 
+    "raw_text": "This constraint of having the same semantic roles is further ensured inside the VerbNetlexi con that is constructed based on a more refined version of the Levin classification called Intersective Levin classes (Dang et al, 1998)", 
+    "clean_text": "This constraint of having the same semantic roles is further ensured inside the VerbNetlexi con that is constructed based on a more refined version of the Levin classification called Intersective Levin classes (Dang et al, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "W99-0632", 
+    "citing_paper_authority": 16, 
+    "citing_paper_authors": "Mirella, Lapata | Chris, Brew", 
+    "raw_text": "Palmer (1999) and Dang et al (1998) argue that the use of syntactic frames and verb classes can simplify the definition of different verb senses", 
+    "clean_text": "Palmer (1999) and Dang et al (1998) argue that the use of syntactic frames and verb classes can simplify the definition of different verb senses.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "W99-0632", 
+    "citing_paper_authority": 16, 
+    "citing_paper_authors": "Mirella, Lapata | Chris, Brew", 
+    "raw_text": "We also plan to experiment with different classification schemes for verb semantics uch as WordNet (Miller et al, 1990) and intersective Levin classes (Dang et al, 1998)", 
+    "clean_text": "We also plan to experiment with different classification schemes for verb semantics uch as WordNet (Miller et al, 1990) and intersective Levin classes (Dang et al, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "W03-0910", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Paul, Kingsbury | Karin Christine, Kipper", 
+    "raw_text": "This reorganization, which was facilitated by the use of inter sective Levin classes (Dang et al, 1998), re ned the classes to account for semantic and syntactic di er ences within a class", 
+    "clean_text": "This reorganization, which was facilitated by the use of inter sective Levin classes (Dang et al, 1998), refined the classes to account for semantic and syntactic divergences within a class.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "C10-1081", 
+    "citing_paper_authority": 18, 
+    "citing_paper_authors": "Ding, Liu | Daniel, Gildea", 
+    "raw_text": "EM 15.9 15.5 15.6 Log-linear 17.1 17.4 17.6 Table 1: BLEU-4 scores of different systems equal better worse With SRF vs. W/O SRF 72% 20.2% 7.8% Table 2: Distribution of the sentences where the semantic role features give no/positive/negative impact to the sentence fluency in terms of the completeness and ordering of the semantic roles.classes in VerbNet (Dang et al, 1998)", 
+    "clean_text": "We first tried using the verb classes in VerbNet (Dang et al, 1998).", 
+    "keep_for_gold": 0
+  }
+]

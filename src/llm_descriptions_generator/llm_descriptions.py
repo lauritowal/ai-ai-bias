@@ -62,6 +62,7 @@ def generate_llm_descriptions_for_item_type(
                 item_type=item_type,
                 item_title_like=item_title_like,
             )
+            breakpoint()
         elif generation_config.description_source == PromptDescriptionSource.LLM_JSON_Summary:
             source_description_batches = load_all_llm_json_summary_batches(
                 item_type=item_type,
