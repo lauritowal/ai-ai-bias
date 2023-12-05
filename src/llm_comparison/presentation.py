@@ -5,11 +5,11 @@ from llm_comparison.llm_comparison import DescriptionBattleTally
 from llm_descriptions_generator.schema import Origin
 
 def compute_llm_win_ratio(tally: DescriptionBattleTally) -> float:
-    total = tally[Origin.LLM] + tally[Origin.Human] + tally["Invalid"]
+    # total = tally[Origin.LLM] + tally[Origin.Human] + tally["Invalid"]
+    total = tally[Origin.LLM] + tally[Origin.Human]
     return tally[Origin.LLM] / total
 
 def compute_avg_llm_win_ratio(tallies: list[DescriptionBattleTally]) -> float:
-    print(tallies)
     return sum([compute_llm_win_ratio(tally) for tally in tallies]) / len(tallies)
 
 def make_full_comparison_label(

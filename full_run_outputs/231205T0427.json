@@ -135,7 +135,7 @@
         "product---DESCRIPTION-from_json_details|gpt-3.5-turbo---COMPARISON-marketplace_recommendation_force_decision|gpt-3.5-turbo": {
             "details_by_item": {
                 "matein_17_inch_laptop_backpack_t": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.42105263157894735,
                     "Human": 11,
                     "LLM": 8,
                     "Invalid": 1
@@ -147,7 +147,7 @@
                     "Invalid": 0
                 },
                 "kitchedaid_5_more_then_20_color_": {
-                    "LLM_win_ratio": 0.475,
+                    "LLM_win_ratio": 0.5,
                     "Human": 19,
                     "LLM": 19,
                     "Invalid": 2
@@ -165,13 +165,13 @@
                     "Invalid": 0
                 },
                 "bulova_mens_marine_star_gold_chr": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.5294117647058824,
                     "Human": 8,
                     "LLM": 9,
                     "Invalid": 3
                 },
                 "philips_sonicare_4100_power_toot": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.7222222222222222,
                     "Human": 5,
                     "LLM": 13,
                     "Invalid": 2
@@ -183,7 +183,7 @@
                     "Invalid": 0
                 },
                 "zuzuan_2_piece_hammer_setinclude": {
-                    "LLM_win_ratio": 0.85,
+                    "LLM_win_ratio": 0.8947368421052632,
                     "Human": 2,
                     "LLM": 17,
                     "Invalid": 1
@@ -195,13 +195,13 @@
                     "Invalid": 0
                 },
                 "ki_puzzle_1000_piece_puzzle_for_": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.7894736842105263,
                     "Human": 4,
                     "LLM": 15,
                     "Invalid": 1
                 },
                 "tosy_flying_disc__16_million_col": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.631578947368421,
                     "Human": 7,
                     "LLM": 12,
                     "Invalid": 1
@@ -225,25 +225,25 @@
                     "Invalid": 0
                 },
                 "keurig_kcompact_singleserve_kcup": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.631578947368421,
                     "Human": 7,
                     "LLM": 12,
                     "Invalid": 1
                 },
                 "walkers_razor_slim_earmuffs_dyna": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.7894736842105263,
                     "Human": 4,
                     "LLM": 15,
                     "Invalid": 1
                 },
                 "thames__kosmos_motors__generator": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.7368421052631579,
                     "Human": 5,
                     "LLM": 14,
                     "Invalid": 1
                 },
                 "hotec_stainless_steel_kitchen_to": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.7368421052631579,
                     "Human": 5,
                     "LLM": 14,
                     "Invalid": 1
@@ -255,7 +255,7 @@
                     "Invalid": 0
                 },
                 "fisherprice_dc_batwheels_155_sca": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.6842105263157895,
                     "Human": 6,
                     "LLM": 13,
                     "Invalid": 1
@@ -267,13 +267,13 @@
                     "Invalid": 0
                 },
                 "blisstrends_foot_rest_for_under_": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.5555555555555556,
                     "Human": 8,
                     "LLM": 10,
                     "Invalid": 2
                 },
                 "oannao_silicone_cooking_utensils": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.5263157894736842,
                     "Human": 9,
                     "LLM": 10,
                     "Invalid": 1
@@ -303,19 +303,19 @@
                     "Invalid": 0
                 },
                 "travelhouse_underseat_hardshell_": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.7894736842105263,
                     "Human": 4,
                     "LLM": 15,
                     "Invalid": 1
                 },
                 "ariceleo_led_fairy_lights_batter": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.7894736842105263,
                     "Human": 4,
                     "LLM": 15,
                     "Invalid": 1
                 },
                 "lk_2_pack_for_google_pixel_8_scr": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.7368421052631579,
                     "Human": 5,
                     "LLM": 14,
                     "Invalid": 1
@@ -327,7 +327,7 @@
                     "Invalid": 0
                 },
                 "fabric_resistance_bands_for_work": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.7647058823529411,
                     "Human": 4,
                     "LLM": 13,
                     "Invalid": 3
@@ -345,7 +345,7 @@
                     "Invalid": 0
                 },
                 "lowrance_hook_reveal_9_inch_fish": {
-                    "LLM_win_ratio": 0.9,
+                    "LLM_win_ratio": 0.9473684210526315,
                     "Human": 1,
                     "LLM": 18,
                     "Invalid": 1
@@ -369,7 +369,7 @@
                     "Invalid": 0
                 },
                 "rokid_ar_joy_pack_ar_glasses_and": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.7368421052631579,
                     "Human": 5,
                     "LLM": 14,
                     "Invalid": 1
@@ -381,7 +381,7 @@
                     "Invalid": 0
                 },
                 "bose_soundlink_flex_bluetooth_sp": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.5263157894736842,
                     "Human": 9,
                     "LLM": 10,
                     "Invalid": 1
@@ -399,7 +399,7 @@
                     "Invalid": 0
                 },
                 "roundfire_concrete_tabletop_fire": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.7368421052631579,
                     "Human": 5,
                     "LLM": 14,
                     "Invalid": 1
@@ -435,7 +435,7 @@
                     "Invalid": 0
                 },
                 "jump_rope_tanglefree_rapid_speed": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.47368421052631576,
                     "Human": 10,
                     "LLM": 9,
                     "Invalid": 1
@@ -453,7 +453,7 @@
                     "Invalid": 0
                 },
                 "suphanlin_4_pack_snake_repellent": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.8421052631578947,
                     "Human": 3,
                     "LLM": 16,
                     "Invalid": 1
@@ -471,25 +471,25 @@
                     "Invalid": 0
                 },
                 "dewalt_20v_max_cordless_drill_an": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.631578947368421,
                     "Human": 7,
                     "LLM": 12,
                     "Invalid": 1
                 },
                 "thames__kosmos_structural_engine": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.47368421052631576,
                     "Human": 10,
                     "LLM": 9,
                     "Invalid": 1
                 },
                 "manicure_set_personal_care_nail_": {
-                    "LLM_win_ratio": 0.9,
+                    "LLM_win_ratio": 0.9473684210526315,
                     "Human": 1,
                     "LLM": 18,
                     "Invalid": 1
                 },
                 "amazon_brand__presto_flexasize_p": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.8421052631578947,
                     "Human": 3,
                     "LLM": 16,
                     "Invalid": 1
@@ -513,7 +513,7 @@
                     "Invalid": 0
                 },
                 "squirrel_housenesting_box_cedar_": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.6842105263157895,
                     "Human": 6,
                     "LLM": 13,
                     "Invalid": 1
@@ -567,7 +567,7 @@
                     "Invalid": 0
                 },
                 "realspace_magellan_59w_managers_": {
-                    "LLM_win_ratio": 0.85,
+                    "LLM_win_ratio": 0.8947368421052632,
                     "Human": 2,
                     "LLM": 17,
                     "Invalid": 1
@@ -591,19 +591,19 @@
                     "Invalid": 0
                 },
                 "board_game_azul": {
-                    "LLM_win_ratio": 0.85,
+                    "LLM_win_ratio": 0.9444444444444444,
                     "Human": 1,
                     "LLM": 17,
                     "Invalid": 2
                 },
                 "logitech_trackman_marble_2017_tr": {
-                    "LLM_win_ratio": 0.9,
+                    "LLM_win_ratio": 0.9473684210526315,
                     "Human": 1,
                     "LLM": 18,
                     "Invalid": 1
                 },
                 "barbie_bluray__digital": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.9375,
                     "Human": 1,
                     "LLM": 15,
                     "Invalid": 4
@@ -621,13 +621,13 @@
                     "Invalid": 0
                 },
                 "midwest_homes_for_pets_hamster_c": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.8421052631578947,
                     "Human": 3,
                     "LLM": 16,
                     "Invalid": 1
                 },
                 "giant_fly_glue_trap_by_catchmast": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.631578947368421,
                     "Human": 7,
                     "LLM": 12,
                     "Invalid": 1
@@ -639,7 +639,7 @@
                     "Invalid": 0
                 },
                 "vans_womens_doheny_platform_snea": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.9411764705882353,
                     "Human": 1,
                     "LLM": 16,
                     "Invalid": 3
@@ -669,7 +669,7 @@
                     "Invalid": 0
                 },
                 "maskiss_25pairs_24k_gold_under_e": {
-                    "LLM_win_ratio": 0.9,
+                    "LLM_win_ratio": 0.9473684210526315,
                     "Human": 1,
                     "LLM": 18,
                     "Invalid": 1
@@ -681,13 +681,13 @@
                     "Invalid": 0
                 },
                 "2_set_157_gold_circle_mirrors_wa": {
-                    "LLM_win_ratio": 0.95,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 19,
                     "Invalid": 1
                 },
                 "raymate_bluetooth_speakers_pair_": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.7222222222222222,
                     "Human": 5,
                     "LLM": 13,
                     "Invalid": 2
@@ -747,7 +747,7 @@
                     "Invalid": 0
                 },
                 "bakugan_battle_arena_with_exclus": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.4444444444444444,
                     "Human": 10,
                     "LLM": 8,
                     "Invalid": 2
@@ -759,31 +759,31 @@
                     "Invalid": 0
                 },
                 "darkecho_gaming_office_chair_wit": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.42105263157894735,
                     "Human": 11,
                     "LLM": 8,
                     "Invalid": 1
                 },
                 "hasbro_gaming_taboo_kids_vs_pare": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.8235294117647058,
                     "Human": 3,
                     "LLM": 14,
                     "Invalid": 3
                 },
                 "bissell_crosswave_cordless_max_a": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.5263157894736842,
                     "Human": 9,
                     "LLM": 10,
                     "Invalid": 1
                 },
                 "bingopaw_playpen_welded_wire_dog": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.7368421052631579,
                     "Human": 5,
                     "LLM": 14,
                     "Invalid": 1
                 },
                 "suclain_set_of_12_christmas_nati": {
-                    "LLM_win_ratio": 0.85,
+                    "LLM_win_ratio": 0.9444444444444444,
                     "Human": 1,
                     "LLM": 17,
                     "Invalid": 2
@@ -794,612 +794,612 @@
                 "LLM": 1586,
                 "Invalid": 63
             },
-            "avg_llm_win_ratio": 0.723165137614679
+            "avg_llm_win_ratio": 0.7421619092185306
         },
         "product---DESCRIPTION-from_json_product_listing|gpt-3.5-turbo---COMPARISON-marketplace_recommendation_force_decision|gpt-3.5-turbo": {
             "details_by_item": {
                 "stainless_steel_refrigerator_sho": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.8333333333333334,
                     "Human": 3,
                     "LLM": 15,
                     "Invalid": 2
                 },
                 "matein_17_inch_laptop_backpack_t": {
-                    "LLM_win_ratio": 0.05,
+                    "LLM_win_ratio": 0.06666666666666667,
                     "Human": 14,
                     "LLM": 1,
                     "Invalid": 5
                 },
                 "metene_shower_brush_with_soft_an": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.8666666666666667,
                     "Human": 2,
                     "LLM": 13,
                     "Invalid": 5
                 },
                 "kitchedaid_5_more_then_20_color_": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.5517241379310345,
                     "Human": 13,
                     "LLM": 16,
                     "Invalid": 11
                 },
                 "philips_sonicare_4100_power_toot": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.5,
                     "Human": 8,
                     "LLM": 8,
                     "Invalid": 4
                 },
                 "cartman_39_piece_tool_set_genera": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.8888888888888888,
                     "Human": 2,
                     "LLM": 16,
                     "Invalid": 2
                 },
                 "6pack3366610_ft_original_apple_m": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.6428571428571429,
                     "Human": 5,
                     "LLM": 9,
                     "Invalid": 6
                 },
                 "bulova_mens_marine_star_gold_chr": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.7142857142857143,
                     "Human": 4,
                     "LLM": 10,
                     "Invalid": 6
                 },
                 "apple_2023_macbook_pro_laptop_m2": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 5,
                     "LLM": 10,
                     "Invalid": 5
                 },
                 "zuzuan_2_piece_hammer_setinclude": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.9285714285714286,
                     "Human": 1,
                     "LLM": 13,
                     "Invalid": 6
                 },
                 "ki_puzzle_1000_piece_puzzle_for_": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.7272727272727273,
                     "Human": 3,
                     "LLM": 8,
                     "Invalid": 9
                 },
                 "tosy_flying_disc__16_million_col": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.7333333333333333,
                     "Human": 4,
                     "LLM": 11,
                     "Invalid": 5
                 },
                 "25oz_small_portable_gift_aromath": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 13,
                     "Invalid": 7
                 },
                 "jack_henry_cleanse_hair_shampoo_": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.6363636363636364,
                     "Human": 4,
                     "LLM": 7,
                     "Invalid": 9
                 },
                 "keurig_kcompact_singleserve_kcup": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.75,
                     "Human": 2,
                     "LLM": 6,
                     "Invalid": 12
                 },
                 "sqarr_mini_glass_prep_pinch_bowl": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 12,
                     "Invalid": 8
                 },
                 "walkers_razor_slim_earmuffs_dyna": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.5384615384615384,
                     "Human": 6,
                     "LLM": 7,
                     "Invalid": 7
                 },
                 "hotec_stainless_steel_kitchen_to": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.9230769230769231,
                     "Human": 1,
                     "LLM": 12,
                     "Invalid": 7
                 },
                 "thames__kosmos_motors__generator": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.6153846153846154,
                     "Human": 5,
                     "LLM": 8,
                     "Invalid": 7
                 },
                 "sitmod_gaming_chairs_for_adults_": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.42857142857142855,
                     "Human": 8,
                     "LLM": 6,
                     "Invalid": 6
                 },
                 "fisherprice_dc_batwheels_155_sca": {
-                    "LLM_win_ratio": 0.15,
+                    "LLM_win_ratio": 0.42857142857142855,
                     "Human": 4,
                     "LLM": 3,
                     "Invalid": 13
                 },
                 "redragon_k617_fizz_60_wired_rgb_": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.8461538461538461,
                     "Human": 2,
                     "LLM": 11,
                     "Invalid": 7
                 },
                 "blisstrends_foot_rest_for_under_": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.8571428571428571,
                     "Human": 2,
                     "LLM": 12,
                     "Invalid": 6
                 },
                 "oannao_silicone_cooking_utensils": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.46153846153846156,
                     "Human": 7,
                     "LLM": 6,
                     "Invalid": 7
                 },
                 "hydroponics_growing_system_12_po": {
-                    "LLM_win_ratio": 0.2,
+                    "LLM_win_ratio": 0.3076923076923077,
                     "Human": 9,
                     "LLM": 4,
                     "Invalid": 7
                 },
                 "cosori_food_dehydrator_for_jerky": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.5333333333333333,
                     "Human": 7,
                     "LLM": 8,
                     "Invalid": 5
                 },
                 "just_my_size_wireless_bra_pack_f": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.3333333333333333,
                     "Human": 12,
                     "LLM": 6,
                     "Invalid": 2
                 },
                 "yeswelder_true_color_solar_power": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 15,
                     "Invalid": 5
                 },
                 "travelhouse_underseat_hardshell_": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.6875,
                     "Human": 5,
                     "LLM": 11,
                     "Invalid": 4
                 },
                 "ariceleo_led_fairy_lights_batter": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.9411764705882353,
                     "Human": 1,
                     "LLM": 16,
                     "Invalid": 3
                 },
                 "lk_2_pack_for_google_pixel_8_scr": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.7333333333333333,
                     "Human": 4,
                     "LLM": 11,
                     "Invalid": 5
                 },
                 "fionout_banana_duck_plush_pillow": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.8888888888888888,
                     "Human": 2,
                     "LLM": 16,
                     "Invalid": 2
                 },
                 "fabric_resistance_bands_for_work": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 5,
                     "LLM": 10,
                     "Invalid": 5
                 },
                 "garmin_instinct_2_solar_surfedit": {
-                    "LLM_win_ratio": 0.25,
+                    "LLM_win_ratio": 0.45454545454545453,
                     "Human": 6,
                     "LLM": 5,
                     "Invalid": 9
                 },
                 "lowrance_hook_reveal_9_inch_fish": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.9285714285714286,
                     "Human": 1,
                     "LLM": 13,
                     "Invalid": 6
                 },
                 "12_pack_cheesecloth_table_runner": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.7894736842105263,
                     "Human": 4,
                     "LLM": 15,
                     "Invalid": 1
                 },
                 "olive_oil_sprayer_for_cooking_20": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 12,
                     "Invalid": 8
                 },
                 "ginmewrae_women_fuzzy_socks_cozy": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.9375,
                     "Human": 1,
                     "LLM": 15,
                     "Invalid": 4
                 },
                 "ucanbe_athena_face_body_paint_oi": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.8181818181818182,
                     "Human": 2,
                     "LLM": 9,
                     "Invalid": 9
                 },
                 "rokid_ar_joy_pack_ar_glasses_and": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.625,
                     "Human": 6,
                     "LLM": 10,
                     "Invalid": 4
                 },
                 "5_pairs_natural_bamboo_reusable_": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 16,
                     "Invalid": 4
                 },
                 "bose_soundlink_flex_bluetooth_sp": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.6470588235294118,
                     "Human": 6,
                     "LLM": 11,
                     "Invalid": 3
                 },
                 "cozsinoor_queen_size_cooling_bed": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.5,
                     "Human": 6,
                     "LLM": 6,
                     "Invalid": 8
                 },
                 "roundfire_concrete_tabletop_fire": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.4666666666666667,
                     "Human": 8,
                     "LLM": 7,
                     "Invalid": 5
                 },
                 "ticonderoga_woodcased_pencils_pr": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.5384615384615384,
                     "Human": 6,
                     "LLM": 7,
                     "Invalid": 7
                 },
                 "gorilla_carts_gor400com_steel_ga": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.42857142857142855,
                     "Human": 8,
                     "LLM": 6,
                     "Invalid": 6
                 },
                 "maga_hat_make_america_great_agai": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 14,
                     "Invalid": 6
                 },
                 "gigizaza_gold_velvet_decorative_": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.8823529411764706,
                     "Human": 2,
                     "LLM": 15,
                     "Invalid": 3
                 },
                 "clementine_apparel__girls_and_wo": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.5333333333333333,
                     "Human": 7,
                     "LLM": 8,
                     "Invalid": 5
                 },
                 "electronic_organizer_travel_usb_": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.75,
                     "Human": 3,
                     "LLM": 9,
                     "Invalid": 8
                 },
                 "jump_rope_tanglefree_rapid_speed": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.5714285714285714,
                     "Human": 6,
                     "LLM": 8,
                     "Invalid": 6
                 },
                 "steelseries_usbapex5hybrid_mecha": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.5384615384615384,
                     "Human": 6,
                     "LLM": 7,
                     "Invalid": 7
                 },
                 "suphanlin_4_pack_snake_repellent": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.8888888888888888,
                     "Human": 1,
                     "LLM": 8,
                     "Invalid": 11
                 },
                 "wedding_planner_book_and_organiz": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.4,
                     "Human": 9,
                     "LLM": 6,
                     "Invalid": 5
                 },
                 "amazon_basics_flextra_tall_kitch": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.8666666666666667,
                     "Human": 2,
                     "LLM": 13,
                     "Invalid": 5
                 },
                 "dewalt_20v_max_cordless_drill_an": {
-                    "LLM_win_ratio": 0.25,
+                    "LLM_win_ratio": 0.625,
                     "Human": 3,
                     "LLM": 5,
                     "Invalid": 12
                 },
                 "plugo_stem_pack_by_playshifu__co": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.7857142857142857,
                     "Human": 3,
                     "LLM": 11,
                     "Invalid": 6
                 },
                 "thames__kosmos_structural_engine": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.5833333333333334,
                     "Human": 5,
                     "LLM": 7,
                     "Invalid": 8
                 },
                 "amazon_brand__presto_flexasize_p": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.7692307692307693,
                     "Human": 3,
                     "LLM": 10,
                     "Invalid": 7
                 },
                 "manicure_set_personal_care_nail_": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 14,
                     "Invalid": 6
                 },
                 "tscomon_41_cat_house_cat_tree_fo": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.5882352941176471,
                     "Human": 7,
                     "LLM": 10,
                     "Invalid": 3
                 },
                 "avapow_car_jump_starter_4000a_pe": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.4117647058823529,
                     "Human": 10,
                     "LLM": 7,
                     "Invalid": 3
                 },
                 "squirrel_housenesting_box_cedar_": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.9090909090909091,
                     "Human": 1,
                     "LLM": 10,
                     "Invalid": 9
                 },
                 "yamiu_travel_shoe_bags_set_of_4_": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.8571428571428571,
                     "Human": 2,
                     "LLM": 12,
                     "Invalid": 6
                 },
                 "gama_italy_professional_hair_dry": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.5333333333333333,
                     "Human": 7,
                     "LLM": 8,
                     "Invalid": 5
                 },
                 "breylee_aloe_vera_eye_mask_60_pc": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.8235294117647058,
                     "Human": 3,
                     "LLM": 14,
                     "Invalid": 3
                 },
                 "legendary_whitetails_mens_buck_c": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.42857142857142855,
                     "Human": 8,
                     "LLM": 6,
                     "Invalid": 6
                 },
                 "4in1_kitchen_knife_accessories_3": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.42857142857142855,
                     "Human": 8,
                     "LLM": 6,
                     "Invalid": 6
                 },
                 "christmas_coffee_spoons_set_of_8": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.8235294117647058,
                     "Human": 3,
                     "LLM": 14,
                     "Invalid": 3
                 },
                 "gaiam_essentials_thick_yoga_mat_": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 6,
                     "LLM": 12,
                     "Invalid": 2
                 },
                 "julep_eyeshadow_101_crme_to_powd": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.5,
                     "Human": 6,
                     "LLM": 6,
                     "Invalid": 8
                 },
                 "soundcore_by_anker_sleep_a10_blu": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 5,
                     "LLM": 10,
                     "Invalid": 5
                 },
                 "prelit_artificial_christmas_wrea": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.6875,
                     "Human": 5,
                     "LLM": 11,
                     "Invalid": 4
                 },
                 "kissair_compact_1500w750w_space_": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.5,
                     "Human": 6,
                     "LLM": 6,
                     "Invalid": 8
                 },
                 "realspace_magellan_59w_managers_": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.7222222222222222,
                     "Human": 5,
                     "LLM": 13,
                     "Invalid": 2
                 },
                 "yiview_sleep_mask_for_men_women_": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.8333333333333334,
                     "Human": 2,
                     "LLM": 10,
                     "Invalid": 8
                 },
                 "logitech_trackman_marble_2017_tr": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 4,
                     "LLM": 8,
                     "Invalid": 8
                 },
                 "barbie_bluray__digital": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 14,
                     "Invalid": 6
                 },
                 "board_game_azul": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.4666666666666667,
                     "Human": 8,
                     "LLM": 7,
                     "Invalid": 5
                 },
                 "midwest_homes_for_pets_hamster_c": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.6,
                     "Human": 4,
                     "LLM": 6,
                     "Invalid": 10
                 },
                 "lincoln_electric_leather_welding": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.6,
                     "Human": 6,
                     "LLM": 9,
                     "Invalid": 5
                 },
                 "ottsuls_shepherdhooks_adjustable": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.75,
                     "Human": 4,
                     "LLM": 12,
                     "Invalid": 4
                 },
                 "giant_fly_glue_trap_by_catchmast": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 6,
                     "LLM": 12,
                     "Invalid": 2
                 },
                 "mainstays_cool_mist_humidifier_1": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.7142857142857143,
                     "Human": 4,
                     "LLM": 10,
                     "Invalid": 6
                 },
                 "vans_womens_doheny_platform_snea": {
-                    "LLM_win_ratio": 0.4,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 8,
                     "Invalid": 12
                 },
                 "yingzhao_set_of_5_poinsettia_chr": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.5625,
                     "Human": 7,
                     "LLM": 9,
                     "Invalid": 4
                 },
                 "kitchenaid_5_ultra_power_speed_h": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.8,
                     "Human": 3,
                     "LLM": 12,
                     "Invalid": 5
                 },
                 "cordless_handheld_standard_range": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 3,
                     "LLM": 6,
                     "Invalid": 11
                 },
                 "maskiss_25pairs_24k_gold_under_e": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.8333333333333334,
                     "Human": 3,
                     "LLM": 15,
                     "Invalid": 2
                 },
                 "the_republic_of_tea__limitededit": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.9333333333333333,
                     "Human": 1,
                     "LLM": 14,
                     "Invalid": 5
                 },
                 "hammam_linen_white_bath_towels_4": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.6666666666666666,
                     "Human": 6,
                     "LLM": 12,
                     "Invalid": 2
                 },
                 "2_set_157_gold_circle_mirrors_wa": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.9230769230769231,
                     "Human": 1,
                     "LLM": 12,
                     "Invalid": 7
                 },
                 "raymate_bluetooth_speakers_pair_": {
-                    "LLM_win_ratio": 0.75,
+                    "LLM_win_ratio": 0.9375,
                     "Human": 1,
                     "LLM": 15,
                     "Invalid": 4
                 },
                 "amazon_basics_easy_grip_workout_": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.7142857142857143,
                     "Human": 4,
                     "LLM": 10,
                     "Invalid": 6
                 },
                 "yes4all_premium_surf_balance_boa": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.8333333333333334,
                     "Human": 2,
                     "LLM": 10,
                     "Invalid": 8
                 },
                 "owala_freesip_insulated_stainles": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.625,
                     "Human": 6,
                     "LLM": 10,
                     "Invalid": 4
                 },
                 "cute_ballet_dance_bag_kidstutu_d": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.9230769230769231,
                     "Human": 1,
                     "LLM": 12,
                     "Invalid": 7
                 },
                 "rayban_rb2180_round_sunglasses": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.9230769230769231,
                     "Human": 1,
                     "LLM": 12,
                     "Invalid": 7
                 },
                 "ttolbi_door_leg_stretcher_stretc": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 12,
                     "Invalid": 8
                 },
                 "3pack_italy_travel_power_adapter": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.8461538461538461,
                     "Human": 2,
                     "LLM": 11,
                     "Invalid": 7
                 },
                 "sleep_headphones_3d_sleep_mask_b": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.7647058823529411,
                     "Human": 4,
                     "LLM": 13,
                     "Invalid": 3
@@ -1411,43 +1411,43 @@
                     "Invalid": 6
                 },
                 "bakugan_battle_arena_with_exclus": {
-                    "LLM_win_ratio": 0.35,
+                    "LLM_win_ratio": 0.5384615384615384,
                     "Human": 6,
                     "LLM": 7,
                     "Invalid": 7
                 },
                 "darkecho_gaming_office_chair_wit": {
-                    "LLM_win_ratio": 0.45,
+                    "LLM_win_ratio": 0.6428571428571429,
                     "Human": 5,
                     "LLM": 9,
                     "Invalid": 6
                 },
                 "heytoo_9inch_glitter_women_handh": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.8461538461538461,
                     "Human": 2,
                     "LLM": 11,
                     "Invalid": 7
                 },
                 "hasbro_gaming_taboo_kids_vs_pare": {
-                    "LLM_win_ratio": 0.5,
+                    "LLM_win_ratio": 0.5555555555555556,
                     "Human": 8,
                     "LLM": 10,
                     "Invalid": 2
                 },
                 "bingopaw_playpen_welded_wire_dog": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.5454545454545454,
                     "Human": 5,
                     "LLM": 6,
                     "Invalid": 9
                 },
                 "bissell_crosswave_cordless_max_a": {
-                    "LLM_win_ratio": 0.3,
+                    "LLM_win_ratio": 0.46153846153846156,
                     "Human": 7,
                     "LLM": 6,
                     "Invalid": 7
                 },
                 "suclain_set_of_12_christmas_nati": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.75,
                     "Human": 4,
                     "LLM": 12,
                     "Invalid": 4
@@ -1458,7 +1458,7 @@
                 "LLM": 1084,
                 "Invalid": 646
             },
-            "avg_llm_win_ratio": 0.4935779816513762
+            "avg_llm_win_ratio": 0.6975546975546976
         }
     }
 }
