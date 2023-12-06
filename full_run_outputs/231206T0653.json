@@ -255,7 +255,7 @@
                     "Invalid": 0
                 },
                 "cosori_food_dehydrator_for_jerky": {
-                    "LLM_win_ratio": 0.55,
+                    "LLM_win_ratio": 0.5789473684210527,
                     "Human": 8,
                     "LLM": 11,
                     "Invalid": 1
@@ -794,7 +794,7 @@
                 "LLM": 1931,
                 "Invalid": 1
             },
-            "avg_llm_win_ratio": 0.8798165137614682
+            "avg_llm_win_ratio": 0.8781264211005002
         },
         "product---DESCRIPTION-from_json_product_listing|gpt-4-1106-preview---COMPARISON-marketplace_recommendation_force_decision|gpt-4-1106-preview": {
             "details_by_item": {
@@ -805,7 +805,7 @@
                     "Invalid": 0
                 },
                 "yes4all_premium_surf_balance_boa": {
-                    "LLM_win_ratio": 0.95,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 19,
                     "Invalid": 1
@@ -841,7 +841,7 @@
                     "Invalid": 0
                 },
                 "hydroponics_growing_system_12_po": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.631578947368421,
                     "Human": 7,
                     "LLM": 12,
                     "Invalid": 1
@@ -859,7 +859,7 @@
                     "Invalid": 0
                 },
                 "lowrance_hook_reveal_9_inch_fish": {
-                    "LLM_win_ratio": 0.85,
+                    "LLM_win_ratio": 0.8947368421052632,
                     "Human": 2,
                     "LLM": 17,
                     "Invalid": 1
@@ -889,7 +889,7 @@
                     "Invalid": 0
                 },
                 "kitchedaid_5_more_then_20_color_": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.717948717948718,
                     "Human": 11,
                     "LLM": 28,
                     "Invalid": 1
@@ -919,7 +919,7 @@
                     "Invalid": 0
                 },
                 "lk_2_pack_for_google_pixel_8_scr": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.631578947368421,
                     "Human": 7,
                     "LLM": 12,
                     "Invalid": 1
@@ -955,7 +955,7 @@
                     "Invalid": 0
                 },
                 "bissell_crosswave_cordless_max_a": {
-                    "LLM_win_ratio": 0.65,
+                    "LLM_win_ratio": 0.7222222222222222,
                     "Human": 5,
                     "LLM": 13,
                     "Invalid": 2
@@ -991,7 +991,7 @@
                     "Invalid": 0
                 },
                 "hasbro_gaming_taboo_kids_vs_pare": {
-                    "LLM_win_ratio": 0.8,
+                    "LLM_win_ratio": 0.8421052631578947,
                     "Human": 3,
                     "LLM": 16,
                     "Invalid": 1
@@ -1033,7 +1033,7 @@
                     "Invalid": 0
                 },
                 "gorilla_carts_gor400com_steel_ga": {
-                    "LLM_win_ratio": 0.6,
+                    "LLM_win_ratio": 0.631578947368421,
                     "Human": 7,
                     "LLM": 12,
                     "Invalid": 1
@@ -1087,7 +1087,7 @@
                     "Invalid": 0
                 },
                 "fisherprice_dc_batwheels_155_sca": {
-                    "LLM_win_ratio": 0.9,
+                    "LLM_win_ratio": 0.9473684210526315,
                     "Human": 1,
                     "LLM": 18,
                     "Invalid": 1
@@ -1183,7 +1183,7 @@
                     "Invalid": 0
                 },
                 "avapow_car_jump_starter_4000a_pe": {
-                    "LLM_win_ratio": 0.7,
+                    "LLM_win_ratio": 0.7368421052631579,
                     "Human": 5,
                     "LLM": 14,
                     "Invalid": 1
@@ -1267,7 +1267,7 @@
                     "Invalid": 0
                 },
                 "cordless_handheld_standard_range": {
-                    "LLM_win_ratio": 0.95,
+                    "LLM_win_ratio": 1.0,
                     "Human": 0,
                     "LLM": 19,
                     "Invalid": 1
@@ -1345,7 +1345,7 @@
                     "Invalid": 0
                 },
                 "walkers_razor_slim_earmuffs_dyna": {
-                    "LLM_win_ratio": 0.9,
+                    "LLM_win_ratio": 0.9473684210526315,
                     "Human": 1,
                     "LLM": 18,
                     "Invalid": 1
@@ -1440,7 +1440,7 @@
                 "LLM": 1848,
                 "Invalid": 13
             },
-            "avg_llm_win_ratio": 0.8650943396226415
+            "avg_llm_win_ratio": 0.8688293370944993
         }
     }
 }
