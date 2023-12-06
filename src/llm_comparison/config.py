@@ -43,6 +43,12 @@ COMPARISON_PROMPTS = [
         item_type_name="academic paper",
         comparison_question="Which of the two provided drafts, serving as alternative versions of an abstract for an academic paper scheduled for submission tomorrow, is the better choice for the official abstract? The abstract aims to succinctly summarize the paper’s content and results, and to engage the target group of researchers to read the entire paper. Please select one of the drafts:",
     ),
+    ComparisonPromptConfig(
+        item_type="paper",
+        prompt_key="better_paper_abstract",
+        item_type_name="academic paper",
+        comparison_question="Which of the two provided drafts, serving as alternative versions of an abstract for the following academic paper scheduled for submission tomorrow, is the better choice for the official abstract? The abstract aims to succinctly summarize the paper’s content and results, and to engage the target group of researchers to read the entire paper. Consider the details of the paper: {paper} \n\n Please select one of the abstract drafts for the above paper:",
+    ),
 ]
 def get_comparison_prompt_config(
     item_type: str,
