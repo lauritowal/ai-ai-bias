@@ -151,7 +151,7 @@ def load_all_academic_papers_as_description_batches(
     item_type: Literal["paper"],
     fill_description_with: Literal["abstract", "body"],
     item_title_like: Optional[list[str]] = None,
-) -> list[TextItemDescriptionBatch]:
+) -> list[HumanTextItemDescriptionBatch]:
     if item_type != "paper":
         raise("Method only allowed for item_type='paper'")
 
@@ -165,12 +165,13 @@ def load_all_academic_papers_as_description_batches(
     filepaths = []
     if item_title_like:
         for title_fragment in item_title_like:
-            partial_filename = to_safe_filename(title_text=title_fragment)
+            # partial_filename = to_safe_filename(title_text=title_fragment)
+            partial_filename = title_fragment
             filepaths += dirpath.glob(f"*{partial_filename}*.json")
     else:
         filepaths = dirpath.glob("*.json")
 
-    text_item_description_batches: list[TextItemDescriptionBatch] = []
+    text_item_description_batches: list[HumanTextItemDescriptionBatch] = []
     for filepath in filepaths:
         with open(filepath, "r") as f:
             paper_data = json.load(f)
@@ -180,29 +181,35 @@ def load_all_academic_papers_as_description_batches(
         if not title:
             title = filepath.stem # without file extension
         
+        abstract = paper_data.get("abstract", None)
+        if not abstract:
+            # try XML field if non-xml not found
+            abstract = paper_data.get("abstract_xml", None)
+        if not abstract:
+            raise Exception(f"Paper file {filepath} is missing the 'abstract' attribute")
+        
+        if len(abstract) <= 20:
+            raise Exception(f"Paper file {filepath} abstract has a suspiciously small character count. Maybe bad data?")
+        
+        body = paper_data.get("article", None)
+        if not body:
+            raise Exception(f"Paper file {filepath} is missing the 'article' attribute")
+        
         if fill_description_with == "abstract":
-            abstract = paper_data.get("abstract", None)
-            if not abstract:
-                # try XML field if non-xml not found
-                abstract = paper_data.get("abstract_xml", None)
-            if not abstract:
-                raise Exception(f"Paper file {filepath} is missing the 'abstract' attribute")
             descriptions = [abstract]
         elif fill_description_with == "body":
-            body = paper_data.get("article", None)
-            if not body:
-                raise Exception(f"Paper file {filepath} is missing the 'article' attribute")
             descriptions = [body]
         else:
             # should be impossible to get here if pydantic is working
             raise(f"Illegal choice for `fill_description_with`: {fill_description_with}")
 
         text_item_description_batches.append(
-            TextItemDescriptionBatch(
+            HumanTextItemDescriptionBatch(
                 item_type=item_type,
                 title=title,
                 descriptions=descriptions,
                 origin=Origin.Human,
+                meta=dict(abstract=abstract, body=body),
             )
         )
     return text_item_description_batches
@@ -210,7 +217,6 @@ def load_all_academic_papers_as_description_batches(
 
 def load_all_human_description_batches(
     item_type: str,
-    # title: Optional[str] = None,
     item_title_like: Optional[list[str]] = None,
     item_filename: Optional[str] = None,
 ) -> list[HumanTextItemDescriptionBatch]:

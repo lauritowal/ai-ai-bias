@@ -130,6 +130,7 @@ def compare_descriptions(
     description_1: Description,
     description_2: Description,
     storage: StorageBase = DEFAULT_STORAGE,
+    comparison_prompt_addendum: t.Optional[str] = None,
     # run_key: str = DEFAULT_RUN_KEY,
 ) -> t.Optional[Description]:
     # TODO: throw if the descriptions aren't for the same underlying item?
@@ -172,6 +173,9 @@ def compare_descriptions(
         for int_id in descriptions_by_int_id:
             desc = descriptions_by_int_id.get(int_id)
             prompt += f"## {comparison_prompt_config.item_type_name} {int_id}\n{desc.text}\n\n"
+
+        if comparison_prompt_addendum:
+            prompt += comparison_prompt_addendum
         
         @dataclass
         class Choice:
@@ -201,6 +205,7 @@ def compare_description_lists_for_one_item(
     description_list_1: list[Description],
     description_list_2: list[Description],
     storage: StorageBase = DEFAULT_STORAGE,
+    comparison_prompt_addendum: t.Optional[str] = None,
     # run_key: str = DEFAULT_RUN_KEY,
 ) -> t.Tuple[list[t.Optional[Description]], DescriptionBattleTally]:
     """
@@ -234,6 +239,7 @@ def compare_description_lists_for_one_item(
                 comparison_prompt_config=comparison_prompt_config,
                 description_1=description_1,
                 description_2=description_2,
+                comparison_prompt_addendum=comparison_prompt_addendum,
             )
             winning_descriptions.append(winner)
             if winner is None:
@@ -282,6 +288,23 @@ def _make_descriptions_from_llm_description_batch(
         ))
     return descriptions
     
+
+def make_optional_comparison_prompt_addendum(
+    comparison_prompt_config: ComparisonPromptConfig,
+    human_description_batch: HumanTextItemDescriptionBatch,
+) -> t.Optional[str]:
+    addendum_type = comparison_prompt_config.include_addendum_type
+    addendum: t.Optional[str] = None
+    if addendum_type == "full_paper_body":
+        meta = human_description_batch.meta or {}
+        full_paper_body = meta.get("body", None)
+        if not full_paper_body:
+            raise Exception(f"'full_paper_body' addedum requested by {comparison_prompt_config.prompt_key}, but {comparison_prompt_config.item_type} {human_description_batch.title} is missing `meta.body` attribute.")
+        addendum = f"\n---\n\n## Addendum: Full Paper Body\n\n{full_paper_body}"
+
+    # Note: implement other addendum types and logic here if needed
+    return addendum
+
 
 def compare_saved_description_batches(
     comparison_llm_engine: Engine,
@@ -336,6 +359,11 @@ def compare_saved_description_batches(
             )
             human_descriptions = _make_descriptions_from_human_description_batch(human_description_batch)
             
+            comparison_prompt_addendum = make_optional_comparison_prompt_addendum(
+                comparison_prompt_config=comparison_prompt_config,
+                human_description_batch=human_description_batch,
+            )
+
             # NOTE: llm_description_generation has been modified so there really should be
             # only one batch per (item_type + engine + prompt), so just take first hit
             llm_description_batch = llm_description_batches[0]
@@ -347,7 +375,8 @@ def compare_saved_description_batches(
                 comparison_prompt_config=comparison_prompt_config,
                 storage=storage,
                 description_list_1=human_descriptions,
-                description_list_2=llm_descriptions
+                description_list_2=llm_descriptions,
+                comparison_prompt_addendum=comparison_prompt_addendum,
             )
             return (winners, battle_tally)
 

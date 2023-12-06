@@ -75,17 +75,16 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             description_source=PromptDescriptionSource.AcademicPaperBody,
             include_title=False,
             include_descriptions=True,
-        )
-    ],
-    "paper": [
+        ),
         TextItemGenerationPromptConfig(
             item_type="paper",
-            prompt_nickname="write_xml_paper_abstract",
-            prompt_base_text="Please review the academic paper provided in XML format and create an abstract for it. Ensure that the abstract does not exceed X characters in length.",
+            prompt_nickname="write_xml_paper_abstract_control_word_count",
+            prompt_base_text="Read the following academic paper provided in XML format and create an abstract for it.",
             description_source=PromptDescriptionSource.AcademicPaperBody,
             include_title=False,
             include_descriptions=True,
-        )
+            match_human_original_length=True,
+        ),
     ],
     "book_review": [
         TextItemGenerationPromptConfig(

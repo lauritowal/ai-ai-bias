@@ -7,12 +7,25 @@ from llm_descriptions_generator.schema import (
 )
 
 
-
 def create_text_item_generation_prompt_from_config(
     config: TextItemGenerationPromptConfig,
     source_description_batch: TextItemDescriptionBatch,
 ) -> TextItemGenerationPrompt:
-    prompt_text = f"{config.prompt_base_text}\n\n---"
+    prompt_text = f"{config.prompt_base_text}"
+    
+    if config.match_human_original_length == True:
+        if config.item_type == "paper":
+            # Special handling: academic papers use original abstract for target count
+            meta = getattr(source_description_batch, "meta", {})
+            abstract = meta.get("abstract", None)
+            target_word_count = len(abstract.split(" "))
+        else:
+            target_word_count = sum([len(d.split(" ")) for d in source_description_batch.descriptions]) / len(source_description_batch.descriptions)
+        if target_word_count is None:
+            raise Exception(f"Failed to assess target word count for config <{config.prompt_nickname}> and item <{source_description_batch.title}>")
+        prompt_text += f"\n\nPlease limit the response to {target_word_count} words or less."
+
+    prompt_text += "\n\n---"
 
     if not config.include_title and not config.include_descriptions:
         raise Exception(f"Invalid TextItemGenerationPromptConfig. Must include at least one of title or descriptions: {config}")
@@ -33,6 +46,3 @@ def create_text_item_generation_prompt_from_config(
         prompt_uid=hashlib.md5(prompt_text.encode('utf-8')).hexdigest(),
         prompt_nickname=config.prompt_nickname,
     )
-
-
-    

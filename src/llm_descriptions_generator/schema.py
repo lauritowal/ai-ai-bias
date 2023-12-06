@@ -12,6 +12,7 @@ class Origin(str, enum.Enum):
 
 class Engine(str, enum.Enum):
     gpt35turbo = "gpt-3.5-turbo"
+    gpt35turbo1106 = "gpt-3.5-turbo-1106"
     # gpt4 = "gpt-4"
     gpt4turbo = "gpt-4-1106-preview"
     
@@ -40,7 +41,7 @@ class TextItemDescriptionBatch:
 
 @dataclass
 class HumanTextItemDescriptionBatch(TextItemDescriptionBatch):
-    pass
+    meta: t.Optional[dict] = None
 
 @dataclass
 class LlmGeneratedTextItemDescriptionBatch(TextItemDescriptionBatch):
@@ -62,6 +63,7 @@ class TextItemGenerationPromptConfig:
     description_source: PromptDescriptionSource
     include_title: t.Optional[bool] = True
     output_description_type: t.Optional[t.Any] = None
+    match_human_original_length: t.Optional[bool] = None
 
 @dataclass
 class TextItemGenerationPrompt:
