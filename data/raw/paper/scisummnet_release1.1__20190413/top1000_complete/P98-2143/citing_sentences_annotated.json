@@ -1,0 +1,182 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "P10-2049", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Niklas, Jakob | Iryna, Gurevych", 
+    "raw_text": "The algorithm with the next-to-highest results in (Charniak and Elsner, 2009) is MARS (Mitkov, 1998) from the GuiTAR (Poesio and Kabadjov, 2004) toolkit", 
+    "clean_text": "The algorithm with the next-to-highest results in (Charniak and Elsner, 2009) is MARS (Mitkov, 1998) from the GuiTAR (Poesio and Kabadjov, 2004) toolkit.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "C04-1074", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Michael, Schiehlen", 
+    "raw_text": "They provide restrictions on co-indexation of pronouns with clause siblings, and therefore can only be applied with systems that determine clause boundaries ,i.e. parsers (Mitkov, 1998)", 
+    "clean_text": "They provide restrictions on co-indexation of pronouns with clause siblings, and therefore can only be applied with systems that determine clause boundaries, i.e. parsers (Mitkov, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "P05-1021", 
+    "citing_paper_authority": 14, 
+    "citing_paper_authors": "Xiaofeng, Yang | Jian, Su | Chew Lim, Tan", 
+    "raw_text": "Indeed, existing learning-based approaches to anaphor resolution have performed reasonably well using limited and shallow knowledge (e.g., Mitkov (1998), Soon et al (2001), Strube and Muller (2003))", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "P05-1021", 
+    "citing_paper_authority": 14, 
+    "citing_paper_authors": "Xiaofeng, Yang | Jian, Su | Chew Lim, Tan", 
+    "raw_text": "ParalStuctmarks whether a candidate and an anaphor have similar surrounding words, which is also a salience factor for the candidate evaluation (Mitkov, 1998) .Feature StatSem records the statistics-based semantic compatibility computed, from the corpus or the web, by either frequency or probability metric, as described in the previous section", 
+    "clean_text": "ParalStuct marks whether a candidate and an anaphor have similar surrounding words, which is also a salience factor for the candidate evaluation (Mitkov, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "D09-1101", 
+    "citing_paper_authority": 28, 
+    "citing_paper_authors": "Altaf, Rahman | Vincent, Ng", 
+    "raw_text": "Like many heuristic-based pronoun resolvers (e.g., Mitkov (1998)), they first apply a set of constraints to filter grammatically incompatible candidate antecedents and then rank the remaining ones using salience factors", 
+    "clean_text": "Like many heuristic-based pronoun resolvers (e.g., Mitkov (1998)), they first apply a set of constraints to filter grammatically incompatible candidate antecedents and then rank the remaining ones using salience factors.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "P01-1006", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Catalina, Barbu | Ruslan, Mitkov", 
+    "raw_text": "We have already voiced concern (Mitkov, 1998a), (Mitkov, 2000b) that the evaluation of anaphora resolution algorithms and systems is bereft of any common ground for comparison due not only to the difference of the evaluation data, but also due to the diversity of pre-processing tools employed by each anaphora resolution system", 
+    "clean_text": "We have already voiced concern (Mitkov, 1998a), (Mitkov, 2000b) that the evaluation of anaphora resolution algorithms and systems is bereft of any common ground for comparison due not only to the difference of the evaluation data, but also due to the diversity of pre-processing tools employed by each anaphora resolution system.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "P01-1006", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Catalina, Barbu | Ruslan, Mitkov", 
+    "raw_text": "RAP (Kennedy and Boguraev, 1996), Baldwin? s pronoun resolution method (Baldwin, 1997) and Mitkov? s knowledge-poor pronoun resolution approach (Mitkov, 1998b)", 
+    "clean_text": "RAP (Kennedy and Boguraev, 1996), Baldwin's pronoun resolution method (Baldwin, 1997) and Mitkov's knowledge-poor pronoun resolution approach (Mitkov, 1998b).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "P01-1006", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Catalina, Barbu | Ruslan, Mitkov", 
+    "raw_text": "Mitkov? s approach Mitkov? s approach (Mitkov, 1998b) is a robust anaphora resolution method for technical texts which is based on a set of boosting and impeding indicators applied to each candidate for antecedent", 
+    "clean_text": "Mitkov's approach (Mitkov, 1998b) is a robust anaphora resolution method for technical texts which is based on a set of boosting and impeding indicators applied to each candidate for antecedent.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "P01-1006", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Catalina, Barbu | Ruslan, Mitkov", 
+    "raw_text": "pronouns, referential distance, average number of candidates for antecedent per pronoun and types of anaphors.7 As expected, the results reported in Table 1 do not match the original results published by Kennedy and Boguraev (1996), Baldwin (1997) and Mitkov (1998b) where the algorithms were tested on different data, employed different pre-processing tools, resorted to different degrees of manual intervention and thus provided no common ground for any reliable comparison", 
+    "clean_text": "As expected, the results reported in Table 1 do not match the original results published by Kennedy and Boguraev (1996), Baldwin (1997) and Mitkov (1998b) where the algorithms were tested on different data, employed different pre-processing tools, resorted to different degrees of manual intervention and thus provided no common ground for any reliable comparison.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "H05-1001", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Josef, Steinberger | Mijail, Alexandrov-Kabadjov | Massimo, Poesio | Olivia, Sanchez-Graillet", 
+    "raw_text": "The current version of the system includes an implementation of the MARS pronoun resolution algorithm (Mitkov, 1998) and a partial implementation of the algorithm for resolving definite descriptions proposed by Vieira and Poesio (2000)", 
+    "clean_text": "The current version of the system includes an implementation of the MARS pronoun resolution algorithm (Mitkov, 1998) and a partial implementation of the algorithm for resolving definite descriptions proposed by Vieira and Poesio (2000).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "H05-1001", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Josef, Steinberger | Mijail, Alexandrov-Kabadjov | Massimo, Poesio | Olivia, Sanchez-Graillet", 
+    "raw_text": "3.2.1 Pronoun Resolution Mitkov (1998) developed a robust approach to pronoun resolution which only requires input text to be part-of-speech tagged and noun phrases to be identified", 
+    "clean_text": "Mitkov (1998) developed a robust approach to pronoun resolution which only requires input text to be part-of-speech tagged and noun phrases to be identified.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "H05-1001", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Josef, Steinberger | Mijail, Alexandrov-Kabadjov | Massimo, Poesio | Olivia, Sanchez-Graillet", 
+    "raw_text": "The approach works as follows: the system identifies the noun phrases which precede the anaphor within a distance of 2 sentences, checks them for gender and number agreement with the anaphor, and then applies genre specific antecedent indicators to the remaining candidates (Mitkov, 1998)", 
+    "clean_text": "The approach works as follows: the system identifies the noun phrases which precede the anaphor within a distance of 2 sentences, checks them for gender and number agreement with the anaphor, and then applies genre specific antecedent indicators to the remaining candidates (Mitkov, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "W04-2310", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Prateek, Jain | Manav Ratan, Mital | Sumit, Kumar | Amitabha, Mukerjee | Achla M., Raina", 
+    "raw_text": "Often domain-specific heuristics are used for anaphora resolution and fine tuned to perform well on a limited corpus, such as in (Mitkov,1998)", 
+    "clean_text": "Often domain-specific heuristics are used for anaphora resolution and fine tuned to perform well on a limited corpus, such as in (Mitkov, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "W04-2310", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Prateek, Jain | Manav Ratan, Mital | Sumit, Kumar | Amitabha, Mukerjee | Achla M., Raina", 
+    "raw_text": "In most systems ((Mitkov, 1998), (Lappin and Leass, 1994)) the weights that are assigned for differentanaphor-antecedent relationships are programmer dependent", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 15, 
+    "citing_paper_id": "N04-1004", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Jacob, Eisenstein | C. Mario, Christoudias", 
+    "raw_text": "Mitkov showed that a salience-based approach can be applied across genres and without complex syntactic, semantic, and discourse analysis (Mitkov,1998)", 
+    "clean_text": "Mitkov showed that a salience-based approach can be applied across genres and without complex syntactic, semantic, and discourse analysis (Mitkov,1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 16, 
+    "citing_paper_id": "P03-1023", 
+    "citing_paper_authority": 37, 
+    "citing_paper_authors": "Xiaofeng, Yang | Guodong, Zhou | Jian, Su | Chew Lim, Tan", 
+    "raw_text": "Mitkov? s knowledge-poor pronoun resolution method (Mitkov, 1998), for example, uses the scores from a set of antecedent indicators to rank the candidates", 
+    "clean_text": "Mitkov's knowledge-poor pronoun resolution method (Mitkov, 1998), for example, uses the scores from a set of antecedent indicators to rank the candidates.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 17, 
+    "citing_paper_id": "I08-3014", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Mohammad Naveed, Ali | Muhammad Aamir, Khan", 
+    "raw_text": "How these factors are helpful in anaphora resolution in English language was worked out by Mitkov (Mitkov, 1998), but their role in Urdu discourse for the resolution of personal pronouns is more cherished", 
+    "clean_text": "How these factors are helpful in anaphora resolution in English language was worked out by Mitkov (Mitkov, 1998), but their role in Urdu discourse for the resolution of personal pronouns is more cherished.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 18, 
+    "citing_paper_id": "W09-2411", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "Marta, Recasens | Toni, Mart&iacute; | Mariona, Taul&eacute; | Llu&iacute;s, M&agrave;rquez | Emili, Sapena", 
+    "raw_text": "Some of the limitations of the traditional rule based approaches (Mitkov, 1998) could be over come by machine learning techniques, which allow automating the acquisition of knowledge from an notated corpora", 
+    "clean_text": "Some of the limitations of the traditional rule based approaches (Mitkov, 1998) could be over come by machine learning techniques, which allow automating the acquisition of knowledge from annotated corpora.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 19, 
+    "citing_paper_id": "C02-1027", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Hristo, Tanev | Ruslan, Mitkov", 
+    "raw_text": "Theanaphora resolver is an adaptation for Bulgarian of Mitkovs knowledge-poor pronoun resolution approach (Mitkov, 1998)", 
+    "clean_text": "The anaphora resolver is an adaptation for Bulgarian of Mitkovs knowledge-poor pronoun resolution approach (Mitkov, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 20, 
+    "citing_paper_id": "C02-1027", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Hristo, Tanev | Ruslan, Mitkov", 
+    "raw_text": "3For a detailed procedure how candidates are handled in the event of a tie, see (Mitkov, 1998)", 
+    "clean_text": "For a detailed procedure how candidates are handled in the event of a tie, see (Mitkov, 1998).", 
+    "keep_for_gold": 0
+  }
+]

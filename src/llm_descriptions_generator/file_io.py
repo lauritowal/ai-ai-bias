@@ -3,7 +3,7 @@ import logging
 from pathlib import Path
 import re
 import toml
-from typing import Optional
+from typing import Optional, Literal
 
 from llm_descriptions_generator.schema import (
     Engine,
@@ -15,6 +15,8 @@ from llm_descriptions_generator.schema import (
 
 THIS_FILE_DIR = Path(__file__).parent.resolve()
 DATA_DIR = THIS_FILE_DIR / "../../data"
+
+PAPERS_HUMAN_SOURCE_SUBDIR_NAME = "xml"
 
 # DEPRECATED (see json files instead)
 def load_human_text_item_descriptions_from_toml_file(
@@ -141,12 +143,86 @@ def load_description_batch_from_json_file(
     raise f"Unrecognized origin: {origin}"
 
 
+# Special loader just for academic paper raw data.
+# Can be used to generate an abstract-only description batch
+# to use as the human version in comparisons, or a body-only
+# description to have LLM generate descriptions (abstracts) from.
+def load_all_academic_papers_as_description_batches(
+    item_type: Literal["paper"],
+    fill_description_with: Literal["abstract", "body"],
+    item_title_like: Optional[list[str]] = None,
+) -> list[TextItemDescriptionBatch]:
+    if item_type != "paper":
+        raise("Method only allowed for item_type='paper'")
+
+    dirpath = generate_descriptions_dirpath(
+        item_type=item_type,
+        origin=Origin.Human,
+    )
+    # use special subdirectory to source the papers info
+    dirpath = dirpath / PAPERS_HUMAN_SOURCE_SUBDIR_NAME
+    
+    filepaths = []
+    if item_title_like:
+        for title_fragment in item_title_like:
+            partial_filename = to_safe_filename(title_text=title_fragment)
+            filepaths += dirpath.glob(f"*{partial_filename}*.json")
+    else:
+        filepaths = dirpath.glob("*.json")
+
+    text_item_description_batches: list[TextItemDescriptionBatch] = []
+    for filepath in filepaths:
+        with open(filepath, "r") as f:
+            paper_data = json.load(f)
+        
+        # if no title in data, use filename as title
+        title = paper_data.get("title", None)
+        if not title:
+            title = filepath.stem # without file extension
+        
+        if fill_description_with == "abstract":
+            abstract = paper_data.get("abstract", None)
+            if not abstract:
+                # try XML field if non-xml not found
+                abstract = paper_data.get("abstract_xml", None)
+            if not abstract:
+                raise Exception(f"Paper file {filepath} is missing the 'abstract' attribute")
+            descriptions = [abstract]
+        elif fill_description_with == "body":
+            body = paper_data.get("article", None)
+            if not body:
+                raise Exception(f"Paper file {filepath} is missing the 'article' attribute")
+            descriptions = [body]
+        else:
+            # should be impossible to get here if pydantic is working
+            raise(f"Illegal choice for `fill_description_with`: {fill_description_with}")
+
+        text_item_description_batches.append(
+            TextItemDescriptionBatch(
+                item_type=item_type,
+                title=title,
+                descriptions=descriptions,
+                origin=Origin.Human,
+            )
+        )
+    return text_item_description_batches
+    
+
 def load_all_human_description_batches(
     item_type: str,
     # title: Optional[str] = None,
     item_title_like: Optional[list[str]] = None,
     item_filename: Optional[str] = None,
 ) -> list[HumanTextItemDescriptionBatch]:
+    # HACK/SHIM that loads paper abstracts (only) as a data source
+    if item_type == "paper":
+        return load_all_academic_papers_as_description_batches(
+            item_type=item_type,
+            fill_description_with="abstract",
+            item_title_like=item_title_like,
+        )
+
+    # normal handling
     dirpath = generate_descriptions_dirpath(
         item_type=item_type,
         origin=Origin.Human,

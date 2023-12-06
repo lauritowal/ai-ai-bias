@@ -1,0 +1,182 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "W97-0120", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Masaaki, Nagata", 
+    "raw_text": "[Sproat et al, 1996] built a word unigram model using the Viterbi re-estimation whose initial estimates were derived from the frequencies in the corpus of the strings of each word in the lexicon", 
+    "clean_text": "[Sproat et al, 1996] built a word uni gram model using the Viterbi re-estimation whose initial estimates were derived from the frequencies in the corpus of the strings of each word in the lexicon.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "W97-0120", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Masaaki, Nagata", 
+    "raw_text": "[Sproat et al, 1996] wrote lexical rules for each productive morphological process, such as plural noun formation, Chinese personal names, and transliterations of foreign words", 
+    "clean_text": "[Sproat et al, 1996] wrote lexical rules for each productive morphological process, such as plural noun formation, Chinese personal names, and transliterations of foreign words.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "W97-0120", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Masaaki, Nagata", 
+    "raw_text": "We used a simple greedy algorithm described in [Sproat et al, 1996]", 
+    "clean_text": "We used a simple greedy algorithm described in [Sproat et al, 1996].", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "W97-0120", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Masaaki, Nagata", 
+    "raw_text": "3.2 S t ring Frequency [Sproat et al, 1996] also proposed another method to estimate a set of initial word frequencies without segmenting the corpus", 
+    "clean_text": "[Sproat et al, 1996] also proposed another method to estimate a set of initial word frequencies without segmenting the corpus.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "W97-0120", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Masaaki, Nagata", 
+    "raw_text": "Word Segmentation accuracy is expressed in terms of recall and precision as is done for bracketing of partial parses [Nagata, 1994, Sproat et al, 1996]", 
+    "clean_text": "Word Segmentation accuracy is expressed in terms of recall and precision as is done for bracketing of partial parses [Nagata, 1994, Sproat et al, 1996].", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "P07-1015", 
+    "citing_paper_authority": 7, 
+    "citing_paper_authors": "Su-Youn, Yoon | Kyoung-Young, Kim | Richard W., Sproat", 
+    "raw_text": "Using the 495 characters that are frequently used for transliterating foreign names (Sproat et al, 1996), a sequence of three of more characters from the list was taken as a possible candidate for Chinese", 
+    "clean_text": "Using the 495 characters that are frequently used for transliterating foreign names (Sproat et al, 1996), a sequence of three of more characters from the list was taken as a possible candidate for Chinese.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "W06-1630", 
+    "citing_paper_authority": 11, 
+    "citing_paper_authors": "Tao, Tao | Su-Youn, Yoon | Andrew, Fister | Richard W., Sproat | ChengXiang, Zhai", 
+    "raw_text": "In contrast, Chinese candidates were extracted using a list of 495 characters that are frequently used for foreign names (Sproatetal., 1996)", 
+    "clean_text": "In contrast, Chinese candidates were extracted using a list of 495 characters that are frequently used for foreign names (Sproat et al., 1996).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "P03-1035", 
+    "citing_paper_authority": 24, 
+    "citing_paper_authors": "Jianfeng, Gao | Mu, Li | Changning, Huang", 
+    "raw_text": "One example of such approaches is Sproat et al (1996), which is based on weighted finite-state transducers (FSTs)", 
+    "clean_text": "One example of such approaches is Sproat et al (1996), which is based on weighted finite-state transducers (FSTs).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "P03-1035", 
+    "citing_paper_authority": 24, 
+    "citing_paper_authors": "Jianfeng, Gao | Mu, Li | Changning, Huang", 
+    "raw_text": "Because any character strings can be in principle named entities of one or more types, to limit the number of candidates for a more effective search, we generate named entity candidates, given an input string, in two steps: First, for each type, we use a set of constraints (which are compiled by 3 Sproat et al (1996) also studied such problems (with the same example) and uses weighted FSTs to deal with the affixation", 
+    "clean_text": "Sproat et al (1996) also studied such problems (with the same example) and uses weighted FSTs to deal with the affixation.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "P03-1035", 
+    "citing_paper_authority": 24, 
+    "citing_paper_authors": "Jianfeng, Gao | Mu, Li | Changning, Huang", 
+    "raw_text": "5.2.4 Transliterations of foreign names As described in Sproat et al (1996): FNs are usually transliterated using Chinese character strings whose sequential pronunciation mimics the source language pronunciation of the name", 
+    "clean_text": "As described in Sproat et al (1996): FNs are usually transliterated using Chinese character strings whose sequential pronunciation mimics the source language pronunciation of the name.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "P12-1110", 
+    "citing_paper_authority": 8, 
+    "citing_paper_authors": "Jun, Hatori | Takuya, Matsuzaki | Yusuke, Miyao | Jun'ichi, Tsujii", 
+    "raw_text": "3.3.1 Dictionary features Because segmentation using a dictionary alone can serve as a strong baseline in Chinese word segmentation (Sproat et al, 1996), the use of dictionaries is expected to make our joint model more robust and enables us to investigate the contribution of the syntactic dependency in a more realistic setting", 
+    "clean_text": "Because segmentation using a dictionary alone can serve as a strong baseline in Chinese word segmentation (Sproat et al, 1996), the use of dictionaries is expected to make our joint model more robust and enables us to investigate the contribution of the syntactic dependency in a more realistic setting.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "A00-2032", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "Rie Kubota, Ando | Lillian, Lee", 
+    "raw_text": "Chinese According to Sproat et al (1996), most prior work in Chinese segmentation has exploited lexical knowledge bases; indeed, the authors assert that they were aware of only one previously published instance (the mutual-information method of Sproat and Shih (1990)) of a purely statistical approach", 
+    "clean_text": "Chinese According to Sproat et al (1996), most prior work in Chinese segmentation has exploited lexical knowledge bases.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "C02-1049", 
+    "citing_paper_authority": 14, 
+    "citing_paper_authors": "Keh-Jiann, Chen | Wei-Yun, Ma", 
+    "raw_text": "Conventionally a word segmentation process identifies the words in input text by matching lexical entries and resolving the ambiguous matching (Chen& amp; Liu, 1992, Sproat et al 1996)", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "C02-1049", 
+    "citing_paper_authority": 14, 
+    "citing_paper_authors": "Keh-Jiann, Chen | Wei-Yun, Ma", 
+    "raw_text": "Mutual information-like statistics are very often adopted in measuring association strength between two morphemes (Church& amp; Merser, 1993, Sproat et al 1996)", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 15, 
+    "citing_paper_id": "P07-1106", 
+    "citing_paper_authority": 27, 
+    "citing_paper_authors": "Yue, Zhang | Stephen, Clark", 
+    "raw_text": "Experiments have shown that there is only about 75% agreement among native speakers regarding the correct word segmentation (Sproatetal., 1996)", 
+    "clean_text": "Experiments have shown that there is only about 75% agreement among native speakers regarding the correct word segmentation (Sproat et al., 1996).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 16, 
+    "citing_paper_id": "P07-1106", 
+    "citing_paper_authority": 27, 
+    "citing_paper_authors": "Yue, Zhang | Stephen, Clark", 
+    "raw_text": "Another difference from our model is the rule-based submodel, which uses a dictionary-based forward maximum match method described by Sproat et al (1996)", 
+    "clean_text": "Another difference from our model is the rule-based sub-model, which uses a dictionary-based forward maximum match method described by Sproat et al (1996).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 17, 
+    "citing_paper_id": "P07-1016", 
+    "citing_paper_authority": 13, 
+    "citing_paper_authors": "Haizhou, Li | Khe Chai, Sim | Jin-Shea, Kuo | Minghui, Dong", 
+    "raw_text": "As discussed elsewhere (Sproat et al, 1996), out of several thousand common Chinese characters, a subset of a few hundred characters tends to be used overwhelmingly for transliterating English names to Chinese ,e.g. only 731 Chinese characters are adopted in the E-C corpus", 
+    "clean_text": "As discussed elsewhere (Sproat et al, 1996), out of several thousand common Chinese characters, a subset of a few hundred characters tends to be used overwhelmingly for transliterating English names to Chinese.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 18, 
+    "citing_paper_id": "P98-1076", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Jin, Guo", 
+    "raw_text": "The actual implementation f the weighted finite state transducer by Sproat et al (1996) can be taken as an evidence that the hypothesis of one tokenization per source has already in practical use", 
+    "clean_text": "The actual implementation of the weighted finite state transducer by Sproat et al (1996) can be taken as an evidence that the hypothesis of one tokenization per source has already in practical use.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 19, 
+    "citing_paper_id": "P98-1076", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Jin, Guo", 
+    "raw_text": "utilizing local and sentential constraints, what Sproat et al (1996) implemented was simply a token unigram scoring function", 
+    "clean_text": "what Sproat et al (1996) implemented was simply a token unigram scoring function.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 20, 
+    "citing_paper_id": "E09-1063", 
+    "citing_paper_authority": 7, 
+    "citing_paper_authors": "Yanjun, Ma | Andy, Way", 
+    "raw_text": "First of all, it is really difficult to build a reliable and objective gold-standard given the fact that there is only 70% agreement between native speakers on this task (Sproat et al, 1996) .Second, an increase in F-score does not necessarily imply an improvement in translation quality", 
+    "clean_text": "First of all, it is really difficult to build a reliable and objective gold-standard given the fact that there is only 70% agreement between native speakers on this task (Sproat et al, 1996).", 
+    "keep_for_gold": 0
+  }
+]

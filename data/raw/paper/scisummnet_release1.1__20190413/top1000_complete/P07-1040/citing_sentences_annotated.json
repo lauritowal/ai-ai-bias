@@ -1,0 +1,182 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "P08-2021", 
+    "citing_paper_authority": 21, 
+    "citing_paper_authors": "Damianos, Karakos | Jason M., Eisner | Sanjeev P., Khudanpur | Markus, Dreyer", 
+    "raw_text": "We build our confusion net works using the method of Rosti et al (2007), but, instead of forming alignments using the tercom script (Snover et al, 2006), we create alignments that minimize invWER (Leusch et al, 2003), a form of edit distance that permits properly nested block movements of substrings", 
+    "clean_text": "We build our confusion networks using the method of Rosti et al (2007), but, instead of forming alignments using the tercom script (Snover et al, 2006), we create alignments that minimize invWER (Leusch et al, 2003), a form of edit distance that permits properly nested block movements of substrings.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "P08-2021", 
+    "citing_paper_authority": 21, 
+    "citing_paper_authors": "Damianos, Karakos | Jason M., Eisner | Sanjeev P., Khudanpur | Markus, Dreyer", 
+    "raw_text": "For this, Rosti et al (2007) use the tercom script (Snover et al, 2006), which uses a number of heuristics (as well as dynamic programming) for finding a sequence of edits (insertions, deletions, substitutions and block shifts) that convert an input string to another", 
+    "clean_text": "For this, Rosti et al (2007) use the tercom script (Snover et al, 2006), which uses a number of heuristics (as well as dynamic programming) for finding a sequence of edits (insertions, deletions, substitutions and block shifts) that convert an input string to another.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "P08-2021", 
+    "citing_paper_authority": 21, 
+    "citing_paper_authors": "Damianos, Karakos | Jason M., Eisner | Sanjeev P., Khudanpur | Markus, Dreyer", 
+    "raw_text": "ITG-based alignments and tercom-based alignments were also compared in oracle experiments involving confusion networks created through the algorithm ofRosti et al (2007)", 
+    "clean_text": "ITG-based alignments and tercom-based alignments were also compared in oracle experiments involving confusion networks created through the algorithm of Rosti et al (2007).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "P08-2021", 
+    "citing_paper_authority": 21, 
+    "citing_paper_authors": "Damianos, Karakos | Jason M., Eisner | Sanjeev P., Khudanpur | Markus, Dreyer", 
+    "raw_text": "Note that the algorithm of Rosti et al (2007) used N -best lists inthe combination", 
+    "clean_text": "Note that the algorithm of Rosti et al (2007) used n-best lists in the combination.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "W09-0407", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Gregor, Leusch | Evgeny, Matusov | Hermann, Ney", 
+    "raw_text": "In our experience, this approach is advantageous in terms of translation quality ,e.g. by 0.7% in BLEU com pared to a minimum Bayes risk primary (Rosti et al., 2007)", 
+    "clean_text": "In our experience, this approach is advantageous in terms of translation quality, e.g. by 0.7% in BLEU compared to a minimum Bayes risk primary (Rosti et al., 2007).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "D09-1115", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Yang, Feng | Yang, Liu | Haitao, Mi | Qun, Liu | Yajuan, L&uuml;", 
+    "raw_text": "While in lattice decoding, a translation path may skip some nodes as some hypothesis arcs may cross more than one backbone arc. Similar to the features in Rosti et al (2007a), the features adopted by lattice-based model are arc posterior probability, language model probability, the number of null arcs, the number of hypothesis arcs possessing more than one non-null word and the number of all non-null words", 
+    "clean_text": "Similar to the features in Rosti et al (2007a), the features adopted by lattice-based model are arc posterior probability, language model probability, the number of null arcs, the number of hypothesis arcs possessing more than one non-null word and the number of all non-null words.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "D09-1115", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Yang, Feng | Yang, Liu | Haitao, Mi | Qun, Liu | Yajuan, L&uuml;", 
+    "raw_text": "p s (arc) is increased by 1110 1/ (k+1) if the hypothesis ranking k in the system s contains the arc (Rosti et al, 2007a; He et al, 2008) .Cube pruning algorithm with beam search is em ployed to search for the consensus output (Huang and Chiang, 2005)", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "W10-1742", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Jinhua, Du | Pavel, Pecina | Andy, Way", 
+    "raw_text": "framework was firstly proposed in Rosti et al (2007) who used each of all individual system results as the backbone to build CNs based on the same alignment metric, TER (Snover et al, 2006)", 
+    "clean_text": "A multiple CN or super-network framework was firstly proposed in Rosti et al (2007) who used each of all individual system results as the backbone to build CNs based on the same alignment metric, TER (Snover et al, 2006).", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "W12-3124", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Antti-Veikko, Rosti | Xiaodong, He | Damianos, Karakos | Gregor, Leusch | Yuan, Cao | Markus, Freitag | Spyros, Matsoukas | Hermann, Ney | Jason, Smith | Bing, Zhang", 
+    "raw_text": "The subnetworks in the latter approach may be weighted by prior probabilities estimated from the alignment statistics (Rosti et al, 2007a)", 
+    "clean_text": "The subnetworks in the latter approach may be weighted by prior probabilities estimated from the alignment statistics (Rosti et al, 2007a).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "W09-0411", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Christian, Federmann | Silke, Theison | Andreas, Eisele | Hans, Uszkoreit | Yu, Chen | Michael, Jellinghaus | Sabine, Hunsicker", 
+    "raw_text": "This can be seen as a simplified version of (Rosti et al, 2007b)", 
+    "clean_text": "This can be seen as a simplified version of (Rosti et al, 2007b).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "D09-1114", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Nan, Duan | Mu, Li | Tong, Xiao | Ming, Zhou", 
+    "raw_text": "This method can also be viewed to be a hypotheses re ranking model since we only use the existing translations instead of performing decoding over a confusion network as done in the word-level combination method (Rosti et al, 2007)", 
+    "clean_text": "This method can also be viewed to be a hypotheses reranking model since we only use the existing translations instead of performing decoding over a confusion network as done in the word-level combination method (Rosti et al, 2007).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "W10-1748", 
+    "citing_paper_authority": 10, 
+    "citing_paper_authors": "Antti-Veikko I., Rosti | Bing, Zhang | Spyros, Matsoukas | Richard M., Schwartz", 
+    "raw_text": "The binary vectors in the parentheses following each token show which system generated the token aligned to that arc. Ifthe systems generated N -best hypotheses, a fractional increment could be added to these vectors as in (Rosti et al, 2007)", 
+    "clean_text": "If the systems generated N best hypotheses, a fractional increment could be added to these vectors as in (Rosti et al, 2007).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "W10-1748", 
+    "citing_paper_authority": 10, 
+    "citing_paper_authors": "Antti-Veikko I., Rosti | Bing, Zhang | Spyros, Matsoukas | Richard M., Schwartz", 
+    "raw_text": "Powell? s method (Press et al, 2007) on N -bestlists was used in system combination weight tuning in Rosti et al (2007)", 
+    "clean_text": "Powell's method (Press et al, 2007) on N -best lists was used in system combination weight tuning in Rosti et al (2007).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "P09-1065", 
+    "citing_paper_authority": 14, 
+    "citing_paper_authors": "Yang, Liu | Haitao, Mi | Yang, Feng | Qun, Liu", 
+    "raw_text": "We re-implemented a state-of-the-art system com bi nation method (Rosti et al, 2007)", 
+    "clean_text": "We re-implemented a state-of-the-art system combi nation method (Rosti et al, 2007).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 15, 
+    "citing_paper_id": "D08-1011", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Xiaodong, He | Mei, Yang | Jianfeng, Gao | Patrick, Nguyen | Robert C., Moore", 
+    "raw_text": "Recently, confusion-network-based system combination algorithms have been developed to combine outputs of multiple machine translation (MT) systems to form a consensus output (Bangalore, et al. 2001, Matusov et al, 2006, Rosti et al, 2007, Sim et al, 2007)", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 16, 
+    "citing_paper_id": "D08-1011", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Xiaodong, He | Mei, Yang | Jianfeng, Gao | Patrick, Nguyen | Robert C., Moore", 
+    "raw_text": "combination The current state-of-the-art is confusion-network based MT system combination as described by 98 Rosti and colleagues (Rosti et al, 2007a, Rosti et al., 2007b)", 
+    "clean_text": "The current state-of-the-art is confusion-network based MT system combination as described by Rosti and colleagues (Rosti et al, 2007a, Rosti et al., 2007b).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 17, 
+    "citing_paper_id": "D08-1011", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Xiaodong, He | Mei, Yang | Jianfeng, Gao | Patrick, Nguyen | Robert C., Moore", 
+    "raw_text": "Bangalore et al (2001) used a multiple string matching algorithm based on Levenshtein edit distance, and later Sim et al (2007) and Rosti et al (2007) extended it to a TER-based method for hypothesis alignment", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 18, 
+    "citing_paper_id": "D08-1011", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Xiaodong, He | Mei, Yang | Jianfeng, Gao | Patrick, Nguyen | Robert C., Moore", 
+    "raw_text": "Similar to (Rosti et al, 2007), each word in the confusion network is associated with a word posterior probability", 
+    "clean_text": "Similar to (Rosti et al, 2007), each word in the confusion network is associated with a word posterior probability.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 19, 
+    "citing_paper_id": "W09-0409", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Antti-Veikko I., Rosti | Bing, Zhang | Spyros, Matsoukas | Richard M., Schwartz", 
+    "raw_text": "The availability of the TER software has made it easy to build a high performance system combination baseline (Rosti et al, 2007) .The pair-wise TER alignment originally described by Sim et al (2007) has various limitations", 
+    "clean_text": "The availability of the TER software has made it easy to build a high performance system combination baseline (Rosti et al, 2007).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 20, 
+    "citing_paper_id": "W09-0409", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Antti-Veikko I., Rosti | Bing, Zhang | Spyros, Matsoukas | Richard M., Schwartz", 
+    "raw_text": "The hypothesis scores and tuning are identical to the setup used in (Rosti et al, 2007)", 
+    "clean_text": "The hypothesis scores and tuning are identical to the setup used in (Rosti et al, 2007).", 
+    "keep_for_gold": 0
+  }
+]
