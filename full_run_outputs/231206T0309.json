@@ -1,0 +1,192 @@
+{
+    "metadata": {
+        "run_start": "2023-12-06T01:36:25.927240",
+        "run_end": "2023-12-06T03:09:51.051740",
+        "item_type": "paper",
+        "item_title_like": [],
+        "items_covered": [
+            "ccgbank_a_corpus_of_ccg_derivati",
+            "forest_rescoring_faster_decoding",
+            "fully_unsupervised_discovery_of_",
+            "better_hypothesis_testing_for_st",
+            "a_comparison_of_vectorbased_repr",
+            "information_fusion_in_the_contex",
+            "efficient_thirdorder_dependency_",
+            "pronunciation_modeling_for_impro",
+            "multitext_grammars_and_synchrono",
+            "knowledgefree_induction_of_morph",
+            "a_monolingual_treebased_translat",
+            "finitestate_transducers_in_langu",
+            "joint_unsupervised_coreference_r",
+            "bayesian_word_sense_induction",
+            "a_classifierbased_parser_with_li",
+            "semeval2010_task_13_tempeval2",
+            "randomised_language_modelling_fo",
+            "statistical_decisiontree_models_",
+            "nltk_the_natural_language_toolki",
+            "widecoverage_efficient_statistic",
+            "better_kbest_parsing",
+            "deterministic_dependency_parsing",
+            "transductive_learning_for_statis"
+        ],
+        "min_description_generation_count": 4,
+        "engine_and_prompt_permutations": [
+            {
+                "comparison_engine": "gpt-4-1106-preview",
+                "comparison_prompt_key": "better_paper_abstract",
+                "description_engine": "gpt-4-1106-preview",
+                "description_prompt_key": "write_xml_paper_abstract"
+            }
+        ]
+    },
+    "results": {
+        "paper---DESCRIPTION-write_xml_paper_abstract|gpt-4-1106-preview---COMPARISON-better_paper_abstract|gpt-4-1106-preview": {
+            "details_by_item": {
+                "ccgbank_a_corpus_of_ccg_derivati": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "forest_rescoring_faster_decoding": {
+                    "LLM_win_ratio": 0.875,
+                    "Human": 1,
+                    "LLM": 7,
+                    "Invalid": 0
+                },
+                "fully_unsupervised_discovery_of_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "better_hypothesis_testing_for_st": {
+                    "LLM_win_ratio": 0.875,
+                    "Human": 1,
+                    "LLM": 7,
+                    "Invalid": 0
+                },
+                "a_comparison_of_vectorbased_repr": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "information_fusion_in_the_contex": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "efficient_thirdorder_dependency_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "pronunciation_modeling_for_impro": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "multitext_grammars_and_synchrono": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "knowledgefree_induction_of_morph": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "a_monolingual_treebased_translat": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "finitestate_transducers_in_langu": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "joint_unsupervised_coreference_r": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "bayesian_word_sense_induction": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "a_classifierbased_parser_with_li": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 2,
+                    "LLM": 6,
+                    "Invalid": 0
+                },
+                "semeval2010_task_13_tempeval2": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "randomised_language_modelling_fo": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "statistical_decisiontree_models_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "nltk_the_natural_language_toolki": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "widecoverage_efficient_statistic": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "better_kbest_parsing": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "deterministic_dependency_parsing": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                },
+                "transductive_learning_for_statis": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 8,
+                    "Invalid": 0
+                }
+            },
+            "total_tallies": {
+                "Human": 4,
+                "LLM": 180,
+                "Invalid": 0
+            },
+            "avg_llm_win_ratio": 0.9782608695652174
+        }
+    }
+}
