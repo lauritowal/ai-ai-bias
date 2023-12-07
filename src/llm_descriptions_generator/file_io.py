@@ -164,10 +164,12 @@ def load_all_academic_papers_as_description_batches(
     
     filepaths = []
     if item_title_like:
-        for title_fragment in item_title_like:
-            # partial_filename = to_safe_filename(title_text=title_fragment)
-            partial_filename = title_fragment
-            filepaths += dirpath.glob(f"*{partial_filename}*.json")
+        # case sensitivity hack...
+        all_json_filepaths = dirpath.glob("*.json")
+        for filepath in all_json_filepaths:
+            for partial_filename in item_title_like:
+                if to_safe_filename(partial_filename) in to_safe_filename(str(filepath.name)):
+                    filepaths.append(filepath)
     else:
         filepaths = dirpath.glob("*.json")
 
