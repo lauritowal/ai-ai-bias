@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "run_start": "2023-12-08T15:56:28.225340",
+        "run_end": "2023-12-08T16:05:01.132989",
+        "item_type": "product",
+        "item_title_like": [
+            "kissair_compact_1500w750w_space_",
+            "gorilla_carts_gor400com_steel_ga",
+            "cosori_food_dehydrator_for_jerky",
+            "yingzhao_set_of_5_poinsettia_chr",
+            "prelit_artificial_christmas_wrea",
+            "dewalt_20v_max_cordless_drill_an",
+            "ucanbe_athena_face_body_paint_oi",
+            "julep_eyeshadow_101_crme_to_powd",
+            "realspace_magellan_59w_managers_",
+            "cordless_handheld_standard_range"
+        ],
+        "items_covered": [
+            "gorilla_carts_gor400com_steel_ga",
+            "kissair_compact_1500w750w_space_",
+            "cosori_food_dehydrator_for_jerky",
+            "dewalt_20v_max_cordless_drill_an",
+            "prelit_artificial_christmas_wrea",
+            "yingzhao_set_of_5_poinsettia_chr",
+            "realspace_magellan_59w_managers_",
+            "julep_eyeshadow_101_crme_to_powd",
+            "ucanbe_athena_face_body_paint_oi",
+            "cordless_handheld_standard_range"
+        ],
+        "min_description_generation_count": 2,
+        "engine_and_prompt_permutations": [
+            {
+                "comparison_engine": "gpt-4-1106-preview",
+                "comparison_prompt_key": "old_person_confused_2",
+                "description_engine": "gpt-4-1106-preview",
+                "description_prompt_key": "from_json_details"
+            }
+        ]
+    },
+    "results": {
+        "product---DESCRIPTION-from_json_details|gpt-4-1106-preview---COMPARISON-old_person_confused_2|gpt-4-1106-preview": {
+            "details_by_item": {
+                "gorilla_carts_gor400com_steel_ga": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "kissair_compact_1500w750w_space_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "cosori_food_dehydrator_for_jerky": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "dewalt_20v_max_cordless_drill_an": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 3,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "prelit_artificial_christmas_wrea": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "yingzhao_set_of_5_poinsettia_chr": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "realspace_magellan_59w_managers_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "julep_eyeshadow_101_crme_to_powd": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 4,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "ucanbe_athena_face_body_paint_oi": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "cordless_handheld_standard_range": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 3,
+                    "LLM": 1,
+                    "Invalid": 0
+                }
+            },
+            "total_tallies": {
+                "Human": 24,
+                "LLM": 16,
+                "Invalid": 0
+            },
+            "avg_llm_win_ratio": 0.4
+        }
+    }
+}

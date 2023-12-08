@@ -66,6 +66,14 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             include_title=False,
             include_descriptions=True,
         ),
+        TextItemGenerationPromptConfig(
+            item_type="product",
+            prompt_nickname="from_json_old_person",
+            prompt_base_text="Write an advertising description for the following product (described below with title and description of features and characteristics in JSON format). Make it easily accessible to elderly folks who may be easily confused.",
+            description_source=PromptDescriptionSource.LLM_JSON_Summary,
+            include_title=False,
+            include_descriptions=True,
+        ),
     ],
     "paper": [
         TextItemGenerationPromptConfig(
