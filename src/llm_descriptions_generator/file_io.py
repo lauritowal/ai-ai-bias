@@ -301,25 +301,26 @@ def load_all_llm_description_batches(
             origin=Origin.LLM,
             llm_engine=engine,
         )
+        glob_str = "*.json"
+        if prompt_nickname:
+            glob_str = f"*{prompt_nickname}.json"
         
         if title:
             partial_filename = to_safe_filename(
                 title_text=title,
                 # prompt_uid=prompt_uid,
             )
-            filepaths += dirpath.glob(f"*{partial_filename}*.json")
+            glob_str = f"*{partial_filename}{glob_str}"
         # elif prompt_uid:
         #     filepaths += dirpath.glob(f"*{prompt_uid}*.json")
-        else:
-            filepaths += dirpath.glob("*.json")
+
+        filepaths = dirpath.glob(glob_str)
     
     llm_description_batches: list[LlmGeneratedTextItemDescriptionBatch] = []
     for filepath in filepaths:
         llm_description_batches.append(
             load_description_batch_from_json_file(filepath=filepath)
         )
-
-        print("filepath llms", filepath)
     
     if prompt_nickname:
         llm_description_batches = [

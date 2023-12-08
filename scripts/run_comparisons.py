@@ -1,5 +1,7 @@
 import scripts_common_setup
 
+import typing as t
+
 import click
 
 from llm_descriptions_generator.schema import Engine
@@ -22,6 +24,7 @@ def run_comparisons(
     comparison_prompt_key: str,
     description_engine: str,
     description_prompt_key: str,
+    description_count_limit: t.Optional[int] = None,
 ):
     comparison_prompt_config = get_comparison_prompt_config(
         item_type=item_type,
@@ -38,6 +41,7 @@ def run_comparisons(
         description_llm_engine=description_llm_engine,
         description_prompt_key=description_prompt_key,
         storage=cache_friendly_file_storage,
+        description_count_limit=description_count_limit,
     )
 
 
@@ -78,6 +82,12 @@ def run_comparisons(
     default="",
     help="Specific description prompt key/nickname to run comparison script against.",
 )
+@click.option(
+    "--description-count-limit",
+    type=int,
+    default=10,
+    help="Optional limit for number of available LLM descriptions to run comparison script against.",
+)
 def _cli_func(
     item_type: str,
     item_title_like: list[str],
@@ -85,6 +95,7 @@ def _cli_func(
     comparison_prompt_key: str,
     description_engine: str,
     description_prompt_key: str,
+    description_count_limit: t.Optional[int] = None,
 ) -> None:
     return run_comparisons(
         item_type=item_type,
@@ -93,6 +104,7 @@ def _cli_func(
         comparison_prompt_key=comparison_prompt_key,
         description_engine=description_engine,
         description_prompt_key=description_prompt_key,
+        description_count_limit=description_count_limit,
     )
     
 

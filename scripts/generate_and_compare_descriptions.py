@@ -14,7 +14,7 @@ from llm_comparison.presentation import (
     compute_llm_win_ratio,
     compute_avg_llm_win_ratio,
     make_chart,
-    make_full_comparison_label,
+    make_comparison_run_permutation_label,
 )
 from llm_descriptions_generator.config import get_all_description_prompt_keys_for_item_type
 from llm_descriptions_generator.schema import Engine, Origin
@@ -146,9 +146,10 @@ def generate_and_compare_descriptions(
                 comparison_prompt_key=rp["comparison_prompt_key"],
                 description_engine=rp["description_engine"],
                 description_prompt_key=rp["description_prompt_key"],
+                description_count_limit=min_description_generation_count,
             )
 
-            label = make_full_comparison_label(
+            label = make_comparison_run_permutation_label(
                 item_type=item_type,
                 comparison_llm_engine=rp["comparison_engine"],
                 comparison_prompt_key=rp["comparison_prompt_key"],

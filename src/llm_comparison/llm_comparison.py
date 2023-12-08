@@ -314,6 +314,7 @@ def compare_saved_description_batches(
     description_prompt_key: t.Optional[str] = None,
     item_title_like: t.Optional[list[str]] = None,
     storage: StorageBase = DEFAULT_STORAGE,
+    description_count_limit: t.Optional[int] = None,
 ) -> tuple[dict[str, DescriptionBattleTally], DescriptionBattleTally]:
     with Context(
         name="batch_compare_item_type",
@@ -369,6 +370,9 @@ def compare_saved_description_batches(
             llm_description_batch = llm_description_batches[0]
 
             llm_descriptions = _make_descriptions_from_llm_description_batch(llm_description_batch)
+
+            if description_count_limit:
+                llm_descriptions = llm_descriptions[:description_count_limit]
 
             (winners, battle_tally) = compare_description_lists_for_one_item(
                 llm_engine=comparison_llm_engine,
