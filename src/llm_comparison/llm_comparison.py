@@ -400,6 +400,7 @@ def compare_saved_description_batches(
                     (winners, battle_tally) = future.result()
                 except Exception as exc:
                     logging.error(f'{human_description_batch} generated an exception: {exc}')
+                    raise exc
                 else:
                     filesafe_title = to_safe_filename(title)
 

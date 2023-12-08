@@ -51,7 +51,11 @@ def make_chart(
         (name, compute_llm_win_ratio(tally))
         for (name, tally) in comparison_results_by_item.items()
     ]
-    llm_win_ratios_by_item = [lwr for lwr in llm_win_ratios_by_item if lwr is not None]
+    llm_win_ratios_by_item = [
+        lwr for lwr in llm_win_ratios_by_item if (
+            lwr is not None and lwr[0] is not None and lwr[1] is not None
+        )
+    ]
     llm_win_ratios_by_item.sort(key=lambda x: x[0])
     llm_win_ratios_by_item.sort(key=lambda x: -x[1])
 

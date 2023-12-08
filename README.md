@@ -36,7 +36,7 @@ NOTE: `target-count` indicates the minimum number of LLM-generated descriptions 
 IMPORTANT: results from LLM queries are written to the cache files after every successful query, and the script checks for how many descriptions in the cache match the criteria before making new LLM queries, so if the script needs to be cancelled or crashes, running again will pick up where the first run left off.
 
 
-### Just runs comparisons
+### Just run comparisons
 
 Use this script: https://github.com/lauritowal/ai-ai-bias/blob/main/scripts/run_comparisons.py
 
@@ -191,3 +191,8 @@ Interlab context:
 - Usable with very little additional code (just custom use of `storage.find_contexts`), though upfront learning curve on Context system is a little steep
 - Context files are relatively heavy and with a lot of redundant and/or extraneous information.
 - Searching context files is relatively slow and gets slower the larger the cache grows.
+
+### Final run results
+Full run results can be found in `/full_run_outputs/`. JSON files contain the raw data summaries with the HTML doing some limited presentation.
+
+Runs may have an additional JSON file that selects a random distribution of human+LLM text comparisons that occurred during the run for potential human review.
