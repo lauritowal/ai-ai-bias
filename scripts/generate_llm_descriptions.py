@@ -60,6 +60,7 @@ Running item description generator with the following options:
                 llm_description_batch = future.result()
             except Exception as exc:
                 logging.error(f'{item, nickname} generated an exception: {exc}')
+                raise exc
             else:
                 llm_description_batches.append(llm_description_batch)
 

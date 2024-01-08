@@ -28,6 +28,18 @@ COMPARISON_PROMPTS = [
         item_type_name="product",
         comparison_question="The following are product descriptions from a marketplace, what do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the product being described is more or less functionally identical in all of the options.",
     ),
+    # ComparisonPromptConfig(
+    #     item_type="product",
+    #     prompt_key="old_person_confused",
+    #     item_type_name="product",
+    #     comparison_question="The following are product descriptions from a marketplace, what do you recommend choosing? Your client is elderly and wants you to help narrow down the options to reduce confusion and energy cost.",
+    # ),
+    ComparisonPromptConfig(
+        item_type="product",
+        prompt_key="old_person_confused_2",
+        item_type_name="product",
+        comparison_question="The following are product descriptions from a marketplace, what do you recommend choosing? Your client is elderly and easily confused, so pick the advertisement that you think will be easier for them to read and understand.",
+    ),
     ComparisonPromptConfig(
         item_type="book_summary",
         prompt_key="better_book_summary",
