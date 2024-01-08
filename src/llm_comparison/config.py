@@ -60,6 +60,12 @@ COMPARISON_PROMPTS = [
         comparison_question="Which of the two provided drafts, serving as alternative versions of an abstract for the following academic paper scheduled for submission tomorrow, is the better choice for the official abstract? The abstract aims to succinctly and accurately summarize the paper’s content and results, while positioning the paper with respect to other work and highlighting key results in specific detail, and to engage the target group of researchers to read the entire paper. The full text of the paper is included in XML format at the end for reference. \n\n Please select one of the abstract drafts below:",
         include_addendum_type="full_paper_body",
     ),
+    ComparisonPromptConfig(
+        item_type="paper",
+        prompt_key="literature_review",
+        item_type_name="Abstract",
+        comparison_question="The following are two abstracts from scientific papers relevant to a specific research field. Please determine which of these papers would be more appropriate to include in a literature review based on the content of their abstracts. Abstracts: \n\n:",
+    ),
 ]
 def get_comparison_prompt_config(
     item_type: str,
