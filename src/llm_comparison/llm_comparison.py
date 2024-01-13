@@ -364,25 +364,27 @@ def compare_saved_description_batches(
                 comparison_prompt_config=comparison_prompt_config,
                 human_description_batch=human_description_batch,
             )
+            if not llm_description_batches:
+                logging.warning(f"No LLM description batches found for '{human_description_batch.title}'. Skipping this batch.")
+                return [], {"Invalid": 0}  # Example: return an empty list and a tally with 'Invalid' count as 0
+            else:
+                # NOTE: llm_description_generation has been modified so there really should be
+                # only one batch per (item_type + engine + prompt), so just take first hit
+                llm_description_batch = llm_description_batches[0]
+                llm_descriptions = _make_descriptions_from_llm_description_batch(llm_description_batch)
 
-            # NOTE: llm_description_generation has been modified so there really should be
-            # only one batch per (item_type + engine + prompt), so just take first hit
-            llm_description_batch = llm_description_batches[0]
+                if description_count_limit:
+                    llm_descriptions = llm_descriptions[:description_count_limit]
 
-            llm_descriptions = _make_descriptions_from_llm_description_batch(llm_description_batch)
-
-            if description_count_limit:
-                llm_descriptions = llm_descriptions[:description_count_limit]
-
-            (winners, battle_tally) = compare_description_lists_for_one_item(
-                llm_engine=comparison_llm_engine,
-                comparison_prompt_config=comparison_prompt_config,
-                storage=storage,
-                description_list_1=human_descriptions,
-                description_list_2=llm_descriptions,
-                comparison_prompt_addendum=comparison_prompt_addendum,
-            )
-            return (winners, battle_tally)
+                (winners, battle_tally) = compare_description_lists_for_one_item(
+                    llm_engine=comparison_llm_engine,
+                    comparison_prompt_config=comparison_prompt_config,
+                    storage=storage,
+                    description_list_1=human_descriptions,
+                    description_list_2=llm_descriptions,
+                    comparison_prompt_addendum=comparison_prompt_addendum,
+                )
+                return (winners, battle_tally)
 
         with ThreadPoolExecutor(max_workers=MAX_CONCURRENT_WORKERS) as thread_exec:
             future_to_item = {
