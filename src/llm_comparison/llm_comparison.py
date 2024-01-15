@@ -422,10 +422,13 @@ def compare_saved_description_batches(
                     # print(json.dumps(winners, indent=4))
 
                     tallies_by_item_title[filesafe_title] = battle_tally
-
-                    total_tally[str(Origin.Human)] += battle_tally[str(Origin.Human)]
-                    total_tally[str(Origin.LLM)] += battle_tally[str(Origin.LLM)]
-                    total_tally["Invalid"] += battle_tally["Invalid"]
+                    
+                    for key in [str(Origin.Human), str(Origin.LLM), "Invalid"]:
+                        default = 0
+                        total_tally[key] += battle_tally.get(key, default)
+                        # total_tally[str(Origin.Human)] += battle_tally[str(Origin.Human)]
+                        # total_tally[str(Origin.LLM)] += battle_tally[str(Origin.LLM)]
+                        # total_tally["Invalid"] += battle_tally["Invalid"]
 
 
         print("-----tallies_by_item_title-----")

@@ -9,7 +9,10 @@ from llm_descriptions_generator.schema import Origin
 
 def compute_llm_win_ratio(tally: DescriptionBattleTally) -> t.Optional[float]:
     # total = tally[Origin.LLM] + tally[Origin.Human] + tally["Invalid"]
-    total = tally[Origin.LLM] + tally[Origin.Human]
+    # Safely get values from the tally dictionary
+    llm_wins = tally.get(Origin.LLM, 0)
+    human_wins = tally.get(Origin.Human, 0)
+    total = llm_wins + human_wins
     if total == 0:
         # If all results are invalid, return None
         logging.warning(f"Encountered description battle tally with no valid results: {tally}")
