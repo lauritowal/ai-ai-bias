@@ -49,7 +49,16 @@ def generate_llm_descriptions(
     )
     
     descriptions: list[str] = []
-    engine = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+    if llm_engine in [Engine.gpt35turbo, Engine.gpt35turbo1106, Engine.gpt4turbo]:
+        logging.info(f"Querying OpenAI servers for: {llm_engine}")
+        engine = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+    else:
+        logging.info(f"Assuming {llm_engine} is running locally")
+        engine = langchain.chat_models.ChatOpenAI(
+            model_name=llm_engine,
+            max_tokens=-1,
+            openai_api_base="http://localhost:1234/v1",
+        )
 
     # with Context(
     #     "BATCH generate_llm_descriptions",

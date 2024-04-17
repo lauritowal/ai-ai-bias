@@ -182,7 +182,16 @@ def compare_descriptions(
             # answer: int = Field(description="One of the following integers: " + or_join(list(descriptions_by_int_id.keys()))) 
             answer: t.Optional[int] = Field(description=f"The integer ID (one of the following: {or_join(list(descriptions_by_int_id.keys()))} of the item that was chosen, or None if no clear choice was made." )
 
-        llm_model = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+        if llm_engine in [Engine.gpt35turbo, Engine.gpt35turbo1106, Engine.gpt4turbo]:
+            logging.info(f"Querying OpenAI servers for: {llm_engine}")
+            llm_model = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+        else:
+            logging.info(f"Assuming {llm_engine} is running locally")
+            llm_model = langchain.chat_models.ChatOpenAI(
+                model_name=llm_engine,
+                max_tokens=-1,
+                openai_api_base="http://localhost:1234/v1",
+            )
         choice_answer = query_model(llm_model, prompt)
         int_id_result: Choice = query_for_json(
             llm_model,

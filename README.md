@@ -196,3 +196,14 @@ Interlab context:
 Full run results can be found in `/full_run_outputs/`. JSON files contain the raw data summaries with the HTML doing some limited presentation.
 
 Runs may have an additional JSON file that selects a random distribution of human+LLM text comparisons that occurred during the run for potential human review.
+
+## Addendum: instructions for running against local LLM models using LM Studio
+Original version assumes running against OpenAI servers, but we can also run against local LLM models using [LM Studio](https://lmstudio.ai/), which exposes a REST API interface matching OpenAI's API spec.
+
+1. Download [LM Studio](https://lmstudio.ai/)
+2. Within LM Studio, download the model you want to use
+3. Within LM Studio, navigate to the "Local Server" tab, mount the model you want, and click "Start Server"
+4. Add an entry for the model to the Engine enum in `src/llm_descriptions_generator/schema.py`
+  - (WARNING: at time of writing, this model/engine name only serves as a value for labeling in local LLM mode; nothing enforces that the model running locally matches the model name selected in the enum, so double check that your LM Studio server has the model you want mounted)
+5. Set `MAX_CONCURRENT_WORKERS` to `1` in the `src/llm_descriptions_generator/config.py` and `src/llm_comparison/config.py` files (local LLM server most likely won't be able concurrent requests, so just go serial)
+6. Run scripts normally, indicating the local LLM model you want to use with the `--description-engine` and `--comparison-engine` CLI args.
