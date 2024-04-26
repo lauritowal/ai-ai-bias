@@ -1,6 +1,7 @@
 import hashlib
 import json
 import logging
+import os
 import random
 import typing as t
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -179,8 +180,11 @@ def compare_descriptions(
         
         @dataclass
         class Choice:
-            # answer: int = Field(description="One of the following integers: " + or_join(list(descriptions_by_int_id.keys()))) 
-            answer: t.Optional[int] = Field(description=f"The integer ID (one of the following: {or_join(list(descriptions_by_int_id.keys()))} of the item that was chosen, or None if no clear choice was made." )
+            # see HACK below for why "Any" type ended up being allowed
+            # but tl;dr is that some LLMs don't play 100% well with interlab's query_for_json
+            # and if you don't allow an "Any" response, interlab will error out instead of allowing
+            # for local adaptation to a problematic but at least consistent data pattern response from an LLM
+            answer: t.Optional[int | t.Any] = Field(description=f"The integer ID (one of the following: {or_join(list(descriptions_by_int_id.keys()))} of the item that was chosen, or None if no clear choice was made." )
 
         if llm_engine in [Engine.gpt35turbo, Engine.gpt35turbo1106, Engine.gpt4turbo]:
             logging.info(f"Querying OpenAI servers for: {llm_engine}")
@@ -190,18 +194,45 @@ def compare_descriptions(
             llm_model = langchain.chat_models.ChatOpenAI(
                 model_name=llm_engine,
                 max_tokens=-1,
-                openai_api_base="http://localhost:1234/v1",
+                openai_api_base=os.getenv('LOCAL_LLM_API_BASE'),
             )
         choice_answer = query_model(llm_model, prompt)
-        int_id_result: Choice = query_for_json(
+        logging.info(f"Initial choice prompt - prose response:\n{choice_answer}")
+        
+        choice_analysis_result: Choice = query_for_json(
             llm_model,
             Choice,
             f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
         )
-        chosen_int_id = str(int_id_result.answer)
+        logging.info(f"Choice analysis prompt result - data response:\n{choice_analysis_result}")
+        answer = choice_analysis_result.answer
+        chosen_id: t.Optional[int | str] = None
+        try:
+            # HACK to adapt to some LLMs (mistral-7b-instruct-v0.2 in particular) that have trouble
+            # providing a simple int answer like { answer: 7432 } and keep sending back a more complex
+            # type-annotated answer like { answer: { title: "Answer", description: 7432, type: "Integer" } }
+            if (
+                type(answer).__name__ == "AttributedDict"
+                and str(answer.get("title", None)).lower() == "answer"
+                and answer.get("description", None) is not None
+            ):
+                logging.warning(f"Attempting to parse extra layer of AttributedDict from non-standard answer: {answer}")
+                hopefully_int_id = answer.get("description")
+            else:
+                hopefully_int_id = answer
+
+            # NOTE: we don't technically need to validate that the response is a parseable integer
+            # since anything else won't match a description in the lookup dict below, and we'll still
+            # get a None (invalid) response, but it's nice to have the log about what went wrong
+            chosen_id = str(int(hopefully_int_id))
+        except:
+            logging.warning(f"Choice analysis step result (answer: {answer}) is not parseable to a single integer ID. Result will be considered Invalid (no choice made).")
+            chosen_id = None
+
+        logging.info(f"Follow up choice analysis - selected ID in data response: {chosen_id}")
         chosen_description = (
-            descriptions_by_int_id.get(chosen_int_id, None)
-            if int_id_result is not None else None
+            descriptions_by_int_id.get(chosen_id, None)
+            if chosen_id is not None else None
         )
         
         ctx.set_result(chosen_description)
@@ -242,7 +273,10 @@ def compare_description_lists_for_one_item(
             [(d1, d2) for d1 in description_list_1 for d2 in description_list_2]
             + [(d2, d1) for d2 in description_list_2 for d1 in description_list_1]
         )
+        comparison_counter = 1
+        total_count = len(ordered_combos)
         for (description_1, description_2) in ordered_combos:
+            logging.info(f"## Executing description comparison ({comparison_counter}/{total_count}) for item: '{description_1.uid}' vs '{description_2.uid}'")
             winner = compare_descriptions(
                 llm_engine=llm_engine,
                 comparison_prompt_config=comparison_prompt_config,
@@ -255,6 +289,7 @@ def compare_description_lists_for_one_item(
                 battle_tally["Invalid"] += 1
             else:
                 battle_tally[str(winner.origin)] += 1
+            comparison_counter += 1
         
         ctx.set_result((winning_descriptions, battle_tally))
         
@@ -360,7 +395,7 @@ def compare_saved_description_batches(
             human_description_batch: HumanTextItemDescriptionBatch,
         ) -> tuple[list[t.Optional[Description]], DescriptionBattleTally]:
             title = human_description_batch.title
-            logging.info(f"Starting next <{item_type}> --> '{title}'")
+            logging.info(f"# Begin description comparisons for [<{item_type}> --> '{title}']")
             llm_description_batches = load_all_llm_description_batches(
                 item_type=item_type,
                 title=title,
@@ -401,6 +436,8 @@ def compare_saved_description_batches(
                 ): human_description_batch
                 for human_description_batch in human_description_batches
             }
+            completed_count = 0
+            total_count = len(human_description_batches)
 
             for future in as_completed(future_to_item):
                 human_description_batch = future_to_item[future]
@@ -408,12 +445,13 @@ def compare_saved_description_batches(
                 try:
                     (winners, battle_tally) = future.result()
                 except Exception as exc:
+                    logging.error(f"Error processing item '{title}': {exc}", exc_info=True)
                     logging.error(f'{human_description_batch} generated an exception: {exc}')
                     raise exc
                 else:
                     filesafe_title = to_safe_filename(title)
 
-                    print(f"""
+                    logging.info(f"""
                     ------Batch Results------
 
                     item_type: {item_type}
@@ -424,21 +462,23 @@ def compare_saved_description_batches(
                     comparison_llm_engine: {comparison_llm_engine}
                     comparison_prompt_key: {comparison_prompt_config.prompt_key}
 
-                        """)
-                    print(json.dumps(battle_tally, indent=4))
-                    # print(json.dumps(winners, indent=4))
-
+                    """)
+                    logging.info(json.dumps(battle_tally, indent=4))
+                    
                     tallies_by_item_title[filesafe_title] = battle_tally
 
                     total_tally[str(Origin.Human)] += battle_tally[str(Origin.Human)]
                     total_tally[str(Origin.LLM)] += battle_tally[str(Origin.LLM)]
                     total_tally["Invalid"] += battle_tally["Invalid"]
 
+                    completed_count += 1
+                    logging.info(f"=== COMPARISON BATCHES COMPLETED: {completed_count}/{total_count} ===")
 
-        print("-----tallies_by_item_title-----")
-        print(json.dumps(tallies_by_item_title, indent=4))
-        print("-----total_tally-----")
-        print(json.dumps(total_tally, indent=4))
+
+        logging.info("-----tallies_by_item_title-----")
+        logging.info(json.dumps(tallies_by_item_title, indent=4))
+        logging.info("-----total_tally-----")
+        logging.info(json.dumps(total_tally, indent=4))
 
         ctx.set_result((tallies_by_item_title, total_tally))
 

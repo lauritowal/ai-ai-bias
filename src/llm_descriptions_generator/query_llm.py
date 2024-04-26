@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 import time
 import typing as t
 
@@ -57,7 +58,7 @@ def generate_llm_descriptions(
         engine = langchain.chat_models.ChatOpenAI(
             model_name=llm_engine,
             max_tokens=-1,
-            openai_api_base="http://localhost:1234/v1",
+            openai_api_base=os.getenv('LOCAL_LLM_API_BASE'),
         )
 
     # with Context(

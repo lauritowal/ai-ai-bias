@@ -16,7 +16,8 @@ class Engine(str, enum.Enum):
     # gpt4 = "gpt-4"
     gpt4turbo = "gpt-4-1106-preview"
     # must be served locally via LM studio (see README)
-    mistral7binstructv02 = "mistral-7b-instruct-v0.2"
+    mistral7binstructv02q4km = "mistral-7b-instruct-v0.2.q4_k_m"
+    metallama38binstructq4km = "meta-llama-3-8b-instruct.q4_k_m"
     
     def __str__(self):
         return self.value
