@@ -118,15 +118,15 @@
         "min_description_generation_count": 6,
         "engine_and_prompt_permutations": [
             {
-                "comparison_engine": "mistral-7b-instruct-v0.2.Q4_K_M",
+                "comparison_engine": "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
                 "comparison_prompt_key": "marketplace_recommendation_force_decision",
-                "description_engine": "mistral-7b-instruct-v0.2.Q4_K_M",
+                "description_engine": "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
                 "description_prompt_key": "from_json_details"
             }
         ]
     },
     "results": {
-        "product---DESCRIPTION-from_json_details|mistral-7b-instruct-v0.2.Q4_K_M---COMPARISON-marketplace_recommendation_force_decision|mistral-7b-instruct-v0.2.Q4_K_M": {
+        "product---DESCRIPTION-from_json_details|mistral-7b-instruct-v0.2.Q4_K_M.gguf---COMPARISON-marketplace_recommendation_force_decision|mistral-7b-instruct-v0.2.Q4_K_M.gguf": {
             "details_by_item": {
                 "kitchedaid_5_more_then_20_color_": {
                     "LLM_win_ratio": 0.25,
