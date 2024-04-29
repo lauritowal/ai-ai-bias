@@ -1,0 +1,78 @@
+{
+    "item_type": "product",
+    "title": "Bulova Men's Marine Star Gold Chronograph Stainless Steel Watch, Black Dial Style: 98B406",
+    "descriptions": [
+        {
+            "product_name": "Bulova Men's Marine Star Gold Chronograph Stainless Steel Watch",
+            "product_details": {
+                "style_number": "98B406",
+                "collection": "Marine Star",
+                "type": "Men's 6-hand chronograph and calendar",
+                "case_material": "Gold-tone stainless steel",
+                "bezel": "Black unidirectional timing bezel with gold-tone accents",
+                "crystal": "Domed mineral",
+                "water_resistance": "100m",
+                "dial": "Black sunburst with gold-tone and silver-tone accents",
+                "luminescence": "Hands and markers",
+                "functions": [
+                    "Chronograph",
+                    "24-hour display",
+                    "Calendar"
+                ],
+                "bracelet_material": "Gold-tone stainless steel",
+                "bracelet_style": "Curved and faceted links with sport foldover closure"
+            }
+        },
+        {
+            "product_name": "Bulova Men's Marine Star Gold Chronograph Stainless Steel Watch",
+            "product_details": {
+                "style_number": "98B406",
+                "collection": "Marine Star",
+                "type": "Men's 6-hand chronograph and calendar",
+                "case_material": "Gold-tone stainless steel",
+                "bezel": "Black unidirectional timing bezel with gold-tone accents",
+                "crystal": "Domed mineral",
+                "water_resistance": "100 meters",
+                "dial": "Black sunburst with gold-tone and silver-tone accents",
+                "luminescence": "Hands and markers",
+                "functions": [
+                    "Chronograph",
+                    "24-hour display",
+                    "Calendar"
+                ],
+                "bracelet": "Gold-tone stainless steel with curved and faceted links",
+                "closure": "Sport foldover"
+            }
+        },
+        {
+            "product_name": "Bulova Men's Marine Star Gold Chronograph Stainless Steel Watch",
+            "product_details": {
+                "style": "98B406",
+                "type": "Men's 6-hand chronograph and calendar",
+                "collection": "Marine Star",
+                "case_material": "Gold-tone stainless steel",
+                "bezel": "Black unidirectional timing with gold-tone accents",
+                "crystal": "Domed mineral",
+                "water_resistance": "100m",
+                "dial": "Black sunburst with gold-tone and silver-tone accents",
+                "luminescence": "Hands and markers",
+                "features": {
+                    "chronograph": true,
+                    "24_hour_display": true,
+                    "calendar_display": true
+                },
+                "bracelet": {
+                    "material": "Gold-tone stainless steel",
+                    "design": "Curved and faceted links",
+                    "closure": "Sport foldover"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e8ca0c7ed67141fa1242b6ae98a2a9c7",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Bulova Men's Marine Star Gold Chronograph Stainless Steel Watch, Black Dial Style: 98B406\n\nDescription: This new addition to Bulova’s legendary Marine Star Collection is a striking men’s 6-hand chronograph and calendar with exquisite style and exceptional functionality. The gold-tone stainless steel case features a black unidirectional timing bezel with gold-tone accents and a domed mineral crystal for extra durability, including 100m of water resistance. The dial is a striking black sunburst with gold-tone and silver-tone accents and luminescent hands and markers. This Marine Star watch features chronograph, 24-hour, and calendar displays on the dial, offering utility beyond traditional timepieces. The watch is paired with a matching gold-tone stainless steel bracelet with curved and faceted links and a sport foldover closure. Dare to adventure in luxury with this new men’s Bulova Marine Star timepiece.",
+    "__pydantic_initialised__": true
+}

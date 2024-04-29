@@ -1,0 +1,111 @@
+{
+    "item_type": "product",
+    "title": "Redragon K617 Fizz 60% Wired RGB Gaming Keyboard, 61 Keys Compact Mechanical Keyboard w/White and Grey Color Keycaps, Linear Red Switch, Pro Driver/Software Supported",
+    "descriptions": [
+        {
+            "product_name": "Redragon K617 Fizz 60% Wired RGB Gaming Keyboard",
+            "product_details": {
+                "layout": "60%",
+                "connectivity": "Wired",
+                "key_number": 61,
+                "keycap_colors": [
+                    "White",
+                    "Grey"
+                ],
+                "switch_type": "Linear Red",
+                "switch_features": {
+                    "hot_swappable": true,
+                    "quiet_mechanical": true,
+                    "lifespan": "50 million keypresses"
+                },
+                "rgb_lighting": {
+                    "presets": 20,
+                    "brightness_adjustable": true,
+                    "speed_adjustable": true
+                },
+                "software_support": {
+                    "pro_driver": true,
+                    "customizable": true
+                },
+                "target_audience": "FPS Gamers"
+            }
+        },
+        {
+            "product_name": "Redragon K617 Fizz 60% Wired RGB Gaming Keyboard",
+            "product_details": {
+                "layout": "60%",
+                "connectivity": "Wired",
+                "key_quantity": 61,
+                "keycap_colors": [
+                    "White",
+                    "Grey"
+                ],
+                "switch_type": "Linear Red",
+                "switch_features": {
+                    "hot_swappable": true,
+                    "quiet_mechanical": true,
+                    "lifespan": 50000000,
+                    "soft_key_travel": true
+                },
+                "RGB": {
+                    "presets": 20,
+                    "brightness_adjustable": true,
+                    "flow_speed_adjustable": true
+                },
+                "software_support": {
+                    "pro_driver": true,
+                    "customizable": true,
+                    "macros": true,
+                    "keybindings": true,
+                    "shortcuts": true,
+                    "software_link": "redragonshop"
+                },
+                "dedicated_use": {
+                    "target_audience": "FPS Gamers",
+                    "mouse_space": "Optimized"
+                }
+            }
+        },
+        {
+            "product_name": "Redragon K617 Fizz 60% Wired RGB Gaming Keyboard",
+            "product_details": {
+                "layout": "60%",
+                "connectivity": "Wired",
+                "key_number": 61,
+                "keycap_colors": [
+                    "White",
+                    "Grey"
+                ],
+                "switch_type": "Linear Red",
+                "hot_swappable": true,
+                "switch_lifespan": 50000000,
+                "rgb_backlighting": {
+                    "presets": 20,
+                    "brightness_adjustable": true,
+                    "flow_speed_adjustable": true
+                },
+                "software_support": {
+                    "customizable": true,
+                    "features": [
+                        "design_modes",
+                        "effects",
+                        "macros",
+                        "keybindings",
+                        "shortcuts"
+                    ]
+                },
+                "dedicated_use": "FPS Gamers",
+                "additional_features": [
+                    "Compact design",
+                    "Efficient workspace management"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "70b7317b8973287ca759f4e385fb4d56",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Redragon K617 Fizz 60% Wired RGB Gaming Keyboard, 61 Keys Compact Mechanical Keyboard w/White and Grey Color Keycaps, Linear Red Switch, Pro Driver/Software Supported\n\nDescription: Slim Fresh K617: Redragon's new 60% layout wired keyboard in a refreshing style with a no-brainer affordable budget. Compact 61 keys with selected keycaps, dedicated for FPS Gamers and efficient working.\n\nHot-Swappable Red Switches: Most quiet mechanical switch, linear and soft key travel makes every click easy to register. Hot-swappable with other Redragon switches. Made to last with switches rated for 50 million keypresses.\n\nVibrant RGB: Up to 20 presets backlighting modes are free to choose by the keyboard itself. Brightness and flowing speed is also adjustable on board. Select your own preferred modes for any playing.\n\nPro Software Customizable: Expand your options using the available software to design your own new modes and effects found on redragonshop. Macros with different keybindings or shortcuts for more efficient work and gaming.\n\nDedicated for FPS Gamer: Place the keyboard proper straight on your desktop and no more crooked way for mouse space saving, your mouse will never hit the keyboard any more. Enjoy waving the mouse without any worries and go get that Team Kills.",
+    "__pydantic_initialised__": true
+}

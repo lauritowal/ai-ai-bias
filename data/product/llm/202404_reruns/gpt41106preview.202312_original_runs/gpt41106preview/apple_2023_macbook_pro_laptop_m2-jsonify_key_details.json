@@ -1,0 +1,249 @@
+{
+    "item_type": "product",
+    "title": "Apple 2023 MacBook Pro Laptop M2 Pro chip with 12‑core CPU and 19‑core GPU: 16.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Space Gray",
+    "descriptions": [
+        {
+            "product_name": "Apple 2023 MacBook Pro Laptop",
+            "product_details": {
+                "chip": {
+                    "options": [
+                        "M2 Pro",
+                        "M2 Max"
+                    ],
+                    "M2 Pro": {
+                        "CPU_cores": 12,
+                        "GPU_cores": 19,
+                        "max_unified_memory_GB": 32
+                    },
+                    "M2 Max": {
+                        "CPU_cores": 12,
+                        "max_GPU_cores": 38,
+                        "max_unified_memory_GB": 96
+                    }
+                },
+                "battery_life_hours": 22,
+                "compatibility": [
+                    "Adobe Creative Cloud",
+                    "Xcode",
+                    "Affinity Designer",
+                    "Microsoft 365",
+                    "iPhone apps",
+                    "iPad apps"
+                ],
+                "display": {
+                    "size_inches": 16.2,
+                    "type": "Liquid Retina XDR",
+                    "features": [
+                        "Extreme Dynamic Range",
+                        "over 1000 nits brightness",
+                        "HDR",
+                        "pro reference modes"
+                    ]
+                },
+                "camera_and_audio": {
+                    "camera": "1080p FaceTime HD",
+                    "microphones": "three-mic array",
+                    "speakers": "six-speaker sound system",
+                    "audio_feature": "Spatial Audio"
+                },
+                "ports_and_connectivity": {
+                    "charging": "MagSafe",
+                    "data_ports": [
+                        "Thunderbolt 4 x3",
+                        "SDXC card slot",
+                        "HDMI"
+                    ],
+                    "audio_port": "headphone jack",
+                    "wireless": [
+                        "Wi-Fi 6E",
+                        "Bluetooth 5.3"
+                    ]
+                },
+                "keyboard": {
+                    "type": "Magic Keyboard",
+                    "features": [
+                        "full-height function key row",
+                        "Touch ID"
+                    ]
+                },
+                "cross_device_features": [
+                    "Universal Clipboard",
+                    "FaceTime calls",
+                    "Messages"
+                ],
+                "build": "all-aluminum unibody enclosure",
+                "software": "Free software updates",
+                "memory": {
+                    "unified_memory_GB": 16
+                },
+                "storage": {
+                    "SSD_GB": 512
+                },
+                "color": "Space Gray"
+            }
+        },
+        {
+            "product_name": "Apple 2023 MacBook Pro Laptop",
+            "product_details": {
+                "chip": {
+                    "options": [
+                        "M2 Pro",
+                        "M2 Max"
+                    ],
+                    "M2_Pro": {
+                        "CPU_cores": 12,
+                        "GPU_cores": 19,
+                        "max_unified_memory": 32
+                    },
+                    "M2_Max": {
+                        "CPU_cores": 12,
+                        "max_GPU_cores": 38,
+                        "max_unified_memory": 96
+                    }
+                },
+                "battery_life": 22,
+                "compatibility": [
+                    "Adobe Creative Cloud",
+                    "Xcode",
+                    "Affinity Designer",
+                    "Microsoft 365",
+                    "iPhone apps",
+                    "iPad apps"
+                ],
+                "display": {
+                    "size": 16.2,
+                    "type": "Liquid Retina XDR",
+                    "features": [
+                        "Extreme Dynamic Range",
+                        "over 1000 nits brightness",
+                        "HDR content",
+                        "pro reference modes"
+                    ]
+                },
+                "camera_and_audio": {
+                    "camera": "1080p FaceTime HD",
+                    "microphone": "three-mic array",
+                    "speakers": {
+                        "count": 6,
+                        "features": [
+                            "Spatial Audio"
+                        ]
+                    }
+                },
+                "ports": {
+                    "MagSafe": true,
+                    "Thunderbolt_4": 3,
+                    "SDXC_card_slot": true,
+                    "HDMI_port": true,
+                    "headphone_jack": true
+                },
+                "wireless_connectivity": {
+                    "Wi-Fi": "6E",
+                    "Bluetooth": "5.3"
+                },
+                "keyboard": {
+                    "type": "Magic Keyboard",
+                    "features": [
+                        "full-height function key row",
+                        "Touch ID"
+                    ]
+                },
+                "color": "Space Gray",
+                "memory": 16,
+                "storage": 512,
+                "interoperability": {
+                    "devices": [
+                        "iPhone",
+                        "iPad"
+                    ]
+                },
+                "build": {
+                    "material": "aluminum",
+                    "unibody": true
+                }
+            }
+        },
+        {
+            "product_name": "Apple 2023 MacBook Pro Laptop",
+            "product_details": {
+                "chip": [
+                    {
+                        "name": "M2 Pro",
+                        "CPU_cores": 12,
+                        "GPU_cores": 19,
+                        "max_unified_memory": 32
+                    },
+                    {
+                        "name": "M2 Max",
+                        "CPU_cores": 12,
+                        "max_GPU_cores": 38,
+                        "max_unified_memory": 96
+                    }
+                ],
+                "battery_life": 22,
+                "compatibility": [
+                    "Adobe Creative Cloud",
+                    "Xcode",
+                    "Affinity Designer",
+                    "Microsoft 365",
+                    "iPhone apps",
+                    "iPad apps"
+                ],
+                "display": {
+                    "size": 16.2,
+                    "type": "Liquid Retina XDR",
+                    "features": [
+                        "Extreme Dynamic Range",
+                        "over 1000 nits brightness",
+                        "HDR content",
+                        "pro reference modes"
+                    ]
+                },
+                "camera_and_audio": {
+                    "camera": "1080p FaceTime HD",
+                    "microphone": "three-mic array",
+                    "speakers": "six-speaker sound system with Spatial Audio"
+                },
+                "ports_and_connectivity": {
+                    "charging": "MagSafe",
+                    "ports": [
+                        "Thunderbolt 4",
+                        "SDXC card slot",
+                        "HDMI",
+                        "headphone jack"
+                    ],
+                    "wireless": [
+                        "Wi-Fi 6E",
+                        "Bluetooth 5.3"
+                    ]
+                },
+                "keyboard": {
+                    "type": "Magic Keyboard",
+                    "features": [
+                        "full-height function key row",
+                        "Touch ID"
+                    ]
+                },
+                "device_integration": [
+                    "iPhone",
+                    "iPad"
+                ],
+                "build": "all-aluminum unibody enclosure",
+                "software_updates": "free for years",
+                "color": "Space Gray",
+                "memory": {
+                    "unified_memory": 16
+                },
+                "storage": {
+                    "SSD": 512
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d53758eec5f40856d3763271b734e01b",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Apple 2023 MacBook Pro Laptop M2 Pro chip with 12‑core CPU and 19‑core GPU: 16.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Space Gray\n\nDescription: SUPERCHARGED BY M2 PRO OR M2 MAX — Take on demanding projects with the M2 Pro or M2 Max chip. M2 Pro has 12 CPU cores, 19 GPU cores, and up to 32GB unified memory. M2 Max has 12 CPU cores, up to 38 GPU cores, and up to 96GB unified memory.\n\nUP TO 22 HOURS OF BATTERY LIFE — Go all day thanks to the power-efficient design of the M2 Pro or M2 Max chip. And the MacBook Pro laptop delivers exceptional performance whether it’s running on battery or plugged in.\n\nFULLY COMPATIBLE — All your pro apps run lightning fast — including Adobe Creative Cloud, Xcode, Affinity Designer, Microsoft 365, and many of your favorite iPhone and iPad apps.\n\nBEAUTIFUL PRO DISPLAY — The 16.2-inch Liquid Retina XDR display features Extreme Dynamic Range, over 1000 nits of brightness for stunning HDR content, and pro reference modes for doing your best work on the go.\n\nADVANCED CAMERA AND AUDIO — Look sharp and sound great with a 1080p FaceTime HD camera, a studio-quality three-mic array, and a six-speaker sound system with Spatial Audio.\n\nCONNECT WHAT YOU WANT — MacBook Pro features a MagSafe charging port, three Thunderbolt 4 ports, an SDXC card slot, an HDMI port, and a headphone jack. And enjoy seamless wireless connectivity with Wi-Fi 6E and Bluetooth 5.3.\n\nMAGIC KEYBOARD WITH TOUCH ID — Magic Keyboard comes with a full-height function key row and Touch ID, which gives you a fast, easy, secure way to unlock your Mac and sign in to apps and sites.\n\n\n   WORKS WITH ALL YOUR APPLE DEVICES — You can do amazing things when you use your Apple devices together. Copy something on iPhone and paste it on MacBook Pro. Use your MacBook Pro to answer FaceTime calls or send texts with Messages. And that’s just the beginning. BUILT TO LAST — The all-aluminum unibody enclosure is exceptionally durable. Free software updates keep things running smoothly and securely for years to come. LEGAL DISCLAIMERS — This is a summary of the main product features. See legal disclaimers below.   Show more",
+    "__pydantic_initialised__": true
+}

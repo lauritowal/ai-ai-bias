@@ -1,0 +1,70 @@
+{
+    "item_type": "product",
+    "title": "Lowrance Hook Reveal 9 inch Fishfinders with Preloaded C-MAP Options",
+    "descriptions": [
+        {
+            "product_name": "Lowrance Hook Reveal 9 inch Fishfinders with Preloaded C-MAP Options",
+            "product_details": {
+                "FISHREVEAL": "Combines Lowrance CHIRP sonar separation and DownScan Imaging for enhanced fish identification on display.",
+                "HIGH-DETAIL INLAND MAPS": "Includes maps of nearly 4,000 US inland lakes and supports creation of custom contour maps with Genesis Live.",
+                "TRIPLESHOT TRANSDUCER": "Features wide-angle high CHIRP sonar, SideScan, and DownScan Imaging from a single transducer.",
+                "AUTOTUNING SONAR": "Automatically adjusts sonar settings for optimal imaging under changing fishing conditions.",
+                "DISPLAY": {
+                    "size": "9-inch",
+                    "type": "SolarMAX",
+                    "features": "Crisp and clear views with excellent clarity and daylight visibility, suitable for direct sunlight."
+                }
+            }
+        },
+        {
+            "product_name": "Lowrance Hook Reveal 9 inch Fishfinders with Preloaded C-MAP Options",
+            "product_details": {
+                "FISHREVEAL": {
+                    "description": "Combines Lowrance CHIRP sonar separation with DownScan Imaging for fish identification",
+                    "benefit": "Makes fish light up on display"
+                },
+                "HIGH_DETAIL_INLAND_MAPS": {
+                    "coverage": "Almost 4000 US inland lakes",
+                    "features": {
+                        "Genesis_Live": "Allows creation of custom contour maps"
+                    }
+                },
+                "TRIPLESHOT_TRANSDUCER": {
+                    "description": "Single transducer for all sonar needs",
+                    "features": {
+                        "CHIRP_sonar": "Wide-angle high",
+                        "SideScan_Imaging": "High-resolution structure images",
+                        "DownScan_Imaging": "High-resolution structure images"
+                    }
+                },
+                "AUTOTUNING_SONAR": {
+                    "description": "Automatically adjusts settings for optimal sonar image",
+                    "benefit": "Reduces need for manual setting adjustments"
+                },
+                "9_INCH_DISPLAY": {
+                    "description": "SolarMAX display",
+                    "benefits": {
+                        "clarity": "Crisp and clear views",
+                        "daylight_visibility": "Excellent, even in direct sunlight"
+                    }
+                }
+            }
+        },
+        {
+            "product_name": "Lowrance Hook Reveal 9 inch Fishfinders with Preloaded C-MAP Options",
+            "product_details": {
+                "FISHREVEAL": "Combines Lowrance CHIRP sonar and DownScan Imaging for better fish identification",
+                "HIGH-DETAIL INLAND MAPS": "Contains maps of nearly 4,000 US inland lakes and supports custom contour mapping with Genesis Live",
+                "TRIPLESHOT TRANSDUCER": "Includes wide-angle high CHIRP sonar, SideScan, and DownScan Imaging from a single transducer",
+                "AUTOTUNING SONAR": "Features autotuning sonar that adjusts settings automatically for optimal sonar image",
+                "9-INCH DISPLAY": "Equipped with a SolarMAX display for clear views in direct sunlight"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6ccc98c9d24a5ab3c072a53e3c2ce9e4",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Lowrance Hook Reveal 9 inch Fishfinders with Preloaded C-MAP Options\n\nDescription: FISHREVEAL: Fish are easier to find and easier to identify. FishReveal combines the target separation of Lowrance CHIRP sonar and the high-resolution images of structure from DownScan Imaging to makes fish light up on your display.\n\nHIGH-DETAIL INLAND MAPS: Get high-detail maps of almost 4,000 US inland lakes. Create custom contour maps with even greater detail over any map or GPS plotter with Genesis Live, so you can get onto the fish faster​.\n\nTRIPLESHOT TRANSDUCER: Perfect for anglers who want all their sonar from a single transducer, TripleShot features wide-angle high CHIRP sonar and the high-resolution images of fish-holding structure from SideScan and DownScan Imaging.\n\nAUTOTUNING SONAR: Spend more time fishing and less time reworking your sonar settings with HOOK Reveal autotuning sonar, which ensures you get the best sonar image every time by automatically adjusting settings as fishing conditions change.\n\n9-INCH DISPLAY: Enjoy crisp and clear views of your display no matter the conditions – even in direct sunlight – with excellent clarity and daylight visibility of HOOK Reveal’s SolarMAX display.",
+    "__pydantic_initialised__": true
+}

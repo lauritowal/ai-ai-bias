@@ -1,0 +1,153 @@
+{
+    "item_type": "product",
+    "title": "Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker for Travel, Outdoor and Pool Use, Black",
+    "descriptions": [
+        {
+            "product_name": "Bose SoundLink Flex Bluetooth Speaker",
+            "product_details": {
+                "type": "Portable Speaker with Microphone",
+                "color": "Black",
+                "features": {
+                    "audio_quality": "Deep, clear, immersive audio",
+                    "technology": [
+                        "PositionIQ technology",
+                        "Custom-engineered transducer"
+                    ],
+                    "waterproof": true,
+                    "waterproof_rating": "IP67",
+                    "floats_on_water": true,
+                    "dust_resistance": true,
+                    "shock_resistance": true,
+                    "corrosion_resistant": true,
+                    "UV_light_resistant": true,
+                    "battery_type": "Lithium-ion",
+                    "battery_life": "Up to 12 hours",
+                    "charging_method": "USB-C cable",
+                    "charging_time": "Approximately 4 hours",
+                    "microphone": "Built-in",
+                    "virtual_assistant_access": [
+                        "Siri",
+                        "Google Assistant"
+                    ],
+                    "app_support": "Bose Connect App",
+                    "drop_tested": true,
+                    "portability": {
+                        "compact_design": true,
+                        "utility_loop": true
+                    },
+                    "connection_range": "Up to 30 feet"
+                }
+            }
+        },
+        {
+            "product_name": "Bose SoundLink Flex Bluetooth Speaker",
+            "product_details": {
+                "type": "Portable Speaker with Microphone",
+                "color": "Black",
+                "suitable_for": [
+                    "Travel",
+                    "Outdoor",
+                    "Pool Use"
+                ],
+                "waterproof": true,
+                "waterproof_rating": "IP67",
+                "connectivity": "Bluetooth",
+                "audio_features": {
+                    "exclusive_technologies": true,
+                    "custom_engineered_transducer": true,
+                    "PositionIQ_technology": true
+                },
+                "sound_quality": {
+                    "deep_bass": true,
+                    "clear_audio": true,
+                    "immersive_experience": true
+                },
+                "durability": {
+                    "water_resistant": true,
+                    "dust_resistant": true,
+                    "drop_resistant": true,
+                    "corrosion_resistant": true,
+                    "UV_light_resistant": true
+                },
+                "portability": {
+                    "compact_design": true,
+                    "easy_to_hold_and_store": true,
+                    "utility_loop_for_security": true,
+                    "floats_in_water": true
+                },
+                "battery": {
+                    "type": "Lithium-ion",
+                    "life_per_charge": "up to 12 hours",
+                    "rechargeable": true,
+                    "charging_method": "USB-C cable",
+                    "charging_time": "approximately 4 hours"
+                },
+                "microphone": {
+                    "built-in": true,
+                    "siri_google_assistant_access": true,
+                    "call_functionality": true
+                },
+                "app_support": {
+                    "Bose_Connect_app": true,
+                    "software_updates": true,
+                    "customizable_settings": true
+                },
+                "additional_connectivity": {
+                    "range": "within 30 feet"
+                }
+            }
+        },
+        {
+            "product_name": "Bose SoundLink Flex Bluetooth Speaker",
+            "product_details": {
+                "color": "Black",
+                "microphone": true,
+                "wireless": true,
+                "waterproof": true,
+                "use_cases": [
+                    "Travel",
+                    "Outdoor",
+                    "Pool"
+                ],
+                "technologies": [
+                    "PositionIQ",
+                    "Bluetooth"
+                ],
+                "transducer_engineering": "Custom-engineered",
+                "audio_quality": "Deep, clear, and immersive",
+                "IP_rating": "IP67",
+                "portability": {
+                    "water_resistance": true,
+                    "dust_resistance": true,
+                    "drop_resistance": true,
+                    "rust_resistance": true,
+                    "corrosion_resistance": true,
+                    "UV_light_resistance": true
+                },
+                "battery": {
+                    "type": "Lithium-ion",
+                    "life_per_charge": "Up to 12 hours",
+                    "rechargeable": true,
+                    "charging_method": "USB-C cable",
+                    "charging_time": "Approximately 4 hours"
+                },
+                "connectivity_range": "Up to 30 feet",
+                "smart_features": {
+                    "voice_assistant_access": [
+                        "Siri",
+                        "Google Assistant"
+                    ],
+                    "app_support": "Bose Connect App",
+                    "software_updates": true,
+                    "customizable_settings": true
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ba92ca84a96cb48e061e1d866e913396",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker for Travel, Outdoor and Pool Use, Black\n\nDescription: STATE-OF-ART DESIGN: SoundLink Flex outdoor speaker is packed with exclusive technologies and a custom-engineered transducer for deep, clear, and immersive audio at home or on the go\n\nCLEAREST POSSIBLE SOUND: Proprietary Position Qtechnology automatically detects the position of your portable Bluetooth speaker for optimal sound quality in any orientation or environment\n\nWATERPROOF WIRELESS SPEAKER FOR TRAVEL: SoundLink Flex is rigorously tested to meet IP67 waterproof speaker standards. Crafted and sealed with waterproof materials, it even floats – ideal for outdoor adventures\n\nPORTABLE BLUETOOTH SPEAKER: Built to resist water, dust, and debris, in a design that withstands drops and rust, this compact speaker goes wherever you do. It’s also easy to hold and store, and resistant to corrosion and UV light\n\nRECHARGEABLE BATTERY: Portable speaker charges through USB-C cable (included). Lithium-ion battery offers up to 12 hours of life per charge\n\nBUILT-IN MICROPHONE: You can make and receive calls through the portable Bluetooth speaker. Just one button accesses your phone's Siri or Google Assistant voice input\n\nBOSE CONNECT APP: App automatically updates the portable Bluetooth speaker with the latest software, allows you to customize settings, unlock product features, and more\n\nCharging time: approximately 4 hours when using the original cable.\n\nThe SoundLink Flex Bluetooth speaker does more than just immerse you – it provides a strong connection to your music. With crisp audio free of distortions, you’ll hear every instrument on the track and nuance in the vocals. It doesn’t matter how the portable speaker is positioned: PositionIQ technology detects its orientation and ensures the best sound. The portable Bluetooth speaker is packed with exclusive technologies. The transducer offers clear sound and deep bass. Its digital signal processing technologies, proprietary code, and custom algorithms work together for ideal sound quality wherever you are. Really, wherever, since the SoundLink Flex is an IP67 waterproof speaker. Its exterior can handle falls, the coat won’t peel or flake, and it resists corrosion and UV light. It’s also easy to hold or store, and you can secure the outdoor speaker with its utility loop. Rigorously tested to meet an IP67 rating, the SoundLink Flex is waterproof. It floats, too, so it won’t sink if it falls off your boat. For added protection from dust and debris, the Bluetooth speaker is crafted and sealed with waterproof materials. Plus, to ensure it can travel with you, Bose subjected the outdoor speaker to water, temperature, and drop tests. These proved that it’s durable enough for anything. And its battery offers up to 12 hours of unplugged play time. The Bose Connect app lets you customize the portable speaker settings, update software, and more. If your phone isn’t nearby, press and hold a button on the IP67 waterproof speaker to access your phone’s Siri or Google Assistant. A built-in microphone means you can also take and make phone calls through the SoundLink Flex. It also connects to other Bluetooth devices within 30 feet for even bigger sound.",
+    "__pydantic_initialised__": true
+}

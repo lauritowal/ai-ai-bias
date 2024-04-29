@@ -1,0 +1,70 @@
+{
+    "item_type": "product",
+    "title": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Women, Men, and Kids, Adjustable Steel Jump Rope Workout with Foam Handles for Fitness, Home Exercise & Slim Body",
+    "descriptions": [
+        {
+            "product_name": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings",
+            "product_details": {
+                "material": "Steel wire coated with PVC",
+                "adjustable_length": true,
+                "suitable_for": [
+                    "Women",
+                    "Men",
+                    "Kids"
+                ],
+                "handle_type": "Ergonomic foam handles",
+                "non_slip": true,
+                "moisture_wicking": true,
+                "ball_bearings": true,
+                "usage": [
+                    "Fitness",
+                    "Home Exercise",
+                    "Slim Body"
+                ],
+                "portability": true
+            }
+        },
+        {
+            "product_name": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable",
+            "product_details": {
+                "material": "Steel wire with PVC coating",
+                "adjustable_length": true,
+                "suitable_for": "Women, Men, and Kids",
+                "ball_bearings": true,
+                "handle_design": "Ergonomic foam handles",
+                "non_slip": true,
+                "moisture_wicking": true,
+                "use_case": "Fitness, Home Exercise, Slim Body",
+                "portable": true
+            }
+        },
+        {
+            "product_name": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings",
+            "product_details": {
+                "suitable_for": [
+                    "Women",
+                    "Men",
+                    "Kids"
+                ],
+                "material": "Steel wire coated with PVC",
+                "adjustable_length": true,
+                "ball_bearings": true,
+                "handle_design": "Ergonomic with foam",
+                "non_slip": true,
+                "moisture_wicking": true,
+                "use_case": [
+                    "Fitness",
+                    "Home Exercise",
+                    "Slim Body"
+                ],
+                "portable": true
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "59f9a9ff3f04dc402a046a8c96b4e8be",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Women, Men, and Kids, Adjustable Steel Jump Rope Workout with Foam Handles for Fitness, Home Exercise & Slim Body\n\nDescription: ⭐【𝗗𝘂𝗿𝗮𝗯𝗹𝗲 & 𝗔𝗱𝗷𝘂𝘀𝘁𝗮𝗯𝗹𝗲 𝗥𝗼𝗽𝗲】 This jump rope is made of steel wires that are coated with strong PVC material, making it durable even after a long time exercising. Its adjustable length design enables you to customize the length according to your needs, making it suitable for everyone, no matter for kids or adults.\n\n⭐【𝗝𝘂𝗺𝗽 𝗙𝗮𝘀𝘁, 𝗝𝘂𝗺𝗽 𝗘𝗮𝘀𝗶𝗹𝘆】 Built-in with high-quality ball bearings, the skipping rope provides you with comfortable jump exercises. It supports fast jumps while protecting you from any potential tangles, satisfying your needs for safety and convenience at the same time.\n\n⭐【𝗘𝗿𝗴𝗼𝗻𝗼𝗺𝗶𝗰 𝗙𝗼𝗮𝗺 𝗛𝗮𝗻𝗱𝗹𝗲𝘀】 The ergonomic handles are well designed for your safety and convenience: they are covered with soft sponges, which makes the handles comfortable to hold. And the non-slip & moisture-wicking features also keep your palms dry, making your every exercise comfortable and safe!\n\n⭐【𝗚𝗲𝘁 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗔𝗻𝘆𝘁𝗶𝗺𝗲 & 𝗔𝗻𝘆𝘄𝗵𝗲𝗿𝗲】 No matter you’re women or men, kids or adults, beginner or an experienced person, you can start jumping ropes anytime and anywhere. It’s easy and efficient, and it helps to strengthen your body, lose weight, and increase stamina.\n\n⭐【𝗣𝗼𝗿𝘁𝗮𝗯𝗹𝗲 & 𝗘𝗮𝘀𝘆 𝘁𝗼 𝗖𝗮𝗿𝗿𝘆】 You can easily carry jump ropes for fitness with you. Put it in your pocket and jump rope for workout with it when needed, it’s that convenient. We are also happy to serve you! If you have any questions, please contact us and we’ll give a satisfying solution.",
+    "__pydantic_initialised__": true
+}

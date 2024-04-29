@@ -1,0 +1,134 @@
+{
+    "item_type": "product",
+    "title": "The Republic of Tea – Limited-Edition Fall Apple Teas - Hot Apple Cider and Caramel Apple Herbal Tea Bundle – 36 Count Tea Bags Each",
+    "descriptions": [
+        {
+            "product_name": "The Republic of Tea – Limited-Edition Fall Apple Teas - Hot Apple Cider and Caramel Apple Herbal Tea Bundle – 36 Count Tea Bags Each",
+            "product_details": {
+                "Hot_Apple_Cider_Herbal_Tea": {
+                    "description": "A naturally-caffeine free blend with the flavors of apple cider, cinnamon, and cloves.",
+                    "ingredients": [
+                        "Apple pieces",
+                        "Cinnamon",
+                        "Orange peel",
+                        "Rose hips",
+                        "Berry leaves",
+                        "Natural flavors",
+                        "Ginger root",
+                        "Cloves",
+                        "Citric acid",
+                        "Cardamom seeds"
+                    ],
+                    "caffeine_free": true
+                },
+                "Caramel_Apple_Herbal_Tea": {
+                    "description": "A caffeine-free blend of sweet apples and vanilla with South African Rooibos.",
+                    "ingredients": [
+                        "Rooibos",
+                        "Apple bits",
+                        "Natural apple and caramel flavors",
+                        "Vanilla extract"
+                    ],
+                    "caffeine_free": true
+                },
+                "steeping_instructions": {
+                    "water_temperature": "rolling boil",
+                    "amount_of_water": "6 oz",
+                    "steep_time": "5-7 minutes",
+                    "additional_instructions": "Add used tea bags to compost or soil."
+                },
+                "count": 36,
+                "package_contains": [
+                    "Hot Apple Cider Herbal Tea",
+                    "Caramel Apple Herbal Tea"
+                ]
+            }
+        },
+        {
+            "product_name": "The Republic of Tea – Limited-Edition Fall Apple Teas - Hot Apple Cider and Caramel Apple Herbal Tea Bundle – 36 Count Tea Bags Each",
+            "product_details": {
+                "Hot Apple Cider Herbal Tea": {
+                    "description": "A naturally-caffeine free blend with flavors reminiscent of apple cider.",
+                    "ingredients": [
+                        "Apple pieces",
+                        "Cinnamon",
+                        "Orange peel",
+                        "Rose hips",
+                        "Berry leaves",
+                        "Natural flavors",
+                        "Ginger root",
+                        "Cloves",
+                        "Citric acid",
+                        "Cardamom seeds"
+                    ],
+                    "caffeine_free": true
+                },
+                "Caramel Apple Herbal Tea": {
+                    "description": "A caffeine-free blend with sweet apples, vanilla, and a base of South African Rooibos.",
+                    "ingredients": [
+                        "Rooibos",
+                        "Apple bits",
+                        "Natural apple and caramel flavors",
+                        "Vanilla extract"
+                    ],
+                    "caffeine_free": true
+                },
+                "Steeping Instructions": {
+                    "water_temperature": "rolling boil",
+                    "amount_of_water": "6 oz",
+                    "steep_time": "5-7 minutes",
+                    "additional_info": "Used tea bags can be added to compost or soil."
+                },
+                "Bundle": {
+                    "count_per_tea": 36,
+                    "ideal_for": "Accompaniment to the harvest season and as a dessert tea"
+                }
+            }
+        },
+        {
+            "product_name": "The Republic of Tea – Limited-Edition Fall Apple Teas - Hot Apple Cider and Caramel Apple Herbal Tea Bundle – 36 Count Tea Bags Each",
+            "product_details": {
+                "Hot_Apple_Cider_Herbal_Tea": {
+                    "description": "A naturally-caffeine free blend with the flavors of apple cider, cinnamon, and cloves.",
+                    "ingredients": [
+                        "Apple pieces",
+                        "Cinnamon",
+                        "Orange peel",
+                        "Rose hips",
+                        "Berry leaves",
+                        "Natural flavors",
+                        "Ginger root",
+                        "Cloves",
+                        "Citric acid",
+                        "Cardamom seeds"
+                    ],
+                    "caffeine_free": true
+                },
+                "Caramel_Apple_Herbal_Tea": {
+                    "description": "A caffeine-free blend with flavors of sweet apples, vanilla, and South African Rooibos.",
+                    "ingredients": [
+                        "Rooibos",
+                        "Apple bits",
+                        "Natural apple and caramel flavors",
+                        "Vanilla extract"
+                    ],
+                    "caffeine_free": true
+                },
+                "steeping_instructions": {
+                    "water_temperature": "boiling",
+                    "amount_of_water": "6 oz",
+                    "steep_time": "5-7 minutes",
+                    "additional_tip": "Used tea bags can be added to compost or soil."
+                },
+                "bundle_count": 36,
+                "product_type": "Herbal Tea Bundle"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1b0a469b43c316757514af5d10f69d42",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: The Republic of Tea – Limited-Edition Fall Apple Teas - Hot Apple Cider and Caramel Apple Herbal Tea Bundle – 36 Count Tea Bags Each\n\nDescription: HOT APPLE CIDER HERBAL TEA: A naturally-caffeine free blend of apples, cinnamon, cloves and ginger. Reminiscent of apple cider, the luscious aromas of cinnamon and cloves make this cup the perfect accompaniment to the colors of the harvest season.\n\nHOT APPLE CIDER INGREDIENTS: Apple pieces, cinnamon, orange peel, rose hips, berry leaves, natural flavors, ginger root, cloves, citric acid and cardamom seeds\n\nCARAMEL APPLE HERBAL TEA: Step into the season of crisp air, cuddly sweaters and rosy cheeks while sipping this caffeine-free blend of sweet apples and vanilla. With a base of South African Rooibos, each cup warms the senses with t he flavors of autumn. It’s wonderful as a dessert tea enjoyed with a splash of warm milk.\n\nCARAMEL APPLE INGREDIENTS: Rooibos, apple bits, natural apple and caramel flavors and vanilla extract\n\nSTEEPING HERBAL TEA IS EASY: Simply heat fresh, filtered water t o a rolling boil. Then pour 6 oz water over tea and steep for 5-7 minutes. After steeping, add the used tea bags to compost or soil — they make gardens happy.\n\nHot Apple Cider and Caramel Apple Herbal Tea Bundle HOT APPLE CIDER HERBAL TEA: A naturally-caffeine free blend of apples, cinnamon, cloves and ginger. Reminiscent of apple cider, the luscious aromas of cinnamon and cloves make this cup the perfect accompaniment to the colors of the harvest season. CARAMEL APPLE HERBAL TEA: Step into the season of crisp air, cuddly sweaters and rosy cheeks while sipping this caffeine-free blend of sweet apples and vanilla. With a base of South African Rooibos, each cup warms the senses with t he flavors of autumn. It’s wonderful as a dessert tea enjoyed with a splash of warm milk.",
+    "__pydantic_initialised__": true
+}

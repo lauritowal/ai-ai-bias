@@ -1,0 +1,113 @@
+{
+    "item_type": "product",
+    "title": "KitchenAid 5 Ultra Power Speed Hand Mixer - KHM512, Aqua Sky",
+    "descriptions": [
+        {
+            "product_name": "KitchenAid 5 Ultra Power Speed Hand Mixer - KHM512, Aqua Sky",
+            "product_details": {
+                "brand": "KitchenAid",
+                "model": "KHM512",
+                "color": "Aqua Sky",
+                "speeds": 5,
+                "features": {
+                    "lockable_swivel_cord": true,
+                    "one_button_accessory_removal": true,
+                    "accessories_included": [
+                        "2 Stainless Steel Turbo Beater Accessories"
+                    ],
+                    "accessory_material": "Stainless Steel",
+                    "dishwasher_safe_accessories": true,
+                    "usage": [
+                        "mixing nuts",
+                        "chocolate chips",
+                        "whipping meringues"
+                    ],
+                    "suitable_for": [
+                        "cookie dough",
+                        "mashed potatoes",
+                        "egg whites",
+                        "heavy cream"
+                    ]
+                },
+                "design": {
+                    "compact": true,
+                    "lightweight": true
+                },
+                "sales_ranking_source": {
+                    "source_name": "Euromonitor International Ltd.",
+                    "metric": "retail sales revenue",
+                    "currency": "USD",
+                    "channels_covered": "all retail channels",
+                    "claim_verification": "mixerclaim.kitchenaid.com"
+                }
+            }
+        },
+        {
+            "product_name": "KitchenAid 5 Ultra Power Speed Hand Mixer - KHM512, Aqua Sky",
+            "product_details": {
+                "brand_ranking": "#1 MIXER BRAND IN THE WORLD",
+                "brand_ranking_source": "Euromonitor International Ltd.",
+                "brand_ranking_basis": "retail sales revenue, USD, all retail channels",
+                "brand_ranking_more_info": "mixerclaim.kitchenaid.com",
+                "speed_levels": 5,
+                "color": "Aqua Sky",
+                "cord": "Lockable swivel cord",
+                "accessory_release": "Single-handed press button",
+                "accessories_included": [
+                    "Stainless Steel Turbo Beater"
+                ],
+                "accessory_feature": "Dishwasher-safe",
+                "design": "Compact and lightweight",
+                "suitable_for": [
+                    "cookie dough",
+                    "mashed potatoes",
+                    "whipping egg whites",
+                    "heavy cream"
+                ],
+                "additional_features": [
+                    {
+                        "speed_one": "Slowly stir in chunky ingredients like nuts or chocolate chips"
+                    },
+                    {
+                        "speed_five": "Whip egg whites or heavy cream"
+                    }
+                ]
+            }
+        },
+        {
+            "product_name": "KitchenAid 5 Ultra Power Speed Hand Mixer - KHM512, Aqua Sky",
+            "product_details": {
+                "brand": "KitchenAid",
+                "model": "KHM512",
+                "color": "Aqua Sky",
+                "rank": "#1 MIXER BRAND IN THE WORLD",
+                "source": "Euromonitor International Ltd.",
+                "sales_revenue_basis": "retail sales revenue, USD, all retail channels",
+                "source_url": "mixerclaim.kitchenaid.com",
+                "speeds": 5,
+                "features": [
+                    "Lockable swivel cord",
+                    "Single-handed accessory removal button",
+                    "Stainless Steel Turbo Beater Accessories",
+                    "Dishwasher-safe accessories"
+                ],
+                "suitability": [
+                    "Mixing nuts and chocolate chips",
+                    "Whipping meringues",
+                    "Cookie dough",
+                    "Mashed potatoes",
+                    "Stirring in chunky ingredients",
+                    "Whipping egg whites",
+                    "Whipping heavy cream"
+                ],
+                "design": "Compact and lightweight"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0d1d9dd291a93c698fa41f790ed86985",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: KitchenAid 5 Ultra Power Speed Hand Mixer - KHM512, Aqua Sky\n\nDescription: #1 MIXER BRAND IN THE WORLD* *Source: Euromonitor International Ltd. for retail sales revenue, USD, all retail channels. More information, including date ranges available at: mixerclaim.kitchenaid.com\n\nThis hand mixer has the right speed for the task at hand, from mixing in nuts and chocolate chips at speed one, to whipping perfect meringues at speed five.\n\nLockable swivel cord keeps the cord out of your way while mixing.\n\nQuickly remove any of the included accessories from the hand mixer with the single-handed press of the button.\n\nMix your ingredients thoroughly, using the thoughtfully designed Stainless Steel Turbo Beater. Accessories, dishwasher-safe.\n\nCompact, lightweight and great for your everyday mixing needs. This hand mixer features 5 speeds, 2 Turbo Beater Accessories and the power and control to mix up your favorite cookie dough, mashed potatoes and so much more. Slowly stir in chunky ingredients, like nuts or chocolate chips, at speed one or whip egg whites or heavy cream at speed five.",
+    "__pydantic_initialised__": true
+}

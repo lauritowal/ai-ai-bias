@@ -1,0 +1,126 @@
+{
+    "item_type": "product",
+    "title": "Giant Fly Glue Trap by Catchmaster - 3 Packs 30 Feet Each Pre-Baited, Ready to Use Indoors & Outdoors. Bug Insect Infestation Sticky Adhesive Scented Green Color Barn Paper Sheet Disposable Non-Toxic",
+    "descriptions": [
+        {
+            "product_name": "Giant Fly Glue Trap by Catchmaster",
+            "product_details": {
+                "pack_quantity": 3,
+                "length_per_pack": "30 feet",
+                "pre_baited": true,
+                "ready_to_use": true,
+                "indoor_use": true,
+                "outdoor_use": true,
+                "scented": true,
+                "color": "Green",
+                "type": "Sticky Adhesive Barn Paper Sheet",
+                "disposable": true,
+                "non_toxic": true,
+                "effective_duration": "up to one full year",
+                "coverage_area": "3600 square inches",
+                "applications": [
+                    "residential",
+                    "commercial",
+                    "industrial",
+                    "barns",
+                    "waste rooms",
+                    "animal farms"
+                ],
+                "usage_conditions": [
+                    "normal conditions",
+                    "damp areas",
+                    "humid areas"
+                ],
+                "prohibited_areas": [
+                    "areas where rodenticides",
+                    "snap traps"
+                ],
+                "management_approach": "Intelligent Pest Management"
+            }
+        },
+        {
+            "product_name": "Giant Fly Glue Trap by Catchmaster",
+            "product_details": {
+                "packs": 3,
+                "length_per_pack_feet": 30,
+                "pre_baited": true,
+                "ready_to_use": true,
+                "indoor_use": true,
+                "outdoor_use": true,
+                "type": "Sticky Adhesive",
+                "scented": true,
+                "color": "Green",
+                "material": "Barn Paper Sheet",
+                "disposable": true,
+                "non_toxic": true,
+                "scent_attractant_formula": true,
+                "field_condition_tested": true,
+                "durability": {
+                    "normal_conditions_up_to_one_year": true
+                },
+                "size": {
+                    "width_inches": 10,
+                    "total_surface_square_inches": 3600
+                },
+                "suitable_locations": [
+                    "residential",
+                    "commercial",
+                    "industrial",
+                    "barns",
+                    "waste_rooms",
+                    "animal_farms"
+                ],
+                "suitable_for_high_infestation_areas": true,
+                "intelligent_pest_management": true
+            }
+        },
+        {
+            "product_name": "Giant Fly Glue Trap by Catchmaster",
+            "product_details": {
+                "packs": 3,
+                "length_per_pack_feet": 30,
+                "pre_baited": true,
+                "usage": [
+                    "indoors",
+                    "outdoors"
+                ],
+                "type": "insect infestation adhesive",
+                "scented": true,
+                "color": "green",
+                "material": "barn paper",
+                "disposable": true,
+                "non_toxic": true,
+                "ready_to_use": true,
+                "effective_in": [
+                    "damp areas",
+                    "humid areas",
+                    "normal conditions"
+                ],
+                "longevity": "up to one full year",
+                "coverage_area_square_inches": 3600,
+                "applicable_locations": [
+                    "residential",
+                    "commercial",
+                    "industrial",
+                    "barns",
+                    "waste rooms",
+                    "animal farms"
+                ],
+                "prohibited_areas": [
+                    "areas where rodenticides or snap traps are undesirable"
+                ],
+                "approach": "intelligent pest management",
+                "dimensions": {
+                    "width_inches": 10,
+                    "length_feet": 30
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c4b912603993969064d2af8dbad2a5ab",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Giant Fly Glue Trap by Catchmaster - 3 Packs 30 Feet Each Pre-Baited, Ready to Use Indoors & Outdoors. Bug Insect Infestation Sticky Adhesive Scented Green Color Barn Paper Sheet Disposable Non-Toxic\n\nDescription: READY TO USE: Giant Fly glue traps are pre-scented and are intended for use without additional bait. For best use, leave trap hanging near the area flying insects are most seen, remove the paper to extend the 30 ft. adhesive trap. Scented with a special formula to attract insects. Our products are tested under the harshest field conditions to ensure maximum reliability for any level of pest control expert.\n\nMAXIMUM PROTECTION: Catchmaster glue traps are safe, non-toxic and no-mess. An effective alternative to standalone glue boards that may not hold up as well in damp or humid areas like basements or bathrooms. When placed in an area with normal conditions, glue traps can last up to one full year. Our products are tested under the harshest field conditions to ensure maximum reliability for any level of pest control expert.\n\nECONOMICAL GIANT ROLL: Our 30' x 10\" one sided flying insect trap roll contains 3,600 square inches of premium fly catching surface. Designed to help you keep your family protected and safe from unwanted pests in your home, Catchmaster's traps are intuitive, secure and effective on a larger scale.\n\nTOTAL COVERAGE: Can be used in residential, commercial, or industrial buildings, outdoors, and sensitive areas where rodenticides or snap traps are undesirable or prohibited. For use in Barns, Waste Rooms, Animal Farms and other high fly infestation areas, the Catchmaster Giant Fly Trap is a one-sided adhesive 30 ft. roll.\n\nINTELLIGENT PEST MANAGEMENT: At our core, we are dedicated pest detectives. We believe in utilizing a science-based approach to integrated pest management. We call this approach Intelligent Pest Management. We leave no stones unturned when it comes to pests and we have unwavering conviction in our products.",
+    "__pydantic_initialised__": true
+}

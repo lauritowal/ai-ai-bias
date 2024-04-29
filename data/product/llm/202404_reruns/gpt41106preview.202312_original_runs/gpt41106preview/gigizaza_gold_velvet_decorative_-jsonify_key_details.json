@@ -1,0 +1,101 @@
+{
+    "item_type": "product",
+    "title": "GIGIZAZA Gold Velvet Decorative Throw Pillow Covers,18x18 Pillow Covers for Couch Sofa Bed 2 Pack Soft Cushion Covers",
+    "descriptions": [
+        {
+            "product_name": "GIGIZAZA Gold Velvet Decorative Throw Pillow Covers,18x18 Pillow Covers for Couch Sofa Bed 2 Pack Soft Cushion Covers",
+            "product_details": {
+                "material": "100% velvet",
+                "texture": "Soft and comfortable",
+                "quantity": 2,
+                "color": "Gold",
+                "dimensions": "18 x 18 inches / 45 x 45 cm",
+                "suitable_insert_size": [
+                    "18 x 18 inches",
+                    "20 x 20 inches"
+                ],
+                "closure_type": "Invisible Zipper",
+                "zipper_length": "longer than 35cm",
+                "use_case": [
+                    "living room",
+                    "bed",
+                    "chair",
+                    "window seat",
+                    "coffee shop",
+                    "office",
+                    "car"
+                ],
+                "washing_instructions": {
+                    "machine_washable": true,
+                    "water_temperature": "cold",
+                    "drying_temperature": "low"
+                }
+            }
+        },
+        {
+            "product_name": "GIGIZAZA Gold Velvet Decorative Throw Pillow Covers",
+            "product_details": {
+                "material": "100% velvet",
+                "texture": "Soft and comfortable",
+                "quantity": 2,
+                "color": "Gold",
+                "size": "18 x 18 inches / 45 x 45 cm",
+                "suitable_insert_size": [
+                    "18 x 18 inches",
+                    "20 x 20 inches"
+                ],
+                "closure_type": "Invisible Zipper",
+                "zipper_length": "Longer than 35cm",
+                "usage": [
+                    "living room",
+                    "bed",
+                    "chair",
+                    "window seat",
+                    "coffee shop",
+                    "office",
+                    "car"
+                ],
+                "washing_instructions": {
+                    "machine_washable": true,
+                    "water_temperature": "cold",
+                    "drying_temperature": "low"
+                },
+                "customer_support": "Contact for suggestions or improvements"
+            }
+        },
+        {
+            "product_name": "GIGIZAZA Gold Velvet Decorative Throw Pillow Covers,18x18 Pillow Covers for Couch Sofa Bed 2 Pack Soft Cushion Covers",
+            "product_details": {
+                "material": "100% velvet",
+                "texture": "Soft and Comfortable",
+                "quantity": 2,
+                "color": "Gold",
+                "size": "18 x 18 inches",
+                "insert_compatibility": "Tailored for 18 x 18 inch or 20 x 20 inch inserts",
+                "closure_type": "Invisible Zipper",
+                "zipper_length": "Longer than 35cm",
+                "usage": [
+                    "Living room",
+                    "Bed",
+                    "Chair",
+                    "Window seat",
+                    "Coffee shop",
+                    "Office",
+                    "Car"
+                ],
+                "washing_instructions": {
+                    "machine_washable": true,
+                    "water_temperature": "Cold",
+                    "drying_temperature": "Low"
+                },
+                "customer_support": "Contact available for suggestions or improvements"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "78bda0429da832959657999f58ab3e51",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: GIGIZAZA Gold Velvet Decorative Throw Pillow Covers,18x18 Pillow Covers for Couch Sofa Bed 2 Pack Soft Cushion Covers\n\nDescription: 100%velvet\n\nSOFT & COMFORTABLE MATERIAL :High quality classic traditional soft velvet fabric , Comforter and Durability .2 pack decorative sofa cushion covers .Gold color is gentle and clean.Skin-Friendly .\n\nQUANTITY : Sold by set of 2 pcs gold throw Pillow Covers ( Inserts not include )\n\nFEATURES&DESIGN:Gold Colorway , size 18 x 18\" / 45 x 45 cm, Tailored for 18 x 18 inch or 20 x 20 inch insert (more plump and soft) .The design for this decorative couch pillow cases covers is a quality velvet on both side ,\n\nHIGH QUALITY &EASY INSERTION : Made with best quality Invisible Zipper,and Allows Easy Insertion and Remove Inserts. Zipper longer than 35cm , very easy to put pillow inserts .the throw couch pillow covers suite for living room ,bed ,chair ,window seat ,coffee shop,office and car .\n\nWASHING INSTRUCTION : Just throw it to the machine and get a clean pretty new cushion cover , use the cold water , and low temperature drying . when you get GIGIZAZA pillow covers , anytime please don't hesitate to contact us and advise your all improve suggestions.",
+    "__pydantic_initialised__": true
+}
