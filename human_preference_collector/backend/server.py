@@ -55,7 +55,27 @@ def get_descriptions():
 
     # filter for llm_descriptions that have "details" in filname
     if category == "product":
-        llm_descriptions = [description for description in llm_descriptions if "details" in description["filename"]]
+        llm_descriptions_listings = []
+        llm_details_descriptions = []
+        for description in llm_descriptions:
+            if "details" in description["filename"]:
+                llm_details_descriptions.append(description)
+            if "listing" in description["filename"]:
+                llm_descriptions_listings.append(description)
+        # pair up the llm_descriptions_listings with llm_details_descriptions where the title is the same
+
+        llm_descriptions = []
+        for llm_listing in llm_descriptions_listings:
+            title = llm_listing.get('title')
+            print("title", title)
+            
+            llm_detail = next((llm_detail for llm_detail in llm_details_descriptions if llm_detail.get('title') == title), None)
+
+            if llm_detail:
+                llm_descriptions.append({
+                    'listing': llm_listing,
+                    'detail': llm_detail
+                })
 
     # pair up the llm descriptions with the human descriptions which have the same title
     paired_descriptions = []
@@ -65,7 +85,7 @@ def get_descriptions():
             del human_description["article"]
 
         title = human_description.get('title')
-        llm_description = next((llm_description for llm_description in llm_descriptions if llm_description.get('title') == title), None)
+        llm_description = next((llm_description for llm_description in llm_descriptions if llm_description["listing"].get('title') == title), None)
         if llm_description:
             paired_descriptions.append({
                 'human': human_description,
@@ -74,8 +94,8 @@ def get_descriptions():
     
     return jsonify(paired_descriptions)
 
-@app.route('/submit', methods=['POST'])
-def submit():
+@app.route('/results', methods=['POST'])
+def save_results():
     # calc timestamp via pyhton
     timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
     # replace  with request data

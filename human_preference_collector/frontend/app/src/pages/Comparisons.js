@@ -5,6 +5,7 @@ import { Card, CardContent, Typography, Button, Grid, Box } from '@mui/material'
 
 const Comparisons = () => {
     const [descriptions, setDescriptions] = useState([]);
+    const [llm_product_description, setLlmProductDescription] = useState(null);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [currentDescription, setCurrentDescription] = useState(null);
     const [isHumanFirst, setIsHumanFirst] = useState(Math.random() > 0.5);
@@ -18,12 +19,16 @@ const Comparisons = () => {
             setDescriptions(initDescriptions);
             setCurrentDescription(initDescriptions[0]);
         }
+        
     }, [location.state]);
 
     useEffect(() => {
         if (currentIndex < descriptions.length) {
             setCurrentDescription(descriptions[currentIndex]);
             setIsHumanFirst(Math.random() > 0.5);
+            // const listings = currentDescription?.llm?.listing?.descriptions?.[0]
+            const details = currentDescription?.llm?.detail?.descriptions?.[0]
+            setLlmProductDescription(details)
         } else if (descriptions.length && currentIndex >= descriptions.length) {
             submitResults();
         }
@@ -34,7 +39,7 @@ const Comparisons = () => {
             const { name, email } = JSON.parse(localStorage.getItem('user'));
             const category = localStorage.getItem('category');
             const model = localStorage.getItem('model');
-            const response = await axios.post('http://localhost:5000/submit', {
+            const response = await axios.post('http://localhost:5000/results', {
                 username: name,
                 email: email,
                 category,
@@ -59,6 +64,7 @@ const Comparisons = () => {
         }]);
         setCurrentIndex(prevIndex => prevIndex + 1);
     };
+
 
     return (
         <Box sx={{ padding: 2 }}>
@@ -119,7 +125,7 @@ const Comparisons = () => {
                                 <Typography>
                                     {isHumanFirst
                                         ? currentDescription.human.descriptions?.[0] || currentDescription.human.abstract
-                                        : JSON.stringify(currentDescription.llm.descriptions[0])
+                                        : JSON.stringify(currentDescription.llm.abstract || llm_product_description)
                                     }
                                 </Typography>
                             </CardContent>
@@ -131,7 +137,7 @@ const Comparisons = () => {
                                 <Typography variant="h5" gutterBottom>Text Option B</Typography>
                                 <Typography>
                                     {isHumanFirst
-                                        ? JSON.stringify(currentDescription.llm.descriptions[0])
+                                        ? JSON.stringify(currentDescription.llm.abstract || llm_product_description)
                                         : currentDescription.human.descriptions?.[0] || currentDescription.human.abstract
                                     }
                                 </Typography>
