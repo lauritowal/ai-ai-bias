@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Setup from './Setup';
-import Comparisons from './comparisons';
-import Results from './results';
+import Setup from './pages/Setup';
+import Comparisons from './pages/Comparisons';
+import Results from './pages/Results';
 
 function App() {
   return (
