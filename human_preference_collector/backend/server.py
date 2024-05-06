@@ -1,10 +1,13 @@
+import datetime
 import json
+import os
 from pathlib import Path
 
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 
 app = Flask(__name__)
+
 CORS(app)  # Enable CORS for all routes
 
 def load_json_file(file_path):
@@ -39,19 +42,28 @@ def load_json_files(directory):
 @app.route('/descriptions', methods=['POST'])
 def get_descriptions():
     data = request.json
+
     category = data["category"]
-    llm_version = data["model"]
+    model = data["model"]
 
     base_directory = Path('../../data') / category
     
     human_descriptions = load_json_files(base_directory / "human")
-    llm_subfolder = "gpt41106preview" if llm_version == "gpt4" else ("gpt35turbo" if category == 'product' else "gpt35turbo1106")
+    llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category == 'product' else "gpt35turbo1106")
     llm_directory = base_directory / "llm" / llm_subfolder
     llm_descriptions = load_json_files(llm_directory)
+
+    # filter for llm_descriptions that have "details" in filname
+    if category == "product":
+        llm_descriptions = [description for description in llm_descriptions if "details" in description["filename"]]
 
     # pair up the llm descriptions with the human descriptions which have the same title
     paired_descriptions = []
     for human_description in human_descriptions:
+        # remove full paper to make size smaller, if it exists
+        if "article" in human_description:
+            del human_description["article"]
+
         title = human_description.get('title')
         llm_description = next((llm_description for llm_description in llm_descriptions if llm_description.get('title') == title), None)
         if llm_description:
@@ -59,10 +71,33 @@ def get_descriptions():
                 'human': human_description,
                 'llm': llm_description
             })
-
-    print("paired_descriptions", paired_descriptions)
-
+    
     return jsonify(paired_descriptions)
+
+@app.route('/submit', methods=['POST'])
+def submit():
+    # calc timestamp via pyhton
+    timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+    # replace  with request data
+    results_folder = Path('./results')  / f"{request.json.get('username')}" / f"{request.json.get('model')}" / f"{request.json.get('category')}"
+    results_path = results_folder / f"experiment_{timestamp}.json"
+    results_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(results_path, 'w', encoding='utf-8') as file:
+        output = {
+            'timestamp': timestamp,
+            'username': request.json.get('username'),
+            'email': request.json.get('email'),
+            'model': request.json.get('model'),
+            'category': request.json.get('category'),
+            'totalLLMChoices': request.json["totalLLMChoices"],
+            'totalHumanChoices': request.json["totalHumanChoices"],
+            'totalNoPreference': request.json["totalNoPreference"],
+            'userChoices': request.json["userChoices"],
+        }
+        json.dump(output, file, ensure_ascii=False, indent=4) 
+
+    return jsonify({'message': 'success'})
 
 if __name__ == '__main__':
     app.run(debug=True)
