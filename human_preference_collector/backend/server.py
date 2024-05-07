@@ -42,56 +42,50 @@ def load_json_files(directory):
 @app.route('/descriptions', methods=['POST'])
 def get_descriptions():
     data = request.json
-
     category = data["category"]
     model = data["model"]
 
     base_directory = Path('../../data') / category
-    
+
+    # Load human descriptions
     human_descriptions = load_json_files(base_directory / "human")
+
+    # Load the appropriate LLM subfolder based on the model
     llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category == 'product' else "gpt35turbo1106")
     llm_directory = base_directory / "llm" / llm_subfolder
     llm_descriptions = load_json_files(llm_directory)
 
-    # filter for llm_descriptions that have "details" in filname
-    if category == "product":
-        llm_descriptions_listings = []
-        llm_details_descriptions = []
-        for description in llm_descriptions:
-            if "details" in description["filename"]:
-                llm_details_descriptions.append(description)
-            if "listing" in description["filename"]:
-                llm_descriptions_listings.append(description)
-        # pair up the llm_descriptions_listings with llm_details_descriptions where the title is the same
+    # Separate LLM descriptions into 'listing' and 'detail'
+    llm_descriptions_listings = [desc for desc in llm_descriptions if "listing" in desc["filename"]]
+    llm_details_descriptions = [desc for desc in llm_descriptions if "details" in desc["filename"] and "jsonify" not in desc["filename"]]
 
-        llm_descriptions = []
-        for llm_listing in llm_descriptions_listings:
-            title = llm_listing.get('title')
-            print("title", title)
-            
-            llm_detail = next((llm_detail for llm_detail in llm_details_descriptions if llm_detail.get('title') == title), None)
+    # Combine listings and details
+    combined_llm_descriptions = []
+    for listing in llm_descriptions_listings:
+        title = listing.get('title')
+        matching_detail = next((detail for detail in llm_details_descriptions if detail.get('title') == title), None)
 
-            if llm_detail:
-                llm_descriptions.append({
-                    'listing': llm_listing,
-                    'detail': llm_detail
-                })
+        combined_llm_descriptions.append({
+            'listing': listing,
+            'detail': matching_detail if matching_detail else {}
+        })
 
-    # pair up the llm descriptions with the human descriptions which have the same title
+    # Pair the LLM and human descriptions based on titles
     paired_descriptions = []
-    for human_description in human_descriptions:
-        # remove full paper to make size smaller, if it exists
-        if "article" in human_description:
-            del human_description["article"]
+    for human in human_descriptions:
+        title = human.get('title').strip()
+        llm_pair = next((llm for llm in combined_llm_descriptions if llm['listing'].get('title', '').strip() == title), None)
 
-        title = human_description.get('title')
-        llm_description = next((llm_description for llm_description in llm_descriptions if llm_description["listing"].get('title') == title), None)
-        if llm_description:
+        # Only assert if both listing and detail titles are available
+        if llm_pair and llm_pair['detail']:
+            assert title == llm_pair['listing']['title'].strip() == llm_pair['detail']['title'].strip(), f"Titles do not match: {title}, {llm_pair['listing']['title']}, {llm_pair['detail']['title']}"
+
+        if llm_pair:
             paired_descriptions.append({
-                'human': human_description,
-                'llm': llm_description
+                'human': human,
+                'llm': llm_pair
             })
-    
+
     return jsonify(paired_descriptions)
 
 @app.route('/results', methods=['POST'])

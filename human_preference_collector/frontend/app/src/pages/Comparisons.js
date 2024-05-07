@@ -3,10 +3,33 @@ import { useNavigate, useLocation } from 'react-router-dom';
 import axios from 'axios';
 import { Card, CardContent, Typography, Button, Grid, Box } from '@mui/material';
 
+function removeDoubleAsterisks(text) {
+    return text?.replace(/\*\*/g, '') || '';
+}
+
+function formatObjectData(data) {
+    if (typeof data === 'object' && data !== null) {
+        return JSON.stringify(data, null, 2);
+    }
+    return data?.toString() || '';
+}
+
+function countWords(text) {
+    return text ? text.trim().split(/\s+/).length : 0;
+}
+
+function isValidDescription(description) {
+    return description && countWords(description) >= 10;
+}
+
+function getRandomIndex(arrayLength) {
+    return Math.floor(Math.random() * arrayLength);
+}
+
 const Comparisons = () => {
     const [descriptions, setDescriptions] = useState([]);
-    const [llm_product_description, setLlmProductDescription] = useState(null);
     const [currentIndex, setCurrentIndex] = useState(0);
+    const [validIndex, setValidIndex] = useState(0);
     const [currentDescription, setCurrentDescription] = useState(null);
     const [isHumanFirst, setIsHumanFirst] = useState(Math.random() > 0.5);
     const [userChoices, setUserChoices] = useState([]);
@@ -19,17 +42,25 @@ const Comparisons = () => {
             setDescriptions(initDescriptions);
             setCurrentDescription(initDescriptions[0]);
         }
-        
     }, [location.state]);
 
     useEffect(() => {
-        if (currentIndex < descriptions.length) {
-            setCurrentDescription(descriptions[currentIndex]);
-            setIsHumanFirst(Math.random() > 0.5);
-            // const listings = currentDescription?.llm?.listing?.descriptions?.[0]
-            const details = currentDescription?.llm?.detail?.descriptions?.[0]
-            setLlmProductDescription(details)
-        } else if (descriptions.length && currentIndex >= descriptions.length) {
+        while (currentIndex < descriptions.length) {
+            const currentDescription = descriptions[currentIndex];
+            const humanDescription = removeDoubleAsterisks(currentDescription.human.descriptions?.[0] || currentDescription.human.abstract);
+            const llmDescription = removeDoubleAsterisks(formatObjectData(currentDescription.llm.abstract || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]));
+
+            if (isValidDescription(humanDescription) && isValidDescription(llmDescription)) {
+                setCurrentDescription(currentDescription);
+                setIsHumanFirst(Math.random() > 0.5);
+                setValidIndex(prev => prev + 1);  // Increment the count of valid comparisons
+                break;  // Exit the loop
+            } else {
+                setCurrentIndex(prevIndex => prevIndex + 1);
+            }
+        }
+
+        if (descriptions.length && currentIndex >= descriptions.length) {
             submitResults();
         }
     }, [currentIndex, descriptions]);
@@ -65,6 +96,10 @@ const Comparisons = () => {
         setCurrentIndex(prevIndex => prevIndex + 1);
     };
 
+    const preStyle = {
+        whiteSpace: "pre-wrap",
+        wordWrap: "break-word"
+    };
 
     return (
         <Box sx={{ padding: 2 }}>
@@ -72,7 +107,7 @@ const Comparisons = () => {
             {currentDescription ? (
                 <Grid container spacing={2}>
                     <Grid item xs={12}>
-                        <Typography>{currentIndex + 1} / {descriptions.length}</Typography>
+                        <Typography>{validIndex} / {descriptions.length}</Typography>
                     </Grid>
                     <Grid item xs={12}>
                         <Card variant="outlined">
@@ -123,10 +158,12 @@ const Comparisons = () => {
                             <CardContent>
                                 <Typography variant="h5" gutterBottom>Text Option A</Typography>
                                 <Typography>
-                                    {isHumanFirst
-                                        ? currentDescription.human.descriptions?.[0] || currentDescription.human.abstract
-                                        : JSON.stringify(currentDescription.llm.abstract || llm_product_description)
-                                    }
+                                    <pre style={preStyle}>
+                                        {isHumanFirst
+                                            ? removeDoubleAsterisks(currentDescription.human.descriptions?.[0] || currentDescription.human.abstract)
+                                            : removeDoubleAsterisks(formatObjectData(currentDescription.llm.abstract || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]))
+                                        }
+                                    </pre>
                                 </Typography>
                             </CardContent>
                         </Card>
@@ -136,10 +173,12 @@ const Comparisons = () => {
                             <CardContent>
                                 <Typography variant="h5" gutterBottom>Text Option B</Typography>
                                 <Typography>
-                                    {isHumanFirst
-                                        ? JSON.stringify(currentDescription.llm.abstract || llm_product_description)
-                                        : currentDescription.human.descriptions?.[0] || currentDescription.human.abstract
-                                    }
+                                    <pre style={preStyle}>
+                                        {isHumanFirst
+                                            ? removeDoubleAsterisks(formatObjectData(currentDescription.llm.abstract || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]))
+                                            : removeDoubleAsterisks(currentDescription.human.descriptions?.[0] || currentDescription.human.abstract)
+                                        }
+                                    </pre>
                                 </Typography>
                             </CardContent>
                         </Card>
