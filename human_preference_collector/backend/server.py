@@ -55,37 +55,45 @@ def get_descriptions():
     llm_directory = base_directory / "llm" / llm_subfolder
     llm_descriptions = load_json_files(llm_directory)
 
-    # Separate LLM descriptions into 'listing' and 'detail'
-    llm_descriptions_listings = [desc for desc in llm_descriptions if "listing" in desc["filename"]]
-    llm_details_descriptions = [desc for desc in llm_descriptions if "details" in desc["filename"] and "jsonify" not in desc["filename"]]
+    if category == 'product':
+        # Separate LLM descriptions into 'listing' and 'detail'
+        llm_descriptions_listings = [desc for desc in llm_descriptions if "listing" in desc["filename"]]
+        llm_details_descriptions = [desc for desc in llm_descriptions if "details" in desc["filename"] and "jsonify" not in desc["filename"]]
 
-    # Combine listings and details
-    combined_llm_descriptions = []
-    for listing in llm_descriptions_listings:
-        title = listing.get('title')
-        matching_detail = next((detail for detail in llm_details_descriptions if detail.get('title') == title), None)
+        # Combine listings and details
+        llm_descriptions = []
+        for listing in llm_descriptions_listings:
+            human_title = listing.get('title')
+            matching_detail = next((detail for detail in llm_details_descriptions if detail.get('title') == human_title), None)
 
-        combined_llm_descriptions.append({
-            'listing': listing,
-            'detail': matching_detail if matching_detail else {}
-        })
+            llm_descriptions.append({
+                'listing': listing,
+                'detail': matching_detail if matching_detail else {}
+            })
 
     # Pair the LLM and human descriptions based on titles
     paired_descriptions = []
     for human in human_descriptions:
-        title = human.get('title').strip()
-        llm_pair = next((llm for llm in combined_llm_descriptions if llm['listing'].get('title', '').strip() == title), None)
-
-        # Only assert if both listing and detail titles are available
-        if llm_pair and llm_pair['detail']:
-            assert title == llm_pair['listing']['title'].strip() == llm_pair['detail']['title'].strip(), f"Titles do not match: {title}, {llm_pair['listing']['title']}, {llm_pair['detail']['title']}"
+        human_title = human.get('title').strip()
+        
+        if category == 'product':
+            llm_pair = next((llm for llm in llm_descriptions if llm['listing'].get('title', '').strip() == human_title), None)
+            
+            # Only assert if both listing and detail titles are available
+            if llm_pair and llm_pair['detail']:
+                assert human_title == llm_pair['listing']['title'].strip() == llm_pair['detail']['title'].strip(), f"Titles do not match: {human_title}, {llm_pair['listing']['title']}, {llm_pair['detail']['title']}"
+        elif category == 'paper':
+            llm_pair = next((llm for llm in llm_descriptions if llm.get('title', '').strip() == human_title), None)
+            del human["article"]
+            del human["abstract_xml"]
+            if llm_pair:
+                assert human_title == llm_pair['title'].strip(), f"Titles do not match: {human_title}, {llm_pair['title']}"
 
         if llm_pair:
             paired_descriptions.append({
                 'human': human,
                 'llm': llm_pair
             })
-
     return jsonify(paired_descriptions)
 
 @app.route('/results', methods=['POST'])

@@ -47,8 +47,8 @@ const Comparisons = () => {
     useEffect(() => {
         while (currentIndex < descriptions.length) {
             const currentDescription = descriptions[currentIndex];
-            const humanDescription = removeDoubleAsterisks(currentDescription.human.descriptions?.[0] || currentDescription.human.abstract);
-            const llmDescription = removeDoubleAsterisks(formatObjectData(currentDescription.llm.abstract || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]));
+            const humanDescription = formatObjectData(currentDescription.human.abstract || currentDescription.human.descriptions?.[0]);
+            const llmDescription = removeDoubleAsterisks(formatObjectData(currentDescription.llm?.descriptions?.[getRandomIndex(currentDescription?.llm?.descriptions?.length)] || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]));
 
             if (isValidDescription(humanDescription) && isValidDescription(llmDescription)) {
                 setCurrentDescription(currentDescription);
@@ -157,11 +157,11 @@ const Comparisons = () => {
                         <Card variant="outlined">
                             <CardContent>
                                 <Typography variant="h5" gutterBottom>Text Option A</Typography>
-                                <Typography>
+                                <Typography> 
                                     <pre style={preStyle}>
                                         {isHumanFirst
-                                            ? removeDoubleAsterisks(currentDescription.human.descriptions?.[0] || currentDescription.human.abstract)
-                                            : removeDoubleAsterisks(formatObjectData(currentDescription.llm.abstract || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]))
+                                            ? formatObjectData(currentDescription.human.abstract || currentDescription.human.descriptions?.[0])
+                                            : removeDoubleAsterisks(formatObjectData(currentDescription.llm?.descriptions?.[getRandomIndex(currentDescription?.llm?.descriptions?.length)] || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]))
                                         }
                                     </pre>
                                 </Typography>
@@ -175,8 +175,8 @@ const Comparisons = () => {
                                 <Typography>
                                     <pre style={preStyle}>
                                         {isHumanFirst
-                                            ? removeDoubleAsterisks(formatObjectData(currentDescription.llm.abstract || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]))
-                                            : removeDoubleAsterisks(currentDescription.human.descriptions?.[0] || currentDescription.human.abstract)
+                                            ? removeDoubleAsterisks(formatObjectData(currentDescription.llm?.descriptions?.[getRandomIndex(currentDescription?.llm?.descriptions?.length)] || currentDescription?.llm?.detail?.descriptions?.[getRandomIndex(currentDescription?.llm?.detail?.descriptions?.length)]))
+                                            : formatObjectData(currentDescription.human.abstract || currentDescription.human.descriptions?.[0])
                                         }
                                     </pre>
                                 </Typography>
