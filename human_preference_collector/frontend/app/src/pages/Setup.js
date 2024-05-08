@@ -37,7 +37,7 @@ const Setup = () => {
         localStorage.clear();
 
         try {
-            const response = await axios.post('/descriptions', {
+            const response = await axios.post('https://upsun-deployment-xiwfmii-7spb7gvntnnl6.de-2.platformsh.site/descriptions', {
                 username, email, category: selectedCategory, model: selectedModel
             });
             if (response.data && response.data.length > 0) {
