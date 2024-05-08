@@ -70,7 +70,7 @@ const Comparisons = () => {
             const { name, email } = JSON.parse(localStorage.getItem('user'));
             const category = localStorage.getItem('category');
             const model = localStorage.getItem('model');
-            const response = await axios.post('http://localhost:5000/results', {
+            const response = await axios.post('/results', {
                 username: name,
                 email: email,
                 category,

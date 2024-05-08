@@ -37,7 +37,7 @@ const Setup = () => {
         localStorage.clear();
 
         try {
-            const response = await axios.post('http://localhost:5000/descriptions', {
+            const response = await axios.post('/descriptions', {
                 username, email, category: selectedCategory, model: selectedModel
             });
             if (response.data && response.data.length > 0) {
