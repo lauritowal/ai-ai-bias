@@ -25,7 +25,7 @@ applications:
     # Mounts define directories that are writable after the build is complete.
     # More information: https://docs.upsun.com/create-apps/app-reference.html#mounts
     mounts:
-        "ai-ai-bias/static":
+        "~/human_preference_collector/frontend/app/":
             source: "storage"
             source_path: "static_assets"
 
