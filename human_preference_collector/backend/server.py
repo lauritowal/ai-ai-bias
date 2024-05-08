@@ -6,9 +6,15 @@ from pathlib import Path
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 
-app = Flask(__name__, static_folder='../frontend/app/build', static_url_path='/')
+app = Flask(__name__, static_folder='/home/walt/ai-ai-bias/human_preference_collector/frontend/app/build', static_url_path='/')
 
 CORS(app)  # Enable CORS for all routes
+
+@app.route('/', defaults={'path': ''})
+@app.route('/<path:path>')
+def serve(path):
+    return app.send_static_file('index.html')
+
 
 def load_json_file(file_path):
     """
