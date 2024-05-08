@@ -24,10 +24,10 @@ applications:
 
     # Mounts define directories that are writable after the build is complete.
     # More information: https://docs.upsun.com/create-apps/app-reference.html#mounts
-    # mounts:
-    #   "/human_preference_collector/frontend/app":
-    #     source: "storage"
-    #     source_path: "build"
+    mounts:
+        "ai-ai-bias/static":
+            source: "storage"
+            source_path: "static_assets"
 
     # The web key configures the web server running in front of your app.
     # More information: https://docs.upsun.com/create-apps/app-reference.html#web
@@ -95,13 +95,13 @@ applications:
       build: |
         set -eux
         pip install -r requirements.txt
-        cd human_preference_collector/frontend/app && npm install
+        npm install --prefix ./human_preference_collector/frontend/app
 
       # The deploy hook is run after the app container has been started, but before it has started accepting requests.
       # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
       deploy: |
         set -eux
-        cd human_preference_collector/frontend/app && npm run build
+        npm --prefix ./human_preference_collector/frontend/app run build
 
       # The post_deploy hook is run after the app container has been started and after it has started accepting requests.
       # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
