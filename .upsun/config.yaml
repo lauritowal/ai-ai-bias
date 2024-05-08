@@ -3,7 +3,7 @@ applications:
   ai-ai-bias:
     # Application source code directory
     source:
-      root: "./human_preference_collector"
+      root: "./"
 
     # The runtime the application uses.
     # Complete list of available runtimes: https://docs.upsun.com/create-apps/app-reference.html#types
@@ -40,7 +40,7 @@ applications:
       commands:
         # The command to launch your app. If it terminates, it’s restarted immediately.
         # You can use the $PORT or the $SOCKET environment variable depending on the socket family of your upstream
-        start: "python3 -m pip install -r requirements.txt && cd ./backend && waitress-serve --port=80 --call 'server:main'"
+        start: "python3 -m pip install -r requirements.txt && cd ./human_preference_collector/backend && waitress-serve --port=80 --call 'server:main'"
       # You can listen to a UNIX socket (unix) or a TCP port (tcp, default).
       # Whether your app should speak to the webserver via TCP or Unix socket. Defaults to tcp
       # More information: https://docs.upsun.com/create-apps/app-reference.html#where-to-listen
