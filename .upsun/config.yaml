@@ -1,0 +1,209 @@
+# Complete list of all available properties: https://docs.upsun.com/create-apps/app-reference.html
+applications:
+  ai-ai-bias:
+    # Application source code directory
+    source:
+      root: "/"
+
+    # The runtime the application uses.
+    # Complete list of available runtimes: https://docs.upsun.com/create-apps/app-reference.html#types
+    type: "python:3.11"
+
+    # Choose which container profile (ratio CPU+RAM) your app will use. Default value comes from the image itself.
+    # More information: https://docs.upsun.com/manage-resources/adjust-resources.html#adjust-a-container-profile
+    # container_profile:
+
+    # The relationships of the application with services or other applications.
+    # The left-hand side is the name of the relationship as it will be exposed
+    # to the application in the PLATFORM_RELATIONSHIPS variable. The right-hand
+    # side is in the form `<service name>:<endpoint name>`.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#relationships
+    relationships:
+      chrome-headless: "chrome-headless:http"
+      influxdb: "influxdb:influxdb"
+      kafka: "kafka:kafka"
+      mariadb: "mariadb:mysql"
+      memcached: "memcached:memcached"
+      mysql: "mysql:mysql"
+      network-storage: "network-storage:network-storage"
+      opensearch: "opensearch:opensearch"
+      oracle-mysql: "oracle-mysql:mysql"
+      postgresql: "postgresql:postgresql"
+      rabbitmq: "rabbitmq:rabbitmq"
+      redis: "redis:redis"
+      redis-persistent: "redis-persistent:redis"
+      solr: "solr:solr"
+      varnish: "varnish:varnish"
+      vault-kms: "vault-kms:vault-kms"
+      
+
+    # Mounts define directories that are writable after the build is complete.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#mounts
+    # mounts:
+    #   "/var/uploads": # Represents the path in the app.
+    #     source: "storage" # "storage" sources are unique to the app, but shared among instances of the app. "service" sources can be shared among apps.
+    #     source_path: "var/uploads" # The subdirectory within the mounted disk (the source) where the mount should point.
+
+    # The web key configures the web server running in front of your app.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#web
+    web:
+      # Commands are run once after deployment to start the application process.
+      # More information: https://docs.upsun.com/create-apps/app-reference.html#web-commands
+      commands:
+        # The command to launch your app. If it terminates, it’s restarted immediately.
+        # You can use the $PORT or the $SOCKET environment variable depending on the socket family of your upstream
+        start: "echo 'Put your web server command in here! You need to listen to \"$UNIX\" unix socket. Read more about it here: https://docs.upsun.com/create-apps/app-reference.html#web-commands'; sleep 60"
+      # You can listen to a UNIX socket (unix) or a TCP port (tcp, default).
+      # Whether your app should speak to the webserver via TCP or Unix socket. Defaults to tcp
+      # More information: https://docs.upsun.com/create-apps/app-reference.html#where-to-listen
+      upstream:
+        # Whether your app should speak to the webserver via TCP or Unix socket. Defaults to tcp
+        # More information: https://docs.upsun.com/create-apps/app-reference.html#where-to-listen
+        socket_family: unix
+      # Each key in locations is a path on your site with a leading /.
+      # More information: https://docs.upsun.com/create-apps/app-reference.html#locations
+      locations:
+        "/":
+          passthru: true
+          
+        
+
+    # Alternate copies of the application to run as background processes.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#workers
+    # workers:
+
+    # The timezone for crons to run. Format: a TZ database name. Defaults to UTC, which is the timezone used for all logs
+    # no matter the value here. More information: https://docs.upsun.com/create-apps/timezone.html
+    # timezone: <time-zone>
+
+    # Access control for roles accessing app environments.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#access
+    # access:
+
+    # Variables to control the environment. More information: https://docs.upsun.com/create-apps/app-reference.html#variables
+    variables:
+      env:
+        N_PREFIX: "/app/.global"
+        
+
+    # Outbound firewall rules for the application. More information: https://docs.upsun.com/create-apps/app-reference.html#firewall
+    # firewall:
+
+    # Specifies a default set of build tasks to run. Flavors are language-specific.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#build
+    build:
+      flavor: none
+
+    # Installs global dependencies as part of the build process. They’re independent of your app’s dependencies and
+    # are available in the PATH during the build process and in the runtime environment. They’re installed before
+    # the build hook runs using a package manager for the language.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#dependencies
+    dependencies:
+      nodejs:
+        n: "*"
+        npx: "*"
+
+    # Hooks allow you to customize your code/environment as the project moves through the build and deploy stages
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#hooks
+    hooks:
+      # The build hook is run after any build flavor.
+      # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#build-hook
+      build: |
+        set -eux
+        pip install -r requirements.txt
+        n auto || n lts
+        hash -r
+        npm i
+        
+      # The deploy hook is run after the app container has been started, but before it has started accepting requests.
+      # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
+      deploy: |
+        set -eux
+        # echo 'Put your deploy command here'
+        
+
+      # The post_deploy hook is run after the app container has been started and after it has started accepting requests.
+      # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
+      # post_deploy: |
+
+    # Scheduled tasks for the app.
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#crons
+    # crons:
+
+    # Customizations to your PHP or Lisp runtime. More information: https://docs.upsun.com/create-apps/app-reference.html#runtime
+    # runtime:
+
+    # More information: https://docs.upsun.com/create-apps/app-reference.html#additional-hosts
+    # additional_hosts:
+
+# The services of the project.
+#
+# Each service listed will be deployed
+# to power your Upsun project.
+# More information: https://docs.upsun.com/add-services.html
+# Full list of available services: https://docs.upsun.com/add-services.html#available-services
+services:
+  mariadb:
+    type: mariadb:11.0 # All available versions are: 11.0, 10.11, 10.6, 10.5, 10.4, 10.3
+
+  mysql:
+    type: mysql:10.6 # All available versions are: 10.6, 10.5, 10.4, 10.3
+
+  postgresql:
+    type: postgresql:15 # All available versions are: 15, 14, 13, 12, 11
+
+  redis:
+    type: redis:7.0 # All available versions are: 7.0, 6.2
+
+  redis-persistent:
+    type: redis-persistent:7.0 # All available versions are: 7.0, 6.2
+
+  memcached:
+    type: memcached:1.6 # All available versions are: 1.6, 1.5, 1.4
+
+  opensearch:
+    type: opensearch:2 # All available versions are: 2, 1.2, 1.1
+
+  solr:
+    type: solr:9.1 # All available versions are: 9.1, 8.11
+
+  varnish:
+    type: varnish:7.2 # All available versions are: 7.2, 7.1, 6.3, 6.0
+
+  kafka:
+    type: kafka:3.2 # All available versions are: 3.2
+
+  vault-kms:
+    type: vault-kms:1.12 # All available versions are: 1.12
+
+  rabbitmq:
+    type: rabbitmq:3.11 # All available versions are: 3.11, 3.10, 3.9
+
+  influxdb:
+    type: influxdb:2.3 # All available versions are: 2.3
+
+  chrome-headless:
+    type: chrome-headless:95 # All available versions are: 95, 91, 86, 84, 83, 81, 80, 73
+
+  network-storage:
+    type: network-storage:2.0 # All available versions are: 2.0
+
+  oracle-mysql:
+    type: oracle-mysql:8.0 # All available versions are: 8.0, 5.7
+
+  
+
+# The routes of the project.
+#
+# Each route describes how an incoming URL is going
+# to be processed by Upsun.
+# More information: https://docs.upsun.com/define-routes.html
+routes:
+  "https://{default}/":
+    type: upstream
+    upstream: "ai-ai-bias:http"
+  # A basic redirect definition
+  # More information: https://docs.upsun.com/define-routes.html#basic-redirect-definition
+  "https://www.{default}":
+    type: redirect
+    to: "https://{default}/"
