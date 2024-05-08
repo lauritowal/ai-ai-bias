@@ -18,16 +18,13 @@ applications:
     # to the application in the PLATFORM_RELATIONSHIPS variable. The right-hand
     # side is in the form `<service name>:<endpoint name>`.
     # More information: https://docs.upsun.com/create-apps/app-reference.html#relationships
-    relationships:
-      chrome-headless: "chrome-headless:http"
+    # relationships:
+    #   chrome-headless: "chrome-headless:http"
       
 
     # Mounts define directories that are writable after the build is complete.
     # More information: https://docs.upsun.com/create-apps/app-reference.html#mounts
     mounts:
-      "~/human_preference_collector/frontend/app/build":
-          source: "storage"
-          source_path: "static_assets"
       "~/human_preference_collector/backend/results/":
           source: "storage"
           source_path: "static_assets"
@@ -127,10 +124,9 @@ applications:
 # to power your Upsun project.
 # More information: https://docs.upsun.com/add-services.html
 # Full list of available services: https://docs.upsun.com/add-services.html#available-services
-services:
-
-  chrome-headless:
-    type: chrome-headless:95 # All available versions are: 95, 91, 86, 84, 83, 81, 80, 73
+# services:
+  # chrome-headless:
+  #   type: chrome-headless:95 # All available versions are: 95, 91, 86, 84, 83, 81, 80, 73
 
 
 # The routes of the project.
