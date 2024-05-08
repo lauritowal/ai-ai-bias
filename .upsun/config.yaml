@@ -3,7 +3,7 @@ applications:
   ai-ai-bias:
     # Application source code directory
     source:
-      root: "./"
+      root: "/"
 
     # The runtime the application uses.
     # Complete list of available runtimes: https://docs.upsun.com/create-apps/app-reference.html#types
