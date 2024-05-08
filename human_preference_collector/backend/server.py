@@ -6,7 +6,7 @@ from pathlib import Path
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../frontend/app/build', static_url_path='/')
 
 CORS(app)  # Enable CORS for all routes
 
