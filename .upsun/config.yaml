@@ -130,41 +130,6 @@ applications:
 # More information: https://docs.upsun.com/add-services.html
 # Full list of available services: https://docs.upsun.com/add-services.html#available-services
 services:
-  mariadb:
-    type: mariadb:11.0 # All available versions are: 11.0, 10.11, 10.6, 10.5, 10.4, 10.3
-
-  mysql:
-    type: mysql:10.6 # All available versions are: 10.6, 10.5, 10.4, 10.3
-
-  postgresql:
-    type: postgresql:15 # All available versions are: 15, 14, 13, 12, 11
-
-  redis:
-    type: redis:7.0 # All available versions are: 7.0, 6.2
-
-  redis-persistent:
-    type: redis-persistent:7.0 # All available versions are: 7.0, 6.2
-
-  memcached:
-    type: memcached:1.6 # All available versions are: 1.6, 1.5, 1.4
-
-  opensearch:
-    type: opensearch:2 # All available versions are: 2, 1.2, 1.1
-
-  solr:
-    type: solr:9.1 # All available versions are: 9.1, 8.11
-
-  varnish:
-    type: varnish:7.2 # All available versions are: 7.2, 7.1, 6.3, 6.0
-
-  kafka:
-    type: kafka:3.2 # All available versions are: 3.2
-
-  vault-kms:
-    type: vault-kms:1.12 # All available versions are: 1.12
-
-  rabbitmq:
-    type: rabbitmq:3.11 # All available versions are: 3.11, 3.10, 3.9
 
   influxdb:
     type: influxdb:2.3 # All available versions are: 2.3
@@ -175,10 +140,6 @@ services:
   network-storage:
     type: network-storage:2.0 # All available versions are: 2.0
 
-  oracle-mysql:
-    type: oracle-mysql:8.0 # All available versions are: 8.0, 5.7
-
-  
 
 # The routes of the project.
 #
