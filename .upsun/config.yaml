@@ -24,10 +24,10 @@ applications:
 
     # Mounts define directories that are writable after the build is complete.
     # More information: https://docs.upsun.com/create-apps/app-reference.html#mounts
-    mounts:
-      "/human_preference_collector/frontend/app":
-        source: "storage"
-        source_path: "build"
+    # mounts:
+    #   "/human_preference_collector/frontend/app":
+    #     source: "storage"
+    #     source_path: "build"
 
     # The web key configures the web server running in front of your app.
     # More information: https://docs.upsun.com/create-apps/app-reference.html#web
