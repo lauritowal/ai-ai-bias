@@ -17,7 +17,6 @@ export CACHE_URL="${CACHE_SCHEME}://${CACHE_HOST}:${CACHE_PORT}"
 export REDIS_URL="$CACHE_URL"
 
 export FLASK_APP="./human_preference_collector/backend/server.py"
-
 export FLASK_ENV="${PLATFORM_ENVIRONMENT_TYPE}"
 export FLASK_DEBUG=$( [ "${PLATFORM_ENVIRONMENT_TYPE}" = "production" ] && echo 0 || echo 1)
 export LOG_LEVEL=$( [ "${PLATFORM_ENVIRONMENT_TYPE}" = "production" ] && echo "info" || echo "debug")

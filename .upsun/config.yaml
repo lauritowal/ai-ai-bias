@@ -95,13 +95,14 @@ applications:
       build: |
         set -eux
         pip install -r requirements.txt
-        npm install --prefix ./human_preference_collector/frontend/app
+        npm install --prefix ~/human_preference_collector/frontend/app
 
       # The deploy hook is run after the app container has been started, but before it has started accepting requests.
       # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
       deploy: |
         set -eux
-        npm --prefix ./human_preference_collector/frontend/app run build
+        mkdir ~/human_preference_collector/frontend/app/build
+        npm --prefix ~/human_preference_collector/frontend/app run build
 
       # The post_deploy hook is run after the app container has been started and after it has started accepting requests.
       # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
