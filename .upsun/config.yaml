@@ -21,20 +21,8 @@ applications:
     relationships:
       chrome-headless: "chrome-headless:http"
       influxdb: "influxdb:influxdb"
-      kafka: "kafka:kafka"
-      mariadb: "mariadb:mysql"
       memcached: "memcached:memcached"
-      mysql: "mysql:mysql"
       network-storage: "network-storage:network-storage"
-      opensearch: "opensearch:opensearch"
-      oracle-mysql: "oracle-mysql:mysql"
-      postgresql: "postgresql:postgresql"
-      rabbitmq: "rabbitmq:rabbitmq"
-      redis: "redis:redis"
-      redis-persistent: "redis-persistent:redis"
-      solr: "solr:solr"
-      varnish: "varnish:varnish"
-      vault-kms: "vault-kms:vault-kms"
       
 
     # Mounts define directories that are writable after the build is complete.
