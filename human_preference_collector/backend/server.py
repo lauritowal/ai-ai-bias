@@ -121,6 +121,10 @@ def save_results():
 
     return jsonify({'message': 'success'})
 
+@app.route('/test', methods=['GET'])
+def test():
+    return "Hello, World!"
+
 def main():
     app.run(debug=True)
 
