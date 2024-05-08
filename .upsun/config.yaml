@@ -97,13 +97,12 @@ applications:
         pip install -r requirements.txt
         n auto || n lts
         hash -r
-        waitress-serve --port=80 --call 'server:main'
 
       # The deploy hook is run after the app container has been started, but before it has started accepting requests.
       # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
       deploy: |
         set -eux
-        python3 -m pip install -r requirements.txt && waitress-serve --port=80 --call 'server:main'
+        cd ./human_preference_collector/backend/ && waitress-serve --port=80 --call 'server:main'
 
       # The post_deploy hook is run after the app container has been started and after it has started accepting requests.
       # More information: https://docs.upsun.com/create-apps/hooks/hooks-comparison.html#deploy-hook
