@@ -20,8 +20,6 @@ applications:
     # More information: https://docs.upsun.com/create-apps/app-reference.html#relationships
     relationships:
       chrome-headless: "chrome-headless:http"
-      influxdb: "influxdb:influxdb"
-      network-storage: "network-storage:network-storage"
       
 
     # Mounts define directories that are writable after the build is complete.
@@ -130,14 +128,8 @@ applications:
 # Full list of available services: https://docs.upsun.com/add-services.html#available-services
 services:
 
-  influxdb:
-    type: influxdb:2.3 # All available versions are: 2.3
-
   chrome-headless:
     type: chrome-headless:95 # All available versions are: 95, 91, 86, 84, 83, 81, 80, 73
-
-  network-storage:
-    type: network-storage:2.0 # All available versions are: 2.0
 
 
 # The routes of the project.
