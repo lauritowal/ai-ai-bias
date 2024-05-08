@@ -21,7 +21,6 @@ applications:
     relationships:
       chrome-headless: "chrome-headless:http"
       influxdb: "influxdb:influxdb"
-      memcached: "memcached:memcached"
       network-storage: "network-storage:network-storage"
       
 
