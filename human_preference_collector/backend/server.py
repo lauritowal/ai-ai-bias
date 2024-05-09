@@ -129,7 +129,10 @@ def save_results():
 
 @app.route('/test', methods=['GET'])
 def test():
-    return request.url_root
+    # return a list of files in data folder
+    data_folder = Path('../../data/paper/human')
+    return jsonify([f.name for f in data_folder.iterdir()])
+
 
 def main():
     app.run(debug=True)
