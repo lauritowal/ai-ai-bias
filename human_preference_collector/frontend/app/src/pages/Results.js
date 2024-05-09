@@ -36,7 +36,6 @@ const Results = () => {
         const filename = `experiment_results_${timestamp}.json`;
 
         const data = location.state.results;
-
         // Create a Blob with the JSON data and trigger a download
         const blob = new Blob([data], { type: 'application/json' });
         const url = URL.createObjectURL(blob);
