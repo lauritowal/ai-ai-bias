@@ -50,10 +50,6 @@ def load_llm_files(directory, category):
                 descriptions.append(data)
             elif category == 'paper':
                 descriptions.append(data)
-            else:
-                print(f"Skipping {data['filename']}")
-                continue
-
     return descriptions
 
 def count_words(text):
