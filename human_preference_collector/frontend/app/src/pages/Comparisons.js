@@ -42,8 +42,6 @@ const Comparisons = () => {
     useEffect(() => {
         if (descriptions.length > 0 && currentIndex + 1 > descriptions.length) {
             submitResults();
-            console.log('AA Current index:', currentIndex);
-            console.log('AA descriptions.length:', descriptions.length);
         } 
     }, [userChoices]);
 
