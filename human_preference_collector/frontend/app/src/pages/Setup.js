@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import { TextField, Button, MenuItem, FormControl, InputLabel, Select, Typography, Box } from '@mui/material';
+import { TextField, Button, MenuItem, FormControl, InputLabel, Select, Typography, Box, LinearProgress } from '@mui/material';
 
 const Setup = () => {
-    const categories = ["paper", "product"];
+    const categories = ["paper", "product", "demo"];
     const models = ["gpt3_5", "gpt4"];
     const [selectedCategory, setSelectedCategory] = useState(categories[0]);
     const [selectedModel, setSelectedModel] = useState(models[0]);
@@ -12,6 +12,7 @@ const Setup = () => {
     const [username, setUsername] = useState('');
     const [email, setEmail] = useState('');
     const [error, setError] = useState('');
+    const [isSubmitting, setIsSubmitting] = useState(false);
 
     useEffect(() => {
         const storedUser = localStorage.getItem("user");
@@ -35,9 +36,10 @@ const Setup = () => {
         }
 
         localStorage.clear();
+        setIsSubmitting(true);
 
         try {
-            const response = await axios.post('http://localhost:5000/descriptions', {
+            const response = await axios.post('/descriptions', {
                 username, email, category: selectedCategory, model: selectedModel
             });
             if (response.data && response.data.length > 0) {
@@ -50,6 +52,8 @@ const Setup = () => {
             }
         } catch (error) {
             console.error('Error submitting form:', error);
+        } finally {
+            setIsSubmitting(false);  // Set back to false after navigating
         }
     };
 
@@ -57,52 +61,56 @@ const Setup = () => {
         <Box sx={{ width: '100%', maxWidth: 500, margin: 'auto' }}>
             <Typography variant="h4" gutterBottom>Setup</Typography>
             {error && <Typography color="error">{error}</Typography>}
-            <form onSubmit={handleSubmit}>
-                <TextField
-                    label="Username"
-                    variant="outlined"
-                    fullWidth
-                    margin="normal"
-                    name="username"
-                    value={username}
-                    onChange={handleUsernameChange}
-                />
-                <TextField
-                    label="Email"
-                    type="email"
-                    variant="outlined"
-                    fullWidth
-                    margin="normal"
-                    name="email"
-                    value={email}
-                    onChange={handleEmailChange}
-                />
-                <FormControl fullWidth margin="normal">
-                    <InputLabel>Category</InputLabel>
-                    <Select
-                        value={selectedCategory}
-                        label="Category"
-                        onChange={handleCategoryChange}
-                    >
-                        {categories.map((category) => (
-                            <MenuItem key={category} value={category}>{category}</MenuItem>
-                        ))}
-                    </Select>
-                </FormControl>
-                <FormControl fullWidth margin="normal">
-                    <InputLabel>Model</InputLabel>
-                    <Select
-                        value={selectedModel}
-                        label="Model"
-                        onChange={handleModelChange}
-                    >
-                        {models.map((model) => (
-                            <MenuItem key={model} value={model}>{model}</MenuItem>
-                        ))}
-                    </Select>
-                </FormControl>
-                <Button type="submit" variant="contained" color="primary">Submit</Button>
-            </form>
+            {isSubmitting ? (
+                <LinearProgress />
+            ) : (
+                <form onSubmit={handleSubmit}>
+                    <TextField
+                        label="Username"
+                        variant="outlined"
+                        fullWidth
+                        margin="normal"
+                        name="username"
+                        value={username}
+                        onChange={handleUsernameChange}
+                    />
+                    <TextField
+                        label="Email"
+                        type="email"
+                        variant="outlined"
+                        fullWidth
+                        margin="normal"
+                        name="email"
+                        value={email}
+                        onChange={handleEmailChange}
+                    />
+                    <FormControl fullWidth margin="normal">
+                        <InputLabel>Category</InputLabel>
+                        <Select
+                            value={selectedCategory}
+                            label="Category"
+                            onChange={handleCategoryChange}
+                        >
+                            {categories.map((category) => (
+                                <MenuItem key={category} value={category}>{category}</MenuItem>
+                            ))}
+                        </Select>
+                    </FormControl>
+                    <FormControl fullWidth margin="normal">
+                        <InputLabel>Model</InputLabel>
+                        <Select
+                            value={selectedModel}
+                            label="Model"
+                            onChange={handleModelChange}
+                        >
+                            {models.map((model) => (
+                                <MenuItem key={model} value={model}>{model}</MenuItem>
+                            ))}
+                        </Select>
+                    </FormControl>
+                    <Button type="submit" variant="contained" color="primary">Submit</Button>
+                </form>
+            )}
         </Box>
     );
 };
