@@ -129,7 +129,7 @@ def save_results():
 
 @app.route('/test', methods=['GET'])
 def test():
-    return "Hello, World!"
+    return request.url_root
 
 def main():
     app.run(debug=False)
