@@ -30,7 +30,7 @@ const Results = () => {
 
     return (
         <Box sx={{ padding: 4 }}>
-            <Typography variant="h4" gutterBottom>Results</Typography>
+            <Typography variant="h4" gutterBottom>Results (Also stored on the server)</Typography>
             <Button 
                 variant="contained" 
                 color="primary"
