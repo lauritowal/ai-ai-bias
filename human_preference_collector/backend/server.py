@@ -104,6 +104,10 @@ def get_descriptions():
 
             # Check both human and LLM descriptions for validity
             human_desc = human_text.get('abstract', '') or human_text.get('descriptions', [''])[0]
+            if category == 'product':
+                for i in range(len(human_text["descriptions"])):
+                    human_text["descriptions"][i] = human_text["title"] + "\n\n" + human_text["descriptions"][i]
+
             llm_desc = llm_text.get('descriptions', [''])[0] or llm_text.get('detail', {}).get('descriptions', [''])[0]
 
             if is_valid_description(human_desc) and is_valid_description(llm_desc):
