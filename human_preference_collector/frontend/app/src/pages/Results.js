@@ -12,7 +12,6 @@ const Results = () => {
     useEffect(() => {
         if (location.state?.userChoices) {
             setUserChoices(location.state.userChoices);
-            setResults(location.state.results || ''); // Get results from location state
 
             // Assuming user info is stored in local storage for the session
             const userData = JSON.parse(localStorage.getItem('user'));
@@ -36,8 +35,7 @@ const Results = () => {
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
         const filename = `experiment_results_${timestamp}.json`;
 
-        // Create a JSON string
-        const data = JSON.stringify({ userChoices, results, userInfo }, null, 2);
+        const data = location.state.results;
 
         // Create a Blob with the JSON data and trigger a download
         const blob = new Blob([data], { type: 'application/json' });

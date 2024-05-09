@@ -140,8 +140,10 @@ def save_results():
             'totalNoPreference': request.json.get("totalNoPreference"),
             'userChoices': request.json.get("userChoices"),
         }
-        results = json.dump(output, file, ensure_ascii=False, indent=4)
-        
+        results = json.dumps(output, ensure_ascii=False, indent=4)
+
+        print(results)
+
     return jsonify({'message': 'success', 'results': results})
 
 
