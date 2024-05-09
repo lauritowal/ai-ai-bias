@@ -108,15 +108,15 @@ def get_descriptions():
         if llm_text:
             assert human_title == llm_text['title'].strip(), f"Titles do not match: {human_title}, {llm_text['title']}"
 
-            # # Check both human and LLM descriptions for validity
-            # human_desc = human_text.get('abstract', '') or human_text.get('descriptions', [''])[0]
-            # llm_desc = llm_text.get('descriptions', [''])[0] or llm_text.get('detail', {}).get('descriptions', [''])[0]
+            # Check both human and LLM descriptions for validity
+            human_desc = human_text.get('abstract', '') or human_text.get('descriptions', [''])[0]
+            llm_desc = llm_text.get('descriptions', [''])[0] or llm_text.get('detail', {}).get('descriptions', [''])[0]
 
-            # if is_valid_description(human_desc) and is_valid_description(llm_desc):
-            paired_descriptions.append({
-                'human': human_text,
-                'llm': llm_text
-            })
+            if is_valid_description(human_desc) and is_valid_description(llm_desc):
+                paired_descriptions.append({
+                    'human': human_text,
+                    'llm': llm_text
+                })
 
     return jsonify(paired_descriptions)
 

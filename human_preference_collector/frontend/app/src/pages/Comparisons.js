@@ -141,12 +141,11 @@ const Comparisons = () => {
                             <CardContent>
                                 <Typography variant='h5' gutterBottom>Text Option A</Typography>
                                 <Typography>
-                                    <pre style={preStyle}>
-                                        {isHumanFirst
+                                    <pre style={preStyle} dangerouslySetInnerHTML={{__html:
+                                        isHumanFirst
                                             ? formatObjectData(currentDescription.human.abstract || currentDescription.human.descriptions?.[0])
                                             : removeDoubleAsterisks(formatObjectData(currentDescription.llm?.descriptions?.[getRandomIndex(currentDescription.llm?.descriptions?.length)]))
-                                        }
-                                    </pre>
+                                    }} />
                                 </Typography>
                             </CardContent>
                         </Card>
@@ -156,12 +155,11 @@ const Comparisons = () => {
                             <CardContent>
                                 <Typography variant='h5' gutterBottom>Text Option B</Typography>
                                 <Typography>
-                                    <pre style={preStyle}>
-                                        {isHumanFirst
+                                    <pre style={preStyle} dangerouslySetInnerHTML={{__html:
+                                        isHumanFirst
                                             ? removeDoubleAsterisks(formatObjectData(currentDescription.llm?.descriptions?.[getRandomIndex(currentDescription.llm?.descriptions?.length)]))
                                             : formatObjectData(currentDescription.human.abstract || currentDescription.human.descriptions?.[0])
-                                        }
-                                    </pre>
+                                    }} />
                                 </Typography>
                             </CardContent>
                         </Card>
