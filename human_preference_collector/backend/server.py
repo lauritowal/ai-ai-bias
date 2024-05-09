@@ -127,25 +127,22 @@ def save_results():
     results_folder = BASE_DIR / 'results' / request.json.get('username') / request.json.get('model') / request.json.get('category')
     results_path = results_folder / f"experiment_{timestamp}.json"
     results_path.parent.mkdir(parents=True, exist_ok=True)
-
+    
+    output = {
+        'timestamp': timestamp,
+        'username': request.json.get('username'),
+        'email': request.json.get('email'),
+        'model': request.json.get('model'),
+        'category': request.json.get('category'),
+        'totalLLMChoices': request.json.get("totalLLMChoices"),
+        'totalHumanChoices': request.json.get("totalHumanChoices"),
+        'totalNoPreference': request.json.get("totalNoPreference"),
+        'userChoices': request.json.get("userChoices"),
+    }
     with open(results_path, 'w', encoding='utf-8') as file:
-        output = {
-            'timestamp': timestamp,
-            'username': request.json.get('username'),
-            'email': request.json.get('email'),
-            'model': request.json.get('model'),
-            'category': request.json.get('category'),
-            'totalLLMChoices': request.json.get("totalLLMChoices"),
-            'totalHumanChoices': request.json.get("totalHumanChoices"),
-            'totalNoPreference': request.json.get("totalNoPreference"),
-            'userChoices': request.json.get("userChoices"),
-        }
-        results = json.dumps(output, ensure_ascii=False, indent=4)
-        # write to file
-        json.dump(output, ensure_ascii=False, indent=4)
+        json.dump(output, file, ensure_ascii=False, indent=4)
 
-        print(results)
-
+    results = json.dumps(output, ensure_ascii=False, indent=4)
     return jsonify({'message': 'success', 'results': results})
 
 
