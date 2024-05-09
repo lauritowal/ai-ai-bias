@@ -141,6 +141,8 @@ def save_results():
             'userChoices': request.json.get("userChoices"),
         }
         results = json.dumps(output, ensure_ascii=False, indent=4)
+        # write to file
+        json.dump(output, ensure_ascii=False, indent=4)
 
         print(results)
 
