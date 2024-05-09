@@ -63,7 +63,8 @@ const Comparisons = () => {
                 totalNoPreference: userChoices.filter(choice => choice.choice === 'none').length
             });
             console.log(response.data);
-            navigate('/results', { state: { userChoices } });
+            const results = response.data.results;
+            navigate('/results', { state: { userChoices, results } });
         } catch (error) {
             console.error('Error submitting form:', error);
         } finally {

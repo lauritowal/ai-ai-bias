@@ -4,6 +4,7 @@ import { Typography, Button, Card, CardContent, Box, Grid } from '@mui/material'
 
 const Results = () => {
     const [userChoices, setUserChoices] = useState([]);
+    const [results, setResults] = useState('');
     const [userInfo, setUserInfo] = useState({});
     const navigate = useNavigate();
     const location = useLocation();
@@ -11,6 +12,8 @@ const Results = () => {
     useEffect(() => {
         if (location.state?.userChoices) {
             setUserChoices(location.state.userChoices);
+            setResults(location.state.results || ''); // Get results from location state
+
             // Assuming user info is stored in local storage for the session
             const userData = JSON.parse(localStorage.getItem('user'));
             const category = localStorage.getItem('category');
@@ -28,16 +31,45 @@ const Results = () => {
         }
     }, [location.state]);
 
+    const downloadResults = () => {
+        // Prepare a filename
+        const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+        const filename = `experiment_results_${timestamp}.json`;
+
+        // Create a JSON string
+        const data = JSON.stringify({ userChoices, results, userInfo }, null, 2);
+
+        // Create a Blob with the JSON data and trigger a download
+        const blob = new Blob([data], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = filename;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
+
     return (
         <Box sx={{ padding: 4 }}>
-            <Typography variant="h4" gutterBottom>Results (Also stored on the server)</Typography>
-            <Button 
-                variant="contained" 
+            <Typography variant="h4" gutterBottom>Results</Typography>
+
+            <Button
+                variant="contained"
                 color="primary"
                 onClick={() => navigate("/")}
                 sx={{ marginBottom: 2 }}
             >
                 Run another experiment
+            </Button>
+            <br />
+            <Button
+                variant="contained"
+                color="secondary"
+                onClick={downloadResults}
+                sx={{ marginBottom: 4 }}
+            >
+                Download Results as JSON
             </Button>
 
             {/* Displaying user info */}

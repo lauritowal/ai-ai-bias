@@ -140,9 +140,9 @@ def save_results():
             'totalNoPreference': request.json.get("totalNoPreference"),
             'userChoices': request.json.get("userChoices"),
         }
-        json.dump(output, file, ensure_ascii=False, indent=4)
-
-    return jsonify({'message': 'success'})
+        results = json.dump(output, file, ensure_ascii=False, indent=4)
+        
+    return jsonify({'message': 'success', 'results': results})
 
 
 @app.route('/test', methods=['GET'])
