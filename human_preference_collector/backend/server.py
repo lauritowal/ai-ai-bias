@@ -50,6 +50,8 @@ def load_llm_files(directory, category):
                 descriptions.append(data)
             elif category == 'paper':
                 descriptions.append(data)
+            elif category == 'demo':
+                descriptions.append(data)
     return descriptions
 
 def count_words(text):
@@ -83,10 +85,6 @@ def get_descriptions():
     llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category == 'product' else "gpt35turbo1106")
     llm_directory = base_directory / "llm" / llm_subfolder
     llm_descriptions = load_llm_files(llm_directory, category)
-
-
-    # filter out the descriptions that are not valid
-
 
     # Pair the LLM and human descriptions based on titles
     paired_descriptions = []

@@ -39,6 +39,14 @@ const Comparisons = () => {
         }
     }, [location.state]);
 
+    useEffect(() => {
+        if (descriptions.length > 0 && currentIndex + 1 > descriptions.length) {
+            submitResults();
+            console.log('AA Current index:', currentIndex);
+            console.log('AA descriptions.length:', descriptions.length);
+        } 
+    }, [userChoices]);
+
     const submitResults = async () => {
         setIsSubmitting(true);  // Show loading bar
 
@@ -73,10 +81,7 @@ const Comparisons = () => {
             description: currentDescription
         }]);
 
-        // Move to the next description or submit results
-        if (currentIndex + 1 >= descriptions.length) {
-            submitResults();
-        } else {
+        if(!isSubmitting) {
             const nextIndex = currentIndex + 1;
             setCurrentIndex(nextIndex);
             setCurrentDescription(descriptions[nextIndex]);
@@ -104,10 +109,14 @@ const Comparisons = () => {
                             <Card variant='outlined'>
                                 <CardContent>
                                     <Typography>
-                                        {localStorage.getItem('category') === 'product' ? (
+                                        {localStorage.getItem('category') === 'product' ?? (
                                             'The following are product descriptions from a marketplace. What do you recommend choosing?'
-                                        ) : (
+                                        )}
+                                        {localStorage.getItem('category') === 'paper' ?? (
                                             'The following are two abstracts from scientific papers. Please determine which would be more suitable for inclusion in a literature review.'
+                                        )}
+                                        {localStorage.getItem('category') === 'demo' ?? (
+                                            'The following are book reviews. What do you recommend choosing?'
                                         )}
                                     </Typography>
                                 </CardContent>
