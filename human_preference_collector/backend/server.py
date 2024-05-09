@@ -1,13 +1,18 @@
 import datetime
 import json
-import os
 from pathlib import Path
 
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 
-app = Flask(__name__, static_folder='../frontend/app/build', static_url_path='/')
+# Define the base directory as the directory where this script is located
+BASE_DIR = Path(__file__).resolve().parent
+# Set the static folder relative to the base directory
+FRONTEND_DIR = BASE_DIR / '../frontend/app/build'
+DATA_DIR = BASE_DIR / '../../data'
 
+
+app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path='/')
 CORS(app)  # Enable CORS for all routes
 
 @app.route('/', defaults={'path': ''})
@@ -27,6 +32,7 @@ def load_json_file(file_path):
             return json.load(file)
     return None  # Return None if file does not exist
 
+
 def load_json_files(directory):
     """
     Load all JSON files in a given directory.
@@ -43,15 +49,14 @@ def load_json_files(directory):
     return descriptions
 
 
-# TODO: Need to change this. We need to load the human descriptions first, then load the llms
-# Then filter by title and create the pairs and append to a list
 @app.route('/descriptions', methods=['POST'])
 def get_descriptions():
     data = request.json
     category = data["category"]
     model = data["model"]
 
-    base_directory = Path('../../data') / category
+    # Construct base directory path relative to the application
+    base_directory = DATA_DIR / category
 
     # Load human descriptions
     human_descriptions = load_json_files(base_directory / "human")
@@ -81,17 +86,21 @@ def get_descriptions():
     paired_descriptions = []
     for human in human_descriptions:
         human_title = human.get('title').strip()
-        
+
         if category == 'product':
             llm_pair = next((llm for llm in llm_descriptions if llm['listing'].get('title', '').strip() == human_title), None)
-            
+
             # Only assert if both listing and detail titles are available
             if llm_pair and llm_pair['detail']:
                 assert human_title == llm_pair['listing']['title'].strip() == llm_pair['detail']['title'].strip(), f"Titles do not match: {human_title}, {llm_pair['listing']['title']}, {llm_pair['detail']['title']}"
         elif category == 'paper':
             llm_pair = next((llm for llm in llm_descriptions if llm.get('title', '').strip() == human_title), None)
-            del human["article"]
-            del human["abstract_xml"]
+            # Removing specific keys that might not be needed in the response
+            if "article" in human:
+                del human["article"]
+            if "abstract_xml" in human:
+                del human["abstract_xml"]
+
             if llm_pair:
                 assert human_title == llm_pair['title'].strip(), f"Titles do not match: {human_title}, {llm_pair['title']}"
 
@@ -102,12 +111,13 @@ def get_descriptions():
             })
     return jsonify(paired_descriptions)
 
+
 @app.route('/results', methods=['POST'])
 def save_results():
-    # calc timestamp via pyhton
+    # Calculate timestamp via Python
     timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-    # replace  with request data
-    results_folder = Path('./results')  / f"{request.json.get('username')}" / f"{request.json.get('model')}" / f"{request.json.get('category')}"
+    # Replace with request data and construct paths correctly
+    results_folder = BASE_DIR / 'results' / request.json.get('username') / request.json.get('model') / request.json.get('category')
     results_path = results_folder / f"experiment_{timestamp}.json"
     results_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -118,24 +128,26 @@ def save_results():
             'email': request.json.get('email'),
             'model': request.json.get('model'),
             'category': request.json.get('category'),
-            'totalLLMChoices': request.json["totalLLMChoices"],
-            'totalHumanChoices': request.json["totalHumanChoices"],
-            'totalNoPreference': request.json["totalNoPreference"],
-            'userChoices': request.json["userChoices"],
+            'totalLLMChoices': request.json.get("totalLLMChoices"),
+            'totalHumanChoices': request.json.get("totalHumanChoices"),
+            'totalNoPreference': request.json.get("totalNoPreference"),
+            'userChoices': request.json.get("userChoices"),
         }
-        json.dump(output, file, ensure_ascii=False, indent=4) 
+        json.dump(output, file, ensure_ascii=False, indent=4)
 
     return jsonify({'message': 'success'})
 
+
 @app.route('/test', methods=['GET'])
 def test():
-    # return a list of files in data folder
-    data_folder = Path('../../data/paper/human')
-    return jsonify([f.name for f in data_folder.iterdir()])
+    # Return a list of files in the data folder for "paper/human"
+    data_folder = BASE_DIR / '../../data' / 'paper' / 'human'
+    return jsonify([f.name for f in data_folder.iterdir() if f.is_file()])
 
 
 def main():
     app.run(debug=True)
+
 
 if __name__ == '__main__':
     main()
