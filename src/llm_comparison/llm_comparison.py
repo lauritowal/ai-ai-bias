@@ -193,7 +193,8 @@ def compare_descriptions(
         elif llm_engine.value.startswith("groq-"):
             name = llm_engine.value.split("-", 1)[1]
             logging.info(f"Querying {name} on Groq")
-            llm_model = query_llm.GroqModel(model_name=name)
+            import groq_model
+            llm_model = groq_model.GroqModel(model_name=name)
         else:
             logging.info(f"Assuming {llm_engine} is running locally")
             llm_model = langchain.chat_models.ChatOpenAI(

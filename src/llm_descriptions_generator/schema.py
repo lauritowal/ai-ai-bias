@@ -21,6 +21,8 @@ class Engine(str, enum.Enum):
     # Groq models
     groq_llama3_70b_8192 = "groq-llama3-70b-8192"
     groq_llama3_8b_8192 = "groq-llama3-8b-8192"
+    groq_mixtral_8x7b_32768 = "groq-mixtral-8x7b-32768"
+    groq_gemma_7b_it = "groq-gemma-7b-it"
 
     def __str__(self):
         return self.value
