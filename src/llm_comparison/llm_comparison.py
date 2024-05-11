@@ -20,6 +20,7 @@ from llm_descriptions_generator.schema import (
     LlmGeneratedTextItemDescriptionBatch,
     Origin,
 )
+from llm_descriptions_generator import query_llm
 from llm_descriptions_generator.file_io import (
     load_all_human_description_batches,
     load_all_llm_description_batches,
@@ -189,6 +190,10 @@ def compare_descriptions(
         if llm_engine in [Engine.gpt35turbo, Engine.gpt35turbo1106, Engine.gpt4turbo]:
             logging.info(f"Querying OpenAI servers for: {llm_engine}")
             llm_model = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+        elif llm_engine.value.startswith("groq-"):
+            name = llm_engine.value.split("-", 1)[1]
+            logging.info(f"Querying {name} on Groq")
+            llm_model = query_llm.GroqModel(model_name=name)
         else:
             logging.info(f"Assuming {llm_engine} is running locally")
             llm_model = langchain.chat_models.ChatOpenAI(

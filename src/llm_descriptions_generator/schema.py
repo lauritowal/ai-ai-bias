@@ -18,7 +18,10 @@ class Engine(str, enum.Enum):
     # must be served locally via LM studio (see README)
     mistral7binstructv02q4_k_mgguf = "mistral-7b-instruct-v0.2.Q4_K_M.gguf"
     metallama38binstructq4_k_mgguf = "Meta-Llama-3-8B-Instruct-Q4_K_M.gguf"
-    
+    # Groq models
+    groq_llama3_70b_8192 = "groq-llama3-70b-8192"
+    groq_llama3_8b_8192 = "groq-llama3-8b-8192"
+
     def __str__(self):
         return self.value
 

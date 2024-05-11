@@ -20,6 +20,7 @@ setuptools = "^69.5.1"
 wheel = "^0.43.0"
 interlab = "0.3.*"
 toml = "^0.10.2"
+groq = "^0.5.0"
 
 [build-system]
 requires = ["poetry-core"]
