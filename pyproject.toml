@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "ai-ai-bias"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10,<3.12"
+click = "^8.1.7"
+flask = "^3.0.3"
+jinja2 = "^3.1.4"
+python-dotenv = "^1.0.1"
+werkzeug = "^3.0.3"
+blinker = "^1.8.2"
+flask-cors = "^4.0.1"
+itsdangerous = "^2.2.0"
+setuptools = "^69.5.1"
+wheel = "^0.43.0"
+interlab = "0.3.*"
+toml = "^0.10.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
