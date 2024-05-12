@@ -146,7 +146,7 @@ def compare_descriptions(
         comparison_prompt_key=comparison_prompt_config.prompt_key,
     )
     if cached_result is not None:
-        logging.info(f"--Found cached result-- {_make_description_comparison_tags(llm_engine, description_1.uid, description_2.uid, comparison_prompt_config.prompt_key)}")
+        logging.info(f"Found cached result in older Context: {_make_description_comparison_tags(llm_engine, description_1.uid, description_2.uid, comparison_prompt_config.prompt_key)}")
         return cached_result
     
     with Context(
@@ -203,14 +203,14 @@ def compare_descriptions(
                 openai_api_base=os.getenv('LOCAL_LLM_API_BASE'),
             )
         choice_answer = query_model(llm_model, prompt)
-        logging.info(f"Initial choice prompt - prose response:\n{choice_answer}")
-        
+        logging.info(f"Initial choice prompt - prose response: {choice_answer[:50]!r}[...]")
+
         choice_analysis_result: Choice = query_for_json(
             llm_model,
             Choice,
             f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
         )
-        logging.info(f"Choice analysis prompt result - data response:\n{choice_analysis_result}")
+        logging.info(f"Choice analysis prompt result - data response: {choice_analysis_result[:50]!r}[...]")
         answer = choice_analysis_result.answer
         chosen_id: t.Optional[int | str] = None
         try:
@@ -282,7 +282,7 @@ def compare_description_lists_for_one_item(
         comparison_counter = 1
         total_count = len(ordered_combos)
         for (description_1, description_2) in ordered_combos:
-            logging.info(f"## Executing description comparison ({comparison_counter}/{total_count}) for item: '{description_1.uid}' vs '{description_2.uid}'")
+            logging.trace(f"## Executing description comparison ({comparison_counter}/{total_count}) for item: '{description_1.uid}' vs '{description_2.uid}'")
             winner = compare_descriptions(
                 llm_engine=llm_engine,
                 comparison_prompt_config=comparison_prompt_config,
