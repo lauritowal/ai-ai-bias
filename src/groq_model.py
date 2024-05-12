@@ -26,7 +26,7 @@ class GroqModel(interlab.lang_models.LangModelBase):
 
         while True:
             try:
-                chat_completion = self.client.with_options(max_retries=1, timeout=30).chat.completions.create(
+                chat_completion = self.client.with_options(max_retries=5, timeout=self.timeout).chat.completions.create(
                     max_tokens=conf["max_tokens"],
                     temperature=conf["temperature"],
                     messages=[
