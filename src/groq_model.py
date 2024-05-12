@@ -26,7 +26,7 @@ class GroqModel(interlab.lang_models.LangModelBase):
 
         while True:
             try:
-                chat_completion = self.client.with_options(max_retries=1).chat.completions.create(
+                chat_completion = self.client.with_options(max_retries=1, timeout=30).chat.completions.create(
                     max_tokens=conf["max_tokens"],
                     temperature=conf["temperature"],
                     messages=[
@@ -46,7 +46,7 @@ class GroqModel(interlab.lang_models.LangModelBase):
                 delay *= 2
                 
 
-    def prepare_conf(self, max_tokens=1024, temperature=1.0) -> tuple[str, dict[str, t.Any]]:
+    def prepare_conf(self, max_tokens=1024, temperature=None) -> tuple[str, dict[str, t.Any]]:
         name = f"query interlab {__class__.__qualname__} ({self.model_name})"
         conf = {
             "model_name": self.model_name,

@@ -26,8 +26,6 @@ from llm_descriptions_generator.schema import (
 from storage import cache_friendly_file_storage
 from utils import or_join
 
-from . import comparison_storage
-
 rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
 
 # DEFAULT_RUN_KEY = "default"
@@ -137,6 +135,8 @@ def compare_descriptions(
     # run_key: str = DEFAULT_RUN_KEY,
 ) -> t.Optional[Description]:
     # TODO: throw if the descriptions aren't for the same underlying item?
+    
+    from . import comparison_storage # Prevents a circular import
 
     # First, check if this comparison already exists in the fast DB result storage
     stored_winner = comparison_storage.db_get_comparison(
@@ -147,7 +147,7 @@ def compare_descriptions(
         description_2,
     )
     if stored_winner is not None:
-        logging.trace(f"Found cached result for {description_1.uid} vs {description_2.uid} on {llm_engine}: {stored_winner}")
+        logging.debug(f"Found cached result for {description_1.uid} vs {description_2.uid} on {llm_engine}: {stored_winner}")
         if stored_winner == 0:
             return None
         return description_1 if stored_winner == 1 else description_2
@@ -233,7 +233,7 @@ def compare_descriptions(
             Choice,
             f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
         )
-        logging.info(f"Choice analysis prompt result - data response: {choice_analysis_result[:50]!r}[...]")
+        logging.info(f"Choice analysis prompt result - data response: {repr(choice_analysis_result)[:60]!r}[...]")
         answer = choice_analysis_result.answer
         chosen_id: t.Optional[int | str] = None
         try:
@@ -317,7 +317,7 @@ def compare_description_lists_for_one_item(
         comparison_counter = 1
         total_count = len(ordered_combos)
         for (description_1, description_2) in ordered_combos:
-            logging.trace(f"## Executing description comparison ({comparison_counter}/{total_count}) for item: '{description_1.uid}' vs '{description_2.uid}'")
+            logging.debug(f"## Executing description comparison ({comparison_counter}/{total_count}) for item: '{description_1.uid}' vs '{description_2.uid}'")
             winner = compare_descriptions(
                 llm_engine=llm_engine,
                 comparison_prompt_config=comparison_prompt_config,
@@ -403,6 +403,8 @@ def compare_saved_description_batches(
     description_count_limit: t.Optional[int] = None,
 ) -> tuple[dict[str, DescriptionBattleTally], DescriptionBattleTally]:
     ## Open and possibly initialize the comparison results DB
+    from . import comparison_storage # Prevents a circular import
+
     comparison_storage_db = comparison_storage.get_comparison_results_db(
         Path(storage.directory) / COMPARISON_STORAGE_DB_FILENAME
     )
