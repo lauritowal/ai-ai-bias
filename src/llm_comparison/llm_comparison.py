@@ -28,6 +28,7 @@ from llm_descriptions_generator.file_io import (
 )
 from storage import cache_friendly_file_storage
 from utils import or_join
+import groq_model
 
 rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
 
@@ -193,7 +194,6 @@ def compare_descriptions(
         elif llm_engine.value.startswith("groq-"):
             name = llm_engine.value.split("-", 1)[1]
             logging.info(f"Querying {name} on Groq")
-            import groq_model
             llm_model = groq_model.GroqModel(model_name=name)
         else:
             logging.info(f"Assuming {llm_engine} is running locally")
