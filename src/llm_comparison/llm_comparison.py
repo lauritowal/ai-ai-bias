@@ -3,39 +3,38 @@ import json
 import logging
 import os
 import random
+import sqlite3
 import typing as t
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
 import langchain
-from pydantic.dataclasses import dataclass, Field
-
 from interlab.context import Context, StorageBase
 from interlab.lang_models import query_model
 from interlab.queries import query_for_json
+from pydantic.dataclasses import Field, dataclass
 
+import groq_model
 from llm_comparison.config import ComparisonPromptConfig
-from llm_descriptions_generator.schema import (
-    Engine,
-    HumanTextItemDescriptionBatch,
-    LlmGeneratedTextItemDescriptionBatch,
-    Origin,
-)
 from llm_descriptions_generator import query_llm
 from llm_descriptions_generator.file_io import (
-    load_all_human_description_batches,
-    load_all_llm_description_batches,
-    to_safe_filename,
-)
+    load_all_human_description_batches, load_all_llm_description_batches,
+    to_safe_filename)
+from llm_descriptions_generator.schema import (
+    Engine, HumanTextItemDescriptionBatch,
+    LlmGeneratedTextItemDescriptionBatch, Origin)
 from storage import cache_friendly_file_storage
 from utils import or_join
-import groq_model
+
+from . import comparison_storage
 
 rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
 
 # DEFAULT_RUN_KEY = "default"
 
 DEFAULT_STORAGE = cache_friendly_file_storage
-MAX_CONCURRENT_WORKERS = 3
+MAX_CONCURRENT_WORKERS = 1
+COMPARISON_STORAGE_DB_FILENAME = "comparison_results.sqlite"
 
 @dataclass
 class Description:
@@ -134,9 +133,24 @@ def compare_descriptions(
     description_2: Description,
     storage: StorageBase = DEFAULT_STORAGE,
     comparison_prompt_addendum: t.Optional[str] = None,
+    comparison_storage_db: sqlite3.Connection = None,
     # run_key: str = DEFAULT_RUN_KEY,
 ) -> t.Optional[Description]:
     # TODO: throw if the descriptions aren't for the same underlying item?
+
+    # First, check if this comparison already exists in the fast DB result storage
+    stored_winner = comparison_storage.db_get_comparison(
+        comparison_storage_db,
+        llm_engine,
+        comparison_prompt_config,
+        description_1,
+        description_2,
+    )
+    if stored_winner is not None:
+        logging.trace(f"Found cached result for {description_1.uid} vs {description_2.uid} on {llm_engine}: {stored_winner}")
+        if stored_winner == 0:
+            return None
+        return description_1 if stored_winner == 1 else description_2
 
     # NOTE: returns None if LLM gives invalid response or declares a tie
     cached_result = find_cached_comparison_result(
@@ -147,6 +161,15 @@ def compare_descriptions(
     )
     if cached_result is not None:
         logging.info(f"Found cached result in older Context: {_make_description_comparison_tags(llm_engine, description_1.uid, description_2.uid, comparison_prompt_config.prompt_key)}")
+        assert cached_result == description_1 or cached_result == description_2, "Cached result must be None or one of the two descriptions being compared."
+        comparison_storage.db_set_comparison(
+            comparison_storage_db,
+            llm_engine,
+            comparison_prompt_config,
+            description_1,
+            description_2,
+            cached_result,
+        )
         return cached_result
     
     with Context(
@@ -179,7 +202,7 @@ def compare_descriptions(
 
         if comparison_prompt_addendum:
             prompt += comparison_prompt_addendum
-        
+
         @dataclass
         class Choice:
             # see HACK below for why "Any" type ended up being allowed
@@ -240,10 +263,21 @@ def compare_descriptions(
             descriptions_by_int_id.get(chosen_id, None)
             if chosen_id is not None else None
         )
-        
+
         ctx.set_result(chosen_description)
+
+        # Cache in the sqlite DB for faster future lookups
+        assert chosen_description == description_1 or chosen_description == description_2 or chosen_description is None
+        comparison_storage.db_set_comparison(
+            comparison_storage_db,
+            llm_engine,
+            comparison_prompt_config,
+            description_1,
+            description_2,
+            chosen_description
+        )
         return chosen_description
-    
+
 
 def compare_description_lists_for_one_item(
     llm_engine: Engine,
@@ -252,6 +286,7 @@ def compare_description_lists_for_one_item(
     description_list_2: list[Description],
     storage: StorageBase = DEFAULT_STORAGE,
     comparison_prompt_addendum: t.Optional[str] = None,
+    comparison_storage_db: sqlite3.Connection = None,
     # run_key: str = DEFAULT_RUN_KEY,
 ) -> t.Tuple[list[t.Optional[Description]], DescriptionBattleTally]:
     """
@@ -289,6 +324,7 @@ def compare_description_lists_for_one_item(
                 description_1=description_1,
                 description_2=description_2,
                 comparison_prompt_addendum=comparison_prompt_addendum,
+                comparison_storage_db=comparison_storage_db,
             )
             winning_descriptions.append(winner)
             if winner is None:
@@ -337,7 +373,7 @@ def _make_descriptions_from_llm_description_batch(
             prompt_key=llm_description_batch.generation_prompt_nickname,
         ))
     return descriptions
-    
+
 
 def make_optional_comparison_prompt_addendum(
     comparison_prompt_config: ComparisonPromptConfig,
@@ -366,6 +402,11 @@ def compare_saved_description_batches(
     storage: StorageBase = DEFAULT_STORAGE,
     description_count_limit: t.Optional[int] = None,
 ) -> tuple[dict[str, DescriptionBattleTally], DescriptionBattleTally]:
+    ## Open and possibly initialize the comparison results DB
+    comparison_storage_db = comparison_storage.get_comparison_results_db(
+        Path(storage.directory) / COMPARISON_STORAGE_DB_FILENAME
+    )
+
     with Context(
         name="batch_compare_item_type",
         inputs={
@@ -433,6 +474,7 @@ def compare_saved_description_batches(
                     description_list_1=human_descriptions,
                     description_list_2=llm_descriptions,
                     comparison_prompt_addendum=comparison_prompt_addendum,
+                    comparison_storage_db=comparison_storage_db,
                 )
                 return (winners, battle_tally)
 
