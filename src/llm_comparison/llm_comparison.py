@@ -226,14 +226,14 @@ def compare_descriptions(
                 openai_api_base=os.getenv('LOCAL_LLM_API_BASE'),
             )
         choice_answer = query_model(llm_model, prompt)
-        logging.info(f"Initial choice prompt - prose response: {choice_answer[:50]!r}[...]")
+        logging.debug(f"Initial choice prompt - prose response: {choice_answer[:50]!r}[...]")
 
         choice_analysis_result: Choice = query_for_json(
             llm_model,
             Choice,
             f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
         )
-        logging.info(f"Choice analysis prompt result - data response: {repr(choice_analysis_result)[:60]!r}[...]")
+        logging.debug(f"Choice analysis prompt result - data response: {repr(choice_analysis_result)[:60]!r}[...]")
         answer = choice_analysis_result.answer
         chosen_id: t.Optional[int | str] = None
         try:
@@ -258,7 +258,7 @@ def compare_descriptions(
             logging.warning(f"Choice analysis step result (answer: {answer}) is not parseable to a single integer ID. Result will be considered Invalid (no choice made).")
             chosen_id = None
 
-        logging.info(f"Follow up choice analysis - selected ID in data response: {chosen_id}")
+        logging.debug(f"Follow up choice analysis - selected ID in data response: {chosen_id}")
         chosen_description = (
             descriptions_by_int_id.get(chosen_id, None)
             if chosen_id is not None else None
