@@ -62,6 +62,31 @@ def get_comparison_results_db(path: Path) -> sqlite3.Connection:
     return conn
 
 
+def db_stats(conn: sqlite3.Connection):
+    cursor = conn.cursor()
+    cursor.execute("SELECT COUNT(*) FROM comparison_results")
+    total = cursor.fetchone()[0]
+    cursor.execute("SELECT COUNT(*) FROM comparison_results WHERE winner = 0")
+    invalid = cursor.fetchone()[0]
+    s = f"Comparison DB statistics: total results: {total} total, {invalid} invalid"
+    # Now we need to list all tuples (description_llm_engine, description_prompt_key, item_type, comparison_prompt_key, comparison_llm_engine) and count the rows of each
+    cursor.execute(
+        "SELECT description_llm_engine, description_prompt_key, item_type, comparison_prompt_key, comparison_llm_engine, COUNT(*) FROM comparison_results GROUP BY description_llm_engine, description_prompt_key, item_type, comparison_prompt_key, comparison_llm_engine"
+    )
+    s += "\n(description_llm_engine, description_prompt_key, item_type, comparison_prompt_key, comparison_llm_engine): counts"
+    for row in cursor:
+        cur2 = conn.cursor()
+        # Count invalid results for this tuple
+        cur2.execute(
+            "SELECT COUNT(*) FROM comparison_results WHERE description_llm_engine = ? AND description_prompt_key = ? AND item_type = ? AND comparison_prompt_key = ? AND comparison_llm_engine = ? AND winner = 0",
+            row[:5],
+        )
+        invalid = cur2.fetchone()[0]
+        cur2.close()
+        s += f"\n({row[0]}, {row[1]}, {row[2]}, {row[3]}, {row[4]}): {row[5]} total, {invalid} invalid"
+    cursor.close()
+    return s
+
 def db_get_comparison(
     conn: sqlite3.Connection,
     llm_engine: Engine,

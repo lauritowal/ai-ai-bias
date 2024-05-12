@@ -408,6 +408,7 @@ def compare_saved_description_batches(
     comparison_storage_db = comparison_storage.get_comparison_results_db(
         Path(storage.directory) / COMPARISON_STORAGE_DB_FILENAME
     )
+    logging.info(comparison_storage.db_stats(comparison_storage_db))
 
     with Context(
         name="batch_compare_item_type",
