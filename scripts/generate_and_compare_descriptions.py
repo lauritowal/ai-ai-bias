@@ -159,9 +159,9 @@ def generate_and_compare_descriptions(
             details_by_item = {
                 title: {
                     "LLM_win_ratio": compute_llm_win_ratio(tally),
-                    "Human": tally[str(Origin.Human)],
-                    "LLM": tally[str(Origin.LLM)],
-                    "Invalid": tally["Invalid"],
+                    "Human": tally.get(str(Origin.Human), 0),
+                    "LLM": tally.get(str(Origin.LLM), 0), 
+                    "Invalid": tally.get("Invalid", 0)
                 }
                 for (title, tally) in tallies_by_item_title.items()
             }
