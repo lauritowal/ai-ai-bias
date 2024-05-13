@@ -1,7 +1,9 @@
 import logging
 import typing as t
+import tiktoken
 
 from interlab.context import Context, FileStorage
+import openai
 
 from llm_descriptions_generator.config import get_text_item_generation_prompt_config
 from llm_descriptions_generator.file_io import (
@@ -117,19 +119,24 @@ def generate_llm_descriptions_for_item_type(
 
                 # if existing_description_count < description_count:
                 # generate and save results one at a time in case of failures
-                llm_description_batch = generate_llm_descriptions(
-                    generation_prompt=generation_prompt,
-                    description_count=1,
-                    llm_engine=llm_engine,
-                    output_description_type=generation_config.output_description_type,
-                )
-                # merge existing descriptions with new
-                if existing_llm_description_batch:
-                    llm_description_batch.descriptions += existing_llm_description_batch.descriptions
-                save_description_batch_to_json_file(
-                    description_batch=llm_description_batch,
-                    filepath=filepath,
-                )
+                encoding = tiktoken.encoding_for_model("gpt-3.5-turbo-1106")
+                tokens = encoding.encode(generation_prompt.prompt_text)
+                if llm_engine == Engine.gpt35turbo1106 and len(tokens) >= 16385:
+                    print(f"Skip. prompt {generation_prompt.prompt_nickname} is too long for gpt35turbo1106")
+                else:
+                    llm_description_batch = generate_llm_descriptions(
+                        generation_prompt=generation_prompt,
+                        description_count=1,
+                        llm_engine=llm_engine,
+                        output_description_type=generation_config.output_description_type,
+                    )
+                    # merge existing descriptions with new
+                    if existing_llm_description_batch:
+                        llm_description_batch.descriptions += existing_llm_description_batch.descriptions
+                    save_description_batch_to_json_file(
+                        description_batch=llm_description_batch,
+                        filepath=filepath,
+                    )
 
         ctx.set_result(llm_description_batches)
         return llm_description_batches
