@@ -218,6 +218,13 @@ def compare_descriptions(
             name = llm_engine.value.split("-", 1)[1]
             logging.info(f"Querying {name} on Groq")
             llm_model = groq_model.GroqModel(model_name=name)
+        elif llm_engine.value.startswith("together-"):
+            name = llm_engine.value.split("-", 1)[1]
+            logging.info(f"Querying {name} on Together (via OpenAI API)")
+            llm_model = langchain.chat_models.ChatOpenAI(
+                model_name=name,
+                api_key=os.environ.get("TOGETHER_API_KEY"),
+                base_url="https://api.together.xyz/v1")
         else:
             logging.info(f"Assuming {llm_engine} is running locally")
             llm_model = langchain.chat_models.ChatOpenAI(

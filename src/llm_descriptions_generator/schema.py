@@ -23,6 +23,12 @@ class Engine(str, enum.Enum):
     groq_llama3_8b_8192 = "groq-llama3-8b-8192"
     groq_mixtral_8x7b_32768 = "groq-mixtral-8x7b-32768"
     groq_gemma_7b_it = "groq-gemma-7b-it"
+    # Together.ai
+    together_llama_3_8b_chat = "together-meta-llama/Llama-3-8b-chat-hf"
+    together_llama_3_70b_chat = "together-meta-llama/Llama-3-70b-chat-hf"
+    together_mixtral_8x7b_instruct = "together-mistralai/Mixtral-8x7B-Instruct-v0.1"
+    together_qwen15_05b_chat = "together-Qwen/Qwen1.5-0.5B-Chat"
+    together_gemma_2b_it = "together-google/gemma-2b-it"
 
     def __str__(self):
         return self.value
