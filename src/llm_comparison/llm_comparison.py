@@ -31,7 +31,7 @@ rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
 # DEFAULT_RUN_KEY = "default"
 
 DEFAULT_STORAGE = cache_friendly_file_storage
-MAX_CONCURRENT_WORKERS = 1
+MAX_CONCURRENT_WORKERS = 5
 COMPARISON_STORAGE_DB_FILENAME = "comparison_results.sqlite"
 
 @dataclass
@@ -223,8 +223,8 @@ def compare_descriptions(
             logging.info(f"Querying {name} on Together (via OpenAI API)")
             llm_model = langchain.chat_models.ChatOpenAI(
                 model_name=name,
-                api_key=os.environ.get("TOGETHER_API_KEY"),
-                base_url="https://api.together.xyz/v1")
+                openai_api_key=os.environ.get("TOGETHER_API_KEY"),
+                openai_api_base="https://api.together.xyz/v1")
         else:
             logging.info(f"Assuming {llm_engine} is running locally")
             llm_model = langchain.chat_models.ChatOpenAI(
