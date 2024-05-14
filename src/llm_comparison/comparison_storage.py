@@ -43,10 +43,11 @@ CREATE TABLE IF NOT EXISTS comparison_results (
     -- Automatically added
     created_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     created_user TEXT,
-    created_host TEXT
+    created_host TEXT,
+   	UNIQUE(description_uid_1, description_uid_2, comparison_llm_engine, comparison_prompt_key)
 );""",
     """
-CREATE INDEX IF NOT EXISTS comparison_results_index ON comparison_results (
+CREATE UNIQUE INDEX IF NOT EXISTS comparison_results_index ON comparison_results (
     description_uid_1, description_uid_2, comparison_llm_engine, comparison_prompt_key
 );
 """,
@@ -144,7 +145,7 @@ def db_set_comparison(
     cursor = conn.cursor()
     cursor.execute(
         """
-        INSERT INTO comparison_results (
+        INSERT OR REPLACE INTO comparison_results (
             comparison_prompt_key,
             comparison_llm_engine,
             description_uid_1,

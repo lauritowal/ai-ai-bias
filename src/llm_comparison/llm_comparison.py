@@ -33,6 +33,7 @@ rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
 DEFAULT_STORAGE = cache_friendly_file_storage
 MAX_CONCURRENT_WORKERS = 1
 COMPARISON_STORAGE_DB_FILENAME = "comparison_results.sqlite"
+REDO_INVALID_RESULTS=False
 
 @dataclass
 class Description:
@@ -139,6 +140,7 @@ def compare_descriptions(
     from . import comparison_storage # Prevents a circular import
 
     # First, check if this comparison already exists in the fast DB result storage
+    skip_context_search = False
     stored_winner = comparison_storage.db_get_comparison(
         comparison_storage_db,
         llm_engine,
@@ -149,28 +151,33 @@ def compare_descriptions(
     if stored_winner is not None:
         logging.debug(f"Found cached result for {description_1.uid} vs {description_2.uid} on {llm_engine}: {stored_winner}")
         if stored_winner == 0:
-            return None
-        return description_1 if stored_winner == 1 else description_2
+            if not REDO_INVALID_RESULTS:
+                return None
+            logging.debug(f"Invalid result found in cache, re-running due to REDO_INVALID_RESULTS.")
+            skip_context_search = True
+        else:
+            return description_1 if stored_winner == 1 else description_2
 
     # NOTE: returns None if LLM gives invalid response or declares a tie
-    cached_result = find_cached_comparison_result(
-        llm_engine=llm_engine,
-        description_uid_1=description_1.uid,
-        description_uid_2=description_2.uid,
-        comparison_prompt_key=comparison_prompt_config.prompt_key,
-    )
-    if cached_result is not None:
-        logging.info(f"Found cached result in older Context: {_make_description_comparison_tags(llm_engine, description_1.uid, description_2.uid, comparison_prompt_config.prompt_key)}")
-        assert cached_result == description_1 or cached_result == description_2, "Cached result must be None or one of the two descriptions being compared."
-        comparison_storage.db_set_comparison(
-            comparison_storage_db,
-            llm_engine,
-            comparison_prompt_config,
-            description_1,
-            description_2,
-            cached_result,
+    if not skip_context_search:
+        cached_result = find_cached_comparison_result(
+            llm_engine=llm_engine,
+            description_uid_1=description_1.uid,
+            description_uid_2=description_2.uid,
+            comparison_prompt_key=comparison_prompt_config.prompt_key,
         )
-        return cached_result
+        if cached_result is not None:
+            logging.info(f"Found cached result in older Context: {_make_description_comparison_tags(llm_engine, description_1.uid, description_2.uid, comparison_prompt_config.prompt_key)}")
+            assert cached_result == description_1 or cached_result == description_2, "Cached result must be None or one of the two descriptions being compared."
+            comparison_storage.db_set_comparison(
+                comparison_storage_db,
+                llm_engine,
+                comparison_prompt_config,
+                description_1,
+                description_2,
+                cached_result,
+            )
+            return cached_result
     
     with Context(
         name="compare_descriptions",
