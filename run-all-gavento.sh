@@ -47,7 +47,7 @@ for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything
             --item-type=product \
             --comparison-prompt-key=marketplace_recommendation_force_decision \
             --comparison-engine="$M" \
-            --description-prompt-key=from-json-product-listing \
+            --description-prompt-key=from_json_product_listing \
             --description-engine='gpt-3.5-turbo' \
             --description-engine='gpt-4-1106-preview' \
             --max-comparison-concurrent-workers="$WORKERS" \
