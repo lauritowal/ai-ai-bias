@@ -13,8 +13,15 @@ fi
 MODELS="$@"
 echo "MODELS: $MODELS"
 
-for REPEAT in `seq 5`; do # Repetition to handle errors and crashes, everything is cached so it's fast
+for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything is cached so it's fast
     for M in $MODELS; do
+
+        # If the M starts with `groq-` then we set WORKERS to 1, else to 5
+        if [[ $M == groq-* ]]; then
+            WORKERS=1
+        else
+            WORKERS=5
+        fi
 
         poetry run python3 scripts/generate_and_compare_descriptions.py \
             --item-type=paper \
@@ -23,6 +30,7 @@ for REPEAT in `seq 5`; do # Repetition to handle errors and crashes, everything 
             --description-prompt-key=write_xml_paper_abstract_control_word_count \
             --description-engine='gpt-3.5-turbo-1106' \
             --description-engine='gpt-4-1106-preview' \
+            --max-comparison-concurrent-workers="$WORKERS" \
             --min-description-generation-count=4
 
         poetry run python scripts/generate_and_compare_descriptions.py \
@@ -32,6 +40,7 @@ for REPEAT in `seq 5`; do # Repetition to handle errors and crashes, everything 
             --description-prompt-key=from_json_details \
             --description-engine='gpt-3.5-turbo' \
             --description-engine='gpt-4-1106-preview' \
+            --max-comparison-concurrent-workers="$WORKERS" \
             --min-description-generation-count=4
 
         poetry run python scripts/generate_and_compare_descriptions.py \
@@ -41,6 +50,7 @@ for REPEAT in `seq 5`; do # Repetition to handle errors and crashes, everything 
             --description-prompt-key=from-json-product-listing \
             --description-engine='gpt-3.5-turbo' \
             --description-engine='gpt-4-1106-preview' \
+            --max-comparison-concurrent-workers="$WORKERS" \
             --min-description-generation-count=4
 
     done

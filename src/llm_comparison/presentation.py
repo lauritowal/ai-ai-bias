@@ -2,6 +2,8 @@ import logging
 import textwrap
 import typing as t
 
+import matplotlib
+matplotlib.use('Agg')
 from matplotlib import pyplot as plt
 
 from llm_comparison.llm_comparison import DescriptionBattleTally
