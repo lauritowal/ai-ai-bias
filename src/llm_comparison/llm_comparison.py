@@ -31,7 +31,7 @@ rnd = random.Random("b24e179ef8a27f061ae2ac307db2b7b2")
 # DEFAULT_RUN_KEY = "default"
 
 DEFAULT_STORAGE = cache_friendly_file_storage
-MAX_CONCURRENT_WORKERS = 5
+MAX_CONCURRENT_WORKERS = 1
 COMPARISON_STORAGE_DB_FILENAME = "comparison_results.sqlite"
 
 @dataclass

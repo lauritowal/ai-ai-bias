@@ -20,6 +20,7 @@ from llm_descriptions_generator.config import get_all_description_prompt_keys_fo
 from llm_descriptions_generator.schema import Engine, Origin
 from run_comparisons import run_comparisons
 from storage import cache_friendly_file_storage
+import llm_comparison.llm_comparison
 
 FULL_RUN_OUTPUT_DIR = Path(__file__).parent.resolve() / "../full_run_outputs"
 
@@ -77,6 +78,12 @@ engine_choices = [e.value for e in Engine]
     default=6,
     help="Target number of descriptions variants to confirm exist already for a single prompt configuration and it, or create up to if not already present in data.",
 )
+@click.option(
+    "--max-comparison-concurrent-workers",
+    type=int,
+    default=None,
+    help=f"Number of parallel workers to use for comparisons. The current default is {llm_comparison.llm_comparison.MAX_CONCURRENT_WORKERS}",
+)
 def generate_and_compare_descriptions(
     item_type: str,
     item_title_like: list[str],
@@ -85,7 +92,10 @@ def generate_and_compare_descriptions(
     description_engine: str,
     description_prompt_key: str,
     min_description_generation_count: int,
+    max_comparison_concurrent_workers: int | None,
 ) -> None:
+    if max_comparison_concurrent_workers is not None:
+        llm_comparison.llm_comparison.MAX_CONCURRENT_WORKERS = max_comparison_concurrent_workers
     print(f"""
             item_type: {item_type}
             item_title_like: {item_title_like}
@@ -94,6 +104,7 @@ def generate_and_compare_descriptions(
             description_engine: {description_engine}
             description_prompt_key: {description_prompt_key}
             min_description_generation_count: {min_description_generation_count}
+            max_comparison_concurrent_workers: {llm_comparison.llm_comparison.MAX_CONCURRENT_WORKERS}
           """)
     run_start = datetime.now()
 
