@@ -12,6 +12,7 @@ import langchain
 from interlab.context import Context, StorageBase
 from interlab.lang_models import query_model
 from interlab.queries import query_for_json
+import openai
 from pydantic.dataclasses import Field, dataclass
 
 import groq_model
@@ -239,38 +240,49 @@ def compare_descriptions(
                 max_tokens=-1,
                 openai_api_base=os.getenv('LOCAL_LLM_API_BASE'),
             )
-        choice_answer = query_model(llm_model, prompt)
-        logging.debug(f"Initial choice prompt - prose response: {choice_answer[:50]!r}[...]")
-
-        choice_analysis_result: Choice = query_for_json(
-            llm_model,
-            Choice,
-            f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
-        )
-        logging.debug(f"Choice analysis prompt result - data response: {repr(choice_analysis_result)[:60]!r}[...]")
-        answer = choice_analysis_result.answer
-        chosen_id: t.Optional[int | str] = None
         try:
-            # HACK to adapt to some LLMs (mistral-7b-instruct-v0.2 in particular) that have trouble
-            # providing a simple int answer like { answer: 7432 } and keep sending back a more complex
-            # type-annotated answer like { answer: { title: "Answer", description: 7432, type: "Integer" } }
-            if (
-                type(answer).__name__ == "AttributedDict"
-                and str(answer.get("title", None)).lower() == "answer"
-                and answer.get("description", None) is not None
-            ):
-                logging.warning(f"Attempting to parse extra layer of AttributedDict from non-standard answer: {answer}")
-                hopefully_int_id = answer.get("description")
+            choice_answer = query_model(llm_model, prompt)
+            logging.debug(f"Initial choice prompt - prose response: {choice_answer[:50]!r}[...]")
+        except openai.error.InvalidRequestError as e:
+            if "`inputs` tokens + `max_new_tokens` must be <=" in str(e):
+                logging.error(f"Error: {e}")
+                logging.info(f"Skipping this comparing {description_1.uid} and {description_2.uid}, marking it as invalid.")
+                choice_answer = None
             else:
-                hopefully_int_id = answer
-
-            # NOTE: we don't technically need to validate that the response is a parseable integer
-            # since anything else won't match a description in the lookup dict below, and we'll still
-            # get a None (invalid) response, but it's nice to have the log about what went wrong
-            chosen_id = str(int(hopefully_int_id))
-        except:
-            logging.warning(f"Choice analysis step result (answer: {answer}) is not parseable to a single integer ID. Result will be considered Invalid (no choice made).")
+                raise e  # Other errors than context window errors should be raised
+        
+        if choice_answer is None:
             chosen_id = None
+        else:
+            choice_analysis_result: Choice = query_for_json(
+                llm_model,
+                Choice,
+                f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
+            )
+            logging.debug(f"Choice analysis prompt result - data response: {repr(choice_analysis_result)[:60]!r}[...]")
+            answer = choice_analysis_result.answer
+            chosen_id: t.Optional[int | str] = None
+            try:
+                # HACK to adapt to some LLMs (mistral-7b-instruct-v0.2 in particular) that have trouble
+                # providing a simple int answer like { answer: 7432 } and keep sending back a more complex
+                # type-annotated answer like { answer: { title: "Answer", description: 7432, type: "Integer" } }
+                if (
+                    type(answer).__name__ == "AttributedDict"
+                    and str(answer.get("title", None)).lower() == "answer"
+                    and answer.get("description", None) is not None
+                ):
+                    logging.warning(f"Attempting to parse extra layer of AttributedDict from non-standard answer: {answer}")
+                    hopefully_int_id = answer.get("description")
+                else:
+                    hopefully_int_id = answer
+
+                # NOTE: we don't technically need to validate that the response is a parseable integer
+                # since anything else won't match a description in the lookup dict below, and we'll still
+                # get a None (invalid) response, but it's nice to have the log about what went wrong
+                chosen_id = str(int(hopefully_int_id))
+            except:
+                logging.warning(f"Choice analysis step result (answer: {answer}) is not parseable to a single integer ID. Result will be considered Invalid (no choice made).")
+                chosen_id = None
 
         logging.debug(f"Follow up choice analysis - selected ID in data response: {chosen_id}")
         chosen_description = (
