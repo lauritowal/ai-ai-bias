@@ -11,6 +11,11 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
+# Get the project root folder and cd into it
+DIR="$( dirname "${BASH_SOURCE[0]}" )"
+echo Changing dir to $DIR/..
+cd $DIR/..
+
 MODELS="$@"
 echo "MODELS: $MODELS"
 
