@@ -27,8 +27,6 @@ from llm_descriptions_generator.schema import (
 MAX_SUPER_RETRY_COUNT = 10
 SUPER_RETRY_WAIT_INTERVAL_SECONDS = 60
 
-
-
 # @with_context(
 #     name="generate_many_descriptions",
 #     storage=DEFAULT_STORAGE,

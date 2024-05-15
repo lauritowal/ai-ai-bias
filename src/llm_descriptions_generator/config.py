@@ -124,7 +124,7 @@ def get_text_item_generation_prompt_config(
     for config in configs:
         if config.prompt_nickname == prompt_nickname:
             return config
-    raise f"item_type: '{item_type}' has no configs set up matching prompt_nickname: {prompt_nickname}"
+    raise Exception(f"item_type: '{item_type}' has no configs set up matching prompt_nickname: {prompt_nickname}")
 
 def get_all_description_prompt_keys_for_item_type(item_type: str) -> list[str]:
     return [config.prompt_key for config in TEXT_GENERATION_PROMPT_CONFIG[item_type]]

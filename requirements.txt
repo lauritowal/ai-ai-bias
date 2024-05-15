@@ -9,3 +9,6 @@ setuptools==68.2.2
 waitress==3.0.0
 Werkzeug==3.0.2
 wheel==0.41.2
+python-dotenv==1.0.1
+interlab==0.3.5
+toml==0.10.2
