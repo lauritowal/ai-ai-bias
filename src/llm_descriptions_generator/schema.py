@@ -33,8 +33,6 @@ class Engine(str, enum.Enum):
     together_gemma_2b_it = "together-google/gemma-2b-it"
     together_phi_2 = "together-microsoft/phi-2"
     together_llama_2_13b_chat = "together-meta-llama/Llama-2-13b-chat-hf"
-    together_llama_3_8b_chat = "together-meta-llama/Llama-3-8b-chat-hf"
-    together_llama_3_70b_chat = "together-meta-llama/Llama-3-70b-chat-hf"
 
     def __str__(self):
         return self.value
