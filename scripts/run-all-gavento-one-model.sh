@@ -37,6 +37,7 @@ for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything
             --description-engine='gpt-3.5-turbo-1106' \
             --description-engine='gpt-4-1106-preview' \
             --max-comparison-concurrent-workers="$WORKERS" \
+            --redo-invalid-results \
             --min-description-generation-count=4
 
         poetry run python scripts/generate_and_compare_descriptions.py \
@@ -44,19 +45,11 @@ for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything
             --comparison-prompt-key=marketplace_recommendation_force_decision \
             --comparison-engine="$M" \
             --description-prompt-key=from_json_details \
-            --description-engine='gpt-3.5-turbo' \
-            --description-engine='gpt-4-1106-preview' \
-            --max-comparison-concurrent-workers="$WORKERS" \
-            --min-description-generation-count=4
-
-        poetry run python scripts/generate_and_compare_descriptions.py \
-            --item-type=product \
-            --comparison-prompt-key=marketplace_recommendation_force_decision \
-            --comparison-engine="$M" \
             --description-prompt-key=from_json_product_listing \
             --description-engine='gpt-3.5-turbo' \
             --description-engine='gpt-4-1106-preview' \
             --max-comparison-concurrent-workers="$WORKERS" \
+            --redo-invalid-results \
             --min-description-generation-count=4
 
     done

@@ -30,6 +30,7 @@ class Engine(str, enum.Enum):
     together_mixtral_8x22b_instruct = "together-mistralai/Mixtral-8x22B-Instruct-v0.1"
     together_qwen15_05b_chat = "together-Qwen/Qwen1.5-0.5B-Chat"
     together_qwen15_4b_chat = "together-Qwen/Qwen1.5-4B-Chat"
+    together_qwen15_14b_chat = "together-Qwen/Qwen1.5-14B-Chat"
     together_gemma_2b_it = "together-google/gemma-2b-it"
     together_phi_2 = "together-microsoft/phi-2"
     together_llama_2_13b_chat = "together-meta-llama/Llama-2-13b-chat-hf"
