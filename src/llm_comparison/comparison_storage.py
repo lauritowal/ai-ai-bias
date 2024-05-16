@@ -88,7 +88,30 @@ def db_stats(conn: sqlite3.Connection):
         )
         invalid = cur2.fetchone()[0]
         cur2.close()
-        s += f"\n({row[4]}, {row[3]}, {row[2]}, {row[0]}, {row[1]}): {row[5]} total, {invalid} invalid"
+
+        cur2 = conn.cursor()
+        cur2.execute(
+            "SELECT COUNT(*) FROM comparison_results WHERE winner = 1 AND description_llm_engine = ? AND description_prompt_key = ? AND item_type = ? AND comparison_prompt_key = ? AND comparison_llm_engine = ?",
+            row[:5],
+        )
+        one = cur2.fetchone()[0]
+        cur2.close()
+
+        cur2 = conn.cursor()
+        cur2.execute(
+            "SELECT COUNT(*) FROM comparison_results WHERE winner = 2 AND description_llm_engine = ? AND description_prompt_key = ? AND item_type = ? AND comparison_prompt_key = ? AND comparison_llm_engine = ?",
+            row[:5],
+        )
+        two = cur2.fetchone()[0]
+        cur2.close()
+
+        if one + two > 0:
+            one_p = one / (row[5] - invalid)
+            one_p_2 = one / (one + two)
+            assert (one_p - one_p_2) < 0.01
+        else:
+            one_p = 0
+        s += f"\n({row[4]}, {row[3]}, {row[2]}, {row[0]}, {row[1]}): {row[5]} total, {invalid} invalid, first option bias: {100 * one_p:.2f}%"
     cursor.close()
     return s
 
