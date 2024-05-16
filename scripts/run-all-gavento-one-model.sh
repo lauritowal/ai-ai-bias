@@ -8,6 +8,7 @@ if [ $# -eq 0 ]; then
     echo "        together-meta-llama/Llama-2-13b-chat-hf together-microsoft/phi-2"
     echo "        together-meta-llama/Llama-3-8b-chat-hf together-meta-llama/Llama-3-70b-chat-hf"
     echo "        gpt-4-1106-preview gpt-3.5-turbo-1106 gpt-3.5-turbo"
+    echo "        ... and others (see schema.py)"
     exit 1
 fi
 
@@ -26,7 +27,7 @@ for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything
         if [[ $M == groq-* ]]; then
             WORKERS=1
         else
-            WORKERS=5
+            WORKERS=10
         fi
 
         poetry run python3 scripts/generate_and_compare_descriptions.py \

@@ -14,6 +14,7 @@ from interlab.lang_models import query_model
 from interlab.queries import query_for_json
 import openai
 from pydantic.dataclasses import Field, dataclass
+import interlab
 
 import groq_model
 from llm_comparison.config import ComparisonPromptConfig
@@ -254,13 +255,18 @@ def compare_descriptions(
         if choice_answer is None:
             chosen_id = None
         else:
-            choice_analysis_result: Choice = query_for_json(
-                llm_model,
-                Choice,
-                f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
-            )
-            logging.debug(f"Choice analysis prompt result - data response: {repr(choice_analysis_result)[:60]!r}[...]")
-            answer = choice_analysis_result.answer
+            try:
+                choice_analysis_result: Choice = query_for_json(
+                    llm_model,
+                    Choice,
+                    f"The following text is a snippet where the writer makes a choice between two items. Each {comparison_prompt_config.item_type_name} should have an integer ID. Which {comparison_prompt_config.item_type_name} ID was chosen, if any? \n\n**(Text snippet)**" + choice_answer,
+                )
+                logging.debug(f"Choice analysis prompt result - data response: {repr(choice_analysis_result)[:60]!r}[...]")
+                answer = choice_analysis_result.answer
+            except interlab.queries.query_failure.ParsingFailure as e:
+                answer = None
+                logging.error(f"Error while parsing LLM output: {e}")
+
             chosen_id: t.Optional[int | str] = None
             try:
                 # HACK to adapt to some LLMs (mistral-7b-instruct-v0.2 in particular) that have trouble

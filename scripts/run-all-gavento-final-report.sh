@@ -6,10 +6,13 @@ echo Changing dir to $DIR/..
 cd $DIR/..
 
 WORKERS=1
+
 OPTS="  --comparison-engine=together-mistralai/Mixtral-8x22B-Instruct-v0.1
-        --comparison-engine=together-Qwen/Qwen1.5-4B-Chat
         --comparison-engine=together-meta-llama/Llama-3-8b-chat-hf
         --comparison-engine=together-meta-llama/Llama-3-70b-chat-hf
+        --comparison-engine=together-Qwen/Qwen1.5-4B-Chat
+        --comparison-engine=together-Qwen/Qwen1.5-14B-Chat
+        --comparison-engine=together-Qwen/Qwen1.5-72B-Chat
         --max-comparison-concurrent-workers=$WORKERS
         --min-description-generation-count=4"
 
