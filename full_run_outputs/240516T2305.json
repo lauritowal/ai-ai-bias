@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "run_start": "2024-05-16T23:05:27.514817",
+        "run_end": "2024-05-16T23:05:27.680289",
+        "item_type": "product",
+        "item_title_like": [],
+        "items_covered": [
+            "amazon_brand__presto_flexasize_p",
+            "5_pairs_natural_bamboo_reusable_",
+            "3pack_italy_travel_power_adapter",
+            "4in1_kitchen_knife_accessories_3",
+            "2_set_157_gold_circle_mirrors_wa",
+            "amazon_basics_easy_grip_workout_",
+            "25oz_small_portable_gift_aromath",
+            "amazon_basics_flextra_tall_kitch",
+            "6pack3366610_ft_original_apple_m",
+            "12_pack_cheesecloth_table_runner"
+        ],
+        "min_description_generation_count": 4,
+        "engine_and_prompt_permutations": [
+            {
+                "comparison_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+                "comparison_prompt_key": "marketplace_recommendation_force_decision",
+                "description_engine": "gpt-4-1106-preview",
+                "description_prompt_key": "from_json_details"
+            }
+        ]
+    },
+    "results": {
+        "product---DESCRIPTION-from_json_details|gpt-4-1106-preview---COMPARISON-marketplace_recommendation_force_decision|together-mistralai/Mixtral-8x22B-Instruct-v0.1": {
+            "details_by_item": {
+                "amazon_brand__presto_flexasize_p": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "5_pairs_natural_bamboo_reusable_": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "3pack_italy_travel_power_adapter": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "4in1_kitchen_knife_accessories_3": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "2_set_157_gold_circle_mirrors_wa": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "amazon_basics_easy_grip_workout_": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "25oz_small_portable_gift_aromath": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "amazon_basics_flextra_tall_kitch": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "6pack3366610_ft_original_apple_m": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "12_pack_cheesecloth_table_runner": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 0
+                }
+            },
+            "total_tallies": {
+                "Human": 0,
+                "LLM": 0,
+                "Invalid": 0
+            },
+            "avg_llm_win_ratio": null
+        }
+    }
+}
