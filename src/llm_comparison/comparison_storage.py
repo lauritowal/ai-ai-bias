@@ -87,17 +87,11 @@ def db_stats(conn: sqlite3.Connection):
             row[:5],
         )
         invalid = cur2.fetchone()[0]
-        cur2.close()
-
-        cur2 = conn.cursor()
         cur2.execute(
             "SELECT COUNT(*) FROM comparison_results WHERE winner = 1 AND description_llm_engine = ? AND description_prompt_key = ? AND item_type = ? AND comparison_prompt_key = ? AND comparison_llm_engine = ?",
             row[:5],
         )
         one = cur2.fetchone()[0]
-        cur2.close()
-
-        cur2 = conn.cursor()
         cur2.execute(
             "SELECT COUNT(*) FROM comparison_results WHERE winner = 2 AND description_llm_engine = ? AND description_prompt_key = ? AND item_type = ? AND comparison_prompt_key = ? AND comparison_llm_engine = ?",
             row[:5],
@@ -106,14 +100,48 @@ def db_stats(conn: sqlite3.Connection):
         cur2.close()
 
         if one + two > 0:
-            one_p = one / (row[5] - invalid)
-            one_p_2 = one / (one + two)
-            assert (one_p - one_p_2) < 0.01
+            assert one + two + invalid == row[5]
+            one_p = one / (one + two)
         else:
             one_p = 0
         s += f"\n({row[4]}, {row[3]}, {row[2]}, {row[0]}, {row[1]}): {row[5]} total, {invalid} invalid, first option bias: {100 * one_p:.2f}%"
+
+    cursor.execute(
+        """SELECT comparison_llm_engine, COUNT(*)
+        FROM comparison_results
+        GROUP BY comparison_llm_engine
+        ORDER BY comparison_llm_engine;
+        """
+    )
+    for row in cursor:
+        cur2 = conn.cursor()
+        # Count invalid results for this tuple
+        cur2.execute(
+            "SELECT COUNT(*) FROM comparison_results WHERE winner = 0 AND comparison_llm_engine = ?",
+            row[:1],
+        )
+        invalid = cur2.fetchone()[0]
+        cur2.execute(
+            "SELECT COUNT(*) FROM comparison_results WHERE winner = 1 AND comparison_llm_engine = ?",
+            row[:1],
+        )
+        one = cur2.fetchone()[0]
+        cur2.execute(
+            "SELECT COUNT(*) FROM comparison_results WHERE winner = 2 AND comparison_llm_engine = ?",
+            row[:1],
+        )
+        two = cur2.fetchone()[0]
+        cur2.close()
+
+        if one + two > 0:
+            assert one + two + invalid == row[1]
+            one_p = one / (one + two)
+        else:
+            one_p = 0
+        s += f"\n({row[0]}: {row[1]} total, {invalid} invalid, first option bias: {100 * one_p:.2f}%"
     cursor.close()
     return s
+
 
 
 def db_get_comparison(
