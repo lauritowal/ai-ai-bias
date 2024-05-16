@@ -127,7 +127,7 @@ def save_results():
     results_folder = BASE_DIR / 'results' / request.json.get('username') / request.json.get('model') / request.json.get('category')
     results_path = results_folder / f"experiment_{timestamp}.json"
     results_path.parent.mkdir(parents=True, exist_ok=True)
-    
+
     output = {
         'timestamp': timestamp,
         'username': request.json.get('username'),

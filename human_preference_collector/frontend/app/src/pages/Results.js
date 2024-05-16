@@ -139,8 +139,9 @@ const Results = () => {
                 <Card key={index} sx={{ mb: 2 }}>
                     <CardContent>
                         <Typography variant="h6">Choice {index + 1}</Typography>
-                        <Typography>Chosen Option: {choice.choice}</Typography>
+                        <Typography>Chosen option: {choice.choice}</Typography>
                         <Typography>Title: {choice.description.human.title}</Typography>
+                        <Typography>isFirst: {"" + choice.isFirst}</Typography>
                     </CardContent>
                 </Card>
             ))}

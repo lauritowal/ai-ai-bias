@@ -42,7 +42,7 @@ const Comparisons = () => {
     useEffect(() => {
         if (descriptions.length > 0 && currentIndex + 1 > descriptions.length) {
             submitResults();
-        } 
+        }
     }, [userChoices]);
 
     const submitResults = async () => {
@@ -72,11 +72,13 @@ const Comparisons = () => {
         }
     };
 
-    const handleUserChoice = (choice) => {
+    const handleUserChoice = (choice, isFirst) => {
+
         // Store the current choice
         setUserChoices(prevChoices => [...prevChoices, {
             index: currentIndex,
             choice,
+            isFirst: isFirst,
             description: currentDescription
         }]);
 
@@ -125,7 +127,7 @@ const Comparisons = () => {
                             <Grid item xs={12} sm={4}>
                                 <Button
                                     fullWidth
-                                    onClick={() => handleUserChoice(isHumanFirst ? 'human' : 'llm')}
+                                    onClick={() => handleUserChoice(isHumanFirst ? 'human' : 'llm', true)}
                                     variant='contained'
                                     color='primary'
                                 >
@@ -135,7 +137,7 @@ const Comparisons = () => {
                             <Grid item xs={12} sm={4}>
                                 <Button
                                     fullWidth
-                                    onClick={() => handleUserChoice(isHumanFirst ? 'llm' : 'human')}
+                                    onClick={() => handleUserChoice(isHumanFirst ? 'llm' : 'human', false)}
                                     variant='contained'
                                     color='secondary'
                                 >
@@ -145,7 +147,7 @@ const Comparisons = () => {
                             <Grid item xs={12} sm={4}>
                                 <Button
                                     fullWidth
-                                    onClick={() => handleUserChoice('none')}
+                                    onClick={() => handleUserChoice('none', false)}
                                     variant='outlined'
                                 >
                                     No Preference
