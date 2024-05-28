@@ -47,8 +47,11 @@ if __name__ == '__main__':
 
     # Use rglob to find all json files in the directory and its subdirectories
     json_files = list(Path(args.path).rglob('*.json'))
-    print("JSON files found: ", json_files)
+    # exlude all category == demo
+    print("JSON files found: ", len(json_files))
+    json_files_no_demos = [f for f in json_files if 'demo' not in str(f)]
+    print("JSON files found (exluding demos): ", len(json_files))
     
     # Run the corrected script using the json_files list
-    results = extract_and_calculate_ratios(json_files)
+    results = extract_and_calculate_ratios(json_files_no_demos)
     print("Ratios: ", results)
