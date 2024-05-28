@@ -14,7 +14,7 @@ FRONTEND_DIR = BASE_DIR / '../frontend/app/build'
 DATA_DIR = BASE_DIR / '../../data'
 
 # Define the directory containing the results
-RESULTS_DIR = Path('./results')
+RESULTS_DIR = BASE_DIR / Path('./results')
 
 app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path='/')
 CORS(app)  # Enable CORS for all routes
