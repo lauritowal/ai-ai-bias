@@ -1,8 +1,10 @@
 import datetime
 import json
+import os
+import zipfile
 from pathlib import Path
 
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, render_template, request, send_from_directory
 from flask_cors import CORS
 
 # Define the base directory as the directory where this script is located
@@ -11,13 +13,24 @@ BASE_DIR = Path(__file__).resolve().parent
 FRONTEND_DIR = BASE_DIR / '../frontend/app/build'
 DATA_DIR = BASE_DIR / '../../data'
 
+# Define the directory containing the results
+RESULTS_DIR = Path('./results')
+
 app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path='/')
 CORS(app)  # Enable CORS for all routes
 
 @app.route('/', defaults={'path': ''})
 @app.route('/<path:path>')
 def serve(path):
-    return app.send_static_file('index.html')
+    if path != "" and os.path.exists(os.path.join(app.static_folder, path)):
+        return send_from_directory(app.static_folder, path)
+    else:
+        return send_from_directory(app.static_folder, 'index.html')
+
+@app.route('/admin', defaults={'path': ''})
+def admin(path):
+    return send_from_directory(app.static_folder, 'index.html')
+
 
 
 def load_human_files(directory):
@@ -67,6 +80,8 @@ def is_valid_description(description, min_words=10):
     :return: True if valid, False otherwise
     """
     return description and count_words(description) >= min_words
+
+
 
 
 @app.route('/descriptions', methods=['POST'])
@@ -153,9 +168,45 @@ def test():
     return jsonify([f.name for f in data_folder.iterdir() if f.is_file()])
 
 
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+
+
+@app.route('/tree')
+def tree():
+    def build_tree(directory):
+        tree = {'name': directory.name, 'children': []}
+        try:
+            for item in directory.iterdir():
+                if item.is_dir():
+                    tree['children'].append(build_tree(item))
+                else:
+                    tree['children'].append({'name': item.name, 'path': item.relative_to(RESULTS_DIR).as_posix()})
+        except OSError:
+            pass
+        return tree
+    results_tree = build_tree(RESULTS_DIR)
+    return jsonify(results_tree)
+
+@app.route('/download/<path:filepath>')
+def download(filepath):
+    return send_from_directory(RESULTS_DIR, filepath, as_attachment=True)
+
+@app.route('/download_all')
+def download_all():
+    zip_path = RESULTS_DIR / 'all_experiments.zip'
+    with zipfile.ZipFile(zip_path, 'w') as zipf:
+        for root, _, files in os.walk(RESULTS_DIR):
+            for file in files:
+                if file.endswith('.json'):
+                    file_path = Path(root) / file
+                    zipf.write(file_path, file_path.relative_to(RESULTS_DIR))
+    return send_from_directory(RESULTS_DIR, 'all_experiments.zip', as_attachment=True)
+
 def main():
     app.run(debug=True)
-
 
 if __name__ == '__main__':
     main()
