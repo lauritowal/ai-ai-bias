@@ -15,6 +15,10 @@ const Admin = () => {
     }, []);
 
     const buildTreeHtml = (node) => {
+        if (node.name.endsWith('.zip')) {
+            return null; // Exclude nodes with .zip in their name
+        }
+
         if (!node.children || node.children.length === 0) {
             return <li key={node.path}><a href={`/download/${node.path}`}>{node.name}</a></li>;
         }
@@ -22,7 +26,7 @@ const Admin = () => {
             <li key={node.name}>
                 {node.name}
                 <ul>
-                    {node.children.map(child => buildTreeHtml(child))}
+                    {node.children.map(child => buildTreeHtml(child)).filter(child => child !== null)}
                 </ul>
             </li>
         );
