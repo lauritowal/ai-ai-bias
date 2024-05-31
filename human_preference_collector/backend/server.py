@@ -167,12 +167,9 @@ def test():
     data_folder = DATA_DIR / 'paper' / 'human'
     return jsonify([f.name for f in data_folder.iterdir() if f.is_file()])
 
-
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-
+# @app.route('/')
+# def index():
+#     return render_template('index.html')
 
 @app.route('/tree')
 def tree():
