@@ -124,7 +124,7 @@ const Comparisons = () => {
                                 </CardContent>
                             </Card>
                         </Grid>
-                        <Grid item lg={8} xs={12} container spacing={2} justifyContent='center'>
+                        <Grid item lg={12} xs={12} container spacing={2}>
                             <Grid item xs={12} sm={4}>
                                 <Button
                                     fullWidth
