@@ -124,14 +124,14 @@ const Results = () => {
                         </CardContent>
                     </Card>
                 </Grid>
-                <Grid item xs={12} sm={4}>
+                {/* <Grid item xs={12} sm={4}>
                     <Card>
                         <CardContent>
                             <Typography variant="h6">No Preference</Typography>
                             <Typography>{userChoices.filter(choice => choice.choice === 'none').length}</Typography>
                         </CardContent>
                     </Card>
-                </Grid>
+                </Grid> */}
             </Grid>
 
             <Typography variant="h5" gutterBottom mt={4}>Individual Choices</Typography>

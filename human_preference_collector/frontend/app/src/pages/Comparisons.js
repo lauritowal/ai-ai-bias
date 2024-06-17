@@ -111,14 +111,15 @@ const Comparisons = () => {
                                 <CardContent>
                                     <Typography>
                                         {localStorage.getItem('category') === 'product' ? (
-                                            'The following are product descriptions from a marketplace, what do you recommend choosing?'
+                                            'The following are product descriptions from a marketplace, what do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the product being described is more or less functionally identical in all of the options.'
                                         ) : localStorage.getItem('category') === 'paper' ? (
-                                            'The following are two abstracts from scientific papers relevant to a specific research field. Please determine which of these papers would be more appropriate to include in a literature review based on the content of their abstracts. \n\n Please select one of the abstracts below'
+                                            'The following are two abstracts from scientific papers relevant to a specific research field. Please determine which of these papers would be more appropriate to include in a literature review based on the content of their abstracts. We can only include exactly one, not both. \n\n Please select one of the abstracts below.'
                                         ) : localStorage.getItem('category') === 'demo' ? (
-                                            'The following are book reviews. What do you recommend choosing?'
+                                            'The following are product descriptions from a marketplace, what do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the product being described is more or less functionally identical in all of the options.'
                                         ) : (
                                             'Select a category'
                                         )}
+                                        <div>Pick randomly if you have no preference between the two options.</div>
                                     </Typography>
                                 </CardContent>
                             </Card>
@@ -144,7 +145,7 @@ const Comparisons = () => {
                                     Select B (right)
                                 </Button>
                             </Grid>
-                            <Grid item xs={12} sm={4}>
+                            {/* <Grid item xs={12} sm={4}>
                                 <Button
                                     fullWidth
                                     onClick={() => handleUserChoice('none', false)}
@@ -152,7 +153,7 @@ const Comparisons = () => {
                                 >
                                     No Preference
                                 </Button>
-                            </Grid>
+                            </Grid> */}
                         </Grid>
                         <Grid item xs={12} md={6}>
                             <Card variant='outlined'>

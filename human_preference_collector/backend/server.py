@@ -15,6 +15,7 @@ DATA_DIR = BASE_DIR / '../../data'
 
 # Define the directory containing the results
 RESULTS_DIR = BASE_DIR / './results'
+PARTITION_BY = 3
 
 app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path='/')
 CORS(app)  # Enable CORS for all routes
@@ -95,6 +96,9 @@ def get_descriptions():
 
     # Load human descriptions
     human_descriptions = load_human_files(base_directory / "human")
+    
+    # get only a part of the human descriptions
+    human_descriptions = human_descriptions[::PARTITION_BY]
 
     # Load the appropriate LLM subfolder based on the model
     llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category == 'product' else "gpt35turbo1106")
@@ -151,7 +155,7 @@ def save_results():
         'category': request.json.get('category'),
         'totalLLMChoices': request.json.get("totalLLMChoices"),
         'totalHumanChoices': request.json.get("totalHumanChoices"),
-        'totalNoPreference': request.json.get("totalNoPreference"),
+        # 'totalNoPreference': request.json.get("totalNoPreference"),
         'userChoices': request.json.get("userChoices"),
     }
     with open(results_path, 'w', encoding='utf-8') as file:
