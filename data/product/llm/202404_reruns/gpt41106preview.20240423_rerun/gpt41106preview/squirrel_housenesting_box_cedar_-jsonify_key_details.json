@@ -1,0 +1,125 @@
+{
+    "item_type": "product",
+    "title": "Squirrel house/nesting box; cedar wood; outdoors; glued and nailed; burned image of squirrel on a wall;\nremovable roof for cleaning and hanging the box; two screws and washers for mounting included; \nOutside Dimensions (inches): 12x11x10; Inside Dimensions (inches): 5.75x9; \nSquirrel Opening (inches): 3.5",
+    "descriptions": [
+        {
+            "product_name": "Squirrel House/Nesting Box",
+            "product_details": {
+                "material": "Cedar Wood",
+                "suitability": "Outdoors",
+                "construction": {
+                    "glued": true,
+                    "nailed": true
+                },
+                "design_features": {
+                    "burned_image": {
+                        "subject": "Squirrel",
+                        "artist": "Drew Senesac"
+                    },
+                    "removable_roof": true,
+                    "mounting_hardware_included": true
+                },
+                "dimensions": {
+                    "outside": {
+                        "width": 12,
+                        "height": 11,
+                        "depth": 10
+                    },
+                    "inside": {
+                        "width": 5.75,
+                        "depth": 9
+                    },
+                    "squirrel_opening": 3.5
+                },
+                "mounting": {
+                    "pre_drilled_holes": 2,
+                    "screws": 2,
+                    "washers": 2
+                }
+            }
+        },
+        {
+            "product_name": "Squirrel House/Nesting Box",
+            "product_details": {
+                "material": "Cedar wood",
+                "placement": "Outdoors",
+                "construction": {
+                    "glued": true,
+                    "nailed": true
+                },
+                "features": {
+                    "burned_image": {
+                        "subject": "Squirrel",
+                        "artist": "Drew Senesac"
+                    },
+                    "removable_roof": true,
+                    "cleaning_access": true,
+                    "mounting_hardware_included": {
+                        "screws": 2,
+                        "washers": 2
+                    }
+                },
+                "dimensions": {
+                    "outside": {
+                        "width": 12,
+                        "height": 11,
+                        "depth": 10
+                    },
+                    "inside": {
+                        "width": 5.75,
+                        "depth": 9
+                    },
+                    "squirrel_opening": 3.5
+                }
+            }
+        },
+        {
+            "product_name": "Squirrel House/Nesting Box",
+            "product_details": {
+                "material": "cedar wood",
+                "suitability": "outdoors",
+                "construction": {
+                    "glued": true,
+                    "nailed": true
+                },
+                "decorative_features": {
+                    "burned_image_of_squirrel": true,
+                    "artist": "Drew Senesac"
+                },
+                "roof": {
+                    "removable": true,
+                    "fastening": {
+                        "screws": 2
+                    }
+                },
+                "mounting": {
+                    "pre_drilled_holes": 2,
+                    "mounting_hardware_included": {
+                        "screws": 2,
+                        "washers": 2
+                    }
+                },
+                "dimensions": {
+                    "outside": {
+                        "length_in_inches": 12,
+                        "width_in_inches": 11,
+                        "height_in_inches": 10
+                    },
+                    "inside": {
+                        "length_in_inches": 5.75,
+                        "width_in_inches": 9
+                    },
+                    "squirrel_opening": {
+                        "diameter_in_inches": 3.5
+                    }
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d7c2d80f659a2c2489ab10fd2d60048a",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Squirrel house/nesting box; cedar wood; outdoors; glued and nailed; burned image of squirrel on a wall;\nremovable roof for cleaning and hanging the box; two screws and washers for mounting included; \nOutside Dimensions (inches): 12x11x10; Inside Dimensions (inches): 5.75x9; \nSquirrel Opening (inches): 3.5\n\nDescription: This is a beautiful hand crafted squirrel house/nesting box with beautiful architectural design. This house is made out of thick rustic cedar wood and is perfect for the outdoors. All walls are glued and nailed together. The house is built to withstand the weather and the wear and tear of squirrels.\n\nThe outside of the house has an adorable squirrel burned into the wood by artist Drew Senesac on two sides along with a cute pine cone to add to the design.\n\nThe one side of the roof has two screws to make it easy to remove for cleaning and hanging the box!\n\nThe back of the house has two pre drilled holes and comes with two screws and washers for easy mounting.\n\nOutside Dimensions:\n\n12”x11”x10”\n\nInside Dimensions:\n\n5 3/4”x9”\n\nSquirrel Opening:\n\n3 1/2”\n\nThis is a perfect gift for yourself or anyone who loves squirrels and nature. It is always fun to watch squirrels and their cute behaviors. Always remember that squirrels play an important role in nature and our forests! Please take care of our beautiful furry friends!",
+    "__pydantic_initialised__": true
+}

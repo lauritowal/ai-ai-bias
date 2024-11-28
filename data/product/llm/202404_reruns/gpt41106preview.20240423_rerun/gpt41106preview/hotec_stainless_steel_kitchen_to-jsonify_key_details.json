@@ -1,0 +1,130 @@
+{
+    "item_type": "product",
+    "title": "Hotec Stainless Steel Kitchen Tongs Set of 2 - 9\" and 12\", Locking Metal Food Tongs Non-Slip Grip",
+    "descriptions": [
+        {
+            "product_name": "Hotec Stainless Steel Kitchen Tongs Set of 2 - 9\" and 12\"",
+            "product_details": {
+                "material": "Stainless Steel",
+                "durability": {
+                    "sturdiness": true,
+                    "heat_resistance": true,
+                    "rust_resistant": true,
+                    "corrosion_resistant": true
+                },
+                "weight": "Lightweight",
+                "maintenance": "Easy to handle, dishwasher safe",
+                "longevity": "Like new forever",
+                "set_includes": [
+                    "9 inch cooking tongs",
+                    "12 inch BBQ grill tongs"
+                ],
+                "locking_mechanism": {
+                    "type": "Pull ring",
+                    "function": "Lock and unlock"
+                },
+                "storage": {
+                    "hanging_loop": true,
+                    "space_saving_lock": true
+                },
+                "handle": {
+                    "material": "Silicon cushioned",
+                    "design": "Ergonomic",
+                    "safety_feature": "Protects hands from cutting"
+                },
+                "heat_resistance": "Metal tong head",
+                "applications": [
+                    "Indoor kitchen tasks",
+                    "Outdoor grilling",
+                    "Flipping burgers/fish",
+                    "Cutting roast meat",
+                    "BBQ turning",
+                    "Salad serving"
+                ]
+            }
+        },
+        {
+            "product_name": "Hotec Stainless Steel Kitchen Tongs Set of 2 - 9\" and 12\"",
+            "product_details": {
+                "material": "Stainless Steel",
+                "sturdiness": true,
+                "heat_resistance": true,
+                "anti_rust": true,
+                "anti_corrosion": true,
+                "weight": "Lightweight",
+                "ease_of_handling": true,
+                "condition": "Durable",
+                "set_includes": [
+                    "9 inch cooking tong",
+                    "12 inch BBQ grill tong"
+                ],
+                "locking_mechanism": true,
+                "operation": "Pull ring to lock, push to unlock",
+                "storage": "Hanging loop or locked in drawer for space saving",
+                "handle_design": "Ergonomic with silicon cushion",
+                "grip_and_control": "Good",
+                "tong_head_feature": "Heat resistant",
+                "maintenance": "Dishwasher safe",
+                "safety_design": "Protects hands from cutting on the edge",
+                "applications": [
+                    "Indoor kitchen tasks",
+                    "Outdoor grilling",
+                    "Flipping burgers/fish",
+                    "Cutting roast meat",
+                    "BBQ turning",
+                    "Salad serving"
+                ]
+            }
+        },
+        {
+            "product_name": "Hotec Stainless Steel Kitchen Tongs Set of 2 - 9\" and 12\"",
+            "product_details": {
+                "material": "Stainless Steel",
+                "features": {
+                    "sturdy": true,
+                    "heat_resistance": true,
+                    "anti_rust": true,
+                    "anti_corrosion": true,
+                    "lightweight": true
+                },
+                "sizes": [
+                    "9 inch",
+                    "12 inch"
+                ],
+                "lock_mechanism": {
+                    "pull_ring": true,
+                    "push_unlock": true
+                },
+                "hanging_loop": true,
+                "handle": {
+                    "ergonomic_design": true,
+                    "silicon_cushioned": true,
+                    "heat_resistant": true
+                },
+                "safety": {
+                    "new_design_pattern": true,
+                    "less_risk_of_cutting": true,
+                    "reduced_wobbling": true,
+                    "burn_protection": true
+                },
+                "applications": [
+                    "indoor",
+                    "outdoor",
+                    "kitchen_tasks",
+                    "grilling",
+                    "flipping",
+                    "cutting",
+                    "turning",
+                    "serving"
+                ],
+                "maintenance": "Dishwasher safe"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "64b1529747f25763318f79fd1cb13d94",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Hotec Stainless Steel Kitchen Tongs Set of 2 - 9\" and 12\", Locking Metal Food Tongs Non-Slip Grip\n\nDescription: FOOD LEVEL STAINLESS STEEL: The heavy duty Hotec kitchen tongs built with stainless steel, sturdy, heat resistance, anti-rust, anti-corrosion, light weight, easy to handle, like new forever. This tongs for cooking comes with a set of 2, standard 9\" cooking tongs and large sized 12\" BBQ grill tongs.\n\nPULL RING LOCK AND UNLOCK AND HANGING LOOP: This kitchen tongs set has locking mechanism, pull the ring for lock and push for unlock, super easy operation. Hang them with the hanging loop after use or put in the drawer by pulling the ring to lock it, space saving.\n\nERGONOMIC HANDLE DESIGN AND HEAT RESISTANT: The handle is cushioned with silicon, good for thumb rest and ensures good grip and control. The metal tong head is super heat resistant. Easy to rinse, dishwasher safe.\n\nENGINEERING FOR SAFETY: New design pattern for the handle, better protects your hands from cutting by the edge when you grip the handle. Easy to control the handle and to eliminate wobbling & any risk of burning your hands\n\nMULTIPLE APPLICATIONS: Basic kitchen utensil, perfect for indoor or outdoor use, great for daily kitchen tasks, grilling corn, flipping burgers/fish, cutting roast meat, or used as BBQ turner or salad server and much more.",
+    "__pydantic_initialised__": true
+}

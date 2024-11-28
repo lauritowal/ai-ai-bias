@@ -1,0 +1,103 @@
+{
+    "item_type": "product",
+    "title": "Julep Eyeshadow 101 Crème to Powder Waterproof Eyeshadow Stick, Putty Matte",
+    "descriptions": [
+        {
+            "product_name": "Julep Eyeshadow 101 Crème to Powder Waterproof Eyeshadow Stick, Putty Matte",
+            "product_details": {
+                "pigmentation": "Highly Pigmented",
+                "finish": "Matte",
+                "color": "Light Taupe-Pink",
+                "shades_available": [
+                    "Matte",
+                    "Shimmer",
+                    "Metallic"
+                ],
+                "formula": "Crème-to-Powder",
+                "waterproof": true,
+                "crease_proof": true,
+                "ingredients": {
+                    "Vitamin C": true,
+                    "Vitamin E": true,
+                    "Candelilla Wax": true
+                },
+                "skin_compatibility": "Suitable for delicate sensitive skin",
+                "antioxidant_protection": true,
+                "improves_skin_tone_and_texture": true,
+                "application_tool_required": false,
+                "built_in_smudger": true,
+                "application_instructions": {
+                    "coat_smudger_with_color": true,
+                    "sweep_stick_directly": true,
+                    "use_smudger_or_fingers_to_blend": true,
+                    "blend_before_formula_sets": true
+                }
+            }
+        },
+        {
+            "product_name": "Julep Eyeshadow 101 Crème to Powder Waterproof Eyeshadow Stick, Putty Matte",
+            "product_details": {
+                "pigmentation": "Highly pigmented",
+                "color": "Putty Matte",
+                "finish": "Matte",
+                "shade_options": [
+                    "Matte",
+                    "Shimmer",
+                    "Metallic"
+                ],
+                "shade_count": 30,
+                "type": "Crème-to-powder",
+                "waterproof": true,
+                "crease_proof": true,
+                "ingredients": {
+                    "vitamin_c": true,
+                    "vitamin_e": true,
+                    "candelilla_wax": true
+                },
+                "skin_benefits": {
+                    "hydration": true,
+                    "nourishment": true,
+                    "antioxidant_protection": true,
+                    "environmental_damage_repair": true,
+                    "skin_tone_improvement": true,
+                    "texture_improvement": true
+                },
+                "application_tool_required": false,
+                "application": {
+                    "smudger_included": true,
+                    "blendable": true,
+                    "set_time": "Before formula sets"
+                }
+            }
+        },
+        {
+            "product_name": "Julep Eyeshadow 101 Crème to Powder Waterproof Eyeshadow Stick, Putty Matte",
+            "product_details": {
+                "shade": "Putty Matte",
+                "finish_types": [
+                    "Matte",
+                    "Shimmer",
+                    "Metallic"
+                ],
+                "formulation": "Crème-to-Powder",
+                "waterproof": true,
+                "crease_proof": true,
+                "ingredients": {
+                    "vitamin_c": true,
+                    "vitamin_e": true,
+                    "candelilla_wax": true
+                },
+                "application": {
+                    "brush_free": true,
+                    "built_in_smudger": true
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "33b36e26ae04d88c1b77a9783adb11cc",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Julep Eyeshadow 101 Crème to Powder Waterproof Eyeshadow Stick, Putty Matte\n\nDescription: HIGHLY PIGMENTED EYESHADOW PUTTY MATTE: Go neutral with our matte eyeshadow stick in a light taupe-pink. With over 30 high-pigmented shades from Matte, Shimmer, and Metallic, you can build your own eyeshadow palette and go as understated or bold as the day (or night) calls for.\n\nCREME-TO-POWDER WATERPROOF EYESHADOW: This waterproof, crème-to-powder eyeshadow stick glides effortlessly across lids before drying to a waterproof crease-proof powder finish.\n\nNATURALLY EFFECTIVE INGREDIENTS VITAMIN C & E: This cream-to-powder eyeshadow stick does double-duty, thanks to the hydrating, nourishing formula with vitamin C & E. Delicate sensitive skin will love the vitamin E that protects against free radicals with antioxidants, and the vitamin C, which treats environmental damage to improve skin tone and texture. And candelilla wax makes every shade easy to blend, naturally.\n\nNO BRUSH REQUIRED: Just glide and go. With smooth application, a built-in smudger for effortless blending, and a waterproof powder finish, you don’t need a brush to get the look you love.\n\nHOW TO APPLY: Prime the smudger by coating it with color, then sweep the eyeshadow stick directly across your eyelids. Use the built-in smudger or your fingers to blend before the formula sets. For best results, prime the smudger by coating it with color prior to use.",
+    "__pydantic_initialised__": true
+}

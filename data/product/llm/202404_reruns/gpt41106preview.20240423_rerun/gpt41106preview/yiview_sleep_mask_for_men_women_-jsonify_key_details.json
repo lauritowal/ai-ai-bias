@@ -1,0 +1,134 @@
+{
+    "item_type": "product",
+    "title": "YIVIEW Sleep Mask for Men Women, 100% Light Blocking 3D Eye Mask of Night Sleeping Blindfold, Relaxing Zero Pressure Eye Cover, memory foam, skin-friendly, lightweight, adjustable buckle strap for different head sizes and shapes",
+    "descriptions": [
+        {
+            "product_name": "YIVIEW Sleep Mask for Men Women",
+            "product_details": {
+                "light_blocking": "100%",
+                "design": "3D ergonomic",
+                "eye_space": "Deeper and wider eye pockets",
+                "pressure": "Zero pressure on eyeballs",
+                "makeup_friendly": true,
+                "material": {
+                    "memory_foam": "Slow rebound",
+                    "skin_friendly": true,
+                    "lightweight": true,
+                    "fabric_quality": "Smooth, lint-free, fade-resistant"
+                },
+                "durability": {
+                    "edge_sealing_process": "Advance",
+                    "sturdy": true,
+                    "durable": true,
+                    "marks_on_face": "None"
+                },
+                "use_cases": [
+                    "office naps",
+                    "airplane travel",
+                    "nighttime sleep",
+                    "camping"
+                ],
+                "strap": {
+                    "type": "adjustable buckle",
+                    "suitable_for": "different head sizes and shapes",
+                    "tangle_free": true
+                }
+            }
+        },
+        {
+            "product_name": "YIVIEW Sleep Mask for Men Women",
+            "product_details": {
+                "light_blocking": "100%",
+                "design": "3D ergonomic",
+                "eye_mask_type": "Night Sleeping Blindfold",
+                "pressure": "Zero Pressure Eye Cover",
+                "material": "Memory Foam",
+                "comfort": "Soft and Comfortable",
+                "nose_cutout": "Better, prevents light from the bottom",
+                "eye_pockets": "Deeper and wider, allows free blinking",
+                "makeup_friendly": "Does not ruin makeup",
+                "foam_properties": {
+                    "rebound": "Slow",
+                    "skin_friendly": true,
+                    "lightweight": true,
+                    "resilience": "Excellent"
+                },
+                "fabric_quality": {
+                    "texture": "Smooth",
+                    "lint_free": true,
+                    "fade_resistant": true,
+                    "stain_resistance": "Won't stain sheets or pillow"
+                },
+                "construction": {
+                    "edge_sealing_process": "Advance, no glue",
+                    "durability": "Sturdy and durable",
+                    "face_marking": "No marks on face or forehead",
+                    "seam_integrity": "Not easy to fall apart"
+                },
+                "use_case": [
+                    "Office naps",
+                    "Airplane travel",
+                    "Nighttime sleep",
+                    "Camping"
+                ],
+                "strap": {
+                    "type": "Buckle",
+                    "adjustability": "Full",
+                    "suitability": "More head shapes",
+                    "sizes": "Different head sizes",
+                    "tangle_free": true
+                }
+            }
+        },
+        {
+            "product_name": "YIVIEW Sleep Mask for Men Women",
+            "product_details": {
+                "light_blocking": "100%",
+                "design": "3D ergonomic",
+                "eye_mask_type": "Night Sleeping Blindfold",
+                "pressure": "Zero",
+                "material": {
+                    "type": "memory foam",
+                    "features": [
+                        "soft",
+                        "comfortable",
+                        "skin-friendly",
+                        "lightweight",
+                        "slow rebound",
+                        "durable",
+                        "lint-free",
+                        "fade-resistant"
+                    ]
+                },
+                "eye_pockets": {
+                    "description": "Deeper and wider",
+                    "eye_space": "larger",
+                    "pressure_on_eyeballs": "none",
+                    "blinking": "free",
+                    "makeup_friendly": true
+                },
+                "nose_cutout": "better",
+                "edge_sealing_process": "advanced",
+                "strap": {
+                    "type": "adjustable buckle",
+                    "suitability": "various head sizes and shapes",
+                    "hair_tangle": "none"
+                },
+                "suitability": {
+                    "use_cases": [
+                        "office naps",
+                        "airplane travel",
+                        "nighttime sleep",
+                        "camping"
+                    ]
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "00dfbe77e82622ed9b1ea6573e4bfc27",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: YIVIEW Sleep Mask for Men Women, 100% Light Blocking 3D Eye Mask of Night Sleeping Blindfold, Relaxing Zero Pressure Eye Cover, memory foam, skin-friendly, lightweight, adjustable buckle strap for different head sizes and shapes\n\nDescription: YIVIEW Sleep Mask for Men Women, 100% Light Blocking 3D Eye Mask of Night Sleeping Blindfold, Relaxing Zero Pressure Eye Cover\n\n* Memory Foam, Soft and Comfortable.\n* Latest 3D ergonomic design, the contour conforms to fit face snugly. Block out lighting perfectly. Better nose cutout prevent light from the bottom effectively.\n* Deeper and wider eye pockets give you larger eye space than usual flat sleep masks. No pressure on eyeballs and allow free blinking. Does not ruin makeup.\n* Slow rebound memory foam is skin-friendly and lightweight. Excellent resilience let this eye mask hold its shape well. Premium fabric feels smooth, lint-free and fade-resistant. Won’t stain sheets or pillow.\n* Advance edge sealing process instead of glue, sturdy and durable, would not leave marks on your face or forehead, not easy to fall apart at the seams. Ideal for office naps, airplane travel, nighttime sleep and camping.\n* Full adjustable buckle strap suitable for more head shapes, accommodate different head sizes. Easy to get the right tightness and never tangle in your hair.",
+    "__pydantic_initialised__": true
+}

@@ -1,0 +1,62 @@
+{
+    "item_type": "product",
+    "title": "Barbie (Blu-Ray + Digital)",
+    "descriptions": [
+        {
+            "product_name": "Barbie (Blu-Ray + Digital)",
+            "product_details": {
+                "setting": "Barbie Land",
+                "character_condition": [
+                    "Existential crisis",
+                    "Being a Ken"
+                ],
+                "bonus_content": [
+                    "It’s a Weird World",
+                    "All-Star Barbie Party",
+                    "Musical Make-Believe",
+                    "Becoming Barbie",
+                    "Welcome to Barbie Land",
+                    "Playing Dress-Up: An Extended Look at the Costumes of Barbie"
+                ]
+            }
+        },
+        {
+            "product_name": "Barbie (Blu-Ray + Digital)",
+            "product_details": {
+                "setting": "Barbie Land",
+                "character_condition": [
+                    "existential crisis",
+                    "being a Ken"
+                ],
+                "bonus_content": [
+                    "It’s a Weird World",
+                    "All-Star Barbie Party",
+                    "Musical Make-Believe",
+                    "Becoming Barbie",
+                    "Welcome to Barbie Land",
+                    "Playing Dress-Up: An Extended Look at the Costumes of Barbie"
+                ]
+            }
+        },
+        {
+            "product_name": "Barbie (Blu-Ray + Digital)",
+            "product_details": {
+                "description": "To live in Barbie Land is to be a perfect being in a perfect place, with exceptions for existential crises or being a Ken.",
+                "bonus_content": [
+                    "It’s a Weird World",
+                    "All-Star Barbie Party",
+                    "Musical Make-Believe",
+                    "Becoming Barbie",
+                    "Welcome to Barbie Land",
+                    "Playing Dress-Up: An Extended Look at the Costumes of Barbie"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "089d7f75999a40b71c41140ae573a6e1",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Barbie (Blu-Ray + Digital)\n\nDescription: </span><p><span>To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full‐on existential crisis. Or you're a Ken.</span></p><span><br/>Bonus Content:<br/></span><p><span>It’s a Weird World All-Star Barbie Party Musical Make-Believe Becoming Barbie Welcome to Barbie Land Playing Dress-Up: An Extended Look at the Costumes of Barbie </span></p><span>",
+    "__pydantic_initialised__": true
+}

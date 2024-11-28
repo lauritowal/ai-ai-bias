@@ -1,0 +1,67 @@
+{
+    "item_type": "product",
+    "title": "Mainstays Cool Mist Humidifier, 1 gallon, Black; low tank indicator; Dish washer safe; Humidity capacity: 142ml/h; Aroma tray; 3 speeds; mechanical knob; covers 320 sq. ft. area, weight: 6.33 lbs",
+    "descriptions": [
+        {
+            "product_name": "Mainstays Cool Mist Humidifier, 1 gallon, Black",
+            "product_details": {
+                "tank_capacity": "1 gallon",
+                "color": "Black",
+                "technology": "Cool mist evaporative",
+                "low_tank_indicator": true,
+                "dishwasher_safe": true,
+                "humidity_capacity_ml_per_hour": 142,
+                "aroma_tray": true,
+                "speed_settings": 3,
+                "control_type": "mechanical knob",
+                "coverage_area_sq_ft": 320,
+                "weight_lbs": 6.33,
+                "replacement_filter": "BestAir H62",
+                "empty_tank_protection": true
+            }
+        },
+        {
+            "product_name": "Mainstays Cool Mist Humidifier, 1 gallon, Black",
+            "product_details": {
+                "color": "Black",
+                "capacity_gallons": 1,
+                "mist_type": "Cool Mist",
+                "low_tank_indicator": true,
+                "dishwasher_safe": true,
+                "humidity_capacity_ml_per_hour": 142,
+                "aroma_tray": true,
+                "speed_settings": 3,
+                "control_type": "mechanical knob",
+                "coverage_area_sq_ft": 320,
+                "weight_lbs": 6.33,
+                "replacement_filter_compatibility": "BestAir H62",
+                "empty_tank_protection": true,
+                "evaporative_technology": true
+            }
+        },
+        {
+            "product_name": "Mainstays Cool Mist Humidifier, 1 gallon, Black",
+            "product_details": {
+                "tank_capacity": "1 gallon",
+                "color": "Black",
+                "low_tank_indicator": true,
+                "dishwasher_safe": true,
+                "humidity_capacity_ml_per_hour": 142,
+                "aroma_tray": true,
+                "speed_settings": 3,
+                "control_type": "mechanical knob",
+                "coverage_area_sq_ft": 320,
+                "weight_lbs": 6.33,
+                "replacement_filter_compatibility": "BestAir H62",
+                "empty_tank_protection": true,
+                "evaporative_technology": true
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "17851083b37a850376723cf948c4065b",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Mainstays Cool Mist Humidifier, 1 gallon, Black; low tank indicator; Dish washer safe; Humidity capacity: 142ml/h; Aroma tray; 3 speeds; mechanical knob; covers 320 sq. ft. area, weight: 6.33 lbs\n\nDescription: Mainstays Cool Mist Humidifier\n\nThe Mainstays black, 1-gallon, cool-mist humidifier uses evaporative technology to add moisture to dry rooms that have low relative humidity levels. The Mainstays black, cool-mist humidifier has a one-gallon water tank that is easy to remove for filling and is dishwasher safe for easy cleaning! The Mainstays black, 1-gallon, cool-mist humidifier is equipped with a low tank indicator with auto shut off and helps save energy when the tank is empty. Humidifiers offer many benefits to your environment, making your home a more comfortable and enjoyable place throughout the year. Consistent moisture helps to protect wood floors and furniture, and indoor plants. Reduced static electricity benefitting people, computers, and home electronics. The Mainstays black, 1-gallon, cool-mist humidifier adds moisture to the air, which makes the air feel warmer! – Now you could keep your thermostat lower while still feeling warm and comfortable during the winter months!\n\n    Replacement Filter: Compatible with BestAir H62\n    Dish washer safe\n    Humidity capacity: 142ml/h\n    Easy to clean\n    Aroma tray available\n    Empty tank protection\n    Large area coverage: humidifies areas up to 320 sq. ft.\n    3 speed settings -Adjustable Mechanical knob\n    Evaporative technology: adds moisture to any room\n    Lightweight: only 6.33 lbs",
+    "__pydantic_initialised__": true
+}

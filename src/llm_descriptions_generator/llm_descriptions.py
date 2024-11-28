@@ -1,26 +1,23 @@
 import logging
 import typing as t
 
+import openai
+import tiktoken
 from interlab.context import Context, FileStorage
 
-from llm_descriptions_generator.config import get_text_item_generation_prompt_config
+from llm_descriptions_generator.config import \
+    get_text_item_generation_prompt_config
 from llm_descriptions_generator.file_io import (
     generate_descriptions_filepath,
-    load_description_batch_from_json_file,
     load_all_academic_papers_as_description_batches,
-    load_all_human_description_batches,
-    load_all_llm_json_summary_batches,
-    save_description_batch_to_json_file,
-)
-from llm_descriptions_generator.prompt_generation import create_text_item_generation_prompt_from_config
+    load_all_human_description_batches, load_all_llm_json_summary_batches,
+    load_description_batch_from_json_file, save_description_batch_to_json_file)
+from llm_descriptions_generator.prompt_generation import \
+    create_text_item_generation_prompt_from_config
 from llm_descriptions_generator.query_llm import generate_llm_descriptions
 from llm_descriptions_generator.schema import (
-    PromptDescriptionSource,
-    Engine,
-    LlmGeneratedTextItemDescriptionBatch,
-    Origin,
-    TextItemDescriptionBatch,
-)
+    Engine, LlmGeneratedTextItemDescriptionBatch, Origin,
+    PromptDescriptionSource, TextItemDescriptionBatch)
 from storage import cache_friendly_file_storage
 
 DEFAULT_ENGINE = Engine.gpt35turbo
@@ -50,7 +47,6 @@ def generate_llm_descriptions_for_item_type(
         directory=True,
     ) as ctx:
         # ctx = current_context()
-
         generation_config = get_text_item_generation_prompt_config(
             item_type=item_type,
             prompt_nickname=prompt_nickname,
@@ -63,7 +59,6 @@ def generate_llm_descriptions_for_item_type(
                 item_type=item_type,
                 item_title_like=item_title_like,
             )
-            breakpoint()
         elif generation_config.description_source == PromptDescriptionSource.LLM_JSON_Summary:
             source_description_batches = load_all_llm_json_summary_batches(
                 item_type=item_type,
@@ -117,19 +112,25 @@ def generate_llm_descriptions_for_item_type(
 
                 # if existing_description_count < description_count:
                 # generate and save results one at a time in case of failures
-                llm_description_batch = generate_llm_descriptions(
-                    generation_prompt=generation_prompt,
-                    description_count=1,
-                    llm_engine=llm_engine,
-                    output_description_type=generation_config.output_description_type,
-                )
-                # merge existing descriptions with new
-                if existing_llm_description_batch:
-                    llm_description_batch.descriptions += existing_llm_description_batch.descriptions
-                save_description_batch_to_json_file(
-                    description_batch=llm_description_batch,
-                    filepath=filepath,
-                )
+                encoding = tiktoken.encoding_for_model("gpt-3.5-turbo-1106")
+                tokens = encoding.encode(generation_prompt.prompt_text)
+                if llm_engine == Engine.gpt35turbo1106 and len(tokens) >= 16385:
+                    print(f"Skip. prompt {generation_prompt.prompt_nickname} is too long for gpt35turbo1106")
+                else:
+                    llm_description_batch = generate_llm_descriptions(
+                        generation_prompt=generation_prompt,
+                        description_count=1,
+                        llm_engine=llm_engine,
+                        output_description_type=generation_config.output_description_type,
+                    )
+                    # merge existing descriptions with new
+                    if existing_llm_description_batch:
+                        llm_description_batch.descriptions += existing_llm_description_batch.descriptions
+                    save_description_batch_to_json_file(
+                        description_batch=llm_description_batch,
+                        filepath=
+                        filepath,
+                    )
 
         ctx.set_result(llm_description_batches)
         return llm_description_batches

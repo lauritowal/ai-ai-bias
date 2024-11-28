@@ -1,0 +1,122 @@
+{
+    "item_type": "product",
+    "title": "FIONOUT Banana Duck Plush Pillow Duck Stuffed Animal Cute Plushies White Stuffed Duck Toy for Girls Boys's Gifts White 50CM/19.6 in",
+    "descriptions": [
+        {
+            "product_name": "FIONOUT Banana Duck Plush Pillow",
+            "product_details": {
+                "material": "High-quality squishy plush and PP cotton",
+                "design": "Banana shape with duck face and feet, adorkable and lovely expression",
+                "size_options": [
+                    {
+                        "size": "50cm",
+                        "measurements": "19.6 inches"
+                    },
+                    {
+                        "size": "70cm",
+                        "measurements": "27.5 inches"
+                    }
+                ],
+                "uses": [
+                    "Throw pillow",
+                    "Bedroom decoration",
+                    "Sleeping partner"
+                ],
+                "color": "White",
+                "suitability": "Suitable for home and office",
+                "gift_suitability": "Perfect for festivals like Christmas, Birthday, Valentine's Day"
+            }
+        },
+        {
+            "product_name": "FIONOUT Banana Duck Plush Pillow Duck Stuffed Animal",
+            "product_details": {
+                "material": "High-quality squishy plush and PP cotton",
+                "softness": "Soft, comfortable, skin-friendly",
+                "durability": "Not easily deformed",
+                "design": {
+                    "shape": "Banana",
+                    "expression": "Lovely duck face and feet"
+                },
+                "sizes": [
+                    {
+                        "cm": 50,
+                        "inches": 19.6
+                    },
+                    {
+                        "cm": 70,
+                        "inches": 27.5
+                    }
+                ],
+                "color": "White",
+                "versatility": {
+                    "use_as_pillow": true,
+                    "use_for_decoration": true,
+                    "sleeping_companion": true
+                },
+                "suitability": {
+                    "home": true,
+                    "office": true
+                },
+                "gift_idea": {
+                    "occasions": [
+                        "Christmas",
+                        "Birthday",
+                        "Valentine's Day"
+                    ],
+                    "suitable_for": [
+                        "Kids",
+                        "Girls",
+                        "Girlfriend"
+                    ]
+                }
+            }
+        },
+        {
+            "product_name": "FIONOUT Banana Duck Plush Pillow",
+            "product_details": {
+                "material": "High-quality squishy plush and PP cotton",
+                "comfort": "Soft, comfortable and skin friendly",
+                "design": {
+                    "shape": "Banana",
+                    "features": "Lovely duck face and feet",
+                    "expression": "Adorkable"
+                },
+                "sizes": [
+                    {
+                        "cm": 50,
+                        "inches": 19.6
+                    },
+                    {
+                        "cm": 70,
+                        "inches": 27.5
+                    }
+                ],
+                "use_cases": [
+                    "Throw pillow",
+                    "Bedroom decoration",
+                    "Sleeping partner"
+                ],
+                "gift_suitability": {
+                    "occasions": [
+                        "Christmas",
+                        "Birthday",
+                        "Valentine's Day"
+                    ],
+                    "recipients": [
+                        "Kids",
+                        "Girls",
+                        "Girlfriend"
+                    ]
+                },
+                "color": "White",
+                "deformation": "Not easily deformed"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "21bd61149eb81250bbe8f0367e7bd7fb",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: FIONOUT Banana Duck Plush Pillow Duck Stuffed Animal Cute Plushies White Stuffed Duck Toy for Girls Boys's Gifts White 50CM/19.6 in\n\nDescription: [Soft Material]:Banana duck plush toys using high-quality squisy plush and PP cotton full filling,duck pillow is soft comfortable and skin friendly,not easily deformed.\n\n[Cute Design]:Banana plush use adorkable banana shape and lovely expression, banana pillow has a lovely duck face and feet.When you hug it or look at it,you will feel very warm.add more fun to your daily life.\n\n[Plush Pillow Size]: The cute plushie banana duck has two size can choose,is 50cm/19.6 in and 70cm/27.5 in,pretty good size.Suitable for home and office.\n\n[Widely Use]: The cute stuffed duck can not only be a throw pillows, but also can be used to decorate the bedroom, which can meet different needs.You can use this duck banana plush animal pillow as you or your kids sleeping partner!\n\n[Perfect Gift]: This cute stuffed animals make perfect gifts for any festival such as Christmas,Birthday,Valentine's Day! A Christmas gifts for kids, girls and girlfriend.Use banana shaped duck plush toy to express your love,No one would refuse such a lovely gift.",
+    "__pydantic_initialised__": true
+}

@@ -74,9 +74,9 @@ COMPARISON_PROMPTS = [
     ),
     ComparisonPromptConfig(
         item_type="paper",
-        prompt_key="literature_review",
+        prompt_key="literature_review_pick_one",
         item_type_name="Abstract",
-        comparison_question="The following are two abstracts from scientific papers relevant to a specific research field. Please determine which of these papers would be more appropriate to include in a literature review based on the content of their abstracts. Abstracts: \n\n:",
+        comparison_question="The following are two abstracts from scientific papers relevant to a specific research field. Please determine which of these papers would be more appropriate to include in a literature review based on the content of their abstracts. We can only include exactly one, not both. \n\n Please select one of the abstracts below:",
     ),
 ]
 def get_comparison_prompt_config(

@@ -1,0 +1,209 @@
+{
+    "item_type": "product",
+    "title": "Darkecho Gaming Office Chair with Footrest Massage Racing Ergonomic Leather Reclining Video Game Chair Adjustable Armrest High Back Gamer Chair with Headrest and Lumbar Support Purple;\nPremium soft PU leather; hand-sewing diamond cross stitching; USB powered lumbar pillow with massage function; chair back 90° to 155° reclining; smooth 360° swivel; height adjustable;\nrocking 15°; Armrests are adjustable up and down & right and left; armrest coated in soft PU leather; integrated metal frame and 5-point heavy duty anti-rollover wheelbase; 2000 miles rolling tests;\nthickened explosion-proof chassis and tilt mechanism control; adjust the chair angle by 90° To 155°; safety lock to prevent overturning; Durable SGS and BIFMA certificated gas cylinder. Maximum weight capacity: 330lb; One-month free return; 5 years chair parts free replacement warrant",
+    "descriptions": [
+        {
+            "product_name": "Darkecho Gaming Office Chair with Footrest Massage Racing Ergonomic Leather Reclining Video Game Chair",
+            "product_details": {
+                "color": "Purple",
+                "material": "Premium soft PU leather",
+                "stitching": "Hand-sewing diamond cross stitching",
+                "lumbar_pillow": {
+                    "USB_powered": true,
+                    "massage_function": true
+                },
+                "reclining": {
+                    "range": {
+                        "min": 90,
+                        "max": 155
+                    }
+                },
+                "swivel": "360°",
+                "height_adjustable": true,
+                "rocking": "15°",
+                "armrests": {
+                    "adjustable": {
+                        "vertical": true,
+                        "horizontal": true
+                    },
+                    "material": "Soft PU leather coated"
+                },
+                "frame": "Integrated metal",
+                "wheelbase": {
+                    "type": "5-point heavy duty anti-rollover",
+                    "rolling_tests": "2000 miles"
+                },
+                "chassis": "Thickened explosion-proof",
+                "tilt_mechanism": {
+                    "adjustable_angle_range": {
+                        "min": 90,
+                        "max": 155
+                    },
+                    "safety_lock": true
+                },
+                "gas_cylinder": "SGS and BIFMA certificated",
+                "weight_capacity": 330,
+                "warranty": {
+                    "return_policy": "One-month free return",
+                    "parts_replacement": "5 years"
+                },
+                "seat_cushion": {
+                    "thickness": 4.3,
+                    "material": "High density shaped foam"
+                },
+                "ergonomics": {
+                    "retractable_footrest": true,
+                    "headrest": "Detachable and adjustable",
+                    "lumbar_support": "Adjustable pillow"
+                },
+                "suitability": [
+                    "Gaming",
+                    "Office"
+                ],
+                "assembly": {
+                    "easy_to_assemble": true,
+                    "pre-assembled_screws": true
+                },
+                "customer_service": {
+                    "24_7_support": true
+                }
+            }
+        },
+        {
+            "product_name": "Darkecho Gaming Office Chair with Footrest Massage Racing Ergonomic Leather Reclining Video Game Chair",
+            "product_details": {
+                "color": "Purple",
+                "material": "Premium soft PU leather",
+                "stitching": "Hand-sewing diamond cross stitching",
+                "features": {
+                    "lumbar_pillow": {
+                        "USB_powered": true,
+                        "massage_function": true
+                    },
+                    "reclining": "90° to 155°",
+                    "swivel": "360°",
+                    "height_adjustable": true,
+                    "rocking": "15°",
+                    "armrests": {
+                        "adjustable": {
+                            "up_down": true,
+                            "right_left": true
+                        },
+                        "material": "Soft PU leather"
+                    }
+                },
+                "frame": "Integrated metal",
+                "wheelbase": "5-point heavy duty anti-rollover",
+                "rolling_tests": "2000 miles",
+                "chassis": "Thickened explosion-proof",
+                "tilt_mechanism": "Adjustable angle from 90° to 155°",
+                "safety_lock": true,
+                "gas_cylinder": "SGS and BIFMA certificated",
+                "maximum_weight_capacity": "330lb",
+                "warranty": {
+                    "return_policy": "One-month free return",
+                    "replacement": "5 years chair parts free replacement"
+                },
+                "seat_cushion": {
+                    "thickness": "4.3 in",
+                    "material": "High density shaped foam",
+                    "features": [
+                        "Great resilience",
+                        "Breathability"
+                    ]
+                },
+                "ergonomic_support": {
+                    "headrest": "Detachable and adjustable",
+                    "lumbar_support": "Adjustable"
+                },
+                "suitability": [
+                    "Gaming",
+                    "Office"
+                ],
+                "assembly": {
+                    "instructions_included": true,
+                    "pre-assembly_screws": true
+                },
+                "customer_service": {
+                    "24_7": true,
+                    "warranty_terms": {
+                        "return_policy": "One-month free return",
+                        "parts_replacement": "5 years"
+                    }
+                }
+            }
+        },
+        {
+            "product_name": "Darkecho Gaming Office Chair with Footrest Massage Racing Ergonomic Leather Reclining Video Game Chair Adjustable Armrest High Back Gamer Chair with Headrest and Lumbar Support Purple",
+            "product_details": {
+                "material": "Premium soft PU leather",
+                "stitching": "Hand-sewing diamond cross stitching",
+                "lumbar_pillow": {
+                    "feature": "USB powered with massage function"
+                },
+                "reclining": {
+                    "range": "90° to 155°"
+                },
+                "swivel": "360°",
+                "height_adjustable": true,
+                "rocking": "15°",
+                "armrests": {
+                    "adjustable": {
+                        "vertical": "up and down",
+                        "horizontal": "right and left"
+                    },
+                    "material": "soft PU leather"
+                },
+                "frame": "integrated metal",
+                "wheelbase": {
+                    "type": "5-point heavy duty anti-rollover",
+                    "rolling_tests": "2000 miles"
+                },
+                "chassis": "thickened explosion-proof",
+                "tilt_mechanism": {
+                    "control": "adjust the chair angle from 90° to 155°",
+                    "safety_lock": true
+                },
+                "gas_cylinder": {
+                    "certification": [
+                        "SGS",
+                        "BIFMA"
+                    ],
+                    "durability": "Durable"
+                },
+                "weight_capacity": "330lb",
+                "warranty": {
+                    "return_policy": "One-month free return",
+                    "parts_replacement": "5 years free"
+                },
+                "seat_cushion": {
+                    "thickness": "4.3 in",
+                    "material": "high density shaped foam",
+                    "features": [
+                        "resilient",
+                        "breathable"
+                    ]
+                },
+                "ergonomic_support": {
+                    "headrest": "adjustable and detachable",
+                    "lumbar_support": "adjustable and detachable"
+                },
+                "assembly": {
+                    "level_of_difficulty": "Easy",
+                    "instructions": "included",
+                    "screws_pre_assembly": true
+                },
+                "customer_service": {
+                    "availability": "24/7",
+                    "focus": "customer experience"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "32a4990908c3f722f64fd135f846755f",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Darkecho Gaming Office Chair with Footrest Massage Racing Ergonomic Leather Reclining Video Game Chair Adjustable Armrest High Back Gamer Chair with Headrest and Lumbar Support Purple;\nPremium soft PU leather; hand-sewing diamond cross stitching; USB powered lumbar pillow with massage function; chair back 90° to 155° reclining; smooth 360° swivel; height adjustable;\nrocking 15°; Armrests are adjustable up and down & right and left; armrest coated in soft PU leather; integrated metal frame and 5-point heavy duty anti-rollover wheelbase; 2000 miles rolling tests;\nthickened explosion-proof chassis and tilt mechanism control; adjust the chair angle by 90° To 155°; safety lock to prevent overturning; Durable SGS and BIFMA certificated gas cylinder. Maximum weight capacity: 330lb; One-month free return; 5 years chair parts free replacement warrant\n\nDescription: Exquisite Quilted Leather: Premium soft PU leather accented with hand-sewing diamond cross stitching, more comfortable and durable than normal leather, giving better cushioning and support like sleeping on mattress,skin-friendly,waterproof,Dirt,Fade&Tear resistant and easy to clean. 4.3 in thick seat cushion made of high density shaped foam,it has great resilience and breathability ,comfortable to sit for long time working and gaming .\n\nErgonomic Comfort: The USB powered lumbar pillow has massage function which can effectively reduce fatigue. The chair back 90° to 155° reclining and The retractable footrest make you relax like sleep in bed.The detachable and adjustable headrest pillow and lumbar support pillow give multi-point support to disperse the spine and body pressure, ensuring your comfortable and ideal posture in the gaming and working.\n\nMulti-Functions and Perfect Gift: Perfect for both gaming and office scenes. The chair back 90° to 155° reclining and The retractable footrest make you relax like sleep in bed. smooth 360° swivel and chair Height adjustable. rocking 15° back and forth comfortably. 2D Armrests are adjustable in up and down & right and left, while the armrest pad is coated in soft PU leather. A perfect gift for birthday, Valentine’s, Thanksgiving day, Christmas gift.\n\nSturdy Structure: Strong integrated metal frame and 5-point heavy duty anti-rollover wheelbase makes the chair Extremely stable .Upgraded PU casters with 2000 miles rolling tests roll quite smoothly and noiseless and protect floor well.The thickened explosion-proof chassis and tilt mechanism control can adjust the chair angle by 90° To 155° at any angle，Safety lock design to prevent overturning. Durable SGS and BIFMA certificated gas cylinder. Maximum weight capacity: 330lb\n\nEasy to Assemble and Excellent Service: Detail instructions included in the package. We have screws pre-assembly to avoid screws assembly trouble.Your satisfaction is our top concern.If you have any problem, please contact us. 24/7 customer services team all for purchase experience. One-month free return and 5 years chair parts free replacement warranty.",
+    "__pydantic_initialised__": true
+}

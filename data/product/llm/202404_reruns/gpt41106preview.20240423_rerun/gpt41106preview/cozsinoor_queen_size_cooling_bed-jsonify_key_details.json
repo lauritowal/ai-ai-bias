@@ -1,0 +1,100 @@
+{
+    "item_type": "product",
+    "title": "COZSINOOR Queen Size Cooling Bed Pillows for Sleeping: Hotel Quality, Set of 2 - Down Alternative Microfiber Filled for Back, Stomach, Side Sleepers, Breathable, and Skin-Friendly",
+    "descriptions": [
+        {
+            "product_name": "COZSINOOR Queen Size Cooling Bed Pillows for Sleeping",
+            "product_details": {
+                "quantity": 2,
+                "material": "Down Alternative Microfiber",
+                "filling": "Plush hollow fiber",
+                "suitable_for": [
+                    "Back sleepers",
+                    "Stomach sleepers",
+                    "Side sleepers"
+                ],
+                "features": {
+                    "breathable": true,
+                    "skin_friendly": true,
+                    "no_shift_construction": true,
+                    "machine_washable": true,
+                    "tumble_dry": true,
+                    "vacuum_packed": true
+                },
+                "care_instructions": {
+                    "wash_temperature": 30,
+                    "tumble_dry_setting": "low"
+                },
+                "size": "Queen",
+                "cover_material": "Polyester blend",
+                "wait_time_before_use": "24 hours"
+            }
+        },
+        {
+            "product_name": "COZSINOOR Queen Size Cooling Bed Pillows for Sleeping",
+            "product_details": {
+                "quantity": 2,
+                "size": "Queen",
+                "type": "Cooling Bed Pillows",
+                "fill_material": "Down Alternative Microfiber",
+                "suitable_for": [
+                    "Back Sleepers",
+                    "Stomach Sleepers",
+                    "Side Sleepers"
+                ],
+                "cover_material": "Polyester Blend",
+                "breathable": true,
+                "skin_friendly": true,
+                "care_instructions": {
+                    "machine_washable": true,
+                    "wash_temperature": 30,
+                    "tumble_dry": true,
+                    "tumble_dry_settings": "Low"
+                },
+                "features": {
+                    "plush_hollow_fiber_filling": true,
+                    "retains_shape": true,
+                    "neck_support": true,
+                    "no_shift_construction": true
+                },
+                "vacuum_packed": true,
+                "recommended_waiting_time": 24
+            }
+        },
+        {
+            "product_name": "COZSINOOR Queen Size Cooling Bed Pillows for Sleeping",
+            "product_details": {
+                "size": "Queen",
+                "quantity": 2,
+                "fill_material": "Hollow fiber",
+                "cover_material": "Polyester blend",
+                "suitable_for": [
+                    "Back sleepers",
+                    "Stomach sleepers",
+                    "Side sleepers"
+                ],
+                "features": {
+                    "cooling": true,
+                    "breathable": true,
+                    "skin_friendly": true,
+                    "supportive": true,
+                    "machine_washable": true,
+                    "tumble_dry": true,
+                    "no_shift_construction": true
+                },
+                "care_instructions": {
+                    "machine_wash_temperature": "30°C",
+                    "tumble_dry_setting": "Low"
+                },
+                "packaging": "Vacuum-packed",
+                "recommended_wait_time": "24 hours"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4e74ab40dd9039963da87e3d0129030d",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: COZSINOOR Queen Size Cooling Bed Pillows for Sleeping: Hotel Quality, Set of 2 - Down Alternative Microfiber Filled for Back, Stomach, Side Sleepers, Breathable, and Skin-Friendly\n\nDescription: Pillow Perfect Balance: Our neck pillow strikes the perfect balance between softness and support. Filled with plush hollow fiber, our pillows for bed provide a soft, cloud-like sleeping experience while maintaining their shape without going flat. Say goodbye to neck pain and headaches upon waking!\n\nBreathable, Skin-Friendly Cover: Our bed pillows queen size set of 2 feature a breathable, hotel-quality polyester blend cover, enhancing their luxurious look and feel, ensuring a comfortable sleeping experience night after night.\n\nSupportive Comfort & Home Luxury: Experience five-star hotel luxury with our down pillow's no-shift construction. Suitable for side and back sleepers, our pillow offers you the ultimate supportive comfort, fluffy and cloud-like. A perfect addition to your bed!\n\nEasy Home Care: Our pillows are machine washable at 30°C, tumble dry on low, and always retain their new look! Our carefully selected and inspected materials ensure our pillows' durability to daily usage. Included in the set are two queen size pillows.\n\nSafe & Sound Sleep: Our COZSINOOR pillows are vacuum-packed for freshness. We recommend waiting 24 hours before using it for the best experience. We're confident you'll love your new pillows and enjoy a safe, sound sleep!",
+    "__pydantic_initialised__": true
+}

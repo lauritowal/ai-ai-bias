@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 import time
 import typing as t
 
@@ -26,8 +27,6 @@ from llm_descriptions_generator.schema import (
 MAX_SUPER_RETRY_COUNT = 10
 SUPER_RETRY_WAIT_INTERVAL_SECONDS = 60
 
-
-
 # @with_context(
 #     name="generate_many_descriptions",
 #     storage=DEFAULT_STORAGE,
@@ -49,7 +48,16 @@ def generate_llm_descriptions(
     )
     
     descriptions: list[str] = []
-    engine = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+    if llm_engine in [Engine.gpt35turbo, Engine.gpt35turbo1106, Engine.gpt4turbo]:
+        logging.info(f"Querying OpenAI servers for: {llm_engine}")
+        engine = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+    else:
+        logging.info(f"Assuming {llm_engine} is running locally")
+        engine = langchain.chat_models.ChatOpenAI(
+            model_name=llm_engine,
+            max_tokens=-1,
+            openai_api_base=os.getenv('LOCAL_LLM_API_BASE'),
+        )
 
     # with Context(
     #     "BATCH generate_llm_descriptions",

@@ -1,22 +1,18 @@
 import json
 import logging
-from pathlib import Path
 import re
+from pathlib import Path
+from typing import Literal, Optional
+
 import toml
-from typing import Optional, Literal
 
 from llm_descriptions_generator.schema import (
-    Engine,
-    HumanTextItemDescriptionBatch,
-    LlmGeneratedTextItemDescriptionBatch,
-    Origin,
-    TextItemDescriptionBatch,
-)
+    Engine, HumanTextItemDescriptionBatch,
+    LlmGeneratedTextItemDescriptionBatch, Origin, TextItemDescriptionBatch)
 
 THIS_FILE_DIR = Path(__file__).parent.resolve()
 DATA_DIR = THIS_FILE_DIR / "../../data"
 
-PAPERS_HUMAN_SOURCE_SUBDIR_NAME = "xml"
 
 # DEPRECATED (see json files instead)
 def load_human_text_item_descriptions_from_toml_file(
@@ -159,8 +155,6 @@ def load_all_academic_papers_as_description_batches(
         item_type=item_type,
         origin=Origin.Human,
     )
-    # use special subdirectory to source the papers info
-    dirpath = dirpath / PAPERS_HUMAN_SOURCE_SUBDIR_NAME
     
     filepaths = []
     if item_title_like:
