@@ -175,3 +175,5 @@ tmp
 
 # oversized hammer that enables sharing cached runs
 !context_cache/
+
+logs/

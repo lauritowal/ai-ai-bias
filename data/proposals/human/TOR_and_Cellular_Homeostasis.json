@@ -1,0 +1,6 @@
+{
+    "item_type": "proposal",
+    "title": "TOR and Cellular Homeostasis",
+    "abstract": "The Target Of Rapamycin (TOR) proteins are ser/thr kinases conserved in Eukarya. They nucleate two distinct multiprotein complexes, named TORC1 and TORC2, which regulate many, widely varying, aspects of cell and organism physiology. TOR inhibitors, such as rapamycin and derivatives, are used clinically to treat cancer, cardio-vasculature disease and to prevent organ rejection. We recently reported that both TORC1/2 are wired in feedback loops, where their downstream cellular effectors are at the same time upstream regulators. It is this feedback loop that ultimately mediates the intrinsic role of TORC1/2 in cellular homeostasis: TORC1/2 detects deviations from a steady-state condition and by means of these feedback loops returns the cell to its homeostatic situation. We propose to systematically identify the TORC1/2 homeostatic signalling loops. Subsequent characterization will focus on the signalling networks controlling intermediary metabolism. Our ultimate goal is to comprehensively unravel the TORC1/2-dependent metabolic networks composed of regulatory feedback loops which will reveal the fundamental role of the TOR Complexes as molecular devices to achieve cellular homeostasis.",
+    "origin": "Human"
+}
