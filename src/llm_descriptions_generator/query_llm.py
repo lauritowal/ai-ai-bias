@@ -22,6 +22,7 @@ from llm_descriptions_generator.schema import (
     LlmGeneratedTextItemDescriptionBatch,
     TextItemGenerationPrompt,
     Origin,
+    ProposalDetailsJson
 )
 
 MAX_SUPER_RETRY_COUNT = 10
@@ -72,7 +73,7 @@ def generate_llm_descriptions(
     #     directory=True,
     # ) as ctx:
     for i in range(description_count):
-        def query_llm_for_new_description() -> t.Union[str, ProductDetailsJson]:
+        def query_llm_for_new_description():
             # TODO: make retry logic more flexible and/or better integrated with interlab/langchain tooling
             try:
                 if output_description_type:

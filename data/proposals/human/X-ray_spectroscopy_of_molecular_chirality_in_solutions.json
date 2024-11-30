@@ -1,6 +1,0 @@
-{
-    "item_type": "proposal",
-    "title": "X-ray spectroscopy of molecular chirality in solutions",
-    "abstract": "The purpose of this proposal is to implement X-ray circular and helical dichroism to investigate the structure and chemical dynamics of molecular systems in solution. The proposal entails first establishing the concepts and observables of X-ray dichroism in steady-state studies both in the soft and hard X-ray ranges, and then implementing time-resolved X-ray circular and helical dichroism spectroscopies as probes of the chemical dynamics.",
-    "origin": "Human"
-}

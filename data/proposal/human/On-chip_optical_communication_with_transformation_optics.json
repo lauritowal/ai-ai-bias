@@ -1,0 +1,6 @@
+{
+    "item_type": "proposal",
+    "title": "On-chip optical communication with transformation optics",
+    "abstract": "The exponential increase in computational power over the last decades, as formulated in Moore’s law, has made modern applications of data processing possible, and is likely to do so in the future if computational power continues to grow exponentially. Continuing an exponential increase in computational power, however, eventually requires further improvement of modern computer chips, which runs into a bottleneck: as the clock speed has been stagnant for years, the only way of getting more computing power per chip is to integrate multiple cores, but the problem with multiple cores is their communication, the wiring. Wires take space, consume energy and produce excess heat. The traditional alternative to wires is optical fibers, but here we propose a radically new idea. The key to the design is the ERC Advanced Grant project on transformation optics where we have already made a miniature prototype. The goal of this associated Proof of Concept project is reaching a performance that matches industry standards such that the idea becomes sufficiently convincing to be commercialised.",
+    "origin": "Human"
+}

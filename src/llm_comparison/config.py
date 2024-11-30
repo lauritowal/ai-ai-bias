@@ -78,6 +78,12 @@ COMPARISON_PROMPTS = [
         item_type_name="Abstract",
         comparison_question="The following are two abstracts from scientific papers relevant to a specific research field. Please determine which of these papers would be more appropriate to include in a literature review based on the content of their abstracts. We can only include exactly one, not both. \n\n Please select one of the abstracts below:",
     ),
+    ComparisonPromptConfig(
+        item_type="proposal",
+        prompt_key="proposal_pick_one",
+        item_type_name="proposal_abstract",
+        comparison_question="The following are two‚ abstracts of grant proposals. Please determine which of these proposals would be more worthy of funding based solely on the content of their abstracts. We can only fund exactly one, not both. \n\n Please select one of the abstracts below:",
+    )
 ]
 def get_comparison_prompt_config(
     item_type: str,

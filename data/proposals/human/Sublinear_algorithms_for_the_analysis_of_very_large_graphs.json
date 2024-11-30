@@ -1,6 +1,0 @@
-{
-    "item_type": "proposal",
-    "title": "Sublinear algorithms for the analysis of very large graphs",
-    "abstract": "Large graphs appear in many application areas. Typical examples are the webgraph, the internet graph, friendship graphs of social networks like facebook or Google+, citation graphs, collaboration graphs, and transportation networks. The structure of these graphs contains valuable information but their size makes them very hard to analyze. We need special algorithm that analyze the graph structure via random sampling. The main objective of the proposed project is to advance our understanding of the foundations of sampling processes for the analysis of the structure of large graphs. We will use the approach of Property Testing, a theoretical framework to analyze such sampling algorithms.",
-    "origin": "Human"
-}

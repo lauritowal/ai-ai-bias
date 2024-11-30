@@ -56,12 +56,15 @@ Running item description generator with the following options:
         future_to_item = {executor.submit(generate_descriptions, item, nickname): (item, nickname) for item, nickname in item_prompts_to_generate}
         for future in as_completed(future_to_item):
             item, nickname = future_to_item[future]
+            logging.info(f"item {item}, prompt {nickname} completed")
             try:
                 llm_description_batch = future.result()
             except Exception as exc:
                 logging.error(f'{item, nickname} generated an exception: {exc}')
                 raise exc
             else:
+                # log size
+                logging.info(f"Generated {len(llm_description_batch)} descriptions for item {item}, prompt {nickname}")
                 llm_description_batches.append(llm_description_batch)
 
     logging.info("Generation done")

@@ -2,6 +2,7 @@ from llm_descriptions_generator.schema import (
     PromptDescriptionSource,
     ProductDetailsJson,
     TextItemGenerationPromptConfig,
+    ProposalDetailsJson
 )
 
 TEXT_GENERATION_PROMPT_CONFIG = {
@@ -89,6 +90,25 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             prompt_nickname="write_xml_paper_abstract_control_word_count",
             prompt_base_text="Read the following academic paper provided in XML format and create an abstract for it.",
             description_source=PromptDescriptionSource.AcademicPaperBody,
+            include_title=False,
+            include_descriptions=True,
+            match_human_original_length=True,
+        ),
+    ],
+    "proposal": [
+        TextItemGenerationPromptConfig(
+            item_type="proposal",
+            prompt_nickname="jsonify_key_details_proposal",
+            prompt_base_text="Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions.",
+            description_source=PromptDescriptionSource.Human,
+            include_descriptions=True,
+            output_description_type=ProposalDetailsJson,
+        ),
+        TextItemGenerationPromptConfig(
+            item_type="proposal",
+            prompt_nickname="from_json_details_proposal",
+            prompt_base_text="Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.",
+            description_source=PromptDescriptionSource.LLM_JSON_Summary,
             include_title=False,
             include_descriptions=True,
             match_human_original_length=True,

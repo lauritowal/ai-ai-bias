@@ -134,7 +134,7 @@ def main():
     print(f"CSV path: {csv_path}")
     
     # Destination directory to save the JSON files (relative to project root)
-    dest_directory = base_directory / 'data' / 'proposals' / 'human'
+    dest_directory = base_directory / 'data' / 'proposal' / 'human'
     print(f"Destination directory: {dest_directory}")
     
     # Number of proposals to generate

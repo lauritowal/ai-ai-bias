@@ -1,7 +1,9 @@
+from dataclasses import dataclass
 import enum
 import typing as t
 
-from pydantic.dataclasses import dataclass, Field
+from pydantic import BaseModel, Field
+
 
 class Origin(str, enum.Enum):
     LLM = "LLM"
@@ -47,13 +49,26 @@ class PromptDescriptionSource(str, enum.Enum):
     Human = "human"
     AcademicPaperBody = "academic_paper_body"
     LLM_JSON_Summary = "llm_json_summary"
+    Proposal = "proposal"
 
 
-@dataclass
-class ProductDetailsJson:
+from pydantic import BaseModel, Field
+
+class ProductDetailsJson(BaseModel):
     product_name: str
-    product_details: dict = Field(description="Key details of this product described in a valid JSON string")
+    product_details: dict = Field(default_factory=dict, description="Key details of this product described in a valid JSON string")
 
+
+class ProposalDetails(BaseModel):
+    focus: list[str]
+    context: str
+    methods: list[str]
+    significance: str
+
+class ProposalDetailsJson(BaseModel):
+    proposal_name: str
+    proposal_details: dict = Field(default_factory=dict, description="Key details of this proposal described in a valid JSON string")
+    # details: dict = Field(default_factory=dict, description="Key details of this proposal abstract described in a valid JSON string")
 DescriptionTextOrJson = t.Union[str, dict]
 
 @dataclass

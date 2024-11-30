@@ -78,7 +78,7 @@ def generate_llm_descriptions_for_item_type(
                 config=generation_config,
                 source_description_batch=source_description_batch,
             )
-
+            
             filepath = generate_descriptions_filepath(
                 title=generation_prompt.item_title, 
                 item_type=generation_prompt.item_type,
@@ -87,13 +87,11 @@ def generate_llm_descriptions_for_item_type(
                 prompt_key=generation_prompt.prompt_nickname,
                 llm_engine=llm_engine,
             )
-
             # queries to LLM take a while and often error out, so:
             # - save every item to local files as they are generated
             # - cache past generated descriptions to local files
             # - pick up where we left off, and skip generating new 
             #   files if the target count has already been generated
-
             for i in range(description_count):
                 if not filepath.exists():
                     logging.info(f"No existing data found at: {filepath}")
@@ -123,6 +121,7 @@ def generate_llm_descriptions_for_item_type(
                         llm_engine=llm_engine,
                         output_description_type=generation_config.output_description_type,
                     )
+                    
                     # merge existing descriptions with new
                     if existing_llm_description_batch:
                         llm_description_batch.descriptions += existing_llm_description_batch.descriptions
@@ -131,6 +130,5 @@ def generate_llm_descriptions_for_item_type(
                         filepath=
                         filepath,
                     )
-
         ctx.set_result(llm_description_batches)
         return llm_description_batches
