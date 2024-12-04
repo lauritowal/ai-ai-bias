@@ -1,0 +1,166 @@
+{
+    "item_type": "proposal",
+    "title": "Ultrasensitive Quantification of Proteins based on Amplification of DNA Displaced from DNA Aptamer Duplex using Semiconductor Technology",
+    "descriptions": [
+        {
+            "proposal_name": "Ultrasensitive Quantification of Proteins based on Amplification of DNA Displaced from DNA Aptamer Duplex using Semiconductor Technology",
+            "proposal_details": {
+                "life_expectancy_decline_year": 2015,
+                "premature_deaths_preventable_percentage": 33,
+                "obesity_risk_factor_for_diseases": true,
+                "worldwide_adults_overweight_percentage": 40,
+                "worldwide_adults_obese_percentage": 13,
+                "regulation_of_food_metabolism_relevance": "human health",
+                "obesity_preventability": true,
+                "current_obesity_treatments": "non-invasive and cost-effective",
+                "leptin_role": "regulating appetite and weight",
+                "leptin_concentration_correlation": "body fat mass",
+                "leptin_concentration_change_rate": "greater than weight loss",
+                "leptin_monitoring_medium": "saliva",
+                "leptin_as_diet_efficiency_measure": true,
+                "leptin_plasma_salivary_correlation": true,
+                "previous_work": "ERC Synergy Grant",
+                "previous_work_technology": "aptamer based approach",
+                "patent_status": "under preparation",
+                "quantification_technique": "real-time Loop Mediated Isothermal Amplification",
+                "technology_platform": "Ion Sensitive Field Effect Transistor lab-on-chip arrays",
+                "funding_purpose": "develop PoC platform",
+                "technology_advantages": [
+                    "linear label-free detection",
+                    "ultrasensitive",
+                    "reduced complexity",
+                    "reduced time-to-result",
+                    "reduced cost"
+                ],
+                "technology_applications": [
+                    "obesity",
+                    "anorexia",
+                    "appetite control"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Ultrasensitive Quantification of Proteins based on Amplification of DNA Displaced from DNA Aptamer Duplex using Semiconductor Technology",
+            "proposal_details": {
+                "life_expectancy_decline_year": 2015,
+                "regions": [
+                    "EU",
+                    "US"
+                ],
+                "preventable_premature_deaths": "one third",
+                "obesity_link_to_premature_deaths": true,
+                "adults_overweight_percentage": 40,
+                "adults_obesity_percentage": 13,
+                "importance": "Regulation of food metabolism",
+                "obesity_preventability": true,
+                "current_treatments": {
+                    "non_invasive": false,
+                    "cost_effective": false
+                },
+                "hormone_of_interest": "Leptin",
+                "leptin_function": [
+                    "regulating appetite",
+                    "weight control"
+                ],
+                "leptin_correlation": {
+                    "concentration_to_body_fat": true,
+                    "change_rate_compared_to_weight_loss": true
+                },
+                "leptin_use": "measure of diet efficiency",
+                "correlation_between_levels": {
+                    "plasma": true,
+                    "salivary": true
+                },
+                "monitoring_method": "saliva",
+                "PoC": "point-of-care",
+                "previous_work": {
+                    "grant_type": "ERC Synergy Grant",
+                    "development": "aptamer based approach for quantitative detection of protein molecules",
+                    "method": "nucleic acid amplification"
+                },
+                "patent_status": "under preparation",
+                "amplification_technique": "real-time Loop Mediated Isothermal Amplification",
+                "technology": "Ion Sensitive Field Effect Transistor lab-on-chip arrays",
+                "funding_purpose": "develop PoC platform",
+                "assay_features": {
+                    "linear_label_free_detection": true,
+                    "ultrasensitive": true,
+                    "reduced_complexity": true,
+                    "faster_time_to_result": true,
+                    "lower_cost": true
+                },
+                "additional_applications": [
+                    "obesity",
+                    "anorexia"
+                ],
+                "descriptions": [
+                    "Novel molecular method enables broader protein target quantification and highly sensitive PoC techniques for protein quantification."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Ultrasensitive Quantification of Proteins based on Amplification of DNA Displaced from DNA Aptamer Duplex using Semiconductor Technology",
+            "proposal_details": {
+                "life_expectancy_decline": {
+                    "year": 2015,
+                    "regions": [
+                        "EU",
+                        "US"
+                    ]
+                },
+                "preventable_premature_deaths": "one third",
+                "obesity_statistic": {
+                    "overweight_adults_percentage": 40,
+                    "obese_adults_percentage": 13
+                },
+                "regulation_of_food_metabolism": "main issue",
+                "obesity_prevention": "non-invasive and cost-effective treatments not available",
+                "leptin_function": "regulating appetite and weight",
+                "leptin_as_a_measure": {
+                    "correlation_with_body_fat": true,
+                    "rate_change_compared_to_weight_loss": "greater"
+                },
+                "leptin_monitoring": {
+                    "plasma_vs_saliva_correlation": true,
+                    "method": "saliva",
+                    "application": "monitoring diet efficiency"
+                },
+                "existing_project": "ERC Synergy Grant",
+                "proposed_technology": {
+                    "approach": "aptamer based",
+                    "detection_method": "quantitative detection of protein molecules",
+                    "amplification_method": "nucleic acid amplification",
+                    "patent_status": "under preparation"
+                },
+                "quantification_technique": "real-time Loop Mediated Isothermal Amplification",
+                "detection_device": "Ion Sensitive Field Effect Transistor lab-on-chip arrays",
+                "development_stage": "further development needed",
+                "proposed_solution": {
+                    "platform": "PoC",
+                    "features": [
+                        "linear label-free",
+                        "ultrasensitive protein detection",
+                        "reduced complexity",
+                        "reduced time-to-result",
+                        "cost-effective assay"
+                    ]
+                },
+                "potential_applications": [
+                    "appetite control",
+                    "obesity management",
+                    "anorexia"
+                ],
+                "descriptions": [
+                    {
+                        "development_goal": "creation of one of the most sensitive PoC techniques for protein quantification"
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "b30fb659bf6039c0767f3c11c8ba810f",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nUltrasensitive Quantification of Proteins based on Amplification of DNA Displaced from DNA Aptamer Duplex using Semiconductor Technology\n\n**Description:**\n\nThe life expectancy in both EU and US fell in 2015. A third of premature deaths could be preventable and large part is due to obesity – a major risk factor for many chronic diseases including diabetes. Worldwide about 40% of adults are overweight and 13% obese. Regulation of food metabolism is becoming one of the main issues relevant to human health today. Obesity is preventable, however there are no currently available non-invasive and cost-effective obesity treatments, pointing to the need of novel diagnostic and prognostic tests. Leptin, a gut-hormone protein, has been shown to be crucial in regulating appetite and weight. Its concentration is proportional to the body fat mass, and changes at a greater rate compared to weight loss, therefore it can be used as a key measure of diet efficiency. Strong correlation between plasma and salivary leptin levels allows monitoring leptin in saliva, and provides point-of-care (PoC) personalised insight into the success of individual weight loss programs. During our ERC Synergy Grant we have developed an aptamer based approach to perform quantitative detection of protein molecules using nucleic acid amplification to overcome the complexities of current methods to enable PoC detection. The key idea (Patent appl. under preparation) is to amplify and quantify DNA displaced from DNA-aptamer complexes by Leptin molecules with real-time Loop Mediated Isothermal Amplification. We will use an Ion Sensitive Field Effect Transistor lab-on-chip arrays. Now we need funds to further develop this technology and create a PoC platform to provide linear label-free ultrasensitive protein detection, reducing complexity, time-to-result and cost of the assay. Furthermore, the development of this novel molecular method will enable quantification of a broader number of protein targets and create one of the most sensitive PoC techniques for protein quantification, with applications far beyond appetite control (obesity, anorexia etc) management."
+}

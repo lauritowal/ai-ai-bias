@@ -1,0 +1,146 @@
+{
+    "item_type": "proposal",
+    "title": "Heterogeneous integration of imprecise memory devices to enable learning from a very small volume of noisy data",
+    "descriptions": [
+        {
+            "proposal_name": "Heterogeneous integration of imprecise memory devices to enable learning from a very small volume of noisy data",
+            "proposal_details": {
+                "inspiration_source": "insect's nervous system",
+                "aim": "enable learning from a very limited volume of noisy data using resistive memories",
+                "technology_focus": [
+                    "brain inspired computing architectures",
+                    "resistive memory technologies"
+                ],
+                "challenge": "low-power device implementation of algorithms",
+                "ideal_memory_characteristics": {
+                    "density": "very high",
+                    "reliability": "high",
+                    "volatility": "non-volatile",
+                    "endurance": "infinite"
+                },
+                "current_memory_limitations": {
+                    "density": "limited",
+                    "endurance": "low"
+                },
+                "inspiration_animal": "cricket",
+                "proposed_solution": {
+                    "technology_type": "new",
+                    "attributes": [
+                        "high power efficiency",
+                        "robust cognitive computing capabilities"
+                    ]
+                },
+                "potential_applications": [
+                    "service and consumer robotics",
+                    "implantable medical diagnostic microchips",
+                    "wearable electronics"
+                ],
+                "descriptions": [
+                    "This project proposes a cross-disciplinary approach to develop a new technology that enables robust cognitive behaviour in hardware/software platforms, drawing inspiration from the cricket's nervous system and using resistive memories."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Heterogeneous integration of imprecise memory devices to enable learning from a very small volume of noisy data",
+            "proposal_details": {
+                "inspiration_source": "neuroscience",
+                "algorithm_purpose": "real-time decision making",
+                "data_characteristics": {
+                    "volume": "limited",
+                    "type": "noisy sensory"
+                },
+                "implementation_challenge": "energy inefficiency",
+                "separation_issue": {
+                    "logic": true,
+                    "memory": true
+                },
+                "development_duration": 10,
+                "technologies_developed": [
+                    "brain inspired computing architectures",
+                    "novel resistive memory technologies"
+                ],
+                "ideal_memory_features": {
+                    "density": "very high",
+                    "reliability": "high",
+                    "volatility": "non-volatile",
+                    "endurance": "infinite"
+                },
+                "existence_of_ideal_memory": false,
+                "project_name": "DIVERSE",
+                "project_aim": "enable learning from limited noisy data",
+                "memory_type": "imperfect resistive",
+                "memory_characteristics": {
+                    "density": "limited",
+                    "endurance": "low"
+                },
+                "inspiration_animal": "insect",
+                "specific_animal_model": "cricket's nervous system",
+                "proposer_experience": "resistive memories",
+                "proposed_solution": "new technology",
+                "solution_capabilities": {
+                    "cognitive_behaviour": "robust",
+                    "power_efficiency": "extremely high"
+                },
+                "platform_characteristics": {
+                    "hardware_software_integration": true,
+                    "cognitive_computing_capabilities": "robust"
+                },
+                "application_domains": [
+                    "service robotics",
+                    "consumer robotics",
+                    "implantable medical diagnostic microchips",
+                    "wearable electronics"
+                ],
+                "descriptions": [
+                    "This project takes inspiration from the insect’s nervous system to develop new technology for learning from noisy data with resistive memories."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Heterogeneous integration of imprecise memory devices to enable learning from a very small volume of noisy data",
+            "proposal_details": {
+                "AI_community_inspiration": "neuroscience",
+                "goal": "enable effective real-time decision making",
+                "data_characteristics": "limited volume, noisy",
+                "current_challenge": "energy inefficiency due to logic-memory separation",
+                "research_duration": 10,
+                "developments": [
+                    "brain inspired computing architectures",
+                    "novel resistive memory technologies"
+                ],
+                "ideal_memory_features": {
+                    "high_density": true,
+                    "reliability": true,
+                    "non_volatility": true,
+                    "infinite_endurance": true
+                },
+                "existence_of_ideal_memory": false,
+                "project_inspiration": "insect's nervous system",
+                "project_name": "DIVERSE",
+                "project_aim": "enable learning from limited, noisy data with imperfect memories",
+                "analogy_basis": "cricket's nervous system",
+                "proposer_experience": "resistive memories",
+                "outcome": "new technology with robust cognitive behaviour",
+                "cross_disciplinary": true,
+                "fabrication_result": "innovative hardware/software platform",
+                "platform_features": {
+                    "high_power_efficiency": true,
+                    "robust_cognitive_computing": true
+                },
+                "technology_applications": [
+                    "service and consumer robotics",
+                    "implantable medical diagnostic microchips",
+                    "wearable electronics"
+                ],
+                "descriptions": [
+                    "This project proposes the development of an innovative technology that mimics the cognitive capabilities of insects to process noisy sensory data efficiently, aiming to overcome the energy inefficiency in low-power electronic devices with separated logic and memory components."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5c81f566390f6689690dfa0b1dbaa404",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nHeterogeneous integration of imprecise memory devices to enable learning from a very small volume of noisy data\n\n**Description:**\n\nThe artificial intelligence community, inspired by the tremendous progress made in neuroscience, has recently proposed powerful algorithms to enable effective real-time decision making based on a limited volume of noisy sensory data. However, implementing such algorithms in low-power devices remains a challenge due to the energy inefficiency that comes from separating logic and memory in current electronic systems. For the past 10 years, research groups have been developing alternative electronic components and systems, such as brain inspired computing architectures and novel resistive memory technologies to address this design bottleneck. The critical feature for these new technologies to perform at their best is a very high-density, reliable, non-volatile memory with infinite endurance. This ideal memory does not exist today, and it is unlikely it will ever exist. This project takes inspiration from the insect’s nervous system. The general aim of DIVERSE is to enable learning from a very limited volume of noisy data based on imperfect, limited density, low endurance, resistive memories. Unlike digital systems, insects are not very good at performing precise calculations, but they excel at making extremely energy-efficient real time decisions by combining sensory data recorded in noisy environments. I thus propose to take inspiration from the well-studied cricket’s nervous system and to use my experience and skills in resistive memories to develop a new technology that expresses robust cognitive behaviour while interacting with the environment. This cross-disciplinary work will lead to the fabrication of an innovative hardware/software platform with extremely high power efficiency and robust cognitive computing capabilities. This new technology will open new perspectives in dynamically developing areas including service and consumer robotics, implantable medical diagnostic microchips and wearable electronics."
+}

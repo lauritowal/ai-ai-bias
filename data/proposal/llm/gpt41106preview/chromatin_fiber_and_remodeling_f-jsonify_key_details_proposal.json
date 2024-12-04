@@ -1,0 +1,124 @@
+{
+    "item_type": "proposal",
+    "title": "Chromatin Fiber and Remodeling Factor Structural Studies",
+    "descriptions": [
+        {
+            "proposal_name": "Chromatin Fiber and Remodeling Factor Structural Studies",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "DNA_organization": "chromatin",
+                        "chromatin_function": [
+                            "compacting DNA",
+                            "governing DNA access"
+                        ],
+                        "epigenetic_information_encoding": "chromatin modifications",
+                        "dependency": "chromatin remodeling",
+                        "previous_work": [
+                            "high resolution structure of nucleosome core particle",
+                            "X-ray structure of tetranucleosome"
+                        ],
+                        "challenges": [
+                            "structural polymorphism",
+                            "crystal disorder"
+                        ],
+                        "new_evidence": "in vivo spacing of nucleosomes",
+                        "study_approaches": [
+                            {
+                                "Part_A": [
+                                    "cryo-electron microscopy study of chromatin fiber",
+                                    "crystallographic study of tetranucleosome with linker histone"
+                                ]
+                            },
+                            {
+                                "Part_B": [
+                                    "cryo-EM and X-ray structures incorporating dinucleosomes",
+                                    "functional assay using ISW1a",
+                                    "interaction studies of ATPase domain with nucleosome substrates"
+                                ]
+                            }
+                        ],
+                        "recent_success": "structurally based mechanism for nucleosome spacing by ISW1a",
+                        "substance_used": "recombinant ISW1a"
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Chromatin Fiber and Remodeling Factor Structural Studies",
+            "proposal_details": {
+                "descriptions": [
+                    "This grant proposal aims to study the hierarchical structure of chromatin and the mechanisms of chromatin remodeling, with implications for medical developments."
+                ],
+                "objectives": [
+                    "Determine the structure of the chromatin fiber",
+                    "Study cryo-electron microscopy of the chromatin fiber",
+                    "Perform crystallographic study of a tetranucleosome containing linker histone",
+                    "Understand the mechanism for nucleosome spacing by a chromatin remodeling factor",
+                    "Develop cryo-EM and X-ray structures incorporating dinucleosomes",
+                    "Examine the interaction of the ATPase domain with nucleosome substrates"
+                ],
+                "methodologies": [
+                    "High resolution structure analysis of the nucleosome core particle",
+                    "X-ray structure analysis",
+                    "Cryo-electron microscopy",
+                    "Functional assays using ISW1a",
+                    "Recombinant ISW1a interaction studies"
+                ],
+                "expected_impacts": [
+                    "Advances in the understanding of chromatin structure",
+                    "New insights into chromatin remodeling processes",
+                    "Contributions to developments in medicine"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Chromatin Fiber and Remodeling Factor Structural Studies",
+            "proposal_details": {
+                "descriptions": [
+                    "Study on the hierarchical structure of chromatin and structurally based remodeling mechanisms for medical developments."
+                ],
+                "previous_work": [
+                    {
+                        "nucleosome_core_particle": "High resolution structure determination of the nucleosome core particle."
+                    },
+                    {
+                        "tetranucleosome": "X-ray structure determination showing potential organization in the fiber."
+                    },
+                    {
+                        "ISW1a_mechanism": "Provided first structurally based mechanism for nucleosome spacing by chromatin remodeling factor."
+                    }
+                ],
+                "challenges": [
+                    "Structural polymorphism",
+                    "Crystal disorder"
+                ],
+                "new_evidence": [
+                    "In vivo spacing of nucleosomes in chromatin"
+                ],
+                "methods": [
+                    "Cryo-electron microscopy study of the chromatin fiber",
+                    "Crystallographic study of a tetranucleosome containing linker histone",
+                    "Functional assay using ISW1a"
+                ],
+                "objectives": {
+                    "Part_A": "Apply new findings to cryo-EM and crystallographic studies of chromatin fiber and tetranucleosome.",
+                    "Part_B": "Obtain cryo-EM and X-ray structures incorporating dinucleosomes; study ISW1a interaction with nucleosome substrates."
+                },
+                "equipment": [
+                    "Cryo-electron microscope",
+                    "X-ray crystallography"
+                ],
+                "materials": [
+                    "Recombinant ISW1a",
+                    "Nucleosome substrates"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "531ed7f8e431417231eac0656d5a0450",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nChromatin Fiber and Remodeling Factor Structural Studies\n\n**Description:**\n\nDNA in higher organisms is organized in a nucleoprotein complex called chromatin. The structure of chromatin is responsible for compacting DNA to fit within the nucleus and for governing its access in nuclear processes. Epigenetic information is encoded chiefly via chromatin modifications. Readout of the genetic code depends on chromatin remodeling, a process actively altering chromatin structure. An understanding of the hierarchical structure of chromatin and of structurally based, remodeling mechanisms will have enormous impact for developments in medicine. Following our high resolution structure of the nucleosome core particle, the fundamental repeating unit of chromatin, we have endeavored to determine the structure of the chromatin fiber. We showed with our X-ray structure of a tetranucleosome how nucleosomes could be organized in the fiber. Further progress has been limited by structural polymorphism and crystal disorder, but new evidence on the in vivo spacing of nucleosomes in chromatin should stimulate more advances. Part A of this application describes how we would apply these new findings to our cryo-electron microscopy study of the chromatin fiber and to our crystallographic study of a tetranucleosome containing linker histone. Recently, my laboratory succeeded in providing the first structurally based mechanism for nucleosome spacing by a chromatin remodeling factor. We combined the X-ray structure of ISW1a(ATPase) bound to DNA with cryo-EM structures of the factor bound to two different nucleosomes to build a model showing how this remodeler uses a dinucleosome, not a mononucleosome, as its substrate. Our results from a functional assay using ISW1a further justified this model. Part B of this application describes how we would proceed to the relevant cryo-EM and X-ray structures incorporating dinucleosomes. Our recombinant ISW1a allows us to study in addition the interaction of the ATPase domain with nucleosome substrates."
+}

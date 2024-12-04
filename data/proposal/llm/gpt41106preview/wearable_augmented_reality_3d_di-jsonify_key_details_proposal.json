@@ -1,0 +1,116 @@
+{
+    "item_type": "proposal",
+    "title": "Wearable Augmented Reality 3D Displays",
+    "descriptions": [
+        {
+            "proposal_name": "Wearable Augmented Reality 3D Displays",
+            "proposal_details": {
+                "advancements": "past few decades",
+                "limitations": [
+                    "field-of-view",
+                    "viewing discomfort"
+                ],
+                "missing_features": [
+                    "3D depth cues"
+                ],
+                "application_domains": [
+                    "real 3D",
+                    "interactive augmented reality (AR)"
+                ],
+                "aims": [
+                    "overcome technological challenges",
+                    "miniaturization",
+                    "eliminate perceptual errors",
+                    "avoid viewing discomfort"
+                ],
+                "challenges": [
+                    "eliminate relay lenses",
+                    "provide essential 3D depth cues"
+                ],
+                "solutions": [
+                    "overcome focusing problem",
+                    "enable fixation at correct depth",
+                    "eliminate accommodation and convergence conflict"
+                ],
+                "expected_outcomes": [
+                    "natural looking interactive 3D",
+                    "wide field-of-view (>100deg)",
+                    "eyeglasses form factor"
+                ],
+                "potential_impacts": [
+                    "beyond state-of-the-art in wearable displays",
+                    "new research directions",
+                    "intelligent human-computer interfaces"
+                ],
+                "descriptions": [
+                    "Wear3D proposal aims to overcome the two fundamental scientific challenges of wearable displays and make them as natural as wearing a pair of eyeglasses."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Wearable Augmented Reality 3D Displays",
+            "proposal_details": {
+                "descriptions": [
+                    "Proposal aims to overcome two fundamental scientific challenges to make wearable displays as natural as wearing eyeglasses."
+                ],
+                "challenges": [
+                    "Eliminate the relay lenses for miniaturization of wearable displays.",
+                    "Provide all essential 3D depth cues to avoid perceptual errors and viewing discomfort."
+                ],
+                "objectives": [
+                    "Enable eyes to fixate at the correct depth of objects without losing resolution.",
+                    "Eliminate conflict between accommodation and convergence."
+                ],
+                "expected_outcomes": [
+                    "Natural looking and interactive 3D",
+                    "Very wide field-of-view (>100 degrees)",
+                    "Eyeglasses form factor display"
+                ],
+                "advancements": [
+                    "Miniaturization of wearable displays by utilizing advancements in micro-technologies"
+                ],
+                "applications": [
+                    "Intelligent human-computer interfaces",
+                    "Augmented reality applications"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Wearable Augmented Reality 3D Displays",
+            "proposal_details": {
+                "advancements": "rapid",
+                "limitations": [
+                    "field-of-view",
+                    "technological",
+                    "viewing discomfort"
+                ],
+                "missing_features": [
+                    "3D depth cues"
+                ],
+                "application_domains": [
+                    "real 3D",
+                    "interactive augmented reality"
+                ],
+                "objectives": [
+                    "eliminate relay lenses",
+                    "miniaturize wearable displays",
+                    "provide essential 3D depth cues",
+                    "eliminate accommodation and convergence conflict"
+                ],
+                "expected_outcomes": [
+                    "natural as wearing eyeglasses",
+                    "natural looking interactive 3D",
+                    "very wide field-of-view",
+                    "field-of-view greater than 100 degrees",
+                    "new research directions for human-computer interfaces and AR"
+                ],
+                "form_factor": "eyeglasses"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "b754bef8226182fe07b8e74313919f9e",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nWearable Augmented Reality 3D Displays\n\n**Description:**\n\nWearable displays have advanced rapidly over the past few decades but they are limited in field-of-view due to optical constraints. Likewise, 3D displays have several technological and viewing discomfort limitations. These limitations result from the missing 3D depth cues in stereoscopic displays, which are essential for real 3D and for interactive augmented reality (AR) applications. Wear3D proposal aims to overcome the two fundamental scientific challenges of wearable displays and make them as natural as wearing a pair of eyeglasses: (i) Eliminate the relay lenses. We need to overcome the focusing problem of the eyes in order to completely eliminate the large relay lenses. As a result, miniaturization of wearable displays will be possible by taking full advantage of the advancements in micro-technologies; (ii) Provide all the essential 3D depth cues to avoid perceptual errors and viewing discomfort. We need to enable the two eyes to fixate at the correct depth of the objects rather than the display panel without losing resolution. Thereby, eliminating the conflict between the accommodation and convergence. Overcoming these challenges would enable a display which can provide natural looking and interactive 3D and very wide field-of-view (>100deg) in an eyeglasses form factor. Such a display goes far beyond the state-of-the art in wearable displays and open new research directions for intelligent human-computer interfaces and AR."
+}

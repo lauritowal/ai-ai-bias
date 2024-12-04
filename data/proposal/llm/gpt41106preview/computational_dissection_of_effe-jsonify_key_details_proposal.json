@@ -1,0 +1,93 @@
+{
+    "item_type": "proposal",
+    "title": "Computational Dissection of Effective Circuitry and Encoding in the Retina for Normal and Restored Vision",
+    "descriptions": [
+        {
+            "proposal_name": "Computational Dissection of Effective Circuitry and Encoding in the Retina for Normal and Restored Vision",
+            "proposal_details": {
+                "goal": "Understanding how neural circuits process and encode information",
+                "importance": "Development of vision restoration therapies for patients with photoreceptor degeneration",
+                "methods": [
+                    "Artificial stimulation of retinal neurons",
+                    "Optogenetics"
+                ],
+                "challenge": "Deciphering nonlinear operations and dynamics in ~30 parallel signalling streams from ganglion cells",
+                "project_name": "CODE4Vision",
+                "objectives": [
+                    "Identifying effective connectivity between ganglion cells and bipolar cells",
+                    "Determining features of information processing between neuronal layers"
+                ],
+                "techniques": [
+                    "Computational statistics",
+                    "Machine learning",
+                    "Closed-loop experiments",
+                    "Simultaneous bipolar and ganglion cell recordings"
+                ],
+                "expected_outcome": "New models of how the retina encodes natural visual stimuli",
+                "application": "Develop stimulation schemes for optogenetic vision restoration in mouse models"
+            }
+        },
+        {
+            "proposal_name": "Computational Dissection of Effective Circuitry and Encoding in the Retina for Normal and Restored Vision",
+            "proposal_details": {
+                "objectives": [
+                    "Understanding neural circuit information processing and encoding",
+                    "Development of vision restoration therapies"
+                ],
+                "importance": [
+                    "Knowledge for artificial stimulation of retinal neurons",
+                    "Reconstructing natural transmission of visual information to the brain"
+                ],
+                "challenges": [
+                    "Deciphering nonlinear operations and dynamics in retinal signalling",
+                    "Understanding the neural code of the retina"
+                ],
+                "methods": [
+                    "Identification of connectivity between retinal ganglion cells and bipolar cells",
+                    "Determination of information processing features between neuronal layers"
+                ],
+                "approaches": [
+                    "Characterization of bipolar cell inputs to ganglion cells using computational statistics and machine learning",
+                    "Closed-loop experiments adjusting visual stimuli to bipolar cell layout",
+                    "Direct measurements of connections through simultaneous bipolar and ganglion cell recordings"
+                ],
+                "expected_outcomes": [
+                    "New models of natural visual stimuli encoding by the retina",
+                    "Development of stimulation schemes for optogenetic vision restoration"
+                ],
+                "target": "Mouse models of optogenetic vision restoration",
+                "descriptions": [
+                    "The CODE4Vision project aims to recreate natural retinal activity by understanding the complex and diverse neural code of the retina."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Computational Dissection of Effective Circuitry and Encoding in the Retina for Normal and Restored Vision",
+            "proposal_details": {
+                "goal": "Understanding neural circuits information processing for development of vision restoration therapies",
+                "importance": "Concrete importance for vision restoration in patients with photoreceptor degeneration",
+                "methods": [
+                    "Artificial stimulation of retinal neurons",
+                    "Optogenetics"
+                ],
+                "aim": "Recreating natural retinal activity",
+                "challenge": "Deciphering nonlinear operations and dynamics in 30 parallel signalling streams",
+                "project_name": "CODE4Vision",
+                "tasks": [
+                    "Identify effective connectivity between retinal ganglion cells and presynaptic bipolar cells",
+                    "Determine information processing features between neuronal layers",
+                    "Characterize layout of bipolar cell inputs to ganglion cells using computational statistics and machine learning",
+                    "Study nonlinear and dynamical features of connections with closed-loop experiments",
+                    "Supplement analyses with direct measurements of connections through simultaneous bipolar and ganglion cell recordings"
+                ],
+                "expected_outcome": "Pave the way towards new models of natural visual stimuli encoding",
+                "application": "Develop stimulation schemes for optogenetic vision restoration in mouse models"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e2b3fe22cf66919404cfbb57d46a6028",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nComputational Dissection of Effective Circuitry and Encoding in the Retina for Normal and Restored Vision\n\n**Description:**\n\nUnderstanding how neural circuits process and encode information is a fundamental goal in neuroscience. For the neural network of the retina, such knowledge is also of concrete importance for the development of vision restoration therapies for patients suffering from degeneration of photoreceptors. Artificial stimulation of retinal neurons through electronic implants or inserted light-sensitive proteins (“optogenetics”) aims at reconstructing natural transmission of visual information to the brain. Recreating natural retinal activity, however, will require a thorough understanding of the complex and diverse neural code of the retina. The challenge lies in deciphering the various nonlinear operations and dynamics in the around 30 parallel signalling streams that emerge from the retina, represented by as many types of ganglion cells, the retina’s output neurons. The CODE4Vision project will tackle this challenge by identifying the effective connectivity between the different types of retinal ganglion cells and their excitatory presynaptic partners, bipolar cells, and by determining the features of information processing between these neuronal layers. We will characterize the layout of bipolar cell inputs to large populations of ganglion cells with novel analyses that we derive from computational statistics and machine learning. We will then study the nonlinear and dynamical features of these connections by designing closed-loop experiments that automatically adjust visual stimuli to the identified layout of bipolar cells. These analyses will be supplemented by direct measurements of connections through simultaneous bipolar and ganglion cell recordings. The results will pave the way towards new models of how the retina encodes natural visual stimuli. Finally, we will apply this knowledge to mouse models of optogenetic vision restoration in order to develop stimulation schemes that emulate natural retinal stimulus encoding."
+}

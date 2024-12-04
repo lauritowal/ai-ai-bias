@@ -1,0 +1,137 @@
+{
+    "item_type": "proposal",
+    "title": "An anthropological investigation of muscular politics in South Asia",
+    "descriptions": [
+        {
+            "proposal_name": "An anthropological investigation of muscular politics in South Asia",
+            "proposal_details": {
+                "description": "A collaborative and cross-national ethnographic study of the criminalisation of politics in India, Pakistan and Bangladesh.",
+                "concerns": [
+                    "Growing overlap between criminal and political spheres",
+                    "Increasing violence in politics"
+                ],
+                "approach": [
+                    "Local-level investigation",
+                    "Surveys",
+                    "Historical analysis"
+                ],
+                "objectives": [
+                    "Develop collaborative political ethnography",
+                    "Generate policy relevant research",
+                    "Produce capability by forging an international network of scholars"
+                ],
+                "outcomes": [
+                    "Comprehensive political ethnographies in sixteen sites",
+                    "Empirical material",
+                    "Theoretical directives for further research"
+                ],
+                "focus": "Extra-legal muscular politics in South Asia",
+                "beneficiaries": [
+                    "Policy-making bodies",
+                    "International organisations",
+                    "Academic community"
+                ],
+                "number_of_postdocs_involved": 4,
+                "research_team_expertise": [
+                    "Ethnographic research",
+                    "Criminal politics",
+                    "Informal economies",
+                    "Political violence"
+                ],
+                "previous_research_reference": "Cross-cultural study of democracy and muscular politics in the global South"
+            }
+        },
+        {
+            "proposal_name": "An anthropological investigation of muscular politics in South Asia",
+            "proposal_details": {
+                "media_focus": "Growing overlap between criminal and political spheres in South Asia",
+                "accusations": [
+                    "Embezzlement",
+                    "Burglary",
+                    "Kidnapping",
+                    "Murder"
+                ],
+                "study_type": "Collaborative and cross-national ethnographic study",
+                "study_regions": [
+                    "India",
+                    "Pakistan",
+                    "Bangladesh"
+                ],
+                "methodologies": [
+                    "Local-level investigation",
+                    "Surveys",
+                    "Historical analysis"
+                ],
+                "political_ethnographies_sites": 16,
+                "research_objectives": [
+                    "Develop collaborative political ethnography method",
+                    "Generate policy relevant research",
+                    "Produce capability and forge international scholars' network"
+                ],
+                "post_docs_supported": 4,
+                "PI_previous_research": "Cross-cultural study of democracy and muscular politics in the global South",
+                "team_expertise": [
+                    "Ethnographic research",
+                    "Criminal politics",
+                    "Informal economies",
+                    "Political violence"
+                ],
+                "descriptions": [
+                    "Study of the criminalisation of politics in India, Pakistan and Bangladesh"
+                ]
+            }
+        },
+        {
+            "proposal_name": "An anthropological investigation of muscular politics in South Asia",
+            "proposal_details": {
+                "focus_area": "South Asia",
+                "concerns": [
+                    "criminal-political overlap",
+                    "violence"
+                ],
+                "accusations": [
+                    "embezzlement",
+                    "burglary",
+                    "kidnapping",
+                    "murder"
+                ],
+                "approach": "collaborative cross-national ethnographic study",
+                "countries": [
+                    "India",
+                    "Pakistan",
+                    "Bangladesh"
+                ],
+                "ethnographies_count": 16,
+                "research_methods": [
+                    "local-level investigation",
+                    "surveys",
+                    "historical analysis"
+                ],
+                "objectives": [
+                    "Develop collaborative political ethnography method",
+                    "Generate policy-relevant research",
+                    "Produce capability and forge an international scholars network"
+                ],
+                "project_members": [
+                    "PI",
+                    "4 Post-docs"
+                ],
+                "members_expertise": [
+                    "ethnographic research",
+                    "criminal politics",
+                    "informal economies",
+                    "political violence"
+                ],
+                "PI_previous_research": "cross-cultural study of democracy and muscular politics in the global South",
+                "descriptions": [
+                    "The study will produce comprehensive political ethnographies, providing empirical material and theoretical directives for the region."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "31c486ab785b44488fa06310d3484dac",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAn anthropological investigation of muscular politics in South Asia\n\n**Description:**\n\nOver the past decade, the media, international organisations, as well as policy-making bodies have voiced increasing concern about a growing overlap between the criminal and political spheres in South Asia. Many 'criminal politicians' are accused not simply of embezzlement, but of burglary, kidnapping and murder, so that the observed political landscape emerges not only as a 'corrupt', but also a highly violent sphere. This project is a collaborative and cross-national ethnographic study of the criminalisation of politics in India, Pakistan and Bangladesh. Bringing together local-level investigation, surveys and historical analysis, the project will produce comprehensive political ethnographies in sixteen sites across the subcontinent, providing empirical material and theoretical directives for further charting of the virtually unexplored terrain of extra-legal muscular politics in the region. Central to the proposed programme of research are the following interrelated objectives: 1) To further develop the method of collaborative political ethnography by designing, collecting and producing case studies which will allow us to write thematically across sites; 2) To generate policy relevant research in the fields of security, conflict, democracy and development; 3) To produce capability by forging an international network of scholars on issues related to democratisation, violence, crime and support the work and careers of the project's 4 Post-docs. The study capitalises on previous research and skills of the PI in the cross-cultural study of democracy and muscular politics in the global South. All members of the research team have expertise in ethnographic research in the difficult spheres of criminal politics, informal economies, and political violence and are hence well and sometimes uniquely equipped to pursue this challenging research thematic."
+}

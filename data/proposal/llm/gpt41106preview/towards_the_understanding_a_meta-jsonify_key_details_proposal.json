@@ -1,0 +1,108 @@
+{
+    "item_type": "proposal",
+    "title": "Towards the Understanding a Metal-Tumour-Metabolism",
+    "descriptions": [
+        {
+            "proposal_name": "Towards the Understanding a Metal-Tumour-Metabolism",
+            "proposal_details": {
+                "objectives": [
+                    "Explain mechanisms of tumour cell metal ion metabolism",
+                    "Reveal biochemical and molecular relationships between metal ions and proteins in tumour development",
+                    "Enhance treatment effectiveness"
+                ],
+                "approach": [
+                    "Study metallothionein interactions with essential metals and anticancer drugs",
+                    "Monitor actions in vitro and in vivo",
+                    "Optimize electrochemical, mass spectrometric and immune-based methods",
+                    "Identify new carcinogenetic pathways on cell level",
+                    "Conduct genetic modifications of target genes"
+                ],
+                "anticancer_drugs_studied": [
+                    "cisplatin",
+                    "carboplatin",
+                    "oxaliplatin"
+                ],
+                "experimental_models": [
+                    "mice with breast tumours (MCF-7 and 4T1)",
+                    "MeLiM minipigs with melanomas"
+                ],
+                "expected_outcomes": [
+                    "Precise description of tumour pathways coping with metal ions",
+                    "Development of highly effective treatment strategies",
+                    "Understanding of cancer formation and development"
+                ],
+                "descriptions": [
+                    "The project aims to explore the complex relationships between metal ions, metallothioneins, and tumour development to inform new treatment strategies and understand cancer."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Towards the Understanding a Metal-Tumour-Metabolism",
+            "proposal_details": {
+                "goals": [
+                    "Explain the mechanisms of how a tumour cell copes with essential metal ions and platinum-based drugs",
+                    "Reveal the biochemical and molecular-biological relationships between metal ions and proteins in tumour development",
+                    "Suppress tumour growth and development",
+                    "Enhance the effectiveness of treatment"
+                ],
+                "methods": [
+                    "Focus on metallothionein and its interactions with metals and metal-containing anticancer drugs",
+                    "Monitor actions in vitro and in vivo",
+                    "Optimize electrochemical, mass spectrometric and immune-based methods",
+                    "Process data to seek new carcinogenetic pathways on cell level",
+                    "Prove pathways by genetic modifications of target genes",
+                    "Test discovered processes and pathways on animal experimental models"
+                ],
+                "drugs_studied": [
+                    "cisplatin",
+                    "carboplatin",
+                    "oxaliplatin"
+                ],
+                "animal_models": [
+                    "mice bearing breast tumours (MCF-7 and 4T1)",
+                    "MeLiM minipigs bearing melanomas"
+                ],
+                "outcomes_expected": [
+                    "Precise description of tumour-related pathways coping with metal ions based on metallothioneins",
+                    "Direction for new highly effective treatment strategies",
+                    "Discovery of new carcinogenetic pathways",
+                    "Improved understanding of cancer formation and development"
+                ],
+                "descriptions": [
+                    "The project aims to understand and describe the metal ion metabolism and mechanisms in tumour cells, particularly how they interact with metal-based drugs and contribute to multi-drug resistance and treatment failure."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Towards the Understanding a Metal-Tumour-Metabolism",
+            "proposal_details": {
+                "objectives": [
+                    "Explain mechanisms of tumour cell coping with essential metal ions and platinum-based drugs",
+                    "Reveal biochemical and molecular-biological relationships between metal ions and proteins in tumour development",
+                    "Discover new carcinogenetic pathways"
+                ],
+                "methods": [
+                    "Monitoring metallothionein interactions with metals and anticancer drugs (cisplatin, carboplatin, oxaliplatin) in vitro and in vivo",
+                    "Optimizing electrochemical, mass spectrometric, and immune-based methods",
+                    "Genetic modifications of target genes",
+                    "Testing on animal models (mice bearing breast tumours and MeLiM minipigs bearing melanomas)"
+                ],
+                "expected_outcomes": [
+                    "Suppression of tumour growth and development",
+                    "Enhanced effectiveness of treatment",
+                    "Precise description of tumour related pathways coping with metal ions based on metallothioneins",
+                    "Directing new highly effective treatment strategies",
+                    "Understanding of cancer formation and development"
+                ],
+                "descriptions": [
+                    "The research aims to understand the metal ion metabolism in tumour cells and its relationship with tumour growth and treatment resistance, focusing on metallothioneins and their interaction with essential metals and metal-based drugs."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a2dc394a3bf004c604def327f1920d5a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTowards the Understanding a Metal-Tumour-Metabolism\n\n**Description:**\n\nA tumour cell uses both genetic and protein weapons in its development. Gaining a greater understanding of these lethal mechanisms is a key step towards developing novel and more effective treatments. Because the metal ion metabolism of a tumour cell is not fully understood, we will address the challenge of explaining the mechanisms of how a tumour cell copes both with essential metal ions and platinum based drugs. The metal-based mechanisms help a tumour to grow on one side and to protect itself against commonly used metal-based drugs. On the other side, the exact description of these mechanisms, which are being associated with multi-drug resistance occurrence and failure of a treatment, still remains unclear. We will reveal the mechanism of the as yet not understood biochemical and molecularly-biological relationships and correlations between metal ions and proteins in a tumour development revealing the way how to suppress the growth and development of a tumour and to markedly enhance the effectiveness of a treatment. To achieve this goal, we will focus on metallothionein and its interactions with essential metals and metal-containing anticancer drugs (cisplatin, carboplatin, and oxaliplatin). Their actions will be monitored both in vitro and in vivo. For this purpose, we will optimize electrochemical, mass spectrometric and immune-based methods. Based on processing of data obtained, new carcinogenetic pathways will be sought on cell level and proved by genetic modifications of target genes. The discovered processes and the pathways found will then be tested on two animal experimental models mice bearing breast tumours (MCF-7 and 4T1) and MeLiM minipigs bearing melanomas. The precise description of the tumour related pathways coping with metal ions based on metallothioneins will direct new highly effective treatment strategies. Moreover, the discovery of new carcinogenetic pathways will open a window for understanding of cancer formation and development."
+}

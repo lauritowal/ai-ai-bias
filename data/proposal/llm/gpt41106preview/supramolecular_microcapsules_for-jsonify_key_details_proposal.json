@@ -1,0 +1,99 @@
+{
+    "item_type": "proposal",
+    "title": "Supramolecular microcapsules for bioreactor expansion of induced pluripotent stem cells",
+    "descriptions": [
+        {
+            "proposal_name": "Supramolecular microcapsules for bioreactor expansion of induced pluripotent stem cells",
+            "proposal_details": {
+                "project_name": "SUPROTECT",
+                "project_type": "proof-of-concept",
+                "focus_material": "squaramide-based (SQ) supramolecular materials",
+                "primary_goal": "prepare microcapsules for the expansion of pluripotent stem cells in dynamic bioreactor culture",
+                "previous_work": [
+                    "bioactive hydrogel synthesis",
+                    "in vitro expansion of iPSCs in 3D cell culture under static conditions"
+                ],
+                "planned_activities": [
+                    "synthesize material for iPSC expansion studies",
+                    "develop microcapsule preparation protocols with and without iPSCs",
+                    "evaluate feasibility of microcapsules in bioreactor culture",
+                    "evaluate iPSC release from microcapsules",
+                    "rank approaches based on iPSC number and quality"
+                ],
+                "parallel_activities": [
+                    "detailed market research on microfabricated polymer materials for bioreactor culture",
+                    "protect intellectual property position",
+                    "consolidate findings for product licensing"
+                ],
+                "descriptions": [
+                    "The project aims to use squaramide-based supramolecular materials to create microcapsules for expanding pluripotent stem cells in bioreactors and to evaluate these for further application."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Supramolecular microcapsules for bioreactor expansion of induced pluripotent stem cells",
+            "proposal_details": {
+                "project_name": "SUPROTECT",
+                "focus": "Proof-of-concept",
+                "applications": [
+                    "Squaramide-based supramolecular materials",
+                    "Microcapsule preparation for iPSC expansion",
+                    "Bioreactor culture"
+                ],
+                "previous_work": [
+                    "Bioactive hydrogel synthesis",
+                    "In vitro iPSC expansion",
+                    "3D cell culture under static conditions"
+                ],
+                "objectives": [
+                    "Synthesize material for iPSC expansion studies",
+                    "Develop microcapsule preparation protocols",
+                    "Evaluate microcapsules in bioreactors",
+                    "Rank approaches based on iPSC number and quality",
+                    "Perform market research",
+                    "Protect intellectual property",
+                    "Consolidate findings for product licensing"
+                ],
+                "descriptions": [
+                    "Prepare microcapsules with SQ material in core or shell for iPSC culture"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Supramolecular microcapsules for bioreactor expansion of induced pluripotent stem cells",
+            "proposal_details": {
+                "project_name": "SUPROTECT",
+                "project_type": "proof-of-concept",
+                "focus_material": "squaramide-based (SQ) supramolecular materials",
+                "objective": [
+                    "prepare microcapsules for pluripotent stem cell expansion in bioreactor culture"
+                ],
+                "previous_work": [
+                    "bioactive hydrogel synthesis",
+                    "in vitro iPSC expansion in 3D cell culture under static conditions"
+                ],
+                "activities": [
+                    "synthesize material for iPSC expansion studies",
+                    "develop microcapsule preparation protocols with and without iPSCs",
+                    "evaluate feasibility of microcapsules in bioreactors",
+                    "rank approaches based on iPSC number and quality"
+                ],
+                "additional_research": [
+                    "market research on microfabricated polymer materials for bioreactor culture"
+                ],
+                "intellectual_property": "protect IP position",
+                "outcome": [
+                    "consolidate findings for product licensing"
+                ],
+                "descriptions": [
+                    "The project aims to synthesize squaramide-based supramolecular materials for microcapsule preparation, develop protocols, evaluate iPSC culture in bioreactors, and conduct market research for IP protection and licensing."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5cc520ee39be8c5ddc3785fb0feac7d0",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nSupramolecular microcapsules for bioreactor expansion of induced pluripotent stem cells\n\n**Description:**\n\nThe SUPROTECT proof-of-concept project seeks to apply our squaramide-based (SQ) supramolecular materials to prepare microcapsules for the expansion of pluripotent stem cells in dynamic bioreactor culture. Building on earlier demonstration of bioactive hydrogel synthesis and in vitro expansion of iPSCs in 3D cell culture under static conditions, we will synthesize the necessary amount of material for iPSC expansion studies, develop protocols to prepare microcapsules with and without iPSCs where the SQ supramolecular material is within the core or shell, and evaluate the feasibility of the different microcapsules for the culture of iPSCs in bioreactors and their release, ranking the approaches on iPSC number and quality for further downstream application. In parallel with these activities, we will perform detailed market research studies on microfabricated polymer materials being applied for bioreactor culture of various cell types, protecting our intellectual property (IP) position and consolidating our findings in a package for product licensing with the appropriate party."
+}

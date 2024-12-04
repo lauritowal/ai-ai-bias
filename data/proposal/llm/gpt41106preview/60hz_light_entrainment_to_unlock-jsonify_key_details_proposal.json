@@ -1,0 +1,127 @@
+{
+    "item_type": "proposal",
+    "title": "60-Hz light entrainment to unlock mental health conditions",
+    "descriptions": [
+        {
+            "proposal_name": "60-Hz light entrainment to unlock mental health conditions",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "mental_health_burden": "severe",
+                        "medication_efficacy": "moderate-to-weak",
+                        "perineuronal_net": "rigid extracellular matrix",
+                        "enzymatic_interventions_in_mice": "invasive",
+                        "60_Hz_light_entrainment_discovery": "non-invasive",
+                        "microglia_function": "transiently remove PNN",
+                        "improved_cognitive_performances_in_mice": "true",
+                        "therapeutic_intervention_type": "targeted, non-invasive, non-pharmacological, environmental-friendly",
+                        "preclinical_model_targets": [
+                            "anxiety disorder",
+                            "PTSD"
+                        ],
+                        "objectives": [
+                            "identify optimal stage for 60-Hz entrainment",
+                            "adjust treatment length and repetition frequency",
+                            "validate physiological parameters as success criterium"
+                        ],
+                        "future_steps": [
+                            "refine prototype development",
+                            "set therapeutic frame",
+                            "transition to clinical study",
+                            "foundation for spin-off company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "60-Hz light entrainment to unlock mental health conditions",
+            "proposal_details": {
+                "burden_to_society": "critical and ever-increasing",
+                "psychiatric_medications_target": "imbalances in synapse signaling",
+                "medication_efficacy": "moderate-to-weak",
+                "neuronal_challenge": {
+                    "infrastructure": "perineuronal net (PNN)",
+                    "function": "locks brain in a function state"
+                },
+                "enzymatic_interventions": {
+                    "evaluation": "in mice",
+                    "suitability": "not appropriate for human therapeutics",
+                    "issues": [
+                        "invasive",
+                        "prevent reformation of PNN",
+                        "makes brain vulnerable"
+                    ]
+                },
+                "ERC_StG_discovery": {
+                    "intervention_type": "non-invasive external light entrainment",
+                    "frequency": "60-Hz",
+                    "effect": "transiently remove PNN",
+                    "control": "controlled and brain region-specific manner",
+                    "cognitive_performance": "improved in mice",
+                    "applicability": [
+                        "both sexes"
+                    ]
+                },
+                "solution": "targeted, non-invasive, non-pharmacological, environmental-friendly therapeutic intervention",
+                "ERC_PoC_goals": {
+                    "expand_discovery": "evaluate therapeutic potential in preclinical mouse model",
+                    "conditions_targeted": [
+                        "anxiety disorder",
+                        "PTSD"
+                    ],
+                    "objectives": [
+                        "identify stage of fear memory formation with highest benefit",
+                        "adjust treatment length",
+                        "adjust repetition frequency",
+                        "validate physiological parameters as success criterium"
+                    ],
+                    "outcome": {
+                        "refine_prototype_development": true,
+                        "set_therapeutic_frame": true,
+                        "facilitate_clinical_study_transition": true,
+                        "foundation_for_spin_off_company": true
+                    }
+                }
+            }
+        },
+        {
+            "proposal_name": "60-Hz light entrainment to unlock mental health conditions",
+            "proposal_details": {
+                "descriptions": [
+                    "Non-invasive external light entrainment at 60-Hz enables microglia to remove perineuronal net (PNN) in a controlled and brain region-specific manner."
+                ],
+                "objectives": [
+                    "Evaluate the therapeutic potential in a preclinical mouse model of anxiety disorder and PTSD.",
+                    "Identify the stage of fear memory formation where 60-Hz entrainment is most beneficial.",
+                    "Adjust treatment length and repetition frequency.",
+                    "Validate physiological parameters as a therapeutic success criterium."
+                ],
+                "outcomes": [
+                    "Refinement of the first prototype development.",
+                    "Setting the therapeutic frame for clinical study post-ERC PoC.",
+                    "Foundation for a spin-off company."
+                ],
+                "intervention_characteristics": {
+                    "type": "non-invasive, non-pharmacological",
+                    "frequency": "60-Hz",
+                    "target": "perineuronal net (PNN)",
+                    "method": "light entrainment"
+                },
+                "evaluation_model": "preclinical mouse model",
+                "conditions_targeted": [
+                    "anxiety disorder",
+                    "PTSD"
+                ],
+                "expected_benefits": [
+                    "improved cognitive performances in mice"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bdf7d562e73c31f3c6006c5236671ea7",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\n60-Hz light entrainment to unlock mental health conditions\n\n**Description:**\n\nMental health problems are a critical and ever-increasing burden to society. Psychiatric medications aim to adjust imbalances in synapse signaling, but often have only moderate-to-weak efficacy. The core Mental health problems have become a severe burden in society. Psychiatric medications aim to adjust imbalance in synapse signaling but often have only moderate-to-weak efficacy. The main challenge is that certain neuronal infrastructures for cognitive and emotional skills are secured with a rigid extracellular matrix known as the perineuronal net (PNN) that forms around neurons and locks the brain in a function state. Enzymatic interventions that can release the lock have been evaluated in mice, but they are not appropriate for translating into human therapeutics because they are invasive and prevent the reformation of PNN making the brain vulnerable. In the context of the ERC StG, we discovered that non-invasive external light entrainment at highly-selective 60-Hz enables microglia localized within the neuronal network to transiently remove PNN in a controlled and brain region-specific manner in both sexes with improved cognitive performances in mice. Thus, our discovery solves the urgent need for a targeted, non-invasive, non-pharmacological, therefore environmental-friendly therapeutic intervention. This ERC Proof-of-Concept will allow us to expand on our discovery and evaluate the therapeutic potential in a preclinical mouse model of anxiety disorder, post-traumatic stress disorder (PTSD). Our objectives are to identify at which stage of the fear memory formation 60-Hz entrainment shows the highest benefit, adjust treatment length and repetition frequency, and validate physiological parameters as a therapeutic success criterium. These insights will refine the first prototype development and set the therapeutic frame, which will both be critical to smoothen the transition into a clinical study post-ERC PoC, and will set the foundation for a spin-off company."
+}

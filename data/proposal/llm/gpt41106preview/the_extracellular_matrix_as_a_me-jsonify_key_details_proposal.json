@@ -1,0 +1,152 @@
+{
+    "item_type": "proposal",
+    "title": "The extracellular matrix as a mediator of cell-cell communication in cardiovascular inflammation",
+    "descriptions": [
+        {
+            "proposal_name": "The extracellular matrix as a mediator of cell-cell communication in cardiovascular inflammation",
+            "proposal_details": {
+                "diseases": [
+                    "cardiovascular diseases",
+                    "coronary artery disease (CAD)",
+                    "myocardial infarction (MI)",
+                    "heart failure"
+                ],
+                "cause_of_CAD_and_MI": "atherosclerosis",
+                "disease_course": [
+                    "chronic",
+                    "acute"
+                ],
+                "cell_types": [
+                    "leukocytes",
+                    "endothelial cells",
+                    "vascular smooth muscle cells",
+                    "platelets",
+                    "fibroblasts",
+                    "cardiomyocytes"
+                ],
+                "genetic_association": {
+                    "factor": "extracellular matrix (ECM) proteins",
+                    "association_with": "cardiovascular diseases"
+                },
+                "ECM_functions": [
+                    "silencing of inflammatory functions",
+                    "modulation of ECM composition"
+                ],
+                "ECM_description": "a meshwork organizing cells and a communication hub for mechanical stimuli and cell-cell interaction signals",
+                "research_aims": [
+                    "explore the ECM proteome in sterile inflammatory diseases like atherosclerosis and MI",
+                    "identify novel regulators and understand underlying processes",
+                    "study molecular and cellular mechanisms affecting disease course",
+                    "identify novel therapeutic targets",
+                    "develop individualized treatment strategies",
+                    "translate findings to human clinical trials"
+                ],
+                "project_name": "MATRICARD",
+                "project_goals": [
+                    "advance beyond technical boundaries",
+                    "deepen knowledge of ECM-mediated cell-cell communication",
+                    "assess translational potential"
+                ],
+                "descriptions": [
+                    "This grant proposal focuses on the role of the extracellular matrix in cardiovascular inflammation and disease progression."
+                ]
+            }
+        },
+        {
+            "proposal_name": "The extracellular matrix as a mediator of cell-cell communication in cardiovascular inflammation",
+            "proposal_details": {
+                "diseases": [
+                    "cardiovascular diseases",
+                    "coronary artery disease (CAD)",
+                    "myocardial infarction (MI)",
+                    "heart failure",
+                    "atherosclerosis"
+                ],
+                "leading_cause": "morbidity and mortality",
+                "regions": [
+                    "industrialized countries",
+                    "developing countries"
+                ],
+                "inflammation_type": "sterile",
+                "disease_course": [
+                    "chronic",
+                    "acute"
+                ],
+                "cell_types": [
+                    "leukocytes",
+                    "endothelial cells",
+                    "vascular smooth muscle cells",
+                    "platelets",
+                    "fibroblasts",
+                    "cardiomyocytes"
+                ],
+                "genetic_studies_findings": "genetic variation influencing extracellular matrix (ECM) proteins is associated with cardiovascular diseases",
+                "ecm_features": [
+                    "communication hub",
+                    "transducer of mechanical stimuli",
+                    "cell-cell-interaction signals"
+                ],
+                "research_aims": [
+                    "explore ECM proteome in sterile inflammatory diseases",
+                    "identify novel regulators",
+                    "study molecular and cellular mechanisms",
+                    "development of novel therapeutic targets",
+                    "translate findings to humans",
+                    "adapt strategies for clinical trials"
+                ],
+                "project_name": "MATRICARD",
+                "project_goals": [
+                    "deep knowledge of ECM-mediated cell-cell-communication",
+                    "reveal translational potential"
+                ],
+                "descriptions": [
+                    "This project aims to investigate the role of the extracellular matrix in cell-cell communication during cardiovascular inflammation, identify new regulatory molecules, understand disease mechanisms, and discover potential therapeutic targets."
+                ]
+            }
+        },
+        {
+            "proposal_name": "The extracellular matrix as a mediator of cell-cell communication in cardiovascular inflammation",
+            "proposal_details": {
+                "diseases_addressed": [
+                    "Cardiovascular diseases",
+                    "Coronary artery disease (CAD)",
+                    "Myocardial infarction (MI)",
+                    "Heart failure"
+                ],
+                "pathology": "Atherosclerosis",
+                "disease_course": [
+                    "Chronic",
+                    "Acute"
+                ],
+                "cell_types_involved": [
+                    "Leukocytes",
+                    "Endothelial cells",
+                    "Vascular smooth muscle cells",
+                    "Platelets",
+                    "Fibroblasts",
+                    "Cardiomyocytes"
+                ],
+                "focus": "Genetic variation influencing extracellular matrix (ECM) proteins and its association with cardiovascular diseases",
+                "research_aims": [
+                    "Explore ECM proteome in sterile inflammatory diseases",
+                    "Identify novel regulators of the disease process",
+                    "Study molecular and cellular mechanisms affecting disease course",
+                    "Identification of novel therapeutic targets"
+                ],
+                "potential_outcomes": [
+                    "Novel individualized treatment strategies",
+                    "Translation of findings to human clinical trials"
+                ],
+                "project_name": "MATRICARD",
+                "descriptions": [
+                    "The project aims to gain a deep understanding of ECM-mediated cell-cell communication and its translational potential in cardiovascular diseases."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "17c6062f58d216cc3fc7a0c8c0d4cf94",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe extracellular matrix as a mediator of cell-cell communication in cardiovascular inflammation\n\n**Description:**\n\nCardiovascular diseases, as coronary artery disease (CAD) and its sequelae myocardial infarction (MI) and heart failure, represent the leading cause of morbidity and mortality in industrialized and developing countries. Atherosclerosis is the pathology causing CAD and MI; both are characterized by a sterile inflammation with a chronic and acute course of the disease, respectively. There is a plethora of cell types, as leukocytes, endothelial cells, vascular smooth muscle cells, platelets, fibroblasts, and cardiomyocytes, which play important roles in the initiation, propagation, and termination of the pathophysiological processes. Recent data from genetic studies found that genetic variation influencing extracellular matrix (ECM) proteins is associated with cardiovascular diseases. We found that such proteins which are secreted by one cell type influence phenotypes of other cell types via, e.g., silencing of inflammatory functions or modulation of ECM composition. The ECM hence not only represents a meshwork in which cells are organized but also a communication hub to transduce mechanical stimuli and cell-cell-interaction signals. Here, we aim to explore the ECM proteome in sterile inflammatory diseases as atherosclerosis and MI in an unprecedented depth. We aim to identify novel regulators which give insights into the underlying processes and we will study the molecular and cellular mechanisms modifying the course of the disease. This will lead to the identification of novel therapeutic targets which might reshape our understanding of how these diseases occur and how we can prevent them, and to the development of novel, individualized treatment strategies. Finally, we aim to translate our findings to humans to get first insights on whether these strategies can be adapted and used in clinical trials. MATRICARD will go beyond technical boundaries and lead to a deep knowledge of ECM-mediated cell-cell-communication and reveal its translational potential."
+}

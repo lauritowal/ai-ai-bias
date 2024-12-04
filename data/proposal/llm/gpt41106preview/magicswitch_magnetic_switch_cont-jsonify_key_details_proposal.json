@@ -1,0 +1,112 @@
+{
+    "item_type": "proposal",
+    "title": "MAGIC-SWITCH: Magnetic Switch Controlled with Voltage",
+    "descriptions": [
+        {
+            "proposal_name": "MAGIC-SWITCH: Magnetic Switch Controlled with Voltage",
+            "proposal_details": {
+                "data_storage_challenges": [
+                    "security threats",
+                    "robustness"
+                ],
+                "records_lost_or_stolen_per_second": 88,
+                "year_of_data_loss_statistic": 2017,
+                "vision": "new type of storage memory",
+                "base_technology": "ERC Consolidator SPIN-PORICS",
+                "prototype_features": [
+                    "secure storage",
+                    "data visibility control via voltage sequence"
+                ],
+                "operation_principle": "magneto-ionic effects",
+                "potential_uses": [
+                    "sensitive data storage",
+                    "encryption keys"
+                ],
+                "technology_readiness_level_initial": 3,
+                "technology_readiness_level_target": 5,
+                "project_goals": [
+                    "prototype development",
+                    "manufacturing process standardization",
+                    "business case creation"
+                ],
+                "descriptions": [
+                    "MAGIC-SWITCH will deliver the prototype and business case for a new type of secure storage memory."
+                ]
+            }
+        },
+        {
+            "proposal_name": "MAGIC-SWITCH: Magnetic Switch Controlled with Voltage",
+            "proposal_details": {
+                "descriptions": [
+                    "Enhancing robustness and security in data storage systems."
+                ],
+                "data_statistics": {
+                    "records_lost_or_stolen_per_second": 88,
+                    "base_year_for_statistics": 2017
+                },
+                "vision": {
+                    "scientific_output_source": "ERC Consolidator SPIN-PORICS",
+                    "proposed_storage_memory_type": "New type of secure storage memory"
+                },
+                "prototype_details": {
+                    "technology_readiness_level_initial": 3,
+                    "technology_readiness_level_target": 5,
+                    "features": [
+                        "Data visibility controlled by voltage sequence",
+                        "Magneto-ionic effects governed"
+                    ],
+                    "intended_use_cases": [
+                        "Storing sensitive data",
+                        "Storing encryption keys"
+                    ]
+                },
+                "commercialization_strategy": {
+                    "product_scale": "Industrial-relevant",
+                    "standardization": "Manufacturing process",
+                    "business_case_inclusions": [
+                        "Prototype description",
+                        "Commercial exploitation plan",
+                        "Partnership/fundraising pitch"
+                    ]
+                }
+            }
+        },
+        {
+            "proposal_name": "MAGIC-SWITCH: Magnetic Switch Controlled with Voltage",
+            "proposal_details": {
+                "descriptions": [
+                    "Delivering a prototype and business case for a new type of secure storage memory, at an industrial-relevant scale, where stored data can be made visible or hidden by applying a specific voltage sequence."
+                ],
+                "data_security": {
+                    "records_lost_or_stolen_per_second": 88,
+                    "year": 2017,
+                    "trend": "expected to increase year-over-year"
+                },
+                "project_goals": {
+                    "enhance_robustness_and_security": true,
+                    "develop_storage_memory": true,
+                    "build_prototype": true,
+                    "achieve_TRL": 5,
+                    "standardize_manufacturing_process": true,
+                    "create_commercial_business_case": true,
+                    "prepare_funding_pitch": true
+                },
+                "use_cases": [
+                    "storing sensitive healthcare data",
+                    "storing encryption keys"
+                ],
+                "technologies_involved": [
+                    "digital",
+                    "cloud-based"
+                ],
+                "scientific_basis": "SPIN-PORICS",
+                "operational_principle": "Magneto-ionic effects"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1b41b2b1e91bec154d4f850a724dfd96",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMAGIC-SWITCH: Magnetic Switch Controlled with Voltage\n\n**Description:**\n\nWe are living in a world that is increasingly driven by data. Governments, healthcare facilities, commercial businesses and individuals are all storing information in electronic form. This has led to the emergence of digital and cloud-based technologies. The ability to use information more efficiently has resulted in a rapid increase of the value of information. Indeed, many organizations today recognize information as their most valuable asset. However, with the Big Data revolution, information faces new, and potentially more damaging, security threats: 88 records were lost or stolen every second in 2017, and this number is expected to increase year-over-year. Thus, enhancing robustness and security in data storage systems is one of the major challenges in our modern society. Our vision for the near future is to turn the scientific output of the ERC Consolidator SPIN-PORICS into a new type of storage memory. MAGIC-SWITCH will deliver the prototype and business case for a new type of secure storage memory, at an industrial-relevant scale, in which “pre-selected” stored data can be made visible or hidden by applying a specific voltage sequence (which can be randomized, similar to a password). Magneto-ionic effects will govern the operation of this memory system. This novel storage device could be used to store sensitive data (e.g., healthcare data that are mandatory to be archived for several years) or encryption keys. The specific goal of this PoC project is to take the initial steps towards this vision by building a prototype (moving from Technology Readiness Level TRL 3 to 5), standardizing its manufacturing process and creating a business case for its commercial exploitation (including a pitch that can be used to close new partnerships or in fund-raising)."
+}

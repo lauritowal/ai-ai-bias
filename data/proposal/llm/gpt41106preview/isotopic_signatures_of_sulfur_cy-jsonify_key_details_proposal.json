@@ -1,0 +1,174 @@
+{
+    "item_type": "proposal",
+    "title": "Isotopic Signatures of Sulfur Cycling Organism Physiology and Ecology",
+    "descriptions": [
+        {
+            "proposal_name": "Isotopic Signatures of Sulfur Cycling Organism Physiology and Ecology",
+            "proposal_details": {
+                "isotope_fractionations": [
+                    "Sulfur (S)",
+                    "Oxygen (O)"
+                ],
+                "processes_influencing_fractionations": [
+                    "(bio)chemical reactions",
+                    "physical processes",
+                    "diagenesis"
+                ],
+                "compounds_studied": [
+                    "pyrite",
+                    "carbonate-associated sulfate"
+                ],
+                "goals": [
+                    "understanding metabolic isotope fractionation",
+                    "understanding impacts of diagenesis on preservation"
+                ],
+                "limitations": [
+                    "simplified models of isotopic fractionation in dissimilatory S metabolisms",
+                    "difficulty in capturing heterogeneous diagenesis in models"
+                ],
+                "approach": [
+                    "developing metabolic-isotopic models (MIMs)",
+                    "applying experimentally-validated MIMs of S metabolisms"
+                ],
+                "S_metabolisms": [
+                    "sulfate reduction",
+                    "reduced S oxidation",
+                    "S disproportionation"
+                ],
+                "model_hierarchy": [
+                    "increasing dimensionality",
+                    "increasing sophistication"
+                ],
+                "experiments": [
+                    "microfluidic experiments"
+                ],
+                "data_sources": [
+                    "environmental data"
+                ],
+                "insights": [
+                    "controls on multi-isotope fractionation in metabolic S cycling",
+                    "heterogeneous manifestation in aqueous and solid compounds",
+                    "isotopic compositions' use in probing S cycling",
+                    "microenvironmental conditions",
+                    "depositional parameters"
+                ],
+                "scales": [
+                    "microscopic",
+                    "global"
+                ],
+                "settings": [
+                    "modern",
+                    "ancient"
+                ],
+                "additional_applications": [
+                    "similar treatment of isotopic composition of other natural materials"
+                ],
+                "descriptions": [
+                    "This study aims to enhance the understanding of Sulfur cycling by developing experimentally-validated metabolic-isotopic models for interpreting isotopic signals in sedimentary compounds."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Isotopic Signatures of Sulfur Cycling Organism Physiology and Ecology",
+            "proposal_details": {
+                "isotope_fractionations": [
+                    "Sulfur (S)",
+                    "Oxygen (O)"
+                ],
+                "processes": [
+                    "biochemical reactions",
+                    "physical processes"
+                ],
+                "physical_process": "diagenesis",
+                "compounds": [
+                    "pyrite",
+                    "carbonate-associated sulfate"
+                ],
+                "models": [
+                    "metabolic-isotopic models (MIMs)"
+                ],
+                "sulfur_metabolisms": [
+                    "sulfate reduction",
+                    "reduced S oxidation",
+                    "S disproportionation"
+                ],
+                "model_applications": [
+                    "experimentally-validated",
+                    "embedded in ecosystem models"
+                ],
+                "insights": [
+                    "controls on multi-isotope fractionation in metabolic S cycling",
+                    "heterogeneous manifestation in aqueous and solid compounds",
+                    "isotopic compositions use to probe S cycling"
+                ],
+                "scales": [
+                    "microscopic",
+                    "global"
+                ],
+                "conditions": [
+                    "microenvironmental conditions",
+                    "depositional parameters"
+                ],
+                "settings": [
+                    "modern",
+                    "ancient"
+                ],
+                "goal": "robust interpretation of S and O isotope signals"
+            }
+        },
+        {
+            "proposal_name": "Isotopic Signatures of Sulfur Cycling Organism Physiology and Ecology",
+            "proposal_details": {
+                "metabolisms": [
+                    "sulfate reduction",
+                    "reduced S oxidation",
+                    "S disproportionation"
+                ],
+                "compounds": [
+                    "pyrite",
+                    "carbonate-associated sulfate"
+                ],
+                "isotope_fractionations": [
+                    "S",
+                    "O"
+                ],
+                "processes": [
+                    "diagenesis"
+                ],
+                "models": [
+                    "metabolic-isotopic models (MIMs)"
+                ],
+                "approaches": [
+                    "thermodynamics",
+                    "kinetics",
+                    "enzymatic reactions"
+                ],
+                "aims": [
+                    "develop experimentally-validated MIMs",
+                    "embed MIMs in ecosystem models",
+                    "compare with microfluidic experiments",
+                    "compare with environmental data"
+                ],
+                "insights": [
+                    "multi-isotope fractionation controls",
+                    "heterogeneous manifestation in compounds",
+                    "isotopic compositions to probe S cycling",
+                    "microenvironmental conditions",
+                    "depositional parameters"
+                ],
+                "applications": [
+                    "modern settings",
+                    "ancient settings"
+                ],
+                "descriptions": [
+                    "This proposal seeks to enhance our mechanistic understanding of isotopic fractionation in sulfur cycling and its preservation through diagenesis, by developing and applying novel metabolic-isotopic models."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5b421c513fbbfa1833697ee7e3c537c2",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nIsotopic Signatures of Sulfur Cycling Organism Physiology and Ecology\n\n**Description:**\n\nDissimilatory S metabolisms impart large S and O isotope fractionations, which are modulated by a suite of (bio)chemical reactions and physical processes (i.e., diagenesis) and ultimately preserved in the reduced and oxidized products of sedimentary S cycling (e.g., pyrite, carbonate-associated sulfate). The multi-isotope composition of such compounds encodes valuable information about microbial activity, environmental conditions, and elemental cycles. Robust interpretation of these signals requires mechanistic understanding of both the metabolic isotope fractionation itself and the impacts of diagenesis on its ultimate preservation. Such understanding is currently limited by simplified models of isotopic fractionation in dissimilatory S metabolisms, and by difficulty in capturing spatio-temporally heterogeneous diagenesis in reaction-transport models. We pioneered metabolic-isotopic models (MIMs), which account for the thermodynamics and kinetics of enzymatic reactions and turn empirical multi-isotope correlations into causal relationships. Here, I propose to develop and apply novel, experimentally-validated MIMs of the three most ecologically important S metabolisms—sulfate reduction, reduced S oxidation, and S disproportionation. By embedding these MIMs in a hierarchy of ecosystem models of increasing dimensionality and sophistication, and comparing the results to microfluidic experiments and environmental data, we will gain quantitative, nuanced insight into: (i) the controls on multi-isotope fractionation in metabolic S cycling, (ii) its heterogeneous manifestation in aqueous and solid compounds, and (iii) the use of these compounds' isotopic compositions to robustly probe S cycling on microscopic to global scales, microenvironmental conditions, and depositional parameters, in both modern and ancient settings. With S as a test case, we blaze a path to similar treatment of the processes that govern the isotopic composition of many other natural materials."
+}

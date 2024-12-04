@@ -1,0 +1,158 @@
+{
+    "item_type": "proposal",
+    "title": "Mapping Dispersion Spectroscopically in Large Gas-Phase Molecular Ions",
+    "descriptions": [
+        {
+            "proposal_name": "Mapping Dispersion Spectroscopically in Large Gas-Phase Molecular Ions",
+            "proposal_details": {
+                "technique": "IR spectroscopy",
+                "instrument": "cryogenic FT-ICR spectrometer",
+                "subject": "large, gas-phase molecular ions",
+                "interaction_type": "non-covalent, 'dispersion' interactions",
+                "measurements": [
+                    "conformational equilibria",
+                    "N-H frequency shifts"
+                ],
+                "correlation": [
+                    {
+                        "from": "gas-phase IR frequency",
+                        "to": "N-H-N bond angle"
+                    }
+                ],
+                "molecular_structures": [
+                    "onium cations",
+                    "proton-bound dimers"
+                ],
+                "forces": "dispersion forces",
+                "phenomena": [
+                    "N-H-N bond bending",
+                    "IR frequency shifts"
+                ],
+                "challenges": [
+                    "quantitative evaluation in large molecules",
+                    "lack of experimental benchmarks for large molecules in the gas phase"
+                ],
+                "solvation_effect": "cancels out the attractive potential",
+                "experimental_design": [
+                    "custom-built spectrometer",
+                    "tunable IR sources",
+                    "chemical synthesis of custom substrates",
+                    "quantum calculations up to coupled-cluster levels of theory"
+                ],
+                "disciplinary_approach": [
+                    "physical chemistry",
+                    "organic chemistry"
+                ],
+                "problem_impact": "understanding of steric effects in organic chemistry",
+                "descriptions": [
+                    "The proposal aims to introduce a new experimental probe of non-covalent interactions, providing a sensitive test of computational methods and other experiments."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Mapping Dispersion Spectroscopically in Large Gas-Phase Molecular Ions",
+            "proposal_details": {
+                "technique": "IR spectroscopy",
+                "equipment": "cryogenic FT-ICR spectrometer",
+                "subject": "large, gas-phase molecular ions",
+                "focus": "non-covalent 'dispersion' interactions",
+                "measurements": [
+                    "conformational equilibria",
+                    "N-H frequency shifts"
+                ],
+                "correlation": [
+                    "IR frequency",
+                    "N-H-N bond angle"
+                ],
+                "molecular_structures": [
+                    "onium cations",
+                    "proton-bound dimers"
+                ],
+                "interaction_type": "non-covalent dispersion forces",
+                "research_goal": [
+                    "quantitative evaluation of dispersion forces in large molecules",
+                    "experimental benchmarking for large gas-phase molecules"
+                ],
+                "significance": [
+                    "sensitive test of computational methods",
+                    "understanding of steric effects in organic chemistry"
+                ],
+                "experimental_conditions": [
+                    "isolated molecules",
+                    "gas phase"
+                ],
+                "experimental_design": [
+                    "custom-built spectrometer",
+                    "tunable IR sources",
+                    "chemical synthesis of custom substrates",
+                    "quantum calculations up to coupled-cluster levels of theory"
+                ],
+                "interdisciplinary_approach": [
+                    "physical chemistry",
+                    "organic chemistry"
+                ],
+                "descriptions": [
+                    "This proposal aims to introduce a new experimental probe of non-covalent interactions in large gas-phase molecular ions using infrared spectroscopy."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Mapping Dispersion Spectroscopically in Large Gas-Phase Molecular Ions",
+            "proposal_details": {
+                "technique": "IR spectroscopy",
+                "instrument": "cryogenic FT-ICR spectrometer",
+                "molecules": "large, gas-phase molecular ions",
+                "focus": "non-covalent, 'dispersion' interactions",
+                "measurements": [
+                    "conformational equilibria",
+                    "N-H frequency shifts"
+                ],
+                "correlations": [
+                    {
+                        "gas-phase IR frequency": "N-H-N bond angle in an ionic H-bond"
+                    }
+                ],
+                "variables": [
+                    "substituents on 'onium' cations",
+                    "substituents on proton-bound dimers"
+                ],
+                "interactions": "dispersion forces",
+                "challenges": [
+                    "quantitative evaluation in large molecules",
+                    "experimental benchmarks for large molecules in the gas phase"
+                ],
+                "hypotheses": [
+                    {
+                        "dispersion forces": "bend the N-H-N bond"
+                    },
+                    {
+                        "IR frequency shifts": "indicate non-covalent interaction strength"
+                    }
+                ],
+                "benchmarking": "computational methods and other experiments",
+                "requirements": [
+                    "isolated molecules in the gas phase"
+                ],
+                "experimental_design": [
+                    "custom-built spectrometer",
+                    "tunable IR sources",
+                    "chemical synthesis of custom substrates",
+                    "quantum calculations up to coupled-cluster levels of theory"
+                ],
+                "interdisciplinary_fields": [
+                    "physical chemistry",
+                    "organic chemistry"
+                ],
+                "problem_significance": "understanding of steric effects in organic chemistry",
+                "descriptions": [
+                    "The proposal seeks to understand non-covalent 'dispersion' interactions in large molecular ions using IR spectroscopy and a custom cryogenic FT-ICR spectrometer, correlating gas-phase IR frequency with the N-H-N bond angle to probe the conformational behavior and interaction potentials of substituents in 'onium' cations and their proton-bound dimers."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "775f15ecc040d9fd88a6ba3c35ab7d78",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMapping Dispersion Spectroscopically in Large Gas-Phase Molecular Ions\n\n**Description:**\n\nWe use IR spectroscopy of trapped ions in a cryogenic FT-ICR spectrometer to probe non-covalent, “dispersion” interactions in large, gas-phase molecular ions. We will measure conformational equilibria by N-H frequency shifts, and correlate gas-phase IR frequency to the N-H-N bond angle in an ionic H-bond. Substituents on “onium” cations can adopt various conformations, whose energies map interaction potentials. Substituents on their proton-bound dimers interact non-covalently through dispersion forces, whose quantitative evaluation in large molecules has remained difficult despite dispersion becoming increasingly cited as a design principle in the construction of catalysts and materials. The non-covalent interactions bend the N-H-N bond, leading to large shifts in the IR frequency. The proton-bound dimer acts like a molecular balance where the non-covalent interaction, is set against the bending potential in an ionic hydrogen bond. Despite encouragingly accurate calculations for small molecules, experimental benchmarks for large molecules in the gas phase remain scarce, and there is evidence that the good results for small molecules may not extrapolate reliably to large molecules. The present proposal introduces a new experimental probe of non-covalent interactions, providing a sensitive test of the diverging results coming from various computational methods and other experiments. The experiment must be done on isolated molecules in the gas phase, as previous work has shown that solvation substantially cancels out the attractive potential. Accordingly, the proposed experimental design, which involves a custom-built spectrometer, newly available tunable IR sources, chemical synthesis of custom substrates, and quantum calculations up to coupled-cluster levels of theory, showcases how an interdisciplinary approach combining physical and organic chemistry can solve a fundamental problem that impacts how we understand steric effects in organic chemistry."
+}

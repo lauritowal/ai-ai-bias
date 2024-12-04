@@ -1,0 +1,180 @@
+{
+    "item_type": "proposal",
+    "title": "Function and production of secondary metabolites",
+    "descriptions": [
+        {
+            "proposal_name": "Function and production of secondary metabolites",
+            "proposal_details": {
+                "importance": "Secondary metabolites (SMs) are crucial in modern therapy for various diseases.",
+                "knowledge_gap": [
+                    "Natural function of SMs",
+                    "Underlying regulatory networks",
+                    "Methods to increase number and yield of SMs"
+                ],
+                "project_name": "PROSECMET",
+                "work_packages": [
+                    "WP1-Identification of SM targets",
+                    "WP2-Regulatory networks",
+                    "WP3-Increasing chemical diversity",
+                    "WP4-Optimization of SM production"
+                ],
+                "model_organisms": [
+                    "Photorhabdus",
+                    "Xenorhabdus"
+                ],
+                "symbiosis": "Bacteria that live in symbiosis with nematodes forming an entomopathogenic complex",
+                "research_methods": [
+                    "Derivatives synthesis for target identification",
+                    "Flow cytometry",
+                    "Chemical biology methods",
+                    "Promoter-reporter gene fusion"
+                ],
+                "goals": {
+                    "WP1": "Identify molecular targets of SMs in bacteria, nematodes, insects, and food competitors",
+                    "WP2": "Identify external factors activating SM production and internal signaling within producer",
+                    "WP3": "Apply WP2 factors to increase SM variety and yield in 100 different bacterial isolates",
+                    "WP4": "Couple cell growth to SM production for systematic construction of SM overproducers"
+                },
+                "descriptions": [
+                    "Using regulatory elements or designed regulators to optimize SM production."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Function and production of secondary metabolites",
+            "proposal_details": {
+                "descriptions": [
+                    "Secondary metabolites of bacterial origin are important in therapy for various diseases."
+                ],
+                "objectives": [
+                    "Identify the natural function of secondary metabolites",
+                    "Understand the regulatory networks involved",
+                    "Increase the number and yield of secondary metabolites produced by a single organism"
+                ],
+                "methodology": [
+                    {
+                        "work_package": "WP1",
+                        "activity": "Identification of SM targets",
+                        "methods": [
+                            "Synthesis of SM derivatives",
+                            "Identification of molecular targets using chemical biology"
+                        ]
+                    },
+                    {
+                        "work_package": "WP2",
+                        "activity": "Regulatory networks",
+                        "methods": [
+                            "Identify external factors activating SM production",
+                            "Determine if SMs act as internal signals",
+                            "Use flow cytometry"
+                        ]
+                    },
+                    {
+                        "work_package": "WP3",
+                        "activity": "Increasing chemical diversity",
+                        "methods": [
+                            "Apply factors from WP2 to increase SM yield",
+                            "Sequence genomes and exchange promoters for SM biosynthesis"
+                        ]
+                    },
+                    {
+                        "work_package": "WP4",
+                        "activity": "Optimization of SM production",
+                        "methods": [
+                            "Use regulatory elements from WP2 or design artificial regulators",
+                            "Couple cell growth to SM production"
+                        ]
+                    }
+                ],
+                "model_organisms": [
+                    "Photorhabdus bacteria",
+                    "Xenorhabdus bacteria"
+                ],
+                "symbiosis": [
+                    "Live in symbiosis with nematodes",
+                    "Form an entomopathogenic complex"
+                ],
+                "sample_size": "At least 100 different Photorhabdus and Xenorhabdus isolates"
+            }
+        },
+        {
+            "proposal_name": "Function and production of secondary metabolites",
+            "proposal_details": {
+                "importance": "modern therapy of various diseases",
+                "knowledge_gap": [
+                    "natural function of SMs",
+                    "regulatory networks",
+                    "increasing number and yield of SMs"
+                ],
+                "project_name": "PROSECMET",
+                "model_organisms": [
+                    "Photorhabdus",
+                    "Xenorhabdus"
+                ],
+                "symbiosis": "with nematodes",
+                "entomopathogenic_complex": true,
+                "work_packages": [
+                    {
+                        "WP1": "Identification of SM targets",
+                        "methods": "chemical biology",
+                        "targets": [
+                            "bacteria",
+                            "nematodes",
+                            "insects",
+                            "food competitors"
+                        ]
+                    },
+                    {
+                        "WP2": "Regulatory networks",
+                        "methods": [
+                            "flow cytometry"
+                        ],
+                        "focal_points": [
+                            "external factors activating SM production",
+                            "SMs as internal signals"
+                        ],
+                        "tools": [
+                            "SM biosynthesis gene promoters",
+                            "promoter libraries",
+                            "reporter genes"
+                        ],
+                        "reporters": [
+                            "fluorescent proteins",
+                            "resistance genes"
+                        ]
+                    },
+                    {
+                        "WP3": "Increasing chemical diversity",
+                        "approach": "apply WP2 factors",
+                        "target_organisms": "100 different Photorhabdus and Xenorhabdus isolates",
+                        "goals": [
+                            "increase number of SMs",
+                            "increase yield of SMs"
+                        ],
+                        "additional_methods": [
+                            "genome sequencing",
+                            "exchange of promoters"
+                        ]
+                    },
+                    {
+                        "WP4": "Optimization of SM production",
+                        "methods": [
+                            "using regulatory elements from WP2",
+                            "artificial regulators"
+                        ],
+                        "goal": "couple cell growth to SM production",
+                        "outcome": "systematic construction of SM overproducers"
+                    }
+                ],
+                "descriptions": [
+                    "This proposal investigates the function and production of secondary metabolites in bacteria, aiming to identify their natural roles, regulatory networks, and ways to enhance their production for medical use."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f4f2e6b63fec063f72bc91e315f564f9",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nFunction and production of secondary metabolites\n\n**Description:**\n\nSecondary metabolites (SMs) of bacterial origin play a pivotal role in modern therapy of various diseases. Whole-genome sequencing projects have revealed that all SM producing organisms have the capacity to produce many more compounds than reported from the respective strains. Despite their importance and their broad use in medicine, we hardly know anything about (i) the natural function of these important compounds, (ii) the underlying regulatory networks, and (iii) how to increase the number and yield of SMs produced by a single organism. PROSECMET will address all these issues through the activities in four different work packages. As model organisms Photorhabdus and Xenorhabdus bacteria will be used that live in symbiosis with nematodes and together with them form an entomopathogenic complex. WP1-Identification of SM targets. Derivatives of SMs will be synthesized allowing the identification of their molecular targets in bacteria, nematodes, insects and/or food competitors using methods of chemical biology. WP2-Regulatory networks. External factors that activate SM production and if and how SMs act as internal signals in the producer will be identified (eg. by flow cytometry) with specific strains carrying SM biosynthesis gene promoters or promoter libraries fused to genes encoding different reporters (fluorescent proteins, resistance genes). WP3-Increasing chemical diversity. Factors identified in WP2 will be applied to at least 100 different Photorhabdus and Xenorhabdus isolates in order to increase the number and the yield of SMs produced by them. Additionally, the genome of selected isolates will be sequenced in order to exchange the promoters responsible for SM biosynthesis leading to the production of additional compounds WP4-Optimization of SM production. Using either regulatory elements identified in WP2 or artificially designed regulators, cell growth will be coupled to SM production, thus enabling the systematic construction of SM overproducers."
+}

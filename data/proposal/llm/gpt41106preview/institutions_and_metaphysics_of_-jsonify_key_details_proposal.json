@@ -1,0 +1,170 @@
+{
+    "item_type": "proposal",
+    "title": "Institutions and Metaphysics of Cosmology in the Epistemic Networks of Seventeenth-Century Europe",
+    "descriptions": [
+        {
+            "proposal_name": "Institutions and Metaphysics of Cosmology in the Epistemic Networks of Seventeenth-Century Europe",
+            "proposal_details": {
+                "focus": [
+                    "competing confessional discourses on cosmology",
+                    "seventeenth century",
+                    "religious conflicts",
+                    "opposing ‘epistemic cultures’"
+                ],
+                "embodiments": [
+                    "Protestant web of northern European universities",
+                    "global web of Jesuit colleges"
+                ],
+                "controversies": [
+                    "heliocentrism",
+                    "plurality of worlds",
+                    "space",
+                    "infinity",
+                    "cometary theory",
+                    "celestial matter",
+                    "fluidity"
+                ],
+                "historical_events": [
+                    "Roman prohibition of the Copernican system in 1616",
+                    "condemnation of Galileo in 1633"
+                ],
+                "formation_of_cosmological_cultures": [
+                    "confessional",
+                    "political lines of alliance and opposition"
+                ],
+                "research_objectives": [
+                    "interrelations between cosmological debates in northern European Protestant networks",
+                    "cosmological debates in Jesuit networks",
+                    "comparative assessment of epistemic webs"
+                ],
+                "considerations": [
+                    "parallelisms and contrasts",
+                    "negotiations and intersections",
+                    "seventeenth-century cosmological discourses",
+                    "different epistemic cultures"
+                ],
+                "dimensions_explored": [
+                    "political-confessional dimension of early-modern cosmology",
+                    "science embedded in struggles for cultural hegemony"
+                ],
+                "significance": [
+                    "comparative study of history of knowledge institutions",
+                    "metaphysical legitimation"
+                ],
+                "descriptions": [
+                    "The project aims to comparatively assess early formations and transformations of seventeenth-century epistemic webs, focusing on cosmological debates within Protestant and Jesuit networks and their political-confessional implications."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Institutions and Metaphysics of Cosmology in the Epistemic Networks of Seventeenth-Century Europe",
+            "proposal_details": {
+                "focus": "competing confessional discourses on cosmology in the seventeenth century",
+                "context": {
+                    "era": "seventeenth century",
+                    "events": [
+                        "Roman prohibition of the Copernican system in 1616",
+                        "Condemnation of Galileo in 1633"
+                    ],
+                    "conflicts": "religious conflicts",
+                    "political_confessional_fragmentation": true
+                },
+                "institutions_networks": [
+                    "Protestant web of northern European universities",
+                    "global web of Jesuit colleges"
+                ],
+                "cosmological_controversies": [
+                    "heliocentrism",
+                    "plurality of worlds",
+                    "space",
+                    "infinity",
+                    "cometary theory",
+                    "celestial matter",
+                    "fluidity"
+                ],
+                "research_objectives": [
+                    {
+                        "objective": "address interrelations between cosmological debates in northern European Protestant institutional networks of scholars and institutions"
+                    },
+                    {
+                        "objective": "address cosmological debates in Jesuit institutional networks"
+                    },
+                    {
+                        "objective": "comparative assessment of early formations and transformations of epistemic webs"
+                    }
+                ],
+                "comparative_focus": "parallelisms and contrasts, negotiations and intersections of seventeenth-century cosmological discourses",
+                "participants": [
+                    "scholars",
+                    "institutions",
+                    "scientific communities"
+                ],
+                "epistemic_cultures": "different confessional and political lines of alliance and opposition",
+                "study_importance": {
+                    "political_confessional_dimension": "of early-modern cosmology",
+                    "science_embedding": "in struggles for cultural hegemony",
+                    "nature_of_struggles": "institutional and ideological"
+                },
+                "research_gap": "comparative study bringing together the history of knowledge institutions and their metaphysical legitimation",
+                "descriptions": [
+                    {
+                        "description": "The project investigates the intersection of scientific discourse and confessional politics in seventeenth-century Europe, focusing on how cosmological debates were shaped by institutional and ideological battles."
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Institutions and Metaphysics of Cosmology in the Epistemic Networks of Seventeenth-Century Europe",
+            "proposal_details": {
+                "project_focus": [
+                    "competing confessional discourses on cosmology",
+                    "seventeenth century religious conflicts",
+                    "opposing epistemic cultures"
+                ],
+                "institutional_networks": [
+                    "Protestant web of northern European universities",
+                    "global web of Jesuit colleges"
+                ],
+                "cosmological_controversies": [
+                    "heliocentrism",
+                    "plurality of worlds",
+                    "space",
+                    "infinity",
+                    "cometary theory",
+                    "celestial matter",
+                    "fluidity"
+                ],
+                "significant_events": [
+                    "Roman prohibition of the Copernican system in 1616",
+                    "condemnation of Galileo in 1633"
+                ],
+                "research_objectives": [
+                    "comparative assessment of early formations and transformations of epistemic webs"
+                ],
+                "comparative_analysis": [
+                    "cosmological debates in northern European Protestant institutional networks",
+                    "cosmological debates in Jesuit institutional networks"
+                ],
+                "descriptions": [
+                    "political-confessional dimension of early-modern cosmology"
+                ],
+                "historical_context": [
+                    "increasing political and confessional fragmentation",
+                    "formation of competing cosmological cultures"
+                ],
+                "research_importance": [
+                    "science embedded in cultural hegemony struggles",
+                    "institutional and ideological struggles"
+                ],
+                "gap_in_literature": [
+                    "comparative study of history of knowledge institutions and metaphysical legitimation"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "edd39ef5df9333e422b55a1b0280be5a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nInstitutions and Metaphysics of Cosmology in the Epistemic Networks of Seventeenth-Century Europe\n\n**Description:**\n\nThe focus of this project is the competing confessional discourses on cosmology of the seventeenth century, an epoch in which religious conflicts originated opposing ‘epistemic cultures’, which were embodied in scholarly institutions and networks such as the Protestant web of northern European universities or the global web of Jesuit colleges. In the Early Modern Period cosmological controversies (over issues such as heliocentrism, plurality of worlds, space, infinity, cometary theory, celestial matter and fluidity) were heated and amplified by increasing political and confessional fragmentation. The Roman prohibition of the Copernican system (1616) and the extraordinary condemnation of Galileo (1633) accelerated the formation of competing cosmological cultures along confessional and political lines of alliance and opposition. This research project addresses the interrelations between [1.] cosmological debates in the northern European Protestant institutional networks of scholars and institutions and [2.] cosmological debates in Jesuit institutional networks aiming at [3.] a comparative assessment of early formations and transformations of epistemic webs. It considers parallelisms and contrasts, negotiations and intersections of seventeenth-century cosmological discourses between scholars, institutions and scientific communities belonging to different epistemic cultures. This endeavor brings into focus the political-confessional dimension of early-modern cosmology and shows how science is embedded in struggles for cultural hegemony, struggles which were at once institutional and ideological. While there is a great deal of in-depth study on the history of science in various early-modern confessional contexts, a comparative study bringing together the history of knowledge institutions and their metaphysical legitimation is still a desideratum."
+}

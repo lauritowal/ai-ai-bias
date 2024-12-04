@@ -1,0 +1,134 @@
+{
+    "item_type": "proposal",
+    "title": "QUANTUM OPTICAL MAGNETOMETER FOR MEDICAL APPLICATIONS",
+    "descriptions": [
+        {
+            "proposal_name": "QUANTUM OPTICAL MAGNETOMETER FOR MEDICAL APPLICATIONS",
+            "proposal_details": {
+                "purpose": "Sensitive detection of weak magnetic fields for bio- and medical diagnostics",
+                "current_limitations": [
+                    "Lack of ubiquity in medical diagnostics",
+                    "High cost and cryogenic cooling requirements of SQUIDs"
+                ],
+                "project_name": "INTERFACE",
+                "development": "Novel optical magnetometer with sensitivity rivaling SQUIDs",
+                "operating_conditions": [
+                    "Room temperature",
+                    "Human body temperature"
+                ],
+                "innovation": "Optimization of quantum noise in light-atoms interaction",
+                "preliminary_results": "Detection of action potential magnetic signals from a nerve",
+                "follow_up_project": "QUMAG",
+                "follow_up_focus": "Potential of the quantum magnetometer in ophthalmology",
+                "collaboration": [
+                    "Medical researchers",
+                    "Leading ophthalmologists"
+                ],
+                "device": "Magnetoretinograph",
+                "application": "Eye diagnostics",
+                "device_features": [
+                    "Small",
+                    "Fiber-connected chip",
+                    "Close proximity to the eye",
+                    "Noninvasive",
+                    "Inexpensive",
+                    "Ultrasensitive"
+                ],
+                "market_potential": [
+                    "Glaucoma",
+                    "Retinitis pigmentosa",
+                    "Inborn blindness"
+                ],
+                "descriptions": [
+                    "This grant proposal abstract relates to the development of a quantum optical magnetometer designed for medical applications, specifically for the sensitive detection of magnetic fields produced by human nerves, eyes, and brain to aid in diagnostics."
+                ]
+            }
+        },
+        {
+            "proposal_name": "QUANTUM OPTICAL MAGNETOMETER FOR MEDICAL APPLICATIONS",
+            "proposal_details": {
+                "applications": [
+                    "bio-diagnostic",
+                    "medical diagnostic"
+                ],
+                "limitations_of_current_technology": [
+                    "high cost",
+                    "cryogenic cooling requirement"
+                ],
+                "current_technology": [
+                    "superconducting magnetometers (SQUIDs)"
+                ],
+                "project_name": "INTERFACE",
+                "developed_technology": "optical magnetometer",
+                "operating_temperature": [
+                    "room temperature",
+                    "human body temperature"
+                ],
+                "design_basis": "quantum noise optimization of light-atoms interaction",
+                "demonstration": "detection of action potential magnetic signals from nerve",
+                "quantum_technology_applications": [
+                    "ophthalmology"
+                ],
+                "future_project_name": "QUMAG",
+                "planned_development": "magnetoretinograph for eye diagnostics",
+                "collaborators": [
+                    "medical researchers",
+                    "leading ophthalmologists"
+                ],
+                "device_features": [
+                    "small fiber-connected chip",
+                    "close proximity to eye",
+                    "noninvasive",
+                    "inexpensive",
+                    "ultrasensitive"
+                ],
+                "market_applications": [
+                    "glaucoma",
+                    "retinitis pigmentosa",
+                    "inborn blindness"
+                ],
+                "descriptions": [
+                    "The QUMAG project aims to develop a fiber-connected quantum optical magnetometer for sensitive detection of weak magnetic fields in medical diagnostics, particularly for eye-related diseases."
+                ]
+            }
+        },
+        {
+            "proposal_name": "QUANTUM OPTICAL MAGNETOMETER FOR MEDICAL APPLICATIONS",
+            "proposal_details": {
+                "descriptions": [
+                    "Development of a novel optical magnetometer for sensitive detection of weak magnetic fields produced by human nerves, eyes and brain."
+                ],
+                "problem_statement": "Lack of ubiquitous tool for medical diagnostics due to expensive superconducting magnetometers (SQUIDs) requiring cryogenic cooling.",
+                "developed_within": "INTERFACE project",
+                "novelty": "Optical magnetometer with sensitivity rivaling SQUIDs operating at room or human body temperature.",
+                "design_basis": "Optimizing quantum noise of the light-atoms interaction.",
+                "preliminary_results": "Detection of action potential magnetic signals from a nerve.",
+                "project_name": "QUMAG",
+                "research_focus": "Exploring the potential of the quantum magnetometer in ophthalmology.",
+                "collaborators": [
+                    "Medical researchers",
+                    "Leading ophthalmologists"
+                ],
+                "development_goal": "Magnetoretinograph for eye diagnostics.",
+                "device_characteristics": [
+                    "Small fiber-connected chip",
+                    "Placed in close proximity to the eye",
+                    "Noninvasive",
+                    "Inexpensive",
+                    "Ultrasensitive diagnostics"
+                ],
+                "target_diseases": [
+                    "Glaucoma",
+                    "Retinitis pigmentosa",
+                    "Inborn blindness"
+                ],
+                "market_potential": "High due to the need for improved eye disease diagnostics."
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "37054394936b0a466268fc15c0813e35",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nQUANTUM OPTICAL MAGNETOMETER FOR MEDICAL APPLICATIONS\n\n**Description:**\n\nSensitive detection of weak magnetic fields produced by human nerves, eyes and brain has a large potential as a diagnostic tool for bio- and medical applications. However, measurements of magnetic fields have not yet been developed into a ubiquitous tool for medical diagnostics, one of the reasons being that commercially available magnetometers with high enough sensitivity are based on expensive superconducting magnetometers (SQUIDs) which require cryogenic cooling. Within the INTERFACE project we have developed a novel optical magnetometer with sensitivity rivaling SQUIDs but operating at room or human body temperature. This breakthrough has been achieved by the design based on optimizing quantum noise of the light-atoms interaction. First results on detection of action potential magnetic signals from a nerve provide an example of quantum technology in service of real world applications. Within the QUMAG project we shall explore the potential of the quantum magnetometer in ophthalmology. In collaboration with medical researchers and leading ophthalmologists we shall develop a magnetoretinograph for eye diagnostics. The small fiber-connected chip which can be placed in the close proximity to the eye and provide noninvasive, inexpensive, ultrasensitive diagnostics will find a market in curing such diseases as glaucoma, retinitis pigmentosa, and inborn blindness."
+}

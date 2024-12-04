@@ -1,0 +1,123 @@
+{
+    "item_type": "proposal",
+    "title": "Functionality of Oxide based devices under Electric-field: Towards Atomic-resolution Operando Nanoscopy",
+    "descriptions": [
+        {
+            "proposal_name": "Functionality of Oxide based devices under Electric-field: Towards Atomic-resolution Operando Nanoscopy",
+            "proposal_details": {
+                "objective": "Understanding oxygen dynamics for superior device performance in emergent oxide electronics",
+                "aim": "Correlate electrical behavior and atomic structure during device operation",
+                "advancements": [
+                    "MEMS chips for in situ TEM",
+                    "Lab-on-a-chip approach for metal-oxide functional devices"
+                ],
+                "proposed_project": {
+                    "based_on": [
+                        "Electrical contact and operation of an electron transparent lamella device",
+                        "Design of a novel MEMS-based chip for in situ electrical biasing"
+                    ],
+                    "project_name": "FOXON",
+                    "focus": "Operando investigations of oxide thin film and interface switching phenomena of MIM devices under electrical bias"
+                },
+                "scientific_mission": {
+                    "studies": [
+                        "Switching processes in oxide devices",
+                        "Atomic-level mechanisms leading to tunable physical properties"
+                    ],
+                    "key_topics": [
+                        "Dynamics of oxygen vacancies",
+                        "Stability of quantized conductance states in RRAM devices"
+                    ]
+                },
+                "expected_outcomes": "Pave the way for novel quantum and information technologies",
+                "references": [
+                    {
+                        "title": "Ultramicroscopy",
+                        "volume": "181",
+                        "year": "2017",
+                        "pages": "144-149"
+                    },
+                    {
+                        "title": "Adv. Funct. Mater.",
+                        "year": "2017",
+                        "article_number": "1700432"
+                    }
+                ],
+                "descriptions": [
+                    "The project will establish a group to develop beyond state-of-the-art operando TEM of MIM structured devices and address open questions in the field of oxide electronics."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Functionality of Oxide based devices under Electric-field: Towards Atomic-resolution Operando Nanoscopy",
+            "proposal_details": {
+                "research_field": "oxide electronics",
+                "objectives": [
+                    "correlate electrical behavior and atomic structure during device operation",
+                    "perform current-voltage measurements with simultaneous structural, chemical, or electronic structure analysis",
+                    "investigate metal-oxide functional devices with controlled electric field studies",
+                    "develop operando TEM for MIM structured devices",
+                    "understand atomic-level mechanisms in oxide electronics"
+                ],
+                "methods": [
+                    "use of MEMS chips for in situ TEM",
+                    "lab-on-a-chip approach",
+                    "in situ electrical biasing"
+                ],
+                "proposed_platform": "FOXON",
+                "prior_work": [
+                    {
+                        "reference": "Ultramicroscopy 181 (2017) 144-149",
+                        "description": "electrical contact and operation of electron transparent lamella device fabricated from MIM structure"
+                    },
+                    {
+                        "reference": "Adv. Funct. Mater. (2017) 1700432",
+                        "description": "studies on quantized conductance states and oxygen vacancy dynamics in RRAM devices"
+                    }
+                ],
+                "potential_impacts": [
+                    "advance in nanoelectronics",
+                    "new quantum and information technologies"
+                ],
+                "descriptions": [
+                    "The project aims to provide a deeper understanding of oxygen dynamics and its correlation with electrical behavior and atomic structure in emergent oxide electronics, utilizing recent advances in MEMS chips for in situ TEM."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Functionality of Oxide based devices under Electric-field: Towards Atomic-resolution Operando Nanoscopy",
+            "proposal_details": {
+                "objective": "Bridging the gap between theoretical models and experimental reality in oxide electronics",
+                "techniques": [
+                    "MEMS chips for in situ TEM",
+                    "Current-voltage measurements during device operation",
+                    "Lab-on-a-chip approach"
+                ],
+                "project_basis": [
+                    "Electrical contact and operation of electron transparent lamella device fabrication from MIM structure (Ultramicroscopy 181 (2017) 144-149)",
+                    "Design of novel MEMS-based chip for in situ electrical biasing"
+                ],
+                "project_name": "FOXON",
+                "aims": [
+                    "Atomic scale operando investigations of oxide thin film and interface switching phenomena",
+                    "Development of beyond state-of-the-art operando TEM for MIM structured devices",
+                    "Understanding of atomic-level mechanisms in oxide electronics"
+                ],
+                "scientific_mission": [
+                    "Study switching processes in oxide devices",
+                    "Comprehend atomic-level mechanisms leading to tunable physical properties"
+                ],
+                "focus": [
+                    "Dynamics of oxygen vacancies",
+                    "Stability of quantized conductance states in RRAM devices (Adv. Funct. Mater. (2017) 1700432)"
+                ],
+                "potential_impact": "Pave the way for novel quantum and information technologies"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1279dd9d6660433d3a4ad37a7702f387",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nFunctionality of Oxide based devices under Electric-field: Towards Atomic-resolution Operando Nanoscopy\n\n**Description:**\n\nUnderstanding oxygen dynamics is a key to superior device performance in emergent oxide electronics. So far it is an unrealized dream to correlate electrical behavior and atomic structure during device operation. Here, I envision bridging the gap between theoretical models and experimental reality. Recent advances in microelectromechanical systems (MEMS) chips for in situ transmission electron microscopy (TEM) are opening exciting new avenues in nanoscale research. The capability to perform current-voltage measurements while simultaneously analyzing the corresponding structural, chemical or even electronic structure changes during the operation of an electronic device would be a major breakthrough for nanoelectronics. Controlled electric field studies would enable an unprecedented way to investigate metal-oxide functional devices by using a lab-on-a-chip approach. I propose this project based upon own groundbreaking work on (i) how to electrically contact and operate an electron transparent lamella device fabricated from a metal-insulator-metal (MIM) structure (Ultramicroscopy 181 (2017) 144-149) and (ii) the design of a novel MEMS-based chip for in situ electrical biasing. FOXON will provide a platform for atomic scale operando investigations of oxide thin film and interface switching phenomena of MIM devices under electrical bias inside a microscope. My scientific endeavor will establish a group to develop beyond state-of-the-art operando TEM of MIM structured devices and tackle open questions in the field of oxide electronics. My scientific mission incorporates (a) studies of switching processes in oxide devices and (b) a comprehensive understanding of the atomic-level mechanisms that lead to tunable physical properties including dynamics of oxygen vacancies and stability of quantized conductance states in RRAM devices (Adv. Funct. Mater. (2017) 1700432). The results from this ERC Starting Grant could pave the way for novel quantum and information technologies."
+}

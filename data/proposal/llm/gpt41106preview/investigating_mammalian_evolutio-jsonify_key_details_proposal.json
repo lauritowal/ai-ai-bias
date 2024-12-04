@@ -1,0 +1,130 @@
+{
+    "item_type": "proposal",
+    "title": "Investigating mammalian evolution using million-year genomic transects",
+    "descriptions": [
+        {
+            "proposal_name": "Investigating mammalian evolution using million-year genomic transects",
+            "proposal_details": {
+                "field": "ancient DNA",
+                "contributions_to": [
+                    "evolutionary biology",
+                    "palaeontology"
+                ],
+                "current_limit_of_DNA_study": "last 50,000 years",
+                "project_aims": [
+                    "study evolution on a million-year time scale",
+                    "develop and apply novel palaeogenomic methods",
+                    "extend DNA recovery limits"
+                ],
+                "specific_goals": [
+                    "sequence one hundred ancient genomes",
+                    "examine macroevolutionary changes",
+                    "investigate speciation events",
+                    "study Pleistocene climate change effects"
+                ],
+                "research_questions": [
+                    "origin of species",
+                    "importance of interspecific introgression",
+                    "timing and rate of adaptive evolution",
+                    "demographic consequences of environmental change"
+                ],
+                "research_group_features": [
+                    "cutting-edge of wildlife palaeogenomics",
+                    "extended ancient DNA recovery beyond one million years"
+                ],
+                "institution": "Centre for Palaeogenetics, Stockholm",
+                "project_impact": [
+                    "extend beyond current state of the art",
+                    "set new paradigm for palaeogenomic research",
+                    "resource for long-term evolutionary dynamics",
+                    "resource for studying environmental changes"
+                ],
+                "descriptions": [
+                    "A groundbreaking project to study mammalian evolution on a million-year timescale using novel palaeogenomic methods."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Investigating mammalian evolution using million-year genomic transects",
+            "proposal_details": {
+                "field": "ancient DNA",
+                "contributions": [
+                    "evolutionary biology",
+                    "palaeontology"
+                ],
+                "time_scale_focus": "last 50,000 years",
+                "project_aim": "study evolution on a million-year time scale",
+                "methods": [
+                    "develop novel palaeogenomic methods",
+                    "extend DNA recovery limits"
+                ],
+                "goals": [
+                    "sequence one hundred ancient genomes",
+                    "examine macroevolutionary changes",
+                    "investigate speciation events",
+                    "study Pleistocene climate change effects"
+                ],
+                "research_questions": [
+                    "species origination",
+                    "interspecific introgression importance",
+                    "adaptive evolution timing and rate",
+                    "demographic consequences of environmental change"
+                ],
+                "team_experience": "leading wildlife palaeogenomics studies",
+                "significant_achievement": "extended ancient DNA recovery to beyond one million years",
+                "institution": "Centre for Palaeogenetics, Stockholm",
+                "project_impact": [
+                    "new paradigm for palaeogenomic research",
+                    "resource for evolutionary dynamics and environmental changes research"
+                ],
+                "descriptions": [
+                    "This project proposes groundbreaking research into the long-term evolution of mammalian species by analyzing ancient genomes from the Early and Middle Pleistocene era."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Investigating mammalian evolution using million-year genomic transects",
+            "proposal_details": {
+                "field": "ancient DNA",
+                "contributions": [
+                    "evolutionary biology",
+                    "palaeontology"
+                ],
+                "current_limit_of_DNA_study": "last 50,000 years",
+                "project_aims": [
+                    "study evolution on a million-year time scale",
+                    "develop and apply novel palaeogenomic methods",
+                    "extend current limits of DNA recovery"
+                ],
+                "scientific_questions": [
+                    "species origination",
+                    "interspecific introgression importance",
+                    "adaptive evolution timing and rate",
+                    "demographic consequences of past environmental changes"
+                ],
+                "method": "sequencing one hundred ancient genomes",
+                "specimens": "Early and Middle Pleistocene remains",
+                "species": [
+                    "multiple Holarctic mammalian species"
+                ],
+                "periods_of_interest": [
+                    "Pleistocene climate change",
+                    "speciation events"
+                ],
+                "research_group_status": "cutting-edge of wildlife palaeogenomics",
+                "recent_accomplishment": "extended the limit of ancient DNA recovery to beyond one million years",
+                "research_base": "Centre for Palaeogenetics in Stockholm",
+                "project_scope": [
+                    "extend beyond current state of the art",
+                    "set a new paradigm for palaeogenomic research"
+                ],
+                "expected_outcome": "unparalleled resource for long-term evolutionary dynamics and environmental changes research"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "664aa92a00a2ac5890c1a0627ba76547",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nInvestigating mammalian evolution using million-year genomic transects\n\n**Description:**\n\nThe field of ancient DNA has made major contributions to evolutionary biology and palaeontology in recent years, due to its power to reveal novel information about prehistory. However, even though many of the evolutionary processes that shaped the present-day biota have taken place over hundreds of thousands of years, nearly all ancient DNA studies to date have focused on biological changes during the last 50,000 years. I here propose a groundbreaking project that aims to study evolution on a million-year time scale. We will develop and apply novel palaeogenomic methods to extend the current limits of DNA recovery, which will allow us to address scientific questions previously thought to be beyond the realm of ancient DNA research. More specifically, we aim to sequence one hundred ancient genomes recovered from Early and Middle Pleistocene remains of multiple Holarctic mammalian species. This will enable us to examine macroevolutionary changes across speciation events and key periods of Pleistocene climate change. More specifically, we will investigate several fundamental questions on how species originate, the importance of interspecific introgression, the timing and rate of adaptive evolution, and the demographic consequences of past environmental change. My research group has a track-record at the cutting-edge of wildlife palaeogenomics, and recently led the study that extended the limit of ancient DNA recovery to beyond one million years. Based at the newly established Centre for Palaeogenetics in Stockholm, the project will extend beyond the current state of the art and will set a new paradigm for palaeogenomic research. The resulting data will provide an unparalleled resource for researchers studying long-term evolutionary dynamics and environmental changes at a global scale."
+}

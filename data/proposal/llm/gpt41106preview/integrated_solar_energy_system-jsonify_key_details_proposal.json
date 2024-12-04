@@ -1,0 +1,150 @@
+{
+    "item_type": "proposal",
+    "title": "Integrated Solar Energy System",
+    "descriptions": [
+        {
+            "proposal_name": "Integrated Solar Energy System",
+            "proposal_details": {
+                "technology_name": "INSOLENSYS",
+                "innovation": {
+                    "integrated_generation_storage": true,
+                    "first_time_integrated_approach": true
+                },
+                "solves_intermittency_issue": true,
+                "eliminates_external_storage_need": true,
+                "adaptability": {
+                    "types_of_solar_cells": [
+                        "home_system",
+                        "large_scale_industrial"
+                    ],
+                    "around_the_clock_energy": true
+                },
+                "contribution_to_EU_Green_Deal": true,
+                "raw_materials": [
+                    "Cellulose",
+                    "Aluminium",
+                    "Carbon_based_nanocomponents"
+                ],
+                "project_scope": {
+                    "pre_industrial_scale_validation": true,
+                    "commercial_potential_exploration": true,
+                    "technology_readiness_levels_increase": true,
+                    "investment_readiness_levels_increase": true
+                },
+                "team": {
+                    "PI_team": true,
+                    "partnership_with_venture_building_company": "D1"
+                },
+                "venture_building_company_role": {
+                    "business_development": true,
+                    "marketing_strategy_development": true,
+                    "VC_and_CVC_company_introduction": true
+                },
+                "descriptions": [
+                    "INSOLENSYS technology offers an integrated solar generation and storage solution that eliminates the need for external storage and supports EU Green Deal policy with eco-friendly materials."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Integrated Solar Energy System",
+            "proposal_details": {
+                "technology": "INSOLENSYS",
+                "concept": "Integrated solar energy management",
+                "innovation": {
+                    "generation_and_storage_integration": true,
+                    "adaptability": "All types of solar cells",
+                    "elimination_of_external_storage": true
+                },
+                "goals_contribution": {
+                    "EU_Green_Deal_policy": true,
+                    "renewable_energy_spread": true
+                },
+                "raw_materials": [
+                    "Cellulose",
+                    "Aluminium",
+                    "Carbon based nanocomponents"
+                ],
+                "scopes": [
+                    "Prove viability on a pre-industrial scale",
+                    "Explore commercial potential",
+                    "Increase Technology and Investment Readiness Levels"
+                ],
+                "team": {
+                    "PI": true,
+                    "partnership_with": "D1 Venture Building company"
+                },
+                "partner_roles": {
+                    "D1": {
+                        "business_development": true,
+                        "marketing_strategy_development": true,
+                        "VC_and_CVC_company_introduction": true
+                    }
+                },
+                "descriptions": [
+                    "INSOLENSYS technology offers an integrated approach to generation and storage within PV cells, aiming to provide a stable energy solution adaptable to various solar cell types without the need for external storage systems."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Integrated Solar Energy System",
+            "proposal_details": {
+                "technology": "INSOLENSYS",
+                "concept": "Integrated solar energy management",
+                "integration": {
+                    "generation": true,
+                    "storage": true
+                },
+                "advantage": "Eliminates external storage need",
+                "solution_flexibility": true,
+                "application_scope": [
+                    "home systems",
+                    "large-scale industrial installations"
+                ],
+                "energy": {
+                    "type": "solar",
+                    "characteristics": [
+                        "stable",
+                        "around-the-clock"
+                    ]
+                },
+                "contribution": {
+                    "EU_Green_Deal_goals": true,
+                    "renewable_energy_spread": true
+                },
+                "materials": [
+                    "Cellulose",
+                    "Aluminium",
+                    "Carbon based nanocomponents"
+                ],
+                "scopes": {
+                    "proof_of_concept": "pre-industrial scale",
+                    "testing_and_validation": true,
+                    "commercial_potential_exploration": true,
+                    "readiness_levels": {
+                        "technology": "increase",
+                        "investment": "increase"
+                    }
+                },
+                "team": {
+                    "PI": true,
+                    "partnership": {
+                        "company": "D1",
+                        "roles": [
+                            "business development",
+                            "marketing strategy",
+                            "VC and CVC introduction"
+                        ]
+                    }
+                },
+                "descriptions": [
+                    "INSOLENSYS will deliver a flexible solution that can be adapted to all types of solar cells, fully eliminating the need on external storage."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "aa9e0296d7de6436a9abbb008ac1427a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nIntegrated Solar Energy System\n\n**Description:**\n\nThe INSOLENSYS technology is proposing a game-changing concept for solar energy management. It introduces, for the first time ever, an integrated approach to the generation and storage within PV cells which compensates the main drawback of current approaches, i.e. the need to manage the intermittency of solar energy through costly and polluting external storage systems. INSOLENSYS will deliver a flexible solution that can be adapted to all the types of solar cells, be it home system or large-scale industrial installations for the around-the-clock generation of stable energy, fully eliminating the need on external storage. The here proposed technology is poised to significantly contribute to the goals of the EU in terms of the Green Deal policy not only because it facilitates the widest wide-spread of the renewable energy, but also because it is based on eco-friendly and available raw materials, like Cellulose, Aluminium and Carbon based nanocomponents. The scopes of the present PoC is to: prove the viability of the INSOLENSYS approach on a pre-industrial scale through extensive testing and validation; and explore the commercial potential of the technology while increasing its Technology and Investment Readiness Levels. The work will be performed by the PI’s team in partnership with the Venture Building company D1 which will take care of the business development and marketing strategy development, including the introduction to VC and CVC companies."
+}

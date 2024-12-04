@@ -1,0 +1,103 @@
+{
+    "item_type": "proposal",
+    "title": "Quantum Metamaterials with integrated atomic-like arrays for quantum information processing",
+    "descriptions": [
+        {
+            "proposal_name": "Quantum Metamaterials with integrated atomic-like arrays for quantum information processing",
+            "proposal_details": {
+                "goal": "Realize quantum systems that implement quantum information processing",
+                "key_feature": "Entanglement generation between many qubits",
+                "interaction_requirements": {
+                    "localized_qubits_atoms": true,
+                    "flying_qubits_photons": true
+                },
+                "community_focus": "Enhanced light-matter interaction",
+                "current_limitations": {
+                    "interaction_strength": true,
+                    "loss_mechanisms": true
+                },
+                "approach": "Creating quantum metamaterials from quantum-emitter arrays",
+                "strategy": "Bottom-up building of quantum optical metamaterials",
+                "components": {
+                    "silicon_vacancy_center_arrays": true,
+                    "diamond_chip_integration": true
+                },
+                "objectives": [
+                    "Achieve enhanced collective response to light",
+                    "Coherently control emitters' internal degrees of freedom",
+                    "Access long-lived states for quantum memory"
+                ],
+                "vision": "Scalable quantum light source for large-scale atom-photon entanglement",
+                "protocols": "Quantum information protocols for generating many-body entangled states",
+                "computation_method": "One-way quantum computation",
+                "advantages": [
+                    "High-fidelity quantum control over photonic states",
+                    "Operation-time speed-up by parallelizing photon control",
+                    "Quantum memory with long-lived states",
+                    "Integration into nanophotonics"
+                ],
+                "descriptions": [
+                    "Our system unites major advantages for scaling-up entanglement"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Quantum Metamaterials with integrated atomic-like arrays for quantum information processing",
+            "proposal_details": {
+                "goal": "To create quantum metamaterials from quantum-emitter arrays for generating atom-photon entanglement",
+                "challenge": "Enhancing light-matter interaction for efficient quantum operations",
+                "approach": "Building bottom-up quantum optical metamaterials from quantum particles",
+                "technique": {
+                    "integration": "Embedding silicon-vacancy-center arrays in a diamond chip",
+                    "control": "Coherent control of emitters' internal degrees of freedom",
+                    "access": "Long-lived states for quantum memory"
+                },
+                "vision": "To implement a scalable quantum light source that generates large-scale atom-photon entanglement",
+                "quantum_information_protocols": "To generate many-body entangled states for one-way quantum computation",
+                "advantages": [
+                    "High-fidelity quantum control over photonic states",
+                    "Potential operation-time speed-up by parallelizing photon control",
+                    "Quantum memory with long-lived states",
+                    "Integration into nanophotonics"
+                ],
+                "descriptions": [
+                    "Quantum metamaterials will serve as novel interfaces for atom-photon entanglement, harnessing collective emitter responses to light for quantum applications."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Quantum Metamaterials with integrated atomic-like arrays for quantum information processing",
+            "proposal_details": {
+                "goal": "Entanglement generation between many qubits for quantum information processing",
+                "challenges": [
+                    "Distribution of entanglement",
+                    "Strong interactions between localized qubits and flying qubits",
+                    "Limited efficiency due to interaction strength and loss mechanisms"
+                ],
+                "approach": "Creating quantum metamaterials from quantum-emitter arrays",
+                "method": [
+                    "Embedding silicon-vacancy-center arrays in a diamond chip",
+                    "Enhancing collective emitter response to light",
+                    "Coherently controlling emitters' internal degrees of freedom",
+                    "Accessing long-lived states for quantum memory"
+                ],
+                "vision": "Scalable quantum light source for large-scale atom-photon entanglement",
+                "protocols": "Quantum information protocols developed by the team",
+                "system_advantages": [
+                    "High-fidelity quantum control over photonic states",
+                    "Potential operation-time speed-up by parallelizing photon control",
+                    "Quantum memory with long-lived states",
+                    "Integration into nanophotonics"
+                ],
+                "descriptions": [
+                    "Building bottom-up quantum optical metamaterials out of quantum particles"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9ee8f23bd8e2ddcffc9035303069fc0f",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nQuantum Metamaterials with integrated atomic-like arrays for quantum information processing\n\n**Description:**\n\nThe key to realizing quantum systems that can implement quantum information processing is entanglement generation between many qubits. For distributing entanglement strong interactions between localized qubits (atoms) and flying qubits (photons) have to be ensured. The quantum-science community is currently searching for systems that offer enhanced light--matter interaction, as the efficiency of quantum operations in current state-of-the-art systems is limited by the interaction strength and loss mechanisms, which impede the generation of useful many-body entangled states. We plan to address this challenge by creating quantum metamaterials from quantum-emitter arrays as novel interfaces for generating atom-photon entanglement. Whereas most of the scientific effort focuses on coupling localized qubits to pre-designed structures to enhance interaction (i.e., cavities), we plan to take a completely different approach: building bottom-up quantum optical metamaterials out of quantum particles. We will achieve this by embedding silicon-vacancy-center arrays integrated in a diamond chip, which have shown to be top candidates for entanglement distribution. We will harness the enhanced collective response of the emitters to light and achieve a quantum response by coherently controlling the emitters' internal degrees of freedom. We will also access never-before-observed long-lived states, which are ideal for quantum memory. Our vision is to implement a scalable quantum light source with many degrees of freedom that generates large-scale atom-photon entanglement. By employing quantum information protocols we developed, our system can generate many-body entangled states applicable to one-way quantum computation. Our system unites major advantages for scaling-up entanglement: 1. High-fidelity quantum control over photonic states. 2. Potential operation-time speed-up by parallelizing photon control. 3. Quantum memory with long-lived states. 4. Integration into nanophotonics"
+}

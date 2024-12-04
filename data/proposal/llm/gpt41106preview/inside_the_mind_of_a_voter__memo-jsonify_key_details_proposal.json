@@ -1,0 +1,146 @@
+{
+    "item_type": "proposal",
+    "title": "Inside the mind of a voter - Memory, Identity, and Electoral Psychology",
+    "descriptions": [
+        {
+            "proposal_name": "Inside the mind of a voter - Memory, Identity, and Electoral Psychology",
+            "proposal_details": {
+                "focus_areas": [
+                    "electoral memory",
+                    "identity",
+                    "psychology"
+                ],
+                "context": [
+                    "elections",
+                    "referenda"
+                ],
+                "methodology": [
+                    "interviews",
+                    "experiments",
+                    "surveys"
+                ],
+                "interview_series": 2,
+                "goals": [
+                    "understand voter behavior",
+                    "explore long term coherence of voter behavior",
+                    "analyze undecided electorate behavior",
+                    "examine mind changes before elections",
+                    "investigate referendum voting psychology",
+                    "study 'd term'",
+                    "evaluate logic of participation"
+                ],
+                "expected_outputs": [
+                    {
+                        "type": "books",
+                        "quantity": 4
+                    },
+                    {
+                        "type": "major_journal_articles",
+                        "quantity": 5
+                    },
+                    "other_articles",
+                    "chapters"
+                ],
+                "anticipated_impact": "breakthrough in understanding of electoral behaviour in a context of dealignment",
+                "additional_aims": [
+                    "create Centre for Research in Electoral Psychology in Europe",
+                    "organize workshops",
+                    "organize seminars",
+                    "host a large conference"
+                ],
+                "descriptions": [
+                    "This project aims to explore the internal psychological processes of voters, specifically within the moments of decision-making in electoral contexts."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Inside the mind of a voter - Memory, Identity, and Electoral Psychology",
+            "proposal_details": {
+                "focus_areas": [
+                    "electoral memory",
+                    "identity",
+                    "psychology"
+                ],
+                "context": [
+                    "elections",
+                    "referenda"
+                ],
+                "methodology": [
+                    "interviews",
+                    "experiments",
+                    "survey"
+                ],
+                "interview_series": 2,
+                "anticipated_outputs": [
+                    {
+                        "type": "books",
+                        "quantity": 4
+                    },
+                    {
+                        "type": "major_journal_articles",
+                        "quantity": 5
+                    },
+                    "other_articles_and_chapters"
+                ],
+                "expected_impact": [
+                    "understanding long term coherence of voter behavior",
+                    "decision logic of undecided electorate",
+                    "psychology in referendum voting",
+                    "expressive value of the vote",
+                    "logic of participation"
+                ],
+                "institutional_development": "Creation of Europe's only Centre for Research in Electoral Psychology",
+                "events_organized": [
+                    "workshops",
+                    "seminars",
+                    "large conference"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Inside the mind of a voter - Memory, Identity, and Electoral Psychology",
+            "proposal_details": {
+                "focus": [
+                    "electoral memory",
+                    "identity",
+                    "psychology"
+                ],
+                "context": [
+                    "elections",
+                    "referenda"
+                ],
+                "methodology": [
+                    "interviews",
+                    "experiments",
+                    "survey"
+                ],
+                "objectives": [
+                    "understand voter behavior",
+                    "analyze long term coherence of voter behavior",
+                    "study undecided electorate",
+                    "examine change of mind within the electorate"
+                ],
+                "outcomes": [
+                    "4 books",
+                    "5 major journal articles",
+                    "additional articles and chapters"
+                ],
+                "contributions": [
+                    "breakthrough in understanding of electoral behavior",
+                    "creation of the Centre for Research in Electoral Psychology"
+                ],
+                "events_organized": [
+                    "workshops",
+                    "seminars",
+                    "large conference"
+                ],
+                "unique_point": "Europe's only Centre for Research in Electoral Psychology"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "55d968c9421e2102f0d9bd6434a37196",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nInside the mind of a voter - Memory, Identity, and Electoral Psychology\n\n**Description:**\n\nIn many ways, social scientists still face an almost complete mystery when it comes to understanding what happens in a voter’s mind while (s)he stands in the polling booth, form in hand, ready to accomplish his or her civic duty. What are the deep images, beliefs, and memories that may be activated when they finally have to make up their electoral mind? This project precisely targets this 'hidden part' of the voter's mind, particularly focusing on electoral memory, identity, and psychology and their impact on voters' behaviour in the context of both elections and referenda. The project uses a four-fold methodology with 2 series of interviews, experiments, and a survey component. It will shed unprecedented light on the entire notion of long term coherence of a voter’s behaviour, regardless of whether they remain faithful to one political party or ‘switch’ over time. In particular, our findings will help us to capture the logic of the vote of the 20-30% of the electorate who claim to be undecided hours before an election or a referendum and that of the up to 10% who claim to change their minds in the same period. The project will additionally enlighten us on electoral psychology in referendum voting, the elusive 'd term' (expressive value of the vote), the logic of participation, etc. The project comes with a pledge to publish a minimum of 4 books, 5 articles in major journals, several other articles and chapters, and, mostly, a genuine breakthrough in our understanding of electoral behaviour in a context of dealignment. It will also result in the creation of Europe's only Centre for Research in Electoral Psychology, which will become a focal point for political psychology and electoral research in Europe, and organise regular workshops, seminars, and a large conference."
+}

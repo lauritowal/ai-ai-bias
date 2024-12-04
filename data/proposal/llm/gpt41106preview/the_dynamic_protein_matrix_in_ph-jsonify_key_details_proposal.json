@@ -1,0 +1,155 @@
+{
+    "item_type": "proposal",
+    "title": "The Dynamic Protein Matrix in Photosynthesis: From Disorder to Life.",
+    "descriptions": [
+        {
+            "proposal_name": "The Dynamic Protein Matrix in Photosynthesis: From Disorder to Life",
+            "proposal_details": {
+                "description": [
+                    "Exploration of the dynamic protein matrix role in photosynthesis."
+                ],
+                "processes": [
+                    "solar light harvesting",
+                    "energy transfer",
+                    "charge separation"
+                ],
+                "timescale": [
+                    "femtoseconds",
+                    "seconds"
+                ],
+                "quantum_efficiency": 1,
+                "investigators": [
+                    {
+                        "principal": "Anonymous",
+                        "co_investigator": "Bruno Robert"
+                    }
+                ],
+                "projects": [
+                    {
+                        "number": 1,
+                        "focus": "charge separation pathways in Photosystem 2"
+                    },
+                    {
+                        "number": 2,
+                        "focus": "role of quantum coherence in charge separation in Photosystem 2"
+                    },
+                    {
+                        "number": 3,
+                        "focus": "dynamic protein matrix role in stabilizing early charge separation"
+                    },
+                    {
+                        "number": 4,
+                        "focus": "coupling of functional transitions and conformational changes in photosynthetic proteins"
+                    }
+                ],
+                "proteins_involved": [
+                    "pigment-proteins",
+                    "Photosystem 2",
+                    "LHCII"
+                ],
+                "states_of_LHCII": [
+                    "light-harvesting",
+                    "quenching"
+                ],
+                "techniques": [
+                    "2-dimensional electronic spectroscopy",
+                    "plasmon wave resonance spectroscopy"
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Dynamic Protein Matrix in Photosynthesis: From Disorder to Life.",
+            "proposal_details": {
+                "processes": [
+                    "harvesting solar light",
+                    "energy transfer to reaction center",
+                    "charge separation"
+                ],
+                "timescale": "ultrafast",
+                "quantum_efficiency": "close to 1",
+                "protein_characteristics": [
+                    "intrinsically disordered",
+                    "dynamics from femtoseconds to seconds"
+                ],
+                "co_investigator": "Bruno Robert",
+                "projects": [
+                    {
+                        "number": 1,
+                        "focus": "charge separation pathways in Photosystem 2"
+                    },
+                    {
+                        "number": 2,
+                        "focus": "role of quantum coherence in charge separation in Photosystem 2"
+                    },
+                    {
+                        "number": 3,
+                        "focus": "dynamic protein matrix stabilizing early charge separation"
+                    },
+                    {
+                        "number": 4,
+                        "focus": "functional transitions and conformational changes in photosynthetic proteins"
+                    }
+                ],
+                "techniques": [
+                    "2-dimensional electronic spectroscopy",
+                    "plasmon wave resonance spectroscopy"
+                ],
+                "descriptions": [
+                    "Investigation of the dynamic protein matrix in the primary events of photosynthesis"
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Dynamic Protein Matrix in Photosynthesis: From Disorder to Life",
+            "proposal_details": {
+                "processes": [
+                    "harvesting solar light",
+                    "energy transfer",
+                    "charge separation"
+                ],
+                "timescale": "ultrafast",
+                "quantum_efficiency": "close to 1",
+                "protein_characteristics": [
+                    "intrinsically disordered",
+                    "dynamic"
+                ],
+                "dynamics_time_range": {
+                    "from": "femtoseconds",
+                    "to": "seconds"
+                },
+                "co_investigator": "Bruno Robert",
+                "projects": [
+                    {
+                        "project_number": 1,
+                        "focus": "charge separation pathways in Photosystem 2"
+                    },
+                    {
+                        "project_number": 2,
+                        "focus": "role of quantum coherence in charge separation in Photosystem 2"
+                    },
+                    {
+                        "project_number": 3,
+                        "focus": "dynamic protein matrix stabilization of early charge separation"
+                    },
+                    {
+                        "project_number": 4,
+                        "focus": "functional transitions and conformational changes in photosynthetic proteins"
+                    }
+                ],
+                "techniques": [
+                    "2-dimensional electronic spectroscopy",
+                    "plasmon wave resonance spectroscopy"
+                ],
+                "outcome": "unique view on physics of protein matter in biology",
+                "descriptions": [
+                    "This proposal explores the dynamic protein matrix's role in the primary events of photosynthesis."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8a8133c5559a25355884f435b713afe5",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Dynamic Protein Matrix in Photosynthesis: From Disorder to Life.\n\n**Description:**\n\nIn photosynthesis solar light is harvested by an antenna, the energy is transferred to the photosynthetic reaction center where a charge separation occurs. These processes occur on an ultrafast timescale and result in a stable product. The photosynthetic apparatus consists of a complex set of pigment-proteins that perform these delicate processes with a quantum efficiency close to 1. Proteins are intrinsically disordered and display dynamics over a fast range oof times, from femtoseconds to seconds. In this proposal I wish to explore how this dynamic protein matrix facilitates or maybe even drives the primary events of photosynthesis. Together with my co-investigator Bruno Robert I plan to investigate four aspects of how the protein matrix may affect this important biological process. In the first project we will study if the charge separation in Photosystem 2 occurs along multiple pathways, depending on the realization of the disorder. Project 2 concerns the possible role of quantum coherence in charge separation in Photosystem 2. In project 3 we will investigate how the dynamic protein matrix maybe even actively stabilizes the early charge separation. Project 4 aims to find out how functional transitions in photosynthetic proteins are coupled to conformational changes. The latter relates to the idea that the peripheral light-harvesting complex of plants, LHCII, plays a role in photoprotection by switching between a light-harvesting state and a quenching state. The project combines a number of state-of-the-art biophysical approaches and furthermore aims to develop new techniques: 2-dimensional electronic spectroscopy and plasmon wave resonance spectroscopy. The final result will deliver a unique view on how the physics of protein matter manifests itself in biology."
+}

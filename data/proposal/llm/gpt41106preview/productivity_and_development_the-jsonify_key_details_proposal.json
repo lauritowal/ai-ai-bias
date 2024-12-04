@@ -1,0 +1,194 @@
+{
+    "item_type": "proposal",
+    "title": "Productivity and Development: The Ready-made Garment Productivity Project",
+    "descriptions": [
+        {
+            "proposal_name": "Productivity and Development: The Ready-made Garment Productivity Project",
+            "proposal_details": {
+                "productivity_importance": "high",
+                "research_focus": "manufacturing productivity in developing countries",
+                "methodology": {
+                    "data_collection": "sub-factory production and survey data",
+                    "sample_size": "hundreds of garment manufacturers",
+                    "countries_involved": "several"
+                },
+                "productivity_measurement": {
+                    "comparison_method": "new",
+                    "units": "physical productivity",
+                    "scope": "intra-firm, inter-firm, product heterogeneity"
+                },
+                "initial_findings": {
+                    "sample_country": "Bangladesh",
+                    "factories_analyzed": 100,
+                    "productivity_dispersion_within_factories": "significant",
+                    "percentile_comparison": {
+                        "90th_percentile_efficiency_gain_over_10th": "50%"
+                    }
+                },
+                "factors_influencing_productivity": {
+                    "capital": "small effect",
+                    "buyer_quality": "significant effect"
+                },
+                "contextual_factors": {
+                    "period_events": [
+                        "general strikes",
+                        "minimum wage increase 67%"
+                    ],
+                    "interventions_tested": "2 RCTs on line supervisor training"
+                },
+                "additional_initiatives": {
+                    "tools_development": "data collection and analysis",
+                    "worker_well-being": "program to address worker stress"
+                },
+                "cross_country_benchmarking": {
+                    "Pakistan_factories_data_collected": 10
+                },
+                "partnerships": {
+                    "Myanmar_garment_association": true,
+                    "European_buyers_relationships": true
+                },
+                "future_goals": {
+                    "time_frame": "2 years",
+                    "data_collection_target": "6 to 8 countries in Asia and Africa",
+                    "analysis_level": "cross-country",
+                    "detail_level": "unprecedented"
+                },
+                "descriptions": [
+                    "This project aims to enhance understanding of manufacturing productivity in low-income countries by collecting detailed data from garment manufacturers and developing tools to improve efficiency."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Productivity and Development: The Ready-made Garment Productivity Project",
+            "proposal_details": {
+                "descriptions": [
+                    "Examines firm productivity at a detailed level, collecting sub-factory production and survey data from garment manufacturers."
+                ],
+                "initial_results": [
+                    {
+                        "country": "Bangladesh",
+                        "factories_analyzed": 100,
+                        "productivity_dispersion_within_factories": true,
+                        "percentile_90_vs_10_efficiency_gain": "50%"
+                    }
+                ],
+                "factors_affecting_productivity": [
+                    "Capital",
+                    "Quality of the buyer"
+                ],
+                "volatile_conditions": [
+                    "General strikes",
+                    "67% minimum wage increase"
+                ],
+                "interventions": [
+                    {
+                        "type": "RCTs",
+                        "focus": "Line supervisor training",
+                        "quantity": 2
+                    }
+                ],
+                "additional_initiatives": [
+                    {
+                        "tools_design": true,
+                        "worker_stress_program": true
+                    }
+                ],
+                "benchmarking_data": [
+                    {
+                        "country": "Pakistan",
+                        "factories_analyzed": 10
+                    }
+                ],
+                "collaborations": [
+                    "Garment association in Myanmar",
+                    "Large European-based buyers"
+                ],
+                "data_collection_goal": {
+                    "timeframe_years": 2,
+                    "countries_target": 6,
+                    "regions": [
+                        "Asia",
+                        "Africa"
+                    ],
+                    "detail_level": "Unprecedented"
+                }
+            }
+        },
+        {
+            "proposal_name": "Productivity and Development: The Ready-made Garment Productivity Project",
+            "proposal_details": {
+                "productivity_differences": {
+                    "income_correlation": true,
+                    "manufacturing_focus": true,
+                    "developing_world_context": true
+                },
+                "research_approach": {
+                    "data_collection": {
+                        "method": "sub-factory production and survey data",
+                        "scope": "hundreds of garment manufacturers",
+                        "countries": "several"
+                    },
+                    "productivity_measurement": {
+                        "method": "new",
+                        "comparability": {
+                            "inter_firm": true,
+                            "intra_firm": true,
+                            "product_heterogeneity": true
+                        }
+                    }
+                },
+                "initial_results": {
+                    "factories_analyzed": 100,
+                    "location": "Bangladesh",
+                    "productivity_dispersion_within_factories": true,
+                    "percentile_comparison": {
+                        "90th_vs_10th": "50% more efficient"
+                    }
+                },
+                "factors_affecting_productivity": {
+                    "capital": true,
+                    "buyer_quality": true
+                },
+                "contextual_challenges": {
+                    "general_strikes": true,
+                    "minimum_wage_increase": "67%"
+                },
+                "interventions": {
+                    "RCTs": 2,
+                    "focus": "line supervisor training"
+                },
+                "supportive_programs": {
+                    "tools_for_factories": true,
+                    "worker_stress_issues": true
+                },
+                "benchmarking": {
+                    "factories_analyzed": 10,
+                    "location": "Pakistan"
+                },
+                "collaboration": {
+                    "garment_association": "Myanmar",
+                    "European_buyers": true
+                },
+                "future_goals": {
+                    "data_collection": {
+                        "target_countries": "6 to 8",
+                        "regions": [
+                            "Asia",
+                            "Africa"
+                        ],
+                        "time_frame": "next 2 years"
+                    },
+                    "cross_country_analysis": true
+                },
+                "descriptions": [
+                    "This project aims to measure and understand productivity dispersion within and across garment manufacturing firms in low-income countries, providing unique insights into improving productivity in the manufacturing sector of the developing world."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c26910cf07dfefd373527536e4b02561",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nProductivity and Development: The Ready-made Garment Productivity Project\n\n**Description:**\n\nDifferences in productivity explain much of differences in income levels across countries, yet little is known about how to improve productivity of manufacturing in the developing world. Recent research reveals very high dispersion in productivity in low-income countries. We examine firm productivity at a uniquely detailed level, collecting sub-factory production and survey data from hundreds of garment manufacturers in several countries. The data, coupled with a new method for comparing productivity, allow us to measure physical productivity in and across firms and among heterogeneous products. Initial results from nearly 100 factories in Bangladesh show significant dispersion of productivity within factories; production lines at the 90th percentile are 50% more efficient than those at the 10th percentile. Differences are highly persistent – puzzling given that the lines are often on the same production floor. Capital and the quality of the buyer explains a small part of the dispersion: lines producing goods for higher-end buyers are significantly more efficient. Shocks and interventions allows us to examine the challenges of increasing productivity in volatile conditions characteristic of low-income countries. Our data span a period including general strikes and a 67% minimum wage increase. We have conducted 2 RCTs on line supervisor training. We are designing data collection and analysis tools for use by factories and a program to address issues related to worker stress. We have collected data from 10 factories in Pakistan to benchmark productivity across countries. We are also working with the garment association in Myanmar. Relationships with large European-based buyers have led to discussions on linking with their suppliers in other countries. Our goal over the next 2 years is to collect data from at least 6 to 8 countries in Asia and Africa allowing cross-country analysis of productivity in lower-income countries at an unprecedented level of detail."
+}

@@ -1,0 +1,142 @@
+{
+    "item_type": "proposal",
+    "title": "The Role of Lipolysis in the Pathogenesis of Cancer-associated Cachexia",
+    "descriptions": [
+        {
+            "proposal_name": "The Role of Lipolysis in the Pathogenesis of Cancer-associated Cachexia",
+            "proposal_details": {
+                "syndrome": "Cachexia",
+                "characteristics": [
+                    "massive loss of body weight",
+                    "uncontrolled loss of adipose tissue",
+                    "uncontrolled loss of skeletal muscle"
+                ],
+                "common_in": "cancer",
+                "cancer_associated_cachexia_death_rate": 25,
+                "understanding": "poor",
+                "recent_findings": [
+                    {
+                        "enzyme": "adipose triglyceride lipase",
+                        "process": "triacylglycerol catabolism",
+                        "necessity_for_pathogenesis": "required",
+                        "mouse_model_protection": "complete",
+                        "protected_tissues": [
+                            "adipose tissue",
+                            "muscle"
+                        ]
+                    }
+                ],
+                "proposed_actions": [
+                    "elucidate causal role of lipases and coregulators in CAC development",
+                    "determine mechanisms involved",
+                    "pursue novel treatment strategies"
+                ],
+                "objectives": [
+                    "investigate regulation of tissue-specific lipolysis by different cancers in mice",
+                    "elucidate functional role of lipases and coregulators in CAC pathogenesis",
+                    "assess pharmacological inhibition of specific lipases for CAC prevention or delay",
+                    "study effects of cancer-induced lipolysis on energy dissipating pathways and epigenetic control"
+                ],
+                "field": "lipid metabolism in pathogenesis of CAC",
+                "approach": [
+                    "characterization of induced mutant mouse models with CAC",
+                    "collaboration with experts in pathology and large-scale systems analytics"
+                ],
+                "expected_outcomes": [
+                    "new mechanisms of disease development",
+                    "novel therapeutic targets to prevent consequences of CAC"
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Role of Lipolysis in the Pathogenesis of Cancer-associated Cachexia",
+            "proposal_details": {
+                "descriptions": [
+                    "Cachexia is a syndrome with massive weight loss due to loss of adipose tissue and skeletal muscle, common in cancer, leading to death. The project investigates the role of lipolysis in CAC."
+                ],
+                "prevalence": {
+                    "CAC_in_cancer_patients": 25
+                },
+                "mechanisms_studied": [
+                    "lipase-catalyzed triacylglycerol catabolism"
+                ],
+                "key_enzyme": {
+                    "adipose_triglyceride_lipase": "rate-limiting enzyme for TG hydrolysis"
+                },
+                "animal_model": [
+                    "mice"
+                ],
+                "protection_in_lacking_enzyme": {
+                    "adipose_tissue_loss": false,
+                    "muscle_loss": false
+                },
+                "objectives": [
+                    "Investigate tissue-specific lipolysis regulation by different cancers in mice",
+                    "Elucidate the role of lipases and coregulators in CAC pathogenesis",
+                    "Assess lipase inhibition effects on CAC prevention or delay",
+                    "Study effects of cancer-induced lipolysis on energy pathways and epigenetic control"
+                ],
+                "research_field": [
+                    "lipid metabolism in CAC pathogenesis"
+                ],
+                "methodologies": [
+                    "characterization of induced mutant mouse models with CAC",
+                    "collaboration with pathology experts",
+                    "large-scale systems analytics"
+                ],
+                "expected_outcomes": [
+                    "new mechanisms of disease development",
+                    "novel therapeutic targets to prevent CAC consequences"
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Role of Lipolysis in the Pathogenesis of Cancer-associated Cachexia",
+            "proposal_details": {
+                "syndrome": "Cachexia",
+                "characteristics": [
+                    "massive loss of body weight",
+                    "uncontrolled loss of adipose tissue",
+                    "skeletal muscle wasting"
+                ],
+                "associated_diseases_stage": "late stages",
+                "common_in": "cancer",
+                "CAC_death_percentage": 25,
+                "molecular_mechanisms": "poorly understood",
+                "recent_findings": [
+                    "lipase-catalyzed triacylglycerol catabolism required for CAC pathogenesis"
+                ],
+                "mouse_model": [
+                    "lacking adipose triglyceride lipase",
+                    "protected from loss of adipose tissue and muscle"
+                ],
+                "objectives": [
+                    "Investigate tissue-specific lipolysis regulation by different cancers in mice",
+                    "Elucidate functional role of lipases and coregulators in CAC pathogenesis",
+                    "Assess pharmacological inhibition of specific lipases on CAC prevention/delay",
+                    "Study effects of cancer-induced lipolysis on energy dissipating pathways and epigenetic control"
+                ],
+                "field_of_study": "lipid metabolism in CAC pathogenesis",
+                "research_methods": [
+                    "characterization of induced mutant mouse models with CAC"
+                ],
+                "collaboration": [
+                    "pathology experts",
+                    "large-scale systems analytics experts"
+                ],
+                "expected_outcomes": [
+                    "new mechanisms of disease development",
+                    "novel therapeutic targets to prevent CAC"
+                ],
+                "descriptions": [
+                    "This project aims to elucidate the causal role of lipases in the development of cancer-associated cachexia (CAC) by investigating the regulation of lipolysis in different cancer models, the function of lipases and their coregulators, the potential of lipase inhibitors as treatments, and the broader metabolic and epigenetic effects of cancer-induced lipolysis."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4af873825397843388e6818f3e8816f3",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Role of Lipolysis in the Pathogenesis of Cancer-associated Cachexia\n\n**Description:**\n\nCachexia is a complex syndrome characterized by massive loss of body weight due to uncontrolled loss of adipose tissue and skeletal muscle. The wasting occurs during late stages of many unrelated chronic diseases and frequently leads to the death of affected individuals. Cachexia is most common in cancer, where an estimated 25% of patients die from cancer-associated cachexia (CAC) rather than from the cancer. Despite the tremendous impact of CAC on morbidity and mortality, the underlying molecular mechanisms are poorly understood. Recently, we demonstrated that lipase-catalyzed triacylglycerol (TG) catabolism is required for the pathogenesis of CAC. Mice lacking adipose triglyceride lipase, the rate-limiting enzyme for TG hydrolysis (lipolysis), were completely protected from loss of both adipose tissue and muscle in two forms of cancer. This implies an essential role of the lipolytic process in the pathogenesis of CAC. Here we propose to elucidate the causal role of lipases and their coregulators in CAC development. We will determine mechanisms involved and pursue novel treatment strategies. Our objectives are to: - Investigate how different cancers in mice regulate tissue-specific lipolysis; - Elucidate the functional role of lipases and their coregulators in the pathogenesis of CAC; - Assess whether pharmacological inhibition of specific lipases prevents or delays CAC; - Study the effects of cancer-induced lipolysis on energy dissipating pathways and epigenetic control. The project enters a largely unexplored field: the role of lipid metabolism in the pathogenesis of CAC. The work will heavily rely on the characterization of induced mutant mouse models with CAC and require extensive collaboration with experts in pathology and large-scale systems analytics. The results are expected to yield new mechanisms of disease development and provide novel therapeutic targets to prevent the devastating and prevalent consequences of CAC."
+}

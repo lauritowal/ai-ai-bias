@@ -1,0 +1,139 @@
+{
+    "item_type": "proposal",
+    "title": "Understanding the Balbiani body: A super-organelle linked to dormancy in oocytes",
+    "descriptions": [
+        {
+            "proposal_name": "Understanding the Balbiani body: A super-organelle linked to dormancy in oocytes",
+            "proposal_details": {
+                "cell_type": "oocytes",
+                "cell_specialization": "female germ cells",
+                "function": [
+                    "ensure species continuity",
+                    "provide female genome",
+                    "supply mitochondria",
+                    "provide nutrients",
+                    "offer housekeeping machinery for embryos"
+                ],
+                "survival_duration": "up to 50 years in humans",
+                "organelle_of_interest": "Balbiani body",
+                "organelle_characteristics": [
+                    "non-membrane bound compartment",
+                    "contains organelles in dormant oocytes",
+                    "disappears with oocyte maturity"
+                ],
+                "research_goal": "reveal mechanisms for oocyte viability during dormancy",
+                "previous_research_findings": "Balbiani body forms amyloid-like cage around organelles",
+                "research_questions": [
+                    "What is the metabolic nature of organelles in dormant oocytes?",
+                    "How does the Balbiani body disassemble and release organelles during oocyte maturation?",
+                    "What is the structure and function of the Balbiani body in mammals?"
+                ],
+                "research_methods": [
+                    "genetic perturbations",
+                    "biochemical perturbations",
+                    "imaging",
+                    "state of the art proteomics techniques"
+                ],
+                "species_studied": [
+                    "frogs",
+                    "mice"
+                ],
+                "knowledge_contribution": [
+                    "fundamental insights into organelle organisation and function in oocytes",
+                    "regulation of physiological amyloid-like structures"
+                ],
+                "potential_implications": [
+                    "mechanisms that protect organelles from ageing",
+                    "understanding of oocyte dormancy"
+                ],
+                "descriptions": [
+                    "This proposal aims to investigate the structure and function of the Balbiani body in dormant oocytes and its role in preserving viability over extended periods."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Understanding the Balbiani body: A super-organelle linked to dormancy in oocytes",
+            "proposal_details": {
+                "cell_type": "oocytes",
+                "cell_longevity": "up to 50 years in humans",
+                "key_feature": "Balbiani body",
+                "vertebrate_presence": "virtually all",
+                "research_methods": [
+                    "genetic perturbations",
+                    "biochemical perturbations",
+                    "imaging",
+                    "proteomics techniques"
+                ],
+                "previous_research_findings": "Balbiani body forms an amyloid-like cage around organelles",
+                "study_questions": [
+                    "What is the metabolic nature of organelles in dormant oocytes?",
+                    "How does the Balbiani body disassemble and release the complement of organelles when oocytes start to mature?",
+                    "What is the structure and function of the Balbiani body in mammals?"
+                ],
+                "species_studied": [
+                    "frogs",
+                    "mice"
+                ],
+                "relevance_to_human_physiology": "mice are related to human physiology",
+                "research_impact": [
+                    "insights into organisation and function of organelles in oocytes",
+                    "regulation of physiological amyloid-like structures",
+                    "mechanisms that protect organelles from ageing",
+                    "how oocytes stay dormant for many decades"
+                ],
+                "descriptions": [
+                    "This grant proposal aims to understand the role and functionality of the Balbiani body in oocyte dormancy and longevity."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Understanding the Balbiani body: A super-organelle linked to dormancy in oocytes",
+            "proposal_details": {
+                "cell_type": "oocytes",
+                "cell_longevity": "up to 50 years in humans",
+                "unique_feature": "Balbiani body presence",
+                "research_goal": {
+                    "techniques": [
+                        "genetic and biochemical perturbations",
+                        "imaging",
+                        "proteomics"
+                    ],
+                    "purpose": "reveal mechanisms for oocyte viability during dormancy"
+                },
+                "previous_research_outcome": "Balbiani body forms an amyloid-like cage",
+                "research_questions": [
+                    {
+                        "id": 1,
+                        "content": "metabolic nature of organelles in dormant oocytes"
+                    },
+                    {
+                        "id": 2,
+                        "content": "Balbiani body disassembly and organelle release during oocyte maturation"
+                    },
+                    {
+                        "id": 3,
+                        "content": "structure and function of the Balbiani body in mammals"
+                    }
+                ],
+                "species_studied": [
+                    "frogs",
+                    "mice"
+                ],
+                "implications": [
+                    "fundamental insights into organelle organisation and function in oocytes",
+                    "regulation of physiological amyloid-like structures",
+                    "mechanisms protecting organelles from ageing",
+                    "understanding oocyte dormancy"
+                ],
+                "descriptions": [
+                    "This proposal aims to uncover the cell biology of oocyte dormancy with a focus on the Balbiani body, using a combination of genetic, biochemical, and proteomic techniques."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5aeeacc339df870407d5d074eca22d01",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nUnderstanding the Balbiani body: A super-organelle linked to dormancy in oocytes\n\n**Description:**\n\nFemale germ cells, oocytes, are highly specialised cells. They ensure the continuity of species by providing the female genome and mitochondria along with most of the nutrients and housekeeping machinery the early embryo needs after fertilisation. Oocytes are remarkable in their ability to survive for long periods of time, up to 50 years in humans, and retain the ability to give rise to a young organism while other cells age and die. Surprisingly little is known about oocyte dormancy. A key feature of dormant oocytes of virtually all vertebrates is the presence of a Balbiani body, which is a non-membrane bound compartment that contains most of the organelles in dormant oocytes and disappears as the oocyte matures. The goal of this proposal is to combine genetic and biochemical perturbations with imaging and the state of the art proteomics techniques to reveal the mechanisms dormant oocytes employ to remain viable. My previous research has shown that the Balbiani body forms an amyloid-like cage around organelles that could be protective. This has led me to identify the large number of unanswered questions about the cell biology of a dormant oocyte. In this proposal, we will study three of these questions: 1) What is the metabolic nature of organelles in dormant oocytes? 2) How does the Balbiani body disassemble and release the complement of organelles when oocytes start to mature? 3) What is the structure and function of the Balbiani body in mammals? We will use oocytes from two vertebrate species, frogs and mice, which are complementary for their ease of handling and relationship to human physiology. By studying the Balbiani body, this proposal will provide fundamental insights into organisation and function of organelles in oocytes and the regulation of physiological amyloid-like structures. More generally, the proposed experiments open up new avenues into the mechanisms that protect organelles from ageing and how oocytes stay dormant for many decades."
+}

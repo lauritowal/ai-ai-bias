@@ -1,0 +1,144 @@
+{
+    "item_type": "proposal",
+    "title": "Precision medicine approach to rare vascular malformations to enhance understanding, diagnostics and therapy",
+    "descriptions": [
+        {
+            "proposal_name": "Precision medicine approach to rare vascular malformations to enhance understanding, diagnostics and therapy",
+            "proposal_details": {
+                "clinical_heterogeneity": [
+                    "small local 'birthmarks'",
+                    "life-threatening entities affecting entire limbs, organs, or larger parts of the human body"
+                ],
+                "interventions": [
+                    "surgical",
+                    "pharmacological"
+                ],
+                "goals": [
+                    "prevent further disease progression",
+                    "increase patients' quality of life"
+                ],
+                "diagnosis_challenges": [
+                    "inadequate understanding of underlying histological alterations",
+                    "limited genetic diagnostic testing",
+                    "poor curative surgical and pharmacological treatments"
+                ],
+                "treatment_challenges": [
+                    "high risk of drug side effects",
+                    "non-response to therapy"
+                ],
+                "approach": "multidisciplinary precision medicine for vascular malformations",
+                "workflow_components": [
+                    {
+                        "component": "histological_classification",
+                        "method": "AI-assisted 3D-Histology",
+                        "type": "novel"
+                    },
+                    {
+                        "component": "diagnostic_testing",
+                        "methods": [
+                            "analysis of coding and non-coding genome",
+                            "state-of-the-art sequencing techniques",
+                            "bioinformatics tools"
+                        ]
+                    },
+                    {
+                        "component": "pharmacological_treatments",
+                        "method": "FDA-approved drug sub-library screenings",
+                        "target": "patient-derived cells",
+                        "technique": "state-of-the-art imaging"
+                    }
+                ],
+                "potential_outcomes": [
+                    "transform clinical practice",
+                    "provide state-of-the-art diagnosis and treatment"
+                ],
+                "descriptions": [
+                    "This proposal aims to develop a precision medicine approach for the diagnosis and treatment of rare vascular malformations by implementing a multidisciplinary workflow that integrates novel histological classification, advanced genetic testing, and patient-tailored pharmacological treatments."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Precision medicine approach to rare vascular malformations to enhance understanding, diagnostics and therapy",
+            "proposal_details": {
+                "clinical_heterogeneity": [
+                    "small local 'birthmarks'",
+                    "life-threatening entities affecting limbs",
+                    "life-threatening entities affecting organs",
+                    "life-threatening entities affecting larger parts of the body"
+                ],
+                "interventions": [
+                    "surgical",
+                    "pharmacological"
+                ],
+                "goals": [
+                    "prevent further disease progression",
+                    "increase patients' quality of life"
+                ],
+                "diagnostic_challenges": [
+                    "inadequate understanding of histological alterations",
+                    "limited genetic diagnostic testing",
+                    "poor curative surgical and pharmacological treatments"
+                ],
+                "current_therapy_issues": [
+                    "high risk of drug side effects",
+                    "non-response to therapy",
+                    "disease progression"
+                ],
+                "approach": "multidisciplinary precision medicine",
+                "proposed_workflow": {
+                    "novel_histological_classification": "AI-assisted 3D-Histology",
+                    "improved_diagnostic_testing": "analysis of coding and non-coding genome using sequencing techniques and bioinformatics tools",
+                    "patient_tailored_pharmacological_treatments": "FDA-approved drug sub-library screenings on patient-derived cells using imaging techniques"
+                },
+                "potential_impact": "transform clinical practice",
+                "outcome": [
+                    "state-of-the-art diagnosis",
+                    "state-of-the-art treatment for patients with vascular malformations"
+                ],
+                "descriptions": [
+                    "This innovative approach to precision medicine has the great potential to transform clinical practice and provide for the very first time state-of-the-art diagnosis and treatment for patients with vascular malformations."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Precision medicine approach to rare vascular malformations to enhance understanding, diagnostics and therapy",
+            "proposal_details": {
+                "clinical_heterogeneity": [
+                    "small local ‘birthmarks’",
+                    "life-threatening entities affecting entire limbs, organs, or larger parts of the body"
+                ],
+                "interventions": [
+                    "surgical",
+                    "pharmacological"
+                ],
+                "goals": [
+                    "prevent further disease progression",
+                    "increase patients’ quality of life"
+                ],
+                "diagnostic_challenges": [
+                    "inadequate understanding of histological alterations",
+                    "limited genetic diagnostic testing",
+                    "poor curative surgical and pharmacological treatments"
+                ],
+                "current_therapy_issues": [
+                    "drugs from oncology or transplantation",
+                    "high risk of drug side effects",
+                    "non-response to therapy",
+                    "progression of disease"
+                ],
+                "proposed_approach": "multidisciplinary approach to precision medicine",
+                "proposed_workflow": {
+                    "histological_classification": "novel classification using AI-assisted 3D-Histology",
+                    "diagnostic_testing_improvement": "analysis of coding and non-coding genome with sequencing techniques and bioinformatics tools",
+                    "patient_tailored_treatments": "FDA-approved drug sub-library screenings on patient-derived cells with imaging techniques"
+                },
+                "potential_impact": "transform clinical practice with state-of-the-art diagnosis and treatment for vascular malformations"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bf0fc3bad359c8279fb8faf16ab46f13",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPrecision medicine approach to rare vascular malformations to enhance understanding, diagnostics and therapy\n\n**Description:**\n\nVascular malformations are clinically very heterogeneous ranging from small local ‘birthmarks’ to life-threatening entities affecting entire limbs, organs or larger parts of the human body. Often, these conditions require surgical and/or pharmacological intervention to prevent further disease progression and to increase patients’ quality of life. Therefore, an accurate diagnosis is crucial for appropriate treatment and management. However, our current knowledge on vascular malformations is very limited, making diagnosis and treatment very difficult due to: 1) An inadequate understanding of the underlying histological alterations causing the phenotype. 2) Very limited genetic diagnostic testing, which in most cases does not allow a confirmed molecular diagnosis. 3) Poor curative surgical and pharmacological treatment approaches. As the current pharmacological therapy regimen with drugs from oncology or transplantation medicine is more like a try & error than a precision medicine approach, there is a high risk of drug side effects and non-response to therapy and thus progression of the disease. I want to tackle these obstacles with a multidisciplinary approach to precision medicine for vascular malformations to prevent disease progression and improve patient outcomes. Therefore,my proposed workflow provides: 1) A novel histological classification based on deep phenotyping using diagnostic AI-assisted 3D-Histology, 2) Improved diagnostic testing through analysis of the coding and non-coding genome using state-of-the-art sequencing techniques and bioinformatics tools, and 3) Patient-tailored pharmacological treatments based on FDA-approved drug sub-library screenings tested on the patient-derived cells using state-of-the-art imaging techniques. This innovative approach to precision medicine has the great potential to transform clinical practice and provide for the very first time state-of-the-art diagnosis and treatment for patients with vascular malformations."
+}

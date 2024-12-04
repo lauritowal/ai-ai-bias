@@ -1,0 +1,147 @@
+{
+    "item_type": "proposal",
+    "title": "Next-Generation Light Source: Driving plasmas to power tomorrow’s nanolithography",
+    "descriptions": [
+        {
+            "proposal_name": "Next-Generation Light Source: Driving plasmas to power tomorrow’s nanolithography",
+            "proposal_details": {
+                "descriptions": [
+                    "MOORELIGHT will deliver the missing insight that is required to efficiently and reliably power next-generation solid-state-laser-driven EUV light sources."
+                ],
+                "advanced_semiconductor_devices_production": {
+                    "method": "EUV lithography",
+                    "wavelength": "13.5nm"
+                },
+                "current_EUVL_power_source": {
+                    "type": "high-energy CO2-gas laser pulses",
+                    "interaction_material": "molten tin microdroplets",
+                    "efficiency_issue": "low overall efficiency",
+                    "power_footprint": "megawatt per watt of EUV power"
+                },
+                "proposed_solution": {
+                    "replacement_technology": "solid-state lasers",
+                    "anticipated_benefit": "reduced power footprint"
+                },
+                "knowledge_gaps": {
+                    "laser_wavelength": "unclear",
+                    "plasma_recipe": "unclear"
+                },
+                "research_objectives": [
+                    {
+                        "objective": "understand phase changes and fragmentation of laser-impacted liquid thin tin targets",
+                        "approach": "develop capabilities for laser-tailoring targets"
+                    },
+                    {
+                        "objective": "investigate coupling of tailored targets to laser light of variable wavelength and spatiotemporal profile",
+                        "approach": "produce hot-and-dense plasma"
+                    },
+                    {
+                        "objective": "advance predictive plasma modeling",
+                        "approach": "find atomic origins of the EUV light"
+                    }
+                ],
+                "impact": {
+                    "individual_fields": "significant",
+                    "combined_outcome": "enable sustainable power for future EUVL",
+                    "EU_ambitions": "technological leadership in nanotechnology"
+                }
+            }
+        },
+        {
+            "proposal_name": "Next-Generation Light Source: Driving plasmas to power tomorrow’s nanolithography",
+            "proposal_details": {
+                "descriptions": [
+                    "MOORELIGHT will deliver insight required to efficiently power next-generation solid-state-laser-driven EUV light sources."
+                ],
+                "technology": "EUV lithography (EUVL)",
+                "wavelength": "13.5nm",
+                "current_technology": {
+                    "light_source": "CO2-gas laser pulses",
+                    "target_material": "molten tin microdroplets",
+                    "efficiency_issue": "low overall efficiency",
+                    "power_footprint": "megawatt for a watt of EUV power"
+                },
+                "proposed_improvement": {
+                    "replacement_technology": "solid-state lasers",
+                    "efficiency_gain": "significant reduction in power footprint"
+                },
+                "knowledge_gaps": [
+                    "optimal laser wavelength",
+                    "optimal plasma recipe"
+                ],
+                "research_objectives": [
+                    {
+                        "objective_number": 1,
+                        "focus": "understanding phase changes and fragmentation of laser-impacted liquid thin tin targets",
+                        "approach": "develop capabilities for laser-tailoring targets"
+                    },
+                    {
+                        "objective_number": 2,
+                        "focus": "investigate how tailored targets couple to laser light of variable wavelength and spatiotemporal profile to produce hot-and-dense plasma",
+                        "approach": "experiments and modeling to determine optimum plasma recipe for EUV light production"
+                    },
+                    {
+                        "objective_number": 3,
+                        "focus": "advance predictive plasma modeling by finding the atomic origins of the EUV light",
+                        "approach": "research and modeling"
+                    }
+                ],
+                "expected_impacts": [
+                    "impact related fields of science and technology",
+                    "sustainably power EUVL",
+                    "support EU’s technological leadership in nanotechnology"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Next-Generation Light Source: Driving plasmas to power tomorrow’s nanolithography",
+            "proposal_details": {
+                "descriptions": [
+                    "MOORELIGHT will deliver the missing insight that is required to efficiently and reliably power next-generation solid-state-laser-driven EUV light sources."
+                ],
+                "current_technology": {
+                    "EUV_wavelength": 13.5,
+                    "power_efficiency_issue": "megawatt footprint for a watt of EUV power"
+                },
+                "innovation": {
+                    "replace_gas_lasers": "solid-state lasers",
+                    "efficiency": "significantly reduced footprint"
+                },
+                "unknowns": {
+                    "optimal_laser_wavelength": null,
+                    "optimal_plasma_recipe": null
+                },
+                "objectives": [
+                    {
+                        "objective": 1,
+                        "description": "understand phase changes and fragmentation of laser-impacted liquid thin tin targets",
+                        "capability": "laser-tailoring targets"
+                    },
+                    {
+                        "objective": 2,
+                        "description": "investigate laser-target coupling with variable laser light properties",
+                        "outcome": "optimum plasma recipe for EUV light"
+                    },
+                    {
+                        "objective": 3,
+                        "description": "advance predictive plasma modeling",
+                        "challenge": "find atomic origins of EUV light"
+                    }
+                ],
+                "impact": {
+                    "fields_affected": [
+                        "science",
+                        "technology"
+                    ],
+                    "sustainability": "sustainably power tomorrow’s EUVL",
+                    "EU_ambition": "technological leadership in nanotechnology"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6dfac166cd76f4de63392ddaef53cd81",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNext-Generation Light Source: Driving plasmas to power tomorrow’s nanolithography\n\n**Description:**\n\nAdvanced semiconductor devices are produced using extreme ultraviolet (EUV) light at just 13.5nm wavelength. This small wavelength enables patterning the smallest and smartest features on chips. The recent revolutionary introduction of EUV lithography (EUVL) was the culmination of several decades of collaborative work between industry and science – a Project Apollo of the digital age. EUVL is powered by light that is produced in the interaction of high-energy CO2-gas laser pulses with molten tin microdroplets. The use of such lasers however leads to unsustainably low overall efficiency in converting electrical power to useful EUV light: delivering a watt of EUV power at the silicon wafer level currently has a megawatt footprint. Replacing gas lasers with much more efficient solid-state lasers will significantly reduce this footprint. It is currently however unclear what laser wavelength, and what plasma ‘recipe’ should be used. This is because we lack understanding of the underlying complex physics. MOORELIGHT will deliver the missing insight that is required to efficiently and reliably power next-generation solid-state-laser-driven EUV light sources. (1) We will obtain understanding of phase changes and fragmentation of laser-impacted liquid thin tin targets and develop capabilities for laser-tailoring targets. (2) We will use tailored targets to investigate how these couple to laser light of variable wavelength and spatiotemporal profile to produce hot-and-dense plasma. This will provide insight through experiments and modeling into the optimum plasma recipe for producing EUV light, in tandem with efforts (3) to advance predictive plasma modeling by finding the elusive, atomic origins of the EUV light. Individually, these objectives will significantly impact their related fields of science and technology. Combined, they will enable to sustainably power tomorrow’s EUVL, and help realize the EU’s ambitions regarding its technological leadership in nanotechnology."
+}

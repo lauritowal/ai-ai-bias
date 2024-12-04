@@ -1,0 +1,117 @@
+{
+    "item_type": "proposal",
+    "title": "Plant adaptation in a changing pollination climate",
+    "descriptions": [
+        {
+            "proposal_name": "Plant adaptation in a changing pollination climate",
+            "proposal_details": {
+                "objective": "Understand the consequences of changes in pollination climate for animal-pollinated plants",
+                "project_name": "POLLCLIM",
+                "approach": {
+                    "development": "Develop a novel conceptual framework",
+                    "analysis": "Analyse plant adaptation to diverse pollinators",
+                    "application": "Empirical studies of a pollination-generalized wildflower"
+                },
+                "methods": [
+                    "Observational field studies",
+                    "Controlled experiments",
+                    "Tailored statistical modelling"
+                ],
+                "focus": "Evaluate contributions of individual pollinators to natural selection on flowers and related plant traits",
+                "framework": "Emphasizes non-additive contributions of each pollinator species",
+                "preparatory_work_duration": "Three years",
+                "study_location": "Southern Scandinavia",
+                "study_scope": "50 plant populations",
+                "surveys": "Annual population surveys for phenotypic adaptation",
+                "selection_studies": "Spatio-temporal variation in selection",
+                "experiments": "Single-pollinator flight-cage experiments for contribution estimates",
+                "analyses": "Quantitative-genetic analyses for population divergence",
+                "expected_outcomes": [
+                    "Direct value for understanding plant responses to pollination climate change",
+                    "Insights into the role of selection in micro- and macroevolution"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Plant adaptation in a changing pollination climate",
+            "proposal_details": {
+                "objectives": [
+                    "understand consequences of changes in pollination climate for animal-pollinated plants",
+                    "develop a novel conceptual framework",
+                    "analyse plant adaptation",
+                    "conduct empirical studies",
+                    "perform observational field studies",
+                    "execute controlled experiments",
+                    "utilize tailored statistical modelling approaches",
+                    "evaluate contributions of individual pollinators",
+                    "extrapolate to evolutionary population divergence"
+                ],
+                "methods": [
+                    "observational field studies",
+                    "controlled experiments",
+                    "statistical modelling",
+                    "single-pollinator flight-cage experiments",
+                    "quantitative-genetic analyses"
+                ],
+                "subjects": [
+                    "pollination-generalized wildflower"
+                ],
+                "locations": [
+                    "southern Scandinavia"
+                ],
+                "data_points": [
+                    "50 plant populations",
+                    "annual population surveys",
+                    "selection studies",
+                    "estimates of pollinator-mediated selection"
+                ],
+                "expected_outcomes": [
+                    "phenotypic adaptation data",
+                    "spatio-temporal variation in selection data",
+                    "contribution of each pollinator taxon to selection",
+                    "evaluation of natural selection vs genetic constraints"
+                ],
+                "descriptions": [
+                    "Our conceptual framework emphasizes the (likely non-additive) individual contributions of each pollinator species in pollination-generalized plants visited by a functionally diverse set of pollinators."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Plant adaptation in a changing pollination climate",
+            "proposal_details": {
+                "project_name": "POLLCLIM",
+                "objective": "Understanding the consequences of changes in pollination climate for animal-pollinated plants",
+                "approach": [
+                    "Development of a conceptual framework",
+                    "Empirical studies of a pollination-generalized wildflower",
+                    "Observational field studies",
+                    "Controlled experiments",
+                    "Tailored statistical modelling"
+                ],
+                "focus": "Evaluating contributions of individual pollinators to natural selection on plant traits involved in pollination",
+                "framework_aspect": "Individual contributions of each pollinator species",
+                "preparatory_work_duration": 3,
+                "study_area": "Southern Scandinavia",
+                "study_population_size": 50,
+                "study_methods": [
+                    "Annual population surveys",
+                    "Well-replicated selection studies",
+                    "Single-pollinator flight-cage experiments",
+                    "Quantitative-genetic analyses"
+                ],
+                "outcomes": [
+                    "Understanding of plant responses to pollination climate change",
+                    "Insights into the role of selection in micro- and macroevolution"
+                ],
+                "descriptions": [
+                    "The project will assess how alterations in pollinator populations affect plant adaptation and evolution."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "556877f92dcb98a4662f16f23be23f0d",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPlant adaptation in a changing pollination climate\n\n**Description:**\n\nPollinator population declines and changes in assemblage composition are among the best documented and most worryDeclines in pollinator populations and changes in the composition of local pollinator assemblages are among the best documented and most worrying consequences of ongoing environmental disruptions. The POLLCLIM project aims to better understand the consequences of these changes in “pollination climate” for animal-pollinated plants. We will develop a novel conceptual framework for analysing plant adaptation to a functionally diverse set of pollinators and apply it in empirical studies of a pollination-generalized wildflower. Through observational field studies, controlled experiments and tailored statistical modelling approaches, we will evaluate the contributions of individual pollinators to natural selection on flowers and other plant phenotypic traits functionally involved in the pollination process, and how well these refined estimates of pollinator-mediated selection extrapolate to evolutionary population divergence. Our conceptual framework emphasizes the (likely non-additive) individual contributions of each pollinator species in pollination-generalized plants visited by a functionally diverse set of pollinators. Building on three years of preparatory work, we will study a set of 50 plant populations in southern Scandinavia. Annual population surveys will inform on phenotypic adaptation to local pollinators, well-replicated selection studies will inform on spatio-temporal variation in selection, single-pollinator flight-cage experiments will allow us to estimate the contribution of each pollinator taxon to selection, and quantitative-genetic analyses will evaluate the relative influence of natural selection and genetic constraints in population divergence. The expected results will be of direct value for understanding plant responses to pollination climate change, and more generally the role of selection in the link between micro- and macroevolution."
+}

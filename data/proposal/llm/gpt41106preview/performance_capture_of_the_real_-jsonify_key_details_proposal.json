@@ -1,0 +1,106 @@
+{
+    "item_type": "proposal",
+    "title": "Performance Capture of the Real World in Motion",
+    "descriptions": [
+        {
+            "proposal_name": "Performance Capture of the Real World in Motion",
+            "proposal_details": {
+                "current_technology_limitations": [
+                    "Recording limited to indoor studios",
+                    "Controlled lighting required",
+                    "Dense static camera arrays needed",
+                    "Methods often limited to single objects",
+                    "Reconstructed shape detail very limited",
+                    "Simplistic assumptions about materials, reflectance, lighting"
+                ],
+                "project_goals": [
+                    "Reconstruct dynamic surface models with unprecedented shape detail",
+                    "Succeed in general scenes outside of the lab and outdoors",
+                    "Handle complex material and reflectance distributions",
+                    "Work with general, uncontrolled, and unknown lighting",
+                    "Capture dense and crowded scenes with complex shape deformations",
+                    "Reconstruct conveniently modifiable scene models",
+                    "Operate with sparse and moving sets of cameras, including mobile phones"
+                ],
+                "expected_outcomes": [
+                    "Turn performance capture into a practical technology",
+                    "Provide groundbreaking scientific insights",
+                    "Open up revolutionary new applications"
+                ],
+                "descriptions": [
+                    "This project aims to pioneer new performance capture techniques to address current limitations and significantly advance the practical application of the technology."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Performance Capture of the Real World in Motion",
+            "proposal_details": {
+                "descriptions": [
+                    "Pioneering new generation of performance capture techniques to overcome limitations of current technology."
+                ],
+                "current_technology_limitations": [
+                    "Recording limited to indoor studios",
+                    "Controlled lighting required",
+                    "Dense static camera arrays necessary",
+                    "Often limited to single objects",
+                    "Reconstructed shape detail is very limited",
+                    "Simplistic assumptions about materials, reflectance, and lighting",
+                    "Difficulty modifying captured data"
+                ],
+                "project_goals": [
+                    "Capture dynamic surface and texture models from multi-view video",
+                    "Reconstruct dynamic surface models with unprecedented shape detail",
+                    "Succeed on general scenes outdoors and outside of the lab",
+                    "Handle scenes with complex material and reflectance distributions",
+                    "Work in uncontrolled and unknown lighting conditions",
+                    "Capture dense and crowded scenes with complex shape deformations",
+                    "Reconstruct conveniently modifiable scene models",
+                    "Operate with sparse and moving sets of cameras",
+                    "Enable use with mobile phones"
+                ],
+                "expected_impact": [
+                    "Turn performance capture from research to practical technology",
+                    "Provide groundbreaking scientific insights",
+                    "Open up revolutionary new applications"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Performance Capture of the Real World in Motion",
+            "proposal_details": {
+                "descriptions": [
+                    "Pioneer a new generation of performance capture techniques to overcome current limitations."
+                ],
+                "current_technology_limitations": [
+                    "Limited to indoor studios",
+                    "Requires controlled lighting",
+                    "Depends on dense static camera arrays",
+                    "Often limited to single objects",
+                    "Reconstructed shape detail is very limited",
+                    "Simplistic assumptions about materials, reflectance, and lighting",
+                    "Captured data not easily modifiable"
+                ],
+                "project_goals": [
+                    "Capture dynamic surface and texture models from multi-view video",
+                    "Reconstruct dynamic surface models with unprecedented shape detail",
+                    "Succeed on general scenes outside of the lab and outdoors",
+                    "Handle scenes with complex material and reflectance distributions",
+                    "Operate in general, uncontrolled, and unknown lighting conditions",
+                    "Capture dense and crowded scenes with complex shape deformations",
+                    "Reconstruct modifiable scene models",
+                    "Function with sparse and moving sets of cameras, including mobile phones"
+                ],
+                "expected_outcomes": [
+                    "Turn performance capture from research technology into practical technology",
+                    "Provide groundbreaking scientific insights",
+                    "Open up revolutionary new applications"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4cff9b93d0cc27f30ae39156bc255d8e",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPerformance Capture of the Real World in Motion\n\n**Description:**\n\nComputer graphics technology for realistic rendering has improved dramatically; however, the technology to create scene models to be rendered, e.g., for movies, has not developed at the same pace. In practice, the state of the art in model creation still requires months of complex manual design, and this is a serious threat to progress. To attack this problem, computer graphics and computer vision researchers jointly developed methods that capture scene models from real world examples. Of particular importance is the capturing of moving scenes. The pinnacle of dynamic scene capture technology in research is marker-less performance capture. From multi-view video, they capture dynamic surface and texture models of the real world. Performance capture is hardly used in practice due to profound limitations: recording is usually limited to indoor studios, controlled lighting, and dense static camera arrays. Methods are often limited to single objects, and reconstructed shape detail is very limited. Assumptions about materials, reflectance, and lighting in a scene are simplistic, and we cannot easily modify captured data. In this project, we will pioneer a new generation of performance capture techniques to overcome these limitations. Our methods will allow the reconstruction of dynamic surface models of unprecedented shape detail. They will succeed on general scenes outside of the lab and outdoors, scenes with complex material and reflectance distributions, and scenes in which lighting is general, uncontrolled, and unknown. They will capture dense and crowded scenes with complex shape deformations. They will reconstruct conveniently modifiable scene models. They will work with sparse and moving sets of cameras, ultimately even with mobile phones. This far-reaching, multi-disciplinary project will turn performance capture from a research technology into a practical technology, provide groundbreaking scientific insights, and open up revolutionary new applications."
+}

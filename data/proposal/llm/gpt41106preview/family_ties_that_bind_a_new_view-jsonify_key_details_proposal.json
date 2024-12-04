@@ -1,0 +1,134 @@
+{
+    "item_type": "proposal",
+    "title": "Family ties that bind: A new view of internal migration, immobility and labour-market outcomes",
+    "descriptions": [
+        {
+            "proposal_name": "Family ties that bind: A new view of internal migration, immobility and labour-market outcomes",
+            "proposal_details": {
+                "focus": "internal migration and labour-market outcomes",
+                "perspective": "family ties",
+                "aim": "identify the role of family ties in internal migration, immobility and labour-market outcomes",
+                "objectives": [
+                    "Identify family ties as a deterrent of migration and key determinant of immobility",
+                    "Explain migration towards family in relation to other migration directions",
+                    "Determine the extent and subjects for whom family-related motives drive migration and immobility",
+                    "Unravel the differences in individual labour-market outcomes of migration versus immobility related to family ties and other factors"
+                ],
+                "data_sources": [
+                    "Geo-coded register and census data from Sweden, Norway, Denmark, the Netherlands, Belgium",
+                    "Survey data from Sweden, the Netherlands, the UK, the USA, New Zealand"
+                ],
+                "analytical_methods": [
+                    "Hazard regression",
+                    "Logistic regression",
+                    "OLS regression",
+                    "Structural equation models"
+                ],
+                "considerations": [
+                    "Multilevel, multi-actor data structure",
+                    "Endogeneity",
+                    "Self-selection"
+                ],
+                "expected_contributions": [
+                    "New insights into migration, immobility and labour-market outcomes",
+                    "Input for migration predictions and policies",
+                    "Population growth and decline",
+                    "Ethnic segregation",
+                    "Labour-market flexibility",
+                    "Family support"
+                ],
+                "descriptions": [
+                    "The project will provide major new insights into migration, immobility and labour-market outcomes, and input for better predictions and policies concerning migration, population growth and decline, ethnic segregation, labour-market flexibility and family support."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Family ties that bind: A new view of internal migration, immobility and labour-market outcomes",
+            "proposal_details": {
+                "assumption": "Internal migration is beneficial to individuals and households",
+                "project_name": "FamilyTies",
+                "aim": "Identify the role of family ties in internal migration, immobility and labour-market outcomes",
+                "objectives": [
+                    "Identify family ties as a deterrent of migration and key determinant of immobility",
+                    "Explain migration towards family compared to other directions",
+                    "Determine the extent and subjects for whom family-related motives drive migration and immobility",
+                    "Unravel differences in individual labour-market outcomes of migration versus immobility related to family ties and other factors"
+                ],
+                "methods": [
+                    "Hazard regression",
+                    "Logistic regression",
+                    "OLS regression",
+                    "Structural equation models"
+                ],
+                "data_sources": [
+                    "Geo-coded register and census data for Sweden, Norway, Denmark, the Netherlands, Belgium",
+                    "Survey data for Sweden, the Netherlands, the UK, the USA, New Zealand"
+                ],
+                "analysis_features": [
+                    "Multilevel and multi-actor data structure",
+                    "Endogeneity",
+                    "Self-selection"
+                ],
+                "expected_outcomes": [
+                    "New insights into migration, immobility and labour-market outcomes",
+                    "Input for predictions and policies concerning migration, population growth and decline, ethnic segregation, labour-market flexibility, family support"
+                ],
+                "descriptions": [
+                    "The FamilyTies project introduces a novel perspective focusing on the role of family outside the household in internal migration and immobility decisions, taking contemporary family complexity into account."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Family ties that bind: A new view of internal migration, immobility and labour-market outcomes",
+            "proposal_details": {
+                "focus": "Internal migration and its labour-market outcomes",
+                "project_name": "FamilyTies",
+                "perspective": "Family ties",
+                "objectives": [
+                    "Identify the role of family ties as a deterrent of migration and key determinant of immobility",
+                    "Explain migration towards family in relation to migration in other directions",
+                    "Determine to what extent and for whom family-related motives drive migration and immobility",
+                    "Unravel how individual labour-market outcomes of migration versus immobility differ between (im)mobility related to family ties and (im)mobility due to other factors"
+                ],
+                "data_sources": [
+                    "Geo-coded register",
+                    "Census data",
+                    "Survey data"
+                ],
+                "countries": [
+                    "Sweden",
+                    "Norway",
+                    "Denmark",
+                    "Netherlands",
+                    "Belgium",
+                    "UK",
+                    "USA",
+                    "New Zealand"
+                ],
+                "analysis_methods": [
+                    "Hazard regression",
+                    "Logistic regression",
+                    "OLS regression",
+                    "Structural equation models"
+                ],
+                "key_areas": [
+                    "Migration",
+                    "Immobility",
+                    "Labour-market outcomes",
+                    "Population growth and decline",
+                    "Ethnic segregation",
+                    "Labour-market flexibility",
+                    "Family support"
+                ],
+                "descriptions": [
+                    "The project will provide major new insights into migration, immobility and labour-market outcomes, and input for better predictions and policies concerning migration, population growth and decline, ethnic segregation, labour-market flexibility and family support."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "cf769441f112eb312fc8bd44a38ec02a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nFamily ties that bind: A new view of internal migration, immobility and labour-market outcomes\n\n**Description:**\n\nInternal migration (long-distance moves within national borders) is generally assumed to be beneficial to individuals and households. This FamilyTies project has been designed to make a decisive contribution to a much more comprehensive explanation of internal migration and its labour-market outcomes than current, mainly economic, explanations have achieved thus far. It introduces a novel perspective on internal migration and immobility, which focuses on the role of family outside the household in deciding on whether and where to relocate, and which takes into account contemporary family complexity: the family ties perspective. The aim is to identify the role of family ties in internal migration, immobility and labour-market outcomes. The objectives are: 1. Identifying the role of family ties as a deterrent of migration and key determinant of immobility. 2. Explaining migration towards family in relation to migration in other directions. 3. Determining to what extent and for whom family-related motives drive migration and immobility. 4. Unravelling how individual labour-market outcomes of migration versus immobility differ between (im)mobility related to family ties and (im)mobility due to other factors. Geo-coded register and census data containing micro-links between family members will be used for Sweden, Norway, Denmark, the Netherlands and Belgium, as well as survey data for Sweden, the Netherlands, the UK, the USA and New Zealand. These will be analysed using advanced applications of hazard regression, logistic regression, OLS regression and structural equation models, which take into account the multilevel and multi-actor structure of the data and issues of endogeneity and self-selection. The project will provide major new insights into migration, immobility and labour-market outcomes, and input for better predictions and policies concerning migration, population growth and decline, ethnic segregation, labour-market flexibility and family support."
+}

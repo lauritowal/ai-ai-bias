@@ -1,0 +1,215 @@
+{
+    "item_type": "proposal",
+    "title": "Role of miRNAs in brown and white adipose tissue differentiation and function",
+    "descriptions": [
+        {
+            "proposal_name": "Role of miRNAs in brown and white adipose tissue differentiation and function",
+            "proposal_details": {
+                "types_of_fat": [
+                    "brown",
+                    "white"
+                ],
+                "functions": {
+                    "WAT": [
+                        "regulate whole body homeostasis",
+                        "store energy as triglycerides"
+                    ],
+                    "BAT": [
+                        "catabolize lipids",
+                        "produce heat"
+                    ]
+                },
+                "inducers_of_BAT_function": [
+                    "cold exposure",
+                    "diet"
+                ],
+                "WAT_disruption_consequences": [
+                    "ectopic lipid storage",
+                    "severe pathology"
+                ],
+                "BAT_development_effects": [
+                    "increased energy expenditure",
+                    "no dysfunction in other tissues",
+                    "associated with lean and healthy phenotype"
+                ],
+                "research_goals": {
+                    "identify": [
+                        "miRNAs",
+                        "other factors regulating BAT and WAT differentiation and function"
+                    ],
+                    "distinguish": [
+                        "miRNAs regulating brown or white adipogenesis",
+                        "expressed in respective precursors"
+                    ],
+                    "establish_signatures": [
+                        "for either cell type"
+                    ],
+                    "molecular_mechanisms": [
+                        "of miRNAs in regulation of adipose tissue differentiation and metabolism"
+                    ]
+                },
+                "research_methods": {
+                    "systems_used": [
+                        "in vitro",
+                        "in vivo"
+                    ],
+                    "studies": [
+                        "linage tracing"
+                    ],
+                    "animal_models": [
+                        "transgenic animals"
+                    ],
+                    "human_patients_cohorts": [
+                        "for determining the origin of beige cells within the SAT"
+                    ],
+                    "objectives": [
+                        "establish importance in regulation of metabolism in vivo",
+                        "develop strategies to induce brown fat differentiation and function"
+                    ]
+                },
+                "miRNA_silencing_in_BAT": {
+                    "goals": [
+                        "investigate miRNA function in brown fat",
+                        "develop new strategies for treatment of dyslipedaemia, diabetes, obesity"
+                    ]
+                },
+                "descriptions": [
+                    "This proposal aims to dissect the role of miRNAs in the differentiation and function of brown and white adipose tissues, with a focus on identifying regulatory factors and developing therapeutic strategies for metabolic disorders."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Role of miRNAs in brown and white adipose tissue differentiation and function",
+            "proposal_details": {
+                "fat_types": [
+                    "brown",
+                    "white"
+                ],
+                "white_adipose_tissue_function": [
+                    "whole body homeostasis regulation",
+                    "energy storage"
+                ],
+                "white_adipose_tissue_energy_form": "triglycerides",
+                "brown_adipose_tissue_function": [
+                    "lipid catabolism",
+                    "heat production"
+                ],
+                "brown_adipose_tissue_inducers": [
+                    "cold exposure",
+                    "diet"
+                ],
+                "pathology": [
+                    "ectopic lipid storage",
+                    "severe pathology"
+                ],
+                "increased_BAT_benefits": [
+                    "increased energy expenditure",
+                    "no other tissue dysfunction",
+                    "lean and healthy phenotype"
+                ],
+                "research_aims": [
+                    "identify miRNAs and factors regulating BAT and WAT differentiation and function",
+                    "distinguish miRNAs specific to brown or white adipogenesis",
+                    "establish miRNA signatures for each cell type",
+                    "identify molecular mechanisms of miRNAs in adipose tissue regulation",
+                    "determine origin of beige cells in SAT",
+                    "establish importance of beige cells in metabolism regulation in vivo",
+                    "develop strategies for brown fat differentiation and function induction",
+                    "discover methods to silence miRNAs exclusively in brown fat"
+                ],
+                "methods": [
+                    "in vitro systems",
+                    "in vivo systems",
+                    "linage tracing studies",
+                    "transgenic animals",
+                    "cohorts of human patients"
+                ],
+                "treatment_targets": [
+                    "dyslipedaemia",
+                    "diabetes",
+                    "obesity"
+                ],
+                "descriptions": [
+                    "This proposal investigates the role of miRNAs in the differentiation and function of brown and white adipose tissues, with the aim of developing new therapeutic strategies."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Role of miRNAs in brown and white adipose tissue differentiation and function",
+            "proposal_details": {
+                "types_of_fat": [
+                    "brown",
+                    "white"
+                ],
+                "white_adipose_tissue": {
+                    "functions": [
+                        "regulate whole body homeostasis",
+                        "store energy in form of triglycerides"
+                    ]
+                },
+                "brown_adipose_tissue": {
+                    "main_function": "catabolize lipids to produce heat",
+                    "inducers": [
+                        "cold exposure",
+                        "diet"
+                    ]
+                },
+                "pathology": {
+                    "disrupted_WAT_differentiation": {
+                        "consequences": [
+                            "ectopic lipid storage",
+                            "severe pathology"
+                        ]
+                    },
+                    "increased_BAT_development": {
+                        "outcomes": [
+                            "increased energy expenditure",
+                            "no dysfunction in other tissues",
+                            "associated with lean and healthy phenotype"
+                        ]
+                    }
+                },
+                "research_focus": {
+                    "objectives": [
+                        "identify miRNAs and other factors regulating BAT and WAT differentiation and function",
+                        "distinguish miRNAs regulating adipogenesis",
+                        "establish miRNA expression signatures for each cell type",
+                        "identify molecular mechanisms of miRNA action in adipose tissue differentiation and metabolism"
+                    ],
+                    "methods": {
+                        "systems_used": [
+                            "in vitro",
+                            "in vivo"
+                        ],
+                        "studies": [
+                            "linage tracing studies"
+                        ],
+                        "use_of_animals": [
+                            "transgenic animals"
+                        ],
+                        "human_patients_cohorts": true
+                    },
+                    "goals": [
+                        "determine origin of beige cells within SAT",
+                        "establish importance of beige cells in metabolism regulation in vivo",
+                        "develop strategies to induce brown fat differentiation and function",
+                        "discover ways to silence miRNAs exclusively in brown fat"
+                    ],
+                    "treatment_targets": [
+                        "dyslipedaemia",
+                        "diabetes",
+                        "obesity"
+                    ]
+                },
+                "descriptions": [
+                    "With the proposed research we will identify miRNAs and other factors that regulate BAT and WAT differentiation and function."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1f6b8ec96958664d205b4354fcf15071",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nRole of miRNAs in brown and white adipose tissue differentiation and function\n\n**Description:**\n\nMammals have two types of fat: brown and white, with opposing functions. The white adipose tissue (WAT) is an important regulator of the whole body homeostasis that also serves to store energy in form of triglycerides (TGs). The main function of the brown adipose tissue (BAT) is to catabolize lipids in order to produce heat, a function that can be induced by cold exposure or diet. Disruption of the normal differentiation or development of the WAT causes ectopic lipid storage and severe pathology in both humans and experimental animals. Increased BAT development leads to increased energy expenditure without causing dysfunction in other tissues, and is associated with a lean and healthy phenotype, outlining the manipulation of the fat stores as an obvious therapeutic objective. With the proposed research we will identify miRNAs and other factors that regulate BAT and WAT differentiation and function. We will distinguish the miRNAs that specifically regulate brown or white adipogenesis and are expressed in the respective precursors, and establish them as signatures for either cell type. We will also identify the molecular mechanisms of action of the identified miRNAs in regulation of adipose tissue differentiation and metabolism. Using in vitro and in vivo systems, linage tracing studies, transgenic animals, as well as cohorts of human patients, we will determine the origin of the beige cells within the SAT, establish their importance in the regulation of metabolism in vivo, and develop novel strategies to induce the brown fat differentiation and function. Finally, we will discover ways to exclusively silence miRNAs in the brown fat will that will allow us not only to investigate the miRNAs function specifically in the brown fat, but also to develop new strategies for treatment of dyslipedaemia, diabetes and obesity."
+}

@@ -1,0 +1,141 @@
+{
+    "item_type": "proposal",
+    "title": "Deciphering and targeting cellular states in glioblastoma",
+    "descriptions": [
+        {
+            "proposal_name": "Deciphering and targeting cellular states in glioblastoma",
+            "proposal_details": {
+                "focus": "Cellular heterogeneity in glioblastoma (GBM)",
+                "previous_work_duration": 6,
+                "previous_work_techniques": [
+                    "scRNA-seq"
+                ],
+                "aim_1_methods": [
+                    "Single cell ATAC-seq",
+                    "Spatial Transcriptomics"
+                ],
+                "aim_2_focus": "Search for novel cellular states",
+                "aim_3_focus": "Examine strategies for treatment of heterogeneous tumors",
+                "model_systems": [
+                    "GBM patient samples",
+                    "animal models",
+                    "gliomasphere culture models"
+                ],
+                "descriptions": [
+                    "Characterization of cellular heterogeneity in GBM tumors and other glioma types, identification of consistent patterns across patients, and potential clinical significance of common cellular states"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Deciphering and targeting cellular states in glioblastoma",
+            "proposal_details": {
+                "description": "This proposal aims to investigate the cellular heterogeneity in glioblastoma tumors to identify potential clinical treatments.",
+                "characteristics": [
+                    "Cellular heterogeneity in glioblastoma (GBM)",
+                    "Patterns of heterogeneity across patients"
+                ],
+                "data_points": [
+                    {
+                        "technique": "single cell RNA-seq (scRNA-seq)",
+                        "duration": "past six years",
+                        "findings": "multiple subpopulations of cells in each tumor"
+                    }
+                ],
+                "aims": [
+                    {
+                        "aim": 1,
+                        "description": "Dissect the regulation of common cellular states",
+                        "techniques": [
+                            "single cell ATAC-seq",
+                            "Spatial Transcriptomics"
+                        ],
+                        "model_systems": [
+                            "patient samples",
+                            "animal models",
+                            "gliomasphere culture models"
+                        ]
+                    },
+                    {
+                        "aim": 2,
+                        "description": "Search for novel cellular states"
+                    },
+                    {
+                        "aim": 3,
+                        "description": "Examine strategies for treatment of heterogenous tumors",
+                        "approaches": [
+                            "screen for state-specific drug sensitivities",
+                            "induce state transitions",
+                            "develop rational combinations"
+                        ]
+                    }
+                ],
+                "objectives": [
+                    "Understand regulation of cellular states",
+                    "Identify novel cellular states",
+                    "Develop treatment strategies for heterogeneous tumors"
+                ],
+                "research_methods": [
+                    "Analysis of GBM patient samples",
+                    "Use of animal models",
+                    "Gliomasphere culture model studies"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Deciphering and targeting cellular states in glioblastoma",
+            "proposal_details": {
+                "objective": "To characterize and target cellular heterogeneity in glioblastoma (GBM) for therapeutic benefits",
+                "background": {
+                    "disease_focus": "Glioblastoma",
+                    "research_done": {
+                        "years": 6,
+                        "techniques_used": [
+                            "single cell RNA-seq"
+                        ]
+                    },
+                    "findings": {
+                        "patterns_of_heterogeneity": "consistent across patients",
+                        "cell_subpopulations": "resembling neurodevelopmental cell types"
+                    }
+                },
+                "aims": [
+                    {
+                        "aim_number": 1,
+                        "description": "Dissect the regulation of the common cellular states",
+                        "techniques": [
+                            "single cell ATAC-seq",
+                            "Spatial Transcriptomics"
+                        ],
+                        "model_systems_used": [
+                            "patient samples",
+                            "animal models",
+                            "gliomasphere culture models"
+                        ]
+                    },
+                    {
+                        "aim_number": 2,
+                        "description": "Search for novel cellular states, including rare states or those associated with invasion to the brain parenchyma"
+                    },
+                    {
+                        "aim_number": 3,
+                        "description": "Examine strategies for treatment of heterogeneous tumors composed of multiple states",
+                        "focus": [
+                            "state-specific drug sensitivities",
+                            "drugs that induce state transitions",
+                            "rational combinations to eliminate multiple co-existing states"
+                        ]
+                    }
+                ],
+                "expected_outcomes": {
+                    "knowledge_expansion": "cancer heterogeneity",
+                    "development_of_strategies": "to target heterogeneous tumors"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d9e78c6b43e69e3352b806b5bf255647",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nDeciphering and targeting cellular states in glioblastoma\n\n**Description:**\n\nCellular heterogeneity is a fundamental property of glioblastoma (GBM) tumors and presents a major barrier for therapeutics. During the past six years we characterized this heterogeneity in glioblastoma, and in other types of glioma, using single cell RNA-seq (scRNA-seq). We found consistent patterns of heterogeneity across patients, such that each tumor harbors multiple subpopulations of cells that resemble neurodevelopmental cell types. The consistency of these cellular states across patients highlights their potential clinical significance. Yet, our understanding of how these common states are regulated and of how distinct states respond, individually or in combinations, to potential treatments, remain poorly understood. Furthermore, it is unclear if additional states of clinical significance remain to be uncovered. To address these challenges, we will perform extensive studies of GBM patient samples, animal models and gliomasphere culture models. First, we will dissect the regulation of the common cellular states (Aim 1). Single cell ATAC-seq of patient samples will be used to infer transcriptional regulators, Spatial Transcriptomics will be used to infer environmental interactions, and resulting predictions will be tested further in established model systems. Second, we will search for novel cellular states, including rare states or those specifically associated with invasion to the brain parenchyma (Aim 2). Third, we will examine strategies for treatment of heterogenous tumors that are composed of multiple states (Aim 3). We will screen for state-specific drug sensitivities, as well as for drugs that induce state transitions, and develop rational combinations to eliminate multiple co-existing states, while considering interactions among states. Taken together, these studies will considerably expand our understanding of cancer heterogeneity and develop strategies to target heterogeneous tumors."
+}

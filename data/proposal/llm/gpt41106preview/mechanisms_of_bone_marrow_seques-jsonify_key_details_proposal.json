@@ -1,0 +1,104 @@
+{
+    "item_type": "proposal",
+    "title": "Mechanisms of bone marrow sequestration during malaria infection",
+    "descriptions": [
+        {
+            "proposal_name": "Mechanisms of bone marrow sequestration during malaria infection",
+            "proposal_details": {
+                "public_health_problem": "Malaria",
+                "annual_deaths": 600000,
+                "most_affected_region": "sub-Saharan Africa",
+                "need": "novel therapies",
+                "resistance_issue": "widespread resistance against current treatments",
+                "infection_agent": "Plasmodium falciparum",
+                "infected_cell_type": "red blood cells",
+                "sequestration_importance": "critical for red blood cell cycle completion",
+                "recognition_avoidance_mechanism": "release of parasites allows clearance in the spleen",
+                "adherence_site": "vascular endothelium",
+                "transmission_stage": "gametocytes",
+                "transmission_stage_location": "extravascular environment of the human bone marrow",
+                "mouse_model_confirmation": "existence of an asexual reservoir in the bone marrow",
+                "proposal_type": "innovative multidisciplinary",
+                "research_focus": "host pathogen interactions at the interface between infected red blood cell and bone marrow vasculature",
+                "research_questions": [
+                    "How do parasites home to bone marrow?",
+                    "What are the changes in the bone marrow endothelium upon infection?",
+                    "How do parasites adhere with and transmigrate across the vascular endothelium in the bone marrow?"
+                ],
+                "study_implication": "detailed characterization of a new paradigm in malaria parasite interaction with the host vasculature",
+                "intervention_strategy_potential": true
+            }
+        },
+        {
+            "proposal_name": "Mechanisms of bone marrow sequestration during malaria infection",
+            "proposal_details": {
+                "public_health_impact": {
+                    "malaria_deaths_per_year": 600000,
+                    "affected_population": "children in sub-Saharan Africa"
+                },
+                "research_urgency": {
+                    "need_for_novel_therapies": true,
+                    "resistance_to_current_treatments": "widespread"
+                },
+                "pathogen": {
+                    "species": "Plasmodium falciparum",
+                    "virulence_factor": "infected red blood cells sequestration in deep tissues"
+                },
+                "life_cycle_stage_targeted": [
+                    "asexually replicating parasites",
+                    "gametocytes"
+                ],
+                "study_findings": {
+                    "gametocytes_development_location": "extravascular environment of human bone marrow",
+                    "mouse_model_confirmation": true,
+                    "existence_of_asexual_reservoir": "bone marrow"
+                },
+                "research_goals": {
+                    "host_pathogen_interactions_study": true,
+                    "infected_red_blood_cell_and_bone_marrow_vasculature_interface_focus": true
+                },
+                "research_questions": [
+                    "How do parasites home to bone marrow?",
+                    "What changes occur in the bone marrow endothelium upon infection?",
+                    "How do parasites adhere to and transmigrate across the bone marrow vascular endothelium?"
+                ],
+                "research_outcome_expectations": {
+                    "detailed_characterization_of_interaction": true,
+                    "new_avenue_for_intervention_strategies": true
+                }
+            }
+        },
+        {
+            "proposal_name": "Mechanisms of bone marrow sequestration during malaria infection",
+            "proposal_details": {
+                "public_health_problem": "Malaria",
+                "annual_deaths": 600000,
+                "primary_victims": "children",
+                "affected_region": "sub-Saharan Africa",
+                "need": "novel therapies",
+                "resistance_issue": "widespread resistance against current treatments",
+                "parasite": "Plasmodium falciparum",
+                "virulence_factor": "infected red blood cells' sequestration in deep tissues",
+                "importance_of_sequestration": "critical for red blood cell cycle completion",
+                "recent_findings": {
+                    "gametocytes_location": "human bone marrow",
+                    "asexual_reservoir": "bone marrow"
+                },
+                "study_type": "multidisciplinary proposal",
+                "research_focus": "host pathogen interactions at bone marrow vasculature interface",
+                "research_questions": [
+                    "How do parasites home to bone marrow?",
+                    "What changes occur in bone marrow endothelium upon infection?",
+                    "How do parasites adhere and transmigrate across bone marrow vascular endothelium?"
+                ],
+                "expected_outcome": "characterization of malaria parasite interaction with host vasculature",
+                "potential_impact": "new avenue for intervention strategies"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ebd7f3a45755515a6d83730668f07aaa",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMechanisms of bone marrow sequestration during malaria infection\n\n**Description:**\n\nMalaria remains a major problem of public health in developing countries. It is responsible for about 600000 deaths per year, predominantly children in sub-Saharan Africa. There is an urgent need for novel therapies as resistance against current treatments is widespread. The complex parasite biology requires a multifaceted approach targeting multiple life cycle stages and virulence pathways. The pathogenesis of the most deadly of human malaria parasites, Plasmodium falciparum, is related to the capability of infected red blood cells to sequester in deep tissues. Sequestration is critical for the completion of the red blood cell cycle because the release of parasites into the blood circulation allows recognition by surveillance macrophages and clearance in the spleen. A series of studies have since led to the understanding that sequestration of asexually replicating parasites is caused by the adherence of parasite infected red blood cells to the vascular endothelium of various tissues in the body. We have recently demonstrated that gametocytes, the only stage capable of transmission to the mosquito vector, develop in the extravascular environment of the human bone marrow. Preliminary studies in the mouse model have confirmed this finding and also suggest existence of an asexual reservoir in the bone marrow. In this innovative multidiscipinary proposal we aim to investigate the host pathogen interactions at the interface between infected red blood cell and bone marrow vasculature. Specifically we will focus on the following questions: how do parasites home to bone marrow? What are the changes in the bone marrow endothelium upon infection? How do parasites adhere with and transmigrate across the vascular endothelium in the bone marrow? The proposed studies initiate detailed characterization of a new paradigm in malaria parasite interaction with the host vasculature and provide a compelling new avenue for intervention strategies."
+}

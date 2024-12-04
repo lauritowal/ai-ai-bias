@@ -1,0 +1,129 @@
+{
+    "item_type": "proposal",
+    "title": "Narrative Ordering and Explanation in the Sciences: Historical Investigations and Perspectives",
+    "descriptions": [
+        {
+            "proposal_name": "Narrative Ordering and Explanation in the Sciences: Historical Investigations and Perspectives",
+            "proposal_details": {
+                "aim": "To understand the role of narrative in modern science",
+                "narrative_presence": [
+                    "human sciences",
+                    "social sciences",
+                    "natural sciences"
+                ],
+                "usage_periods": [
+                    "past two centuries"
+                ],
+                "narrative_applications": [
+                    "real situations",
+                    "virtual situations",
+                    "empirical work",
+                    "theorizing"
+                ],
+                "additional_roles": [
+                    "ordering",
+                    "creating coherence"
+                ],
+                "variation": "Narratives vary in ordering from site to site, and from science to science",
+                "case_studies_examples": [
+                    "path dependent system in nineteenth century biology",
+                    "configuring narratives of mid-twentieth century case studies in sociology",
+                    "‘how possibly’ narratives of modern computer-based simulations"
+                ],
+                "project_scope": "Broad, many case studies",
+                "project_challenge": "Making sense of the variety of narrative use in sciences",
+                "commonality": "Narratives function to answer scientists' questions and provide scientific explanations",
+                "descriptions": [
+                    "This project examines the critical role that scientists’ narratives have played in modern science, investigating the functions and knowledge derived from narrative use across various scientific disciplines."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Narrative Ordering and Explanation in the Sciences: Historical Investigations and Perspectives",
+            "proposal_details": {
+                "aim": "To understand the role of narrative in modern science",
+                "narratives_in_science": {
+                    "presence": "human, social and natural sciences",
+                    "time_period": "past two centuries",
+                    "applications": [
+                        "real situations accounts",
+                        "virtual situations simulations",
+                        "empirical work",
+                        "theorizing"
+                    ]
+                },
+                "significance": "Important roles for scientists beyond reporting",
+                "gap_in_knowledge": {
+                    "lack_of_account": "Types of knowledge gained from narrative and its constitution",
+                    "neglected_study": [
+                        "field narratives as narratives",
+                        "except in medicine and evolutionary biology"
+                    ]
+                },
+                "research_question": [
+                    "What do scientists gain from using narratives?",
+                    "What functions do narratives play?"
+                ],
+                "initial_research_findings": "Narratives help figure out coherence and fit in research",
+                "narrative_variety": {
+                    "ordering_variation": [
+                        "site to site",
+                        "science to science"
+                    ],
+                    "examples": [
+                        "nineteenth century biology",
+                        "mid-twentieth century sociology case studies",
+                        "modern computer-based simulations"
+                    ]
+                },
+                "project_scope": "Broad, with many case studies",
+                "challenge": "Making sense of narrative variety in science",
+                "common_narrative_function": "Answering scientific questions and providing explanations",
+                "descriptions": [
+                    "Narratives function to create coherence and answer questions in scientific research beyond mere description and reporting."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Narrative Ordering and Explanation in the Sciences: Historical Investigations and Perspectives",
+            "proposal_details": {
+                "aim": "Understand the role of narrative in modern science",
+                "scope": [
+                    "human sciences",
+                    "social sciences",
+                    "natural sciences"
+                ],
+                "timeframe": "past two centuries",
+                "narrative_usage": [
+                    "real situations",
+                    "virtual situations",
+                    "empirical work",
+                    "theorizing"
+                ],
+                "significance": "Narratives play roles beyond reporting in science",
+                "knowledge_gap": [
+                    "Nature of 'narrative knowing'",
+                    "Constitution of 'narrative knowing'"
+                ],
+                "exceptions": [
+                    "medicine",
+                    "evolutionary biology"
+                ],
+                "research_question": [
+                    "What is gained from using narratives?",
+                    "What functions do narratives play?"
+                ],
+                "initial_findings": "Narratives help figure out coherence and fit in research",
+                "variability": "Ordering varies by site and science",
+                "methodology": "Case studies",
+                "challenge": "Making sense of the variety of narrative usage",
+                "commonality": "Narratives provide scientific explanations"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "23ebc3bcd2d7634353226ee6ec15c511",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNarrative Ordering and Explanation in the Sciences: Historical Investigations and Perspectives\n\n**Description:**\n\nThe aim of this project is to understand the role of narrative in modern science. Narratives have appeared in many places in the human, social and natural sciences over the past two centuries. They can be found both in accounts of real situations and in simulations of virtual situations, in empirical work and in theorizing. It is clear that narratives have played important roles for scientists well beyond the simple act of reporting. Yet we lack an account of what kinds of thing scientists know from using narrative and how such ‘narrative knowing’ is constituted. Indeed, with the notable exceptions of medicine and evolutionary biology, even the study of those field narratives, as narratives, has been largely ignored by both historians of science and narrative scholars. What do scientists gain from using narratives, what functions do narratives play? Initial research shows that scientists have used narratives to figure out what fits together with what, and to create coherence amongst the elements in their research. But the means of such ordering vary - from site to site, and from science to science. Narratives used to explore a path dependent system in nineteenth century biology used a different mode of ordering both from the configuring narratives of mid-twentieth century case studies in sociology, and from the ‘how possibly’ narratives of modern computer-based simulations. Such variety requires a broad project, using many case studies to explore the critical role that scientists’ narratives have played in modern science. Making sense of such variety offers an ambitious challenge. But while there is surely no simple answer to why scientists use narratives, all these notions of narrative ordering do have something in common. They suggest that narratives function not just to describe and report as one might expect, they play a much more important role in answering scientists’s own questions and so - in various ways - in providing scientific explanations."
+}

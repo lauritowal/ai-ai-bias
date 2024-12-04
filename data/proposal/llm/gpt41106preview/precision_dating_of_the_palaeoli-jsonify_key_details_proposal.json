@@ -1,0 +1,141 @@
+{
+    "item_type": "proposal",
+    "title": "Precision dating of the Palaeolithic: chronological mapping of the Middle and Upper Palaeolithic of Eurasia",
+    "descriptions": [
+        {
+            "proposal_name": "Precision dating of the Palaeolithic: chronological mapping of the Middle and Upper Palaeolithic of Eurasia",
+            "proposal_details": {
+                "period": {
+                    "start": 60000,
+                    "end": 30000,
+                    "unit": "years ago"
+                },
+                "goal": "Construction of a robust chronology for over 50 key Palaeolithic sites",
+                "regions": [
+                    "Eastern Europe",
+                    "Siberia"
+                ],
+                "techniques": [
+                    "Radiocarbon",
+                    "OSL",
+                    "U-series",
+                    "Bayesian statistics"
+                ],
+                "issues_with_previous_radiocarbon_dating": "Contaminants removal difficulty",
+                "innovation": "New chemical pretreatment methods",
+                "specific_innovation": "Ultrafiltration for bone proteins",
+                "impact_past_5_years": "Significant revision in the chronology of the Middle to Upper Palaeolithic transition in western Europe",
+                "geographic_focus": [
+                    "Russia",
+                    "Central Asia"
+                ],
+                "collaborative_network": true,
+                "PI_experience_years": 8,
+                "descriptions": [
+                    "The project aims to refine the dating of critical Palaeolithic sites in Eurasia to better understand human evolution, dispersion, and Neanderthal extinction."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Precision dating of the Palaeolithic: chronological mapping of the Middle and Upper Palaeolithic of Eurasia",
+            "proposal_details": {
+                "time_period": {
+                    "start": 60000,
+                    "end": 30000,
+                    "units": "years ago"
+                },
+                "event": {
+                    "human_dispersal_out_of_Africa": true,
+                    "Neanderthal_disappearance": true
+                },
+                "project_goal": {
+                    "construct_robust_chronology": true,
+                    "number_of_sites": 50,
+                    "geographical_scope": "Eastern Europe to Siberia"
+                },
+                "methods": [
+                    "advanced_radiocarbon_techniques",
+                    "OSL",
+                    "U-series",
+                    "Bayesian_statistics"
+                ],
+                "methodological_developments": {
+                    "chemical_pretreatment_methods": true,
+                    "ultrafiltration_for_bone_proteins": true,
+                    "revolutionized_radiocarbon_dating": true
+                },
+                "previous_work": {
+                    "western_European_Palaeolithic_sites": true,
+                    "significant_revision": true
+                },
+                "current_focus": {
+                    "geographic_area": "northern Eurasia",
+                    "regions_included": [
+                        "Russia",
+                        "Central Asia"
+                    ]
+                },
+                "expertise": {
+                    "collaborative_network": true,
+                    "PI_field_experience_years": 8
+                },
+                "expected_outcomes": {
+                    "new_data": true,
+                    "improved_understanding": true,
+                    "spatio_temporal_framework": true,
+                    "environmental_context": true
+                },
+                "descriptions": [
+                    "The proposal aims to establish a precise timeline for key Palaeolithic sites dating from 60,000 to 30,000 years ago across Eurasia using improved dating techniques and methodologies."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Precision dating of the Palaeolithic: chronological mapping of the Middle and Upper Palaeolithic of Eurasia",
+            "proposal_details": {
+                "time_period": {
+                    "start": 60000,
+                    "end": 30000,
+                    "units": "years ago"
+                },
+                "objective": "Construction of a robust chronology for key Palaeolithic sites",
+                "number_of_sites": 50,
+                "geographical_scope": [
+                    "Eastern Europe",
+                    "Siberia"
+                ],
+                "methods": [
+                    "advanced radiocarbon techniques",
+                    "OSL",
+                    "U-series",
+                    "Bayesian statistics"
+                ],
+                "chemical_pretreatment": "ultrafiltration",
+                "focus_area": "Middle to Upper Palaeolithic transition",
+                "target_species": [
+                    "modern humans",
+                    "Neanderthals"
+                ],
+                "previous_work_duration": 8,
+                "previous_work": {
+                    "location": "western Europe",
+                    "outcome": "significant revision in the chronology",
+                    "time_span": 5,
+                    "units": "years"
+                },
+                "application_areas": [
+                    "Russia",
+                    "Central Asia"
+                ],
+                "descriptions": [
+                    "Aims to improve understanding of human dispersal, extinction, and co-existence within a spatio-temporal framework and environmental context."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "172a455e4b155666bf8d64f837f0d58a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPrecision dating of the Palaeolithic: chronological mapping of the Middle and Upper Palaeolithic of Eurasia\n\n**Description:**\n\nThis proposal addresses the chronology of the Middle to Upper Palaeolithic transition of Eurasia, the period between ~60-30,000 years ago, during which the first modern humans dispersed out of Africa into the Old World and Neanderthals disappeared. This is a crucially important interval for understanding late human evolution and the reasons leading to the global dominance of our species. The project will allow, for the first time, the construction of a robust chronology for more than 50 key Palaeolithic sites dating to this period from Eastern Europe to Siberia. We will use advanced radiocarbon techniques, as well as other increasingly refined dating methods (OSL, U-series) and Bayesian statistics. Previous radiocarbon dating, the main chronological tool for this period, is known now to be severely problematic, principally because of difficulties in removing contaminants from the samples. The PI and his team have been to the forefront of developing new chemical pretreatment methods, such as the use of ‘ultrafiltration’ to purify bone proteins, which have revolutionized our ability to radiocarbon date reliably old samples. Over the last 5 years, application of these methods in the dating of western European Palaeolithic sites has led to a significant revision in the chronology of the Middle to Upper Palaeolithic transition. New dating is urgently required to clarify the wider picture of the transition in a much broader geographic area. The proposal will apply these methods to sites in northern Eurasia, principally Russia and Central Asia, which have yet to see the benefits of these recent methodological developments. This project builds on expertise from a wide collaborative network and on the PIs work in the field over the last 8 years. We will obtain groundbreaking new data that will contribute to an improved understanding of the dispersal, extinction and co-existence of different human species, within a concise spatio-temporal framework and environmental context."
+}

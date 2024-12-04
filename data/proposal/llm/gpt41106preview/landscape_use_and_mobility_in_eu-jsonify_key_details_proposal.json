@@ -1,0 +1,142 @@
+{
+    "item_type": "proposal",
+    "title": "Landscape Use and Mobility In EuRopE - Bridging the gap between cremation and inhumation",
+    "descriptions": [
+        {
+            "proposal_name": "Landscape Use and Mobility In EuRopE - Bridging the gap between cremation and inhumation",
+            "proposal_details": {
+                "descriptions": [
+                    "Characterizing mobility in Europe during historical periods where cremation and inhumation were practiced."
+                ],
+                "challenges": [
+                    "Information loss due to high-temperature cremation",
+                    "Differing biogeochemical information from unburned and burned remains",
+                    "Limited baselines for contextualisation and interpretation"
+                ],
+                "objectives": [
+                    "Develop new proxies for calcined bone",
+                    "Re-evaluate the potential of charred bone",
+                    "Create adequate baselines for analysis"
+                ],
+                "outcomes": [
+                    "Increase in quantity and quality of information from cremated remains",
+                    "Expansion of analysed individuals to include those with charred bones",
+                    "Improved documentation of human mobility from Neolithic to Early Medieval Period"
+                ],
+                "methods": [
+                    "Biogeochemical studies on bone and teeth",
+                    "Characterization of turnover rates for different skeletal elements",
+                    "Use of statistical and spatial models"
+                ],
+                "study_periods": [
+                    "Neolithic",
+                    "Early Medieval Period"
+                ],
+                "study_scales": [
+                    "Local (landscape use)",
+                    "Regional",
+                    "European"
+                ],
+                "temperatures": [
+                    "Cremation temperatures up to 1000°C",
+                    "Calcined bone burned above 650°C"
+                ],
+                "life_stages": [
+                    "Youth/Adolescence",
+                    "Adulthood"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Landscape Use and Mobility In EuRopE - Bridging the gap between cremation and inhumation",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "key_features": [
+                            "biogeochemical studies on bone and teeth",
+                            "document past human movement"
+                        ],
+                        "challenges": [
+                            "information loss due to cremation at temperatures up to 1000°C",
+                            "differing bioarchaeological information from burned and unburned remains",
+                            "limited adequate baselines for contextualisation and interpretation"
+                        ],
+                        "project_goals": [
+                            "develop new proxies for calcined bone",
+                            "re-evaluate potential of charred bone",
+                            "create adequate baselines"
+                        ],
+                        "expected_outcomes": [
+                            "increase information from cremated remains",
+                            "increase number of individuals analysed by including charred bones",
+                            "better characterize turnover rates of different skeletal elements"
+                        ],
+                        "methodology": [
+                            "state-of-the-art statistical and spatial models"
+                        ],
+                        "data_integration": [
+                            "combine previously published results with newly obtained data"
+                        ],
+                        "time_frame": [
+                            "Neolithic to the Early Medieval Period"
+                        ],
+                        "scope": [
+                            "local (landscape use)",
+                            "regional",
+                            "European scale"
+                        ],
+                        "funerary_practices": [
+                            "cremation",
+                            "inhumation"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Landscape Use and Mobility In EuRopE - Bridging the gap between cremation and inhumation",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "key_features": [
+                            "biogeochemical studies on bone and teeth",
+                            "documentation of human mobility from Neolithic to Early Medieval Period",
+                            "development of new proxies for calcined bone",
+                            "re-evaluation of charred bone potential",
+                            "creation of adequate baselines"
+                        ],
+                        "challenges": [
+                            "destruction of information during cremation",
+                            "differing bioarchaeological information from burned and unburned remains",
+                            "limited baselines for contextualisation and interpretations"
+                        ],
+                        "objectives": [
+                            "increase information from cremated remains",
+                            "augment number of individuals analyzed",
+                            "characterize turnover rates of skeletal elements",
+                            "apply statistical and spatial models"
+                        ],
+                        "study_scale": [
+                            "local",
+                            "regional",
+                            "European"
+                        ],
+                        "funerary_practices": [
+                            "cremation",
+                            "inhumation"
+                        ],
+                        "temperature_thresholds": {
+                            "cremation": "1000°C",
+                            "calcined_bone": "650°C"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "dfb2b165c1d508db21a20969e8360eb4",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nLandscape Use and Mobility In EuRopE - Bridging the gap between cremation and inhumation\n\n**Description:**\n\nMovement represents a key feature of an individual’s life both now and in the past. How and why people moved in the past can be documented by biogeochemical studies on bone and teeth, and these are at the core of this project. However, in many cases, due to different funerary practices (i.e. cremation and inhumation), the type archaeological skeletal elements available and their state of preservation of is very variable. Characterizing mobility in times where both cremation and inhumation were practiced is challenging for three main reasons: (1) important amounts of information are destroyed during cremation with temperatures reaching up to 1000°C, (2) the bioarchaeological information obtained from unburned and burned human remains often represent different times in their life (e.g. youth/adolescence vs adulthood), and (3) the limited adequate baselines available prevent the refined contextualisation and interpretations of the results in many parts of Europe. In this project, new proxies are developed for calcined bone (burned above 650°C), while the potential of charred bone is also re-evaluated. In parallel, adequate baselines need to be created. This enables, not only increasing the amount and the quality of information extracted from cremated human remains, but also significantly augmenting the number of individuals analysed as charred bones are currently excluded from palaeomobility studies. Furthermore, to bridge the gap between cremation and inhumation and enable the full reconstruction of life histories, it is crucial to better characterize turnover rates of the different skeletal elements. Coupled with state-of-the art statistical and spatial models, previously published results combined with newly obtained data significantly contributes to the documentation of human mobility from the Neolithic to the Early Medieval Period at a local (i.e. landscape use), regional and European scale, at times where both cremation and inhumation were practiced."
+}

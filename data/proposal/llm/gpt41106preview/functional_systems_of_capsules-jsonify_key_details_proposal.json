@@ -1,0 +1,98 @@
+{
+    "item_type": "proposal",
+    "title": "Functional Systems of Capsules",
+    "descriptions": [
+        {
+            "proposal_name": "Functional Systems of Capsules",
+            "proposal_details": {
+                "descriptions": [
+                    "Development of new tools for engineering functional chemical systems using guest-binding capsules."
+                ],
+                "objectives": [
+                    "Elucidate the foundations of biology",
+                    "Enable the design and creation of new chemical networks with targeted functions"
+                ],
+                "methods": [
+                    "Engineering functional chemical systems",
+                    "Using guest-binding capsules",
+                    "Responding to various signals in predictable ways",
+                    "Transforming guests using light",
+                    "Reversible and irreversible transformation of hosts",
+                    "Selective guest binding property alteration",
+                    "Catalyst release and uptake",
+                    "Signal transduction in complex cycles and feedback loops"
+                ],
+                "outcomes": [
+                    "New ways to transform guests",
+                    "Pumping guests between phases",
+                    "Changing guest binding properties",
+                    "Accelerating or impeding catalysed transformations",
+                    "Emergence of complex behaviour from abiological systems"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Functional Systems of Capsules",
+            "proposal_details": {
+                "objectives": [
+                    "Understand interactions in chemical subsystems",
+                    "Elucidate foundations of biology",
+                    "Design and create new chemical networks with targeted functions"
+                ],
+                "methods": [
+                    "Development of new engineering tools for functional chemical systems",
+                    "Use of guest-binding capsules"
+                ],
+                "responses": [
+                    "Capsules responding to various signals",
+                    "Transformation of guests using light",
+                    "Phase pumping of guests using light"
+                ],
+                "signal_interactions": [
+                    "Reversible transformation of hosts",
+                    "Irreversible transformation of hosts",
+                    "Alteration of guest binding properties",
+                    "Selective favoring of certain guests"
+                ],
+                "catalysis": [
+                    "Release of catalysts",
+                    "Uptake of catalysts",
+                    "Acceleration of catalysed transformations",
+                    "Impeding of catalysed transformations"
+                ],
+                "complex_behaviors": [
+                    "Signal transduction in cycles",
+                    "Feedback loops"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Functional Systems of Capsules",
+            "proposal_details": {
+                "descriptions": [
+                    "The research programme focuses on developing new tools for engineering functional chemical systems using guest-binding capsules that respond to various signals."
+                ],
+                "objectives": [
+                    "Elucidate the foundations of biology",
+                    "Design and create new chemical networks with targeted functions"
+                ],
+                "methods": [
+                    "Development of new means for engineering functional chemical systems",
+                    "Use of guest-binding capsules",
+                    "Employment of light to transform guests or pump them between phases",
+                    "Use of chemical signals to reversibly or irreversibly change host properties",
+                    "Release or uptake of catalysts to control catalysed transformations"
+                ],
+                "anticipated_outcomes": [
+                    "Design of systems with complex cycles and feedback loops",
+                    "Emergence of complex behaviour from abiological systems"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "960ec639a760fd1caccb391b6b31ca5b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nFunctional Systems of Capsules\n\n**Description:**\n\nThe simplest living organism is composed of myriad chemical subsystems, each consisting of structurally complex biomolecules that interact in many ways; the properties of life emerge from these dense connections. Understanding how these interactions take place will help elucidate the foundations of biology, as well as enabling the design and creation of new chemical networks with targeted functions. Deciphering and designing chemical systems requires new tools to be developed, however. In this research programme, we will develop new means for engineering functional chemical systems based upon the use of guest-binding capsules. These hosts will respond to many different signals in predictable ways. Their responses will enable their guests to be transformed in new ways or pumped between phases using light. Chemical signals will enable hosts to be transformed reversibly or irreversibly, changing their guest binding properties so as to favour some guests and disfavour others, and catalysts will be released or taken up, accelerating or impeding catalysed transformations. Ultimately we will design systems where signal transduction occurs in complex cycles and feedback loops, allowing complex behaviour to emerge from abiological systems."
+}

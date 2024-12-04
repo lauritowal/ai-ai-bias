@@ -3,7 +3,7 @@ import typing as t
 
 import openai
 import tiktoken
-from interlab.context import Context, FileStorage
+from interlab.context import Context
 
 from llm_descriptions_generator.config import \
     get_text_item_generation_prompt_config
@@ -54,7 +54,7 @@ def generate_llm_descriptions_for_item_type(
         )
 
         source_description_batches: list[TextItemDescriptionBatch] = []
-        breakpoint()
+
         if generation_config.description_source == PromptDescriptionSource.Human:
             source_description_batches = load_all_human_description_batches(
                 item_type=item_type,

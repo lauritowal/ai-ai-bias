@@ -1,0 +1,147 @@
+{
+    "item_type": "proposal",
+    "title": "Silicon integrated lasers and optical amplifiers",
+    "descriptions": [
+        {
+            "proposal_name": "Silicon integrated lasers and optical amplifiers",
+            "proposal_details": {
+                "duration_years": 5,
+                "objectives": [
+                    "Develop fully integrated optical emitters",
+                    "Develop lasers in silicon",
+                    "Develop optical amplifiers in silicon"
+                ],
+                "context": {
+                    "fields": [
+                        "silicon photonics",
+                        "optical data transfer",
+                        "CMOS technology"
+                    ],
+                    "current_limitations": [
+                        "Lack of electrically pumped optical amplifiers",
+                        "Lack of lasers in silicon"
+                    ],
+                    "previous_advancements": [
+                        {
+                            "year": 1997,
+                            "outcome": "First LED in bulk silicon",
+                            "temperature_efficiency": "low",
+                            "publication": "NATURE"
+                        },
+                        {
+                            "year": 2001,
+                            "technology": "Dislocation engineering",
+                            "temperature_efficiency": "improved",
+                            "publication": "NATURE"
+                        }
+                    ]
+                },
+                "recent_progress": {
+                    "breakthrough": "Optical gain in erbium doped silicon",
+                    "potential": "Electrically pumped amplifiers and lasers"
+                },
+                "technology_comparison": {
+                    "current_methods": [
+                        "Hybridization of III-V materials onto silicon"
+                    ],
+                    "limitations": [
+                        "Four-wave-mixing",
+                        "Optical-to-optical transitions",
+                        "Lack of electrical pumping capability"
+                    ],
+                    "intel_demonstration": "Raman laser in silicon"
+                },
+                "innovation_claim": [
+                    "Potential for room and higher temperature operation",
+                    "Full integration into silicon using standard silicon process technology"
+                ],
+                "descriptions": [
+                    "The project aims to overcome the last hurdle in silicon photonics by developing electrically pumped optical amplifiers and lasers using CMOS compatible technology, building on recent breakthroughs and existing research."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Silicon integrated lasers and optical amplifiers",
+            "proposal_details": {
+                "duration": "five year",
+                "objective": "develop fully integrated optical emitters, lasers and optical amplifiers in silicon",
+                "context": {
+                    "field_progress": "tremendous advances in silicon photonic devices",
+                    "challenge": "electrically pumped optical amplifiers and lasers in silicon using CMOS compatible technology"
+                },
+                "team_achievements": [
+                    {
+                        "year": 1997,
+                        "outcome": "first LED in bulk silicon",
+                        "publication": "NATURE"
+                    },
+                    {
+                        "year": 2001,
+                        "outcome": "low temperature operation problem solved with dislocation engineering",
+                        "publication": "NATURE",
+                        "technique": "conventional CMOS technology"
+                    }
+                ],
+                "recent_progress": "extraordinary optical gain in erbium doped silicon",
+                "current_approaches": [
+                    {
+                        "method": "hybridizations of active devices based on III-V materials on silicon waveguides and cavities"
+                    },
+                    {
+                        "method": "four-wave-mixing"
+                    },
+                    {
+                        "company": "Intel",
+                        "outcome": "demonstrated a Raman laser in silicon",
+                        "limitation": "purely optical-to-optical transitions, not electrically pumped"
+                    }
+                ],
+                "proposal_advantage": "electrically pumped amplifiers and lasers with room and higher temperature operation",
+                "integration_method": "standard silicon process technology",
+                "descriptions": [
+                    "The development of this into a silicon injection laser and optical amplifiers is the essential next step for high technology high value applications."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Silicon integrated lasers and optical amplifiers",
+            "proposal_details": {
+                "project_duration_years": 5,
+                "goal": "Develop fully integrated optical emitters, lasers, and optical amplifiers in silicon",
+                "context": {
+                    "silicon_photonics_advances": true,
+                    "last_hurdle": "Electrically pumped optical amplifiers and lasers in silicon using CMOS compatible technology"
+                },
+                "team_achievements": [
+                    {
+                        "year": 1997,
+                        "outcome": "First LED in bulk silicon",
+                        "publication": "NATURE"
+                    },
+                    {
+                        "year": 2001,
+                        "technology": "Dislocation engineering",
+                        "outcome": "Solved low-temperature operation issue",
+                        "publication": "NATURE"
+                    }
+                ],
+                "recent_progress": "Extraordinary optical gain in erbium doped silicon",
+                "current_technology_limitations": {
+                    "hybridizations": "III-V materials pasted onto silicon",
+                    "four_wave_mixing": true,
+                    "raman_laser": "Intel demonstration"
+                },
+                "unique_advantage": "Potential to produce electrically pumped amplifiers and lasers with room and higher temperature operation",
+                "integration_capability": "Fully integrated into silicon using standard silicon process technology",
+                "descriptions": [
+                    "This project aims to overcome the last major challenge in silicon photonics by developing electrically pumped optical amplifiers and lasers that are compatible with CMOS technology."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9637db57f44dad7f13316f0e6439a179",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nSilicon integrated lasers and optical amplifiers\n\n**Description:**\n\nThis project is a five year programme of work to develop fully integrated optical emitters, lasers and optical amplifiers in silicon. Recent years have seen tremendous advances in the development of silicon photonic devices. However, the last hurdle to full silicon photonic systems and optical data transfer on and between integrated circuits are electrically pumped optical amplifiers and lasers in silicon using a CMOS compatible technology. Consequently, there have been massive efforts worldwide to search for efficient light emission from silicon. Our team made a major initial breakthrough producing the first LED in bulk silicon - published in NATURE (1997). Although a world first, this device only operated efficiently at low temperatures. This problem was solved using a new nanotechnology - dislocation engineering - reported in NATURE (2001) - and crucially uses only conventional CMOS technology. The development of this into a silicon injection laser and optical amplifiers is the essential next step for high technology high value applications. We have recently made a further breakthrough by obtaining extraordinary optical gain in erbium doped silicon that now offers a realistic route to this goal. Currently the incorporation of lasers and amplifiers on silicon platforms can only be achieved hybridizations of active devices based on III-V materials \"pasted\" on to silicon waveguides and cavities. Gain has been reported using four-wave-mixing and Intel has recently demonstrated a Raman laser in silicon but both rely on purely optical-to-optical transitions and are fundamentally unable to be electrically pumped. We believe we have the only route that has the potential to produce electrically pumped amplifiers and lasers with room and higher temperature operation and that is capable of genuinely being fully integrated into silicon using standard silicon process technology."
+}

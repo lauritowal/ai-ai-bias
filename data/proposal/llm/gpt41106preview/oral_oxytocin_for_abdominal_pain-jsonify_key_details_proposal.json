@@ -1,0 +1,118 @@
+{
+    "item_type": "proposal",
+    "title": "Oral oxytocin for abdominal pain",
+    "descriptions": [
+        {
+            "proposal_name": "Oral oxytocin for abdominal pain",
+            "proposal_details": {
+                "conditions": [
+                    "IBS",
+                    "IBD"
+                ],
+                "affected_population_percentage": 10,
+                "socio_economic_burden_europe": 115000000000,
+                "currency": "EUR",
+                "current_treatment_limitations": [
+                    "poorly effective analgesics",
+                    "adverse effects",
+                    "disease progression exacerbation"
+                ],
+                "project_goals": [
+                    "advance gut-stable peptide analgesics",
+                    "optimize patented lead compounds",
+                    "generate preclinical data",
+                    "clinical translation"
+                ],
+                "innovation_aspects": [
+                    "gut-specific action",
+                    "negligible systemic off-target effects",
+                    "oral peptide drugs"
+                ],
+                "expected_outcomes": [
+                    "paradigm shift in chronic abdominal pain treatment",
+                    "reduced socio-economic burden"
+                ],
+                "target_population": "millions worldwide",
+                "descriptions": [
+                    {
+                        "summary": "An innovative treatment strategy to create a new class of gut-stable peptide analgesics for the treatment of chronic abdominal pain with a focus on safety and efficacy."
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Oral oxytocin for abdominal pain",
+            "proposal_details": {
+                "conditions_targeted": [
+                    "IBS",
+                    "IBD"
+                ],
+                "affected_population": "More than 10% of the global population",
+                "socio_economic_burden": "€115 billion/year in Europe",
+                "current_treatment_limitations": [
+                    "Poor effectiveness",
+                    "Adverse effects",
+                    "Potential exacerbation of disease"
+                ],
+                "project_goal": "Advance a new class of gut-stable peptide analgesics",
+                "innovation": [
+                    "Gut-specific action",
+                    "Negligible risk of systemic off-target effects",
+                    "Oral peptide drugs"
+                ],
+                "objective": "Optimise patented lead compounds towards oral drug candidates and generate preclinical data",
+                "outcome": "Proof-of-concept data for clinical translation",
+                "industry_engagement_plan": "Engage with industry partners and supporters to advance drug candidates into the clinic",
+                "potential_impact": [
+                    "Paradigm shift in treatment of chronic abdominal pain and gastrointestinal disorders",
+                    "Improve quality of life",
+                    "Reduce socio-economic burden"
+                ],
+                "descriptions": [
+                    "This project proposes the development of oral peptide drugs for the treatment of chronic abdominal pain associated with gastrointestinal disorders."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Oral oxytocin for abdominal pain",
+            "proposal_details": {
+                "conditions_targeted": [
+                    "IBS",
+                    "IBD"
+                ],
+                "global_population_affected_percentage": 10,
+                "socio_economic_burden_europe": "€115 billion/year",
+                "pain_management_challenges": [
+                    "classical analgesics poorly effective",
+                    "adverse effects",
+                    "can exacerbate disease progression"
+                ],
+                "innovation": [
+                    "gut-stable peptide analgesics",
+                    "gut-specific action",
+                    "negligible risk of systemic off-target effects",
+                    "oral peptide drugs"
+                ],
+                "project_objective": "optimise patented lead compounds towards oral drug candidates and generate preclinical data for clinical translation",
+                "expected_outcome": [
+                    "proof-of-concept data",
+                    "engagement with industry partners",
+                    "advance drug candidates into the clinic"
+                ],
+                "potential_impact": [
+                    "treat chronic abdominal pain",
+                    "improve quality of life",
+                    "reduce socio-economic burden"
+                ],
+                "descriptions": [
+                    "Our gut-specific treatment approach along with this new class of analgesics could induce a highly desired paradigm shift in how to treat chronic abdominal pain and gastrointestinal disorders, an area with unprecedented unmet medical need."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e8344b4e737b43439820235e41b20396",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nOral oxytocin for abdominal pain\n\n**Description:**\n\nChronic abdominal pain is a widespread debilitating condition commonly associated with gastrointestinal disorders such as irritable bowel syndrome (IBS) and inflammatory bowel diseases (IBD). IBS and IBD affect more than 10% of the global population, leaving a severe and steadily growing socio-economic burden on society (€115 billion/year in Europe in direct and indirect health care costs). Adequate pain management for these conditions is imperative but remains challenging since classical analgesics are poorly effective, associated with adverse effects, and can even exacerbate disease progression. In this project, we will advance a new class of gut-stable peptide analgesics to target abdominal pain at its origin in the gut. This represents a highly innovative treatment strategy with a large safety window due to its gut-specific action and negligible risk of systemic off-target effects. It also addresses a long-standing problem in the peptide therapeutics industry, namely the lack of oral peptide drugs. The objective of this project is to optimise our patented lead compounds towards oral drug candidates and generate robust and supporting preclinical data for clinical translation. The proof-of-concept data will then be used to engage with industry partners and other supporters to advance these drug candidates into the clinic for the treatment of chronic abdominal pain. Our gut-specific treatment approach along with this new class of analgesics could induce a highly desired paradigm shift in how to treat chronic abdominal pain and gastrointestinal disorders, an area with unprecedented unmet medical need. This could benefit millions of people worldwide, improve their quality of life, and help reduce the substantial socio-economic burden that chronic abdominal pain has on society."
+}

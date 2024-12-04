@@ -1,0 +1,122 @@
+{
+    "item_type": "proposal",
+    "title": "Gene expression level as a keystone to understanding gene duplication: evolutionary constraints, opportunities, and disease",
+    "descriptions": [
+        {
+            "proposal_name": "Gene expression level as a keystone to understanding gene duplication: evolutionary constraints, opportunities, and disease",
+            "proposal_details": {
+                "descriptions": [
+                    "Duplicate genes role in disease, source of evolutionary novelty, misconception of duplication relieving selective constraints, gene knockout neutrality, and gene duplication equivalence challenged."
+                ],
+                "hypothesis": [
+                    "Gene expression resolution explains contrasting evolutionary trajectories.",
+                    "Gene-by-gene duplications and whole genome duplications lead to different evolutionary paths.",
+                    "Co-evolution of expression post-WGD opens new biochemical pathways and protein complexes.",
+                    "Common mechanism of pathogenicity in many duplication events."
+                ],
+                "methods": [
+                    "Computational and statistical analysis."
+                ],
+                "objectives": [
+                    "Reveal relationship between gene duplication and expression.",
+                    "Test model where indirect costs of gene expression determine gene duplication outcome.",
+                    "Explore effects on gene and genome evolution.",
+                    "Link patterns of gene expression and duplicability to pathogenic effects."
+                ],
+                "opportunity": [
+                    "Availability of abundant high-quality genomics data."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Gene expression level as a keystone to understanding gene duplication: evolutionary constraints, opportunities, and disease",
+            "proposal_details": {
+                "importance": [
+                    "disease",
+                    "evolutionary novelty"
+                ],
+                "previous_assumptions": [
+                    "duplication relieved selective constraints",
+                    "gene knockout neutrality was due to redundancy",
+                    "a duplicate is a duplicate is a duplicate"
+                ],
+                "challenges_to_views": [
+                    "genes that tend to duplicate are quickly evolving, non-essential genes",
+                    "genes retained after WGD are slowly evolving, important genes"
+                ],
+                "proposed_explanations": [
+                    "different resolution of the evolutionary constraints imposed by the demands of gene expression"
+                ],
+                "predicted_evolutionary_trajectories": [
+                    "gene-by-gene duplications",
+                    "WGD"
+                ],
+                "opportunities_after_WGD": [
+                    "evolution of new biochemical pathways",
+                    "evolution of new protein complexes"
+                ],
+                "common_mechanism_of_pathogenicity": [
+                    "many duplication events independent of the biochemical function of the encoded genes"
+                ],
+                "research_approach": [
+                    "computational and statistical analysis"
+                ],
+                "goals": [
+                    "reveal the relationship between gene duplication and expression",
+                    "test a model that the indirect costs of gene expression are a major determinant of the outcome of gene duplication",
+                    "explore the effects on gene and genome evolution",
+                    "link the patterns of gene expression and duplicability to pathogenic effects"
+                ],
+                "methodology": [
+                    "analysis of high-quality genomics data"
+                ],
+                "descriptions": [
+                    "The proposal aims to understand the relationship between gene expression levels and gene duplication, challenging existing assumptions and exploring the evolutionary and disease implications."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Gene expression level as a keystone to understanding gene duplication: evolutionary constraints, opportunities, and disease",
+            "proposal_details": {
+                "importance": [
+                    "disease",
+                    "evolutionary novelty"
+                ],
+                "previous_assumptions": [
+                    "duplication relieved selective constraints",
+                    "gene knockout neutrality due to redundancy",
+                    "a duplicate is a duplicate is a duplicate"
+                ],
+                "challenges": [
+                    "biased duplication process",
+                    "non-essential genes tend to duplicate",
+                    "retained genes after WGD are important and slowly evolving"
+                ],
+                "propositions": [
+                    "gene expression constraints explain contrasting relationships",
+                    "gene-by-gene duplications vs WGD lead to different evolutionary trajectories",
+                    "co-evolution of gene expression post-WGD creates opportunity for new pathways and protein complexes",
+                    "common pathogenic mechanism for many duplication events"
+                ],
+                "opportunity": "availability of high-quality genomics data",
+                "approach": [
+                    "computational and statistical analysis",
+                    "reveal relationship between gene duplication and expression",
+                    "test model on gene expression costs affecting duplication outcome"
+                ],
+                "objectives": [
+                    "explore effects on gene and genome evolution",
+                    "link gene expression and duplicability to pathogenic effects"
+                ],
+                "descriptions": [
+                    "This proposal seeks to investigate the complex relationship between gene duplication, expression levels, and evolutionary outcomes, challenging previous assumptions and establishing new paradigms in genomics."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a5d7af456a4690e993822fb6c48f03c0",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nGene expression level as a keystone to understanding gene duplication: evolutionary constraints, opportunities, and disease\n\n**Description:**\n\nDuplicate genes are important in disease, are a hugely important source of evolutionary novelty, and for many years we thought we understood them. We thought that duplication relieved selective constraints. We thought that gene knockout neutrality was due to redundancy. We thought that a duplicate is a duplicate is a duplicate. Evidence is accumulating challenging each of these views. Rather than being the result of an unbiased process, the genes that tend to duplicate in our genome and others are quickly evolving, non-essential genes, irrespective of current duplication status. Conversely, genes retained after whole genome duplication (WGD) are slowly evolving, important genes. I propose that different resolution of the evolutionary constraints imposed by the demands of gene expression can explain these contrasting relationships. I propose that the opposing constraints on gene-by-gene duplications as compared to WGD channel these different sets of genes into remarkably different evolutionary trajectories. In particular, in much the same way that individual gene duplication creates an opportunity for the evolution of a new gene, the co-evolution of expression of sets of interacting genes after WGD creates an opportunity for the evolution of new biochemical pathways and protein complexes. Furthermore, I suggest a common mechanism of pathogenicity for many duplication events independent of the biochemical function of the encoded genes. With the availability of abundant high-quality genomics data, now is an opportune time to address these questions. Primarily through computational and statistical analysis I will reveal the relationship between gene duplication and expression and test a model that the indirect costs of gene expression are a major determinant of the outcome of gene duplication. I will explore the effects this has on gene and genome evolution. Finally, I will link the patterns of gene expression and duplicability to pathogenic effects."
+}

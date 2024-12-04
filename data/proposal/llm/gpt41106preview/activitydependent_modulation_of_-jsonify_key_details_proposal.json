@@ -1,0 +1,98 @@
+{
+    "item_type": "proposal",
+    "title": "Activity-dependent modulation of synapse identity",
+    "descriptions": [
+        {
+            "proposal_name": "Activity-dependent modulation of synapse identity",
+            "proposal_details": {
+                "descriptions": [
+                    "The study aims to understand how neuronal activity controls the molecular identity of synapses and the regulation of synapse specificity across different neuronal populations."
+                ],
+                "objectives": [
+                    "Generate new mouse models to control neuronal activity in vivo and during development in the two Purkinje cell excitatory afferents",
+                    "Describe the molecular diversity of synapses",
+                    "Show the control of synapse identity by neuronal activity",
+                    "Characterize the molecular determinants of synapse identity"
+                ],
+                "focus": "olivocerebellar network",
+                "target_cells": "cerebellar Purkinje cells",
+                "input_types": [
+                    "climbing fibres",
+                    "parallel fibres"
+                ],
+                "conditions_of_interest": [
+                    "autism spectrum disorders",
+                    "schizophrenia"
+                ],
+                "techniques": [
+                    "Development of new genetic tools for neuron- and synapse-specific analysis"
+                ],
+                "expected_outcomes": [
+                    "A unifying view of the mechanisms controlling the development of a functional brain"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Activity-dependent modulation of synapse identity",
+            "proposal_details": {
+                "objective": [
+                    "Describe the molecular diversity of synapses",
+                    "Show control by neuronal activity",
+                    "Characterize molecular determinants of synapse identity"
+                ],
+                "focus": "Olivocerebellar network involved in motor control and cognitive processes",
+                "model": "Mouse models to control neuronal activity in vivo and during development in Purkinje cell excitatory afferents",
+                "approach": [
+                    "Develop new genetic tools",
+                    "Generate mouse models",
+                    "Combine tools for study"
+                ],
+                "target_neuron": "Purkinje cells",
+                "synapse_types": [
+                    "Climbing fibres",
+                    "Parallel fibres"
+                ],
+                "relevance": [
+                    "Understand brain functions",
+                    "Aetiology of synaptopathies such as autism spectrum disorders or schizophrenia"
+                ],
+                "descriptions": [
+                    "This study will bring a unifying view of the mechanisms controlling the development of a functional brain."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Activity-dependent modulation of synapse identity",
+            "proposal_details": {
+                "objective": [
+                    "Describe the molecular diversity of synapses",
+                    "Show control of synapse identity by neuronal activity",
+                    "Characterize molecular determinants of synapse identity"
+                ],
+                "focus": "Olivocerebellar network",
+                "target_cells": "Cerebellar Purkinje cells",
+                "excitatory_inputs": [
+                    "Climbing fibres",
+                    "Parallel fibres"
+                ],
+                "approach": [
+                    "Generate new mouse models to control neuronal activity in vivo and during development",
+                    "Dissect molecular characteristics of olivocerebellar network at neuron- and synapse-specific levels"
+                ],
+                "development_tools": "New genetic tools",
+                "potential_impact": [
+                    "Understanding of brain functions",
+                    "Insights into the aetiology of synaptopathies such as autism spectrum disorders or schizophrenia"
+                ],
+                "descriptions": [
+                    "The study aims to link neuronal activity with synapse molecular identity regulation through specific mechanisms in different neuronal populations, impacting synapse specificity."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ed28799a0ec6f94cf596979e01ff4bf6",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nActivity-dependent modulation of synapse identity\n\n**Description:**\n\nThe mature brain results from the formation of precise networks between functionally and morphologically distinct types of neurons. A given neuron forms synapses with a limited number of partners and on precise subcellular localizations. Understanding what controls this specificity is mandatory not only to understand brain functions but also the aetiology of synaptopathies such as autism spectrum disorders or schizophrenia. Various molecules define the identity of each type of synapse. Furthermore, neuronal activity-dependent mechanisms sculpt and stabilize neuronal connectivity. I posit that neuronal activity controls the molecular identity of synapses and that this regulation occurs through mechanisms specific for each neuronal population, thereby regulating synapse specificity. I focus on the olivocerebellar network, which is involved in motor control and also in cognitive processes. In this well-characterized circuit, two different excitatory inputs, the climbing fibres and the parallel fibres converge on the same target, the cerebellar Purkinje cells, compete for their non-overlapping territory and possess distinct functional, morphological and molecular characteristics. Purkinje cells thus provide an ideal model to study the molecular basis of synapse identity and its regulation. In the past years, I have developed new genetic tools to dissect the molecular characteristics of the olivocerebellar network at the neuron- and synapse–specific levels. I propose to generate new mouse models to control neuronal activity, in vivo and during development, specifically in the two Purkinje cell excitatory afferents. Combining these tools, my objectives are to describe the molecular diversity of synapses, show its control by neuronal activity, and characterize the molecular determinants of synapse identity. This study will bring a unifying view of the mechanisms controlling the development of a functional brain."
+}

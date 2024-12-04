@@ -1,0 +1,105 @@
+{
+    "item_type": "proposal",
+    "title": "The Gauge/Gravity Duality and Geometry in String Theory",
+    "descriptions": [
+        {
+            "proposal_name": "The Gauge/Gravity Duality and Geometry in String Theory",
+            "proposal_details": {
+                "forces_described_by_quantum_mechanics": 3,
+                "force_described_by_general_relativity": "gravity",
+                "main_candidate_for_unification": "string theory",
+                "key_conceptual_breakthrough": "Maldacena's conjectured duality",
+                "duality_name": "AdS/CFT correspondence",
+                "equivalence_statement": "quantum theory and gravity are equivalent",
+                "project_aims": [
+                    "extend gauge/gravity duality",
+                    "develop novel mathematical approaches"
+                ],
+                "objectives": [
+                    "systematic study of AdS backgrounds in string theory",
+                    "development of geometric structures for AdS/CFT",
+                    "study of supersymmetric gauge theories on curved manifolds",
+                    "study of dualities between pairs of gauge theories",
+                    "exploring gauge/gravity duality for quantum critical phenomena"
+                ],
+                "descriptions": [
+                    "Extending the gauge/gravity duality in multiple directions and developing novel mathematical approaches for a deeper understanding."
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Gauge/Gravity Duality and Geometry in String Theory",
+            "proposal_details": {
+                "forces_described_by_quantum_mechanics": 3,
+                "force_described_by_general_relativity": "gravity",
+                "theories_incompatible": true,
+                "candidate_for_unified_theory": "string theory",
+                "conceptual_breakthrough": "Maldacena's conjectured duality",
+                "duality_name": "AdS/CFT correspondence",
+                "equivalence": {
+                    "anti_de_sitter_space_time": "AdS",
+                    "conformal_field_theory": "CFT",
+                    "quantum_gauge_theories_dimension": "d",
+                    "gravitational_theories_dimension": "d+1"
+                },
+                "project_aim": "extending the gauge/gravity duality",
+                "novel_mathematical_approaches": true,
+                "new_research_directions": [
+                    "physics",
+                    "mathematics"
+                ],
+                "descriptions": [
+                    {
+                        "systematic_study_of_AdS_backgrounds": true,
+                        "development_of_geometric_structures": [
+                            "generalised Sasaki-Einstein geometry"
+                        ],
+                        "study_of_supersymmetric_gauge_theories_on_curved_manifolds": true,
+                        "study_of_gravity_duals": true,
+                        "study_of_dualities_between_gauge_theories": true,
+                        "study_of_related_matrix_models_from_localisation_techniques": true,
+                        "exploring_gauge_gravity_duality_for_quantum_critical_phenomena": true,
+                        "interest_in_real_world_physics": true
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Gauge/Gravity Duality and Geometry in String Theory",
+            "proposal_details": {
+                "description": "Understanding the unification of quantum mechanics and general relativity within the framework of string theory through the study of AdS/CFT correspondence.",
+                "sub_atomic_forces_described_by": "quantum mechanics",
+                "gravity_described_by": "general relativity",
+                "incompatibility_issue": "unifying quantum mechanics and general relativity",
+                "candidate_for_unification": "string theory",
+                "conceptual_breakthrough": "Maldacena's conjectured duality",
+                "duality_name": "AdS/CFT correspondence",
+                "equivalence": "strings in anti-de Sitter (AdS) space-time and conformal field theory (CFT)",
+                "dimensions_relation": "d dimensions and (d+1)-dimensional space-times",
+                "project_aim": "extending the gauge/gravity duality",
+                "novel_math_approaches": true,
+                "research_directions": [
+                    "physics",
+                    "mathematics"
+                ],
+                "objectives": [
+                    "systematic study of AdS backgrounds in string theory",
+                    "development of generalised Sasaki-Einstein geometry",
+                    "study of supersymmetric gauge theories on curved manifolds",
+                    "study of gravity duals",
+                    "study of dualities between pairs of gauge theories",
+                    "study of related matrix models from localisation techniques",
+                    "exploration of gauge/gravity duality for quantum critical phenomena"
+                ],
+                "interest_areas": [
+                    "real-world physics"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f025cf3d522b4d62b2a81272639c29f8",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Gauge/Gravity Duality and Geometry in String Theory\n\n**Description:**\n\nWhile the three sub-atomic forces are described by quantum mechanics, the fourth known force, gravity, is described by Einstein's theory of general relativity. These two very successful theories are incompatible, and understanding how to unify them in a single framework is an outstanding problem. String theory is the most prominent candidate for a unified theory of all forces of Nature. The most important conceptual breakthrough that emerged from string theory is Maldacena's conjectured duality between quantum field theory and gravity, known as AdS/CFT correspondence. This states that strings moving in anti-de Sitter (AdS) space-time, may equivalently be described by a type of quantum theory, called conformal field theory (CFT). More generally, it is a remarkable duality between quantum gauge theories in d dimensions and gravitational theories in (d+1)-dimensional space-times, implying that quantum theory and gravity, instead of being conflicting, are in fact equivalent. In this project I will aim at extending the gauge/gravity duality in multiple directions, which go beyond the current state of the art. In order to achieve a deeper understanding of the gauge/gravity duality I plan to develop novel mathematical approaches, that are likely to lead to new research directions in different areas of physics and mathematics. More specifically, the objectives of this project include: a systematic study of AdS backgrounds arising in string theory as a method for exploring CFTs; the development of geometric structures, such as generalised Sasaki-Einstein geometry, relevant for the AdS/CFT correspondence; a study of supersymmetric gauge theories on curved manifolds and of their gravity duals; a study of dualities between pairs of gauge theories and of related matrix models arising from localisation techniques; exploring the gauge/gravity duality as a tool for studying strongly interacting quantum critical phenomena, such as those that are of interest to real-world physics."
+}

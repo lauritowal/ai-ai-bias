@@ -1,0 +1,160 @@
+{
+    "item_type": "proposal",
+    "title": "Nanoengineered magnetoresponsive diagnosis and personalized treatment of pediatric inflammatory bowel disease",
+    "descriptions": [
+        {
+            "proposal_name": "Nanoengineered magnetoresponsive diagnosis and personalized treatment of pediatric inflammatory bowel disease",
+            "proposal_details": {
+                "focus_disease": "Inflammatory bowel disease (IBD)",
+                "affected_population": {
+                    "patients_worldwide": "millions",
+                    "children_percentage": 25
+                },
+                "current_clinical_challenges": {
+                    "diagnosis_demanding": true,
+                    "treatment_outcome": "ineffective",
+                    "patient_compliance": "low",
+                    "cost_efficiency": "low",
+                    "child_optimization": false
+                },
+                "aim": "Establish a theranostic platform for diagnosis and personalized treatment of pediatric IBD",
+                "approach": {
+                    "interdisciplinary": true,
+                    "areas": [
+                        "disease biomarkers discovery",
+                        "nanomaterial engineering",
+                        "drug delivery system engineering",
+                        "personalized dosage forms manufacturing"
+                    ]
+                },
+                "technologies": {
+                    "nanoparticle_engineering": "flame engineering",
+                    "nanoparticle_type": "superparamagnetic iron oxide nanoparticles (SPION)",
+                    "nanoparticle_functions": [
+                        "contrast agent in MRI",
+                        "tracer in magnetic particle imaging",
+                        "hyperthermia-triggered drug release"
+                    ],
+                    "targeting_strategy": "ligands for disease biomarkers",
+                    "imaging_advancements": "magnetic bioimaging",
+                    "dosage_forms_design": "personalized oral dosage forms",
+                    "manufacturing_methods": [
+                        "additive manufacturing",
+                        "microencapsulation",
+                        "3D printing"
+                    ]
+                },
+                "research_outcomes": {
+                    "treatment_personalization": true,
+                    "patient_quality_of_life": "improved",
+                    "healthcare_burden_reduction": true
+                },
+                "descriptions": [
+                    "The proposal aims to revolutionize the diagnosis and treatment of pediatric IBD by developing a theranostic platform using nanoengineered SPIONs tailored through flame engineering for improved imaging, targeted delivery, and controlled drug release."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Nanoengineered magnetoresponsive diagnosis and personalized treatment of pediatric inflammatory bowel disease",
+            "proposal_details": {
+                "disease_focus": "Inflammatory bowel disease (IBD)",
+                "patient_population": "Children",
+                "patient_population_percentage": 25,
+                "condition_characteristics": [
+                    "Incurable",
+                    "Inflammatory",
+                    "Gastrointestinal tract"
+                ],
+                "economic_impact": "Enormous burden on society",
+                "current_clinical_practice_shortcomings": [
+                    "Demanding",
+                    "Ineffective treatment outcome",
+                    "Low patient compliance",
+                    "High cost",
+                    "Not optimized for children"
+                ],
+                "research_aim": "Establish a theranostic platform for diagnosis and personalized treatment of pediatric IBD",
+                "approach": "Interdisciplinary",
+                "research_components": [
+                    "Disease biomarker discovery",
+                    "Nanomaterial engineering",
+                    "Drug delivery system engineering",
+                    "Personalized dosage form manufacture"
+                ],
+                "technology_key_points": [
+                    "Flame engineering",
+                    "Superparamagnetic iron oxide nanoparticles (SPION)",
+                    "Magnetic resonance imaging contrast agent",
+                    "Magnetic particle imaging tracer",
+                    "Hyperthermia-triggered drug release"
+                ],
+                "targeting_strategy": "Ligands for disease biomarkers",
+                "novel_contributions": [
+                    "Non-invasive and accurate IBD diagnosis",
+                    "Stimuli-responsive drug delivery"
+                ],
+                "child_treatment_optimization": "Personalized oral dosage forms",
+                "manufacturing_technologies": [
+                    "Additive manufacturing",
+                    "Microencapsulation",
+                    "3D printing"
+                ],
+                "research_outcome": [
+                    "Personalized therapy of pediatric IBD",
+                    "Improved patient quality of life",
+                    "Reduced healthcare burden"
+                ],
+                "descriptions": [
+                    "The nanoengineering approach will provide insight into the use of nanomaterials in the GIT environment."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Nanoengineered magnetoresponsive diagnosis and personalized treatment of pediatric inflammatory bowel disease",
+            "proposal_details": {
+                "disease_focus": "Inflammatory bowel disease (IBD)",
+                "patient_demographic": "Children",
+                "patient_demographic_percentage": 25,
+                "aim": "Establish a theranostic platform for diagnosis and personalized treatment of pediatric IBD",
+                "approach": [
+                    "Interdisciplinary",
+                    "Biomarker discovery",
+                    "Nanomaterial engineering",
+                    "Drug delivery system engineering",
+                    "Manufacturing of personalized dosage forms"
+                ],
+                "technology": [
+                    "Flame engineering",
+                    "Superparamagnetic iron oxide nanoparticles (SPION)",
+                    "Magnetic resonance imaging",
+                    "Magnetic particle imaging",
+                    "Hyperthermia-triggered drug release"
+                ],
+                "innovation": [
+                    "Tailored SPION properties",
+                    "Multifunctional material",
+                    "Targeted delivery with ligands for disease biomarkers",
+                    "Non-invasive and accurate diagnosis",
+                    "Stimuli-responsive drug delivery",
+                    "Personalized oral dosage forms",
+                    "Additive manufacturing"
+                ],
+                "expected_outcomes": [
+                    "Advanced magnetic bioimaging",
+                    "Optimized treatment for pediatric patients",
+                    "Insight into nanomaterial use in GIT environment"
+                ],
+                "impact": [
+                    "Personalized therapy of pediatric IBD",
+                    "Improved patient quality of life",
+                    "Reduced healthcare burden"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2e591eb942addb33fcd13a706ace809b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNanoengineered magnetoresponsive diagnosis and personalized treatment of pediatric inflammatory bowel disease\n\n**Description:**\n\nInflammatory bowel disease (IBD) is an incurable, inflammatory condition of the gastrointestinal tract (GIT) that affects millions of patients worldwide and places an enormous economic burden on society. Most alarmingly, children account for one quarter of all IBD cases with steadily increasing incidence. Current clinical practices for IBD diagnosis and therapy are demanding and ineffective in terms of treatment outcome, patient compliance and cost and by far not optimized for children. Our aim is to establish a theranostic platform for diagnosis and personalized treatment of pediatric IBD by an interdisciplinary approach bridging discovery of disease biomarkers, nanomaterial and drug delivery system engineering to manufacture of personalized dosage forms. We will capitalize on scalable and reproducible flame engineering to tailor the properties of superparamagnetic iron oxide nanoparticles (SPION) and achieve functionalities beyond their current use in the clinic. This multifunctional material will serve as contrast agent in magnetic resonance imaging, tracer particle in magnetic particle imaging and for hyperthermia-triggered drug release. Ligands for disease biomarkers identified by global protein quantification will ensure targeted delivery of the theranostic SPION. We will push the frontiers of magnetic bioimaging for non-invasive and accurate diagnosis of IBD to guide stimuli-responsive drug delivery. To optimize the treatment of sick children, we will design personalized oral dosage forms incorporating our targeted drug carriers by additive manufacturing. The nanoengineering approach along with industrially relevant microencapsulation and 3D printing technologies will provide fundamental insight into physicochemical properties that govern the targeted use of nanomaterials in the challenging GIT environment. The outcome of this research will support personalized therapy of pediatric IBD, improving patient quality of life and reduce the healthcare burden."
+}

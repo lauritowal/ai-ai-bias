@@ -1,0 +1,151 @@
+{
+    "item_type": "proposal",
+    "title": "Novel Symbioses",
+    "descriptions": [
+        {
+            "proposal_name": "Novel Symbioses",
+            "proposal_details": {
+                "objectives": [
+                    "Introduce metabolic traits as cellular compartments",
+                    "Design novel cell-in-cell merger couples",
+                    "Optimize metabolic pre-requisites for cooperation and endosymbioses",
+                    "Establish cooperating co-cultures with metabolic dependency",
+                    "Develop nanotechnology approaches for cell incorporation",
+                    "Deliver cells into cells to establish endosymbioses",
+                    "Optimize endosymbioses by re-engineering and experimental evolution",
+                    "Unite core metabolic processes focusing on biological nitrogen and carbon fixation",
+                    "Establish know-how for novel compartmentalized functions in organisms",
+                    "Test endosymbioses and organellogenesis"
+                ],
+                "phases": [
+                    {
+                        "phase_number": 1,
+                        "activities": [
+                            "Design cell-in-cell merger couples",
+                            "Optimize metabolic cooperation",
+                            "Establish metabolically dependent co-cultures",
+                            "Develop cell incorporation nanotechnology"
+                        ]
+                    },
+                    {
+                        "phase_number": 2,
+                        "activities": [
+                            "Establish operating endosymbioses",
+                            "Optimize endosymbioses through re-engineering and evolution"
+                        ]
+                    }
+                ],
+                "descriptions": [
+                    "SYMBIOSES is an interdisciplinary project that explores endosymbioses to introduce metabolic traits as cellular compartments."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Novel Symbioses",
+            "proposal_details": {
+                "descriptions": [
+                    "The project explores endosymbioses to introduce metabolic traits as cellular compartments."
+                ],
+                "phases": [
+                    {
+                        "phase": 1,
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "activity": "Design cell-in-cell merger couples with a eukaryote host and prokaryote endosymbiont."
+                            },
+                            {
+                                "step_number": 2,
+                                "activity": "Establish metabolically interdependent co-cultures."
+                            },
+                            {
+                                "step_number": 3,
+                                "activity": "Develop nanotechnology for cell incorporation."
+                            }
+                        ]
+                    },
+                    {
+                        "phase": 2,
+                        "activities": [
+                            "Deliver cells into cells to establish operational endosymbioses.",
+                            "Optimize endosymbioses through re-engineering and experimental evolution."
+                        ],
+                        "focus": [
+                            "Biological nitrogen fixation",
+                            "Biological carbon fixation"
+                        ]
+                    }
+                ],
+                "objectives": [
+                    "Extend cellular functionalities",
+                    "Test endosymbioses and organellogenesis"
+                ],
+                "strategies": [
+                    "Interdisciplinary approach",
+                    "Experimental evolution",
+                    "Nanotechnology"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Novel Symbioses",
+            "proposal_details": {
+                "challenges": [
+                    "Introducing new functionalities into cells"
+                ],
+                "opportunities": [
+                    "Acquisition of new properties"
+                ],
+                "strategies": [
+                    "Incorporation of dedicated cells as endosymbionts"
+                ],
+                "examples": [
+                    "Mitochondrion",
+                    "Chloroplast"
+                ],
+                "project_type": "Interdisciplinary",
+                "approach": [
+                    "Experimental"
+                ],
+                "goals": [
+                    "Introduce metabolic traits as cellular compartments"
+                ],
+                "phases": [
+                    {
+                        "phase_number": 1,
+                        "activities": [
+                            "Design cell-in-cell merger couples",
+                            "Optimize metabolic pre-requisites for cooperation",
+                            "Establish cooperating co-cultures",
+                            "Develop nanotechnology approaches for cell incorporation"
+                        ]
+                    },
+                    {
+                        "phase_number": 2,
+                        "activities": [
+                            "Deliver cells into cells to establish endosymbioses",
+                            "Optimize endosymbioses by re-engineering",
+                            "Optimize endosymbioses by experimental evolution"
+                        ]
+                    }
+                ],
+                "focus": [
+                    "Core metabolic processes",
+                    "Biological nitrogen fixation",
+                    "Carbon fixation"
+                ],
+                "outcomes": [
+                    "Know-how for novel compartmentalized functions",
+                    "Concepts for novel compartmentalized functions",
+                    "Test endosymbioses",
+                    "Test organellogenesis"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8d66bbf0054a312b3bfbde78f31c867b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNovel Symbioses\n\n**Description:**\n\nThe introduction of new functionalities into cells is a challenge, but it offers tremendous opportunities. While some traits may be acquired through lateral gene transfer and be immediately operational, others are complex and require comprehensive rewiring of the host cell due to lack of orthogonality. A powerful strategy used by cells to acquire new properties is the incorporation of other dedicated cells as endosymbionts that may eventually become organelles in the course of evolution, the most prominent example being the origin of the mitochondrion and chloroplast, both of which transformed life as we know it. SYMBIOSES is an interdisciplinary project that will explore endosymbioses in an experimental approach to introduce metabolic traits as cellular compartments. In the first phase of the project, we will (i) design novel cell-in-cell merger couples composed of a unicellular eukaryote as the host and a prokaryote as the designated endosymbiont and use modelling to optimize the metabolic pre-requisites for cooperation and ultimately endosymbioses, (ii) establish cooperating co-cultures of cells that depend on each other metabolically, and (iii) develop nanotechnology approaches to incorporate cells into other cells. In the second phase of the project, we will deliver cells into cells to establish endosymbioses as operating units. We will then optimize endosymbioses by re-engineering and experimental evolution. The approach will unite desired traits consisting of core metabolic processes with a focus on biological nitrogen and carbon fixation. SYMBIOSES will establish know-how and concepts for the introduction of novel compartmentalized functions into organisms and put endosymbioses and ultimately organellogenesis to the test."
+}

@@ -1,0 +1,107 @@
+{
+    "item_type": "proposal",
+    "title": "Data Driven Structured Modelling of Nonlinear Dynamic Systems",
+    "descriptions": [
+        {
+            "proposal_name": "Data Driven Structured Modelling of Nonlinear Dynamic Systems",
+            "proposal_details": {
+                "descriptions": [
+                    "Development of a new nonlinear structured system identification framework."
+                ],
+                "model_based": true,
+                "nonlinear_models": true,
+                "performance_demand": "high",
+                "efficiency_demand": "high",
+                "model_quality": "limiting factor",
+                "model_building_cost": "limiting factor",
+                "approaches": [
+                    "top down",
+                    "bottom up"
+                ],
+                "strategy_steps": [
+                    "develop data driven structure revealing methods",
+                    "identify complex block oriented models",
+                    "develop new dedicated experiment design strategy"
+                ],
+                "applications": [
+                    "industrial",
+                    "biomechanical",
+                    "biomedical"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Data Driven Structured Modelling of Nonlinear Dynamic Systems",
+            "proposal_details": {
+                "model_based_approach": true,
+                "nonlinear_models_required": true,
+                "model_quality_and_cost_as_limiting_factors": true,
+                "new_approach_proposal": true,
+                "theoretical_contribution": "development of a new nonlinear structured system identification framework",
+                "practical_contribution": "new nonlinear modelling paradigm for system and control design",
+                "strategy": [
+                    "develop data driven structure revealing methods from unstructured nonlinear state space models",
+                    "identify complex block oriented models from the best linear approximation",
+                    "develop new experiment design strategy for cost-effective model retrieval"
+                ],
+                "challenge_for_system_identification_community": true,
+                "applicant_experience": "frequency domain system identification with nonlinear distortions",
+                "feasibility_based_on_PI's_recent_work": true,
+                "applications": [
+                    "industrial",
+                    "biomechanical",
+                    "biomedical"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Data Driven Structured Modelling of Nonlinear Dynamic Systems",
+            "proposal_details": {
+                "methods": [
+                    "model based"
+                ],
+                "demand": [
+                    "higher performance",
+                    "efficiency"
+                ],
+                "operation_mode": [
+                    "nonlinear"
+                ],
+                "requirements": [
+                    "nonlinear models"
+                ],
+                "contributions": {
+                    "theoretical": [
+                        "development of a new nonlinear structured system identification framework"
+                    ],
+                    "practical": [
+                        "new nonlinear modelling paradigm"
+                    ]
+                },
+                "strategies": [
+                    "top down approach - data driven structure revealing methods from initial unstructured nonlinear state space models",
+                    "bottom up approach - identify complex block oriented models from best linear approximation of the nonlinear system",
+                    "experiment design strategy - retrieve 'best' models with least experimental cost"
+                ],
+                "challenges": [
+                    "beyond actual abilities of the system identification community"
+                ],
+                "experience": [
+                    "long standing in frequency domain system identification with nonlinear distortions",
+                    "recent work by the PI"
+                ],
+                "applications": [
+                    "industrial",
+                    "high technological",
+                    "biomechanical",
+                    "biomedical"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7b19773c6441ad7a01256ad67e4fa483",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nData Driven Structured Modelling of Nonlinear Dynamic Systems\n\n**Description:**\n\nToday’s state-of-the art methods for system and control design are model based. The ever increasing demand for higher performance and efficiency pushes the systems in a nonlinear operation mode so that nonlinear models are required for their design and control. The model quality and the model building cost are becoming limiting factors for further technological developments. To close the gap between the designers and the modellers we propose a fundamentally new approach to deliver highly structured nonlinear models meeting the designer’s needs. From a theoretical point of view, the major contribution is the development of a new nonlinear structured system identification framework. From practical point of view, the new nonlinear modelling paradigm will become an enabling technology to further push the performance and efficiency of system and control design. We follow a three step strategy to identify structured nonlinear models: - A top down approach in which we develop data driven structure revealing methods starting from initial unstructured nonlinear state space models. - A bottom up approach that identifies complex block oriented models, including parallel and feedback structures starting from the best linear approximation of the nonlinear system. These models are highly structured from the start. - An new dedicated experiment design strategy will be developed to retrieve the “best” models with the least experimental cost. Solving these problems is far beyond the actual abilities of the system identification community. However, our long standing recognized experience in frequency domain system identification in the presence of nonlinear distortions, and recent work by the PI guarantee the feasibility of the project. Structured nonlinear model building has applications in traditional industrial and emerging new high technological applications, including biomechanical and biomedical applications."
+}

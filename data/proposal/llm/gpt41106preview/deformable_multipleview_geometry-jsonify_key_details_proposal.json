@@ -1,0 +1,97 @@
+{
+    "item_type": "proposal",
+    "title": "Deformable Multiple-View Geometry and 3D Reconstruction, with Application to Minimally Invasive Surgery",
+    "descriptions": [
+        {
+            "proposal_name": "Deformable Multiple-View Geometry and 3D Reconstruction, with Application to Minimally Invasive Surgery",
+            "proposal_details": {
+                "field": "3D Computer Vision",
+                "technique": "Shape-from-Motion",
+                "theory_base": "Multiple-View Geometry",
+                "assumption": "Rigid environment",
+                "problem_focus": "Deformable environment",
+                "success": "Limited to date",
+                "reasons_for_limited_success": [
+                    "Lack of solid theory for Deformable Shape-from-Motion",
+                    "Lack of practical solutions"
+                ],
+                "objectives": [
+                    "Develop a solid theory for Deformable Shape-from-Motion",
+                    "Create practical solutions"
+                ],
+                "research_lines": [
+                    "Theory development",
+                    "Computational implementation",
+                    "Real-world application"
+                ],
+                "theory_goal": "Generalize existing rigid theory",
+                "mathematical_tools": "Differentiable projective manifolds",
+                "computational_task": "Solve inverse problems from theory",
+                "application_focus": "Minimally Invasive Surgery",
+                "description": "Develops a mathematical framework and computational means for Deformable 3D Reconstruction, with application to Minimally Invasive Surgery."
+            }
+        },
+        {
+            "proposal_name": "Deformable Multiple-View Geometry and 3D Reconstruction, with Application to Minimally Invasive Surgery",
+            "proposal_details": {
+                "field": "3D Computer Vision",
+                "techniques": [
+                    "Shape-from-Motion",
+                    "Multiple-View Geometry"
+                ],
+                "focus": "recovering 3D shape from images",
+                "challenge": "extending to deformable environments",
+                "key_issues": [
+                    "lack of solid theory for Deformable Shape-from-Motion",
+                    "lack of practical solutions"
+                ],
+                "research_lines": [
+                    "theory",
+                    "computational implementation",
+                    "real-world application"
+                ],
+                "theory_goal": "generalize existing rigid theory",
+                "mathematical_tools": [
+                    "differentiable projective manifolds"
+                ],
+                "implementation_focus": "new computational means for solving inverse problems",
+                "application_target": "Minimally Invasive Surgery",
+                "descriptions": [
+                    "Develop a rigorous mathematical framework for Deformable 3D Reconstruction."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Deformable Multiple-View Geometry and 3D Reconstruction, with Application to Minimally Invasive Surgery",
+            "proposal_details": {
+                "field": "3D Computer Vision",
+                "technique": "Shape-from-Motion",
+                "theory_base": "Multiple-View Geometry",
+                "assumption": "Rigid environment",
+                "challenges": [
+                    "Lack of solid theory for Deformable Shape-from-Motion",
+                    "Lack of practical solutions for dense 3D shape results"
+                ],
+                "research_areas": [
+                    "Theory",
+                    "Computational implementation",
+                    "Real-world application"
+                ],
+                "goal": {
+                    "theoretical_framework": "Deformable Multiple-View Geometry",
+                    "mathematical_tools": "Differentiable projective manifolds",
+                    "computational_means": "Inverse problem solving",
+                    "application_focus": "Minimally Invasive Surgery"
+                },
+                "descriptions": [
+                    "Project FLEXABLE aims to develop a mathematical framework and computational tools for Deformable 3D Reconstruction applied to minimally invasive surgery."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5baf6aff95939d7148564183619b5823",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nDeformable Multiple-View Geometry and 3D Reconstruction, with Application to Minimally Invasive Surgery\n\n**Description:**\n\nProject FLEXABLE lies in the field of 3D Computer Vision, which seeks to recover depth or the 3D shape of the observed environment from images. One of the most successful and mature techniques in 3D Computer Vision is Shape-from-Motion which is based on the well-established theory of Multiple-View Geometry. This uses multiple images and assumes that the environment is rigid. The world is however made of objects which move and undergo deformations. Researchers have tried to extend Shape-from-Motion to a deformable environment for about a decade, yet with only very limited success to date. We believe that there are two main reasons for this. Firstly there is still a lack of a solid theory for Deformable Shape-from-Motion. Fundamental questions, such as what kinds of deformation can facilitate unambiguous 3D reconstruction, are not yet answered. Secondly practical solutions have not yet come about: for accurate and dense 3D shape results, the Motion cue must be combined with other visual cues, since it is certainly weaker in the deformable case. It may require strong object-specific priors, needing one to bridge the gap with object recognition. This project develops these two key areas. It includes three main lines of research: theory, its computational implementation, and its real-world application. Deformable Multiple-View Geometry will generalize the existing rigid theory and will provide researchers with a rigorous mathematical framework that underpins the use of Motion as a proper visual cue for Deformable 3D Reconstruction. Our theory will require us to introduce new mathematical tools from differentiable projective manifolds. Our implementation will study and develop new computational means for solving the difficult inverse problems formulated in our theory. Finally, we will develop cutting-edge applications of our framework specific to Minimally Invasive Surgery, for which there is a very high need for 3D computer vision."
+}

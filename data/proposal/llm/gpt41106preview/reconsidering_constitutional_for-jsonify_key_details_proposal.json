@@ -1,0 +1,211 @@
+{
+    "item_type": "proposal",
+    "title": "Reconsidering Constitutional Formation.Constitutional Communication by Drafting, Practice and Interpretation in 18th and 19th century Europe",
+    "descriptions": [
+        {
+            "proposal_name": "Reconsidering Constitutional Formation.Constitutional Communication by Drafting, Practice and Interpretation in 18th and 19th century Europe",
+            "proposal_details": {
+                "time_period": {
+                    "start_century": 18,
+                    "end_century": 19
+                },
+                "regions": [
+                    "Europe"
+                ],
+                "focus": [
+                    "constitutional state genesis",
+                    "constitutional communication",
+                    "constituent assemblies"
+                ],
+                "constituent_assemblies": [
+                    {
+                        "name": "Polish Sejm",
+                        "years": [
+                            1788,
+                            1792
+                        ]
+                    },
+                    {
+                        "name": "Spanish Cortes",
+                        "years": [
+                            1810,
+                            1812
+                        ]
+                    },
+                    {
+                        "name": "Belgian National Congress",
+                        "years": [
+                            1830,
+                            1831
+                        ]
+                    },
+                    {
+                        "name": "Frankfurt Parliament",
+                        "years": [
+                            1848,
+                            1849
+                        ]
+                    },
+                    {
+                        "name": "Italian Parlamento Subalpino",
+                        "years": [
+                            1861
+                        ]
+                    }
+                ],
+                "research_methods": [
+                    "transdisciplinary approach",
+                    "synchronic comparative analysis",
+                    "diachronic studies"
+                ],
+                "source_materials": [
+                    "inedited archival sources",
+                    "cross-border correspondences",
+                    "publicistic activities",
+                    "exile literature",
+                    "constitutional journalism"
+                ],
+                "research_outputs": [
+                    "identification of common structural criteria",
+                    "assessment of determinants and interdependencies"
+                ],
+                "impact": [
+                    "understanding of constitutional developments",
+                    "transnational dynamics of constitutional forming",
+                    "value for EU integration process"
+                ],
+                "descriptions": [
+                    "The project applies an evolutionary, dynamic and interactive concept of forming constitutions by text, societal context, political practice, constitutional interpretation and communication."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Reconsidering Constitutional Formation.Constitutional Communication by Drafting, Practice and Interpretation in 18th and 19th century Europe",
+            "proposal_details": {
+                "time_period": [
+                    "late 18th century",
+                    "19th century"
+                ],
+                "regions": [
+                    "Europe"
+                ],
+                "focus": [
+                    "socio-cultural and cross-border contexts",
+                    "Zeitgeist",
+                    "constitutional communication",
+                    "constituent assemblies",
+                    "archival research",
+                    "cross-border correspondences",
+                    "publicistic activities",
+                    "exile literature",
+                    "constitutional journalism",
+                    "comparative analysis",
+                    "diachronic studies",
+                    "constitutional formation",
+                    "constitutional practice",
+                    "constitutional interpretation"
+                ],
+                "descriptions": [
+                    "The project applies an evolutionary, dynamic and interactive concept of forming constitutions."
+                ],
+                "assemblies": [
+                    "Polish Sejm (1788-1792)",
+                    "Spanish Cortes (1810-1812)",
+                    "Belgian National Congress (1830-1831)",
+                    "Frankfurt Parliament (1848-1849)",
+                    "Italian Parlamento Subalpino (1861)"
+                ],
+                "sources": [
+                    "inedited archival sources",
+                    "cross-border correspondences",
+                    "protagonists' publicistic activities",
+                    "exile literature",
+                    "public media"
+                ],
+                "aims": [
+                    "Identify common structural criteria in constitution forming processes",
+                    "Assess determinants and interdependencies of constitutional formation and communication",
+                    "Enhance understanding of mutual influences in European constitutional developments",
+                    "Contribute to the EU integration process"
+                ],
+                "disciplines": [
+                    "legal sciences",
+                    "historical sciences"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Reconsidering Constitutional Formation.Constitutional Communication by Drafting, Practice and Interpretation in 18th and 19th century Europe",
+            "proposal_details": {
+                "time_period": {
+                    "start_century": 18,
+                    "end_century": 19
+                },
+                "regions": [
+                    "Europe"
+                ],
+                "focus": [
+                    "constitutional state genesis",
+                    "public awareness",
+                    "cross-border participation",
+                    "constitutional communication patterns"
+                ],
+                "methodology": {
+                    "approach": [
+                        "evolutionary",
+                        "dynamic",
+                        "interactive"
+                    ],
+                    "activities": [
+                        "text analysis",
+                        "societal context study",
+                        "political practice examination",
+                        "constitutional interpretation",
+                        "communication analysis"
+                    ],
+                    "source_material": [
+                        "inedited archival sources",
+                        "cross-border correspondences",
+                        "protagonists' publicistic activities",
+                        "exile literature",
+                        "constitutional journalism"
+                    ],
+                    "analysis": {
+                        "type": [
+                            "synchronic comparative",
+                            "systematic diachronic"
+                        ],
+                        "focus": [
+                            "common structural criteria",
+                            "features",
+                            "principles in constitution forming processes"
+                        ]
+                    }
+                },
+                "case_studies": [
+                    "Polish Sejm (1788-1792)",
+                    "Spanish Cortes (1810-1812)",
+                    "Belgian National Congress (1830-1831)",
+                    "Frankfurt Parliament (1848-1849)",
+                    "Italian Parlamento Subalpino (1861)"
+                ],
+                "anticipated_outcomes": [
+                    "assessment of determinants and interdependencies in constitutional formation",
+                    "understanding of constitutional developments in Europe",
+                    "highlighting transnational dynamics of constitutional forming, practice, and interpretation"
+                ],
+                "potential_impact": [
+                    "integration process of the EU"
+                ],
+                "descriptions": [
+                    "ReConFort applies an interactive model to study constitution formation in historic European contexts."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "616148b2285de1741aa957a8df73b7d0",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nReconsidering Constitutional Formation.Constitutional Communication by Drafting, Practice and Interpretation in 18th and 19th century Europe\n\n**Description:**\n\nThe genesis of the modern constitutional state in late 18th and 19th century Europe has met im-mense public awareness and cross-border participation. Though this phenomenon is well known, basic patterns of constitutional communication (i.e. socio-cultural and cross-border contexts, ‘Zeitgeist’) have never been addressed before. In this concern ReConFort applies an evolutionary, dynamic and interactive concept of forming constitutions by text, societal context, political practice, constitutional interpretation and communication. The transdisciplinary project focuses on the constitutional “discourse” around selected constituent assemblies: the Polish Sejm (1788-1792), the Spanish Cortes (1810-1812), the Belgian National Congress (1830-1831), the Frankfurt Parliament (1848-1849) and the Italian Parlamento Subalpino (1861). Albeit all these historical paradigms are particular and different, they all shared a Europe-wide public interest. The research approach draws upon mainly inedited and still unknown archival sources: cross-border correspondences, publicistic activities of protagonists, exile literature, and regional to cross-border constitutional journalism in leading public media. The synchronic comparative analysis is complemented by systematic diachronic studies. Thereby ReConFort identifies common structural criteria, features and principles in constitution forming processes. ReConFort finally aims at assessing basic determinants and mutual interdependencies of constitutional formation and communication in Europe. This research focus will estalish a deeper understanding of mutual influences of constitutional developments in Europe by pointing out the transnational dynamics of constitutional forming, practice and interpretation. Thus, ReConFort crosses the frontiers of traditional legal and historical sciences and will be of value for the present integration process of the EU."
+}

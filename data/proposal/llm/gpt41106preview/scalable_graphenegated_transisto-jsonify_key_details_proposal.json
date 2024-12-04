@@ -1,0 +1,129 @@
+{
+    "item_type": "proposal",
+    "title": "Scalable graphene-gated transistors",
+    "descriptions": [
+        {
+            "proposal_name": "Scalable graphene-gated transistors",
+            "proposal_details": {
+                "project_name": "GR-GATE",
+                "transistor_type": "negative quantum capacitance field effect transistor (NQCFET)",
+                "subthreshold_characteristics": "steep",
+                "operation_voltage": "low power supply voltages (Vdd)",
+                "innovative_characteristic": [
+                    "integration of a graphene layer in the gate of MOSFET transistors",
+                    "induction of NQC due to electron-correlation effects"
+                ],
+                "compatible_technologies": [
+                    "Si device architectures such as FDSOI",
+                    "tunneling field effect transistor (TFET)"
+                ],
+                "intended_impact": "improve low power/high performance operation characteristics of transistors",
+                "competitive_advantages": "competitive against rival emerging steep slope switch technologies",
+                "integration_with_mainstream": "complements mainstream Si devices",
+                "innovation_potential": "high potential for non-disruptive innovation",
+                "production_prospects": "fast and smooth entry to large volume production",
+                "prototype_stage": "TRL 4",
+                "prototype_objectives": [
+                    "scalable to larger area wafers",
+                    "acceptable device yield",
+                    "reduced gate lengths",
+                    "lower gate dielectric thickness"
+                ],
+                "compliance": "with scaling trends and technological requirements as adopted by the industry",
+                "commercial_value": "demonstration leading to IP protection through international patent filing",
+                "valorisation_activities": "assess manufacturability and viability of NQCFET technology",
+                "development_maturity_target": "TRL 8-9",
+                "validation_role": "large European technology development laboratories",
+                "industrial_affiliation_goal": "licence agreement with key chip manufacturers",
+                "production_goal": "enable volume production"
+            }
+        },
+        {
+            "proposal_name": "Scalable graphene-gated transistors",
+            "proposal_details": {
+                "project": "GR-GATE",
+                "device": "NQCFET",
+                "device_full_name": "negative quantum capacitance field effect transistor",
+                "characteristics": [
+                    "steep subthreshold",
+                    "low power supply voltage operation"
+                ],
+                "innovations": [
+                    "graphene layer integration in MOSFET gate",
+                    "negative quantum capacitance (NQC) induction"
+                ],
+                "compatibility": [
+                    "FDSOI",
+                    "TFET"
+                ],
+                "impact": "energy efficient nanoelectronics",
+                "competitive_advantages": [
+                    "non-disruptive innovation",
+                    "complementary to mainstream Si devices"
+                ],
+                "development_target": "prototype transistor arrays at TRL 4",
+                "scalability": "larger area wafers",
+                "performance_goals": [
+                    "reduced gate lengths",
+                    "lower gate dielectric thickness"
+                ],
+                "industry_compliance": "scaling trends and technological requirements",
+                "commercialization_plan": [
+                    "IP protection through international patent filing",
+                    "technology valorisation"
+                ],
+                "maturity_goal": "TRL 8-9",
+                "collaboration": "European technology development laboratories",
+                "licensing_target": "key chip manufacturers"
+            }
+        },
+        {
+            "proposal_name": "Scalable graphene-gated transistors",
+            "proposal_details": {
+                "project_name": "GR-GATE",
+                "transistor_type": "negative quantum capacitance field effect transistor",
+                "transistor_acronym": "NQCFET",
+                "operation_voltage": "low",
+                "innovative_characteristic": "integration of a graphene layer in the gate of MOSFET transistors",
+                "applications": [
+                    "FDSOI",
+                    "TFET"
+                ],
+                "potential_impact": "energy efficient nanoelectronics",
+                "competitive_advantages": [
+                    "non-disruptive innovation",
+                    "fast and smooth entry to large volume production"
+                ],
+                "project_goal": [
+                    "produce prototype transistor arrays at TRL 4",
+                    "scalable to larger area wafers",
+                    "acceptable device yield",
+                    "reduced gate lengths",
+                    "lower gate dielectric thickness"
+                ],
+                "compliance": "industry scaling trends and technological requirements",
+                "commercialization_strategy": [
+                    "IP protection through an international patent filing",
+                    "technology valorisation",
+                    "manufacturability and viability assessment",
+                    "advanced development for technology maturity"
+                ],
+                "target_technology_readiness_level": [
+                    "TRL 8",
+                    "TRL 9"
+                ],
+                "collaboration_entities": [
+                    "large European technology development laboratories",
+                    "industrial affiliates"
+                ],
+                "market_strategy": "licence agreement with key chip manufacturers",
+                "production_scale": "volume production"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9b74dd620bca8b9dd3ed26ecd4289a9d",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nScalable graphene-gated transistors\n\n**Description:**\n\nThe GR-GATE project proposes a novel negative quantum capacitance field effect transistor (NQCFET) with steep subthreshold characteristics which enables operation at low power supply voltages (Vdd). The main innovative characteristic of the NQCFET is the integration of a graphene layer in the gate of MOSFET transistors to induce a NQC due to electron-correlation effects. The technology can be combined with state of the art Si device architectures such as FDSOI or more mature steep slope switches such as the tunneling field effect transistor (TFET) functioning as technology booster to improve low power /high performance operation characteristics of transistors. The later can have an impact on energy efficient nanoelectronics. NQCFET has competitive advantages against rival emerging steep slope switch technologies and complements rather than competes with mainstream Si devices, therefore showing a high potential for non-disruptive innovation and a prospect for fast and smooth entry to large volume production. The GR-GATE project will produce prototype transistor arrays at TRL 4 to show that the NQCFET technology is scalable to larger area wafers with acceptable device yield having reduced gate lengths and lower gate dielectric thickness in compliance with scaling trends and technological requirements as adopted by the industry. This will demonstrate that the technology has a commercial value calling for IP protection through an international patent filing. In addition, technology valorisation is planned in order to assess the manufacturability and viability of the NQCFET technology and identify further advanced development steps that need to be taken in order to bring the technology to maturity (TRL 8-9). It is expected that large European technology development laboratories will have a crucial role in validating the technology but also promoting it to their industrial affiliates targeting a licence agreement with key chip manufacturers to enable volume production."
+}

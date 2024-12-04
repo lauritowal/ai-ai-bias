@@ -1,0 +1,151 @@
+{
+    "item_type": "proposal",
+    "title": "Soundscapes of Trauma: Music, Sound and the Ethics of Witnessing",
+    "descriptions": [
+        {
+            "proposal_name": "Soundscapes of Trauma: Music, Sound and the Ethics of Witnessing",
+            "proposal_details": {
+                "main_objective": "To investigate empirically and theoretically the use of music and sound in situations of confinement and displacement from the Cold War to contemporary times.",
+                "key_focus_areas": [
+                    "Weaponization of music/sound",
+                    "Music/sound as a tool of survival",
+                    "Ethical challenges in research",
+                    "Music programmes for prisoners and refugees",
+                    "Alternative models for music programmes"
+                ],
+                "theoretical_framework": "Interlocking of politics, ethics, and aesthetics; ethics of sound; ethics of witnessing",
+                "comparative_approach_locations": [
+                    "Cyprus",
+                    "Greece",
+                    "Serbia",
+                    "Germany",
+                    "Soviet Union",
+                    "Russia",
+                    "Iraq",
+                    "Argentina",
+                    "Chile",
+                    "Uruguay",
+                    "Paraguay"
+                ],
+                "disciplines_involved": [
+                    "Ethnomusicology",
+                    "Social anthropology",
+                    "History",
+                    "Critical theory",
+                    "Human rights law",
+                    "Sound art"
+                ],
+                "PI_experience": "A decade of immersion into all disciplinary components",
+                "expected_impact": [
+                    "Transform scientific discourse",
+                    "Change perceptions about music’s social function",
+                    "Revisit detention-related policies",
+                    "Assess current definitions of torture",
+                    "Foundation for future research on music with refugees"
+                ],
+                "relevance": [
+                    "Mass asylum seeking in Europe",
+                    "Growing number of music research projects with refugees"
+                ],
+                "goal_for_well-being": "Ensure the well-being of participants and researchers"
+            }
+        },
+        {
+            "proposal_name": "Soundscapes of Trauma: Music, Sound and the Ethics of Witnessing",
+            "proposal_details": {
+                "main_objective": "To investigate empirically and theoretically the use of music and sound in situations of confinement and displacement from the Cold War to contemporary times.",
+                "goals": [
+                    "Explore the weaponization of music and sound",
+                    "Study the use of music/sound as a tool of survival",
+                    "Address ethical challenges in research and music programmes for prisoners and refugees",
+                    "Provide alternative models to current music programmes"
+                ],
+                "innovation": "Theoretical framework to investigate politics, ethics, and aesthetics interlocking, focusing on the ethics of sound and ethics of witnessing.",
+                "comparative_approach_locations": [
+                    "Cyprus",
+                    "Greece",
+                    "Serbia",
+                    "Germany",
+                    "Soviet Union",
+                    "Contemporary Russia",
+                    "Iraq",
+                    "Argentina",
+                    "Chile",
+                    "Uruguay",
+                    "Paraguay"
+                ],
+                "disciplinary_components": [
+                    "(ethno)musicology",
+                    "social anthropology",
+                    "history",
+                    "critical theory",
+                    "human rights law",
+                    "sound art"
+                ],
+                "PI_experience": "A decade of immersion into all disciplinary components.",
+                "expected_impact": [
+                    "Transform scientific discourse",
+                    "Change perceptions about music’s social function",
+                    "Revisit and assess detention-related policies and definitions of torture",
+                    "Provide foundations for future research with refugees"
+                ],
+                "descriptions": [
+                    {
+                        "description": "MUTE will critically analyse the use of music and sound as tools of both oppression and survival, aiming to provide a nuanced understanding of their social function and ethical implications in different historical and geographical contexts."
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Soundscapes of Trauma: Music, Sound and the Ethics of Witnessing",
+            "proposal_details": {
+                "main_objective": "Investigate empirically and theoretically the use of music and sound in situations of confinement and displacement from the Cold War to contemporary times",
+                "aims": [
+                    "Explore weaponization of music/sound",
+                    "Examine music/sound as a survival tool",
+                    "Address ethical challenges of research",
+                    "Highlight shortcomings of music programmes for prisoners and refugees",
+                    "Provide alternative models"
+                ],
+                "theoretical_framework": "Investigation of politics, ethics, and aesthetics interlocking; focus on ethics of sound and ethics of witnessing",
+                "comparative_approach_locations": [
+                    "Cyprus",
+                    "Greece",
+                    "Serbia",
+                    "Germany",
+                    "Soviet Union",
+                    "Russia",
+                    "Iraq",
+                    "Argentina",
+                    "Chile",
+                    "Uruguay",
+                    "Paraguay"
+                ],
+                "disciplinary_components": [
+                    "(ethno)musicology",
+                    "social anthropology",
+                    "history",
+                    "critical theory",
+                    "human rights law",
+                    "sound art"
+                ],
+                "PI_experience": "Extensive immersion into all disciplinary components over the last decade",
+                "expected_outcomes": [
+                    "Transform scientific discourse",
+                    "Change perceptions about music’s social function",
+                    "Revisit detention-related policies",
+                    "Assess current definitions of torture",
+                    "Provide ethical, methodological, and theoretical foundations for research with refugees"
+                ],
+                "descriptions": [
+                    "MUTE’s findings will offer critical insights for the well-being of participants and researchers and ensure research excellence and critically nuanced scholarship."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e4a89ab7eb21ac79e046069e08543bd1",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nSoundscapes of Trauma: Music, Sound and the Ethics of Witnessing\n\n**Description:**\n\nMUTE’s main objective is to investigate for the first time empirically and theoretically the use of music and sound in situations of confinement and displacement from the Cold War to contemporary times. It explores their weaponization in light of transnational developments in technologies of terror. At the same time, it carefully attends to how music/sound can become a tool of survival, even in the same setting in which they are weaponized. Also explored are ethical challenges of such research, and of music programmes for prisoners and refugees, highlighting their shortcomings and providing alternative models. MUTE innovates through a theoretical framework that investigates the interlocking of politics, ethics, and aesthetics, focusing on the ethics of sound and ethics of witnessing. Its comparative approach extends to (post)colonial Cyprus, Greece, Serbia, Germany, Soviet Union and contemporary Russia, Iraq, Argentina, Chile, Uruguay and Paraguay. MUTE will critically analyse this complex phenomenon across the disciplines of (ethno)musicology, social anthropology, history, critical theory, human rights law and sound art, since it cannot be fully grasped through the methods of any one alone. The PI’s extensive immersion into all disciplinary components over the last decade, evident in her novel approach, ensures the successful implementation of research objectives. MUTE’s findings and results will transform scientific discourse, changing current perceptions about music’s social function. This historical recovery is important in revisiting and assessing detention-related policies and current definitions of torture. Given recent mass asylum seeking in Europe and the growing number of music research projects with refugees, it will offer the needed ethical, methodological and theoretical foundations for present and future research, ensuring the well-being of participants and researchers, research excellence, and critically nuanced scholarship."
+}

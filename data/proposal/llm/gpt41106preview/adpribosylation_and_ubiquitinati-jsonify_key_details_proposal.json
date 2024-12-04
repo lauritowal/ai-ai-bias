@@ -1,0 +1,145 @@
+{
+    "item_type": "proposal",
+    "title": "ADPribosylation and Ubiquitination; post-translational interplay",
+    "descriptions": [
+        {
+            "proposal_name": "ADPribosylation and Ubiquitination; post-translational interplay",
+            "proposal_details": {
+                "descriptions": [
+                    "Understanding the interplay between ADPribosylation and ubiquitination and their roles in cell biology for therapeutic intervention in diseases."
+                ],
+                "functions": [
+                    "Regulating immune response",
+                    "Cell cycle progression",
+                    "Proteasome mediated protein degradation",
+                    "Regulating DNA damage responses",
+                    "Apoptosis"
+                ],
+                "processes": [
+                    "ADPribosylation",
+                    "Ubiquitination"
+                ],
+                "roles": [
+                    "Intracellular bacterial replication",
+                    "DNA damage repair",
+                    "Tumor development"
+                ],
+                "research_goals": [
+                    "Study the system of dynamic ADPribosylation of Ub",
+                    "Explain molecular details of (de)conjugating enzymes",
+                    "Explore cell biological networks",
+                    "Inhibitor discovery for therapeutic intervention"
+                ],
+                "methodologies": [
+                    "Develop novel chemical methodologies",
+                    "Create new substrates, activity-based probes and assay reagents",
+                    "Profile specificity and preferences of enzymes",
+                    "Study interactions and pathways in cells",
+                    "Screen for small molecule inhibitors"
+                ],
+                "expertise": [
+                    "Protein synthesis",
+                    "Chemical biology",
+                    "Structural biology"
+                ],
+                "diseases_targeted": [
+                    "Infectious diseases",
+                    "Cancers"
+                ]
+            }
+        },
+        {
+            "proposal_name": "ADPribosylation and Ubiquitination; post-translational interplay",
+            "proposal_details": {
+                "descriptions": [
+                    "Understanding post-translational modification interplay and role of UbADPr-isotypes in cell biology to develop therapeutic interventions for infection diseases and cancers."
+                ],
+                "protein_modifications": [
+                    "ADPribosylation",
+                    "Ubiquitination"
+                ],
+                "cellular_processes": [
+                    "immune response",
+                    "cell cycle progression",
+                    "proteasome mediated protein degradation",
+                    "DNA damage responses",
+                    "apoptosis",
+                    "intracellular bacterial replication",
+                    "DNA damage repair",
+                    "tumor development"
+                ],
+                "research_goals": [
+                    "Study dynamic ADPribosylation of Ub",
+                    "Explain molecular details of (de)conjugating enzymes",
+                    "Explore cell biological networks",
+                    "Exploit key enzymes for inhibitor discovery for therapeutic intervention"
+                ],
+                "methodologies": [
+                    "Develop novel chemical methodologies",
+                    "Create new substrates, activity-based probes, and assay reagents",
+                    "Profile specificity and preferences of involved enzymes",
+                    "Study interactions and pathways in cells",
+                    "Screen for small molecule inhibitors"
+                ],
+                "expertise": [
+                    "protein synthesis",
+                    "chemical biology",
+                    "structural biology"
+                ]
+            }
+        },
+        {
+            "proposal_name": "ADPribosylation and Ubiquitination; post-translational interplay",
+            "proposal_details": {
+                "descriptions": [
+                    "Understanding the interplay between ADPribosylation and ubiquitination and their role in cell biology for therapeutic intervention in diseases."
+                ],
+                "involved_processes": [
+                    "immune response",
+                    "cell cycle progression",
+                    "proteasome mediated protein degradation",
+                    "DNA damage responses",
+                    "apoptosis"
+                ],
+                "potential_implications": [
+                    "intracellular bacterial replication",
+                    "DNA damage repair",
+                    "tumor development"
+                ],
+                "research_focus": [
+                    "mechanisms of UbADPr-isotypes",
+                    "biochemical scope of protein-protein interactions",
+                    "cell biological consequences",
+                    "differences between non-studied UbADPr linkages"
+                ],
+                "research_activities": [
+                    "study dynamic ADPribosylation of Ub",
+                    "molecular details of (de)conjugating enzymes",
+                    "explore cell biological networks",
+                    "inhibitor discovery for therapeutic intervention"
+                ],
+                "methodologies": [
+                    "novel chemical methodologies",
+                    "creation of new substrates",
+                    "activity-based probes",
+                    "assay reagents"
+                ],
+                "objectives": [
+                    "profile specificity and preferences of enzymes",
+                    "study interactions and pathways in cells",
+                    "screen for small molecule inhibitors"
+                ],
+                "expertise": [
+                    "protein synthesis",
+                    "chemical biology",
+                    "structural biology"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "491204bff47cc4d71f20a0d8e0ec30a0",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nADPribosylation and Ubiquitination; post-translational interplay\n\n**Description:**\n\nPost-translational modification of proteins is essential in regulating proper cellular homeostasis. The attachment and removal of the small protein Ubiquitin (Ub) is amongst others involved in regulating immune response, cell cycle progression and proteasome mediated protein degradation. The (de)conjugation of adenosine-di-phosphate ribose (ADPr) on the other hand is essential in regulating DNA damage responses and apoptosis. ADPribosylation and ubiquitination both dictate a highly complex signaling code and intriguingly these two PTM systems also communicate, as Ub was recently found to be ADPribosylated on multiple different positions. This new layer of controlling ubiquitination plays important roles in intracellular bacterial replication, DNA damage repair and tumor development. Understanding this fascinating post-translational interplay and the role the different UbADPr-isotypes play in cell biology is crucial to develop novel strategies for therapeutic intervention in diseases such as infection diseases and cancers. What are the mechanisms, biochemical scope of protein-protein interactions, cell biological consequences and differences between these non-studied UbADPr linkages? I propose to study the entire system of dynamic ADPribosylation of Ub and explain the molecular details of the (de)conjugating enzymes, explore the cell biological networks involved and exploit the key enzymes for inhibitor discovery en-route to future therapeutic intervention. I will develop novel chemical methodologies and create a set of new substrates, activity-based probes and assay reagents and use them to profile specificity and preferences of the involved enzymes, study the interactions and pathways in cells and screen for small molecule inhibitors. Using my expertise in protein synthesis and chemical- and structural biology I aim to unveil the details of this until now poorly studied, but crucial, hidden layer of post-translational interplay in an unbiased manner."
+}

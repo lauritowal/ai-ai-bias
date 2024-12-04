@@ -1,0 +1,153 @@
+{
+    "item_type": "proposal",
+    "title": "Additive Micro-Manufacturing for Plastic Micro-flectro-Mechanical-Systems",
+    "descriptions": [
+        {
+            "proposal_name": "Additive Micro-Manufacturing for Plastic Micro-flectro-Mechanical-Systems",
+            "proposal_details": {
+                "current_status": {
+                    "silicon_based_MEMS": "advanced",
+                    "polymer_based_MEMS": "beginning"
+                },
+                "focus_areas": [
+                    "flexible electronics",
+                    "biomedical applications"
+                ],
+                "challenges": [
+                    "lack of coherent fabrication platform",
+                    "need for biocompatible plastic materials"
+                ],
+                "proposed_solutions": [
+                    "additive manufacturing",
+                    "3D printing",
+                    "sintering"
+                ],
+                "limitations": {
+                    "scalability": "not below a micrometer",
+                    "thermal_processing": [
+                        "bulk",
+                        "surface lasers"
+                    ]
+                },
+                "research_goals": {
+                    "MEMS_4.0": "additive manufacturing at micro/nanoscale",
+                    "key_techniques": [
+                        "stencilling",
+                        "printing",
+                        "self-assembly",
+                        "local thermal processing"
+                    ]
+                },
+                "expertise": [
+                    "MEMS",
+                    "Nanotechnology"
+                ],
+                "materials_focus": [
+                    "new materials",
+                    "soft polymer materials"
+                ],
+                "target_applications": [
+                    "biodegradable implantable MEMS",
+                    "permanently implantable glassy carbon MEMS"
+                ],
+                "potential_impact": [
+                    "wearables",
+                    "implantables"
+                ],
+                "descriptions": [
+                    "MEMS 4.0 will push the frontiers in new materials and new processing for MEMS by setting a focus on stencilling, printing, self-assembly, and local thermal processing."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Additive Micro-Manufacturing for Plastic Micro-flectro-Mechanical-Systems",
+            "proposal_details": {
+                "current_state_of_the_field": {
+                    "silicon_based_MEMS": "advanced",
+                    "polymer_based_MEMS": "beginning stages"
+                },
+                "focus": "biocompatible plastic materials for biomedical applications",
+                "additive_manufacturing_techniques": [
+                    "3D printing",
+                    "sintering"
+                ],
+                "limitations": {
+                    "scalability": "not below a micrometer",
+                    "thermal_processing": "bulk or by lasers on surfaces"
+                },
+                "research_aim": "additive manufacturing at the micro/nanoscale and associated key techniques",
+                "proposed_techniques": [
+                    "stencilling",
+                    "printing",
+                    "self-assembly",
+                    "local thermal processing"
+                ],
+                "materials_targeted": [
+                    "delicate soft polymer materials"
+                ],
+                "applications_targeted": [
+                    "biodegradable implantable MEMS",
+                    "permanently implantable glassy carbon MEMS"
+                ],
+                "impact": {
+                    "most_challenging_fabrication": true,
+                    "potential_impact": "future wearables and implantables"
+                },
+                "descriptions": [
+                    "MEMS 4.0 aims to perform concerted research in additive manufacturing at micro/nanoscale and associated key techniques."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Additive Micro-Manufacturing for Plastic Micro-flectro-Mechanical-Systems",
+            "proposal_details": {
+                "target_industries": [
+                    "automotive",
+                    "domestic",
+                    "health-care",
+                    "consumer electronics"
+                ],
+                "focus": [
+                    "biocompatible plastic materials",
+                    "biomedical applications"
+                ],
+                "technologies_involved": [
+                    "additive manufacturing",
+                    "3D printing",
+                    "sintering"
+                ],
+                "challenges": [
+                    "scaling below a micrometer"
+                ],
+                "approach": [
+                    "MEMS 4.0",
+                    "concerted research in additive manufacturing",
+                    "micro/nanoscale",
+                    "stencilling",
+                    "printing",
+                    "self-assembly",
+                    "local thermal processing"
+                ],
+                "materials": [
+                    "delicate, soft, polymer materials"
+                ],
+                "product_targets": [
+                    "biodegradable implantable MEMS",
+                    "permanently implantable glassy carbon MEMS"
+                ],
+                "impact": [
+                    "future wearables",
+                    "implantables"
+                ],
+                "descriptions": [
+                    "Setting a focus on stencilling, printing, self-assembly and local thermal processing to engineer the next generations of plastic MEMS."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "61c4377fce268924f94d0f7b235447d3",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAdditive Micro-Manufacturing for Plastic Micro-flectro-Mechanical-Systems\n\n**Description:**\n\nThe manufacturing of silicon-based MEMS today is well advanced because the micro-electro-mechanical devices for automotive, domestic, health-care and consumer electronics can be fabricated with methods from IC industry. Polymer-based MEMS have a great potential for flexible electronics and biomedical applications, but to date, the techniques to engineer functional polymers into 3D microsystems, are still at their beginning because a coherent fabrication platform with the right tools and processes does not yet exist. The field could tremendously benefit from a coordinated effort in materials and manufacturing, in particular with a focus on biocompatible plastic materials for biomedical applications. Additive manufacturing such as 3D printing and associated processing such as sintering has already started to transform traditional industry, but is not scalable much below a micrometer because the thermal processing is done in bulk or by lasers on surfaces. MEMS 4.0, in analogy with the industry 4.0 concept, aims to perform concerted research in additive manufacturing at the micro/nanoscale and associated key techniques. Using my expertise in MEMS and Nanotechnology, MEMS 4.0 will push the frontiers in new materials and new processing for MEMS by setting a focus on stencilling, printing, self-assembly and local thermal processing. This coherent processing framework will permit the use of delicate, soft, polymer materials to engineer the next generations of plastic MEMS. We are primarily targeting biodegradable implantable MEMS and permanently implantable glassy carbon MEMS. They are the most challenging to fabricate, but if successful, they also have an enormous impact for future wearables and implantables."
+}

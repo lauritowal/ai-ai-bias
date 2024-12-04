@@ -1,0 +1,187 @@
+{
+    "item_type": "proposal",
+    "title": "Adaptive Optical Microscopy Systems: Unifying theory, practice and applications",
+    "descriptions": [
+        {
+            "proposal_name": "Adaptive Optical Microscopy Systems: Unifying theory, practice and applications",
+            "proposal_details": {
+                "technological_advances": "optical microscopy",
+                "applications": "biomedical sciences",
+                "central_tool": "fluorescence microscopy",
+                "investigation_focus": "molecular structures and dynamics",
+                "environments": [
+                    "cellular",
+                    "tissue"
+                ],
+                "progress_in": [
+                    "labeling methods"
+                ],
+                "achievements": [
+                    "unprecedented sensitivity",
+                    "unprecedented resolution"
+                ],
+                "engineering_development": "diverse optical systems",
+                "imaging_capabilities": [
+                    "optimal resolution",
+                    "efficiency"
+                ],
+                "common_problem": "aberrations from refractive index variations",
+                "proposed_solution": "Adaptive optics (AO)",
+                "demonstrated_potential": "correcting aberrations",
+                "promise": "improve all types of research or commercial microscopes",
+                "challenges": "widespread AO implementation",
+                "current_advances": "bespoke AO solutions",
+                "diversity_issue": "individual solutions not translatable",
+                "proposal_goal": [
+                    "theoretical framework",
+                    "practical framework"
+                ],
+                "approach": [
+                    "systems approach"
+                ],
+                "components": [
+                    "theoretical modelling",
+                    "optical engineering",
+                    "biological applications"
+                ],
+                "additional_outputs": [
+                    "practical designs",
+                    "operating protocols",
+                    "software algorithms"
+                ],
+                "support_for": "next generation AO microscope systems",
+                "descriptions": [
+                    "Creation of theoretical and practical frameworks to unify AO concepts across diverse optical microscopy methods."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Adaptive Optical Microscopy Systems: Unifying theory, practice and applications",
+            "proposal_details": {
+                "technological_advances": "optical microscopy",
+                "central_tool": "fluorescence microscopy",
+                "applications": "biomedical sciences",
+                "investigation_targets": [
+                    "molecular structures",
+                    "dynamics"
+                ],
+                "imaging_environments": [
+                    "cellular",
+                    "tissue"
+                ],
+                "progress_areas": [
+                    "labeling methods"
+                ],
+                "capabilities": [
+                    "sensitivity",
+                    "resolution"
+                ],
+                "optical_systems_variety": true,
+                "common_issue": "aberrations due to refractive index variations",
+                "solution": "adaptive optics (AO)",
+                "current_AO_status": "correcting aberrations",
+                "potential_of_AO": "improve research/commercial microscopes",
+                "challenges": "widespread AO implementation",
+                "current_advancements": "bespoke AO solutions",
+                "proposal_goal": [
+                    "theoretical framework creation",
+                    "practical framework creation",
+                    "scientific tools with broad application"
+                ],
+                "approach": [
+                    "theoretical modelling",
+                    "optical engineering",
+                    "biological application requirements"
+                ],
+                "additional_outputs": [
+                    "practical designs",
+                    "operating protocols",
+                    "software algorithms"
+                ],
+                "target": "next generation AO microscope systems"
+            }
+        },
+        {
+            "proposal_name": "Adaptive Optical Microscopy Systems: Unifying theory, practice and applications",
+            "proposal_details": {
+                "technological_advances": [
+                    "optical microscopy"
+                ],
+                "applications": [
+                    "biomedical sciences"
+                ],
+                "tools": [
+                    "fluorescence microscopy"
+                ],
+                "functions": [
+                    "investigation of molecular structures",
+                    "investigation of dynamics"
+                ],
+                "environments": [
+                    "cellular",
+                    "tissue"
+                ],
+                "progress_areas": [
+                    "labeling methods"
+                ],
+                "capabilities": [
+                    "unprecedented sensitivity",
+                    "unprecedented resolution"
+                ],
+                "engineering_developments": [
+                    "optical systems"
+                ],
+                "optics_quality": [
+                    "high fidelity"
+                ],
+                "common_problems": [
+                    "aberrations"
+                ],
+                "causes_of_aberrations": [
+                    "refractive index variations within the specimen"
+                ],
+                "solutions": [
+                    "adaptive optics (AO)"
+                ],
+                "benefits_of_ao": [
+                    "correcting aberrations"
+                ],
+                "challenges": [
+                    "widespread implementation"
+                ],
+                "current_approaches": [
+                    "bespoke AO solutions"
+                ],
+                "proposal_goals": [
+                    "theoretical framework creation",
+                    "practical framework creation",
+                    "suite of scientific tools with broad application"
+                ],
+                "approach": [
+                    "systems approach"
+                ],
+                "components": [
+                    "theoretical modelling",
+                    "optical engineering",
+                    "biological applications requirements"
+                ],
+                "additional_outputs": [
+                    "practical designs",
+                    "operating protocols",
+                    "software algorithms"
+                ],
+                "intended_support": [
+                    "next generation AO microscope systems"
+                ],
+                "descriptions": [
+                    "This proposal is directed towards the creation of theoretical and practical frameworks that tie together AO concepts and provide a suite of scientific tools with broad application."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "601b2595bdc4856b3af306728c7cbdb8",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAdaptive Optical Microscopy Systems: Unifying theory, practice and applications\n\n**Description:**\n\nRecent technological advances in optical microscopy have vastly broadened the possibilities for applications in the biomedical sciences. Fluorescence microscopy is the central tool for investigation of molecular structures and dynamics that take place in the cellular and tissue environment. Coupled with progress in labeling methods, these microscopes permit observation of biological structures and processes with unprecedented sensitivity and resolution. This work has been enabled by the engineering development of diverse optical systems that provide different capabilities for the imaging toolkit. All such methods rely upon high fidelity optics to provide optimal resolution and efficiency, but they all suffer from aberrations caused by refractive index variations within the specimen. It is widely accepted that in many applications this fundamental problem prevents optimum operation and limits capability. Adaptive optics (AO) has been introduced to overcome these limitations by correcting aberrations and a range of demonstrations has shown clearly its potential. Indeed, it shows great promise to improve virtually all types of research or commercial microscopes, but significant challenges must still be met before AO can be widely implemented in routine imaging. Current advances are being made through development of bespoke AO solutions to individual imaging tasks. However, the diversity of microscopy methods means that individual solutions are often not translatable to other systems. This proposal is directed towards the creation of theoretical and practical frameworks that tie together AO concepts and provide a suite of scientific tools with broad application. This will be achieved through a systems approach that encompasses theoretical modelling, optical engineering and the requirements of biological applications. Additional outputs will include practical designs, operating protocols and software algorithms that will support next generation AO microscope systems."
+}

@@ -1,0 +1,135 @@
+{
+    "item_type": "proposal",
+    "title": "Atomic-scale Design of Majorana states and their Innovative Real-space Exploration",
+    "descriptions": [
+        {
+            "proposal_name": "Atomic-scale Design of Majorana states and their Innovative Real-space Exploration",
+            "proposal_details": {
+                "research_field": "Condensed Matter Physics",
+                "focus": "Fault-tolerant topological quantum computation",
+                "key_operation": "Braiding of non-Abelian anyons",
+                "quasiparticles": "Zero-energy Majorana bound states",
+                "nanowires_characteristics": {
+                    "type": "One-dimensional magnetic",
+                    "interaction": [
+                        "s-wave superconductors",
+                        "High spin-orbit coupling"
+                    ]
+                },
+                "experimental_approach": {
+                    "techniques": [
+                        "STM-based atom manipulation"
+                    ],
+                    "substrates": "Elemental superconducting"
+                },
+                "research_goals": [
+                    "Study Shiba bands formation",
+                    "Examine Majorana bound states with respect to chain structure, length, composition",
+                    "Construct model-type platforms (T-junctions, rings, complex network structures)"
+                ],
+                "experimental_techniques": [
+                    "Spin-resolved STS",
+                    "Scanning Josephson tunnelling spectroscopy",
+                    "Multi-probe STS"
+                ],
+                "conditions": "Ultra-high vacuum",
+                "objectives": [
+                    "Probe magnetic state of atomic wires",
+                    "Investigate spin-polarization of Majorana states",
+                    "Explore spatial nature of superconducting order parameter"
+                ],
+                "final_goal": "Probe quantum exchange statistics of non-Abelian anyons"
+            }
+        },
+        {
+            "proposal_name": "Atomic-scale Design of Majorana states and their Innovative Real-space Exploration",
+            "proposal_details": {
+                "research_field": "condensed matter physics",
+                "focus": "topological quantum computation",
+                "theoretical_concept": "braiding of non-Abelian anyons",
+                "quasiparticles": "Majorana bound states",
+                "system_conditions": [
+                    "one-dimensional magnetic nanowires",
+                    "proximity to s-wave superconductors",
+                    "high spin-orbit coupling"
+                ],
+                "experimental_approach": [
+                    "design in artificially constructed single-atom chains",
+                    "non-collinear spin-textures",
+                    "elemental superconducting substrates"
+                ],
+                "techniques": [
+                    "scanning tunnelling microscope (STM)-based atom manipulation",
+                    "spin-resolved scanning tunnelling spectroscopy (STS)",
+                    "scanning Josephson tunnelling spectroscopy",
+                    "multi-probe STS"
+                ],
+                "environment": "ultra-high vacuum conditions",
+                "objectives": [
+                    "study Shiba bands formation",
+                    "examine zero-energy Majorana bound states",
+                    "construct model-type platforms (T-junctions, rings, networks)"
+                ],
+                "goals": [
+                    "manipulate and braid Majorana bound states",
+                    "probe magnetic state of atomic wires",
+                    "investigate spin-polarization of Majorana states",
+                    "explore spatial nature of superconducting order parameter",
+                    "directly probe quantum exchange statistics of non-Abelian anyons"
+                ],
+                "descriptions": [
+                    "Proposal to design Majorana bound states in artificially constructed single-atom chains."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Atomic-scale Design of Majorana states and their Innovative Real-space Exploration",
+            "proposal_details": {
+                "research_field": "condensed matter physics",
+                "key_operation": "braiding of non-Abelian anyons",
+                "quasiparticles": "zero-energy Majorana bound states",
+                "system_components": [
+                    "one-dimensional magnetic nanowires",
+                    "s-wave superconductors"
+                ],
+                "requirements": [
+                    "high spin-orbit coupling"
+                ],
+                "proposed_techniques": [
+                    "scanning tunnelling microscope (STM)-based atom manipulation"
+                ],
+                "study_focus": [
+                    "formation of Shiba bands",
+                    "emergence of zero-energy Majorana bound states"
+                ],
+                "factors_to_study": [
+                    "chain structure",
+                    "chain length",
+                    "chain composition"
+                ],
+                "model_platforms": [
+                    "T-junctions",
+                    "rings",
+                    "complex network structures"
+                ],
+                "experimental_techniques": [
+                    "spin-resolved scanning tunnelling spectroscopy (STS)",
+                    "scanning Josephson tunnelling spectroscopy",
+                    "multi-probe STS"
+                ],
+                "environment": "ultra-high vacuum conditions",
+                "measurement_goals": [
+                    "magnetic state of atomic wires",
+                    "spin-polarization of Majorana states",
+                    "spatial nature of superconducting order parameter"
+                ],
+                "ultimate_goal": "probe quantum exchange statistics of non-Abelian anyons"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8c881af8c0e8b95b50a30e361573f812",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAtomic-scale Design of Majorana states and their Innovative Real-space Exploration\n\n**Description:**\n\nFault-tolerant topological quantum computation has become one of the most exciting research directions in modern condensed matter physics. As a key operation the braiding of non-Abelian anyons has been proposed theoretically. Such exotic quasiparticles can be realized as zero-energy Majorana bound states at the ends of one-dimensional magnetic nanowires in proximity to s-wave superconductors in the presence of high spin-orbit coupling. In contrast to previous attempts to realize such systems experimentally, based on the growth of semiconducting nanowires or the self-assembly of ferromagnetic nanowires on s-wave superconductors, we propose to design Majorana bound states in artificially constructed single-atom chains with non-collinear spin-textures on elemental superconducting substrates using scanning tunnelling microscope (STM)-based atom manipulation techniques. We would like to study at the atomic level the formation of Shiba bands as a result of hybridization of individual Shiba impurity states as well as the emergence of zero-energy Majorana bound states as a function of chain structure, length, and composition. Moreover, we will construct model-type platforms, such as T-junctions, rings, and more complex network structures with atomic-scale precision as a basis for demonstrating the manipulation and braiding of Majorana bound states. We will make use of sophisticated experimental techniques, such as spin-resolved scanning tunnelling spectroscopy (STS) at micro-eV energy resolution, scanning Josephson tunnelling spectroscopy, and multi-probe STS under well-defined ultra-high vacuum conditions, in order to directly probe the nature of the magnetic state of the atomic wires, the spin-polarization of the emergent Majorana states, as well as the spatial nature of the superconducting order parameter in real space. Finally, we will try to directly probe the quantum exchange statistics of non-Abelian anyons in these atomically precise fabricated model-type systems."
+}

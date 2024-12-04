@@ -1,0 +1,93 @@
+{
+    "item_type": "proposal",
+    "title": "The Ocular Glymphatic System",
+    "descriptions": [
+        {
+            "proposal_name": "The Ocular Glymphatic System",
+            "proposal_details": {
+                "research_team_discovery": "Recently described glymphatic system by the team",
+                "glymphatic_system_function": "Clears 65% of amyloid-beta from the normal adult brain",
+                "related_literature": "Links major neurodegenerative diseases of the eye to uncleared protein wastes",
+                "diseases_in_focus": [
+                    "Macular degeneration",
+                    "Glaucoma"
+                ],
+                "absence_in_eye": "No traditional lymphatic vessels",
+                "proposal_hypothesis": "Macular degeneration and glaucoma are mechanistically allied disorders with a common causal pathway",
+                "therapeutic_target": "Dysregulation of the glymphatic pathway",
+                "objectives": {
+                    "WP1": "Define cellular mechanisms of ocular glymphatic transport of Amyloid-beta using ex vivo optic nerve",
+                    "WP2": "Establish existence of ocular glymphatic transport in live animals using MRI",
+                    "WP3": "Determine regulation of ocular glymphatic system by sleep-wake cycle",
+                    "WP4": "Test if age-dependent macular degeneration is caused by suppressed ocular glymphatic transport",
+                    "WP5": "Define impact of increased intraocular pressure on glymphatic export of amyloid-beta and its relation to glaucoma"
+                },
+                "descriptions": [
+                    "Proposal seeks to link new pathway for metabolic substrate and waste transport in brain to eye diseases"
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Ocular Glymphatic System",
+            "proposal_details": {
+                "descriptions": [
+                    "This proposal seeks to link the biology of a fundamentally new pathway for both metabolic substrate and waste transport in the adult brain, to diseases of the eye that have long been resistant to either understanding or treatment."
+                ],
+                "team_discovery": "glymphatic system",
+                "glymphatic_system_function": "fluid waste removal from the brain",
+                "amyloid_beta_clearance_percentage": 65,
+                "neurodegenerative_diseases": [
+                    "macular degeneration",
+                    "glaucoma"
+                ],
+                "protein_wastes": [
+                    "amyloid-beta"
+                ],
+                "ocular_glymphatic_system_hypothesis": "macular degeneration and glaucoma are mechanistically allied disorders that may be therapeutically modified by targeting dysregulation of the glymphatic pathway",
+                "objectives": {
+                    "WP1": "Define the cellular mechanisms that drive ocular glymphatic transport of Amyloid-beta using an ex vivo preparation of the optic nerve.",
+                    "WP2": "Use magnetic resonance imaging (MRI) to establish the existence of ocular glymphatic transport in live animals.",
+                    "WP3": "Determine whether the ocular glymphatic system, like the brain lymphatic system, is critically regulated by the sleep-wake cycle.",
+                    "WP4": "Test the hypothesis that age-dependent macular degeneration is caused by a suppression of ocular glymphatic transport, with secondary accumulation of toxic protein products in and subjacent to the retinal pigment epithelium.",
+                    "WP5": "Define the impact of increased intraocular pressure on glymphatic export of amyloid-beta, and test the hypothesis that the decrease in ocular glymphatic transport contributes to degeneration of retinal ganglion cells in glaucoma."
+                }
+            }
+        },
+        {
+            "proposal_name": "The Ocular Glymphatic System",
+            "proposal_details": {
+                "descriptions": [
+                    "The glymphatic system clears 65% of amyloid-beta from the normal adult brain."
+                ],
+                "objectives": [
+                    {
+                        "WP1": "Define the cellular mechanisms that drive ocular glymphatic transport of Amyloid-beta using an ex vivo preparation of the optic nerve."
+                    },
+                    {
+                        "WP2": "Use magnetic resonance imaging (MRI) to establish the existence of ocular glymphatic transport in live animals."
+                    },
+                    {
+                        "WP3": "Determine whether the ocular glymphatic system, like the brain lymphatic system, is critically regulated by the sleep-wake cycle."
+                    },
+                    {
+                        "WP4": "Test the hypothesis that age-dependent macular degeneration is caused by a suppression of ocular glymphatic transport, with secondary accumulation of toxic protein products in and subjacent to the retinal pigment epithelium."
+                    },
+                    {
+                        "WP5": "Define the impact of increased intraocular pressure on glymphatic export of amyloid-beta, and test the hypothesis that the decrease in ocular glymphatic transport contributes to degeneration of retinal ganglion cells in glaucoma."
+                    }
+                ],
+                "hypothesis": [
+                    "Macular degeneration and glaucoma are mechanistically allied disorders that share a common causal pathway and may both be therapeutically modified by targeting dysregulation of the glymphatic pathway."
+                ],
+                "significance": [
+                    "Link the biology of a new pathway for metabolic substrate and waste transport in the adult brain to diseases of the eye that have been resistant to understanding or treatment."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "11b6766617bc19117916de1fe3a2de90",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Ocular Glymphatic System\n\n**Description:**\n\nThe glymphatic system is a highly organized brain-wide mechanism by which fluid wastes are removed from the brain that was recently described by my team. The glymphatic system clears 65% of amyloid-beta from the normal adult brain. A rapidly evolving literature has shown that the major neurodegenerative diseases of the eye, macular degeneration and glaucoma, may also result from the toxicity of uncleared protein wastes, including amyloid-beta. Yet the eye, like the brain, has no traditional lymphatic vessels. In this application, I propose that two of the most significant causes of human visual loss, macular degeneration and glaucoma – previously thought of as both intractable and unrelated – are instead mechanistically allied disorders that not only share a common causal pathway, but may both be therapeutically modified by targeting dysregulation of the glymphatic pathway. As such, this proposal seeks to link the biology of a fundamentally new pathway for both metabolic substrate and waste transport in the adult brain, to diseases of the eye that have long been resistant to either understanding or treatment. The objectives: WP1: Define the cellular mechanisms that drive ocular glymphatic transport of Amyloid-beta using an ex vivo preparation of the optic nerve. WP2: Use magnetic resonance imaging (MRI) to establish the existence of ocular glymphatic transport in live animals. WP3: Determine whether the ocular glymphatic system, like the brain lymphatic system, is critically regulated by the sleep-wake cycle. WP4: Test the hypothesis that age-dependent macular degeneration is caused by a suppression of ocular glymphatic transport, with secondary accumulation of toxic protein products in and subjacent to the retinal pigment epithelium? WP5: Define the impact of increased intraocular pressure on glymphatic export of amyloid-beta, and test the hypothesis that the decrease in ocular glymphatic transport contributes to degeneration of retinal ganglion cells in glaucoma."
+}

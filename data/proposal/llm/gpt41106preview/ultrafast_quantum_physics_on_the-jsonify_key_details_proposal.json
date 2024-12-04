@@ -1,0 +1,146 @@
+{
+    "item_type": "proposal",
+    "title": "Ultrafast quantum physics on the sub-cycle time scale",
+    "descriptions": [
+        {
+            "proposal_name": "Ultrafast quantum physics on the sub-cycle time scale",
+            "proposal_details": {
+                "research_area": "Condensed matter physics",
+                "technologies_used": [
+                    "femtosecond light pulses",
+                    "sub-cycle optics",
+                    "terahertz technology",
+                    "nanooptics",
+                    "infrared pulses",
+                    "electro-optic sampling"
+                ],
+                "objectives": [
+                    "Control condensed matter faster than an oscillation cycle of light",
+                    "Explore non-adiabatic quantum physics",
+                    "Test concepts of relativistic quantum transport",
+                    "Switch the spin direction in magnetic materials",
+                    "Advance sensitivity of electro-optic sampling",
+                    "Detect quantum nature of the oscillating carrier wave in the time domain",
+                    "Trace spontaneous creation of photons out of quantum vacua"
+                ],
+                "focus_areas": [
+                    "electronic charge",
+                    "spin",
+                    "photons"
+                ],
+                "expected_outcomes": [
+                    "Understanding of Zitterbewegung of Dirac fermions",
+                    "Observation of Bloch oscillations in bulk semiconductors",
+                    "Record control speeds in spin direction switching",
+                    "Insight into the fastest magnetic elementary processes",
+                    "Detection of quantum vacua photon creation"
+                ],
+                "field_strengths": {
+                    "electric_fields": "10 GV/m",
+                    "magnetic_fields": "several 10 Tesla"
+                },
+                "descriptions": [
+                    "The project aims to pioneer the study of ultrafast dynamics of atomic constituents in condensed matter using sub-cycle optics to manipulate electronic charge, spin, and photons, and to uncover fundamental aspects of quantum physics."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Ultrafast quantum physics on the sub-cycle time scale",
+            "proposal_details": {
+                "field_of_study": "Condensed matter physics",
+                "techniques": [
+                    "Femtosecond light pulses",
+                    "Stroboscopic monitoring",
+                    "Sub-cycle optics",
+                    "Terahertz technology",
+                    "Nanooptics",
+                    "Electro-optic sampling"
+                ],
+                "objectives": [
+                    {
+                        "description": "Control condensed matter faster than an oscillation cycle of light using sub-cycle optics."
+                    },
+                    {
+                        "description": "Test unobserved concepts of relativistic quantum transport."
+                    },
+                    {
+                        "description": "Switch spin direction in magnetic materials using giant magnetic or electric fields."
+                    },
+                    {
+                        "description": "Advance sensitivity of electro-optic sampling to the few-photon level."
+                    }
+                ],
+                "fields_involved": [
+                    "Quantum electrodynamics",
+                    "Solid state physics",
+                    "Magnetism",
+                    "Quantum optics"
+                ],
+                "anticipated_outcomes": [
+                    {
+                        "outcome": "Observation of Zitterbewegung of Dirac fermions and Bloch oscillations in bulk semiconductors."
+                    },
+                    {
+                        "outcome": "Record control speeds in magnetic materials spin direction switching."
+                    },
+                    {
+                        "outcome": "Detection of the quantum nature of the oscillating carrier wave in the time domain."
+                    },
+                    {
+                        "outcome": "Tracing of spontaneous photon creation from quantum vacua."
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "description": "The project aims to pioneer non-adiabatic quantum physics of electronic charge and spin as well as photons by tailoring extreme electric and magnetic near-fields in all four spatio-temporal dimensions."
+                    }
+                ],
+                "intensity_of_light_pulses": "10 GV/m",
+                "magnitude_of_magnetic_fields": "Several 10 Tesla"
+            }
+        },
+        {
+            "proposal_name": "Ultrafast quantum physics on the sub-cycle time scale",
+            "proposal_details": {
+                "field": "Condensed Matter Physics",
+                "techniques": [
+                    "Sub-cycle optics",
+                    "Terahertz technology",
+                    "Nanooptics",
+                    "Phase-locked infrared pulses",
+                    "Electro-optic sampling"
+                ],
+                "objectives": [
+                    "Control condensed matter within a light oscillation cycle",
+                    "Explore non-adiabatic quantum physics",
+                    "Optical acceleration of electrons in sub-cycle limit",
+                    "Switch spin direction in magnetic materials",
+                    "Detect quantum nature of oscillating carrier wave in the time domain",
+                    "Trace spontaneous photon creation from quantum vacua"
+                ],
+                "applications": [
+                    "Relativistic quantum transport",
+                    "Quantum electrodynamics",
+                    "Solid state physics",
+                    "Magnetism",
+                    "Field resolved quantum optics"
+                ],
+                "expected_outcomes": [
+                    "Test Zitterbewegung of Dirac fermions",
+                    "Observe Bloch oscillations in bulk semiconductors",
+                    "Achieve record control speeds in magnetic materials",
+                    "Magnetic fields of several 10 Tesla",
+                    "Electric fields of 10 GV/m"
+                ],
+                "descriptions": [
+                    "The proposal aims to pioneer quantum physics of electronic charge, spin and photons on a time scale faster than an oscillation cycle of light."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "98f8ef87f7ef7ff256f3353a195e27fb",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nUltrafast quantum physics on the sub-cycle time scale\n\n**Description:**\n\nThe physics of condensed matter depends on ultrafast dynamics of its atomic constituents. Femtosecond light pulses have been exploited to monitor these phenomena by stroboscopic means. Yet, the time resolution is limited by the duration of the intensity envelope of the light pulses used. We propose a new class of sub-cycle optics, which harnesses the absolute optical phase and amplitude of ultrashort transients to control condensed matter faster than an oscillation cycle of light. Merging latest terahertz technology with nanooptics, we tailor extreme electric and magnetic near-fields of phase-locked infrared pulses in all four spatio-temporal dimensions. This unprecedented laboratory allows us to pioneer long sought-after non-adiabatic quantum physics of all relevant elementary degrees of freedom: electronic charge and spin as well as photons. (i) Optical acceleration of electrons in the sub-cycle limit will permit to test yet unobserved key concepts of relativistic quantum transport, such as Zitterbewegung of Dirac fermions and Bloch oscillations in bulk semiconductors. (ii) We aim to switch the spin direction in magnetic materials by giant magnetic or electric fields, of 10 GV/m and several 10 Tesla, promising record control speeds and unique vistas onto the fastest magnetic elementary processes. (iii) By advancing the sensitivity of electro-optic sampling to the few-photon level the quantum nature of the oscillating carrier wave will be detected in the time domain. Spontaneous creation of photons out of quantum vacua, reminiscent of Hawking radiation of black holes, may be traced. The project breaks grounds for basic research, shedding new light onto the foundations of quantum electrodynamics, solid state physics and magnetism, as well as a new kind of field resolved quantum optics."
+}

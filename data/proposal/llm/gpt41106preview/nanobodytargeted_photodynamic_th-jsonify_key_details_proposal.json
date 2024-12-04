@@ -1,0 +1,167 @@
+{
+    "item_type": "proposal",
+    "title": "Nanobody-targeted photodynamic therapy to kill cancer",
+    "descriptions": [
+        {
+            "proposal_name": "Nanobody-targeted photodynamic therapy to kill cancer",
+            "proposal_details": {
+                "goals": [
+                    "Locally eradicate cancer",
+                    "Induce long term protection through immune system activation"
+                ],
+                "treatment_method": "Photodynamic therapy (PDT)",
+                "current_issue": [
+                    "Lack of cancer specificity in photosensitizers",
+                    "Prolonged photosensitivity in patients"
+                ],
+                "innovation": [
+                    "Targeted PDT using nanobodies",
+                    "Nanobodies that bind rapidly and specifically to cancer cells",
+                    "Photosensitizer traceable by optical imaging"
+                ],
+                "aims": [
+                    "Understand and advance nanobody-targeted PDT for complete cancer eradication",
+                    "Facilitate clinical translation"
+                ],
+                "strategies": [
+                    {
+                        "objective": "Increase accumulation of photosensitizer",
+                        "method": "Develop novel nanobody-photosensitizer conjugates",
+                        "targets": [
+                            "Cancer cells",
+                            "Cancer stem cells",
+                            "Endothelial cells"
+                        ],
+                        "evaluation": "Efficacy in mice with human carcinomas"
+                    },
+                    {
+                        "objective": "Investigate immune system activation",
+                        "question": "Does nanobody-targeted PDT trigger systemic immune response or are additional triggers needed?"
+                    },
+                    {
+                        "objective": "Study the effect in a clinical setting",
+                        "subjects": "Dogs with oral or colorectal cancers",
+                        "evaluation": "Monitoring cancer regression or disappearance"
+                    }
+                ],
+                "expected_outcome": [
+                    "Advance the field of nanobody-targeted PDT",
+                    "Provide information on mechanism of action",
+                    "Assess feasibility in human cancer patients"
+                ],
+                "descriptions": [
+                    "This research aims to scientifically advance the new field of nanobody-targeted PDT and improve current cancer treatment."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Nanobody-targeted photodynamic therapy to kill cancer",
+            "proposal_details": {
+                "goals": [
+                    "Locally eradicate cancer",
+                    "Induce long term immune protection"
+                ],
+                "methodology": [
+                    "Use of photosensitizers activated by light exposure",
+                    "Targeted PDT with nanobodies"
+                ],
+                "innovations": [
+                    "Improved cancer specificity",
+                    "Homogenous nanobody distribution",
+                    "Rapid and specific cancer cell binding",
+                    "Optically traceable photosensitizer"
+                ],
+                "aims": [
+                    {
+                        "aim": "Increase photosensitizer accumulation",
+                        "methods": [
+                            "Develop novel nanobody-photosensitizer conjugates"
+                        ],
+                        "targets": [
+                            "Cancer cells",
+                            "Cancer stem cells",
+                            "Endothelial cells"
+                        ],
+                        "evaluation": "Efficacy in mice with human carcinomas"
+                    },
+                    {
+                        "aim": "Investigate immune system activation",
+                        "methods": [
+                            "Determine if nanobody-targeted PDT triggers systemic immune response"
+                        ],
+                        "additional_triggers": "Assess need for"
+                    },
+                    {
+                        "aim": "Study the effect in dogs with cancer",
+                        "methods": [
+                            "Treat dogs with oral or colorectal cancers"
+                        ],
+                        "evaluation": "Monitor cancer regression or disappearance"
+                    }
+                ],
+                "expected_outcomes": [
+                    "Advance the field of nanobody-targeted PDT",
+                    "Provide information on mechanism of action",
+                    "Assess feasibility in human cancer patients",
+                    "Improve current cancer treatment"
+                ],
+                "descriptions": [
+                    "This proposal aims to advance nanobody-targeted photodynamic therapy (PDT) for cancer eradication and to facilitate its clinical translation."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Nanobody-targeted photodynamic therapy to kill cancer",
+            "proposal_details": {
+                "descriptions": [
+                    "Current cancer therapies often fail to cure patients."
+                ],
+                "aims": [
+                    "To better understand and to advance nanobody-targeted PDT to ensure complete cancer eradication",
+                    "To facilitate its clinical translation"
+                ],
+                "strategies": [
+                    {
+                        "development": [
+                            "Novel nanobody-photosensitizer conjugates"
+                        ],
+                        "targets": [
+                            "Cancer cells",
+                            "Cancer stem cells",
+                            "Endothelial cells"
+                        ],
+                        "evaluation": [
+                            "Efficacy in mice bearing human carcinomas"
+                        ]
+                    },
+                    {
+                        "investigation": [
+                            "Immune system activation"
+                        ],
+                        "query": [
+                            "Whether nanobody-targeted PDT triggers a systemic immune response or if additional triggers are needed"
+                        ]
+                    },
+                    {
+                        "study": [
+                            "Effect of nanobody-targeted PDT in dogs with oral or colorectal cancers"
+                        ],
+                        "evaluation": [
+                            "Monitoring cancer regression or disappearance"
+                        ]
+                    }
+                ],
+                "outcomes": [
+                    "Scientific advancement in the field of nanobody-targeted PDT",
+                    "Essential information on mechanism of action",
+                    "Feasibility in human cancer patients"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "fc5da75a58d2a373e16d050565ee1253",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNanobody-targeted photodynamic therapy to kill cancer\n\n**Description:**\n\nCurrent cancer therapies often fail to cure patients. Ideally, therapy should locally eradicate cancer and should be capable of inducing long term protection, through activation of the immune system. Photodynamic therapy (PDT) is a treatment approach in which cancer cells are killed with compounds, named photosensitizers that are activated locally through light exposure. Importantly, PDT eradication of cancers commonly involves the immune system. However, current photosensitizers lack cancer specificity, which limits therapeutic efficacy and prolongs photosensitivity in patients. Recently, I have developed an improved version of targeted PDT that uses very small antibodies i.e. nanobodies that distribute homogenously, bind rapidly and specifically to cancer cells, and a photosensitizer that can be traced by optical imaging to guide the application of PDT. The aims of this proposal are to better understand and to advance nanobody-targeted PDT to ensure complete cancer eradication, and to facilitate its clinical translation. This will be achieved by: 1) Exploring the increased accumulation of photosensitizer through development of novel nanobody-photosensitizer conjugates to bind to cancer cells, cancer stem cells, and endothelial cells. These combinations will be evaluated for their efficacy in mice bearing human carcinomas; 2) Investigating the immune system activation to determine if, as other PDT, nanobody-targeted PDT triggers a systemic immune response, or if additional triggers are needed; 3) Studying the effect of nanobody-targeted PDT in dogs entering the veterinary clinic with oral or colorectal cancers. Treatment efficacy will be evaluated by monitoring cancer regression or disappearance. The outcome of this research will scientifically advance the new field of nanobody-targeted PDT, by providing essential information on its mechanism of action and the feasibility of this approach in human cancer patients, to ultimately improve current cancer treatment."
+}

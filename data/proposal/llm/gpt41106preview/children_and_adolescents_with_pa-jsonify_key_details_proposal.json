@@ -1,0 +1,143 @@
+{
+    "item_type": "proposal",
+    "title": "Children and Adolescents with PaRental mental Illness: Understanding the ‘who’ and ‘how’ of targeting interventions",
+    "descriptions": [
+        {
+            "proposal_name": "Children and Adolescents with PaRental mental Illness: Understanding the ‘who’ and ‘how’ of targeting interventions",
+            "proposal_details": {
+                "percent_mothers_with_mental_illness": 10,
+                "percent_fathers_with_mental_illness": 5,
+                "affected_areas": [
+                    "family",
+                    "educational",
+                    "social"
+                ],
+                "concerns": [
+                    "urgent political",
+                    "public health"
+                ],
+                "report": "Child and Adolescent Mental Health in Europe (CAMHEE)",
+                "recommendations": [
+                    "acknowledge and attend to needs of children and families with parental mental health",
+                    "better information on CAPRI risks and resilience"
+                ],
+                "programme_disciplines": [
+                    "epidemiology",
+                    "neuroscience"
+                ],
+                "work_packages": [
+                    {
+                        "wp_number": 1,
+                        "description": "Create linkage across 3 population datasets in Sweden and Australia",
+                        "outcome": "Detail CAPRI numbers and range of life outcomes"
+                    },
+                    {
+                        "wp_number": 2,
+                        "description": "Disentangle effects of social adversity over time"
+                    },
+                    {
+                        "wp_number": 3,
+                        "description": "Link epidemiology with neuroimaging (NIRS) to identify abnormal cognitive development in at-risk infants"
+                    }
+                ],
+                "institution": "University of Manchester",
+                "centre_creation": "new Centre in Bioepidemiology",
+                "future_aim": "Combine epidemiological profiling with NIRS biomarkers to identify high risk children in need of intervention",
+                "research_goal": "Improve life outcomes of CAPRI"
+            }
+        },
+        {
+            "proposal_name": "Children and Adolescents with PaRental mental Illness: Understanding the ‘who’ and ‘how’ of targeting interventions",
+            "proposal_details": {
+                "percent_mothers_with_mental_illness": 10,
+                "percent_fathers_with_mental_illness": 5,
+                "key_concerns": [
+                    "deprivation",
+                    "repeated hospitalisation"
+                ],
+                "report_name": "Child and Adolescent Mental Health in Europe (CAMHEE)",
+                "report_recommendations": [
+                    "better information on CAPRI risks and resilience",
+                    "target interventions for those at highest risk"
+                ],
+                "programme_disciplines": [
+                    "epidemiology",
+                    "neuroscience"
+                ],
+                "work_packages": [
+                    {
+                        "WP_number": 1,
+                        "description": "Create unique linkage across 3 population datasets in Sweden and Australia to detail CAPRI numbers and a broad range of life outcomes, disentangling effects of social adversity over time."
+                    },
+                    {
+                        "WP_number": 2,
+                        "description": "Similar to WP1 with unspecified additional details."
+                    },
+                    {
+                        "WP_number": 3,
+                        "description": "Link epidemiology with neuroimaging (NIRS) to discover abnormal cognitive development in at-risk infants of mothers with severe mental illness at the individual brain level."
+                    }
+                ],
+                "institution": "University of Manchester",
+                "centre_to_establish": "Centre in Bioepidemiology",
+                "future_aims": [
+                    "Epidemiological profiling with NIRS biomarkers to identify high risk children needing intervention.",
+                    "Evaluate different interventions."
+                ],
+                "research_goal": "Improve life outcomes of CAPRI"
+            }
+        },
+        {
+            "proposal_name": "Children and Adolescents with PaRental mental Illness: Understanding the ‘who’ and ‘how’ of targeting interventions",
+            "proposal_details": {
+                "percent_mothers_with_mental_illness": 10,
+                "percent_fathers_with_mental_illness": 5,
+                "concerns": [
+                    "deprivation",
+                    "repeated hospitalisation"
+                ],
+                "report": "Child and Adolescent Mental Health in Europe (CAMHEE)",
+                "recommendations": [
+                    "acknowledge and attend to the needs of children and families with parental mental health",
+                    "better information on CAPRI risks and resilience"
+                ],
+                "objectives": [
+                    "detail CAPRI numbers",
+                    "detail a broad range of life outcomes",
+                    "disentangle effects of social adversity over time"
+                ],
+                "work_packages": [
+                    {
+                        "WP_number": 1,
+                        "description": "Create unique linkage across 3 population datasets in Sweden and Australia."
+                    },
+                    {
+                        "WP_number": 2,
+                        "description": "Detail CAPRI numbers and a broad range of life outcomes disentangling effects of social adversity over time."
+                    },
+                    {
+                        "WP_number": 3,
+                        "description": "Link epidemiology with neuroimaging (NIRS) to discover abnormal cognitive development in at-risk infants of mothers with severe mental illness."
+                    }
+                ],
+                "institution": "University of Manchester",
+                "aims": [
+                    "epidemiological profiling",
+                    "NIRS biomarkers of cognition in individuals"
+                ],
+                "future_work": [
+                    "evaluate different interventions",
+                    "improve the life outcomes of CAPRI"
+                ],
+                "descriptions": [
+                    "This groundbreaking interdisciplinary programme exploits my unique combination of expertise in epidemiology and neuroscience to deliver on CAMHEE objectives for CAPRI."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f0f0ae9156c8b4410a5b87546a36914d",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nChildren and Adolescents with PaRental mental Illness: Understanding the ‘who’ and ‘how’ of targeting interventions\n\n**Description:**\n\nAt least 10% of mothers and 5% of fathers have a mental illness. Family, educational and social lives of children and adolescents with parental mental illness (CAPRI) are disrupted by deprivation and repeated hospitalisation. This is an urgent political and public health concern. The Child and Adolescent Mental Health in Europe (CAMHEE) report urges us ‘to acknowledge and attend to the needs of children and families with parental mental health.. ’ recommending better information on CAPRI risks and resilience so interventions can target those at highest risk. This groundbreaking interdisciplinary programme exploits my unique combination of expertise in epidemiology and neuroscience to deliver on CAMHEE objectives for CAPRI. Previous work focuses on these ‘high risk’ children primarily to examine mental illness heritability. In a crucial departure from this, Work Packages (WP) 1 and 2 exploit my collaborations in Sweden and Australia to create unique linkage across 3 population datasets. This will detail CAPRI numbers and a broad range of life outcomes disentangling effects of social adversity over time. But population epidemiology alone cannot reveal how risk creates effects in individuals. To understand ‘how’ to identify ‘who’ we target for costly interventions, WP 3 links the epidemiology with powerful neuroimaging (near infrared spectroscopy NIRS) to discover which at-risk infants of mothers with severe mental illness show abnormal cognitive development at the level of individual brain. This work capitalises on my role at the University of Manchester, one of the leading academic psychiatry and imaging centres in the UK, to create a new Centre in Bioepidemiology. My future aim is that epidemiological profiling combined with NIRS biomarkers of cognition in individuals will identify which high risk children need what intervention. Future work can then evaluate different interventions and fits seamlessly with my research goal to improve the life outcomes of CAPRI."
+}

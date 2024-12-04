@@ -1,0 +1,127 @@
+{
+    "item_type": "proposal",
+    "title": "Identification and targeting of somatic changes initiating sporadic cancers",
+    "descriptions": [
+        {
+            "proposal_name": "Identification and targeting of somatic changes initiating sporadic cancers",
+            "proposal_details": {
+                "ineffectiveness_of_cancer_drugs": true,
+                "current_therapy_limitations": [
+                    "cellular heterogeneity"
+                ],
+                "research_approaches": [
+                    "hypothesis-driven",
+                    "functional genomics"
+                ],
+                "challenges": [
+                    "lack of rationale for heterogeneity",
+                    "difficulty in target selection",
+                    "design of combination therapies",
+                    "adjuvant therapy post-curative resection",
+                    "prevention of manifest metastasis"
+                ],
+                "novel_approach_proposed": true,
+                "premises": [
+                    "cancer initiation linked to genetic changes",
+                    "early genetic changes are functionally relevant and likely shared",
+                    "progression depends on fitness-enhancing or neutral genetic changes"
+                ],
+                "observations": {
+                    "subgroup_of_DCCs_with_normal_karyotypes": true,
+                    "significant_DNA_changes": "<10Mb",
+                    "comparison_with_primary_tumours_and_advanced_DCCs": "multiple additional chromosomal changes"
+                },
+                "proposed_relevance_of_DCCs": "uncover early genetic changes",
+                "goals": [
+                    "catalogue initiating changes of sporadic cancers",
+                    "test function of early aberrations",
+                    "perform functional viability screens",
+                    "develop novel systemic therapies"
+                ],
+                "target": "shared critical alteration",
+                "descriptions": [
+                    "Development of a rationale for adjuvant therapies to address cancer cell heterogeneity."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Identification and targeting of somatic changes initiating sporadic cancers",
+            "proposal_details": {
+                "ineffectiveness_of_cancer_drugs": true,
+                "current_therapies_not_addressing": "cellular heterogeneity",
+                "research_types": [
+                    "hypothesis-driven",
+                    "functional genomics"
+                ],
+                "challenges": [
+                    "addressing cellular heterogeneity in cancer",
+                    "selecting promising therapeutic targets",
+                    "designing combination therapies",
+                    "providing successful adjuvant therapy after curative resection"
+                ],
+                "proposal_basis": [
+                    "cancer initiation associated with genetic changes",
+                    "early genetic changes likely shared among mono-clonal cancer progeny",
+                    "progression requires genetic changes to add fitness or be neutral"
+                ],
+                "observation": {
+                    "subgroup_of_DCCs_with_normal_karyotypes": true,
+                    "DNA_changes_smaller_than": "10 Mb",
+                    "comparison_with_primary_tumours_and_advanced_DCCs": "multiple additional chromosomal changes"
+                },
+                "hypothesis": "karyotypically normal DCCs are central to uncovering early genetic changes",
+                "objectives": [
+                    "identify initiating changes of sporadic cancers systematically",
+                    "test function of early aberrations",
+                    "perform functional viability screens",
+                    "develop novel systemic therapies targeting critical alteration"
+                ],
+                "target": "Achilles’ heel of a given cancer",
+                "descriptions": [
+                    "A novel approach to address cancer cell heterogeneity and develop a rationale for the design of adjuvant therapies."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Identification and targeting of somatic changes initiating sporadic cancers",
+            "proposal_details": {
+                "effectiveness_of_current_cancer_drugs": "extremely ineffective",
+                "problems_unaddressed_by_current_therapies": [
+                    "cellular heterogeneity"
+                ],
+                "emerging_research_fields": [
+                    "hypothesis-driven research",
+                    "functional genomics"
+                ],
+                "gap_in_scientific_community": [
+                    "rationale to attack the cellular heterogeneity in cancer",
+                    "selection of most promising therapeutic targets",
+                    "design of combination therapies",
+                    "adjuvant therapy settings post-curative resection pre-manifest metastasis"
+                ],
+                "novel_proposal_basics": [
+                    "genetic changes cause cancer initiation",
+                    "early genetic changes are functionally relevant",
+                    "genetic changes must improve or not hinder cell fitness for progression"
+                ],
+                "observations": {
+                    "subgroup_of_DCCs": "karyotypically normal",
+                    "size_of_DNA_changes_in_DCCs": "< 10 Mb",
+                    "comparison_with_primary_tumors": "multiple additional chromosomal changes at analysis time"
+                },
+                "hypothesis_about_DCCs": "karyotypically normal DCCs are central to uncovering early genetic changes",
+                "research_goals": [
+                    "catalogue of initiating changes of sporadic cancers",
+                    "test function of early aberrations",
+                    "perform functional viability screens"
+                ],
+                "development_aims": "novel systemic therapies targeting cancer's shared critical alteration"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "80fcfb6ace65645d86cd6b0547662d6a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nIdentification and targeting of somatic changes initiating sporadic cancers\n\n**Description:**\n\nCancer drugs are extremely ineffective, generally because current therapies do not address cellular heterogeneity. While hypothesis-driven research and functional genomics identify ever more novel putative therapeutic targets, the scientific community lacks rationales to attack the cellular heterogeneity in cancer, to select among the targets the most promising, and to design combination therapies. In particular, these all fail to provide successful adjuvant therapy settings after curative resection of the primary tumour before the onset of manifest metastasis. Here I propose a novel way to address cancer cell heterogeneity and to develop a rationale for the design of adjuvant therapies. The proposal rests upon the premises that (i) cancer initiation is causally associated with genetic changes, (ii) early, functionally relevant genetic changes -particularly involving DNA loss- have the highest probability to be shared among the progeny of a monoclonal, yet genetically unstable, cancer, and (iii) subsequent, cumulative genetic changes must either add to the fitness of the cell or at least be neutral to enable progression. The proposal is then built upon our observation that a subgroup of disseminated cancer cells (DCCs) displays normal karyotypes and DNA changes smaller than 10 Mb whilst primary tumours and more advanced DCCs harbour multiple additional chromosomal changes at the time of analysis. I suggest that although these karyotypically normal DCCs are the putative “loser cells” in cancer progression - since they are arrested in bone marrow - they are central to uncovering the early genetic changes of an individual cancer. With these cells we will identify for the first time the catalogue of initiating changes of sporadic cancers in a systematic way. We will then test the function of the early aberrations and perform functional viability screens to develop novel systemic therapies that target the Achilles’ heel of a given cancer: its shared critical alteration."
+}

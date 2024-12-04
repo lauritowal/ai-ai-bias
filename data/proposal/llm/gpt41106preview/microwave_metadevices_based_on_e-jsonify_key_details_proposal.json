@@ -1,0 +1,129 @@
+{
+    "item_type": "proposal",
+    "title": "Microwave Metadevices based on Electrically Tunable organic Ion-electron Conductors",
+    "descriptions": [
+        {
+            "proposal_name": "Microwave Metadevices based on Electrically Tunable organic Ion-electron Conductors",
+            "proposal_details": {
+                "acronym": "MiMETIC",
+                "aims": [
+                    "Lay the foundation for a new generation of electrically reconfigurable microwave devices",
+                    "Study fundamental properties of organic mixed ion-electron conductors in the microwave spectrum",
+                    "Explore the implications of metadevice tuning strategy in various fields"
+                ],
+                "fields_of_implication": [
+                    "Tunable/programmable metasurfaces for large-area microwave optics",
+                    "Wireless communication",
+                    "Untethered bioelectronic interfaces"
+                ],
+                "objectives": [
+                    {
+                        "objective_id": "i",
+                        "frequency_range": "1-100 GHz",
+                        "context": "Validation of metadevice tuning strategy",
+                        "relevance": "Wireless technologies such as 5G and 6G"
+                    },
+                    {
+                        "objective_id": "ii",
+                        "techniques": "High-throughput deposition techniques",
+                        "product": "Reconfigurable metasurfaces on large-area and thin flexible substrates"
+                    },
+                    {
+                        "objective_id": "iii",
+                        "innovations": [
+                            "A novel class of microwave devices and metadevices",
+                            "Wireless bioelectronic interfaces for healthcare",
+                            "Distributed sensing",
+                            "Neuromorphic and exotic photonics"
+                        ]
+                    }
+                ],
+                "expected_outcomes": [
+                    "New generation of microwave devices and metadevices",
+                    "Enhanced pervasiveness and utility",
+                    "New interdisciplinary research opportunities"
+                ],
+                "descriptions": [
+                    "Expand the technological significance of organic mixed ion-electron conductors"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Microwave Metadevices based on Electrically Tunable organic Ion-electron Conductors",
+            "proposal_details": {
+                "acronym": "MiMETIC",
+                "objectives": [
+                    {
+                        "objective_id": "i",
+                        "description": "Microwave characterization of organic mixed conductors across the 1-100 GHz range."
+                    },
+                    {
+                        "objective_id": "ii",
+                        "description": "Realization of reconfigurable metasurfaces on large-area and thin flexible substrates using high-throughput deposition techniques."
+                    },
+                    {
+                        "objective_id": "iii",
+                        "description": "Demonstration of a new class of microwave devices and metadevices exploiting organic mixed conductors."
+                    }
+                ],
+                "applications": [
+                    "Tunable/programmable metasurfaces for large-area microwave optics",
+                    "Wireless communication",
+                    "Untethered bioelectronic interfaces"
+                ],
+                "fields": [
+                    "Printed electronics",
+                    "Energy harvesting",
+                    "Organic bioelectronics",
+                    "Neuromorphic devices"
+                ],
+                "relevance": [
+                    "5G and 6G wireless technologies"
+                ],
+                "technologies": [
+                    "Organic electrochemical transistors",
+                    "Organic mixed ion-electron conductors"
+                ],
+                "descriptions": [
+                    "The project aims to establish a new generation of microwave devices actively tuned by organic electrochemical transistors."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Microwave Metadevices based on Electrically Tunable organic Ion-electron Conductors",
+            "proposal_details": {
+                "project_name": "MiMETIC",
+                "aims": [
+                    "Lay the foundation for a new generation of electrically reconfigurable microwave devices",
+                    "Study the fundamental properties of organic mixed ion-electron conductors in the microwave spectrum",
+                    "Explore novel metadevice tuning strategies within tunable/programmable metasurfaces, wireless communication, and bioelectronic interfaces",
+                    "Address the potential of organic electronic materials and transistors in microwave technology"
+                ],
+                "objectives": [
+                    "Microwave characterization of organic mixed conductors across the 1-100 GHz range",
+                    "Realization of reconfigurable metasurfaces on large-area and thin flexible substrates using high-throughput deposition techniques",
+                    "Demonstration of a novel class of microwave devices and metadevices leveraging organic mixed conductors"
+                ],
+                "applications": [
+                    "Wireless bioelectronic interfaces for healthcare",
+                    "Distributed sensing",
+                    "Neuromorphic and exotic photonics"
+                ],
+                "expected_impact": [
+                    "Validating metadevice tuning strategy for wireless technologies such as 5G and 6G",
+                    "Enhancing the technological significance of organic mixed ion-electron conductors",
+                    "Establishing a new generation of microwave devices and metadevices",
+                    "Creating new interdisciplinary research opportunities"
+                ],
+                "descriptions": [
+                    "MiMETIC will expand the technological significance of organic mixed ion-electron conductors, enabling a new generation of microwave metadevices with enhanced pervasiveness and utility."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8016a2f149d5528e5d815fa27685007d",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMicrowave Metadevices based on Electrically Tunable organic Ion-electron Conductors\n\n**Description:**\n\nMiMETIC will lay the foundation for a new generation of electrically reconfigurable microwave devices actively tuned by organic electrochemical transistors, a class of electronic devices that exploits the unique properties of organic mixed ion-electron conductors. The project will study the unexplored fundamental properties of these emerging materials in the microwave spectrum, as well as address the groundbreaking implications of this novel metadevice tuning strategy within the fields of tunable/programmable metasurfaces for large-area microwave optics, wireless communication and untethered bioelectronic interfaces. Indeed, despite their widespread use in printed electronics, energy harvesting, organic bioelectronics and neuromorphic devices, the exceptional potential of organic electronic materials and transistors has in fact been largely overlooked in the context of microwave technology. The ambitious plan of MiMETIC has thus the following objectives: i) the microwave characterization of organic mixed conductors across the 1-100 GHz range, thus validating this metadevice tuning strategy in a frequency range that is expected to have significant relevance for present and future wireless technologies (e.g. 5G and 6G); ii) the realization of reconfigurable metasurfaces on large-area and thin flexible substrates, adopting only high-throughput deposition techniques; iii) the demonstration of a novel class of microwave devices and metadevices that exploit the unique capabilities of organic mixed conductors, in particular towards the realization of wireless bioelectronic interfaces for healthcare and distributed sensing, as well as of neuromorphic and exotic photonics. MiMETIC will thus expand the already remarkable technological significance of organic mixed ion-electron conductors by establishing a new generation of microwave devices and metadevices with radically enhanced pervasiveness and utility, as well as create new interdisciplinary research opportunities."
+}

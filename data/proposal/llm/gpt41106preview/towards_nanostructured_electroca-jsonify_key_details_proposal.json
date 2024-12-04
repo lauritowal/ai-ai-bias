@@ -1,0 +1,163 @@
+{
+    "item_type": "proposal",
+    "title": "Towards Nanostructured Electrocatalysts with Superior Stability",
+    "descriptions": [
+        {
+            "proposal_name": "Towards Nanostructured Electrocatalysts with Superior Stability",
+            "proposal_details": {
+                "progress_over_decades": true,
+                "focus_on_solid_liquid_interfaces": true,
+                "understanding_of_activity_principles": true,
+                "lack_of_stability_fundamentals": true,
+                "project_name": "123STABLE",
+                "methods": [
+                    "identical_location",
+                    "online_monitoring",
+                    "modeling"
+                ],
+                "base_material": "noble metals",
+                "particle_type": "nanoparticles",
+                "equipment": [
+                    "state-of-the-art electron microscopy",
+                    "electrochemical flow cell",
+                    "online mass spectrometers"
+                ],
+                "approach_features": {
+                    "sensitivity_levels": "picogram",
+                    "scale": "sub-atomic",
+                    "insights_type": [
+                        "corrosion",
+                        "reconstruction"
+                    ],
+                    "observation_timing": [
+                        "before",
+                        "after"
+                    ],
+                    "treatment_type": "electrochemical"
+                },
+                "stabilization_strategies": [
+                    "doping",
+                    "decoration",
+                    "synthetic_modification"
+                ],
+                "model_system": [
+                    "platinum-based nanostructures",
+                    "iridium-based nanostructures"
+                ],
+                "applications": "electrification of society through the Hydrogen economy",
+                "importance_of_stability": true,
+                "supply_issues": {
+                    "scarcity": true,
+                    "rare": true,
+                    "uneven_geological_distribution": true
+                }
+            }
+        },
+        {
+            "proposal_name": "Towards Nanostructured Electrocatalysts with Superior Stability",
+            "proposal_details": {
+                "project_name": "123STABLE",
+                "focus": [
+                    "identical location",
+                    "online monitoring",
+                    "modeling"
+                ],
+                "techniques": [
+                    "electron microscopy",
+                    "electrochemical flow cell",
+                    "online mass spectrometers"
+                ],
+                "sensitivity_level": "picogram",
+                "scale": "sub-atomic",
+                "insights": [
+                    "corrosion",
+                    "reconstruction"
+                ],
+                "material_modifications": [
+                    "doping",
+                    "decoration",
+                    "synthetic modification"
+                ],
+                "nanoparticle_features": [
+                    "size",
+                    "shape"
+                ],
+                "stabilization_strategy": "blockage of defected sites",
+                "model_systems": [
+                    "platinum-based nanostructures",
+                    "iridium-based nanostructures"
+                ],
+                "application": "electrification of society through the Hydrogen economy",
+                "stability_issue": "insufficient electrochemical stability",
+                "supply_challenge": "scarce and uneven geological distribution"
+            }
+        },
+        {
+            "proposal_name": "Towards Nanostructured Electrocatalysts with Superior Stability",
+            "proposal_details": {
+                "decades_of_progress": true,
+                "focus": [
+                    "structure-activity relationships",
+                    "structure-stability relationships"
+                ],
+                "project_name": "123STABLE",
+                "methods": [
+                    "identical location",
+                    "online monitoring",
+                    "modeling"
+                ],
+                "materials": [
+                    "noble metals based nanoparticles"
+                ],
+                "equipment": [
+                    "state-of-the-art electron microscopy",
+                    "online mass spectrometers"
+                ],
+                "techniques": [
+                    "electrochemical flow cell"
+                ],
+                "sensitivity_levels": "picogram",
+                "scale": "sub-atomic",
+                "processes": [
+                    "corrosion",
+                    "reconstruction"
+                ],
+                "observations": "same nanoparticles before and after electrochemical treatment",
+                "atomic_features": [
+                    "weak",
+                    "stable"
+                ],
+                "modification_methods": [
+                    "doping",
+                    "decoration",
+                    "synthetic modification"
+                ],
+                "nanoparticle_features": [
+                    "size",
+                    "shape"
+                ],
+                "vulnerable_sites": [
+                    "steps",
+                    "kinks"
+                ],
+                "model_system": [
+                    "platinum-based nanostructures",
+                    "iridium-based nanostructures"
+                ],
+                "applications": [
+                    "electrification of society",
+                    "Hydrogen economy"
+                ],
+                "stability_issues": true,
+                "resource_scarcity": true,
+                "geological_distribution": "rare and uneven",
+                "importance": "increase in stability"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ab8567a68e05e91e844e682822455dac",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTowards Nanostructured Electrocatalysts with Superior Stability\n\n**Description:**\n\nIn the last decades, significant progress has been made on understanding and controlling solid/liquid electrochemical interfaces at atomic levels. As the principles guiding the activity of electrochemical reactions are quite well established (structure-activity relationships), the fundamentals of stability are still poorly understood (structure-stability relationships). 123STABLE proposes to employ (1) identical location, (2) online monitoring and (3) modeling of noble metals based nanoparticles changes with the state-of-the-art electron microscopy equipment and online dissolution and evolution analytics using electrochemical flow cell coupled to online mass spectrometers. Projects unique methodology approach with picogram sensitivity levels, in combination with sub-atomic scale microscopy insights and simulations, promises novel atomistic insights into the corrosion and reconstruction of noble metals in electrochemical environments. This unique approach is based on observations of the same nanoparticles before and after electrochemical treatment where weak and stable atomic features and events can be recognized, followed, understood and finally utilized. Upon (1) doping, (2) decoration and/or (3) other synthetic modification of nanoparticles like a change in size and shape further stabilization is envisioned. For instance, blockage of nanoparticle vulnerable defected sites like steps or kinks by more noble metal could stop or significantly slow down their degradation. The 123STABLE project will feature platinum- and iridium-based nanostructures as a model system to introduce a unique “123” approach, as they still possess the best electrocatalytic properties for the future electrification of society through the Hydrogen economy. However, their electrochemical stability is still not sufficient. Coupled with the fact that their supply is hindered by extremely scarce, rare and uneven geological distribution, the increase in their stability is of immense importance."
+}

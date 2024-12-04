@@ -1,0 +1,139 @@
+{
+    "item_type": "proposal",
+    "title": "Metal-Organic REagents for Light-Enabled Shuttling of protons and electrons",
+    "descriptions": [
+        {
+            "proposal_name": "Metal-Organic REagents for Light-Enabled Shuttling of protons and electrons",
+            "proposal_details": {
+                "energy_conversion_elements": [
+                    "protons",
+                    "electrons"
+                ],
+                "technological_applications": [
+                    "reduction of N2",
+                    "CO",
+                    "CO2"
+                ],
+                "renewable_resources": [
+                    "water",
+                    "sunlight"
+                ],
+                "transformation_type": "solar-to-chemicals conversion",
+                "key_strategy": "proton coupled electron transfer (PCET)",
+                "challenges": [
+                    "development of PCET shuttles that act as catalysts",
+                    "promotion of multi PCET",
+                    "integration in complex multielectron/multiproton transformations"
+                ],
+                "objectives": [
+                    {
+                        "objective_number": 1,
+                        "strategy": "merge light and electricity for reductive PCET",
+                        "approach": "photoelectrocatalytic strategy",
+                        "mechanism": "using molecular shuttles",
+                        "exploitation": "counter oxidation reactions"
+                    },
+                    {
+                        "objective_number": 2,
+                        "goal": "control over multi PCET",
+                        "impact": "selectivity of reductive transformations",
+                        "method": "colocalization of redox and acid/base sites within coordination cages"
+                    },
+                    {
+                        "objective_number": 3,
+                        "integration": "photo(electro)catalytic PCET in small molecule catalysis",
+                        "approach": "new tandem approaches",
+                        "target": "reduction of N2",
+                        "resources_used": [
+                            "light",
+                            "water"
+                        ]
+                    }
+                ],
+                "potential_impacts": [
+                    "affect mechanisms of reductive reactions",
+                    "advance knowledge in PCET and energy conversion",
+                    "shift paradigm in catalytic systems development for solar-to-chemical transformation"
+                ],
+                "project_name": "More4Less"
+            }
+        },
+        {
+            "proposal_name": "Metal-Organic REagents for Light-Enabled Shuttling of protons and electrons",
+            "proposal_details": {
+                "descriptions": [
+                    "The proposal focuses on controlling the transfer of protons and electrons to enable solar-to-chemicals conversion, preventing the formation of H2."
+                ],
+                "challenges": [
+                    "Development of proton coupled electron transfer (PCET) shuttles that act as catalysts using water and light",
+                    "Promotion of multi PCET to avoid unstable radical intermediates",
+                    "Integration in complex multielectron/multiproton transformations for solar energy conversion"
+                ],
+                "objectives": [
+                    "Design metal-organic PCET shuttles for a novel photoelectrocatalytic strategy that merges light and electricity",
+                    "Control multi PCET for selective reductive transformations using coordination cages",
+                    "Integrate photo(electro)catalytic PCET in small molecule catalysis for N2 reduction using light and water"
+                ],
+                "potential_outcomes": [
+                    "Unconventional tools to affect mechanisms of reductive reactions",
+                    "Advance knowledge in the field of PCET and energy conversion",
+                    "Change the paradigm in developing catalytic systems for solar-to-chemical transformation"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Metal-Organic REagents for Light-Enabled Shuttling of protons and electrons",
+            "proposal_details": {
+                "energy_conversion_technologies": [
+                    "N2 reduction",
+                    "CO reduction",
+                    "CO2 reduction"
+                ],
+                "renewable_resources": [
+                    "water",
+                    "sunlight"
+                ],
+                "transformation_type": "solar-to-chemicals conversion",
+                "strategic_approach": "proton coupled electron transfer (PCET)",
+                "development_goals": [
+                    {
+                        "goal_number": 1,
+                        "description": "Develop PCET shuttles that behave as catalysts harnessing water and light"
+                    },
+                    {
+                        "goal_number": 2,
+                        "description": "Promote multi PCET to avoid unstable radical intermediates"
+                    },
+                    {
+                        "goal_number": 3,
+                        "description": "Integrate PCET in complex transformations for solar energy conversion, such as N2 reduction"
+                    }
+                ],
+                "specific_objectives": [
+                    {
+                        "objective_number": 1,
+                        "description": "Merge light and electricity for reductive PCET using molecular shuttles with counter oxidation reactions"
+                    },
+                    {
+                        "objective_number": 2,
+                        "description": "Control multi PCET for selective reductive transformations via redox and acid/base site colocalization within coordination cages"
+                    },
+                    {
+                        "objective_number": 3,
+                        "description": "Integrate photo(electro)catalytic PCET in small molecule catalysis for N2 reduction using light and water"
+                    }
+                ],
+                "expected_outcomes": [
+                    "Unconventional tools to affect mechanisms of reductive reactions",
+                    "Advancement in knowledge of PCET and energy conversion",
+                    "Paradigm shift in catalytic system development for solar-to-chemical transformation"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ff4edc0df7ebd64035dcc61c12b1997d",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMetal-Organic REagents for Light-Enabled Shuttling of protons and electrons\n\n**Description:**\n\nProtons and electrons are the currency of energy conversion and play a key role in some of the most transformative technologies such as the reduction of N2, CO or CO2. Exploiting water and sunlight as renewable resources for these transformations offers a means for solar-to-chemicals conversion. Thus, our ability to control the transfer of protons and electrons preventing the more favourable formation of H2 poses an exciting fundamental problem. Strategies based on proton coupled electron transfer (PCET) have demonstrated key benefits by providing low energy pathways that bypass the most energetic, charged intermediates. However, important problems remain regarding the development of PCET shuttles that: (1) behave as catalysts harnessing water and light, (2) promote multi PCET to avoid unstable radical intermediates that undermine the selectivity and efficiency, and (3) can be integrated in complex multielectron/multiproton transformations relevant to solar energy conversion such as N2 reduction. I will address these problems by designing metal-organic PCET shuttles that target three specific objectives: (1) to merge light and electricity for reductive PCET in a novel photoelectrocatalytic strategy using molecular shuttles that exploit counter oxidation reactions of practical relevance, (2) to achieve an unprecedented control over multi PCET to impact the selectivity of reductive transformations via the colocalization of redox and acid/base sites within coordination cages, and (3) to integrate photo(electro)catalytic PCET in small molecule catalysis with new tandem approaches towards the reduction of N2 using light and water. Overall, these objectives will provide unconventional tools to affect the mechanisms of reductive reactions. Besides transgressing the frontiers of knowledge in the field of PCET, and more generally energy conversion, More4Less has the potential to change the paradigm in which we develop catalytic systems for solar-to-chemical transformation."
+}

@@ -1,0 +1,141 @@
+{
+    "item_type": "proposal",
+    "title": "Understanding the Origin of Species: Ecological Genomics and Transcriptomics on Oceanic Islands",
+    "descriptions": [
+        {
+            "proposal_name": "Understanding the Origin of Species: Ecological Genomics and Transcriptomics on Oceanic Islands",
+            "proposal_details": {
+                "challenge_duration": "more than two centuries",
+                "main_focus": "origin of species diversity",
+                "unanswered_questions": [
+                    "speciation process"
+                ],
+                "genetic_separation": [
+                    "allopatric mode",
+                    "sympatric mode"
+                ],
+                "case_study": {
+                    "species": "Howea palms",
+                    "location": "Lord Howe Island, Australia",
+                    "evidence_for": "sympatric speciation"
+                },
+                "applicant": "Savolainen",
+                "research_approach": [
+                    "field ecology",
+                    "genetic modelling"
+                ],
+                "technologies": [
+                    "ultra-high throughput sequencing",
+                    "Roche 454 platform",
+                    "Illumina Solexa platform"
+                ],
+                "model_system": "Howea",
+                "research_methods": [
+                    "transcriptome sequencing",
+                    "genome scans",
+                    "gene expression profiling"
+                ],
+                "theoretical_predictions": {
+                    "necessary_genetic_loci": "a few",
+                    "trait_control": "key traits",
+                    "speciation_speed": "rapid ecological speciation"
+                },
+                "extension_to_other_taxa": true,
+                "ecological_conditions": "varying",
+                "genomic_architectures": "varying",
+                "gene_flow_challenges": "species origin on minute oceanic island",
+                "study_contributions": [
+                    "comprehensive speciation study",
+                    "new perspective on speciation process"
+                ],
+                "additional_benefits": [
+                    "link between genotype and phenotype",
+                    "biodiversity management"
+                ],
+                "descriptions": [
+                    "The project will provide one of the most comprehensive studies of speciation and has the potential to provide a drastically new perspective on this process."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Understanding the Origin of Species: Ecological Genomics and Transcriptomics on Oceanic Islands",
+            "proposal_details": {
+                "challenge_for_biologists": "more than two centuries",
+                "unanswered_questions": [
+                    "speciation"
+                ],
+                "genetic_separation": [
+                    "allopatric",
+                    "sympatric"
+                ],
+                "case_study": {
+                    "species": "Howea palms",
+                    "location": "Lord Howe Island, Australia"
+                },
+                "research_approaches": [
+                    "field ecology",
+                    "genetic modelling"
+                ],
+                "technologies": [
+                    "Roche 454",
+                    "Illumina Solexa"
+                ],
+                "model_system": "Howea",
+                "research_methods": [
+                    "transcriptome sequencing",
+                    "genome scans",
+                    "gene expression profiles"
+                ],
+                "theoretical_predictions": "few genetic loci for rapid ecological speciation",
+                "additional_study_targets": "other taxa and islands",
+                "research_questions": [
+                    "combinations of ecological conditions and genomic architectures for new species evolution",
+                    "species origination in the face of gene flow"
+                ],
+                "project_outcomes": [
+                    "comprehensive studies of speciation",
+                    "new perspective on speciation",
+                    "link between genotype and phenotype",
+                    "sustainable biodiversity management"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Understanding the Origin of Species: Ecological Genomics and Transcriptomics on Oceanic Islands",
+            "proposal_details": {
+                "researcher": "Savolainen",
+                "focus_area": "Speciation",
+                "key_questions": [
+                    "How does genetic separation contribute to speciation?",
+                    "What are the ecological conditions and genomic architectures that lead to new species evolution?",
+                    "How can species originate in the face of gene flow on small oceanic islands?"
+                ],
+                "case_study": "Howea palms on Lord Howe Island, Australia",
+                "approaches": [
+                    "Field ecology",
+                    "Genetic modelling"
+                ],
+                "technologies": [
+                    "Roche 454 ultra-high throughput sequencing",
+                    "Illumina Solexa ultra-high throughput sequencing"
+                ],
+                "goals": [
+                    "Test theoretical predictions of genetic loci's role in rapid ecological speciation",
+                    "Extend study to other taxa and islands",
+                    "Provide comprehensive study of speciation",
+                    "Offer new perspective on speciation",
+                    "Link genotype to phenotype",
+                    "Sustainable biodiversity management"
+                ],
+                "descriptions": [
+                    "This project aims to provide a comprehensive study of speciation by researching the genetic and ecological factors contributing to species diversity, particularly in the context of oceanic islands."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bdb3b0e080a0ee6f416652b1ff20c2a7",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nUnderstanding the Origin of Species: Ecological Genomics and Transcriptomics on Oceanic Islands\n\n**Description:**\n\nThe origin of species diversity has challenged biologists for more than two centuries, but despite the large amount of literature on the subject, pivotal questions about speciation remain unanswered. For example, we know that the origin of species must involve genetic separation, most often followed by phenotypic differentiation. Geographic isolation and subsequent genetic separation gives rise to the uncontroversial allopatric mode of speciation. But in theory, populations can become genetically separated without geographical isolation, resulting in the more disputed sympatric mode of speciation. Recently, Savolainen (the applicant of this proposal) and colleagues provided strong evidence for sympatric speciation in a case study of two species of Howea palms on Lord Howe Island, Australia. Here, we will take our research to a much deeper level and tackle novel themes. Innovative approaches will be developed, combining field ecology and genetic modelling, and taking advantage of the most recent advances in genomic technologies such as ultra-high throughput sequencing provided by the Roche 454 and Illumina Solexa platforms. Using Howea as a model system, sequences of their transcriptomes, scans of their genomes and genes expression profiles, we will test the theoretical predictions that only a few genetic loci controlling key traits are necessary for rapid ecological speciation. Extending this study to other taxa and islands, we will ask what combinations of ecological conditions and genomic architectures lead to the evolution of new species? Particularly, how can species originate in the face of gene flow, for example when confined to a minute oceanic island? The project will provide one of the most comprehensive studies of speciation and has the potential to provide a drastically new perspective on this process. It will also shed light on the wide-ranging link between genotype and phenotype, as well as help to manage biodiversity in a sustainable manner."
+}

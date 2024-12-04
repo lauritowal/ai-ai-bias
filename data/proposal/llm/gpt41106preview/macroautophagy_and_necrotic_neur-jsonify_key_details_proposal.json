@@ -1,0 +1,183 @@
+{
+    "item_type": "proposal",
+    "title": "MacroAutophagy and Necrotic Neurodegeneration in Ageing",
+    "descriptions": [
+        {
+            "proposal_name": "MacroAutophagy and Necrotic Neurodegeneration in Ageing",
+            "proposal_details": {
+                "pathologies": [
+                    "stroke",
+                    "ischemia",
+                    "age-associated neurodegenerative disorders"
+                ],
+                "species": [
+                    "Caenorhabditis elegans",
+                    "humans"
+                ],
+                "mechanisms": [
+                    "necrotic neurodegeneration",
+                    "modulation by ageing"
+                ],
+                "autophagy_roles": [
+                    "pro-survival",
+                    "pro-death"
+                ],
+                "autophagic_flux_decline": "with age",
+                "autophagy_enhances_longevity_conditions": [
+                    "low insulin/IGF1 signalling",
+                    "dietary restriction"
+                ],
+                "recent_findings": [
+                    "organelle-specific autophagy determines longevity"
+                ],
+                "study_focus": "cargo-specific macroautophagy",
+                "methodology": [
+                    "C. elegans genetics",
+                    "in vivo neuronal imaging",
+                    "microfluidics technology"
+                ],
+                "objectives": [
+                    "monitor autophagic flux of organellar cargo during neurodegeneration",
+                    "identify mediators of organelle-specific autophagy in neurons",
+                    "conduct genome-wide screens for age-inflicted neurodegeneration modifiers",
+                    "interrogate nematode models for organelle-specific autophagy and necrosis susceptibility",
+                    "investigate functional conservation in mammalian models of neuronal necrosis"
+                ],
+                "descriptions": [
+                    "Our recent findings indicate that organelle-specific autophagy, including mitophagy, pexophagy and nucleophagy, is an important, evolutionarily conserved, determinant of longevity."
+                ]
+            }
+        },
+        {
+            "proposal_name": "MacroAutophagy and Necrotic Neurodegeneration in Ageing",
+            "proposal_details": {
+                "descriptions": [
+                    "Investigation of molecular underpinnings of neuron vulnerability to necrosis during ageing, focusing on cargo-specific macroautophagy"
+                ],
+                "pathologies": [
+                    "stroke",
+                    "ischemia",
+                    "age-associated neurodegenerative disorders"
+                ],
+                "species": [
+                    "Caenorhabditis elegans",
+                    "humans"
+                ],
+                "conditions": [
+                    "low insulin/IGF1 signalling",
+                    "dietary restriction"
+                ],
+                "lifespan": {
+                    "modulation": [
+                        "autophagy induction"
+                    ],
+                    "taxa": [
+                        "diverse"
+                    ]
+                },
+                "recent_findings": [
+                    "organelle-specific autophagy determines longevity"
+                ],
+                "approach": [
+                    "C. elegans genetics",
+                    "in vivo neuronal imaging",
+                    "microfluidics technology"
+                ],
+                "objectives": [
+                    "Monitor autophagic flux of organellar cargo during neurodegeneration",
+                    "Identify mediators of organelle-specific autophagy in neurons",
+                    "Conduct genome-wide screens for modifiers of age-inflicted neurodegeneration",
+                    "Interrogate nematode models for organelle-specific autophagy and necrosis susceptibility",
+                    "Investigate functional conservation in mammalian models of neuronal necrosis"
+                ]
+            }
+        },
+        {
+            "proposal_name": "MacroAutophagy and Necrotic Neurodegeneration in Ageing",
+            "proposal_details": {
+                "pathologies": [
+                    "stroke",
+                    "ischemia",
+                    "age-associated neurodegenerative disorders"
+                ],
+                "susceptibility_increases_with_age": true,
+                "species_ranging": [
+                    "Caenorhabditis elegans",
+                    "humans"
+                ],
+                "mechanisms": [
+                    "necrotic neurodegeneration",
+                    "modulation by ageing"
+                ],
+                "roles_of_autophagy": [
+                    "pro-survival",
+                    "pro-death"
+                ],
+                "autophagic_flux_decline_with_age": true,
+                "autophagy_induction_enhances_longevity_conditions": [
+                    "low insulin/IGF1 signalling",
+                    "dietary restriction"
+                ],
+                "findings": [
+                    "organelle-specific autophagy determines longevity"
+                ],
+                "evolutionary_conservation": true,
+                "research_focus": "cargo-specific macroautophagy in neuron vulnerability to necrosis during ageing",
+                "research_methods": [
+                    "C. elegans genetics",
+                    "in vivo neuronal imaging",
+                    "microfluidics technology"
+                ],
+                "objectives": [
+                    {
+                        "objective_number": 1,
+                        "task": "monitor autophagic flux of organellar cargo",
+                        "conditions": [
+                            "neurodegeneration",
+                            "lifespan alteration"
+                        ],
+                        "mediators": "organelle-specific autophagy in neurons"
+                    },
+                    {
+                        "objective_number": 2,
+                        "task": "genome-wide screens",
+                        "focus": "modifiers of age-inflicted neurodegeneration"
+                    },
+                    {
+                        "objective_number": 3,
+                        "task": "interrogate nematode models",
+                        "models": [
+                            "human neurodegenerative disorders"
+                        ],
+                        "focus": [
+                            "organelle-specific autophagy",
+                            "susceptibility to necrosis"
+                        ],
+                        "manipulations": "lifespan alteration"
+                    },
+                    {
+                        "objective_number": 4,
+                        "task": "investigate in mammalian models",
+                        "focus": [
+                            "neuronal necrosis"
+                        ],
+                        "mechanism_conservation": "functional"
+                    }
+                ],
+                "study_impact": [
+                    "understanding of age-related neurodegeneration",
+                    "insights to human health",
+                    "quality of life"
+                ],
+                "descriptions": [
+                    "The mechanisms that govern necrotic neurodegeneration and its modulation by ageing are poorly understood."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "38f6853811b6efc83f4c09fdec2c4c99",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMacroAutophagy and Necrotic Neurodegeneration in Ageing\n\n**Description:**\n\nNecrosis contributes critically in devastating human pathologies such as stroke, ischemia, and age-associated neurodegenerative disorders. Ageing increases susceptibility to neurodegeneration, in diverse species ranging from the lowly nematode Caenorhabditis elegans to humans. The mechanisms that govern necrotic neurodegeneration and its modulation by ageing are poorly understood. Autophagy has been implicated in necrosis and neurodegeneration, both with pro-survival and a pro-death roles. Autophagic flux declines with age, while induction of autophagy enhances longevity under conditions such as low insulin/IGF1 signalling and dietary restriction, which extend lifespan across diverse taxa. Our recent findings indicate that organelle-specific autophagy, including mitophagy, pexophagy and nucleophagy, is an important, evolutionarily conserved, determinant of longevity. We propose to dissect the molecular underpinnings of neuron vulnerability to necrosis during ageing, focusing on cargo-specific macroautophagy. To this end, we will implement a multifaceted approach that combines the power and versatility of C. elegans genetics with advanced, in vivo neuronal imaging and microfluidics technology. Our objectives are fourfold. First, we will monitor autophagic flux of organellar cargo, during neurodegeneration, under conditions that alter lifespan and identify mediators of organelle-specific autophagy in neurons. Second, we will conduct genome-wide screens for modifiers of age-inflicted neurodegeneration. Third, we will interrogate nematode models of human neurodegenerative disorders for organelle-specific autophagy and susceptibility to necrosis, upon manipulations that alter lifespan. Fourth, we will investigate the functional conservation of key mechanisms in mammalian models of neuronal necrosis. Together, these studies will deepen our understanding of age-related neurodegeneration and provide critical insights with broad relevance to human health and quality of life."
+}

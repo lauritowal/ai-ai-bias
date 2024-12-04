@@ -1,0 +1,173 @@
+{
+    "item_type": "proposal",
+    "title": "Tension of ENDOmembranes maintained by TORC1",
+    "descriptions": [
+        {
+            "proposal_name": "Tension of ENDOmembranes maintained by TORC1",
+            "proposal_details": {
+                "protein_complexes": [
+                    "TORC1",
+                    "TORC2"
+                ],
+                "TORC1_characteristics": {
+                    "bound_by": "rapamycin",
+                    "role": "coupling nutrient cues to biomass synthesis and turnover"
+                },
+                "TORC2_characteristics": {
+                    "rapamycin_sensitivity": "insensitive",
+                    "structure_solved": true,
+                    "rapamycin_sensitive_variant_created": true,
+                    "function": "mechanotransduction pathway",
+                    "maintains": "plasma membrane tension homeostasis"
+                },
+                "chemical_tools_developed": [
+                    "plasma membrane tension dissipator",
+                    "biosensor of plasma membrane tension"
+                ],
+                "TORC1_structure": {
+                    "inactive_form": "TOROID",
+                    "active_regulation": "assembly into inactive helix"
+                },
+                "research_aims": [
+                    {
+                        "aim": "determine TORC1 regulation of vacuolar membrane tension",
+                        "methods": [
+                            "development of chemical probes",
+                            "genetic screens",
+                            "quantitative phosphoproteomics",
+                            "in vitro assays",
+                            "high-throughput compound screens",
+                            "STORM imaging",
+                            "FRAP imaging",
+                            "cryo-EM"
+                        ]
+                    },
+                    {
+                        "aim": "solve TOROID-like structure of TORC2 upon glucose depletion",
+                        "outcome": "reveal new mechanisms in growth control and details in TORC1 and TORC2 regulation"
+                    }
+                ],
+                "descriptions": [
+                    "This work will reveal new mechanisms in growth control, and details in TORC1 and TORC2 regulation that may inform future therapeutic interventions for these medically relevant signalling complexes."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Tension of ENDOmembranes maintained by TORC1",
+            "proposal_details": {
+                "target_protein": "TOR",
+                "protein_function": "ser/thr protein kinase",
+                "protein_complexes": [
+                    "TORC1",
+                    "TORC2"
+                ],
+                "rapamycin_sensitivity": {
+                    "TORC1": true,
+                    "TORC2": false
+                },
+                "rapamycin_sensitive_variant": "TORC2",
+                "developed_molecules": [
+                    {
+                        "purpose": "dissipates plasma membrane tension",
+                        "type": "small molecule"
+                    },
+                    {
+                        "purpose": "biosensor of plasma membrane tension",
+                        "type": "small molecule"
+                    }
+                ],
+                "confirmed_function": "TORC2 mechanotransduction pathway maintenance of PM tension",
+                "structure_discovery": {
+                    "TORC1": "inactive helix TOROID",
+                    "TORC2": "structure solved"
+                },
+                "research_aims": [
+                    {
+                        "focus": "TORC1 regulation of vacuolar membrane tension",
+                        "methods": [
+                            "development of chemical probes",
+                            "genetic screens",
+                            "quantitative phosphoproteomics",
+                            "in vitro assays",
+                            "high-throughput compound screens",
+                            "STORM imaging",
+                            "FRAP imaging",
+                            "cryo-EM"
+                        ]
+                    },
+                    {
+                        "focus": "TORC2 TOROID-like structure upon glucose depletion",
+                        "methods": [
+                            "structure solving"
+                        ]
+                    }
+                ],
+                "implications": [
+                    {
+                        "area": "growth control mechanisms"
+                    },
+                    {
+                        "area": "TORC1 and TORC2 regulation",
+                        "application": "therapeutic interventions"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "text": "Our major aim is to determine if and how TORC1 regulates vacuolar membrane (VM) tension."
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Tension of ENDOmembranes maintained by TORC1",
+            "proposal_details": {
+                "target_protein": "TOR",
+                "protein_function": "ser/thr protein kinase",
+                "protein_complexes": [
+                    "TORC1",
+                    "TORC2"
+                ],
+                "rapamycin_sensitivity": {
+                    "TORC1": "sensitive",
+                    "TORC2": "insensitive"
+                },
+                "TORC2_structure_solved": true,
+                "rapamycin_sensitive_variant_of_TORC2_created": true,
+                "small_molecules_developed": [
+                    "dissipates plasma membrane tension",
+                    "biosensor of plasma membrane tension"
+                ],
+                "TORC2_function": "mechanotransduction pathway for PM tension homeostasis",
+                "TORC1_structure_solved": true,
+                "TORC1_inactive_structure_name": "TOROID",
+                "aims": [
+                    {
+                        "aim": "determine TORC1 regulation of vacuolar membrane tension",
+                        "methods": [
+                            "develop chemical probes for VM tension",
+                            "genetic screens",
+                            "quantitative phosphoproteomics",
+                            "in vitro assays",
+                            "high-throughput compound screens",
+                            "STORM imaging",
+                            "FRAP imaging",
+                            "cryo-EM"
+                        ]
+                    },
+                    {
+                        "aim": "solve TOROID-like structure of TORC2 upon glucose depletion"
+                    }
+                ],
+                "implications": [
+                    "new mechanisms in growth control",
+                    "details in TORC1 and TORC2 regulation for future therapeutic interventions"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f07e8aba2724eb430e7667a2cbb65351",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTension of ENDOmembranes maintained by TORC1\n\n**Description:**\n\nThe target of the bacterial macrolide rapamycin, TOR, is a ser/thr protein kinase that assembles into two distinct protein complexes, conserved from yeast to human, we named TORC1 and TORC2. TORC1 is directly bound and inhibited by rapamycin and studies with rapamycin have revealed that TORC1 plays a central role in coupling nutrient cues to biomass synthesis and turnover. The lack of a specific inhibitor for TORC2 has made the study of this complex much more challenging. We overcame this challenge by solving the structure of yeast TORC2 which revealed why it is insensitive to rapamycin and enabled us to create a rapamycin-sensitive TORC2 variant. We also developed two small molecules, one that dissipates plasma membrane (PM) tension and the other that serves as a biosensor of PM tension. With this suite of chemical-biology tools we confirmed that TORC2 functions in a mechanotransduction pathway to maintain tension homeostasis of the PM. Concurrently, solving the structure of TORC1 revealed that its activity is regulated via assembly into a huge, inactive helix which we named a TOROID – TORC1 Organized in an Inactive Domain. In this grant, was ask if these major advances are transferable; i.e. can lessons learned regarding TORC2 be applied to TORC1, and vice versa? Our major aim is to determine if and how TORC1 regulates vacuolar membrane (VM) tension. To this end, we will develop novel chemical probes to monitor VM tension and we will use genetic screens, quantitative phosphoproteomics, in vitro assays, high-throughput compound screens, STORM and FRAP imaging, and state-of-the-art cryo-EM to learn how TORC1 senses and regulates VM tension. Our other aim, prompted by our TOROID discovery, is to solve the TOROID-like structure that TORC2 forms upon glucose depletion. This work will reveal new mechanisms in growth control, and details in TORC1 and TORC2 regulation that may inform future therapeutic interventions for these medically relevant signalling complexes."
+}

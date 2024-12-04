@@ -1,0 +1,195 @@
+{
+    "item_type": "proposal",
+    "title": "The multisensory-motor unity of speech",
+    "descriptions": [
+        {
+            "proposal_name": "The multisensory-motor unity of speech",
+            "proposal_details": {
+                "focus": [
+                    "speech unification process",
+                    "auditory",
+                    "visual",
+                    "motor streams"
+                ],
+                "approach": [
+                    "cognitive psychology",
+                    "neurosciences",
+                    "phonetics",
+                    "computational models"
+                ],
+                "framework": "Perception-for-Action-Control Theory (PACT)",
+                "PI_development": "PACT",
+                "communication_unit": "perceptually shaped gesture",
+                "features": [
+                    "articulatory coherence",
+                    "perceptual value"
+                ],
+                "roles": [
+                    "online unification",
+                    "offline joint emergence"
+                ],
+                "parts": [
+                    "Extracting Units",
+                    "Developing Units"
+                ],
+                "Extracting Units": {
+                    "analysis": [
+                        "audio",
+                        "video",
+                        "motor stimuli"
+                    ],
+                    "data": [
+                        "behavioural",
+                        "neurophysiological"
+                    ],
+                    "models": "neurocomputational models of the audio-visuo-motor binding process"
+                },
+                "Developing Units": {
+                    "data": [
+                        "phonetic"
+                    ],
+                    "models": [
+                        "computational models"
+                    ],
+                    "focus": [
+                        "perception",
+                        "action",
+                        "phonology"
+                    ],
+                    "processes": [
+                        "acquisition",
+                        "reacquisition",
+                        "evolution",
+                        "learning"
+                    ]
+                },
+                "descriptions": [
+                    "PACT is a perceptuo-motor theory of speech communication, which connects in a principled way perceptual shaping and motor procedural knowledge in speech multisensory processing."
+                ]
+            }
+        },
+        {
+            "proposal_name": "The multisensory-motor unity of speech",
+            "proposal_details": {
+                "focus": [
+                    "speech unification process",
+                    "auditory, visual and motor streams integration"
+                ],
+                "approach": [
+                    "interdisciplinary",
+                    "cognitive psychology",
+                    "neurosciences",
+                    "phonetics",
+                    "computational models"
+                ],
+                "theoretical_framework": "Perception-for-Action-Control Theory (PACT)",
+                "PI_developer": "PI",
+                "PACT_description": [
+                    "perceptuo-motor theory of speech communication",
+                    "connects perceptual shaping and motor procedural knowledge",
+                    "communication unit is a perceptually shaped gesture"
+                ],
+                "PACT_features": [
+                    "articulatory coherence",
+                    "perceptual value"
+                ],
+                "PACT_roles": [
+                    "online unification of sensory and motor streams",
+                    "offline joint emergence of perceptual and motor repertoires"
+                ],
+                "project_parts": [
+                    "Extracting Units",
+                    "Developing Units"
+                ],
+                "Extracting Units": {
+                    "activities": [
+                        "analysis of multimodal corpus",
+                        "behavioural and neurophysiological data collection",
+                        "neurocomputational models of binding process"
+                    ],
+                    "objectives": [
+                        "extract audio-visuo-motor speech units in the brain",
+                        "segment streams into coherent audiovisual units"
+                    ]
+                },
+                "Developing Units": {
+                    "activities": [
+                        "phonetic data collection on joint development",
+                        "implementation and testing of computational models"
+                    ],
+                    "objectives": [
+                        "assess emergence and evolution of perceptuo-motor speech units"
+                    ]
+                },
+                "descriptions": [
+                    {
+                        "description": "The project investigates the integration of auditory, visual, and motor streams in the human brain during speech perception and production, leveraging an interdisciplinary approach and the PACT framework."
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "The multisensory-motor unity of speech",
+            "proposal_details": {
+                "focus": [
+                    "speech unification process",
+                    "auditory, visual and motor streams integration"
+                ],
+                "approach": [
+                    "interdisciplinary"
+                ],
+                "disciplines": [
+                    "cognitive psychology",
+                    "neurosciences",
+                    "phonetics",
+                    "computational models"
+                ],
+                "framework": "Perception-for-Action-Control Theory (PACT)",
+                "PI_contribution": [
+                    "developed PACT"
+                ],
+                "PACT_description": [
+                    "perceptuo-motor theory of speech communication",
+                    "connects perceptual shaping and motor procedural knowledge",
+                    "focus on multisensory processing"
+                ],
+                "communication_unit": "perceptually shaped gesture",
+                "characteristics_of_unit": [
+                    "articulatory coherence",
+                    "perceptual value"
+                ],
+                "roles_of_perceptuo-motor_link": [
+                    "online unification of sensory and motor streams",
+                    "offline joint emergence of perceptual and motor repertoires"
+                ],
+                "actions": [
+                    {
+                        "name": "Extracting Units",
+                        "activities": [
+                            "study audio-visuo-motor speech unit extraction",
+                            "analyze multimodal corpus",
+                            "collect behavioural and neurophysiological data",
+                            "develop neurocomputational models"
+                        ]
+                    },
+                    {
+                        "name": "Developing Units",
+                        "activities": [
+                            "gather phonetic data on joint development",
+                            "implement and test computational models",
+                            "study emergence and evolution of speech units"
+                        ]
+                    }
+                ],
+                "descriptions": [
+                    "The project investigates how multisensory speech units are perceived and produced, linking auditory, visual, and motor systems through both immediate and developmental processes."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "200cd1e1524154d6a1570f8a03591fd1",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe multisensory-motor unity of speech\n\n**Description:**\n\nThis project is focussed on the speech unification process associating the auditory, visual and motor streams in the human brain, in an interdisciplinary approach combining cognitive psychology, neurosciences, phonetics (both descriptive and developmental) and computational models. The framework is provided by the “Perception-for-Action-Control Theory (PACT)” developed by the PI. PACT is a perceptuo-motor theory of speech communication, which connects in a principled way perceptual shaping and motor procedural knowledge in speech multisensory processing. The communication unit in PACT is neither a sound nor a gesture but a perceptually shaped gesture, that is a perceptuo-motor unit. It is characterised by both articulatory coherence – provided by its gestural nature – and perceptual value – necessary for being functional. PACT considers two roles for the perceptuo-motor link in speech perception: online unification of the sensory and motor streams through audio-visuo-motor binding, and offline joint emergence of the perceptual and motor repertoires in speech development. This provides the basis for the two parts of the project. In the “Extracting Units” action, we shall study how audio-visuo-motor speech units are extracted online in the human brain. This involves analysis of the joint properties of audio, video and motor stimuli gathered in a multimodal corpus; behavioural and neurophysiological data on the extraction of coherent streams within a speech scene and on the segmentation of streams into coherent audiovisual units; and elaboration of neurocomputational models of the audio-visuo-motor binding process. In the “Developing Units” action, we shall gather phonetic data on the joint development of perception, action and phonology, and implement and test various kinds of computational models, to assess how perceptuo-motor speech units emerge and evolve in the course of acquisition, reacquisition, evolution or learning of a given phonological system."
+}

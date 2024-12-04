@@ -1,0 +1,103 @@
+{
+    "item_type": "proposal",
+    "title": "Symbol Elimination in Reliable System Engineering",
+    "descriptions": [
+        {
+            "proposal_name": "Symbol Elimination in Reliable System Engineering",
+            "proposal_details": {
+                "description": [
+                    "Formal automated reasoning as an investment by ICT companies to prevent software errors."
+                ],
+                "aims": [
+                    "Answer important questions regarding automated reasoning methods and large-scale code base application.",
+                    "Bring symbol elimination method to the ICT market."
+                ],
+                "innovation": [
+                    "Automatic generation and proof of first-order properties of software to prevent errors during changes."
+                ],
+                "initial_results": [
+                    {
+                        "test_case_success_rate": "over 80%",
+                        "domain": "programs manipulating computer memory"
+                    }
+                ],
+                "method_comparisons": [
+                    {
+                        "method_name": "SYMELS",
+                        "comparison_basis": "accuracy and expressiveness",
+                        "compared_to": "other methods",
+                        "reasoning_scope": "full first-order logic"
+                    }
+                ],
+                "proof_of_concept": [
+                    "Tool-supported methodology for increasing software functionality and reliability, enhancing user trust in software technologies."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Symbol Elimination in Reliable System Engineering",
+            "proposal_details": {
+                "descriptions": [
+                    "Formal automated reasoning as an investment to prevent software errors and improve reliability."
+                ],
+                "goals": [
+                    "Answer important questions in automated reasoning",
+                    "Apply research to large-scale code bases",
+                    "Bring symbol elimination method to the ICT market"
+                ],
+                "innovations": [
+                    "Automatic generation and proof of first-order properties of software",
+                    "Prevent errors during software modifications"
+                ],
+                "initial_results": {
+                    "success_rate": "over 80%",
+                    "context": "testing programs manipulating computer memory",
+                    "comparison_with_human_work": "similar proofs required very costly human work"
+                },
+                "method_unique_features": [
+                    "reasoning about program properties in full first-order logic"
+                ],
+                "proof_of_concept": "SYMELS provides a tool-supported methodology for continuous growth in software functionality"
+            }
+        },
+        {
+            "proposal_name": "Symbol Elimination in Reliable System Engineering",
+            "proposal_details": {
+                "descriptions": [
+                    "The SYMELS project aims to apply symbol elimination methods to the ICT market to prevent software errors and improve reliability."
+                ],
+                "goals": [
+                    "Answer important questions in automated reasoning for error-free software",
+                    "Apply research to large-scale code bases"
+                ],
+                "innovations": [
+                    "Automatic generation and proof of first-order properties of software"
+                ],
+                "initial_results": [
+                    "Symbol elimination proved over 80% of test cases to have expected behavior"
+                ],
+                "target_industry": [
+                    "ICT"
+                ],
+                "methodology": [
+                    "Symbol elimination"
+                ],
+                "proof_of_concept": [
+                    "Tool-supported methodology for increasing software functionality and reliability"
+                ],
+                "benefits": [
+                    "Increase in software reliability",
+                    "Enhanced user trust in software technologies"
+                ],
+                "comparison_with_other_methods": [
+                    "No other method matches SYMELS in accuracy and expressiveness for reasoning about full first-order logic properties"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4f347ffaa75f7488df8c9640e1b61460",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nSymbol Elimination in Reliable System Engineering\n\n**Description:**\n\nWe are living in a world that is increasingly run by software. Daily activities, such as online banking, mobile communications and air traffic use, are controlled by software. This software is growing in size and functionality, but its reliability is hardly improving. We are getting used to the fact that that computer systems are error-prone and insecure. To (re)gain the trust of end-users in software and Web services, formal automated reasoning is one of the main investments made by ICT companies in preventing software errors. To improve in this area, one should answer some important questions, such as - Which methods in automated reasoning are the most appropriate for proving software error-free? - What needs to be done to apply research in automated reasoning to large-scale code bases? Our SYMELS project aims at answering these questions by bringing our symbol elimination method to the ICT market. The key innovation brought in by SYMELS is the ability to automatically generate and prove first-order properties of software that prevent programmers from introducing errors while making changes in this software. Our initial results show that symbol elimination can be a breakthrough method: e.g. when testing programs manipulating computer memory it was able to prove that over 80% of test cases are guaranteed to have the expected behavior. Most of these test problems were coming from industry, where similar proofs required very costly human work. Analyzing such programs requires reasoning about program properties in full first-order logic. No other method can reason about such properties with the same accuracy and expressiveness as SYMELS. For the proof-of-concept, SYMELS gives ICT customers and investors a tool-supported methodology for ensuring continuous growth in software functionality, thus increasing software reliability and user's trust in software technologies."
+}

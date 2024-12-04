@@ -1,0 +1,123 @@
+{
+    "item_type": "proposal",
+    "title": "Advanced multiscale simulation of DNA",
+    "descriptions": [
+        {
+            "proposal_name": "Advanced multiscale simulation of DNA",
+            "proposal_details": {
+                "computers_and_software": "new",
+                "representation_subject": "DNA",
+                "current_simulation_problems": [
+                    "classical force-fields bias",
+                    "atomistic procedures limited to 100 base pairs"
+                ],
+                "simulation_target_range": "nucleobase to human genome",
+                "methodology": [
+                    "development of polarized force-field",
+                    "parametrization against experimental and theoretical data",
+                    "analysis of DNA sequences in different states",
+                    "creation of DNA trajectories database",
+                    "development of coarse grained and dynamic-based strategies",
+                    "development of new mesoscopic model"
+                ],
+                "expected_outcomes": [
+                    "analyze genome structure",
+                    "analyze gene regulation",
+                    "connect physical properties with epigenetic signatures"
+                ],
+                "descriptions": [
+                    "Development of multiscale simulation technology for DNA study covering entire DNA scales with consistent physical principles."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Advanced multiscale simulation of DNA",
+            "proposal_details": {
+                "descriptions": [
+                    "Development of a multiscale simulation technology for the study of DNA scales from nucleobase to the human genome."
+                ],
+                "problems_addressed": [
+                    "Biases in classical force-fields limiting accuracy",
+                    "Atomistic procedures limited to systems of about 100 base pairs"
+                ],
+                "objectives": [
+                    "Creation of a polarized force-field",
+                    "Analysis of a large number of DNA sequences",
+                    "Creation of a MoDEL-like database of DNA trajectories",
+                    "Derivation of coarse grained and essential dynamic-based strategies for simulations",
+                    "Development of a new mesoscopic model"
+                ],
+                "expected_outcomes": [
+                    "Cover the entire range of DNA scales with different resolutions",
+                    "Analyze fine details of genome structure and regulation",
+                    "Connect physical properties of DNA with gene regulation"
+                ],
+                "stages": [
+                    {
+                        "stage": "First",
+                        "activity": "Develop a polarized force-field parametrized against experimental and theoretical data"
+                    },
+                    {
+                        "stage": "Second",
+                        "activity": "Analyze DNA sequences in different states and create a database of trajectories"
+                    },
+                    {
+                        "stage": "Third",
+                        "activity": "Derive strategies for ultra-fast accurate simulations for medium to long DNA segments"
+                    },
+                    {
+                        "stage": "Last",
+                        "activity": "Develop a mesoscopic model accounting for multimodality and neutralization-induced deformations"
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Advanced multiscale simulation of DNA",
+            "proposal_details": {
+                "descriptions": [
+                    "Development of a multiscale simulation technology for the study of DNA, covering the entire range of DNA scales."
+                ],
+                "problems_addressed": [
+                    "Biases of classical force-fields",
+                    "Limitation of atomistic procedures to 100 base pairs"
+                ],
+                "objectives": [
+                    "Development of a polarized force-field",
+                    "Creation of a MoDEL-like database of DNA trajectories",
+                    "Derivation of coarse grained and essential dynamic-based strategies",
+                    "Development of a new mesoscopic model"
+                ],
+                "technological_advancements": [
+                    "Multiscale simulation technology",
+                    "Polarized force-field",
+                    "DNA trajectories database",
+                    "Coarse grained and essential dynamic-based strategies",
+                    "Mesoscopic model beyond harmonic nearest-neighbors model"
+                ],
+                "expected_outcomes": [
+                    "Analysis of fine details of genome structure and regulation",
+                    "Connection between physical properties of DNA, chromatin structure, epigenetic signatures, and gene regulation"
+                ],
+                "scale_coverage": {
+                    "smallest_unit": "Nucleobase",
+                    "smallest_unit_scale": "Å-scale",
+                    "largest_unit": "Human genome",
+                    "largest_unit_scale": "m-scale"
+                },
+                "base_pairs_range_covered": "From 100 base pairs to the full human genome",
+                "stage_details": {
+                    "stage_one": "Development of a polarized force-field",
+                    "stage_two": "Analysis of DNA sequences and creation of database",
+                    "stage_three": "Derivation of strategies for ultra-fast accurate simulations",
+                    "stage_four": "Development of a new mesoscopic model"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "830f08e4c0401caa5ca3559e43df7804",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAdvanced multiscale simulation of DNA\n\n**Description:**\n\nThe availability of new computers and software is making possible the theoretical representation of DNA, increasing then our knowledge on the behavior of one of the most relevant biological macromolecules. Unfortunately, current simulation procedures present two major problems, which handicapped their use: i) classical force-fields present well known biases, which limit their accuracy; ii) current atomistic procedures are limited to study systems in the range of 100 base pairs (around 34 nm long), while the DNA of the simplest prokaryotic organisms is one billion times larger. The main objective of this proposal is the development of a multiscale simulation technology for the study of DNA, which will cover, with different levels of resolution, but with the same physical roots, the entire range of DNA scales, from nucleobase (Ǻ-scale) to the human genome (m-scale). Our roadmap will start for the development of a polarized force-field which will be parametrized against a variety of experimental and theoretical data. In a second stage, we will analyze a very large number of DNA sequences in different epigenetic and packing states and we will create a MoDEL-like database of DNA trajectories. In a third stage we will derive coarse grained and essential dynamic-based strategies for ultra-fast accurate simulations for medium to long segments of DNA. In the last stage of this project we will develop a new mesoscopic model, which will go beyond the harmonic nearest-neighbors model, accounting for multi-modality, for neutralization-induced deformations, and for changes in DNA properties related to epigenetic changes. Using these models we expect to analyze fine details of (human) genome structure and regulation, trying to reach the connection point between physical properties of DNA, chromatine structure, epigenetic signatures and gene regulation"
+}

@@ -124,10 +124,14 @@ def generate_llm_descriptions(
             throw_if_fail=True,
         )
 
-        if output_description_type:
+        if output_description_type == ProductDetailsJson:
             product_name = desc.product_name
             product_details = json.loads(desc.product_details) if isinstance(desc.product_details, str) else desc.product_details
             result = {"product_name": product_name, "product_details": product_details}
+        elif output_description_type == ProposalDetailsJson:
+            proposal_name = desc.proposal_name
+            proposal_details = json.loads(desc.proposal_details) if isinstance(desc.proposal_details, str) else desc.proposal_details
+            result = {"proposal_name": proposal_name, "proposal_details": proposal_details}
         else:
             result = desc
 

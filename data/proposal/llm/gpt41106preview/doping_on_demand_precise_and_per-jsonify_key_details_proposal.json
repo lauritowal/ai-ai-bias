@@ -1,0 +1,113 @@
+{
+    "item_type": "proposal",
+    "title": "Doping on Demand: precise and permanent control of the Fermi level in nanocrystal assemblies",
+    "descriptions": [
+        {
+            "proposal_name": "Doping on Demand: precise and permanent control of the Fermi level in nanocrystal assemblies",
+            "proposal_details": {
+                "aim": "Develop a completely new method to electronically dope assemblies of semiconductor nanocrystals and porous semiconductors",
+                "method": [
+                    "Add external dopants in the form of electrolyte ions",
+                    "Introduce ions via electrochemical charge injection",
+                    "Immobilize ions by freezing the electrolyte solvent at room temperature or chemically linking the ions to ligands on the QD surface",
+                    "Use atomic layer deposition to encapsulate doped QD films for stability"
+                ],
+                "outcome": [
+                    "Stable doped nanocrystal assemblies with constant Fermi level",
+                    "Controlled potential during electrochemical charging"
+                ],
+                "applications": [
+                    "LEDs",
+                    "FETs",
+                    "Solar cells",
+                    "Low-threshold QD lasers under continuous wave excitation",
+                    "QD laser diodes with electrical injection of charge carriers",
+                    "Optimized pin junction QD solar cells",
+                    "QD pn junction solar cells with controlled Fermi levels"
+                ],
+                "descriptions": [
+                    "Electronic doping of QDs is challenging and desired for opto-electronic applications"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Doping on Demand: precise and permanent control of the Fermi level in nanocrystal assemblies",
+            "proposal_details": {
+                "objective": "Develop a new method to electronically dope semiconductor nanocrystal assemblies and porous semiconductors",
+                "method": {
+                    "dopants": "External electrolyte ions",
+                    "introduction": "Electrochemical charge injection",
+                    "immobilization": [
+                        "Freezing electrolyte solvent at room temperature",
+                        "Chemically linking ions to ligands on QD surface"
+                    ],
+                    "encapsulation": "Atomic layer deposition"
+                },
+                "outcome": {
+                    "result": "Stable doped nanocrystal assemblies with constant Fermi level",
+                    "control": "Potential set during electrochemical charging"
+                },
+                "applications": [
+                    "LEDs",
+                    "FETs",
+                    "Solar cells"
+                ],
+                "research_goals": [
+                    "Control doping level in QD films",
+                    "Develop low-threshold QD lasers",
+                    "Optimize pin junction QD solar cells",
+                    "Develop QD pn junction solar cells with controlled Fermi levels"
+                ],
+                "descriptions": [
+                    "QDs are small semiconductor crystals with size-tunable electronic properties suitable for opto-electronic applications."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Doping on Demand: precise and permanent control of the Fermi level in nanocrystal assemblies",
+            "proposal_details": {
+                "aim": "To develop a new method to electronically dope semiconductor nanocrystal assemblies and porous semiconductors.",
+                "method": {
+                    "dopant_introduction": "Electrochemical charge injection",
+                    "dopant_immobilization_methods": [
+                        "Freezing the electrolyte solvent at room temperature",
+                        "Chemically linking ions to ligands on the QD surface"
+                    ],
+                    "additional_stabilization": "Encapsulating doped QD films using atomic layer deposition"
+                },
+                "outcome": {
+                    "result": "Stable doped nanocrystal assemblies with constant Fermi level",
+                    "Fermi_level_control": "Potential set during electrochemical charging"
+                },
+                "quantum_dots": {
+                    "description": "Small semiconductor crystals with size-tunable electronic properties",
+                    "applications": [
+                        "LEDs",
+                        "FETs",
+                        "Solar cells"
+                    ]
+                },
+                "challenges": "Electronic doping of QDs is challenging and highly desired for controlled applications.",
+                "project_goals": [
+                    "Unprecedented control over doping level in QD films",
+                    "Optimization of optoelectronic devices based on QDs"
+                ],
+                "applications": {
+                    "lasers": [
+                        "Degenerately doped, low-threshold QD lasers for continuous wave excitation",
+                        "QD laser diodes with electrical injection of charge carriers"
+                    ],
+                    "solar_cells": [
+                        "Optimized pin junction QD solar cells",
+                        "First-time QD pn junction solar cells with precise Fermi level control"
+                    ]
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "929c1d14086b858c9d3c032d8b667645",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nDoping on Demand: precise and permanent control of the Fermi level in nanocrystal assemblies\n\n**Description:**\n\nThe aim of the work proposed here is to develop a completely new method to electronically dope assemblies of semiconductor nanocrystals (a.k.a quantum dots, QDs), and porous semiconductors in general. External dopants are added on demand in the form of electrolyte ions in the voids between QDs. These ions will be introduced via electrochemical charge injection, and will subsequently be immobilized by (1) freezing the electrolyte solvent at room temperature or (2) chemically linking the ions to ligands on the QD surface, or by a combination of both. Encapsulating doped QD films using atomic layer deposition will provide further stability. This will result in stable doped nanocrystal assemblies with a constant Fermi level that is controlled by the potential set during electrochemical charging. QDs are small semiconductor crystals with size-tunable electronic properties that are considered promising materials for a range of opto-electronic applications. Electronic doping of QDs remains a big challenge even after two decades of research into this area. At the same time it is highly desired to dope QDs in a controlled way for applications such as LEDs, FETs and solar cells. This research project will provide unprecedented control over the doping level in QD films and will provided a major step in the optimization of optoelectronic devices based on QDs. The “Doping-on-Demand” approach will be exploited to develop degenerately doped, low-threshold QD lasers that can be operated under continuous wave excitation, and QD laser diodes that use electrical injection of charge carriers. The precise control of the Fermi-level will further be used to optimize pin junction QD solar cells and to develop, for the first time, QD pn junction solar cells with precise control over the Fermi levels."
+}

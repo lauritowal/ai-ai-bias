@@ -1,0 +1,108 @@
+{
+    "item_type": "proposal",
+    "title": "Extremes in logarithmically correlated fields",
+    "descriptions": [
+        {
+            "proposal_name": "Extremes in logarithmically correlated fields",
+            "proposal_details": {
+                "research_subjects": [
+                    "logarithmically correlated fields",
+                    "branching random walks",
+                    "two dimensional Gaussian free field",
+                    "random walk on the two dimensional torus",
+                    "characteristic polynomial of random matrices",
+                    "Ginzburg-Landau models"
+                ],
+                "research_focus": [
+                    "extremes",
+                    "Gaussian setups",
+                    "non-Gaussian setups"
+                ],
+                "methodologies": [
+                    "Gaussian comparisons",
+                    "second moment method"
+                ],
+                "goals": [
+                    "study of the maximum",
+                    "study of the extremal process",
+                    "development of a general theory",
+                    "applications to multiplicative chaos"
+                ],
+                "descriptions": [
+                    "The proposed research will develop the tools needed for building a general and flexible theory applicable to general logarithmically correlated fields."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Extremes in logarithmically correlated fields",
+            "proposal_details": {
+                "research_focus": "extremes of logarithmically correlated fields",
+                "setups": [
+                    "Gaussian",
+                    "non-Gaussian"
+                ],
+                "examples": [
+                    "branching random walks",
+                    "two dimensional Gaussian free field",
+                    "points left uncovered by a random walk on the two dimensional torus at times close to the cover time of the torus",
+                    "values of the characteristic polynomial of random matrices",
+                    "Ginzburg-Landau models"
+                ],
+                "recent_progress": [
+                    "study of the maximum",
+                    "extremal process of the two dimensional Gaussian free field"
+                ],
+                "methodologies": [
+                    "Gaussian comparisons",
+                    "refined version of the second moment method"
+                ],
+                "research_goals": [
+                    "develop tools for a general and flexible theory applicable to general logarithmically correlated fields",
+                    "applications to the multiplicative chaos"
+                ],
+                "descriptions": [
+                    "The proposal builds on recent progress in the study of the maximum and of the extremal process of the two dimensional Gaussian free field, which was made possible by Gaussian comparisons and the introduction of a refined version of the second moment method."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Extremes in logarithmically correlated fields",
+            "proposal_details": {
+                "research_focus": [
+                    "extremes of logarithmically correlated fields"
+                ],
+                "setups": [
+                    "Gaussian",
+                    "non-Gaussian"
+                ],
+                "examples": [
+                    "branching random walks",
+                    "two dimensional Gaussian free field",
+                    "points left uncovered by random walk on two dimensional torus at times close to cover time",
+                    "values of characteristic polynomial of random matrices",
+                    "Ginzburg-Landau models"
+                ],
+                "recent_progress": [
+                    "study of maximum of two dimensional Gaussian free field",
+                    "extremal process of two dimensional Gaussian free field"
+                ],
+                "techniques_used": [
+                    "Gaussian comparisons",
+                    "refined second moment method"
+                ],
+                "research_goals": [
+                    "develop tools for general theory of logarithmically correlated fields",
+                    "apply to multiplicative chaos"
+                ],
+                "descriptions": [
+                    "The proposal aims to develop a general and flexible theory for logarithmically correlated fields."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0c730ea69369f9db3301d3d4a574c5a6",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nExtremes in logarithmically correlated fields\n\n**Description:**\n\nThe proposed research deals with the extremes of logarithmically correlated fields, in both the Gaussian and non-Gaussian setups. Examples of such fields are branching random walks, the (discrete) two dimensional Gaussian free field, the set of points left uncovered by a random walk on the two dimensional torus at times close to the cover time of the torus, the (absolute) values of the characteristic polynomial of random matrices, Ginzburg-Landau models, and more. The proposal builds on recent progress in the study of the maximum and of the extremal process of the two dimensional Gaussian free field, which was made possible by Gaussian comparisons and the introduction of a refined version of the second moment method. The proposed research will develop the tools needed for building a general and flexible theory applicable to general logarithmically correlated fields. Applications to the multiplicative chaos will also be considered."
+}

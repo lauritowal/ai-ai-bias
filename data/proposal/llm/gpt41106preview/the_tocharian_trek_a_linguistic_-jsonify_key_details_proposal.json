@@ -1,0 +1,127 @@
+{
+    "item_type": "proposal",
+    "title": "The Tocharian Trek: A linguistic reconstruction of the migration of the Tocharians from Europe to China",
+    "descriptions": [
+        {
+            "proposal_name": "The Tocharian Trek: A linguistic reconstruction of the migration of the Tocharians from Europe to China",
+            "proposal_details": {
+                "descriptions": [
+                    "A linguistic assessment of the hypothesised migration route of the Tocharians."
+                ],
+                "linguistic_family": "Indo-European",
+                "languages_included": [
+                    "English",
+                    "Latin",
+                    "Greek",
+                    "Sanskrit"
+                ],
+                "geographic_distribution": "Ireland to the Sea of Bengal",
+                "exception": "Tocharian",
+                "manuscripts_location": "Tarim Basin, Northwest China",
+                "manuscripts_dating": {
+                    "from": 500,
+                    "to": 1000
+                },
+                "proto_indo_european_homeland": "East of present-day Ukraine",
+                "migration_period": {
+                    "early_to_southern_siberia": 3500,
+                    "to_tarim_basin": 2000
+                },
+                "tarim_mummies_connection": true,
+                "siberian_phase": {
+                    "genetic_evidence": true,
+                    "linguistic_influence": true
+                },
+                "birth_of_tocharian": "Heavy impact of local Siberian languages"
+            }
+        },
+        {
+            "proposal_name": "The Tocharian Trek: A linguistic reconstruction of the migration of the Tocharians from Europe to China",
+            "proposal_details": {
+                "descriptions": [
+                    "The proposed project aims to provide an integrated linguistic assessment of the hypothesised migration route of the Tocharians."
+                ],
+                "languages_mentioned": [
+                    "Tocharian",
+                    "English",
+                    "Latin",
+                    "Greek",
+                    "Sanskrit"
+                ],
+                "language_family": "Indo-European",
+                "geographic_distribution": {
+                    "span": "from Ireland to the Sea of Bengal",
+                    "exception": "Tocharian in Northwest China"
+                },
+                "manuscript_origin": {
+                    "location": "Tarim Basin in Northwest China",
+                    "time_period": "c. 500–1000 CE"
+                },
+                "proto_indo_european": {
+                    "hypothetical_reconstruction": true,
+                    "origin_location": "east of present-day Ukraine"
+                },
+                "migration_period": {
+                    "to_southern_siberia": "around 3500 BCE",
+                    "to_tarim_basin": "as early as 2000 BCE"
+                },
+                "archaeological_evidence": [
+                    "Tarim Mummies"
+                ],
+                "genetic_evidence": {
+                    "siberian_influence": true
+                },
+                "linguistic_evidence": {
+                    "neglected": true,
+                    "contact_effects": true,
+                    "reconstruction_focus": "migration route from Proto-Indo-European homeland to China",
+                    "siberian_phase": {
+                        "groundbreaking_nature": true,
+                        "local_siberian_languages_impact": "birth of Tocharian"
+                    }
+                }
+            }
+        },
+        {
+            "proposal_name": "The Tocharian Trek: A linguistic reconstruction of the migration of the Tocharians from Europe to China",
+            "proposal_details": {
+                "descriptions": [
+                    "An integrated linguistic assessment of the hypothesised migration route of the Tocharians."
+                ],
+                "languages_involved": [
+                    "English",
+                    "Latin",
+                    "Greek",
+                    "Sanskrit",
+                    "Tocharian"
+                ],
+                "geographic_distribution": "Ireland to the Sea of Bengal",
+                "tocharian_discovery": {
+                    "location": "Tarim Basin in Northwest China",
+                    "time_period": "c. 500–1000 CE"
+                },
+                "proto_indo_european_origin": "east of present-day Ukraine",
+                "early_tocharian_migration": {
+                    "initial_move": "east to southern Siberia",
+                    "initial_move_date": "around 3500 BCE",
+                    "subsequent_move": "south to the Tarim Basin in China",
+                    "arrival_date": "as early as 2000 BCE"
+                },
+                "tarim_mummies_connection": true,
+                "research_focus": "linguistic evidence",
+                "language_contact_effects": true,
+                "migration_route_reconstruction": true,
+                "siberian_phase": {
+                    "genetic_evidence": "influence from local Siberian populations",
+                    "linguistic_impact": "heavy impact of local Siberian languages",
+                    "significance": "birth of Tocharian"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bfd5a82a9a866d3f331066fec1fc5d1b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Tocharian Trek: A linguistic reconstruction of the migration of the Tocharians from Europe to China\n\n**Description:**\n\nThe long trek of the Tocharians from Europe to China is one of the most disputed issues in the migration history of Eurasia. Tocharian is an extinct branch of the Indo-European language family, which includes a.o. English, Latin, Greek and Sanskrit. The Indo-European languages stretch in one uninterrupted belt from Ireland to the Sea of Bengal, but Tocharian, discovered in manuscripts from the Tarim Basin in Northwest China dating from c. 500–1000 CE, is a notorious exception to this geographic distribution. The common ancestor of the Indo-European languages, Proto-Indo-European, can be hypothetically reconstructed and is often located in the east of present-day Ukraine. Therefore, speakers of early Tocharian must have made a long trek eastward before they settled in the Tarim Basin. Archaeological and genetic evidence suggests that they first moved east to southern Siberia around 3500 BCE and then south to the Tarim Basin in China, where they may have arrived as early as 2000 BCE. The arrival of the Tocharians in the Tarim Basin is possibly linked to ancient corpses found there: the so-called Tarim Mummies. Curiously, linguistic evidence has mostly been neglected. Therefore, the proposed project aims to provide an integrated linguistic assessment of the hypothesised migration route of the Tocharians. Languages preserve precious information about their prehistory through the effects of language contact. Through close scrutiny and periodisation of the different layers of contact of Tocharian and its prehistoric neighbours, the project will reconstruct the migration route of the Tocharians from the Proto-Indo-European homeland all the way to China. The crucial Siberian phase of the migration shows the groundbreaking nature of the approach. Genetic evidence points to influence from local Siberian populations on the early Tocharians. Likewise, the Tocharian language shows such heavy impact of local Siberian languages that this may be called the “birth of Tocharian”."
+}

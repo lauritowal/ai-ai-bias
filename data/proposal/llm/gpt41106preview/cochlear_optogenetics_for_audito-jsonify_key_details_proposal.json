@@ -1,0 +1,134 @@
+{
+    "item_type": "proposal",
+    "title": "Cochlear Optogenetics for Auditory Research and Prosthetics",
+    "descriptions": [
+        {
+            "proposal_name": "Cochlear Optogenetics for Auditory Research and Prosthetics",
+            "proposal_details": {
+                "affected_population": 360000000,
+                "hearing_impairment_types": [
+                    "sensorineural HI"
+                ],
+                "implementation": "optogenetic stimulation of the cochlea",
+                "current_solution": "electric stimulation of SGNs",
+                "current_solution_limitations": [
+                    "low quality of 'electric hearing'",
+                    "poor frequency resolution"
+                ],
+                "goal": "increase independent coding channels via spatially confined optical stimulation",
+                "proof_of_principle": {
+                    "achievements": [
+                        "virus-mediated expression of ChR in SGNs",
+                        "recorded light-evoked auditory activity",
+                        "demonstrated improved frequency resolution for optical vs. electric stimulation in rodents"
+                    ],
+                    "development": [
+                        "co-developed and implanted optical multichannel CIs",
+                        "studied implant position using X-ray tomography"
+                    ]
+                },
+                "optimization_plans": [
+                    "optimize expression of best-suited ChRs in SGNs",
+                    "establish multichannel optical stimulation"
+                ],
+                "characterization_plans": [
+                    "characterize neuronal responses to cochlear optogenetics along the auditory pathway"
+                ],
+                "research_plans": [
+                    "use cochlear optogenetics as a research tool"
+                ],
+                "clinical_translation_preparation": true,
+                "descriptions": [
+                    "OptoHear will establish and use cochlear optogenetics as a research tool, validate its potential for research and hearing restoration, and prepare translation into the clinic."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Cochlear Optogenetics for Auditory Research and Prosthetics",
+            "proposal_details": {
+                "affected_population": 360000000,
+                "hearing_impairment_prevalence_increase_with_age": true,
+                "common_form": "sensorineural HI",
+                "current_treatment": "electric stimulation of SGNs",
+                "current_treatment_utilization": "cochlear implants",
+                "cochlear_implants_outcome": "speech comprehension in most users",
+                "electric_hearing_quality": "low",
+                "frequency_resolution_quality_with_CIs": "poor",
+                "project_goal": "increase number of independent coding channels",
+                "method": "spatially confined optical stimulation of ChR-expressing SGNs",
+                "light_emitters_along_cochlear_axis": "tens",
+                "proof_of_principle_outcomes": {
+                    "virus_mediated_expression_of_ChR_in_SGNs": true,
+                    "recorded_light_evoked_auditory_activity": true,
+                    "improved_frequency_resolution_optical_vs_electric": true
+                },
+                "developed_implants": "optical multichannel CIs",
+                "implant_study_method": "X-ray tomography",
+                "optimization_target": "expression of best-suited ChRs in SGNs",
+                "characterization_approaches": [
+                    "physiological",
+                    "behavioural"
+                ],
+                "research_tool_application": "cochlear optogenetics",
+                "clinical_translation_preparation": true,
+                "descriptions": [
+                    "OptoHear will establish and use cochlear optogenetics as a research tool, validate its potential for research and hearing restoration, and prepare translation into the clinic."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Cochlear Optogenetics for Auditory Research and Prosthetics",
+            "proposal_details": {
+                "affected_population": 360000000,
+                "condition": "sensorineural hearing impairment",
+                "proposed_solution": {
+                    "technique": "optogenetic stimulation",
+                    "target": "cochlea"
+                },
+                "current_solutions": {
+                    "method": "electric stimulation",
+                    "application": "cochlear implants",
+                    "limitations": [
+                        "low quality",
+                        "poor frequency resolution"
+                    ]
+                },
+                "project_goal": "increase independent coding channels",
+                "technology": "spatially confined optical stimulation",
+                "achievements": {
+                    "proof_of_principle": [
+                        "virus-mediated expression of ChR in SGNs",
+                        "recorded light-evoked auditory activity",
+                        "improved frequency resolution for optical vs. electric stimulation in rodents"
+                    ],
+                    "developments": [
+                        "implanted optical multichannel CIs",
+                        "studied positioning using X-ray tomography"
+                    ]
+                },
+                "future_work": {
+                    "optimizations": "expression of best-suited ChRs in SGNs",
+                    "establishment": "multichannel optical stimulation",
+                    "characterization": "neuronal responses to cochlear optogenetics",
+                    "methods": [
+                        "physiological",
+                        "behavioural approaches"
+                    ],
+                    "applications": [
+                        "fundamental auditory research",
+                        "hearing restoration"
+                    ]
+                },
+                "long_term_goal": "prepare translation into the clinic",
+                "descriptions": [
+                    "OptoHear will establish and use cochlear optogenetics as a research tool, validate its potential for research and hearing restoration, and prepare translation into the clinic."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a9b128a7dc0b8a504d590e5dee089e9e",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nCochlear Optogenetics for Auditory Research and Prosthetics\n\n**Description:**\n\nDisabling hearing impairment (HI) affects 360 million people worldwide and prevalence increases with age. So far, no causal treatment is available for its most common form, sensorineural HI. I propose to establish, characterize, and employ optogenetic stimulation of the cochlea, which provides unprecedented opportunities for auditory research and promises a fundamental advance of hearing restoration. Sound is encoded by spiral ganglion neurons (SGNs) with high frequency-, intensity-, and time-resolution. Hearing can be enabled via electric stimulation of SGNs, which is employed in current hearing restoration with cochlear implants (CIs) and also used in auditory research. CIs enable speech comprehension in most users, but the quality of ‘electric hearing’ is low, with poor frequency resolution. The goal of OptoHear is to overcome this fundamental limitation by increasing the number of independent coding channels via spatially confined optical stimulation of channelrhodopsin (ChR)-expressing SGNs by tens of light emitters along the cochlear axis (cochlear optogenetics). This promises a dramatic improvement in the frequency resolution of artificial sound coding. As proof of principle, we achieved virus-mediated expression of ChR in SGNs, recorded light-evoked auditory activity and demonstrated improved frequency resolution for optical vs. electric stimulation in rodents. We co-developed and implanted optical multichannel CIs and studied their position in the rodent cochlea using X-ray tomography. We will optimize the expression of best-suited ChRs in SGNs, establish multichannel optical stimulation, characterize neuronal responses to cochlear optogenetics along the auditory pathway by physiological and behavioural approaches, and employ cochlear optogenetics for fundamental auditory research. OptoHear will establish and use cochlear optogenetics as a research tool, validate its potential for research and hearing restoration, and prepare translation into the clinic."
+}

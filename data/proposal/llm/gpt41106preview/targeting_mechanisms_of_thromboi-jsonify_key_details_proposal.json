@@ -1,0 +1,157 @@
+{
+    "item_type": "proposal",
+    "title": "Targeting mechanisms of Thrombo-inflammation",
+    "descriptions": [
+        {
+            "proposal_name": "Targeting mechanisms of Thrombo-inflammation",
+            "proposal_details": {
+                "descriptions": [
+                    "The proposal aims to explore the molecular mechanisms of thrombo-inflammation to address the clinical relevance highlighted by the Covid-19 pandemic. It focuses on the interaction between tissue factor (TF, F3, CD142) and the cytokine receptor IFNAR1 (Interferon-alpha/beta receptor alpha chain), their role in coagulation, inflammation, and metabolism, and the implications for thrombo-inflammatory diseases."
+                ],
+                "objectives": [
+                    {
+                        "aim": "Investigate the regulation of the molecular switch involving TF and IFNAR1",
+                        "methods": [
+                            "in vitro work",
+                            "cell-specific inducible TF±IFNAR1 deficient mice"
+                        ]
+                    },
+                    {
+                        "aim": "Determine the consequences of the molecular switch for intracellular signaling, inflammation, and mitochondrial metabolism",
+                        "methods": [
+                            "omics",
+                            "bioinformatic analyses"
+                        ]
+                    },
+                    {
+                        "aim": "Identify the molecular structures required for the TF-IFNAR1 interaction",
+                        "methods": [
+                            "cross-linking",
+                            "crystallography",
+                            "phage display",
+                            "computational modeling"
+                        ]
+                    }
+                ],
+                "expected_outcomes": [
+                    "New diagnostic and therapeutic approaches for thrombo-inflammatory diseases"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Targeting mechanisms of Thrombo-inflammation",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "clinical_relevance": "thrombo-inflammation",
+                        "disease_mechanism": "impairing outcome of viral/bacterial infection, cardiovascular disease, cancer, etc.",
+                        "current_understanding": "limited",
+                        "recent_discovery": {
+                            "link": "tissue factor (TF, F3, CD142) and IFNAR1 heterodimer",
+                            "inactive_state": "on resting cells",
+                            "activation_stimuli": [
+                                "fVII/fVIIa",
+                                "LPS",
+                                "polyIC"
+                            ],
+                            "activated_processes": [
+                                "TF-mediated coagulation",
+                                "IFNAR1-mediated inflammation",
+                                "cellular metabolism"
+                            ]
+                        },
+                        "proposed_concept": "molecular switch controlling coagulation, inflammation, and metabolism",
+                        "research_goals": [
+                            {
+                                "regulation": "how the molecular switch is regulated in organ/context-specific fashion",
+                                "methods": [
+                                    "in vitro work",
+                                    "cell-specific inducible TF±IFNAR1 deficient mice"
+                                ]
+                            },
+                            {
+                                "consequences": "consequences for intracellular signaling, inflammation, mitochondrial metabolism",
+                                "analysis": [
+                                    "omics",
+                                    "bioinformatic analyses"
+                                ]
+                            },
+                            {
+                                "structures": "molecular structures required for the TF-IFNAR1 interaction",
+                                "techniques": [
+                                    "cross-linking",
+                                    "crystallography",
+                                    "phage display",
+                                    "computational modeling"
+                                ]
+                            }
+                        ],
+                        "expected_outcome": "new diagnostic and therapeutic approaches for thrombo-inflammatory diseases"
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Targeting mechanisms of Thrombo-inflammation",
+            "proposal_details": {
+                "clinical_relevance": [
+                    "thrombo-inflammation",
+                    "viral or bacterial infection",
+                    "cardiovascular disease",
+                    "cancer"
+                ],
+                "recent_discovery": {
+                    "molecular_link": "tissue factor and IFNAR1 heterodimer",
+                    "inactive_on_resting_cells": true,
+                    "activation_stimuli": [
+                        "fVII/fVIIa",
+                        "LPS",
+                        "polyIC"
+                    ],
+                    "activated_processes": [
+                        "TF-mediated coagulation",
+                        "IFNAR1-mediated inflammation",
+                        "cellular metabolism"
+                    ]
+                },
+                "research_aims": [
+                    {
+                        "aim": "regulation of molecular switch",
+                        "methods": [
+                            "in vitro work",
+                            "cell-specific inducible TF±IFNAR1 deficient mice"
+                        ]
+                    },
+                    {
+                        "aim": "consequences of molecular switch",
+                        "methods": [
+                            "omics",
+                            "bioinformatic analyses"
+                        ]
+                    },
+                    {
+                        "aim": "molecular structures for TF-IFNAR1 interaction",
+                        "methods": [
+                            "cross-linking",
+                            "crystallography",
+                            "phage display",
+                            "computational modeling"
+                        ]
+                    }
+                ],
+                "expected_outcomes": [
+                    "new diagnostic approaches",
+                    "new therapeutic approaches"
+                ],
+                "descriptions": [
+                    "A novel molecular switch simultaneously controlling coagulation, inflammation, and metabolism expected to provide a new conceptional framework for thrombo-inflammatory diseases."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "85a8149acd1ad318ce6fc7c42ce5a58e",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTargeting mechanisms of Thrombo-inflammation\n\n**Description:**\n\nThe recent Covid-19 pandemic dramatically illustrated (i) the clinical relevance of thrombo-inflammation (the interplay of coagulation and inflammation) and (ii) our limited understanding of molecular mechanisms of thrombo-inflammation. Thrombo-inflammation is a frequent disease-driving mechanism, impairing out-come of viral or bacterial infection, cardiovascular disease, cancer and other diseases. The lack of mechanistic insights hampered the development of specific therapies. My group recently discovered a new molecular link between coagulation and inflammation that addresses this enormous unmet medical need: the initiator of coagulation, tissue factor (TF, F3, CD142), forms a previously unknown heterodimer with the cytokine receptor IFNAR1 (Interferon-alpha/beta receptor alpha chain) on resting cells. In this heterodimer, TF and IFNAR1 are both inactive. Upon stimulation (e.g. fVII/fVIIa, LPS, polyIC) the heterodimer dissociates, activating TF-mediated coagulation, IFNAR1-mediated inflammation, and cellular metabolism. This provides a novel, yet simple molecular switch simultaneously controlling coagulation, inflammation, and metabolism. This “switch” is expected to provide a new conceptional framework for thrombo-inflammatory diseases. To enable future translation of this novel mechanism, I aim to address the following open questions (i) how is this molecular switch regulated in an organ and context specific fashion (in vitro work; cell-specific inducible TF±IFNAR1 deficient mice)? (ii) what are the consequences of this molecular switch for intracellular signaling, inflammation, mitochondrial metabolism (omics with bioinformatic analyses)? and (iii) what are the molecular structures required for the TF-IFNAR1 interaction (cross-linking, crystallography, phage display, computational modeling)? I expect that answering these questions will lead to new diagnostic and therapeutic approaches revolutionizing the way we detect and treat thrombo-inflammatory diseases."
+}

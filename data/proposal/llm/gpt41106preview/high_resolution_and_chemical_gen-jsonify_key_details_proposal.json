@@ -1,0 +1,153 @@
+{
+    "item_type": "proposal",
+    "title": "High resolution and chemical genetic approaches to RNA silencing mechanisms",
+    "descriptions": [
+        {
+            "proposal_name": "High resolution and chemical genetic approaches to RNA silencing mechanisms",
+            "proposal_details": {
+                "organisms": [
+                    "eukaryotes",
+                    "plants",
+                    "metazoans"
+                ],
+                "sRNAs": [
+                    "miRNAs",
+                    "siRNAs"
+                ],
+                "functions": [
+                    "cell differentiation",
+                    "development",
+                    "hormonal responses",
+                    "defense"
+                ],
+                "importance": [
+                    "cell identity",
+                    "adaptation to stress"
+                ],
+                "consequences_of_deviation": [
+                    "cancer"
+                ],
+                "model_organism": "Arabidopsis thaliana",
+                "focus_protein": "ARGONAUTE 1 (AGO1)",
+                "resolutions": [
+                    "single-cell",
+                    "subcellular"
+                ],
+                "technologies": [
+                    "single-cell forward genetics",
+                    "protein purification",
+                    "RNA/polysome profiling"
+                ],
+                "goals": [
+                    "establish functional spatiotemporal map of root AGO1-sRNAome",
+                    "identify cell-specific modifiers of sRNA biogenesis and action"
+                ],
+                "chemical_genetics": {
+                    "purpose": [
+                        "isolate small molecules",
+                        "manipulate AGO1-dependent sRNA pathways in planta"
+                    ],
+                    "applications": [
+                        "accelerate forward and reverse approaches of RNA silencing in plants",
+                        "uncover connections between miRNA/siRNA and physiological or metabolic pathways"
+                    ]
+                },
+                "descriptions": [
+                    "This proposal aims to explore the biology of miRNA effector protein ARGONAUTE 1 (AGO1) in Arabidopsis thaliana at high resolution."
+                ]
+            }
+        },
+        {
+            "proposal_name": "High resolution and chemical genetic approaches to RNA silencing mechanisms",
+            "proposal_details": {
+                "subjects": [
+                    "eukaryotes",
+                    "small RNAs",
+                    "microRNAs",
+                    "small interfering RNAs"
+                ],
+                "applications": [
+                    "cell differentiation",
+                    "development",
+                    "hormonal responses",
+                    "defense",
+                    "stress adaptation",
+                    "cancer"
+                ],
+                "focus_organism": "Arabidopsis thaliana",
+                "target_protein": "ARGONAUTE 1 (AGO1)",
+                "research_methods": [
+                    "single-cell forward genetics",
+                    "protein purification",
+                    "RNA/polysome profiling"
+                ],
+                "goals": [
+                    "establish a functional spatiotemporal map of the root AGO1-sRNAome",
+                    "identify cell-specific modifiers of sRNA biogenesis and action"
+                ],
+                "chemical_genetics": [
+                    "isolate small molecules for manipulation of AGO1-dependent sRNA pathways"
+                ],
+                "additional_outcomes": [
+                    "accelerate forward and reverse approaches of RNA silencing",
+                    "uncover connections between miRNA/siRNA and physiological or metabolic pathways"
+                ],
+                "descriptions": [
+                    "Exploration of miRNA-mediated silencing in whole organisms, at single-cell and subcellular resolution levels, with a focus on the root system of Arabidopsis thaliana."
+                ]
+            }
+        },
+        {
+            "proposal_name": "High resolution and chemical genetic approaches to RNA silencing mechanisms",
+            "proposal_details": {
+                "focus": [
+                    "RNA silencing",
+                    "miRNAs",
+                    "siRNAs"
+                ],
+                "importance": [
+                    "cell differentiation",
+                    "development",
+                    "hormonal responses",
+                    "defense",
+                    "stress adaptation"
+                ],
+                "miRNA roles": [
+                    "embryonic/post-embryonic development",
+                    "cell identity",
+                    "stress adaptation"
+                ],
+                "consequences of deviation": [
+                    "cancer"
+                ],
+                "model organism": "Arabidopsis thaliana",
+                "target protein": "ARGONAUTE 1 (AGO1)",
+                "resolution": [
+                    "single-cell",
+                    "subcellular"
+                ],
+                "technologies": [
+                    "single-cell forward genetics",
+                    "protein purification",
+                    "RNA/polysome profiling"
+                ],
+                "objectives": [
+                    "establish functional spatiotemporal map of root AGO1-sRNAome",
+                    "identify cell-specific modifiers of sRNA biogenesis and action"
+                ],
+                "chemical genetics": [
+                    "isolate small molecules for AGO1-dependent sRNA pathways manipulation"
+                ],
+                "potential outcomes": [
+                    "accelerate forward and reverse approaches of RNA silencing",
+                    "uncover novel connections between miRNA/siRNA and physiological/metabolic pathways"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3262c1d06aa545e0839436d7ae5ec6d5",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nHigh resolution and chemical genetic approaches to RNA silencing mechanisms\n\n**Description:**\n\nIn eukaryotes, silencing small (s)RNAs, including micro (mi)RNAs and small interfering (si)RNAs, regulate many aspects of biology, including cell differentiation, development, hormonal responses, or defense. In particular, many plant and metazoan miRNAs play crucial roles in embryonic/post-embryonic development; the precise timing and localization of their expression is thus crucial to their action. Hence, specific miRNA repertoires underlie specific cell identities, and deviations from such repertoires often have deleterious consequences such as cancer. Many miRNAs also help organisms to adapt to stress, thus, given their importance in virtually all aspects of biology, understanding how, when and where miRNAs exert their actions is of paramount importance. To date, however, the few approaches to miRNA-mediated silencing in whole organisms have not taken into account the exquisite definition, in space and time, of their biogenesis and action, leading to an inaccurate view of the biology of these molecules at the systems level. Using the root system of the model plant Arabidopsis thaliana, we propose to explore, at single-cell and subcellular resolution levels, the biology of the main miRNA effector protein, ARGONAUTE 1 (AGO1) in intact tissues. Using a combination of state-of the-art technologies for single-cell forward genetics, protein purification and RNA/polysome profiling, we will establish a functional spatiotemporal map of the root AGO1-sRNAome and identify cell-specific modifiers of sRNA biogenesis and action. As a complement to the above approaches, chemical genetics will isolate small molecules allowing direct and specific manipulation of AGO1-dependent sRNA pathways in planta. RNA silencing modifier compounds will also accelerate forward and reverse approaches of RNA silencing in plants with sensitized genetic backgrounds, and uncover novel connections between miRNA/siRNA and physiological or metabolic pathways."
+}

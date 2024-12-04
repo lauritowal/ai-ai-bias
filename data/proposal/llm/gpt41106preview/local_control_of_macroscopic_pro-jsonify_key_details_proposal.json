@@ -1,0 +1,124 @@
+{
+    "item_type": "proposal",
+    "title": "Local Control of Macroscopic Properties in Isolated Many-body Quantum Systems",
+    "descriptions": [
+        {
+            "proposal_name": "Local Control of Macroscopic Properties in Isolated Many-body Quantum Systems",
+            "proposal_details": {
+                "focus": "Many-body quantum systems",
+                "historical_context": {
+                    "past_focus": "Equilibrium properties",
+                    "systems_type": "Typically coupled to an environment"
+                },
+                "recent_changes": {
+                    "advancements": "Experiments on ultra-cold, trapped atoms",
+                    "isolation_level": "Almost isolated",
+                    "research_interest": "Nonequilibrium dynamics"
+                },
+                "new_phenomena": "Relaxation without dissipation",
+                "recent_progress": "Inhomogeneous systems",
+                "phenomenon": "Localized perturbation affects stationary properties globally",
+                "project": {
+                    "name": "LoCoMacro",
+                    "aim": "Control macroscopic properties of nonequilibrium state by acting locally",
+                    "research_questions": [
+                        "Relaxation",
+                        "Emergence of nonequilibrium steady states",
+                        "Effects of inhomogeneities"
+                    ]
+                },
+                "approach": {
+                    "study_impact": "Localized perturbations on dynamics",
+                    "techniques": [
+                        "Advanced analytic techniques",
+                        "Exact results for correlation functions and entanglement measures",
+                        "State-of-the-art numerical simulations"
+                    ]
+                },
+                "topics_bridged": [
+                    "Thermalization in homogeneous systems",
+                    "Many-body localization in disordered systems"
+                ],
+                "descriptions": [
+                    "LoCoMacro explores the control of macroscopic nonequilibrium properties via localized perturbations, utilizing advanced analytical and numerical techniques."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Local Control of Macroscopic Properties in Isolated Many-body Quantum Systems",
+            "proposal_details": {
+                "focus": [
+                    "equilibrium properties of many-body quantum systems",
+                    "nonequilibrium dynamics in almost isolated systems"
+                ],
+                "phenomena": [
+                    "new kind of relaxation not caused by dissipation"
+                ],
+                "research_areas": [
+                    "nonequilibrium dynamics",
+                    "inhomogeneous systems",
+                    "localized perturbations",
+                    "steady states",
+                    "conservation laws",
+                    "integrable models",
+                    "correlation functions",
+                    "entanglement measures",
+                    "thermalization",
+                    "many-body localization"
+                ],
+                "techniques": [
+                    "advanced analytic techniques",
+                    "state-of-the-art numerical simulations"
+                ],
+                "objectives": [
+                    "control macroscopic properties of nonequilibrium state by acting on part of the system",
+                    "study effects of localized perturbations",
+                    "obtain exact results in integrable models"
+                ],
+                "descriptions": [
+                    "LoCoMacro aims to control the macroscopic properties of a nonequilibrium state through localized interventions."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Local Control of Macroscopic Properties in Isolated Many-body Quantum Systems",
+            "proposal_details": {
+                "focus": "nonequilibrium dynamics in many-body quantum systems",
+                "context": {
+                    "historical": "equilibrium properties with environment coupling",
+                    "current": "experiments on ultra-cold, trapped atoms"
+                },
+                "phenomena": "relaxation without dissipation",
+                "observations": {
+                    "localized_perturbation_effect": "global effects on stationary properties",
+                    "inhomogeneous_systems_progress": true
+                },
+                "project_name": "LoCoMacro",
+                "aims": [
+                    "control macroscopic properties of a nonequilibrium state"
+                ],
+                "questions": [
+                    "relaxation in inhomogeneous systems",
+                    "emergence of nonequilibrium steady states",
+                    "localized perturbations on dynamics"
+                ],
+                "methods": {
+                    "analytic_techniques": "integrable models",
+                    "numerical_simulations": "state-of-the-art"
+                },
+                "topics": [
+                    "thermalization in homogeneous systems",
+                    "many-body localization in disordered systems"
+                ],
+                "descriptions": [
+                    "LoCoMacro investigates the effects of localized perturbations on macroscopic properties of nonequilibrium states in many-body quantum systems."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "effae9bf884a024a52283e8ec9339b4a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nLocal Control of Macroscopic Properties in Isolated Many-body Quantum Systems\n\n**Description:**\n\nStudies of many-body quantum systems in the last century have been mainly focussed on equilibrium properties; the systems of interest were typically coupled to an environment, which brings about relaxation after short times. The situation changed with the advent of experiments on clouds of ultra-cold, trapped atoms. These are by design almost isolated, and allow for investigations into nonequilibrium dynamics before the onset of dissipative processes. The characterization of such dynamics is now a main frontier of theoretical physics. One of the most exciting phenomena observed was the emergence of a new kind of relaxation, not caused by dissipation. The system acts as its own bath and at late times it is as if the state were prepared at a different temperature, or, especially in low-dimensional systems, in some exotic state of matter. Recently, some progress has been made in extending this picture to inhomogeneous systems. In particular, an exceptional phenomenon was pointed out: a localized perturbation can have global effects on the stationary properties of the observables. LoCoMacro is born of this observation and has the ultimate aim of finding novel ways to control the macroscopic properties of a nonequilibrium state by acting on a small part of the system. We address the fundamental questions of relaxation and emergence of nonequilibrium steady states in the presence of inhomogeneities; we study the effects of localized perturbations on the key elements of the dynamics, as the conservation laws. In integrable models we use the most advanced analytic techniques to obtain exact results, e.g., for correlation functions and entanglement measures. More generally, we rely on state-of-the-art numerical simulations. For the defining characteristics of the models studied, LoCoMacro creates a bridge between two fascinating topics: thermalization in homogeneous systems and many-body localization in disordered ones."
+}

@@ -1,0 +1,126 @@
+{
+    "item_type": "proposal",
+    "title": "Population Dynamics under Global Climate Change",
+    "descriptions": [
+        {
+            "proposal_name": "Population Dynamics under Global Climate Change",
+            "proposal_details": {
+                "first_of_its_kind": true,
+                "focus": "impacts of climate change on population trends",
+                "objectives": [
+                    "study influence of CC on demographic outcomes",
+                    "examine impacts of CC on population subgroups",
+                    "identify mechanisms how CC influences demographics",
+                    "forecast population dynamics under future CC scenarios"
+                ],
+                "analysis": [
+                    "fertility",
+                    "mortality",
+                    "migration"
+                ],
+                "methodologies": [
+                    "structural equation models",
+                    "machine learning"
+                ],
+                "datasets": [
+                    "geo-referenced climate data",
+                    "demographic data",
+                    "socioeconomic data",
+                    "surveys",
+                    "social media data"
+                ],
+                "data_levels": [
+                    "individual",
+                    "regional",
+                    "country"
+                ],
+                "outcomes": [
+                    "inform population projections under CC scenarios",
+                    "contribute to realistic population trend scenarios",
+                    "inform international debate on social costs of CC",
+                    "provide estimations for social and environmental policy design"
+                ],
+                "descriptions": [
+                    "This project systematically addresses how climate change affects demographic outcomes."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Population Dynamics under Global Climate Change",
+            "proposal_details": {
+                "study_focus": "Impacts of climate change on population trends",
+                "literature_gap": "Lack of comprehensive research on CC affecting demographic outcomes",
+                "unclear_impacts": [
+                    "fertility",
+                    "mortality",
+                    "migration"
+                ],
+                "objectives": [
+                    "Study influence of CC on demographic outcomes",
+                    "Examine differential impacts of CC on subgroups",
+                    "Identify mechanisms of CC influence on demographics",
+                    "Forecast future population dynamics under CC"
+                ],
+                "methodologies": [
+                    "Analysis of fertility, mortality, and migration",
+                    "Use of various datasets",
+                    "Population projections under future CC scenarios"
+                ],
+                "innovative_approach": [
+                    "Combination of geo-referenced climate, demographic, and socioeconomic data",
+                    "Use of surveys and social media data",
+                    "Employment of structural equation models",
+                    "Application of machine learning for large-scale data handling"
+                ],
+                "expected_results_importance": [
+                    "Building realistic population trend scenarios under CC",
+                    "Informing international debate on social costs of CC",
+                    "Estimations to design social and environmental policies"
+                ],
+                "descriptions": [
+                    "This study is the first to comprehensively address the impacts of climate change on population trends."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Population Dynamics under Global Climate Change",
+            "proposal_details": {
+                "descriptions": [
+                    "This study comprehensively addresses the impacts of climate change on population trends."
+                ],
+                "objectives": [
+                    "Study the way in which climate change influences demographic outcomes.",
+                    "Examine the differential impacts of climate change on subgroups of populations.",
+                    "Identify the mechanisms through which climate change influences demographic outcomes.",
+                    "Forecast future population dynamics under climate change."
+                ],
+                "methods": [
+                    "Analyse fertility, mortality, and migration separately.",
+                    "Use a variety of methodologies and datasets.",
+                    "Utilise and combine geo-referenced climate, demographic, and socioeconomic data.",
+                    "Employ structural equation models to identify causal pathways.",
+                    "Use machine learning methods to handle large-scale data."
+                ],
+                "data_sources": [
+                    "Surveys",
+                    "Social media data"
+                ],
+                "data_levels": [
+                    "Individual-level",
+                    "Regional-level",
+                    "Country-level"
+                ],
+                "expected_outcomes": [
+                    "Help build more realistic scenarios about population trends under climate change.",
+                    "Inform the international debate over the social costs of climate change.",
+                    "Provide estimations to design better social and environmental policies."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "cdcb9f0474cc88a9ac5d712d467386dd",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPopulation Dynamics under Global Climate Change\n\n**Description:**\n\nThis study is the first to comprehensively address the impacts of climate change (CC) on population trends. Existing studies on population and CC focus either on the effects of population growth on CC or on identification of populations at risks to climatic hazards. There is virtually no literature on the mechanisms and the extent to which CC affects and will affect demographic outcomes. It is even not clear whether CC may increase or decrease fertility, mortality and migration. Being the first study to comprehensively and systematically address this issue, this project is very timely given that CC impacts have already been felt and are forecast to be much stronger in the future. The project has four main objectives: 1) to study the way (direction and extent) in which CC influences demographic outcomes; 2) to examine the differential impacts of CC on subgroups of populations; 3) to identify the mechanisms through which CC influences demographic outcomes; 4) to forecast future population dynamics under climate change. The project will analyse fertility, mortality and migration separately, using a variety of methodologies and datasets. Results from these analyses will then be used to inform the population projections under future CC scenarios. Our methodological approach is innovative. We will utilise and combine geo-referenced climate, demographic and socioeconomic data from different data sources (surveys and social media data) at the individual-, regional and country-level. Structural equation models are employed to identify the causal pathways and machine learning method is used to handle large-scale data. Results will be particularly important for: 1) helping the scientific community in building more realistic scenarios about populations trends under the rapid pace of CC; 2) informing the international debate over the social costs of CC; and 3) providing a set of estimations useful to design better social and environmental policies."
+}

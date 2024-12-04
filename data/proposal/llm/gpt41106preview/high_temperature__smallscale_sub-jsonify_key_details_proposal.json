@@ -1,0 +1,178 @@
+{
+    "item_type": "proposal",
+    "title": "High Temperature – Small-Scale Sub-Surface Deformation assisted by Oxidation",
+    "descriptions": [
+        {
+            "proposal_name": "High Temperature – Small-Scale Sub-Surface Deformation assisted by Oxidation",
+            "proposal_details": {
+                "temperature_range": {
+                    "low": 650,
+                    "high": 1200,
+                    "unit": "C"
+                },
+                "oxidation_depth_gradient": {
+                    "low": 0.1,
+                    "high": 100,
+                    "unit": "µm"
+                },
+                "investigation_materials": [
+                    "Ni-based",
+                    "Ti-based"
+                ],
+                "techniques": [
+                    "high resolution-digital image correlation (HR-DIC)",
+                    "in-situ TEM mechanical testing",
+                    "in-situ micropillar/nanoindentation testing",
+                    "synchrotron nano-tomography",
+                    "topotomography"
+                ],
+                "numerical_simulations": [
+                    "phase field-coupled crystal plasticity finite element methods"
+                ],
+                "special_expertise": [
+                    "mesoscale ultrathin specimen preparation and testing"
+                ],
+                "novel_techniques_development": [
+                    "mesoscale flexural techniques with real-time 3D observation"
+                ],
+                "maximum_technique_temperature": 1000,
+                "temperature_unit": "C",
+                "scale_characterisations": [
+                    "micro",
+                    "macroscale"
+                ],
+                "material_properties_focus": [
+                    "graded properties"
+                ],
+                "measurement_challenges": [
+                    "robust measurement at hidden locations",
+                    "surface texture evolution monitoring"
+                ],
+                "monitoring_techniques": [
+                    "smart surface monitoring for high temperature HR-DIC"
+                ],
+                "numerical_methods": [
+                    "inverse numerical methods"
+                ],
+                "descriptions": [
+                    "The project aims to investigate local deformation at the sub-grain scale at high temperatures to understand thermo-mechano-chemical interactions that cause early damage."
+                ]
+            }
+        },
+        {
+            "proposal_name": "High Temperature – Small-Scale Sub-Surface Deformation assisted by Oxidation",
+            "proposal_details": {
+                "temperature_range": {
+                    "min": 650,
+                    "max": 1200,
+                    "unit": "°C"
+                },
+                "oxidation_depth_gradient": {
+                    "min": 0.1,
+                    "max": 100,
+                    "unit": "µm"
+                },
+                "materials": [
+                    "Ni-based",
+                    "Ti-based"
+                ],
+                "techniques": [
+                    {
+                        "name": "HR-DIC",
+                        "type": "high resolution-digital image correlation"
+                    },
+                    {
+                        "name": "in-situ TEM",
+                        "type": "mechanical testing"
+                    },
+                    {
+                        "name": "in-situ micropillar/nanoindentation",
+                        "type": "testing"
+                    },
+                    {
+                        "name": "synchrotron nano-tomography"
+                    },
+                    {
+                        "name": "topotomography"
+                    }
+                ],
+                "simulations": [
+                    "phase field-coupled crystal plasticity finite element methods"
+                ],
+                "novel_techniques": [
+                    {
+                        "name": "mesoscale flexural techniques",
+                        "max_temperature": 1000,
+                        "temperature_unit": "°C",
+                        "observation": "real-time 3D"
+                    }
+                ],
+                "challenges": [
+                    "robust measurement at sub-surface locations",
+                    "surface texture evolution monitoring during oxide growth"
+                ],
+                "solutions": [
+                    "smart surface monitoring for HR-DIC at microscale",
+                    "inverse numerical methods"
+                ],
+                "descriptions": [
+                    {
+                        "text": "Assessment of local deformation at the sub-grain scale at high temperatures using micro- and mesomechanical approaches to clarify thermo-mechano-chemical interactions that cause early damage."
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "High Temperature – Small-Scale Sub-Surface Deformation assisted by Oxidation",
+            "proposal_details": {
+                "temperature_range": {
+                    "min": 650,
+                    "max": 1200,
+                    "unit": "°C"
+                },
+                "oxidation_depth_gradient": {
+                    "min": 0.1,
+                    "max": 100,
+                    "unit": "µm"
+                },
+                "research_focus": "assessing local deformation at sub-grain scale at high temperature",
+                "approaches": [
+                    "micro-mechanical",
+                    "meso-mechanical"
+                ],
+                "materials": [
+                    "Ni-based",
+                    "Ti-based"
+                ],
+                "techniques": [
+                    "high resolution-digital image correlation (HR-DIC)",
+                    "in-situ TEM mechanical testing",
+                    "in-situ micropillar/nanoindentation testing",
+                    "synchrotron nano-tomography",
+                    "topotomography"
+                ],
+                "simulations": [
+                    "phase field-coupled crystal plasticity finite element methods"
+                ],
+                "specialty": "mesoscale ultrathin specimen preparation and testing",
+                "development": "novel mesoscale flexural techniques with real-time 3D observation up to 1000°C",
+                "challenges": [
+                    "robust measurement of sub-surface behaviour during oxidation",
+                    "surface texture evolution monitoring during oxide growth"
+                ],
+                "solutions": [
+                    "smart surface monitoring for high temperature HR-DIC at microscale",
+                    "inverse numerical methods"
+                ],
+                "descriptions": [
+                    "The proposal aims to investigate the coupling between surface reactivity and local deformations in materials at high temperatures using advanced techniques and simulations."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "20cd3774fd13a90b73cb77b849ea6ec7",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nHigh Temperature – Small-Scale Sub-Surface Deformation assisted by Oxidation\n\n**Description:**\n\nStructural materials exposed at high temperatures (650°C-1200°C) and severe loads are prone to both local oxidation-assisted deformation and deformation-assisted surface reactivity. Material evolutions within the sub-surface region affected by oxidation (0.1 to 100 µm deep gradient) generally drive premature damage and the unexpected ruin of bulky structural components. Therefore, assessing the evolutions of the local deformation at the sub-grain scale at high temperature using micro- and mesomechanical approaches is the key point to clarify thermo-mechano-chemical interactions favouring early damage. HT-S4DefOx aims to tackle such small-scale and pluridisciplinary investigations on Ni-based and Ti-based model materials. Advanced high temperature micromechanical techniques (high resolution-digital image correlation (HR-DIC), in-situ TEM mechanical testing, in-situ micropillar/nanoindentation testing, synchrotron nano-tomography and topotomography) will be purposely coupled with numerical simulations (phase field-coupled crystal plasticity finite element methods). My unique expertise in mesoscale ultrathin specimen preparation and testing allows the present experimental investigation of the coupling between surface reactivity and local deformations. The development of novel mesoscale flexural techniques with real-time 3D observation of the specimen deformation up to 1000°C will finally bridge the gap between micro- and macroscale mechanical characterisations, with an emphasis on graded properties materials. Investigating sub-surface behaviour during oxidation lies in the inability to achieve robust measurement at such hidden location. In addition, the surface texture evolution while oxide growth constitutes another significant obstacle. Therefore, smart surface monitoring for high temperature HR-DIC at the microscale and inverse numerical methods will give unique and quantitative information on the local mechanical behaviour of such “invisible” materials."
+}

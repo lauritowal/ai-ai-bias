@@ -1,0 +1,157 @@
+{
+    "item_type": "proposal",
+    "title": "Non-invasive computational immunohistochemical staining based on deep learning and multimodal imaging",
+    "descriptions": [
+        {
+            "proposal_name": "Non-invasive computational immunohistochemical staining based on deep learning and multimodal imaging",
+            "proposal_details": {
+                "diagnostic_method_routine": "haematoxylin-eosin (HE) staining",
+                "alternative_diagnostic_approaches": [
+                    "immunohistochemical staining"
+                ],
+                "challenges": [
+                    "technical complexity",
+                    "duration",
+                    "cost"
+                ],
+                "project_name": "STAIN-IT",
+                "technique": "non-invasive label-free measurement",
+                "imaging_methods": [
+                    "coherent anti-Stokes Raman scattering",
+                    "second harmonic generation",
+                    "two-photon-excited fluorescence"
+                ],
+                "analysis_method": "deep learning",
+                "deep_learning_techniques": [
+                    "convolution neural networks (CNNs)"
+                ],
+                "objectives": [
+                    "mimic immunohistochemical stainings",
+                    "develop staining models",
+                    "quantitatively understand nonlinear behaviour of CNNs",
+                    "approximation approaches for CNNs",
+                    "quantification of tissue changes"
+                ],
+                "outcomes": [
+                    "label-free",
+                    "non-invasive",
+                    "labour-inexpensive",
+                    "fast computational immunohistochemical staining",
+                    "increased diagnostic reliability",
+                    "better understanding of disease pathogenesis"
+                ],
+                "applications": [
+                    "test of antigen KI-67",
+                    "Collagen IV as a quality control marker"
+                ],
+                "descriptions": [
+                    "A fast test of the antigen KI-67 in an intraoperative frozen section consultation situation or the use of Collagen IV as a quality control marker of tissue-engineered medicines are some of the exciting application possibilities of such staining model"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Non-invasive computational immunohistochemical staining based on deep learning and multimodal imaging",
+            "proposal_details": {
+                "diagnostic_standard": "haematoxylin-eosin (HE) staining",
+                "common_assessment_method": "pathologist examination",
+                "alternative_diagnostic_approaches": [
+                    "immunohistochemical staining"
+                ],
+                "limitations_of_alternatives": {
+                    "technical_complexity": true,
+                    "duration": true,
+                    "cost": true
+                },
+                "project_name": "STAIN-IT",
+                "technique": "non-invasive label-free measurement",
+                "methodology": "multimodal imaging",
+                "imaging_techniques": [
+                    "coherent anti-Stokes Raman scattering",
+                    "second harmonic generation",
+                    "two-photon-excited fluorescence"
+                ],
+                "analysis_approach": "deep learning",
+                "deep_learning_techniques": [
+                    "convolution neural networks (CNNs)"
+                ],
+                "key_goals": [
+                    "mimic immunohistochemical stainings",
+                    "develop staining models",
+                    "quantify nonlinear behaviour of CNNs"
+                ],
+                "transparency_objective": "reduce 'black box' nature of CNNs",
+                "quantification_target": "tissue changes associated with staining models",
+                "outcome": [
+                    "label-free",
+                    "non-invasive",
+                    "labour-inexpensive",
+                    "fast computational immunohistochemical staining"
+                ],
+                "implementation": "clinical routine",
+                "benefits": [
+                    "increased diagnostic reliability",
+                    "better understanding of disease pathogenesis"
+                ],
+                "applications": [
+                    "KI-67 antigen test in intraoperative frozen section consultation",
+                    "Collagen IV as quality control marker for tissue-engineered medicines"
+                ],
+                "descriptions": [
+                    "STAIN-IT aims to address the need for fast, non-invasive, and label-free immunohistochemical staining using advanced multimodal imaging and deep learning techniques to improve diagnostic reliability and understanding of disease pathogenesis."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Non-invasive computational immunohistochemical staining based on deep learning and multimodal imaging",
+            "proposal_details": {
+                "current_diagnostic_standard": "haematoxylin-eosin (HE) staining",
+                "diagnostic_method_expertise": "experienced pathologist",
+                "alternative_diagnostic_approaches": [
+                    "immunohistochemical staining"
+                ],
+                "limitations_of_alternatives": {
+                    "technical_complexity": true,
+                    "duration": true,
+                    "cost": true
+                },
+                "project_name": "STAIN-IT",
+                "measurement_technique": "multimodal imaging",
+                "multimodal_imaging_techniques": [
+                    "coherent anti-Stokes Raman scattering",
+                    "second harmonic generation",
+                    "two-photon-excited fluorescence"
+                ],
+                "analysis_method": "deep learning",
+                "deep_learning_techniques": [
+                    "convolution neural networks (CNNs)"
+                ],
+                "objectives": [
+                    "mimic immunohistochemical stainings",
+                    "quantitatively understand CNNs",
+                    "develop staining models",
+                    "approximate CNN behaviour",
+                    "increase diagnostic reliability"
+                ],
+                "anticipated_outcomes": [
+                    "label-free immunohistochemical staining",
+                    "non-invasive diagnostic tool",
+                    "labour-inexpensive solution",
+                    "fast computational process",
+                    "easy clinical implementation"
+                ],
+                "potential_applications": [
+                    "antigen KI-67 test in intraoperative frozen section consultation",
+                    "Collagen IV as quality control for tissue-engineered medicines"
+                ],
+                "descriptions": [
+                    "A fast test of the antigen KI-67 in an intraoperative frozen section consultation situation or the use of Collagen IV as a quality control marker of tissue-engineered medicines are some of the exciting application possibilities of such staining model"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "16dcfa2662bfddd75494082656917989",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNon-invasive computational immunohistochemical staining based on deep learning and multimodal imaging\n\n**Description:**\n\nIn most European countries, the diagnosis of cancer is achieved by examination of haematoxylin-eosin (HE) staining by an experienced pathologist. Nevertheless, several other diagnostic approaches exist (e.g., immunohistochemical staining) which are not applied routinely for all cases due to their technical complexity, duration, and cost. Therefore, an important unmet medical need for fast, non-invasive, and label-free immunohistochemical staining based on molecular imaging without laborious sample treatment exists. This demanding challenge will be tackled in STAIN-IT using a non-invasive label-free measurement technique called multimodal imaging (e.g., the combination of coherent anti-Stokes Raman scattering, second harmonic generation, and two-photon-excited fluorescence). The multimodal images will be analysed using deep learning approaches, such as convolution neural networks (CNNs). These CNNs are utilized to mimic immunohistochemical stainings. CNNs are neural networks that learn the feature representation of the data, which is optimally suited to model a specific immunohistochemical staining. In STAIN-IT, the staining models will be developed along with the methods to quantitatively understand the nonlinear behaviour of the CNNs. With the envisioned approximation approaches for CNNs, these models no longer act as ‘black box’ systems, and a quantification of tissue changes associated with the staining models can be achieved. For the very first time, STAIN-IT will develop a label-free, non-invasive, labour-inexpensive, and fast computational immunohistochemical staining, which can be easily implemented into clinical routine yielding increased diagnostic reliability and a better understanding of disease pathogenesis. A fast test of the antigen KI-67 in an intraoperative frozen section consultation situation or the use of Collagen IV as a quality control marker of tissue-engineered medicines are some of the exciting application possibilities of such staining model"
+}

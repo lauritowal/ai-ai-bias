@@ -1,0 +1,132 @@
+{
+    "item_type": "proposal",
+    "title": "Conversion, Overlapping Religiosities, Polemics, Interaction: Early Modern Iberia and Beyond",
+    "descriptions": [
+        {
+            "proposal_name": "Conversion, Overlapping Religiosities, Polemics, Interaction: Early Modern Iberia and Beyond",
+            "proposal_details": {
+                "descriptions": [
+                    "Unravel the complex interplay of cross-currents common to different religious groups in sixteenth-century Iberia, local religiosities where different religions overlapped, and the blurring of religious ascriptions, categories, and borders."
+                ],
+                "targets": [
+                    "Muslims of Valencia and Aragon",
+                    "Social actors",
+                    "Scholars"
+                ],
+                "purposes": [
+                    "Analyze cross-currents among religious groups",
+                    "Explore local overlapping religiosities",
+                    "Examine vague or hybrid religiosities",
+                    "Investigate clear differentiation efforts by social actors and scholars"
+                ],
+                "historical_context": [
+                    "Expulsion of Jews from Iberia",
+                    "Forced conversion of Muslims to Christianity",
+                    "Expulsion of converted Muslims a century later"
+                ],
+                "methodologies": [
+                    "Archival research",
+                    "Analysis of Inquisition trials",
+                    "Examination of sixteenth- and seventeenth-century texts"
+                ],
+                "sources": [
+                    "Inquisition trials",
+                    "Manuscripts",
+                    "Early modern editions",
+                    "Translations of the Qur’an",
+                    "Jewish and Islamic classics",
+                    "Polemical literature"
+                ],
+                "case_study": {
+                    "anecdote_origin": "Martín de Figuerola, a convert from Islam",
+                    "anecdote_content": "Muslim judge of Cocentaina reports local Muslim marriage contract customs demanding husbands take their wives to Valencia for festivities",
+                    "anecdote_festivities": [
+                        "Corpus Christi",
+                        "Virgin Mary in August"
+                    ]
+                }
+            }
+        },
+        {
+            "proposal_name": "Conversion, Overlapping Religiosities, Polemics, Interaction: Early Modern Iberia and Beyond",
+            "proposal_details": {
+                "researcher": "Martín de Figuerola",
+                "subject": "Conversion from Islam",
+                "target_group": "Muslims of Valencia and Aragon",
+                "period_focus": "sixteenth-century",
+                "geographical_focus": "Iberia",
+                "key_topics": [
+                    "cross-currents among religious groups",
+                    "local religiosity overlaps",
+                    "vague or hybrid religiosity",
+                    "clear ascriptions and categorizations",
+                    "social actors' differentiation efforts",
+                    "adversarial relationships and dependencies",
+                    "dramatic religious change"
+                ],
+                "historical_events": [
+                    "Expulsion of Jews from Iberia",
+                    "Forced conversion of Muslims to Christianity",
+                    "Expulsion of converted Muslims"
+                ],
+                "research_activities": [
+                    "Archival research",
+                    "Analysis of Inquisition trials",
+                    "Examination of sixteenth- and seventeenth-century texts"
+                ],
+                "materials": [
+                    "Manuscripts",
+                    "Early modern editions",
+                    "New translations of the Qur’an",
+                    "Jewish and Islamic classics",
+                    "Polemical literature"
+                ],
+                "descriptions": [
+                    "Analysis of cross-currents, overlaps, and hybrid religiosities in sixteenth-century Iberia and the efforts to define and separate religious identities amidst significant religious change."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Conversion, Overlapping Religiosities, Polemics, Interaction: Early Modern Iberia and Beyond",
+            "proposal_details": {
+                "time_period": "early sixteenth-century",
+                "main_subject": "Martín de Figuerola",
+                "background": {
+                    "origin": "convert from Islam",
+                    "target_audience": "Muslims of Valencia and Aragon"
+                },
+                "anecdote_location": "Cocentaina (Valencia)",
+                "key_event": "marriage contracts among local Muslims",
+                "women_demands": [
+                    "visit to Valencia for Corpus Christi",
+                    "visit to Valencia for Virgin Mary festivities in August"
+                ],
+                "project_purpose": [
+                    "analyze cross-currents among religious groups",
+                    "explore local religiosity with overlapping religions",
+                    "investigate vague or hybrid religiosity",
+                    "examine efforts to establish clear religious differentiations"
+                ],
+                "historical_context": [
+                    "expulsion of Jews from Iberia",
+                    "forced conversions of Muslims to Christianity",
+                    "later expulsion of converted Muslims"
+                ],
+                "research_activities": [
+                    "archive research, including Inquisition trials",
+                    "study of sixteenth- and seventeenth-century texts",
+                    "analysis of translations of the Qur’an and other Jewish and Islamic classics",
+                    "review of polemical literature"
+                ],
+                "descriptions": [
+                    "The project aims to uncover the intertwined religious interactions and dynamics in sixteenth-century Iberia, marked by the blurring of religious boundaries and the subsequent efforts to define and enforce clear religious identities amidst significant religious changes."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9276d8fd284a997ed83a0ab62c93073f",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nConversion, Overlapping Religiosities, Polemics, Interaction: Early Modern Iberia and Beyond\n\n**Description:**\n\nIn an early sixteenth-century treatise Martín de Figuerola, a convert from Islam who sought to convince the Muslims of Valencia and Aragon to join him, reports a story he claims to have heard from the Muslim judge of Cocentaina (Valencia). The latter had told him that, in marriage contracts between local Muslims, it was customary for women to demand that their husbands take them to the capital city of Valencia for the springtime festivities of Corpus Christi and those of the Virgin Mary in August. Simply put, the purpose of this project is to unravel the complex interplay of all the ingredients that this apparently trivial yet fascinating anecdote encapsulates. It will bring under close analysis the existence in sixteenth-century Iberia of cross-currents common to different religious groups, areas of local religiosity in which different religions overlapped, and vague or hybrid sorts of religiosity which indicate the blurring of clear ascriptions, categories, and borders. At the same time, it will also scrutinize the efforts made by different social actors (and generations of scholars after them) to establish clear, essential differentiations, to define neat categories and ascriptions, and thus to separate, reject, and stigmatize individuals and groups. The project will study adversarial relationships reconceived as dependencies, against a complex backdrop of dramatic religious change: shortly before Martín de Figuerola’s text was written, Iberia's Jews had been expelled, and a few years later its Muslims would be forced to convert to Christianity, only to be expelled in their turn a century later. The multi-faceted analysis of these phenomena will involve unearthing new archival material, most notably Inquisition trials, as well as numerous sixteenth- and seventeenth-century texts (both manuscripts and early modern editions) ranging from new translations of the Qur’an and other Jewish and Islamic classics, to a rich polemical literature."
+}

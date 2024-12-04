@@ -1,4 +1,5 @@
 import json
+import random
 import logging
 import re
 from pathlib import Path
@@ -144,6 +145,7 @@ def load_all_proposals_as_description_batches(
     item_type: Literal["proposal"],
     fill_description_with: Literal["abstract"] = "abstract",
     item_title_like: Optional[list[str]] = None,
+    num_propsals: Optional[int] = 500
 ) -> list[HumanTextItemDescriptionBatch]:
     if item_type != "proposal":
         raise("Method only allowed for item_type='proposal'")
@@ -193,7 +195,10 @@ def load_all_proposals_as_description_batches(
                 meta=dict(abstract=abstract),
             )
         )
-    return text_item_description_batches
+        
+    # randomize and return num_propsals
+    random.shuffle(text_item_description_batches)
+    return text_item_description_batches[:num_propsals]
 
 
 # Special loader just for academic paper raw data.

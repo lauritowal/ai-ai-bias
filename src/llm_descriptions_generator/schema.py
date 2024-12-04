@@ -64,11 +64,40 @@ class ProposalDetails(BaseModel):
     context: str
     methods: list[str]
     significance: str
+    
+    
+from pydantic import BaseModel, Field
+from dirtyjson.attributed_containers import AttributedDict
+
+def convert_attributed_dict(obj):
+    if isinstance(obj, dict) or isinstance(obj, AttributedDict):
+        converted_dict = {k: convert_attributed_dict(v) for k, v in dict(obj).items()}
+        # If this is a dict with a 'descriptions' key containing a list, take only the first item
+        if 'descriptions' in converted_dict and isinstance(converted_dict['descriptions'], list):
+            converted_dict['descriptions'] = converted_dict['descriptions'][:1]
+        return converted_dict
+    elif isinstance(obj, list):
+        return [convert_attributed_dict(i) for i in obj]
+    return obj
 
 class ProposalDetailsJson(BaseModel):
     proposal_name: str
-    proposal_details: dict = Field(default_factory=dict, description="Key details of this proposal described in a valid JSON string")
-    # details: dict = Field(default_factory=dict, description="Key details of this proposal abstract described in a valid JSON string")
+    proposal_details: dict = Field(default_factory=dict)
+
+    @classmethod
+    def from_attributed(cls, obj):
+        if isinstance(obj, cls):
+            clean_data = {
+                'proposal_name': obj.proposal_name,
+                'proposal_details': convert_attributed_dict(obj.proposal_details)
+            }
+            return cls(**clean_data)
+        return obj
+
+# class ProposalDetailsJson(BaseModel):
+#     proposal_name: str
+#     proposal_details: dict = Field(default_factory=dict, description="Key details of this proposal described in a valid JSON string")
+#     # details: dict = Field(default_factory=dict, description="Key details of this proposal abstract described in a valid JSON string")
 DescriptionTextOrJson = t.Union[str, dict]
 
 @dataclass

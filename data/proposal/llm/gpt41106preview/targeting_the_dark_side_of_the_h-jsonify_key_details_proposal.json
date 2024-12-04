@@ -1,0 +1,80 @@
+{
+    "item_type": "proposal",
+    "title": "Targeting the dark side of the human genome—non-coding regulatory elements—to treat diseases",
+    "descriptions": [
+        {
+            "proposal_name": "Targeting the dark side of the human genome—non-coding regulatory elements—to treat diseases",
+            "proposal_details": {
+                "genome_percentage_noncoding": 98,
+                "gene_expression_controlled_by_NCREs": true,
+                "genetic_variants_in_NCREs": true,
+                "therapeutic_targets_NCREs_limited": true,
+                "TargetNCREs_project": {
+                    "high_throughput_screening_systems": 2,
+                    "ECR_starting_grant": "Silencer",
+                    "innovation_and_commercial_potential": true,
+                    "therapeutic_values_of_NCREs": true
+                },
+                "aims": [
+                    "test_and_validate_top_hits_in_vivo",
+                    "pilot_research_for_technology_effectiveness",
+                    "commercial_applications_preparation",
+                    "IPR_protection_strategy_clarification",
+                    "engagement_with_partners_and_stakeholders",
+                    "focus_on_potential_pipelines",
+                    "market_search_for_business_development"
+                ],
+                "descriptions": [
+                    "The project aims to harness therapeutic values of non-coding regulatory elements (NCREs) in the human genome by employing novel high-throughput screening systems."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Targeting the dark side of the human genome—non-coding regulatory elements—to treat diseases",
+            "proposal_details": {
+                "genome_percentage_noncoding": 98,
+                "genome_percentage_genes": 2,
+                "focus": "non-coding regulatory elements (NCREs)",
+                "target_identification": "high-throughput screening systems",
+                "development_origin": "ECR starting grant (Silencer)",
+                "aims": [
+                    "validate hits in vivo",
+                    "pilot research for commercial applications",
+                    "clarify IPR protection strategy",
+                    "engage partners",
+                    "market search for business development"
+                ],
+                "descriptions": [
+                    "Harnessing the therapeutic values of NCREs."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Targeting the dark side of the human genome—non-coding regulatory elements—to treat diseases",
+            "proposal_details": {
+                "genome_percentage_noncoding": 98,
+                "genome_percentage_genes": 2,
+                "focus": "non-coding regulatory elements (NCREs)",
+                "NCREs_as_therapeutic_targets": "limited",
+                "technologies_developed_under": [
+                    "Silencer"
+                ],
+                "aims": [
+                    "test and validate top hits in vivo",
+                    "pilot research for commercial application",
+                    "clarify IPR protection strategy",
+                    "engage partners and stakeholders",
+                    "market search for business development"
+                ],
+                "descriptions": [
+                    "ECR starting grant-funded project to exploit high-throughput screening systems for therapeutic values of NCREs"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0e47dcedd51312bdf433ad4927c90376",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTargeting the dark side of the human genome—non-coding regulatory elements—to treat diseases\n\n**Description:**\n\nThe 98% of the human genome, sometimes referred to as the dark side of the human genome, contains many non-coding regulatory elements (NCREs), which control the combinational expression of the limited number of genes (only 2% of the genome) to form diverse cell types and tissues of a complex human body, all from the identical copy of the genome. Most genetic variants and mutations also lie in NCREs. However, the number of NCREs as potential therapeutic targets remains very limited. In TargetNCREs, two novel and unique high-throughput screening systems further developed within the ECR starting grant (Silencer) will be exploited for their innovation and commercial potential to harness the therapeutic values of NCREs. We aim to test and validate previously identified top hits in vivo, carry out pilot research to show the technologies to be effective and appropriate for commercial applications, clarify the IPR protection strategy, engage partners and stokeholds to focus on potential pipelines, and perform a market search for future business development."
+}

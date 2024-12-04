@@ -1,0 +1,113 @@
+{
+    "item_type": "proposal",
+    "title": "Smart-Contract Protocols: Theory for Applications",
+    "descriptions": [
+        {
+            "proposal_name": "Smart-Contract Protocols: Theory for Applications",
+            "proposal_details": {
+                "descriptions": [
+                    "Smart contracts are formal agreements that take the form of computer programs, executed on blockchains, and smart-contract protocols are algorithms that describe their multiparty operation."
+                ],
+                "goals": [
+                    "Transform the emerging field of smart contracts into a mature science."
+                ],
+                "research_hypothesis": [
+                    "Smart-contract protocols will be utilized in real life, relying on advanced cryptographic techniques and theoretical cryptography modeling methods."
+                ],
+                "approach": [
+                    "Design a complete security model for analyzing smart-contract protocols.",
+                    "Propose new and extend existing smart-contract protocols with security proofs in the proposed model.",
+                    "Machine-check important proofs using proof assistants.",
+                    "Characterize achievable tasks with smart contracts and the necessary assumptions."
+                ],
+                "collaboration": [
+                    "Interact with smart-contract practitioners and industry to address practically-relevant problems.",
+                    "Participate in standardization efforts for smart contracts."
+                ],
+                "anticipated_impact": [
+                    "Project outcomes to have an impact beyond academia."
+                ],
+                "previous_work": [
+                    "The PI has generated important results in the field of smart contracts."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Smart-Contract Protocols: Theory for Applications",
+            "proposal_details": {
+                "descriptions": [
+                    "Smart-contract protocols are algorithms that describe how contracts operate in multiparty settings on blockchains."
+                ],
+                "objectives": [
+                    "Transfigure the emerging field of smart contracts into a mature science",
+                    "Design a complete security model for analyzing smart-contract protocols",
+                    "Propose new smart-contract protocols and extend existing ones",
+                    "Provide formal models and security proofs for smart-contract protocols",
+                    "Characterize achievable tasks using smart contracts and necessary assumptions"
+                ],
+                "methods": [
+                    "Pen-and-paper security proofs",
+                    "Machine-checked proofs using proof assistants"
+                ],
+                "interactions": [
+                    "Interaction with smart-contract practitioners",
+                    "Engagement with industry",
+                    "Participation in standardization efforts"
+                ],
+                "expected_impact": [
+                    "Advance the field of smart contracts",
+                    "Impact beyond academia"
+                ],
+                "pi_contributions": [
+                    "Generated important results in the field of smart contracts"
+                ],
+                "research_hypothesis": [
+                    "Smart-contract protocols will be used in real life, rely on advanced cryptographic techniques, and need theoretical cryptography modeling methods"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Smart-Contract Protocols: Theory for Applications",
+            "proposal_details": {
+                "descriptions": [
+                    "PROCONTRA aims to mature the field of smart-contract protocols into a developed science."
+                ],
+                "objectives": [
+                    "Design a complete security model for smart-contract protocols",
+                    "Propose new smart-contract protocols and extend existing ones",
+                    "Prove protocol security using traditional methods and machine-checked proof assistants",
+                    "Characterize achievable tasks with smart contracts under specific assumptions",
+                    "Interact with practitioners and industry for practical relevance and impact",
+                    "Participate in standardization efforts"
+                ],
+                "methods": [
+                    "Formal modeling from theoretical cryptography",
+                    "Security proofs",
+                    "Machine-checked proof assistants"
+                ],
+                "fields_of_interest": [
+                    "Smart contracts",
+                    "Cryptography",
+                    "Theoretical computer science",
+                    "Blockchain technology"
+                ],
+                "projected_impacts": [
+                    "Advancement in smart-contract protocol science",
+                    "Creation of secure and reliable smart-contract protocols",
+                    "Impact on industry and standardization"
+                ],
+                "principal_investigator_experience": [
+                    "Important results in the field of smart contracts"
+                ],
+                "research_hypothesis": [
+                    "Smart-contract protocols will be widely used and rely on cryptographic techniques"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7a5d08a23ef7eb572d2576873ccc0591",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nSmart-Contract Protocols: Theory for Applications\n\n**Description:**\n\nSmart contracts are formal agSmart contracts are formal agreements that take the form of computer programs. They are typically written down, and automatically executed, on blockchains. Smart-contract protocols are algorithms that describe how these contracts operate in multiparty settings. Due to the large number of potential applications, interest in this field has exploded in the last few years. Also, the PI has generated important results through his work in this area. The ambitious goal of PROCONTRA is to transfigure this emerging field into a mature science. Our main research hypothesis is that smart-contract protocols will be used in real life and many of them will strongly rely on advanced cryptographic techniques and will need to be developed using modeling methods from theoretical cryptography. We will work in this direction by proposing new solutions in this area, providing formal models and security proofs. Given the importance of these protocols, it is crucial to fully analyze their security before they are deployed in real life. Therefore, the first pillar of this project is to design a complete security model for analyzing them. The second pillar is to propose new smart-contract protocols and to extend the existing ones. Our protocols will be proven secure in the model we propose in the first pillar. This will be done using traditional “pen-and-paper” methods. However, the most important proofs will also be machine-checked using proof assistants. On a more theoretical side, we will also work on characterizing what tasks are in general achievable using smart contracts, and under what assumptions. Throughout the project, we will closely interact with the smart-contract practitioners, and with the industry, in order to understand what are the practically-relevant problems in this field and to ensure that the project’s outcome will have an impact beyond academia. This will also take a form of participation in the standardization efforts in this area."
+}

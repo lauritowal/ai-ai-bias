@@ -1,0 +1,153 @@
+{
+    "item_type": "proposal",
+    "title": "Deep Brain Neuromodulation using Temporal Interference Magnetic Stimulation",
+    "descriptions": [
+        {
+            "proposal_name": "Deep Brain Neuromodulation using Temporal Interference Magnetic Stimulation",
+            "proposal_details": {
+                "diseases_related_to_brain": [
+                    "stroke",
+                    "depression",
+                    "dementia"
+                ],
+                "current_treatments_limitations": [
+                    "spatial resolution",
+                    "specificity",
+                    "deep brain area reach"
+                ],
+                "project_aim": [
+                    "develop proof-of-concept for non-invasive brain modulation tool",
+                    "achieve millimeter- and millisecond-precision in neural activity modulation",
+                    "reach superficial and deep brain areas"
+                ],
+                "technology_basis": [
+                    "temporal interference",
+                    "high carrier frequency magnetic fields",
+                    "pair of coils"
+                ],
+                "mechanism": [
+                    "modulate relative phase of coils",
+                    "induce locally amplitude-modulated electric field in brain"
+                ],
+                "neural_tissue_response": {
+                    "insensitivity_frequency": ">1kHz",
+                    "responsive_frequency": "low-frequency amplitude-modulated fields"
+                },
+                "research_goals": [
+                    "prove cell-type specificity of TIMS",
+                    "prove feasibility of millisecond precision targeting"
+                ],
+                "device_characteristics": [
+                    "high spatial resolution",
+                    "depth selectivity",
+                    "steerability",
+                    "closed-loop-compatibility",
+                    "cell-type specificity"
+                ],
+                "collaboration": [
+                    "two industry partners",
+                    "one technology transfer partner"
+                ],
+                "translation_goal": "fast translation of research into innovative products"
+            }
+        },
+        {
+            "proposal_name": "Deep Brain Neuromodulation using Temporal Interference Magnetic Stimulation",
+            "proposal_details": {
+                "diseases_impacting_disability": [
+                    "stroke",
+                    "depression",
+                    "dementia"
+                ],
+                "current_treatment_limitations": [
+                    "spatial resolution",
+                    "specificity",
+                    "depth reach"
+                ],
+                "project_aim": [
+                    "develop proof-of-concept",
+                    "non-invasive tool",
+                    "millimeter precision",
+                    "millisecond precision",
+                    "modulates neural activity",
+                    "superficial and deep brain areas"
+                ],
+                "technology": [
+                    "temporal interference",
+                    "high carrier frequency magnetic fields",
+                    "pair of coils",
+                    "phase modulation",
+                    "locally amplitude-modulated electric field"
+                ],
+                "neural_tissue_insensitivity": "unmodulated high-frequency fields (>1kHz)",
+                "neural_tissue_response": "low-frequency amplitude-modulated fields",
+                "ambitions": [
+                    "cell-type specificity of TIMS",
+                    "targeting precision millisecond-to-millisecond",
+                    "high spatial resolution",
+                    "depth selectivity",
+                    "steerability",
+                    "closed-loop-compatibility",
+                    "cell-type specificity"
+                ],
+                "partnerships": [
+                    "two industry partners",
+                    "one technology transfer partner"
+                ],
+                "goal": "translate research into innovative products",
+                "descriptions": [
+                    "The project aims to create a new non-invasive brain stimulation device with high precision for treating brain disorders."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Deep Brain Neuromodulation using Temporal Interference Magnetic Stimulation",
+            "proposal_details": {
+                "diseases_leading_to_disability": [
+                    "stroke",
+                    "depression",
+                    "dementia"
+                ],
+                "current_treatment_limitations": [
+                    "spatial resolution",
+                    "specificity",
+                    "deep brain area reach"
+                ],
+                "project_aim": "Develop a proof-of-concept for a non-invasive tool for precise modulation of neural activity in the brain",
+                "technology_base": "Temporal interference effects",
+                "device_components": [
+                    "high carrier frequency magnetic fields",
+                    "a pair of coils",
+                    "relative phase modulation"
+                ],
+                "neural_tissue_characteristics": [
+                    "insensitive to unmodulated high-frequency fields (>1kHz)",
+                    "responsive to low-frequency amplitude-modulated fields"
+                ],
+                "proof_targets": [
+                    "cell-type specificity",
+                    "millisecond precision targeting"
+                ],
+                "device_features": [
+                    "high spatial resolution",
+                    "depth selectivity",
+                    "steerability",
+                    "closed-loop-compatibility",
+                    "cell-type specificity"
+                ],
+                "partnerships": [
+                    "two industry partners",
+                    "one technology transfer partner"
+                ],
+                "descriptions": [
+                    "Fast translation of research results into innovative products"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0450d8e6a243b25a673c915b5fb0e5a1",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nDeep Brain Neuromodulation using Temporal Interference Magnetic Stimulation\n\n**Description:**\n\nFive out of ten diseases leading to long term-disability are related to the brain, including stroke, depression or dementia. Despite tremendous progress in neurotechnology, there is still no effective treatment option available for many brain-related disorders. A very promising approach to treat brain disorders uses transcranial electric or magnetic stimulation (TES/TMS) to directly influence brain activity related to specific symptoms. However, these methods are limited in their spatial resolution, specificity and ability to reach deep brain areas. The aim of the proposed project is to develop a technical and experimental proof-of-concept for a new non-invasive tool that allows for millimeter- and millisecond-precise modulation of neural activity in superficial and deep areas of the human brain. Capitalizing on temporal interference effects, the device will apply high carrier frequency magnetic fields through a pair of coils. By modulating their relative phase, the combined fields will induce a locally amplitude-modulated electric field in the brain. As neural tissue is insensitive to unmodulated high-frequency fields (>1kHz), but responds to low-frequency amplitude-modulated fields, only brain regions will be stimulated where the combined field is amplitude-modulated. Building on the resulting versatility of stimulation frequencies and waveforms, we aim at providing proof for cell-type specificity of such temporal interference magnetic stimulation (TIMS). Moreover, we aim at providing proof for the feasibility of targeting neural activity at millisecond-to-millisecond precision. Availability of such device offering high spatial resolution, depth selectivity, steerability, as well as closed-loop-compatibility and cell-type specificity would mark a major break-through for clinical neuroscience. Together with two partners from industry and a partner for technology transfer, we strive for fast translation of expected research results into innovative products."
+}

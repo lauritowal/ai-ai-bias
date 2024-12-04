@@ -1,0 +1,159 @@
+{
+    "item_type": "proposal",
+    "title": "Micro-Scale Photonic Trace Gas Sensor",
+    "descriptions": [
+        {
+            "proposal_name": "Micro-Scale Photonic Trace Gas Sensor",
+            "proposal_details": {
+                "demand_context": [
+                    "environmental monitoring",
+                    "industrial process control",
+                    "healthcare"
+                ],
+                "current_capabilities": {
+                    "sensitivity_level": "part-per-billion (ppb)",
+                    "availability": "high-end sensors",
+                    "form_factor": "bulky",
+                    "cost": "expensive",
+                    "use_limitation": "research settings"
+                },
+                "recent_achievements": {
+                    "sCENT_project": "ERC Starting Grant project",
+                    "breakthrough": "first chip-scale sensor",
+                    "detection_level": "ppb-level",
+                    "selectivity": "equivalent to high-end instruments"
+                },
+                "sensor_characteristics": {
+                    "sensitivity": true,
+                    "selectivity": true,
+                    "isotope_detection_capability": true,
+                    "long_term_stability": true,
+                    "compactness": true,
+                    "lightweight": true,
+                    "sample_volume_requirement": "microlitre"
+                },
+                "technology_basis": {
+                    "waveguide_design": "supporting air-like modes",
+                    "demonstration": "within ERC Starting Grant sCENT"
+                },
+                "project_aims": {
+                    "development": [
+                        "prototype module"
+                    ],
+                    "real_life_application": {
+                        "demonstration": "study metabolic emissions of methane-consuming bacteria",
+                        "environment": "permafrost soils"
+                    }
+                },
+                "business_aspects": {
+                    "IP_protection_management": true,
+                    "target_markets": [
+                        "environmental intelligence"
+                    ],
+                    "technology_roadmap_design": true
+                },
+                "outreach_activities": {
+                    "promotion": true,
+                    "target_audience": [
+                        "commercial partners",
+                        "end-users",
+                        "stakeholders"
+                    ]
+                },
+                "vision": "large-scale in-situ gas monitoring with unparalleled data density for environmental intelligence"
+            }
+        },
+        {
+            "proposal_name": "Micro-Scale Photonic Trace Gas Sensor",
+            "proposal_details": {
+                "sensitivity": "part-per-billion (ppb) levels",
+                "selectivity": "equivalent to high-end instruments",
+                "previous_achievement": {
+                    "project_name": "ERC Starting Grant sCENT",
+                    "milestone": "first chip-scale sensor with ppb-level detection",
+                    "features": [
+                        "sensitivity",
+                        "selectivity",
+                        "isotope detection capability",
+                        "long-term stability"
+                    ],
+                    "sensor_properties": [
+                        "compact",
+                        "lightweight",
+                        "microlitre sample volumes"
+                    ],
+                    "technology": "pioneering waveguide design supporting air-like modes"
+                },
+                "current_project_goals": [
+                    "development of a prototype module",
+                    "real-life application demonstration"
+                ],
+                "application_target": "study of metabolic emissions of methane-consuming bacteria in permafrost soils",
+                "business_aspects": [
+                    "IP protection management",
+                    "monitoring target markets",
+                    "designing a technology roadmap"
+                ],
+                "target_market": "environmental intelligence",
+                "outreach_activities": {
+                    "promotion_targets": [
+                        "commercial partners",
+                        "end-users",
+                        "stakeholders"
+                    ]
+                },
+                "vision": "unlock opportunities for large-scale in-situ gas monitoring with unparalleled data density"
+            }
+        },
+        {
+            "proposal_name": "Micro-Scale Photonic Trace Gas Sensor",
+            "proposal_details": {
+                "descriptions": [
+                    "The project aims to advance the chip-scale sensor capable of ppb-level detection and selectivity to the next level of technological readiness, including the development of a prototype module and real-life application demonstration."
+                ],
+                "detection_level": "part-per-billion",
+                "fields_of_application": [
+                    "environmental monitoring",
+                    "industrial process control",
+                    "healthcare"
+                ],
+                "current_capabilities": [
+                    "sensitivity",
+                    "selectivity",
+                    "isotope detection capability",
+                    "long-term stability"
+                ],
+                "sensor_features": [
+                    "compact",
+                    "lightweight",
+                    "microlitre sample volume requirement"
+                ],
+                "breakthrough": "chip-scale sensor with ppb-level detection and selectivity",
+                "project_aims": [
+                    "development of a prototype module",
+                    "real-life application demonstration"
+                ],
+                "application_demo_subject": "metabolic emissions of methane-consuming bacteria native to permafrost soils",
+                "additional_aspects": [
+                    "IP protection management",
+                    "market monitoring",
+                    "technology roadmap design"
+                ],
+                "target_markets": [
+                    "environmental intelligence"
+                ],
+                "outreach_activities": [
+                    "promotion to potential commercial partners",
+                    "promotion to end-users",
+                    "promotion to stakeholders"
+                ],
+                "vision": "unlock new opportunities for large-scale in-situ gas monitoring with unparalleled data density"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ea60aa86af6cd6b75167646a8f46c355",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMicro-Scale Photonic Trace Gas Sensor\n\n**Description:**\n\nThe demand for highly sensitive trace gas detection down to part-per-billion (ppb) levels and exceptional selectivity is paramount across various fields, including environmental monitoring, industrial process control, and healthcare. Currently, such capabilities are only accessible through bulky and expensive high-end sensors, limiting their use primarily to research settings. However, the ERC Starting Grant project sCENT has recently achieved a significant breakthrough by demonstrating the first chip-scale sensor capable of ppb-level detection and selectivity equivalent to that of high-end instruments. These sensors merge the strengths of high-end commercial spectroscopic systems, offering sensitivity, selectivity, isotope detection capability, and long-term stability, while also being compact, lightweight, and requiring only microlitre sample volumes. This success was possible due to a pioneering waveguide design supporting air-like modes, demonstrated within the ERC Starting Grant sCENT. The current project aims to explore the disruptive innovation potential of the sCENT sensor concept, advancing it from a proof-of-concept to the next level of technological readiness. This entails (i) the development of a prototype module and (ii) its real-life application demonstration to study the metabolic emissions of methane-consuming bacteria native to permafrost soils. Additionally, the project encompasses crucial aspects such as IP protection management, monitoring target markets (primarily environmental intelligence), and designing a technology roadmap for the sensor's exploitation. Outreach activities are meticulously planned to promote the sensors to potential commercial partners, end-users, and stakeholders. The overarching vision for the sCENT sensor is to unlock new opportunities for large-scale in-situ gas monitoring with unparalleled data density, ultimately enhancing our capabilities for environmental intelligence in the face of our evolving climate."
+}

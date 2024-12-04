@@ -1,0 +1,103 @@
+{
+    "item_type": "proposal",
+    "title": "A Systematic Exploration of Interreal Translations in the Media Multiverse",
+    "descriptions": [
+        {
+            "proposal_name": "A Systematic Exploration of Interreal Translations in the Media Multiverse",
+            "proposal_details": {
+                "descriptions": [
+                    "The project aims to develop an innovative approach to study and understand translations between different realities, and how they could influence our future."
+                ],
+                "realities": [
+                    "Virtual Reality (VR)",
+                    "Augmented Reality (AR)",
+                    "digital games"
+                ],
+                "mechanisms": [
+                    "interreal translations"
+                ],
+                "objectives": [
+                    "advance empirical understanding of interreal translations",
+                    "improve methodological capacity to approach interreal translations",
+                    "create a theoretical framework for the media multiverse"
+                ],
+                "methods": [
+                    "translation studies",
+                    "speculative research"
+                ],
+                "approaches": [
+                    "analytical",
+                    "speculative",
+                    "synthesis"
+                ],
+                "work_packages": [
+                    "WP1",
+                    "WP2",
+                    "WP3"
+                ],
+                "discipline": "Multiverse Studies"
+            }
+        },
+        {
+            "proposal_name": "A Systematic Exploration of Interreal Translations in the Media Multiverse",
+            "proposal_details": {
+                "descriptions": [
+                    "InterReal aims to develop an innovative approach to study and understand translations between different realities, and how they could influence our future."
+                ],
+                "objectives": [
+                    "Advance empirical understanding of interreal translations",
+                    "Enhance methodological capacity to approach interreal translations",
+                    "Create a theoretical framework for the media multiverse"
+                ],
+                "methods": [
+                    "Combination and innovation of methods from translation studies",
+                    "Speculative research"
+                ],
+                "approaches": [
+                    "Analytical approach (WP1)",
+                    "Speculative approach (WP2)",
+                    "Synthesis between analytical and speculative approaches (WP3)"
+                ],
+                "expected_outcomes": [
+                    "Nuanced understanding of the current state of interreal translations",
+                    "Critical analysis of current ideologies and future possibilities of the media multiverse",
+                    "Establishment of a new discipline: Multiverse Studies"
+                ],
+                "media_multiverse_components": [
+                    "Immersive Virtual Reality (VR)",
+                    "Augmented Reality (AR)",
+                    "Virtual worlds of digital games"
+                ]
+            }
+        },
+        {
+            "proposal_name": "A Systematic Exploration of Interreal Translations in the Media Multiverse",
+            "proposal_details": {
+                "descriptions": [
+                    "A study of translations between different realities in the Media Multiverse, focusing on the semiotic mechanisms of transferring objects, spaces, or subjects across realities, and the influence on future mediated reality."
+                ],
+                "objectives": [
+                    "Advance empirical understanding of interreal translations",
+                    "Improve methodological capacity to approach interreal translations",
+                    "Create a theoretical framework for the media multiverse"
+                ],
+                "approaches": [
+                    "Combination of methods from translation studies and speculative research"
+                ],
+                "work_packages": [
+                    "Analytical approach to understand current state of interreal translations (WP1)",
+                    "Speculative approach to critique ideologies and future possibilities of media multiverse (WP2)",
+                    "Synthesis of analytical and speculative approaches to form Multiverse Studies discipline (WP3)"
+                ],
+                "outcomes": [
+                    "New discipline: Multiverse Studies"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5642ebbb6164170560f40b24be3b44a2",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nA Systematic Exploration of Interreal Translations in the Media Multiverse\n\n**Description:**\n\nWhat will be the shape of the mediated reality to come? Current models include a single interconnected immersive metaverse, an increasing integration between physical reality and ambient technology, and a postdigital disaffection towards immersive technologies. InterReal argues that the most probable outcome, in the near future, will not be the identification of a clear avenue, but rather a multiplication of “realities”: a Media Multiverse. This multiverse encompasses all kinds of media-generated virtual spaces, from those of immersive Virtual Reality (VR), to the layers of Augmented Reality (AR) visualized over the physical world, and to the virtual worlds of digital games. At the centre of the semiotic workings of the multiverse are mechanisms of interreal translations: specific forms of intersemiotic translation that transfer objects, spaces, or subjects across realities. InterReal aims to develop an innovative approach to study and understand translations between different realities, and how they could influence our future. The project objectives advance our empirical understanding of interreal translations (Obj1), our methodological capacity to approach them (Obj2) and the creation of a theoretical framework to understand the media multiverse (Obj3). To do so, we propose a combination and innovation of methods and approaches from translation studies and speculative research. The analytical approach (WP1) will provide us with a nuanced understanding of the current state of interreal translations. The speculative approach (WP2) will offer a critical look to the current ideologies and future possibilities related to the development of the media multiverse. The synthesis between the two (WP3) will pave the way for a new discipline: Multiverse Studies, which we urgently need as our mediascape becomes increasingly complex, difficult to navigate and fragmented."
+}

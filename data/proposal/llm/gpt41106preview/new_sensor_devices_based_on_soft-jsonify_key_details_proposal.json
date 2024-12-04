@@ -1,0 +1,127 @@
+{
+    "item_type": "proposal",
+    "title": "New sensor devices based on soft chemistry assisted nanostructured functional oxides on Si integrated systems",
+    "descriptions": [
+        {
+            "proposal_name": "New sensor devices based on soft chemistry assisted nanostructured functional oxides on Si integrated systems",
+            "proposal_details": {
+                "industry_value": "billion euro",
+                "project_aim": "produce new piezoelectric devices of nanometer size with an unusual limit for wireless mechanical sensors",
+                "challenges": [
+                    "bridging the gap between soft-chemistry and microfabrication techniques"
+                ],
+                "strategies": [
+                    {
+                        "strategy_1": "Integrate epitaxial quartz, hollandite and perovskite oxide thin layers on silicon substrate with high piezoelectric response using a soft chemistry unified, monolithic process"
+                    },
+                    {
+                        "strategy_2": "Nanostructuration of piezoelectric epitaxial oxide thin films into controllable morphologies or nanostructures such as porous structure and 1D nanowires or nanorods"
+                    },
+                    {
+                        "strategy_3": "Fabrication of nanostructured SAW resonator-based and a LAMB-WAVE multisensor for monitoring mechanical parameters using MEMs technology and silicon micromachining"
+                    }
+                ],
+                "materials": [
+                    "quartz",
+                    "perovskite",
+                    "hollandites"
+                ],
+                "device_types": [
+                    "wireless network sensor (WNS) node",
+                    "SAW resonator-based sensor",
+                    "LAMB-WAVE multisensor"
+                ],
+                "goal": "develop sensor devices with detection threshold 10 to 100 times more sensitive in 1D and 2D configuration of novel piezoelectric oxides",
+                "descriptions": [
+                    "SENSiSOFT proposes to come up with materials that are abundant, cheap and harmless"
+                ]
+            }
+        },
+        {
+            "proposal_name": "New sensor devices based on soft chemistry assisted nanostructured functional oxides on Si integrated systems",
+            "proposal_details": {
+                "industry_value": "billion euro",
+                "project_aim": "produce new piezoelectric devices of nanometer size",
+                "materials": [
+                    "quartz",
+                    "perovskite",
+                    "hollandites"
+                ],
+                "approach": {
+                    "integration_method": "chemical integration",
+                    "substrate": "silicon",
+                    "film_type": "epitaxial thin films",
+                    "size_limit": "nanometer"
+                },
+                "challenges": [
+                    "bridging soft-chemistry and microfabrication techniques"
+                ],
+                "strategies": [
+                    {
+                        "strategy_number": "i",
+                        "description": "Integrate epitaxial quartz, hollandite and perovskite oxide thin layers on silicon substrate with high piezoelectric response using a soft chemistry unified, monolithic process"
+                    },
+                    {
+                        "strategy_number": "ii",
+                        "description": "Nanostructuration of piezoelectric epitaxial oxide thin films into controllable morphologies, including porous structure and 1D nanowires or nanorods"
+                    },
+                    {
+                        "strategy_number": "iii",
+                        "description": "Fabrication of nanostructured SAW resonator-based and LAMB-WAVE multisensor for monitoring mechanical parameters using MEMs technology for silicon micromachining"
+                    }
+                ],
+                "expected_outcomes": {
+                    "improved_sensitivity": "detection threshold 10 to 100 times more sensitive",
+                    "configuration": [
+                        "1D",
+                        "2D"
+                    ],
+                    "sensor_types": [
+                        "SAW resonator-based",
+                        "LAMB-WAVE multisensor"
+                    ]
+                }
+            }
+        },
+        {
+            "proposal_name": "New sensor devices based on soft chemistry assisted nanostructured functional oxides on Si integrated systems",
+            "proposal_details": {
+                "industry_value": "billion euro",
+                "project_aim": "produce new piezoelectric devices of nanometer size with an unusual limit for wireless mechanical sensors",
+                "materials_used": [
+                    "quartz",
+                    "perovskite",
+                    "hollandites"
+                ],
+                "substrate": "silicon",
+                "challenges": [
+                    "bridging the gap between soft-chemistry and microfabrication techniques"
+                ],
+                "strategies": [
+                    "integrate epitaxial quartz, hollandite and perovskite oxide thin layers on silicon substrate with high piezoelectric response",
+                    "nanostructuration of piezoelectric epitaxial oxide thin films into controllable morphologies or nanostructures",
+                    "fabrication of nanostructured SAW resonator-based and a LAMB-WAVE multisensor for monitoring mechanical parameters"
+                ],
+                "technology_used": "MEMs technology",
+                "structures_for_resonation": [
+                    "plates",
+                    "membranes",
+                    "bridges"
+                ],
+                "expected_outcome": "sensor devices with a detection threshold 10 to 100 times more sensitive",
+                "configurations": [
+                    "1D",
+                    "2D"
+                ],
+                "descriptions": [
+                    "SENSiSOFT presents three innovative strategies to develop sensor devices capable to answer the metrology demand"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f1e00ac87270ab6235bcecf70443aff7",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNew sensor devices based on soft chemistry assisted nanostructured functional oxides on Si integrated systems\n\n**Description:**\n\nPiezoelectrics are the active elements of many everyday applications, from ink-jet printers to ultrasound generators, representing a billion euro industry. They are the key elements of motion sensors and resonators present in any wireless network sensor (WNS) node. However, an increased production of piezoelectrics in a sustainable way is to-date a milestone. SENSiSOFT proposes to come up with materials that can provide a solution to this problem: piezoelectric materials that are abundant, cheap and harmless. The aim of this project is to produce new piezoelectric devices of nanometer size with an unusual limit for wireless mechanical sensors, using direct and combined chemical integration of quartz, perovskite and hollandites materials as nanostructured epitaxial thin films on silicon. This is a major challenge that demands bridging the gap between soft-chemistry and microfabrication techniques. Three strategies are proposed for this goal: i) Implement a soft chemistry unified, monolithic process that will allow integrating epitaxial quartz, hollandite and perovskite oxide thin layers on silicon substrate with high piezoelectric response. ii) Nanostructuration of piezoelectric epitaxial oxide thin films into controllable morphologies or nanostructures, in particular porous structure and 1D nanowires or nanorods, allowing excellent properties of oxides to be exploited to the fullest, mainly by avoiding clamping and improving its sensitivity. iii) Fabrication of nanostructured SAW resonator-based and a LAMB-WAVE multisensor for monitoring mechanical parameters (mass, forces, pressure…). We will use MEMs technology in order to be able to define resonating structures (plates, membranes, bridges…) by silicon micromachining. So, SENSiSOFT presents three innovative strategies to develop sensor devices capable to answer the metrology demand, with a detection threshold 10 to 100 times more sensitive resulting from a 1D and 2D configuration of novel piezoelectric oxides."
+}

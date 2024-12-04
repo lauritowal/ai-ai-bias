@@ -1,0 +1,134 @@
+{
+    "item_type": "proposal",
+    "title": "Major depression as a metabolic disorder: The role of oxygen homeostasis and mitochondrial bioenergetics in depression etiology and therapy",
+    "descriptions": [
+        {
+            "proposal_name": "Major depression as a metabolic disorder: The role of oxygen homeostasis and mitochondrial bioenergetics in depression etiology and therapy",
+            "proposal_details": {
+                "project_title": "MitO2Health",
+                "aim": "Develop and empirically prove a new model of Major Depressive Disorder as a systemic energy deficiency disease",
+                "traditional_concept": "Neurotransmitter deficiency",
+                "new_evidence": "Reduced mitochondrial energy production characterized as a cellular-metabolic disorder",
+                "main_focus": [
+                    "Mitochondrial bioenergy production",
+                    "Oxygen homeostasis",
+                    "Oxidative stress",
+                    "Inflammation"
+                ],
+                "research_goals": [
+                    "Investigate physiological mechanisms underlying MDD",
+                    "Provide longitudinal evidence on the interplay between MitO2Health parameters and MDD",
+                    "Test MDD symptom reduction coupled to normalization of MitO2Health parameters through CBT"
+                ],
+                "study_design": {
+                    "intervention": "Cognitive-behavioral therapy",
+                    "treatment_duration": "6 months",
+                    "participant_groups": {
+                        "CBT_treatment_MDD_patients": 100,
+                        "waiting_list_MDD_patients": 100,
+                        "healthy_controls": 100
+                    },
+                    "assessment_points": 4,
+                    "total_duration": "18 months"
+                },
+                "outcomes": [
+                    "Biomarker profiles of MDD treatment response and resistance",
+                    "Characterization of MDD symptom recurrence"
+                ],
+                "impact": [
+                    "Establish a modern etiological model of MDD",
+                    "Identify biomarkers of individual therapy response and relapse",
+                    "Inspire personalized MDD treatment concepts",
+                    "Improve clinical outcomes in psychotherapy and psychiatry"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Major depression as a metabolic disorder: The role of oxygen homeostasis and mitochondrial bioenergetics in depression etiology and therapy",
+            "proposal_details": {
+                "project_name": "MitO2Health",
+                "objective": "Develop and empirically prove a new model of Major Depressive Disorder (MDD) as a systemic energy deficiency disease",
+                "hypothesis": "MDD is a cellular-metabolic disorder characterized by reduced mitochondrial energy production and oxygen homeostasis issues",
+                "methods": [
+                    "Longitudinal study",
+                    "Cognitive-behavioral therapy (CBT) as randomized treatment",
+                    "Comparative analysis with control groups"
+                ],
+                "participant_groups": {
+                    "MDD_patients_CBT": 100,
+                    "MDD_patients_waiting_list": 100,
+                    "healthy_controls": 100
+                },
+                "assessments": "Clinical and biological status",
+                "assessment_points": 4,
+                "duration_months": 18,
+                "outcomes": [
+                    "Physiological mechanisms underlying MDD",
+                    "Biomarker profiles for MDD treatment response",
+                    "Characterization of treatment resistance and symptom recurrence"
+                ],
+                "descriptions": [
+                    "Reduced ATP production, erythrocyte levels, hemoglobin, and O2-binding affinity in MDD due to oxidative stress and inflammation"
+                ],
+                "potential_impacts": [
+                    "Establish a modern etiological model of MDD",
+                    "Identify biomarkers of individual therapy response and relapse",
+                    "Inspire personalized MDD treatment concepts",
+                    "Improve clinical outcomes in psychotherapy and psychiatry"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Major depression as a metabolic disorder: The role of oxygen homeostasis and mitochondrial bioenergetics in depression etiology and therapy",
+            "proposal_details": {
+                "project_name": "MitO2Health",
+                "objective": "Develop and empirically prove a new model of Major Depressive Disorder as a systemic energy deficiency disease",
+                "hypothesis": "Major Depressive Disorder is characterized as a cellular-metabolic disorder with lowered ATP production",
+                "methods": [
+                    "Investigate physiological mechanisms underlying MDD",
+                    "Longitudinal study on interplay between MitO2Health parameters and MDD",
+                    "Randomized treatment condition using cognitive-behavioral therapy",
+                    "Comparative study with MDD patients and healthy controls"
+                ],
+                "participants": [
+                    {
+                        "group": "CBT treated MDD patients",
+                        "number": 100
+                    },
+                    {
+                        "group": "Waiting-list MDD patients",
+                        "number": 100
+                    },
+                    {
+                        "group": "Healthy controls",
+                        "number": 100
+                    }
+                ],
+                "assessment_intervals": [
+                    "Initial",
+                    "Post-treatment",
+                    "6-month follow-up",
+                    "18-month follow-up"
+                ],
+                "outcomes": [
+                    "Biomarker profiles of MDD treatment response and resistance",
+                    "Characterization of MDD symptom recurrence"
+                ],
+                "potential_impacts": [
+                    "Establish modern etiological model of MDD",
+                    "Identify biomarkers of individual therapy response and relapse",
+                    "Inspire personalized MDD treatment concepts",
+                    "Improve clinical outcomes in psychotherapy and psychiatry"
+                ],
+                "descriptions": [
+                    "MitO2Health addresses mitochondrial bioenergy production and oxygen homeostasis impairments in MDD."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3923b08b983a99592d6b8a8fe4d6cb73",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMajor depression as a metabolic disorder: The role of oxygen homeostasis and mitochondrial bioenergetics in depression etiology and therapy\n\n**Description:**\n\nMitO2Health aims to develop and empirically prove a radically new pathophysiological model of Major Depressive Disorder (MDD) as a systemic energy deficiency disease. Traditionally, MDD is conceptualized as a neurotransmitter deficiency in the brain. However, with pioneering methods my group has provided evi-dence for reduced mitochondrial energy production in MDD, characterizing it as a cellular-metabolic disorder with a lowered production of adenosine triphosphate (ATP). Reduced mitochondrial bioenergy production and impairments in oxygen (O2) homeostasis (reduced levels of erythrocytes, less hemoglobin and its lower O2-binding affinity due to oxidative stress), as well as oxidative stress and inflammation (the “MitO2Health parameters”) were consistently associated with an increased risk for MDD, but have been neglected so far in MDD research and therapy. In MitO2Health we will more comprehensively than ever before investigate the physiological mechanisms underlying MDD and will provide first longitudinal evidence on the mutual in-terplay between the MitO2Health parameters and MDD. Moreover, we will apply cognitive-behavioral therapy (CBT) as randomized treatment condition to test whether CBT-related MDD symptom reduction is coupled to a normalization of the MitO2Health parameters. We will treat 100 MDD patients with 6 months of CBT and compare them to 100 MDD patients of a waiting-list group and 100 healthy controls. Clinical and biological status will be assessed at four points over 18 months. We will thus characterize the biomarker pro-files of MDD treatment response and resistance as well as MDD symptom recurrence during a follow-up pe-riod. MitO2Health will not only establish a modern etiological model of MDD, but also identify biomarkers of individual therapy response and relapse. This will lead to new diagnostic standards and inspire personalized MDD treatment concepts that will fundamentally improve clinical outcomes in psychotherapy and psychiatry."
+}

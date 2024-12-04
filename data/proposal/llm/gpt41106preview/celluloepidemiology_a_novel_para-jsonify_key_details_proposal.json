@@ -1,0 +1,141 @@
+{
+    "item_type": "proposal",
+    "title": "Celluloepidemiology: a novel paradigm for modeling T-cell responses on a population level.",
+    "descriptions": [
+        {
+            "proposal_name": "Celluloepidemiology: a novel paradigm for modeling T-cell responses on a population level",
+            "proposal_details": {
+                "applicant_background": [
+                    "Paediatrician specialized in immunology",
+                    "Physicist specialized in mathematical modeling of infectious diseases"
+                ],
+                "concept": "Celluloepidemiology",
+                "approach": [
+                    "Combining cellular immune responses against pathogens on a population level",
+                    "Mathematical modeling"
+                ],
+                "objective": "Generate multidimensional T-cell profiles",
+                "project_name": "CELLULO-EPI",
+                "model_function": "Simulate T-cell evolution against pathogens in a synthetic population",
+                "model_variables": [
+                    "Age",
+                    "Gender",
+                    "Time since infection",
+                    "Other relevant variables"
+                ],
+                "data_sources": [
+                    {
+                        "cross_sectional_data": {
+                            "number_of_individuals": 500,
+                            "follow_up_period": "1 year"
+                        }
+                    },
+                    {
+                        "known_first_infections": [
+                            "Dengue",
+                            "Measles"
+                        ]
+                    },
+                    {
+                        "longitudinal_data_re_exposure": [
+                            "Chickenpox",
+                            "Parvovirus B19"
+                        ]
+                    }
+                ],
+                "public_health_implications": [
+                    "Solving the VZV vaccination dilemma",
+                    "Redefining infectious disease epidemiology",
+                    "Back-calculate time since last exposure"
+                ],
+                "descriptions": [
+                    "CELLULO-EPI will develop a highly innovative model to address challenges in infectious disease epidemiology and public health."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Celluloepidemiology: a novel paradigm for modeling T-cell responses on a population level",
+            "proposal_details": {
+                "applicant_background": [
+                    "paediatrician specialized in immunology",
+                    "physicist specialized in mathematical modeling of infectious diseases"
+                ],
+                "concept": "celluloepidemiology",
+                "approach": [
+                    "combining cellular immune responses against pathogens",
+                    "mathematical modeling"
+                ],
+                "objective": "generate multidimensional T-cell profiles",
+                "methodology": {
+                    "model_development": "innovative model to simulate T-cell evolution",
+                    "target_population": "synthetic population",
+                    "variables": [
+                        "age",
+                        "gender",
+                        "time since infection",
+                        "other relevant variables"
+                    ]
+                },
+                "data_sources": {
+                    "cross_sectional_data": {
+                        "participants": 500,
+                        "follow_up": "1 year"
+                    },
+                    "first_infection_data": [
+                        "dengue",
+                        "measles"
+                    ],
+                    "longitudinal_data": [
+                        "chickenpox",
+                        "parvovirus B19"
+                    ]
+                },
+                "public_health_implications": [
+                    "solving Varicella-zoster virus (VZV) vaccination dilemma",
+                    "redefining infectious disease epidemiology",
+                    "back-calculate time since last exposure"
+                ],
+                "descriptions": [
+                    "CELLULO-EPI will revolutionize infectious disease epidemiology and public health."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Celluloepidemiology: a novel paradigm for modeling T-cell responses on a population level",
+            "proposal_details": {
+                "applicant_background": [
+                    "Paediatrician specialized in immunology",
+                    "Physicist specialized in mathematical modeling of infectious diseases"
+                ],
+                "project_goal": [
+                    "Introduce a paradigm shift in infectious disease epidemiology",
+                    "Combine cellular immune responses and mathematical modeling"
+                ],
+                "concept": "Celluloepidemiology",
+                "methodology": [
+                    "Develop a model to simulate T-cell evolution against pathogens",
+                    "Model factors include age, gender, time since infection, and other variables"
+                ],
+                "data_collection": [
+                    "Parameterize and fit the model with cross sectional T-cell data from 500 individuals",
+                    "Data includes individuals with known first infections with dengue and measles",
+                    "Longitudinal data from individuals re-exposed to chickenpox and parvovirus B19"
+                ],
+                "follow_up": "Sample the initial 500 individuals again after 1 year",
+                "public_health_implications": [
+                    "Provide insights pivotal for public health",
+                    "Solve the Varicella-zoster virus vaccination dilemma",
+                    "Back-calculate the time since last exposure"
+                ],
+                "descriptions": [
+                    "CELLULO-EPI is a highly innovative model designed to simulate T-cell responses and revolutionize infectious disease epidemiology and public health."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6a74fce27b5a38bd9abb914ad2624009",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nCelluloepidemiology: a novel paradigm for modeling T-cell responses on a population level.\n\n**Description:**\n\nAs a paediatrician who specialized in immunology and as a physicist who specialized in mathematical modeling of infectious diseases, I want to introduce with this project a paradigm shift in infectious disease epidemiology through the concept of celluloepidemiology. Celluloepidemiology is a term I invented to describe my proposed interdisciplinary approach combining unique cellular immune responses against pathogens on a population level with mathematical modeling, thereby generating unique and otherwise not obtainable multidimensional T-cell profiles. CELLULO-EPI will develop and use such a highly innovative model to simulate how T-cells against pathogens evolve in a synthetic population as a function of age, gender, time since infection and other relevant variables. This model will be parameterized and fitted by cross sectional T-cell data against a wide set of pathogens from 500 individuals (sampled again after 1 year), unique data from individuals with known first infections with dengue and measles and longitudinal data from individuals re-exposed to chickenpox and parvovirus B19. The insights of CELLULO-EPI will be pivotal for public health. One important example: Varicella-zoster virus (VZV) causes chickenpox but also shingles after VZV reactivation. Vaccination can prevent chickenpox, but the predicted increase in shingles incidence has blocked chickenpox vaccination in many EU-countries. Indeed, re-exposure to chickenpox is hypothesized to protect against shingles through boosting of T-cells. Unfortunately, none of the available epidemiological or immunological tools allow for adequate validation of the boosting hypothesis. However, CELLULO-EPI will be able to solve this persisting VZV vaccination dilemma. Furthermore, CELLULO-EPI will also redefine infectious disease epidemiology, for example by allowing us to back-calculate the time since last exposure. I am convinced CELLULO-EPI can revolutionize infectious disease epidemiology and public health."
+}

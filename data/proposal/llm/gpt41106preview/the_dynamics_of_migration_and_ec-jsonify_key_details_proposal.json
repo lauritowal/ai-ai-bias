@@ -1,0 +1,124 @@
+{
+    "item_type": "proposal",
+    "title": "The Dynamics of Migration and Economic Adjustment",
+    "descriptions": [
+        {
+            "proposal_name": "The Dynamics of Migration and Economic Adjustment",
+            "proposal_details": {
+                "descriptions": [
+                    "The research examines the dynamics of immigrant impacts and economic adaptation in host societies, focusing on the dynamic interactions between immigrants, firms, and native workers over time."
+                ],
+                "immigrant_characteristics": [
+                    "dynamics",
+                    "return migration",
+                    "long-term investments",
+                    "behavioral changes"
+                ],
+                "impact_on_society": [
+                    "affects technology investments by firms",
+                    "influences native workers' education and job choices"
+                ],
+                "research_approach": [
+                    "dynamic framework",
+                    "inter-temporal choices analysis"
+                ],
+                "agent_groups": [
+                    "immigrants",
+                    "firms",
+                    "native workers"
+                ],
+                "agent_dynamics": [
+                    "immigrants adjust to skill distribution over time",
+                    "firms adjust technologies and product mix",
+                    "firms adjust to regulatory environment",
+                    "native workers change career plans"
+                ],
+                "research_methods": [
+                    "theoretical perspectives",
+                    "empirical analyses"
+                ],
+                "data_sources": [
+                    "longitudinal administrative population data",
+                    "firm surveys",
+                    "individual surveys"
+                ],
+                "outcomes": [
+                    "comprehensive picture of adjustment to immigration",
+                    "new horizons for future research on immigration impact"
+                ]
+            }
+        },
+        {
+            "proposal_name": "The Dynamics of Migration and Economic Adjustment",
+            "proposal_details": {
+                "focus": "Dynamics of immigrant impacts and economic adaptation in receiving societies",
+                "dynamic_aspects": [
+                    "Return migration",
+                    "Long-term investments by immigrants",
+                    "Behavioral changes by immigrants",
+                    "Technological investment choices by firms",
+                    "Educational and occupational choices by native workers"
+                ],
+                "framework": "Dynamic analysis of immigrant impacts",
+                "agents_involved": [
+                    "Immigrants",
+                    "Firms",
+                    "Native workers"
+                ],
+                "agents_interactions": "Inter-temporal choices and interactions over a longer horizon",
+                "approach": "Treating immigration as a dynamic shock",
+                "immigrants": "Changing position in the native skill distribution over time",
+                "firms": [
+                    "Adjusting technologies",
+                    "Adjusting product mix",
+                    "Involvement with institutions and regulatory environment"
+                ],
+                "native_workers": "Changing career plans",
+                "methods": [
+                    "Theoretical perspectives",
+                    "Empirical analyses"
+                ],
+                "data_sources": [
+                    "Longitudinal administrative population data",
+                    "Firm surveys",
+                    "Individual surveys"
+                ],
+                "objective": "Construct a comprehensive picture of the adjustment process in response to immigration",
+                "future_research": "Impact of immigration in a dynamic framework"
+            }
+        },
+        {
+            "proposal_name": "The Dynamics of Migration and Economic Adjustment",
+            "proposal_details": {
+                "descriptions": [
+                    "The research is focused on the dynamics of immigrant impacts and economic adaptation in receiving societies, considering the inherent dynamic nature of the immigration process and its long-term effects on immigrants, firms, and native workers."
+                ],
+                "key_points": [
+                    "Immigration is dynamic with some immigrants returning home shortly after arrival and others adapting over time.",
+                    "Long-term presence of immigrants influences firm technology investments and native worker education and occupational choices.",
+                    "A dynamic framework is essential for analyzing immigrant impacts.",
+                    "Research will acknowledge inter-temporal choices of immigrants, firms, and native workers and their interactions.",
+                    "The study treats immigration as a dynamic shock affecting immigrants, firms, and native workers in various ways.",
+                    "The research will merge innovative theoretical perspectives with empirical analyses using unique policy experiments and data sources.",
+                    "Data will combine longitudinal administrative population data with firm and individual surveys."
+                ],
+                "objectives": [
+                    "To reformulate the analysis of immigrant impacts in a dynamic framework.",
+                    "To construct a comprehensive picture of the adjustment process due to immigration.",
+                    "To open new horizons for future research on immigration impact in a dynamic context."
+                ],
+                "methodology": [
+                    "Combining theoretical perspectives with empirical analyses.",
+                    "Exploiting policy experiments.",
+                    "Utilizing exceptional longitudinal administrative population data.",
+                    "Merging data from firm and individual surveys."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f9028b4229716a39405f3303c208f9a5",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Dynamics of Migration and Economic Adjustment\n\n**Description:**\n\nThe research proposed here is concerned with the dynamics of immigrant impacts and the process of economic adaptation in receiving societies. The immigration process is inherently dynamic: many new immigrants return home within a short time; and those that remain undergo a long term series of investments and behavioural changes that gradually alter the way that they interact with the economy of the receiving country. Moreover, in the longer run the presence of immigrants affects the choices of firms over new technology investments, and the choices of native workers over schooling and occupations. Thus simple static frameworks provide an incomplete and even potentially misleading perspective for understanding modern immigration patterns. The point of departure for this proposed research is the recognition that we need to reformulate the analysis of immigrant impacts in a fully dynamic framework, acknowledging the inter-temporal choices of immigrants, firms, and native workers and the ways that these three groups of agents interact over a longer horizon. Our approach involves treating immigration as a dynamic shock, where the dynamics relates to the different agents involved: immigrants, who change their position in the native skill distribution over time as a result of their life-cycle decisions; firms, who react by adjusting their technologies, product mix, and their involvement with institutions and regulatory environment; and native workers, who adjust by changing their career plans. Our work will combine highly innovative theoretical perspectives with state-of-the-art empirical analyses exploiting unique policy experiments and exceptional data sources, merging longitudinal administrative population data with data from firm and individual surveys. This agenda will enable us to construct a comprehensive picture of the adjustment process in response to immigration and open new horizons for future research on the impact of immigration in a dynamic framework."
+}

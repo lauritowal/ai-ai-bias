@@ -1,0 +1,111 @@
+{
+    "item_type": "proposal",
+    "title": "Inside mechanisms sustaining cancer stem cells",
+    "descriptions": [
+        {
+            "proposal_name": "Inside mechanisms sustaining cancer stem cells",
+            "proposal_details": {
+                "hypothesis": "Cancer Stem Cell (CSC) Hypothesis",
+                "objectives": [
+                    "Investigate how loss of p53 in tumours leads to expansion of the CSC pool",
+                    "Determine if p53-independent pathways are implicated in CSC self-renewal or inhibition of SC-reprogramming",
+                    "Explore how p21-induced cell-cycle arrest protects CSCs from self-renewal exhaustion",
+                    "Assess if activation of p21 in CSCs induces a mutator phenotype and its implications for chemoresistance"
+                ],
+                "methods": [
+                    "In vivo shRNA screens",
+                    "Investigation of cell-cycle recruitment",
+                    "Analysis of DNA-damage and mutation rates",
+                    "Tumour re-growth in vivo after cytotoxic treatments",
+                    "Clonal tracking of re-growing tumours using barcoded lentiviral libraries"
+                ],
+                "long_term_goal": "Identification of CSC-specific targets for pharmacological intervention",
+                "descriptions": [
+                    "The proposal aims to understand the mechanisms that allow cancer stem cells (CSCs) to sustain tumour growth and to identify potential targets for therapeutic intervention."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Inside mechanisms sustaining cancer stem cells",
+            "proposal_details": {
+                "hypothesis": "Cancer Stem Cell (CSC) Hypothesis",
+                "objective": "Eliminate CSCs to achieve cancer cure",
+                "findings": [
+                    "Increased frequency of symmetric divisions",
+                    "Increased replicative potential"
+                ],
+                "key_elements": [
+                    "p53 tumour suppressor inactivation",
+                    "p21 cell-cycle inhibitor up-regulation"
+                ],
+                "investigations": [
+                    {
+                        "aim": "Expansion of the CSC pool due to loss of p53",
+                        "method": "Testing p53-loss activation of Myc oncogene"
+                    },
+                    {
+                        "aim": "p53-independent pathways in CSC self-renewal",
+                        "method": "In vivo shRNA screens"
+                    },
+                    {
+                        "aim": "Protection of CSCs from self-renewal exhaustion by p21-induced cell-cycle arrest",
+                        "method": "Investigating regulation of cell-cycle recruitment"
+                    },
+                    {
+                        "aim": "p21 activation in CSCs and mutator phenotype",
+                        "method": "Investigating mechanisms of DNA-damage and mutation rates"
+                    }
+                ],
+                "long_term_goal": "Identification of CSC-specific targets for pharmacological intervention",
+                "methodology": "Transplantation-independent assay and clonal tracking",
+                "descriptions": [
+                    "The proposal aims to investigate the mechanisms sustaining cancer stem cells (CSCs) and their implications for tumour growth and resistance to treatments."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Inside mechanisms sustaining cancer stem cells",
+            "proposal_details": {
+                "hypothesis": "Cancer Stem Cell Hypothesis",
+                "csc_properties": [
+                    "self-renewal",
+                    "increased frequency of symmetric divisions",
+                    "increased replicative potential"
+                ],
+                "key_factors": [
+                    "inactivation of p53 tumour suppressor",
+                    "up-regulation of cell-cycle inhibitor p21"
+                ],
+                "research_aims": [
+                    {
+                        "aim": "Investigate expansion of CSC pool due to p53-loss",
+                        "method": "test hypothesis that p53-loss activates Myc oncogene"
+                    },
+                    {
+                        "aim": "Explore p53-independent pathways",
+                        "method": "in vivo shRNA screens of primary tumours or normal progenitors"
+                    },
+                    {
+                        "aim": "Understand p21-induced cell-cycle arrest in CSCs",
+                        "method": "investigate regulation of cell-cycle recruitment of quiescent CSCs"
+                    },
+                    {
+                        "aim": "Determine if p21 activation in CSCs induces mutator phenotype",
+                        "method": "investigate mechanisms of DNA-damage, mutation rates, chemoresistance"
+                    }
+                ],
+                "assessment_techniques": [
+                    "transplantation-independent assay",
+                    "tumour re-growth in vivo after cytotoxic treatments",
+                    "clonal tracking of re-growing tumours using barcoded lentiviral libraries"
+                ],
+                "long_term_goal": "Identification of CSC-specific targets for pharmacological intervention"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "39e020b25c047bbdc1b3a8f1f4c72300",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nInside mechanisms sustaining cancer stem cells\n\n**Description:**\n\nThe “Cancer Stem Cell (CSC) Hypothesis” postulates that the capacity to maintain tumour growth is owned by rare cancer cells, the CSCs, endowed with self-renewal properties. This hypothesis implies that CSCs must be eliminated to achieve cancer cure. Nevertheless, direct proof is still lacking, and recent findings challenge our concepts of CSCs, showing the limits of the CSC-defining assay (transplantation) and suggesting that CSC-identity might be context-dependent. We found two properties of CSCs self-renewal that are indispensable for the maintenance of an expanding CSC-pool and tumour growth: increased frequency of symmetric divisions, due to inactivation of the p53 tumour suppressor, and increased replicative potential, due to up-regulation of the cell-cycle inhibitor p21. We will now investigate: i) How loss of p53 in tumours leads to expansion of the CSC pool, by testing the hypothesis that p53-loss activates the Myc oncogene which induces CSC-reprogramming of differentiated cancer cells. ii) Whether p53-independent pathways are also implicated, by in vivo shRNA screens of primary tumours or normal progenitors to identify pathways involved, respectively, in CSC self-renewal or inhibition of SC-reprogramming. iii) How p21-induced cell-cycle arrest protects CSCs from self-renewal exhaustion, by investigating regulation of cell-cycle recruitment of quiescent CSCs. iv) Whether activation of p21 in CSCs induces a mutator phenotype, due to its ability to activate DNA repair, by investigating mechanisms of DNA-damage, mutation rates, and relevance of CSC mutations for development of chemoresistance. We will test self-renewal functions in a transplantation-independent assay, based on tumour re-growth in vivo after cytotoxic treatments and “clonal tracking” of re-growing tumours (using barcoded lentiviral libraries). Our long-term goal is the identification of CSC-specific targets that could be used to create the basis for CSC-specific pharmacological intervention."
+}

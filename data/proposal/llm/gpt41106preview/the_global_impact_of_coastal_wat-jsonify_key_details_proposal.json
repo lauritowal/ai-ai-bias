@@ -1,0 +1,150 @@
+{
+    "item_type": "proposal",
+    "title": "The global impact of coastal water contamination on economic development",
+    "descriptions": [
+        {
+            "proposal_name": "The global impact of coastal water contamination on economic development",
+            "proposal_details": {
+                "importance": {
+                    "food_security": true,
+                    "livelihood_impact": "3 billion people",
+                    "target_population": "low- and middle-income countries"
+                },
+                "problem_statement": {
+                    "evidence_of_impact": "significant impact on marine life",
+                    "socio_economic_disruption": true,
+                    "current_knowledge_limitation": true
+                },
+                "project_GLOBCOADEV": {
+                    "novel_insights": true,
+                    "methodology": "exploiting exogenous variation",
+                    "time_span": "last five decades",
+                    "scale": "global",
+                    "target": "all LMICs"
+                },
+                "data_sources": [
+                    "household surveys",
+                    "satellite imaging"
+                ],
+                "methodology_approach": "advanced micro-econometric techniques",
+                "objectives": [
+                    {
+                        "objective_number": 1,
+                        "focus": "early-childhood development",
+                        "specifics": "role of nutrition"
+                    },
+                    {
+                        "objective_number": 2,
+                        "focus": "local economic activities",
+                        "specifics": "fishing patterns and economic development indicators"
+                    },
+                    {
+                        "objective_number": 3,
+                        "focus": "side effects of contamination",
+                        "specifics": "political attitudes, violence, rural-urban migration"
+                    }
+                ],
+                "expected_outcomes": {
+                    "literature_contribution": true,
+                    "policy_design_influence": true,
+                    "UN_SDG_highlight": true
+                }
+            }
+        },
+        {
+            "proposal_name": "The global impact of coastal water contamination on economic development",
+            "proposal_details": {
+                "importance_of_coastal_waters": "Food security",
+                "affected_population": 3000000000,
+                "affected_population_income_level": "low and middle-income countries",
+                "current_knowledge_limitation": "Highly limited",
+                "project_name": "GLOBCOADEV",
+                "project_goal": "Provide insights into the causal effect of coastal water contamination on economic development",
+                "methodology": {
+                    "approach": "Exploiting exogenous variation",
+                    "sources": [
+                        "Rivers' release",
+                        "Climate change"
+                    ],
+                    "time_span": "Last five decades",
+                    "scale": "Global",
+                    "target_population": "LMICs"
+                },
+                "data_sources": [
+                    "Household surveys",
+                    "Satellite imaging"
+                ],
+                "analytical_methods": [
+                    "Advanced micro-econometric techniques"
+                ],
+                "objectives": [
+                    {
+                        "id": 1,
+                        "description": "Provide global evidence of the effect of coastal water contamination on early-childhood development, focusing on nutrition"
+                    },
+                    {
+                        "id": 2,
+                        "description": "Determine the effect of coastal water contamination on local economic activities, focusing on fishing and overall economic development"
+                    },
+                    {
+                        "id": 3,
+                        "description": "Investigate side effects of coastal water contamination on local economic development, including political attitudes, violence, and rural-urban migration"
+                    }
+                ],
+                "policy_relevance": "Inform environmental protection policies",
+                "alignment_with_UN_goals": "Sustainable Development Goals"
+            }
+        },
+        {
+            "proposal_name": "The global impact of coastal water contamination on economic development",
+            "proposal_details": {
+                "importance_of_coastal_waters": "critical for global food security",
+                "affected_population": "over 3 billion people",
+                "population_majority": "live in low- and middle-income countries",
+                "contamination_impact": "significant impact on marine life",
+                "potential_disruption": "disrupting local socio-economic development in LMICs",
+                "knowledge_gap": "highly limited",
+                "project_name": "GLOBCOADEV",
+                "research_approach": "exploiting exogenous variation in coastal water contamination",
+                "time_scope": "last five decades",
+                "geographical_scope": "global scale for all LMICs",
+                "data_sources": [
+                    "household surveys",
+                    "satellite imaging"
+                ],
+                "methodology": "advanced micro-econometric techniques",
+                "objectives": [
+                    {
+                        "objective_number": 1,
+                        "focus": "effect of coastal water contamination on early-childhood development",
+                        "specific_interest": "role of nutrition"
+                    },
+                    {
+                        "objective_number": 2,
+                        "focus": "how coastal water contamination affects local economic activities",
+                        "specific_interest": "pattern of fishing and indicators of overall economic development"
+                    },
+                    {
+                        "objective_number": 3,
+                        "focus": "side effects of coastal water contamination impacting local economic development",
+                        "specific_interests": [
+                            "changes in political attitudes",
+                            "insurgence of violence",
+                            "rural-urban migration"
+                        ]
+                    }
+                ],
+                "expected_outcome": "fill an important gap in the literature and inform environmental policy design",
+                "policy_relevance": "highlighted by UN's Sustainable Development Goals",
+                "descriptions": [
+                    "Project GLOBCOADEV aims to analyze and provide insights into the effects of coastal water contamination on economic development, focusing on LMICs."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "fea7231edc5d4e6b83f0b7184f95cc52",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe global impact of coastal water contamination on economic development\n\n**Description:**\n\nHealthy coastal waters play a critical role for global food security. Worldwide, the ocean sustains the livelihood of more than 3 billion people, the vast majority of which live in low- and middle-income countries (LMICs). Worryingly, recent evidence shows that human contamination of coastal waters is having a significant impact on marine life. With a large share of communities relying on fishing for survival, it is likely that coastal water contamination is already disrupting local socio-economic development in LMICs. However, knowledge about this phenomenon remains highly limited. GLOBCOADEV will provide novel insights into the causal effect of coastal water contamination on economic development. Using a novel approach exploiting exogenous variation in coastal water contamination determined by rivers' release and by climate change, we will identify this effect for the last five decades and at a global scale for all LMICs. By gathering a wide array of micro-level datasets, ranging from household surveys to satellite imaging, and applying advanced micro-econometric techniques, we will pursue three major objectives: 1) to provide the first global evidence of the effect of coastal water contamination on early-childhood development, focusing in particular on the role of nutrition; 2) to determine how coastal water contamination affects local economic activities, concentrating on the pattern of fishing and on indicators of overall economic development; 3) to investigate side effects of coastal water contamination that are impacting local economic development, which include changes in political attitudes, the insurgence of violence, and rural-urban migration. GLOBCOADEV will not only fill an important gap in the literature, but also inform the design of policies protecting the environment. As highlighted by UN's Sustainable Development Goals, knowledge in this area is crucially needed in these challenging times for the ocean."
+}

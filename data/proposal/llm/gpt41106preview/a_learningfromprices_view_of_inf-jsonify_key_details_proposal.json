@@ -1,0 +1,127 @@
+{
+    "item_type": "proposal",
+    "title": "A Learning-from-Prices view of Inflation and Business Cycles",
+    "descriptions": [
+        {
+            "proposal_name": "A Learning-from-Prices view of Inflation and Business Cycles",
+            "proposal_details": {
+                "region": "Eurozone",
+                "current_condition": "sharp increase in inflation",
+                "focus": [
+                    "inflation expectations",
+                    "transmission of monetary policy"
+                ],
+                "approach": [
+                    "theoretical support",
+                    "empirical support"
+                ],
+                "novelty": [
+                    "household-centric view of money non-neutrality",
+                    "feedback loop between market outcomes and expectations through prices"
+                ],
+                "working_packages": [
+                    {
+                        "WP1": "theory of output-inflation co-movement based on consumers' price hunting"
+                    },
+                    {
+                        "WP2": "validation using consumer spending data"
+                    },
+                    {
+                        "WP3": "validation using retail trade data"
+                    },
+                    {
+                        "WP4": "new model of consumer learning from inflation"
+                    },
+                    {
+                        "WP5": "model estimation on survey data"
+                    }
+                ],
+                "expected_outcomes": [
+                    "better appraisal of consumers' expectations",
+                    "empirical counterparts for incomplete information sets"
+                ],
+                "descriptions": [
+                    "The project aims to understand the role of households' inflation perceptions in driving business cycles and how market prices influence these perceptions, affecting monetary policy transmission."
+                ]
+            }
+        },
+        {
+            "proposal_name": "A Learning-from-Prices view of Inflation and Business Cycles",
+            "proposal_details": {
+                "region": "Eurozone",
+                "current_condition": "sharp increase in inflation",
+                "focus": "inflation expectations",
+                "aim": "theoretical and empirical support for a new channel",
+                "novelty": "how market prices influence consumers' perceived inflation",
+                "perspective": "household-centric view of money non-neutrality",
+                "related_trend": "central banks' focus on consumers' expectations",
+                "working_packages": [
+                    {
+                        "WP1": "new theory on output-inflation co-movement from consumers' price hunting"
+                    },
+                    {
+                        "WP2": "validate mechanism with consumer spending data"
+                    },
+                    {
+                        "WP3": "validate mechanism with retail trade data"
+                    },
+                    {
+                        "WP4": "new model on consumers' learning from inflation about future prospects"
+                    },
+                    {
+                        "WP5": "estimate model on survey data"
+                    }
+                ],
+                "key_novelty": "study of market outcomes and feedback loop to expectations through prices",
+                "by_product": "identifiable empirical counterparts for incomplete information sets"
+            }
+        },
+        {
+            "proposal_name": "A Learning-from-Prices view of Inflation and Business Cycles",
+            "proposal_details": {
+                "region": "Eurozone",
+                "current_condition": "sharp increase in inflation",
+                "focus": [
+                    "inflation expectations",
+                    "persistence of inflation",
+                    "cost of monetary tightening"
+                ],
+                "aim": "provide support for a new channel influencing business activity via inflation",
+                "approach": [
+                    "theoretical support",
+                    "empirical support"
+                ],
+                "novelty": [
+                    "household-centric view of money non-neutrality",
+                    "feedback loop between market outcomes and expectations through prices"
+                ],
+                "working_packages": [
+                    {
+                        "WP1": "theory of output-inflation co-movement based on consumers' price hunting"
+                    },
+                    {
+                        "WP2": "validating mechanism using consumer spending data"
+                    },
+                    {
+                        "WP3": "validating mechanism using retail trade data"
+                    },
+                    {
+                        "WP4": "new model where consumers learn from inflation about economic prospects"
+                    },
+                    {
+                        "WP5": "model estimation on survey data"
+                    }
+                ],
+                "descriptions": [
+                    "inflation perceptions influenced by market prices as a source of the business cycle"
+                ],
+                "by_product": "identification of empirical counterparts for incomplete information sets"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "73ae9c6a3700193d5cca590339cebe80",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nA Learning-from-Prices view of Inflation and Business Cycles\n\n**Description:**\n\nThe Eurozone is currently facing a sudden and sharp increase in inflation. Whether inflationary pressures will persist and what will be the cost of an eventual monetary tightening crucially depends on inflation expectations. The aim of this project is to provide theoretical and empirical support to a new channel, through which inflation may persistently shift business activity. The project sheds new light on how market prices influence consumers’ perceived inflation and how this may allow for the transmission of monetary policy even in the absence of rigidities in firms’ pricing. It shifts the focus from a traditional firm-centric to a (complementary) household-centric view of money non-neutrality. It shares the spirit of a recent trend in central banks’ efforts in getting a better appraisal of the importance of consumers’ expectations, after decades of a strict empirical focus on firms’ pricing. The project consists of five working packages (WP) based on the idea that households’ inflation perceptions, driven by actual market prices, can be a major source of the business cycle. The first WP proposes a new theory where output-inflation co-movement relies on consumers’ price hunting in response to perceived inflation, causing a counter-cyclical gap between posted and paid prices inflation. The second and third WP aim at validating the mechanism using large datasets on consumers’ spending and retail trade. The fourth presents a new model where consumers learn from inflation about future economic prospects on which all have dispersed foresight. The fifth will estimate this model on survey data. The key novelty of the project is studying, not only how expectations move market outcomes, as typical in the literature, but also how these feed-back to expectations through prices in a full circle of general equilibrium implications. As by-product, it identifies measurable empirical counterparts for incomplete information sets."
+}

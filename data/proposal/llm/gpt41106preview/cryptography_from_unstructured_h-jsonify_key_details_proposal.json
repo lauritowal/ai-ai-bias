@@ -1,0 +1,124 @@
+{
+    "item_type": "proposal",
+    "title": "Cryptography from Unstructured Hardness",
+    "descriptions": [
+        {
+            "proposal_name": "Cryptography from Unstructured Hardness",
+            "proposal_details": {
+                "essential_tasks": [
+                    "encryption",
+                    "authentication",
+                    "key exchange"
+                ],
+                "core_question": "existence of unbreakable encryption methods",
+                "related_problem": "NP vs. P problem",
+                "current_reliance": "conjectured hardness of computational problems",
+                "examples_of_problems": [
+                    "factoring problem",
+                    "discrete logarithms problem",
+                    "noisy linear algebra problems"
+                ],
+                "problem_characteristic": "significant structure",
+                "vulnerability": "potential attacks",
+                "limited_candidate_problems": true,
+                "tasks_based_on_few_problems": [
+                    "key exchange",
+                    "public-key encryption"
+                ],
+                "project_goal": "develop provably-secure Cryptography from unstructured hardness assumptions",
+                "new_connection": "Cryptography and Kolmogorov Complexity",
+                "development_focus": [
+                    "private-key encryption",
+                    "key-exchange",
+                    "public-key encryption"
+                ],
+                "hardness_assumptions_basis": "Kolmogorov Complexity",
+                "lack_of_structure": true,
+                "outcome": "new theoretical foundation for the hardness assumptions on which Cryptography is based",
+                "security_implication": "more secure foundation for the Internet"
+            }
+        },
+        {
+            "proposal_name": "Cryptography from Unstructured Hardness",
+            "proposal_details": {
+                "essential_tasks": [
+                    "encryption",
+                    "authentication",
+                    "key exchange"
+                ],
+                "core_question": "existence of unbreakable encryption methods",
+                "relation": "NP vs. P problem",
+                "current_reliance": "conjectured hardness of computational problems",
+                "examples_of_problems": [
+                    "factoring problem",
+                    "discrete logarithms problem",
+                    "noisy linear algebra problems"
+                ],
+                "issues": [
+                    "vulnerability to attacks",
+                    "limited number of hard problems for key tasks"
+                ],
+                "proposal": "foundation for provably-secure cryptography from unstructured hardness assumptions",
+                "approach": "connection between cryptography and Kolmogorov Complexity",
+                "goals": [
+                    "develop new hardness assumptions based on Kolmogorov Complexity",
+                    "overcome structural vulnerabilities in current cryptographic tasks"
+                ],
+                "expected_outcome": "new theoretical foundation for hardness assumptions in cryptography",
+                "long_term_impact": "more secure foundation for the Internet and beyond"
+            }
+        },
+        {
+            "proposal_name": "Cryptography from Unstructured Hardness",
+            "proposal_details": {
+                "descriptions": [
+                    "Developing a foundation for provably-secure Cryptography from unstructured hardness assumptions."
+                ],
+                "tasks": [
+                    "encryption",
+                    "authentication",
+                    "key exchange"
+                ],
+                "focus": [
+                    "privacy",
+                    "security"
+                ],
+                "related_problems": [
+                    "NP vs. P problem"
+                ],
+                "current_basis": [
+                    "factoring problem",
+                    "discrete logarithms problem",
+                    "noisy linear algebra problems"
+                ],
+                "structure_vulnerability": [
+                    "algebraic structure"
+                ],
+                "limited_candidate_problems": [
+                    "key exchange",
+                    "public-key encryption"
+                ],
+                "new_approach": [
+                    "unstructured hardness assumptions"
+                ],
+                "tools": [
+                    "Kolmogorov Complexity"
+                ],
+                "cryptographic_tasks_based_on_new_assumptions": [
+                    "private-key encryption",
+                    "key-exchange",
+                    "public-key encryption"
+                ],
+                "expected_outcomes": [
+                    "New theoretical foundation for the hardness assumptions on which Cryptography is based",
+                    "More secure foundation for the Internet"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "dcaca4f9c9ef23d92f1cda9ef3412562",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nCryptography from Unstructured Hardness\n\n**Description:**\n\nCryptography—and its basic tasks such as encryption, authentication and key exchange—is essential for ensuring privacy and security on the Internet. The question of whether “unbreakable” encryption methods exist has fascinated mathematicians and cryptographers for thousands of years, and is closely related to the famous NP vs. P problem. This question is still wide open and consequently, Internet security today relies on cryptographic constructions based on the *conjectured* hardness of some computational problems (such as e.g., the factoring problem, the discrete logarithms problem or various noisy linear algebra problems). However, these conjectured hard problems all contain significant (e.g., algebraic) *structure*, that may make them vulnerable to attacks. Furthermore, for tasks such as key exchange and public-key encryption, only a *handful* of candidate hard problems are known on which these tasks can be based. As a result, some unexpected algorithmic developments for structured problems could upend the whole infrastructure we rely on for communicating and transacting on the Internet. In this project, we propose to develop an alternative approach: a foundation for provably-secure Cryptography from *unstructured hardness* assumptions. Towards resolving this long-standing challenge, we will leverage our recently-discovered connection between Cryptography and the seemingly unrelated area of Kolmogorov Complexity. Specifically, we will develop new hardness assumptions rooted in Kolmogorov Complexity on which the cryptographic tasks (e.g., private-key encryption, key-exchange, public-key encryption) can be based. Critically, these assumptions will lack algebraic and other computational structure that may make them vulnerable to attacks. Overall, KolmoCrypt will provide a new theoretical foundation for the hardness assumptions on which Cryptography is based, and ultimately, a more secure foundation for the Internet (and beyond)."
+}

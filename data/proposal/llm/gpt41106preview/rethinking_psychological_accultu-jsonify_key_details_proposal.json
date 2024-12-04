@@ -1,0 +1,116 @@
+{
+    "item_type": "proposal",
+    "title": "Re-thinking Psychological Acculturation: From Explicit to Implicit Cultural Affiliations",
+    "descriptions": [
+        {
+            "proposal_name": "Re-thinking Psychological Acculturation: From Explicit to Implicit Cultural Affiliations",
+            "proposal_details": {
+                "description": "This project aims to expand our understanding of psychological acculturation by moving beyond explicit cultural attitudes and identities to explore implicit dimensions such as self-construal, cognition, and motivation.",
+                "percentage_ethnic_minorities_in_Europe": 29,
+                "focus_group": "ethnic minority and majority youth (14-18y) in Belgium",
+                "number_of_studies": 4,
+                "study_types": [
+                    "cross-cultural",
+                    "2 year representative longitudinal",
+                    "experimental",
+                    "observational"
+                ],
+                "outcomes": [
+                    "well-being",
+                    "educational outcomes"
+                ],
+                "methodology": "a beyond-state-of-the-art methodological toolbox"
+            }
+        },
+        {
+            "proposal_name": "Re-thinking Psychological Acculturation: From Explicit to Implicit Cultural Affiliations",
+            "proposal_details": {
+                "topic": "psychological acculturation",
+                "relevance": {
+                    "ethnic_minorities_percentage": 29,
+                    "context": "European citizens"
+                },
+                "focus": {
+                    "acculturation_aspects": [
+                        "self-construal",
+                        "cognition",
+                        "motivation"
+                    ],
+                    "cultural_affiliations": {
+                        "explicit": "cultural attitudes and identities",
+                        "implicit": "ways of being, thinking, and action drivers"
+                    }
+                },
+                "objectives": [
+                    "prove acculturation in self-construal, cognition, and motivation",
+                    "elucidate interplay between explicit and implicit cultural affiliations",
+                    "identify acculturative profiles",
+                    "predict well-being and educational outcomes",
+                    "reveal micro-processes in majority-minority interactions"
+                ],
+                "methodology": {
+                    "studies": [
+                        "cross-cultural",
+                        "longitudinal",
+                        "experimental",
+                        "observational"
+                    ],
+                    "participant_age_range": "14-18",
+                    "participant_location": "Belgium",
+                    "study_duration": "2 years"
+                },
+                "outcomes": [
+                    "re-think psychological acculturation",
+                    "novel theory",
+                    "advanced methodological toolbox",
+                    "evidence for paradigm shift in acculturation research"
+                ],
+                "impact": [
+                    "new research lines in social sciences",
+                    "policy makers' perspective on integration"
+                ],
+                "descriptions": [
+                    "PsychAcc offers a novel theory, a beyond-state-of-the-art methodological toolbox and pivotal evidence to trigger a paradigm shift in acculturation research."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Re-thinking Psychological Acculturation: From Explicit to Implicit Cultural Affiliations",
+            "proposal_details": {
+                "topic": "psychological acculturation",
+                "population_percentage": "29",
+                "population_description": "ethnic minorities in European citizens",
+                "focus": "explicit and implicit cultural affiliations",
+                "project_name": "PsychAcc",
+                "goals": [
+                    "prove acculturation in self-construal, cognition, and motivation",
+                    "elucidate interplay between explicit and implicit cultural affiliations",
+                    "identify distinct acculturative profiles",
+                    "predict well-being and educational outcomes",
+                    "reveal micro-processes in majority-minority interactions"
+                ],
+                "methodology": [
+                    "cross-cultural study",
+                    "2 year representative longitudinal study",
+                    "experimental study",
+                    "observational study"
+                ],
+                "target_group": "ethnic minority and majority youth (14-18y) in Belgium",
+                "outcome": "novel theory and methodological toolbox for acculturation research",
+                "implications": [
+                    "paradigm shift in acculturation research",
+                    "new research lines in social sciences",
+                    "policy makers to reconsider 'integration'"
+                ],
+                "descriptions": [
+                    "PsychAcc offers a novel theory, a beyond-state-of-the-art methodological toolbox and pivotal evidence to trigger a paradigm shift in acculturation research."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c9006c0c0719907c60a6314e2fdc1a0e",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nRe-thinking Psychological Acculturation: From Explicit to Implicit Cultural Affiliations\n\n**Description:**\n\nThe topic of psychological acculturation – i.e., changes in psychological and behavioural patterns due to sustained contact with another culture – is both timely and relevant: 29 pct. of European citizens are ethnic minorities and ‘integration’ is omnipresent in debates on inequality and societal tension. Yet, our scientific understanding of this process is still poor. The current approach to acculturation narrowly focuses on ethnic minorities’ explicit willingness to (not) be part of a culture, as reflected in their cultural attitudes and identities. PsychAcc pushes boundaries by proving the existence of acculturation in self-construal, cognition, and motivation, building on the notion that people’s ways of being, thinking and drivers for action signal cultural affiliations implicitly. From there, PsychAcc elucidates the complex interplay between acculturative changes in explicit and implicit cultural affiliations and identifies people with distinct acculturative profiles, which are then used to predict well-being and educational outcomes. Finally, PsychAcc opens the ‘black box’ of acculturation by showing that these changes are driven by specific micro-processes in majority-minority interactions, like establishing common ground. It builds its evidence through four studies –a cross-cultural, a 2 year representative longitudinal, an experimental and an observational one – all focusing on ethnic minority and majority youth (14-18y) in Belgium. Together, the envisioned results re-think psychological acculturation: no longer as minorities’ willingness vis-à-vis cultures, but as a multi-faceted process of change that emerges from meaningful intercultural interactions. In sum, PsychAcc offers a novel theory, a beyond-state-of-the-art methodological toolbox and pivotal evidence to trigger a paradigm shift in acculturation research. It also inspires entirely new research lines in other social sciences and policy makers to look beyond outer signs of ‘integration’."
+}

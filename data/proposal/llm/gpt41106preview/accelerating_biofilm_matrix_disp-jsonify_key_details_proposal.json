@@ -1,0 +1,102 @@
+{
+    "item_type": "proposal",
+    "title": "Accelerating biofilm Matrix dispersion with Deep Eutectic Solvents",
+    "descriptions": [
+        {
+            "proposal_name": "Accelerating biofilm Matrix dispersion with Deep Eutectic Solvents",
+            "proposal_details": {
+                "descriptions": [
+                    "A composition for a NADES-based biofouling control product that exceeds the performance of the closest competing product and is superior in terms of reduced toxicity and higher biodegradability."
+                ],
+                "market_pull": "green/sustainable chemicals",
+                "sector": "water treatment",
+                "technology_use": "membrane filtration technology",
+                "problem_addressed": "biofouling",
+                "solution_basis": "natural deep eutectic solvents (NADES)",
+                "preliminary_data_source": "ABSOLUTE",
+                "project_deliverables": [
+                    "NADES-based biofouling control product composition",
+                    "patent filing",
+                    "commercialisation strategy",
+                    "cost benefit confirmation data",
+                    "demonstration data for feedback"
+                ],
+                "commercialisation_path": "university spin-out company",
+                "goal": "rapid commercialisation"
+            }
+        },
+        {
+            "proposal_name": "Accelerating biofilm Matrix dispersion with Deep Eutectic Solvents",
+            "proposal_details": {
+                "objective": "Mitigation of biofouling in membrane filtration technology for water treatment",
+                "market_pull": "Demand for green/sustainable chemicals in water treatment sector",
+                "innovation": "Use of natural deep eutectic solvents (NADES) for biofouling mitigation",
+                "preliminary_data_source": "PI’s ERC grant ABSOLUTE",
+                "deliverables": [
+                    {
+                        "deliverable_type": "composition",
+                        "description": "NADES-based biofouling control product with improved performance, reduced toxicity, and higher biodegradability"
+                    },
+                    {
+                        "deliverable_type": "intellectual_property",
+                        "description": "Patent filing"
+                    },
+                    {
+                        "deliverable_type": "strategy",
+                        "description": "Scalable commercialisation strategy"
+                    },
+                    {
+                        "deliverable_type": "economic_analysis",
+                        "description": "Data confirming cost benefits in key industrial sectors"
+                    },
+                    {
+                        "deliverable_type": "market_feedback",
+                        "description": "Demonstration data to obtain feedback from end-users, partners, and potential investors"
+                    }
+                ],
+                "commercialisation_path": "Rapid commercialisation via a university spin-out company"
+            }
+        },
+        {
+            "proposal_name": "Accelerating biofilm Matrix dispersion with Deep Eutectic Solvents",
+            "proposal_details": {
+                "demand": "clean water",
+                "processes": [
+                    "water-recycling",
+                    "water-desalination"
+                ],
+                "regions": "water-stressed",
+                "technology": "membrane filtration",
+                "challenge": "biofouling",
+                "current_management": "chemical treatment",
+                "market_trend": "green/sustainable chemicals",
+                "commercial_opportunity": true,
+                "solution": "natural deep eutectic solvents (NADES)",
+                "solution_properties": [
+                    "non-toxic",
+                    "tuneable"
+                ],
+                "preliminary_data_source": "PI’s ERC grant ABSOLUTE",
+                "performance_indicators": {
+                    "effectiveness": "exceeds competing products",
+                    "toxicity": "reduced",
+                    "biodegradability": "higher"
+                },
+                "deliverables": {
+                    "composition": "NADES-based biofouling control product",
+                    "intellectual_property": "patent filing",
+                    "commercialisation_strategy": "scalable",
+                    "cost_benefit_data": "key industrial sectors",
+                    "demonstration_data": "feedback from end-users, partners, potential investors"
+                },
+                "objective": "rapid commercialisation",
+                "commercialisation_path": "university spin-out company"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "719aa70f2c41b1f05d0981903747a927",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAccelerating biofilm Matrix dispersion with Deep Eutectic Solvents\n\n**Description:**\n\nA growing demand for clean water is driving the increased adoption of water-recycling and water-desalination, particularly in water-stressed regions. These processes are highly dependent on the use of membrane filtration technology. Efficient operation of these membranes is hampered by biofouling which is typically managed by chemical treatment. Amongst end-users in the water treatment sector, there is a market-pull towards more green/sustainable chemicals and this, combined with the limited effectiveness of existing biofouling control products, has created the substantial commercial opportunity described in this proposal. The unique idea in this Proof of Concept is to use natural deep eutectic solvents (NADES) as a non-toxic and tuneable solution for biofouling mitigation. Preliminary data from the PI’s ERC grant, ABSOLUTE, has demonstrated that novel NADES formulations an effective, safe, scalable and economically viable solution for biofouling mitigation. The project deliverables include: (i) A composition for a NADES-based biofouling control product that exceeds the performance of the closest competing product and is superior in terms of reduced toxicity and higher biodegradability. (ii) A patent filing and a scalable commercialisation strategy. (iii) Data that confirms the cost benefits of the NADES composition in key industrial sectors. (iv) Demonstration data in to obtain feedback from end-users, partners and potential investors. These deliverables will advance the technology towards rapid commercialisation via a university spin-out company."
+}

@@ -1,0 +1,118 @@
+{
+    "item_type": "proposal",
+    "title": "Virtualization of Real Flows for Animation and Simulation",
+    "descriptions": [
+        {
+            "proposal_name": "Virtualization of Real Flows for Animation and Simulation",
+            "proposal_details": {
+                "applications": [
+                    "engineering disciplines",
+                    "computer-generated environments",
+                    "aerodynamic body design",
+                    "visual effects in movies"
+                ],
+                "problems": [
+                    "lack of practical flow capturing technologies",
+                    "difficulties of resolving turbulence"
+                ],
+                "goals": [
+                    "design novel data-centric approaches for fluid simulations",
+                    "establish innovative pipeline for capturing flow motions"
+                ],
+                "methods": [
+                    "design algorithms for accurate physics solvers integration with motion reconstruction from volumetric images",
+                    "develop novel structured representations for complex flows into hierarchical space-time structures"
+                ],
+                "outcomes": [
+                    "enable editing of fluid simulations",
+                    "basis for robust and efficient data-driven fluid simulations",
+                    "interactive design tools",
+                    "medical applications incorporating complex physical constraints"
+                ],
+                "impact": [
+                    "change in working with synthetic and captured flow data",
+                    "potential to break new ground in data-centric workflows for fluid simulations"
+                ],
+                "descriptions": [
+                    "This proposal addresses the fundamental problems in fluid simulations for animations and interactive environments by developing novel data-centric approaches and establishing innovative pipelines for capturing detailed flow motions."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Virtualization of Real Flows for Animation and Simulation",
+            "proposal_details": {
+                "applications": [
+                    "aerodynamic body design",
+                    "visual effects in movies"
+                ],
+                "problems": [
+                    "lack of practical flow capturing technologies",
+                    "difficulties resolving turbulence"
+                ],
+                "goal": "address fundamental problems in fluid simulations",
+                "objectives": [
+                    "design data-centric approaches for fluid simulations",
+                    "establish pipeline for capturing flow motions"
+                ],
+                "methods": [
+                    "design algorithms integrating physics solvers with motion reconstruction from volumetric images",
+                    "work on structured representations for complex flows"
+                ],
+                "anticipated_outputs": [
+                    "hierarchical space-time structures for flows",
+                    "interactive design tools",
+                    "medical applications"
+                ],
+                "potential_impacts": [
+                    "intuitive editing of fluid simulations",
+                    "robust and efficient data-driven fluid simulations",
+                    "new workflows for fluid simulations"
+                ],
+                "descriptions": [
+                    "This project aims to revolutionize the use of fluid simulations in animation and interactive environments by overcoming existing challenges in flow capture technology and turbulence resolution."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Virtualization of Real Flows for Animation and Simulation",
+            "proposal_details": {
+                "applications": [
+                    "engineering disciplines",
+                    "computer-generated environments",
+                    "aerodynamic body design",
+                    "visual effects in movies"
+                ],
+                "problems": [
+                    "lack of practical flow capturing technologies",
+                    "difficulties of resolving turbulence"
+                ],
+                "goals": [
+                    "design novel data-centric approaches for fluid simulations",
+                    "establish an innovative pipeline for capturing flow motions"
+                ],
+                "methods": [
+                    "design algorithms for motion reconstruction from volumetric images",
+                    "develop novel structured representations for complex flows"
+                ],
+                "outcomes": [
+                    "enable powerful avenues for intuitive editing",
+                    "robust and efficient data-driven fluid simulations",
+                    "interactive design tools",
+                    "medical applications incorporating physical constraints"
+                ],
+                "potential_impacts": [
+                    "change in synthetic and captured flow data work",
+                    "new ground in data-centric workflows for fluid simulations"
+                ],
+                "descriptions": [
+                    "This proposal aims to address the lack of practical flow capturing technologies and the inherent difficulties of resolving turbulence in fluid simulations."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3c5e3e1d1256ab1f36189c01c94c0e32",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nVirtualization of Real Flows for Animation and Simulation\n\n**Description:**\n\nBesides their application in a very broad range of engineering disciplines, physically-based simulations have become a prevalent tool for all forms of computer-generated environments. Simulations of fluids are a particularly important area that has applications ranging from the design of aerodynamic bodies to the realization of impressive visual effects in movies. However, despite their extremely wide-spread use there are fundamental problems: a lack of practical flow capturing technologies and the inherent difficulties of resolving crucial features such as turbulence. These issues are show-stoppers preventing the area from realizing its full potential for animations and interactive environments. The goal of this research is to address these central problems: 1) by designing novel data-centric approaches for fluid simulations to enable re-use, and 2) by establishing an innovative pipeline for capturing flow motions yielding details that were previously unachievable. To this end, I plan to design algorithms that tightly integrate accurate physics solvers with methods for the reconstruction of motion from volumetric images. At the same time, I will work on novel structured representations that decompose complex flows into hierarchical space-time structures. These structured virtual counter-parts will not only enable powerful avenues for intuitive editing, but will also serve as a basis for robust and efficient data-driven fluid simulations. This virtualization of flows opens the door for interactive design tools and medical applications, allowing to incorporate complex physical constraints. In addition, this research could radically change the way we work with synthetic and captured flow data, and has significant potential to break new ground in terms of data-centric work-flows for fluid simulations."
+}

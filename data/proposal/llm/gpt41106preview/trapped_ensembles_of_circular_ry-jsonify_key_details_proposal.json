@@ -1,0 +1,154 @@
+{
+    "item_type": "proposal",
+    "title": "TRapped ENSembles of Circular RYdBErg atoms for quantum simulation",
+    "descriptions": [
+        {
+            "proposal_name": "TRapped ENSembles of Circular RYdBErg atoms for quantum simulation",
+            "proposal_details": {
+                "acronym": "TRENSCRYBE",
+                "description": "A quantum simulator concept for spin systems.",
+                "objectives": [
+                    "Understanding of many-body physics",
+                    "Development of engineered materials"
+                ],
+                "approach": {
+                    "transcription": "Transcribing the system of interest into another with fully controlled Hamiltonian parameter set",
+                    "access": "Complete access to all system's observables",
+                    "exploration": "Exploration of regimes with challenging numerical simulations"
+                },
+                "focus": "Quantum simulators of spin systems",
+                "methods": [
+                    "Trapped ions",
+                    "Superconducting devices",
+                    "Atoms in optical lattices",
+                    "Low-angular-momentum Rydberg atoms"
+                ],
+                "innovation": "Quantum simulator using trapped circular Rydberg atoms",
+                "advantages": [
+                    "Inhibited microwave spontaneous emission",
+                    "Extended lifetime up to minutes",
+                    "Ability to trap in optical lattices"
+                ],
+                "preparation_method": "Innovative method for ultra-cold defect-free chains with tens of atoms",
+                "simulator_model": "Nearest-Neighbor XXZ spin-1/2 Hamiltonian in a transverse field",
+                "tuning_parameters": [
+                    "Static electric field",
+                    "Microwave dressing"
+                ],
+                "phases": [
+                    "Benchmarking through adiabatic evolutions",
+                    "Exploration of quenches through quantum phase transitions",
+                    "Generation of defects"
+                ],
+                "goals": [
+                    "First step towards 2-D arrays with spin ladders",
+                    "Exploration of topological phases"
+                ],
+                "potential_impact": "New possibilities for quantum simulation of spin systems"
+            }
+        },
+        {
+            "proposal_name": "TRapped ENSembles of Circular RYdBErg atoms for quantum simulation",
+            "proposal_details": {
+                "acronym": "TRENSCRYBE",
+                "objective": "quantum simulator (QS) of spin systems",
+                "applications": [
+                    "many-body physics",
+                    "quantum transport",
+                    "phase transitions",
+                    "engineered materials development"
+                ],
+                "QS_characteristics": {
+                    "transcription_of_systems": "with fully controlled Hamiltonian parameter set",
+                    "access_to_observables": "complete",
+                    "exploration_of_regimes": "difficult or impossible for numerical simulations"
+                },
+                "focus": "spin systems",
+                "current_activities": [
+                    "trapped ions",
+                    "superconducting devices",
+                    "atoms in optical lattices",
+                    "low-angular-momentum Rydberg atoms"
+                ],
+                "proposed_technique": "trapped circular Rydberg atoms",
+                "circle_Rydberg_atoms_advantages": [
+                    "inhibited microwave spontaneous emission",
+                    "extended lifetime in minute range",
+                    "trappable in optical lattices"
+                ],
+                "innovations": [
+                    "preparation method of ultra-cold defect-free chains with tens of atoms"
+                ],
+                "QS_model": "Nearest-Neighbor XXZ spin-1/2 Hamiltonian in transverse field",
+                "spin_states": "coded on circular levels",
+                "parameters_tunability": [
+                    "adjusting static electric field",
+                    "microwave dressing applied on the atoms"
+                ],
+                "initial_benchmarking": "adiabatic evolutions through phase diagram of a 1-D chain",
+                "research_goals": [
+                    "exploring quenches through quantum phase transitions",
+                    "generation of defects in challenging numerical or theoretical prediction regimes"
+                ],
+                "future_plans": [
+                    "first step towards 2-D arrays with spin ladders",
+                    "exploration of topological phases"
+                ],
+                "impact": "opening new possibilities for quantum simulation of spin systems"
+            }
+        },
+        {
+            "proposal_name": "TRapped ENSembles of Circular RYdBErg atoms for quantum simulation",
+            "proposal_details": {
+                "acronym": "TRENSCRYBE",
+                "concept": "Quantum simulator (QS) of spin systems",
+                "aims": [
+                    "Understanding of many-body physics",
+                    "Development of engineered materials"
+                ],
+                "QS_definition": {
+                    "transcribes_systems": true,
+                    "controlled_Hamiltonian_parameters": true,
+                    "complete_access_system_observables": true,
+                    "exploration_of_regimes": true
+                },
+                "current_focus": "QSs of spin systems",
+                "related_technologies": [
+                    "Trapped ions",
+                    "Superconducting devices",
+                    "Atoms in optical lattices",
+                    "Low-angular-momentum Rydberg atoms"
+                ],
+                "proposed_technology": "Trapped circular Rydberg atoms",
+                "lifetime_extension": "Minute range",
+                "trapping_method": "Optical lattices",
+                "preparation_method": "Ultra-cold defect-free chains",
+                "chain_length": "Few tens of atoms",
+                "QS_model": "Nearest-Neighbor XXZ spin-1/2 Hamiltonian in a transverse field",
+                "spin_states": "Circular levels",
+                "tunable_parameters": [
+                    "Static electric field",
+                    "Microwave dressing"
+                ],
+                "benchmarking_strategy": "Adiabatic evolutions through phase diagram of a 1-D chain",
+                "exploration_areas": [
+                    "Quenches through quantum phase transitions",
+                    "Generation of defects"
+                ],
+                "future_plans": [
+                    "First step towards 2-D arrays with spin ladders",
+                    "Exploration of topological phases"
+                ],
+                "expected_outcomes": "New possibilities for quantum simulation of spin systems",
+                "descriptions": [
+                    "A quantum simulator (QS) that transcribes the dynamics of spin systems into another system with a fully controlled Hamiltonian parameter set, allowing for the exploration of regimes difficult for numerical simulations."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f360196c7028230cec50a3356b68ad0b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTRapped ENSembles of Circular RYdBErg atoms for quantum simulation\n\n**Description:**\n\nTRENSCRYBE proposes a groundbreaking concept for a quantum simulator (QS) of spin systems. QSs aim at an in-depth understanding of many-body physics, important for fundamental issues (quantum transport, phase transitions), but also for the development of engineered materials. A QS transcribes the system of interest into another with the same dynamics but with a fully controlled Hamitlonian parameter set. It provides a complete access to all the systems observables and allows the exploration of regimes, in which numerical simulations are difficult or impossible due to the huge size of the Hilbert space. QSs of spin systems are the focus of an intense activity, e.g. with trapped ions, superconducting devices, atoms in optical lattices or low-angular-momentum Rydberg atoms. I propose with TRENSCRYBE a disruptive QS using trapped circular Rydberg atoms. Their microwave spontaneous emission can be inhibited, extending their lifetime in the minute range. In contrast with ordinary Rydberg states, they can be trapped in optical lattices, allowing one to take full benefit from such exceptional lifetimes. I propose an innovative preparation method of ultra-cold defect-free chains with a few tens of atoms. The QS realizes a Nearest-Neighbor XXZ spin-1/2 Hamiltonian in a transverse field, the spin states being coded on circular levels. Its parameters are fully tunable by adjusting a static electric field and a microwave dressing applied on the atoms. I will first benchmark this QS by adiabatic evolutions through the phase diagram of a 1-D chain in a regime where numerical results are available. I will explore quenches through quantum phase transitions and the generation of defects in a regime where numerical or theoretical predictions are difficult. I will realize a first step towards 2-D arrays with spin ladders and explore their topological phases. The realization of TRENSCRYBE will open a whole realm of new possibilities for quantum simulation of spin systems."
+}

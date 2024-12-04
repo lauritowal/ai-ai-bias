@@ -1,0 +1,220 @@
+{
+    "item_type": "proposal",
+    "title": "Layering, Understanding, Controlling and Integrating Ferroelectric Polar Textures on Silicon",
+    "descriptions": [
+        {
+            "proposal_name": "Layering, Understanding, Controlling and Integrating Ferroelectric Polar Textures on Silicon",
+            "proposal_details": {
+                "descriptions": [
+                    "The exploration and future harnessing of emergent states in ferroics."
+                ],
+                "materials_studied": [
+                    "nanoscale ferroelectric perovskite oxides"
+                ],
+                "discovered_textures": [
+                    "flux closure domains",
+                    "curling polarization",
+                    "vortices",
+                    "polar skyrmions",
+                    "merons"
+                ],
+                "discovery_years": [
+                    "2019",
+                    "2020"
+                ],
+                "substrates_previously_used": [
+                    "SrTiO3"
+                ],
+                "integration_platform": [
+                    "Si"
+                ],
+                "technologies": [
+                    "CMOS semiconductor technologies"
+                ],
+                "objectives": [
+                    {
+                        "objective": "Create monolithically-integrated topological polar textures on silicon",
+                        "methods": [
+                            "molecular beam epitaxy",
+                            "atomic layer deposition"
+                        ],
+                        "materials": [
+                            "epitaxial and glass-composite nanoscale ferroelectrics"
+                        ],
+                        "techniques": [
+                            "strain",
+                            "confinement",
+                            "frustration engineering"
+                        ]
+                    },
+                    {
+                        "objective": "Understand the polar textures created on silicon",
+                        "methods": [
+                            "correlative microscopies",
+                            "spectroscopies"
+                        ],
+                        "features": [
+                            "nanoscale",
+                            "operando time-resolved"
+                        ]
+                    },
+                    {
+                        "objective": "Integrate ferroelectrics at the nanoscale at the front-end- and back-end-of-line of Si chips",
+                        "device_types": [
+                            "sub-500 nm two-",
+                            "three-terminal devices"
+                        ],
+                        "studies": [
+                            "tunable stress",
+                            "manipulation under electric field"
+                        ],
+                        "screening": [
+                            "statistically",
+                            "properties",
+                            "wafer scale"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "proposal_name": "Layering, Understanding, Controlling and Integrating Ferroelectric Polar Textures on Silicon",
+            "proposal_details": {
+                "fields_of_study": [
+                    "Ferroelectrics",
+                    "Topological polar textures",
+                    "Nanoscale ferroelectric perovskite oxides"
+                ],
+                "discoveries": [
+                    "Polar skyrmions",
+                    "Merons"
+                ],
+                "discovery_years": [
+                    2019,
+                    2020
+                ],
+                "device_applications": [
+                    "Ultra-compact memories"
+                ],
+                "storage_capacity": "> Tbit/in2",
+                "current_substrate_limitations": [
+                    "Special oxide substrates",
+                    "SrTiO3"
+                ],
+                "approach": "Monolithically integrating topological polar textures on Silicon platform",
+                "technologies": [
+                    "Si material",
+                    "Advanced CMOS semiconductor"
+                ],
+                "objectives": [
+                    {
+                        "goal": "Create monolithically-integrated topological polar textures on silicon",
+                        "methods": [
+                            "Molecular beam epitaxy",
+                            "Atomic layer deposition"
+                        ],
+                        "materials": [
+                            "Epitaxial nanoscale ferroelectrics",
+                            "Glass-composite nanoscale ferroelectrics"
+                        ],
+                        "engineering_approaches": [
+                            "Strain",
+                            "Confinement",
+                            "Frustration engineering"
+                        ]
+                    },
+                    {
+                        "goal": "Understand the polar textures created on silicon",
+                        "tools": [
+                            "Advanced correlative microscopies",
+                            "Spectroscopies"
+                        ],
+                        "analysis_type": [
+                            "Operando time-resolved methods"
+                        ]
+                    },
+                    {
+                        "goal": "Integrate ferroelectrics at the nanoscale in Si chips",
+                        "device_types": [
+                            "Sub-500 nm two-terminal devices",
+                            "Sub-500 nm three-terminal devices"
+                        ],
+                        "engineering_focus": [
+                            "Tunable stress"
+                        ],
+                        "evaluation": [
+                            "Statistical screening of properties at wafer scale"
+                        ]
+                    }
+                ],
+                "descriptions": [
+                    "LUCIOLE will push the limits in the exploration and future harnessing of emergent states in ferroics."
+                ]
+            }
+        },
+        {
+            "proposal_name": "Layering, Understanding, Controlling and Integrating Ferroelectric Polar Textures on Silicon",
+            "proposal_details": {
+                "discoveries": [
+                    "polar skyrmions",
+                    "merons"
+                ],
+                "discovery_years": [
+                    2019,
+                    2020
+                ],
+                "key_terms": [
+                    "ferroelectric materials",
+                    "polar textures",
+                    "topological electronic devices",
+                    "memories"
+                ],
+                "current_limitation_substrate": "SrTiO3",
+                "approach": "monolithically-integrated topological polar textures on silicon",
+                "techniques": [
+                    "molecular beam epitaxy",
+                    "atomic layer deposition"
+                ],
+                "technology": "CMOS semiconductor",
+                "objectives": [
+                    {
+                        "objective_type": "integration",
+                        "techniques": [
+                            "strain engineering",
+                            "confinement engineering",
+                            "frustration engineering"
+                        ],
+                        "substrate": "silicon"
+                    },
+                    {
+                        "objective_type": "understanding",
+                        "methods": [
+                            "correlative microscopies",
+                            "spectroscopies",
+                            "operando time-resolved methods"
+                        ]
+                    },
+                    {
+                        "objective_type": "device_integration",
+                        "scale": "sub-500 nm",
+                        "device_types": [
+                            "two-terminal",
+                            "three-terminal"
+                        ],
+                        "manipulation": "electric field",
+                        "study_type": "statistical screening",
+                        "properties": "behavioral patterns"
+                    }
+                ],
+                "descriptions": [
+                    "The project aims to explore and harness emergent states in ferroics."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c4f8b8484572a4eecb5129b31c0d2c8b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nLayering, Understanding, Controlling and Integrating Ferroelectric Polar Textures on Silicon\n\n**Description:**\n\nFerroelectric materials have been known, and their fascinating properties exploited for more than 100 years. Still, in recent years, exotic polar textures resembling those found in magnetic materials have been unraveled in nanoscale ferroelectric perovskite oxides, such as flux closure domains, curling polarization, vortices, and the groundbreaking discoveries of polar skyrmions and merons in 2019/2020. Polar textures hold huge promise for novel robust topological electronic devices such as ultra-compact (> Tbit/in2) memories. However, so far, nanoscale polar domains have only been studied on special oxide substrates (e.g. SrTiO3), which precludes practical applications. I propose to take a revolutionary approach to the field of topological polar textures by bringing them to the realm of the Si platform. Not only is this necessary to implement energy-efficient nanodevices, but Si material and advanced CMOS semiconductor technologies offer multiple unexplored ways to engineer mechanical and electrical boundary conditions in ultrathin films and nanostructures of transition metal oxides. With LUCIOLE, I will push the limits in the exploration and future harnessing of emergent states in ferroics with the following objectives: - Create monolithically-integrated topological polar textures on silicon by molecular beam epitaxy and atomic layer deposition of epitaxial and glass-composite nanoscale ferroelectrics using strain, confinement and frustration engineering. - Understand the polar textures created on silicon by combining advanced state-of-the-art correlative microscopies and spectroscopies at the nanoscale, including operando time-resolved methods. - Integrate ferroelectrics at the nanoscale at the front-end- and back-end-of-line of Si chips in sub-500 nm two- and three-terminal devices with tunable stress and study their manipulation under electric field by statistically screening their properties at the wafer scale to unveil potentially rich behavioral patterns."
+}

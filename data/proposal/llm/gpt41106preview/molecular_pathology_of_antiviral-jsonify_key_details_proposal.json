@@ -1,0 +1,97 @@
+{
+    "item_type": "proposal",
+    "title": "Molecular pathology of anti-viral T cell responses in the central nervous system",
+    "descriptions": [
+        {
+            "proposal_name": "Molecular pathology of anti-viral T cell responses in the central nervous system",
+            "proposal_details": {
+                "descriptions": [
+                    "Immune responses against viruses in the CNS can result in devastating outcomes."
+                ],
+                "focus": "Elucidating molecular mechanisms of non-cytolytic CD8+ T cell engagement with neurons and consequences on function.",
+                "hypothesis": "Inflammatory signalling induced by non-cytolytic CD8+ T cell interactions triggers metabolic and epigenetic changes leading to permanent neuronal dysfunction.",
+                "project_name": "PATHOCODE",
+                "objectives": [
+                    {
+                        "objective_number": 1,
+                        "method": "Single nucleus RNA sequencing",
+                        "purpose": "Discern neuronal subset-specific vulnerabilities and antigen-dependent versus bystander effects."
+                    },
+                    {
+                        "objective_number": 2,
+                        "method": "Use of cell-specific mitochondrial reporter mice",
+                        "purpose": "Uncover consequences of non-cytolytic T cell engagement on neuronal metabolism."
+                    },
+                    {
+                        "objective_number": 3,
+                        "method": "Employment of cell-specific nucleus/ribosome reporter mice",
+                        "purpose": "Determine how non-cytolytic T cell engagement affects the neuronal epigenome."
+                    },
+                    {
+                        "objective_number": 4,
+                        "method": "Exploit CRISPR/Cas9 technology",
+                        "purpose": "Rescue T cell-mediated neuronal dysfunction by restoring metabolic pathways."
+                    }
+                ],
+                "expected_outcome": "Novel molecular concepts about immune-driven neuronal alterations in CNS inflammatory diseases"
+            }
+        },
+        {
+            "proposal_name": "Molecular pathology of anti-viral T cell responses in the central nervous system",
+            "proposal_details": {
+                "descriptions": [
+                    "Elucidate molecular mechanisms of non-cytolytic CD8+ T cell engagement with infected neurons and consequences on neuron function in vivo."
+                ],
+                "hypothesis": "Inflammatory signalling in neurons, induced by non-cytolytic CD8+ T cell interactions, triggers metabolic and epigenetic changes causing permanent neuronal dysfunction.",
+                "project_name": "PATHOCODE",
+                "objectives": [
+                    "Discern neuronal subset-specific vulnerabilities and antigen-dependent versus bystander effects in the inflamed CNS using single nucleus RNA sequencing.",
+                    "Uncover the consequences of non-cytolytic T cell engagement on neuronal metabolism using cell-specific mitochondrial reporter mice.",
+                    "Determine how non-cytolytic T cell engagement affects the neuronal epigenome using cell-specific nucleus/ribosome reporter mice.",
+                    "Rescue T cell-mediated neuronal dysfunction by restoring metabolic pathways with CRISPR/Cas9 technology."
+                ],
+                "study_impact": "Provide novel molecular concepts about immune-driven neuronal alterations in CNS inflammatory diseases."
+            }
+        },
+        {
+            "proposal_name": "Molecular pathology of anti-viral T cell responses in the central nervous system",
+            "proposal_details": {
+                "descriptions": [
+                    "Elucidate the molecular mechanisms that underlie non-cytolytic CD8+ T cell engagement with infected neurons and their consequences on neuron function in vivo."
+                ],
+                "objectives": [
+                    {
+                        "goal": "Discern neuronal subset-specific vulnerabilities and antigen-dependent versus bystander effects in the inflamed CNS",
+                        "methods": [
+                            "single nucleus RNA sequencing"
+                        ]
+                    },
+                    {
+                        "goal": "Uncover the consequences of non-cytolytic T cell engagement on neuronal metabolism",
+                        "methods": [
+                            "cell-specific mitochondrial reporter mice"
+                        ]
+                    },
+                    {
+                        "goal": "Determine how non-cytolytic T cell engagement affects the neuronal epigenome",
+                        "methods": [
+                            "cell-specific nucleus/ribosome reporter mice"
+                        ]
+                    },
+                    {
+                        "goal": "Rescue T cell-mediated neuronal dysfunction by restoring metabolic pathways",
+                        "methods": [
+                            "CRISPR/Cas9"
+                        ]
+                    }
+                ],
+                "project_name": "PATHOCODE"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "dcd84612b45a538412d329ab0f3e0fe5",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMolecular pathology of anti-viral T cell responses in the central nervous system\n\n**Description:**\n\nImmune responses against viruses in the central nervous system (CNS) can result in devastating outcomes. Even non-cytolytic CD8+ T cell interactions, which purge viruses from neurons without triggering cell death, can induce permanent damage. Yet, how this immune response irreversibly disrupts neuronal homeostasis remains unclear. Here, we will elucidate the molecular mechanisms that underlie non-cytolytic CD8+ T cell engagement with infected neurons and their consequences on neuron function in vivo. We hypothesize that inflammatory signalling in neurons, induced by non-cytolytic CD8+ T cell interactions, triggers metabolic and epigenetic changes that underpin permanent neuronal dysfunction. \"PATHOCODE\" will test this hypothesis by harnessing a unique animal model of T cell-driven virus encephalitis in the following objectives: 1. Discern neuronal subset-specific vulnerabilities and antigen-dependent versus bystander effects in the inflamed CNS. We will perform single nucleus RNA sequencing to examine whether T cell engagement (a) differentially affects molecularly distinct neurons, and (b) affects non-targeted, uninfected neurons. 2. Uncover the consequences of non-cytolytic T cell engagement on neuronal metabolism. We will use cell-specific mitochondrial reporter mice to investigate immune-driven metabolic adaptation of neurons in vivo. 3. Determine how non-cytolytic T cell engagement affects the neuronal epigenome. We will employ cell-specific nucleus/ribosome reporter mice to elucidate how T cell engagement affects the translatome and epigenome of infected cells. 4. Rescue T cell-mediated neuronal dysfunction by restoring metabolic pathways. We will exploit recent CRISPR/Cas9 technological advances to restore neuronal gene expression and uncover the relevance of immune-driven metabolic and epigenomic changes to disease. Our study will thus provide novel molecular concepts about immune-driven neuronal alterations in CNS inflammatory diseases."
+}

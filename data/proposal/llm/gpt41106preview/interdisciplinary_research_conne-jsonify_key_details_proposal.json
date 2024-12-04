@@ -1,0 +1,104 @@
+{
+    "item_type": "proposal",
+    "title": "Interdisciplinary research: Connecting complex plasmas with colloidal dispersions",
+    "descriptions": [
+        {
+            "proposal_name": "Interdisciplinary research: Connecting complex plasmas with colloidal dispersions",
+            "proposal_details": {
+                "descriptions": [
+                    "A study of classical strongly coupled systems at the individual-particle level using complex plasmas and colloidal dispersions."
+                ],
+                "advantages": [
+                    "Fully resolved 3D particle trajectories",
+                    "Tunable pair interactions",
+                    "Individual or collective particle manipulation"
+                ],
+                "scientific_objectives": [
+                    {
+                        "objective": "particle dynamics of liquids",
+                        "focus": "mesoscopic processes in the supercooled state, dynamical heterogeneity"
+                    },
+                    {
+                        "objective": "phase transitions in solids",
+                        "focus": "evolutionary paths of crystal structure development and defect dynamics"
+                    },
+                    {
+                        "objective": "non-equilibrium phase transitions",
+                        "focus": "lane formation in driven binary systems, dynamics at atomistic timescales"
+                    },
+                    {
+                        "objective": "phase separation in binary fluids",
+                        "focus": "role of pair interactions in demixing kinetics, transition between spinodal decomposition and nucleation and growth regimes"
+                    },
+                    {
+                        "objective": "hydrodynamics at the discreteness limit",
+                        "focus": "onset and development of hydrodynamic instabilities at the particle scale"
+                    },
+                    {
+                        "objective": "critical phenomena in particle systems",
+                        "focus": "designed pair interactions tunable by external fields"
+                    }
+                ],
+                "complementary_aspects": [
+                    "Complex plasmas: virtually undamped at particle timescales",
+                    "Colloidal dispersions: overdamped, can be brought into equilibrium in a controlled way"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Interdisciplinary research: Connecting complex plasmas with colloidal dispersions",
+            "proposal_details": {
+                "descriptions": [
+                    "Classical strongly coupled systems at individual-particle level, complex plasmas, colloidal dispersions, 3D particle trajectories, tunable pair interactions, particle manipulation, dynamical and self-organization processes."
+                ],
+                "scientific_objectives": [
+                    "Particle dynamics of liquids, mesoscopic processes in supercooled state, dynamical heterogeneity",
+                    "Phase transitions in solids, evolutionary paths of crystal structure development, defect dynamics",
+                    "Non-equilibrium phase transitions, lane formation in driven binary systems, dynamics at atomistic timescales",
+                    "Phase separation in binary fluids, role of pair interactions in demixing kinetics, transition between spinodal decomposition and nucleation and growth regimes",
+                    "Hydrodynamics at the discreteness limit, onset and development of hydrodynamic instabilities at particle scale",
+                    "Critical phenomena in particle systems, tunable range and strength of attractive/repulsive interactions by external fields"
+                ],
+                "key_features": [
+                    "Fundamental individual-particle level study",
+                    "Complementary approaches from complex plasmas and colloidal dispersions",
+                    "Complex plasmas are virtually undamped at particle timescales",
+                    "Colloidal dispersions are overdamped and can be brought into equilibrium",
+                    "Fully resolved 3D particle trajectories",
+                    "Tunable pair interactions",
+                    "Individual or collective particle manipulation"
+                ]
+            }
+        },
+        {
+            "proposal_name": "Interdisciplinary research: Connecting complex plasmas with colloidal dispersions",
+            "proposal_details": {
+                "descriptions": [
+                    "Study classical strongly coupled systems at the individual-particle level using approaches from complex plasmas and colloidal dispersions."
+                ],
+                "complementary_aspects": [
+                    "Complex plasmas are virtually undamped at the particle timescales",
+                    "Colloidal dispersions are overdamped and can be brought into equilibrium controlledly"
+                ],
+                "similar_advantages": [
+                    "Fully resolved 3D particle trajectories",
+                    "Tunable pair interactions",
+                    "Individual or collective particle manipulation"
+                ],
+                "scientific_objectives": [
+                    "Study particle dynamics of liquids focusing on mesoscopic processes in the supercooled state",
+                    "Investigate phase transitions in solids, particularly the evolutionary paths of crystal structure development and defect dynamics",
+                    "Examine non-equilibrium phase transitions, focusing on lane formation in driven binary systems and dynamics at atomistic timescales",
+                    "Explore phase separation in binary fluids, emphasizing the role of pair interactions in demixing kinetics and the transition between spinodal decomposition and nucleation and growth regimes",
+                    "Research hydrodynamics at the discreteness limit, especially the onset and development of hydrodynamic instabilities at the particle scale",
+                    "Analyze critical phenomena in particle systems with designed pair interactions, where the range and strength of attractive/repulsive parts can be tuned by external fields"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2e277b0e67041ae3efb66b9bd3d937a2",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nInterdisciplinary research: Connecting complex plasmas with colloidal dispersions\n\n**Description:**\n\nThis proposal represents the first concerted effort to study classical strongly coupled systems at the most fundamental individual-particle level, by using complementary approaches from different physics domains - complex plasmas and colloidal dispersions. These are complementary in many ways, the most important being that complex plasmas are virtually undamped at the particle timescales, whereas colloidal dispersions are overdamped and thus can be brought into equilibrium in a controlled way. Otherwise, both fields have similar advantages: Fully resolved 3D particle trajectories can easily be visualized, the pair interactions are tunable, and particles can be manipulated individually or collectively. The principal scientific aim is to study generic dynamical and self-organization processes at a detail not possible in the past. Scientific objectives include 1) particle dynamics of liquids, with the emphasis on mesoscopic processes in the supercooled state, e.g. dynamical heterogeneity, 2) phase transitions in solids, with particular attention on the evolutionary paths of crystal structure development and defect dynamics, 3) non-equilibrium phase transitions, with the focus on lane formation in driven binary systems and the dynamics at “atomistic” timescales, 4) phase separation in binary fluids, with the emphasis on the role of pair interactions in the demixing kinetics, as well as in the transition between spinodal decomposition and nucleation and growth regimes, 5) hydrodynamics at the discreteness limit, especially the onset and development of hydrodynamic instabilities at the particle scale, and 6) critical phenomena in particle systems with “designed” pair interactions, where the range and strength of attractive/repulsive parts can be tuned by external fields."
+}
