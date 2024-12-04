@@ -10,6 +10,7 @@ from llm_descriptions_generator.config import \
 from llm_descriptions_generator.file_io import (
     generate_descriptions_filepath,
     load_all_academic_papers_as_description_batches,
+    load_all_proposals_as_description_batches,
     load_all_human_description_batches, load_all_llm_json_summary_batches,
     load_description_batch_from_json_file, save_description_batch_to_json_file)
 from llm_descriptions_generator.prompt_generation import \
@@ -53,7 +54,7 @@ def generate_llm_descriptions_for_item_type(
         )
 
         source_description_batches: list[TextItemDescriptionBatch] = []
-
+        breakpoint()
         if generation_config.description_source == PromptDescriptionSource.Human:
             source_description_batches = load_all_human_description_batches(
                 item_type=item_type,
@@ -68,6 +69,11 @@ def generate_llm_descriptions_for_item_type(
             source_description_batches = load_all_academic_papers_as_description_batches(
                 item_type=item_type,
                 fill_description_with="body",
+                item_title_like=item_title_like,
+            )
+        elif generation_config.description_source == PromptDescriptionSource.Proposal:
+            source_description_batches = load_all_proposals_as_description_batches(
+                item_type=item_type,
                 item_title_like=item_title_like,
             )
         

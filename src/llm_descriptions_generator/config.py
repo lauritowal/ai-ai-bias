@@ -100,7 +100,7 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             item_type="proposal",
             prompt_nickname="jsonify_key_details_proposal",
             prompt_base_text="Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions.",
-            description_source=PromptDescriptionSource.Human,
+            description_source=PromptDescriptionSource.Proposal,
             include_descriptions=True,
             output_description_type=ProposalDetailsJson,
         ),

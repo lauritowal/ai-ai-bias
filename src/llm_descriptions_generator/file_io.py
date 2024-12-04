@@ -139,6 +139,63 @@ def load_description_batch_from_json_file(
     raise f"Unrecognized origin: {origin}"
 
 
+
+def load_all_proposals_as_description_batches(
+    item_type: Literal["proposal"],
+    fill_description_with: Literal["abstract"] = "abstract",
+    item_title_like: Optional[list[str]] = None,
+) -> list[HumanTextItemDescriptionBatch]:
+    if item_type != "proposal":
+        raise("Method only allowed for item_type='proposal'")
+
+    dirpath = generate_descriptions_dirpath(
+        item_type=item_type,
+        origin=Origin.Human,
+    )
+    
+    filepaths = []
+    if item_title_like:
+        # case sensitivity hack...
+        all_json_filepaths = dirpath.glob("*.json")
+        for filepath in all_json_filepaths:
+            for partial_filename in item_title_like:
+                if to_safe_filename(partial_filename) in to_safe_filename(str(filepath.name)):
+                    filepaths.append(filepath)
+    else:
+        filepaths = dirpath.glob("*.json")
+
+    text_item_description_batches: list[HumanTextItemDescriptionBatch] = []
+    for filepath in filepaths:
+        with open(filepath, "r") as f:
+            data = json.load(f)
+        
+        # if no title in data, use filename as title
+        title = data.get("title", None)
+        if not title:
+            title = filepath.stem # without file extension
+        
+        abstract = data.get("abstract", None)
+        if not abstract:
+            raise Exception(f"Paper file {filepath} is missing the 'abstract' attribute")
+        
+        if fill_description_with == "abstract":
+            descriptions = [abstract]
+        else:
+            # should be impossible to get here if pydantic is working
+            raise(f"Illegal choice for `fill_description_with`: {fill_description_with}")
+
+        text_item_description_batches.append(
+            HumanTextItemDescriptionBatch(
+                item_type=item_type,
+                title=title,
+                descriptions=descriptions,
+                origin=Origin.Human,
+                meta=dict(abstract=abstract),
+            )
+        )
+    return text_item_description_batches
+
+
 # Special loader just for academic paper raw data.
 # Can be used to generate an abstract-only description batch
 # to use as the human version in comparisons, or a body-only
@@ -223,6 +280,12 @@ def load_all_human_description_batches(
             fill_description_with="abstract",
             item_title_like=item_title_like,
         )
+    elif item_type == "proposal_abstract":
+        return load_all_proposals_as_description_batches(
+            item_type="proposal",
+            fill_description_with="abstract",
+            item_title_like=item_title_like,
+        )
 
     # normal handling
     dirpath = generate_descriptions_dirpath(
@@ -245,7 +308,6 @@ def load_all_human_description_batches(
     human_item_description_batches = [
         load_description_batch_from_json_file(filepath) for filepath in filepaths
     ]
-
     return human_item_description_batches
 
 
