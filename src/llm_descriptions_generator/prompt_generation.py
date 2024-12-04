@@ -1,6 +1,9 @@
 import hashlib
+import json
 
+from llm_descriptions_generator.file_io import generate_descriptions_dirpath, generate_descriptions_filepath, load_description_batch_from_json_file
 from llm_descriptions_generator.schema import (
+    Origin,
     TextItemDescriptionBatch,
     TextItemGenerationPrompt,
     TextItemGenerationPromptConfig,
@@ -18,6 +21,20 @@ def create_text_item_generation_prompt_from_config(
             # Special handling: academic papers use original abstract for target count
             meta = getattr(source_description_batch, "meta", {})
             abstract = meta.get("abstract", None)
+            target_word_count = len(abstract.split(" "))
+            
+        elif config.item_type == "proposal":
+            # Read in human file with same title and use the length of the description
+            title = source_description_batch.title
+            filepath = generate_descriptions_filepath(
+                title=title, 
+                item_type=config.item_type,
+                origin=Origin.Human
+            )
+            with open(filepath) as f: 
+                data = json.load(f)
+            
+            abstract = data.get("abstract", None)
             target_word_count = len(abstract.split(" "))
         else:
             target_word_count = sum([len(d.split(" ")) for d in source_description_batch.descriptions]) / len(source_description_batch.descriptions)

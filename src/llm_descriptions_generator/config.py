@@ -106,7 +106,7 @@ TEXT_GENERATION_PROMPT_CONFIG = {
         ),
         TextItemGenerationPromptConfig(
             item_type="proposal",
-            prompt_nickname="from_json_details_proposal",
+            prompt_nickname="from_json_details",
             prompt_base_text="Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.",
             description_source=PromptDescriptionSource.LLM_JSON_Summary,
             include_title=False,
