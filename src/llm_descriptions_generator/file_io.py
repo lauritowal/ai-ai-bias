@@ -285,7 +285,7 @@ def load_all_human_description_batches(
             fill_description_with="abstract",
             item_title_like=item_title_like,
         )
-    elif item_type == "proposal_abstract":
+    elif item_type == "proposal":
         return load_all_proposals_as_description_batches(
             item_type="proposal",
             fill_description_with="abstract",
