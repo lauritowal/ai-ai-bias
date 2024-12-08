@@ -12,10 +12,10 @@
 
 
 # TODO: NEXT
-python3 scripts/generate_and_compare_descriptions.py \
+poetry run python3 scripts/generate_and_compare_descriptions.py \
     --item-type=proposal \
     --comparison-prompt-key=proposal_pick_one \
     --comparison-engine='gpt-4-1106-preview' \
     --description-prompt-key=from_json_details \
     --description-engine='gpt-4-1106-preview' \
-    --min-description-generation-count=4
+    --min-description-generation-count=3
