@@ -4,6 +4,9 @@ import csv
 import re
 import random
 import shutil
+from to_save_fileformat import to_safe_filename
+
+DOMAIN='Social sciences & humanities (SH)'
 
 def clean_text(text):
     if not text or text.isspace():
@@ -14,6 +17,7 @@ def process_csv_row(row):
     # Extract and clean the required fields
     title = clean_text(row['Project Title'])
     abstract = clean_text(row['Abstract'])
+    domain = clean_text(row['Domain'])
 
     # Skip if abstract is empty/None or just "-"
     if not abstract or abstract == "-":
@@ -24,6 +28,7 @@ def process_csv_row(row):
         "item_type": "proposal",
         "title": title, 
         "abstract": abstract,
+        "domain": domain,
         "origin": "Human"
     }
     
@@ -32,7 +37,7 @@ def process_csv_row(row):
 def count_files(directory):
     return len(list(Path(directory).glob('*.json')))
 
-def process_csv(csv_path, dest_directory, num_proposals):
+def process_csv(csv_path, dest_directory, num_proposals, domain=DOMAIN):
     print(f"Starting process_csv with path: {csv_path}")
     
     if not Path(csv_path).exists():
@@ -67,6 +72,10 @@ def process_csv(csv_path, dest_directory, num_proposals):
     # Print first row headers to verify structure
     print("CSV headers:", list(rows[0].keys()))
     
+    # filter by Domain
+    rows = [row for row in rows if row['Domain'] == domain]
+    assert all(row['Domain'] == domain for row in rows)
+    
     # Shuffle the rows
     random.shuffle(rows)
     
@@ -87,16 +96,7 @@ def process_csv(csv_path, dest_directory, num_proposals):
             skipped += 1
             continue
         
-        # Generate filename from title
-        max_filename_length = 250
-        sanitized_title = ''.join(char for char in title if char.isalnum() or char in [' ', '-']).rstrip().replace(' ', '_')
-        
-        if len(sanitized_title) > max_filename_length:
-            print(f"Title is too long, skipping: {title[:50]}...")
-            skipped += 1
-            continue
-            
-        filename = sanitized_title + '.json'
+        filename = to_safe_filename(title)
         new_dest_path = dest_directory / filename
 
         # Write JSON data to new file
@@ -141,6 +141,10 @@ def main():
     num_proposals = 250  # Change this number as needed
     
     process_csv(csv_path, dest_directory, num_proposals)
+    
+    
+    
+    
 
 if __name__ == "__main__":
     print("Script starting")
