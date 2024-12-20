@@ -7,7 +7,8 @@ import typing as t
 import langchain
 from interlab.context import Context, FileStorage
 from interlab.lang_models import query_model
-from interlab.queries import QueryFailure, query_for_json
+from interlab.queries import QueryFailure
+from query_for_json import query_for_json
 from interlab.queries.experimental.repeat import repeat_on_failure
 from openai.error import (
     APIError,

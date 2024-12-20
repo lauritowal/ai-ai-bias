@@ -10,8 +10,7 @@ from pathlib import Path
 
 import langchain
 from interlab.context import Context, StorageBase
-from interlab.lang_models import query_model
-from interlab.queries import query_for_json
+from query_for_json import query_for_json
 import openai
 from pydantic.dataclasses import Field, dataclass
 import interlab
