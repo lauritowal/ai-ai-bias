@@ -1,0 +1,46 @@
+{
+    "item_type": "proposal",
+    "title": "METABODY: Body Metacognition, Mentalization and Metamorphosis",
+    "descriptions": [
+        {
+            "proposal_name": "METABODY: Body Metacognition, Mentalization and Metamorphosis",
+            "proposal_details": {
+                "descriptions": [
+                    "METABODY proposes the novel concept of Body Imagining to capture the dynamic inference of body image based on prior expectations and new information."
+                ],
+                "body_image_phenomena": {
+                    "modern_context": true,
+                    "identity_balance": "negotiation between invariance and invention"
+                },
+                "study_focus": {
+                    "body_image_as_dynamic_inference": true,
+                    "balance_of_prior_beliefs_and_new_information": true,
+                    "investigation_of_metacognitive_level": true
+                },
+                "hypothesis": {
+                    "body_image_disturbances": "related to 1st and 2nd order abilities"
+                },
+                "empirical_work_packages": [
+                    {
+                        "name": "Body Metacognition",
+                        "focus": "balance between embodied experience and external perspectives"
+                    },
+                    {
+                        "name": "Body Mentalizing",
+                        "focus": "balance between embodied experience and social perspectives"
+                    },
+                    {
+                        "name": "Body Decision Making",
+                        "focus": "balance between current, future, and ideal body perspectives"
+                    }
+                ],
+                "goal": "understand identity negotiation in the context of body modification options"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "79fc98047d0010b702989d3b3d4e91af",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMETABODY: Body Metacognition, Mentalization and Metamorphosis\n\n**Description:**\n\nWe live in a socio-economic world that affords us with increasing options and technologies to control and present our bodily appearance to others, including by managing our eating habits, or by digital and even surgical body modification. These proliferating phenomena raise the age-old question of how we negotiate the balance between the invariance and invention of our identity. Addressing this question in relation to modern body image phenomena requires a radical new way of studying the concept of body image. METABODY proposes the novel concept of Body Imagining to capture the idea that our body image is not a fixed representation in the brain, but rather a dynamic inference based on prior expectations and new information. Studying the balance between prior beliefs and new information could thus hold the key to understanding modern body image phenomena. Moreover, existing studies have failed to investigate the metacognitive level of these inferences. METABODY will test the novel hypothesis that body image disturbances are not the result of biases merely in the 1st order ability to perceive one’s body, but also in the 2nd order ability to evaluate the reliability of these perceptions in given contexts. Specifically, three empirical work-packages will study how individuals balance their own embodied experience against: (1) external perspectives on the body during multisensory perception (Body Metacognition), (2) social perspectives during interpersonal encounters (Body Mentalizing) and (3) future and ideal body perspectives during decisions about body modification options with uncertain outcome (Body Decision Making). Ultimately, METABODY will address in innovative ways the timely question of how we negotiate the balance between the invariance and invention of our identity in a time when changing the body is offered as an easy way to change the self."
+}

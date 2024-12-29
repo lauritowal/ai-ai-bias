@@ -1,0 +1,56 @@
+{
+    "item_type": "proposal",
+    "title": "Helping Children to Make the Best of their Transition to High School",
+    "descriptions": [
+        {
+            "proposal_name": "Helping Children to Make the Best of their Transition to High School",
+            "proposal_details": {
+                "team": "ERC-team (ERC consolidator grant Social-Bio Interplay)",
+                "issues_addressed": [
+                    "peer rejection",
+                    "victimization",
+                    "low support from teachers",
+                    "conflictual relations with teachers"
+                ],
+                "affected_areas": [
+                    "self-regulation",
+                    "stress-regulation"
+                ],
+                "intervention": "A.L.I.B.I. serious game",
+                "game_features": [
+                    "virtual high school environment",
+                    "uncover an alien disguised as a teacher or peer",
+                    "prosocial interactions",
+                    "perspective-taking",
+                    "consideration of multiple response options",
+                    "focus on long term perspectives"
+                ],
+                "game_benefits": [
+                    "realistic yet safe learning environment",
+                    "rehearsal of prosocial behaviors"
+                ],
+                "game_appeal": [
+                    "use of game elements",
+                    "presentation on a tablet computer"
+                ],
+                "project_goals": [
+                    "develop A.L.I.B.I. into a stand-alone serious game",
+                    "assess the effectiveness of A.L.I.B.I.",
+                    "integrate A.L.I.B.I. into ongoing school transition trainings",
+                    "develop a marketing strategy for implementation in The Netherlands and Europe"
+                ],
+                "implementation_partners": [
+                    "three school counseling organizations"
+                ],
+                "target_regions": [
+                    "three regions in The Netherlands"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d2e646481211a7f3843c6f482fada3c3",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nHelping Children to Make the Best of their Transition to High School\n\n**Description:**\n\nOur ERC-team (ERC consolidator grant Social-Bio Interplay) has found that poor social experiences with peers (peer rejection, victimization) and teachers (low support or conflictual relations with teachers) during elementary school impede children’s self- and stress-regulation during the elementary school years. The affected self- and stress-regulation places these children at risk of developing similar troublesome relations with teachers and peers after the transition to high school. We propose to develop a serious game named A.L.I.B.I. to help children make a successful transition to high school by increasing children’s self-regulation skills and their prosocial behavior. In A.L.I.B.I. children play in a virtual high school environment. The objective of A.L.I.B.I. is to uncover an alien, who is disguised as a teacher or peer. By engaging in prosocial interactions with teachers and peers, by taking the perspective of others, by learning to overthink multiple response options before acting, and by valuing long term perspectives over short term goals, children will receive clues that will help them to uncover the alien. The advantage of A.L.I.B.I. is that through the use of a virtual school environment, it provides children a realistic yet safe environment to learn and rehearse prosocial behaviors, to prepare them for the new social environment. In addition, A.L.I.B.I. is intuitively attractive for children, through its use of game elements and presentation on a tablet computer. The proposed ERC PoC grant has the goal to (1) develop A.L.I.B.I. into a stand-alone serious game that will be ready for implementation, (2) to the effectiveness of A.L.I.B.I., (3) to integrate A.L.I.B.I. in ongoing school transition trainings as provided by three school counseling organizations in three regions in The Netherlands, and (4) to develop a marketing strategy for broader Dutch and European implementation."
+}

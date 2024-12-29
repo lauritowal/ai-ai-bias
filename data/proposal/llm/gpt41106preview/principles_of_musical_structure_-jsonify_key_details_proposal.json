@@ -1,0 +1,43 @@
+{
+    "item_type": "proposal",
+    "title": "Principles of Musical Structure Building: Theory, Computation, and Cognition",
+    "descriptions": [
+        {
+            "proposal_name": "Principles of Musical Structure Building: Theory, Computation, and Cognition",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "importance": "Advancing understanding of human cognition with focus on complex auditory sequences and syntactic structures in music perception."
+                    }
+                ],
+                "strands": {
+                    "theoretical": {
+                        "objective": "Develop a novel unified theory of musical syntax that exceeds context-free complexity.",
+                        "focus": "Harmonic structure and voice leading constraints.",
+                        "limitations": "Current approaches are mostly confined to harmonic syntax and share the expressive power of tree-based context-free grammars."
+                    },
+                    "computational": {
+                        "objective": "Compile and publish a large corpus of digitized syntactic analyses.",
+                        "implementation": "Unified syntax theory based on generalized parsing and graph grammars.",
+                        "evaluation": "Analytical corpus based training and evaluation."
+                    },
+                    "experimental": {
+                        "objective": "Test specific predictions about mental representations of musical structure.",
+                        "focus": "Nonlocal dependency relations, learnability, revision, and tension."
+                    }
+                },
+                "contribution": {
+                    "fields": [
+                        "Music cognition",
+                        "Cognitive sciences"
+                    ]
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "b25d94c4cfd283f8bb33fba33cd12f89",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPrinciples of Musical Structure Building: Theory, Computation, and Cognition\n\n**Description:**\n\nMusic is a central human trait across all cultures and historical periods, involving a great rich variety of parameters, cognitive processes, and forms of structure building. The proposed project aims at advancing the understanding of human cognition and, specifically, the capacity to represent and process complex auditory sequences and syntactic structures by exploring the rich potential of music perception. Building on the PI’s previous work, this interdisciplinary research programme will be divided into three core strands: (A) The theoretical strand will be devoted to the investigation of formal principles that govern musical syntax and structure building in Western and non-Western music. Many current approaches share the expressive power of (tree-based) context-free grammars and are mostly confined to harmonic syntax only. Therefore, they face difficulty in expressing certain crucial syntactic phenomena in music. To address this lacuna, the theoretical strand will develop a novel unified theory of musical syntax that exceeds context-free complexity and reconciles harmonic structure with the constraints of voice leading within a single coherent framework. (B) Addressing the lack of machine-readable corpora in music research, a large corpus of digitized syntactic analyses will be compiled and published in the context of the project’s computational strand. Further, the unified syntax theory will be implemented based on a generalized parsing approach and graph grammars, and trained and evaluated using the analytical corpus. (C) The formal framework developed in (A) entails specific predictions about mental representations of musical structure that will be empirically tested in the experimental strand of the project. Particular focus will be on aspects of nonlocal dependency relations, learnability, revision, and tension. The outcomes of the project will make a significant contribution to both the field of music cognition and to the cognitive sciences in general."
+}

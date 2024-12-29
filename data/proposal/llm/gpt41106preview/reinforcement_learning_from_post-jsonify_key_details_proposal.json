@@ -1,0 +1,47 @@
+{
+    "item_type": "proposal",
+    "title": "Reinforcement learning from post-ingestive calories: from body to brain in health and disease",
+    "descriptions": [
+        {
+            "proposal_name": "Reinforcement learning from post-ingestive calories: from body to brain in health and disease",
+            "proposal_details": {
+                "objective": "Study post-ingestive reinforcement of food-seeking behaviour",
+                "hypothesis": "Behaviour has a dopaminergic substrate and is associated with neural activity in brain reward circuits",
+                "methods": [
+                    "Computational reinforcement models",
+                    "Instrumental conditioning",
+                    "Brain functional and molecular imaging",
+                    "Peripheral nerve stimulation"
+                ],
+                "subjects": [
+                    "Rodents",
+                    "Humans"
+                ],
+                "contexts": [
+                    "Health",
+                    "Disease"
+                ],
+                "focus": [
+                    "Selection of food",
+                    "Post-ingestive information",
+                    "Energy content",
+                    "Vagus nerve information transmission"
+                ],
+                "experiments": [
+                    "Human probabilistic decision-making tasks"
+                ],
+                "conditions": [
+                    "Obesity"
+                ],
+                "descriptions": [
+                    "The drive to eat is one of the strongest in the modulation of behaviour, influenced by sensory feedback and post-ingestive information about energy content."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d89837b389e9a9c5d1fec92e1e0f3cdd",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nReinforcement learning from post-ingestive calories: from body to brain in health and disease\n\n**Description:**\n\nThe drive to eat is one of the strongest in the modulation of behaviour. Selection of food is guided by sensory feedback, including post-ingestive information about energy content, that has been studied across several species, paradigms and nutrients. In rodents, post-oral administration of sugar is associated with striatal dopamine release and conditions robust preferences, in part as a result of viscerosensory information transmitted through the vagus nerve. Consistently, in humans there is evidence that pairing a flavour with a tasteless carbohydrate will enhance pleasantness of the pre-ingestive stimulus and increase its consumption. However, available data in humans have provided limited mechanistic underpinnings for this process and, in our own experiments, performed with greater control of pre-ingestive stimulation, while we reproduced increased consumption of conditioned flavours, we found no evidence for post-ingestive mediated changes of pleasantness. Critically, this suggests that the impact of nutrient conditioning on behaviour and choice reflects the modulation of the value of actions, rather than that of associated stimuli. The application of computational reinforcement learning theory to human probabilistic decision-making tasks, which has allowed for renewed sophistication and progress to understand the mechanisms of appetitive learning, is yet to be applied to address this question. In CalorieRL, we will use computational reinforcement models applied to instrumental conditioning, in addition to brain functional and molecular imaging and peripheral nerve stimulation, to study post-ingestive reinforcement of food-seeking behaviour. We hypothesize such behaviour has a dopaminergic substrate and is associated with neural activity in brain reward circuits, resulting from sensory information transmitted through the vagus nerve. Importantly, we will also address if post-ingestive reinforcement is relevant in the context of obesity."
+}

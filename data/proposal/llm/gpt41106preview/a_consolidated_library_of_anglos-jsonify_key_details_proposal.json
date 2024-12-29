@@ -1,0 +1,51 @@
+{
+    "item_type": "proposal",
+    "title": "A Consolidated Library of Anglo-Saxon Poetry",
+    "descriptions": [
+        {
+            "proposal_name": "A Consolidated Library of Anglo-Saxon Poetry",
+            "proposal_details": {
+                "descriptions": [
+                    "An online and interactive consolidated library of all surviving Anglo-Saxon verse marked up through TEI P5 XML."
+                ],
+                "period": "c. 670–1100 CE",
+                "languages": [
+                    "Old English",
+                    "Anglo-Latin"
+                ],
+                "corpus_size": 60000,
+                "lines_of_poetry": {
+                    "total": 60000,
+                    "per_language": 30000
+                },
+                "manuscript_witnesses": "usually in manuscript",
+                "named_poets": 50,
+                "focus": {
+                    "named_poets": "documenting influence",
+                    "anonymous_verse": "tracing potential influence"
+                },
+                "digital_resources": [
+                    "sound-files",
+                    "image-files"
+                ],
+                "events": [
+                    "conferences",
+                    "workshops"
+                ],
+                "publications": {
+                    "type": "series",
+                    "focus": "comprehensive multilingual corpus"
+                },
+                "research_impact": {
+                    "geographical_scope": "Europe",
+                    "context": "Latin and the vernacular co-existed in a Christian context"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6865cf7fd92f712100dc2c9caf57e7d4",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nA Consolidated Library of Anglo-Saxon Poetry\n\n**Description:**\n\nAs elsewhere in Europe, Anglo-Saxon England saw a development from an oral, vernacular, native, and pagan culture to one that was primarily literate, Latinate, imported, and Christian; and such a transition is clearest in Anglo-Saxon verse. CLASP will focus on all surviving verse of Anglo-Saxon England, composed in Old English and Anglo-Latin over a period of over four centuries (c. 670–1100 CE), and produce for the first time an online and interactive consolidated library, marked up through TEI P5 XML to facilitate the identification of idiosyncratic features of sound, metre, spellings, diction, syntax, formulas, themes, and genres across the entire corpus, so forging connections and suggesting more certain chains of influence both within and between the two main literary languages of Anglo-Saxon England. The bilingual corpus comprises almost 60,000 lines of poetry, with about half surviving in each language, and mostly appearing in only a single witness, usually in manuscript. More than fifty named poets are identified, many of them dateable with more or less precision, whose influence on each other can be closely documented, while in the case of anonymous verse, most of which is in Old English, the focus will be on tracing potential influence between texts, to establish a comparative rather than an absolute chronology. CLASP will use the full panoply of digital resources, including sound- and image-files where relevant, to make the oldest surviving poetry in England available to a modern audience for unprecedented kinds of exploration, comprehensive analysis, and interrogation, and in a series of conferences, workshops, and other publications will show the potential of such a comprehensive multilingual corpus to revolutionize perspectives not only on Anglo-Saxon England, but elsewhere in Europe, where Latin and the vernacular likewise co-existed in a Christian context across centuries."
+}

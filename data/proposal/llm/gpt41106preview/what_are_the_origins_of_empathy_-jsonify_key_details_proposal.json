@@ -1,0 +1,63 @@
+{
+    "item_type": "proposal",
+    "title": "What are the origins of empathy? A comparative developmental investigation",
+    "descriptions": [
+        {
+            "proposal_name": "What are the origins of empathy? A comparative developmental investigation",
+            "proposal_details": {
+                "descriptions": [
+                    "First comparative investigation of empathy development in humans and bonobos."
+                ],
+                "techniques": [
+                    "thermal-imaging",
+                    "pupillometry",
+                    "eye-tracking"
+                ],
+                "approaches": [
+                    "longitudinal observations",
+                    "innovative experiments"
+                ],
+                "species": [
+                    "humans",
+                    "bonobos"
+                ],
+                "human_infant_cultures": [
+                    "Vanuatu",
+                    "Samoa"
+                ],
+                "bonobo_contexts": [
+                    "wild",
+                    "semi-captive"
+                ],
+                "societal_structures": [
+                    "distributed-caregiving"
+                ],
+                "research_goals": [
+                    "Identify developmental and evolutionary origins of empathy",
+                    "Determine extent of human uniqueness in empathy",
+                    "Advance understanding of empathy origins",
+                    "Challenge perspectives about human uniqueness in empathy"
+                ],
+                "hypothesis": [
+                    "Humans and bonobos share a core capacity for empathy",
+                    "Humans diverge in motivation to ameliorate others' emotional states",
+                    "Humans have a capacity for reciprocal emotional exchange"
+                ],
+                "potential_outcomes": [
+                    "Human-unique sharing and co-operation"
+                ],
+                "disciplinary_integrations": [
+                    "biology",
+                    "psychology",
+                    "ethology",
+                    "anthropology"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "fdfc185b17b171b71c6e2848322c3a1d",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nWhat are the origins of empathy? A comparative developmental investigation\n\n**Description:**\n\nEmpathy – sharing and understanding others’ emotions and thoughts – is a defining feature of what it means to be human. However, we lack knowledge about the origins of empathy and to what extent its sub-components reflect species and cultural universals. Studying infants and great apes enables us to identify the developmental and evolutionary origins of empathy and the extent of its human uniqueness. Until now, it has largely been assumed that infants and great apes lack the capacity for empathy. However, this claim may reflect a lack of adequate methodologies and research attention, leaving infant and great ape empathy underestimated. Now, combining novel techniques to investigate empathy comparatively (thermal-imaging, pupillometry and eye-tracking) with longitudinal observations and innovative experiments, EMPORIGIN will overcome this issue to provide the first comparative investigation of empathy development in humans and bonobos, our closest living relatives. Rich datasets on bonobo (wild and semi-captive) infant development and caregiver interactions will be compared to those from human infants in two small-scale, traditional societies – Vanuatu and Samoa. Both societies show distributed-caregiving but vary in societal structure and emotional expressivity. Using a cross-species and cross-cultural approach, EMPORIGIN will deliver step-change insights into empathy development that go far beyond the State-of-the-Art. We will test the hypothesis that humans and bonobos share a core capacity for empathy, but humans diverge in a greater motivation to ameliorate others’ emotional states and a capacity for reciprocal emotional exchange. These capacities could lead to a cascade of human-unique forms of sharing and co-operation. Combining approaches across biology, psychology, ethology and anthropology, EMPORIGIN will advance our understanding of the origins of empathy, one of our most remarkable capacities, and challenge current perspectives about its human uniqueness."
+}

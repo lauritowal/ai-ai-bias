@@ -1,0 +1,34 @@
+{
+    "item_type": "proposal",
+    "title": "Is the Presence of Technology Improving Corporations and Increasing the Prosperity of Investors and Individuals?",
+    "descriptions": [
+        {
+            "proposal_name": "Is the Presence of Technology Improving Corporations and Increasing the Prosperity of Investors and Individuals?",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "pillar": 1,
+                        "focus": "Communication with shareholders",
+                        "aim": "Understand whether shareholders' voice at shareholder meetings is muted following the shift to virtual-only meetings",
+                        "initial_findings": "Shift has minimized communication and allowed firms to strategically avoid addressing shareholder questions"
+                    }
+                ],
+                "environment_social_issues": {
+                    "aim": "Determine whether investors focus on firms' stated actions or actual actions on ES issues",
+                    "method": "Natural language processing to evaluate stated vs actual ES actions",
+                    "initial_results": "Market rewards firms for stating actions promoting ES goals, not for actual actions"
+                },
+                "compensation": {
+                    "aim": "Examine relation between employees' characteristics and the EBC they receive, and their ability to maximize EBC value",
+                    "specific_focus": "Gender of employees in tech industry",
+                    "impact": "Changes in economic landscape and welfare of individuals"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ee05596ca1cd7a2aedf00a969d9fddc4",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nIs the Presence of Technology Improving Corporations and Increasing the Prosperity of Investors and Individuals?\n\n**Description:**\n\nThe use and importance of advanced technologies is continuously increasing in the corporate world. Technology is changing how investors interact with companies, how investors analyze and interpret the information provided by companies, and even the standard design of compensation in corporations. The goal of this study is to understand whether and how the increasing presence of technology is improving corporations and contributing to the wealth and prosperity of individuals/ investors, and when it is not. I will focus on the following three pillars that each focus on a unique technological development: (1) Communication with shareholders. Aim: To understand whether shareholders’ voice at shareholder meetings is muted following the shift of shareholder meetings from the in-person to the virtual-only arena (due to Covid-19). Initial findings indicate that this shift has minimized communication between shareholders and firms and allowed firms to strategically avoid addressing questions submitted by shareholders. (2) Environment and social (ES) issues. Aim: To understand whether investors pay attention to what firms say they do on ES issues, or what they actually do. Natural language processing (NLP) will be used to evaluate which actions firms state that they take with respect to ES, and these will be compared to the ES actions firms actually take. Initial results indicate that the market rewards firms that state they take actions promoting ES goals, but not firms that actually take such actions. (3) Compensation. – Aim: To examine how the characteristics of employees (e.g., gender) working in the tech industry relate to the EBC they receive, and their ability to maximize the value of their EBC and changes the economic landscape and welfare of individuals."
+}

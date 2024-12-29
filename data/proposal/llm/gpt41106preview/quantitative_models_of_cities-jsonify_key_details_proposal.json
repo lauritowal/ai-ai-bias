@@ -1,0 +1,42 @@
+{
+    "item_type": "proposal",
+    "title": "Quantitative Models of Cities",
+    "descriptions": [
+        {
+            "proposal_name": "Quantitative Models of Cities",
+            "proposal_details": {
+                "economic_divergence": {
+                    "across_countries": true,
+                    "within_countries": true,
+                    "city_vs_rural": true
+                },
+                "historical_niche_interest": "20th century",
+                "recent_changes": {
+                    "high_resolution_data": true,
+                    "theoretical_breakthroughs": true
+                },
+                "key_references": [
+                    "Ahlfeldt, Redding, Sturm and Wolf (2015)",
+                    "Heblich, Redding and Sturm (2020)"
+                ],
+                "project_innovations": {
+                    "combine_quantitative_models_and_register_data": true,
+                    "develop_dynamic_model": true,
+                    "use_detailed_Danish_data": true,
+                    "allow_worker_and_firm_heterogeneity": true,
+                    "address_policy_relevant_questions": true
+                },
+                "policy_questions": [
+                    "urban_transport_infrastructure",
+                    "effect_of_height_restrictions",
+                    "planning_interventions_on_cities"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "00915c46ce2b0744499084693f675543",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nQuantitative Models of Cities\n\n**Description:**\n\nOne of the most striking empirical regularities is the huge divergence in economic activity both across and within countries. Within countries, this is most clearly illustrated by the vast differences in economic activity between cities and rural areas. Despite this first-order economic phenomenon, the study of the economics of cities has been a niche interest for much of the 20th century. This has changed recently with the arrival of data with a high level of spatial resolution for cities and key theoretical breakthroughs. In particular, Ahlfeldt, Redding, Sturm and Wolf (2015) and Heblich, Redding and Sturm (2020) develop an empirically tractable model of location choices in cities. They show how this model can be used to estimate the strength of agglomeration forces in cities and the effect of the construction of the railways on commuting flows and city growth. This project will take our understanding of the economics of cities to the next level by innovating along four different dimensions. First, the project will combine quantitative urban models that build on my prior work with extraordinary detailed register data covering every person in Denmark. Second, the project will develop a dynamic version of the current static models and structurally estimate this model with the information available in the Danish data. Third, the rich heterogeneity that can be observed in the Danish register data will make it possible to innovate on the current state of the art, which assumes ex-ante identical workers and a single output, and allow for worker and firm heterogeneity. Fourth, the modelling and empirical work will directly address questions of first-order policy relevance. These questions include evaluating the general equilibrium benefits of improvements in urban transport infrastructure, and the effect of height restrictions and other planning interventions on the growth and welfare of cities."
+}

@@ -1,0 +1,41 @@
+{
+    "item_type": "proposal",
+    "title": "Between Canon and Coincidence: using data-driven approaches to understand Art Worlds",
+    "descriptions": [
+        {
+            "proposal_name": "Between Canon and Coincidence: using data-driven approaches to understand Art Worlds",
+            "proposal_details": {
+                "project_acronym": "BECACO",
+                "focus": "provenance of ethnographic and archaeological collections",
+                "aim": "reconceptualize provenance as large-scale study of socio-politico-historical conjunctures leading to translocation of cultural material",
+                "concept_introduced": "Art World Patterns",
+                "original_concept_author": "Becker",
+                "original_concept_year": "2008[1982]",
+                "methodologies": [
+                    "quantitative analyses",
+                    "network analysis",
+                    "data mining"
+                ],
+                "analysis_corpus": "large corpus of provenance data",
+                "outcome": [
+                    "new models for provenance research",
+                    "conceptual and methodological advances"
+                ],
+                "study_subject": "Indigenous Latin American material",
+                "museum_count": 12,
+                "country_count": 9,
+                "time_frame": {
+                    "start_year": 1850,
+                    "end_year": 2000
+                },
+                "geographical_focus": "Europe",
+                "research_impact": "understanding of representation and perception of Indigenous Latin America in Europe"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "50752e29ed7d8701d3b83ad7d0466a8a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nBetween Canon and Coincidence: using data-driven approaches to understand Art Worlds\n\n**Description:**\n\nThe BECACO project applies a novel multidisciplinary framework to studying the provenance of ethnographic and archaeological collections. Moving away from the current focus in provenance research on single objects, collectors, or institutions, the aim of the project is to reconceptualize provenance as the large-scale study of the socio-politico-historical conjunctures that led to the translocation of cultural material. To do so, it introduces the concept of Art World Patterns, an expansion and reframing of the idea of Art Worlds (Becker 2008[1982]). These patterns will be identified through an innovative combination of various data-driven methodologies. By applying quantitative analyses, network analysis, and data mining on a large corpus of provenance data, the project will explore the promises and limitations of different data-driven approaches in the context of large-scale ethnographic/archaeological provenance research. Through this process, the project will devise new models for provenance research in ethnographic and archaeological museums. These conceptual and methodological advances will be mobilized through the study of Indigenous Latin American material from 12 museums in 9 countries. The project will create a ground-breaking diachronic, international, and cross-institutional understanding of the collecting of Indigenous Latin American material in Europe. In doing so, the BECACO team will reconstruct how – through the formation of collections – the Indigenous Latin American Art World as it existed in Europe between 1850-2000 constructed a discourse of art, aesthetics, and academic research that shaped how Indigenous Latin America is represented and understood in Europe until today."
+}

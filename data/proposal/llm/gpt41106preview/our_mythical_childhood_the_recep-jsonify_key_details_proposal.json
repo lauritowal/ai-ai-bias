@@ -1,0 +1,57 @@
+{
+    "item_type": "proposal",
+    "title": "Our Mythical Childhood... The Reception of Classical Antiquity in Children’s and Young Adults’ Culture in Response to Regional and Global Challenges",
+    "descriptions": [
+        {
+            "proposal_name": "Our Mythical Childhood... The Reception of Classical Antiquity in Children’s and Young Adults’ Culture in Response to Regional and Global Challenges",
+            "proposal_details": {
+                "aims": [
+                    "Developing a pioneering approach to the reception of Classical Antiquity in children’s and young adults’ culture"
+                ],
+                "significance": [
+                    "Offers insights into identity formation and initiation into adulthood",
+                    "Explores the reception of Antiquity as reshaped in response to regional and global challenges"
+                ],
+                "limitations_of_current_research": [
+                    "Selective focus mainly on Western culture"
+                ],
+                "proposed_solutions": [
+                    "Applying regional perspectives without pejorative implications",
+                    "Comparative studies of reception models across Europe, America, Australia, New Zealand, Africa, Asia"
+                ],
+                "innovation": [
+                    "Comparative studies across various regions including non-traditional ones for Graeco-Roman tradition"
+                ],
+                "shared_heritage": [
+                    "Influence of popular culture on Classical Antiquity"
+                ],
+                "expected_outcomes": [
+                    "Deeper understanding of key social, political, and cultural transformations"
+                ],
+                "research_team": [
+                    "An international team of scholars"
+                ],
+                "impact": [
+                    "Broad impact on scholarship, education, and culture"
+                ],
+                "deliverables": [
+                    "Supra-regional survey of classical references",
+                    "Analyses of crucial reception cases",
+                    "Materials on ancient myths for work with disabled children"
+                ],
+                "goals": [
+                    "Contributing to integration",
+                    "Stimulating cultural exchange"
+                ],
+                "descriptions": [
+                    "This project explores how Classical Antiquity is received and reshaped in children’s and young adults’ culture across different regions, addressing both regional and global challenges."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "285da49812368c995095993903d14346",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nOur Mythical Childhood... The Reception of Classical Antiquity in Children’s and Young Adults’ Culture in Response to Regional and Global Challenges\n\n**Description:**\n\nThe project aims at developing a pioneering approach to the reception of Classical Antiquity in children’s and young adults’ contemporary culture. This newly identified research field offers valuable insights into the processes leading to the formation of the culture recipients’ identities along with their initiation into adulthood. However, the most vital potential of this phenomenon remains unexploited, for the research is still selective, focused mainly on Western culture. With my project, I intend to overcome these limitations by applying regional perspectives without the pejorative implication of regional as parochial or inferior. I recognize regions as extremely valuable contexts of the reception of Antiquity, which is not only passively taken in, but also actively reshaped in children’s and young adults’ culture in response to regional and global challenges. Thus, the essence of this innovative approach consists in comparative studies of differing reception models not only across Europe but also America, Australia & New Zealand and – a bold but necessary step – in parts of the world not commonly associated with Graeco-Roman tradition: Africa and Asia. The shared heritage of Classical Antiquity, recently enhanced by the global influence of popular culture (movies, Internet activities, computer games inspired by the classical tradition), gives a unique opportunity – through the reception filter – to gain deeper understanding of the key social, political and cultural transformations underway at various locations. The added value of this original research, carried out by an international team of scholars, will be its extremely broad impact on the frontiers of scholarship, education and culture: we will elaborate a supra-regional survey of classical references, publish a number of analyses of crucial reception cases, and prepare materials on how to use ancient myths in work with disabled children, thus contributing to integration and stimulating cultural exchange."
+}

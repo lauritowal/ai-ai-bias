@@ -1,0 +1,52 @@
+{
+    "item_type": "proposal",
+    "title": "The Neural and Network Dynamics of Social Influence Across Adolescence",
+    "descriptions": [
+        {
+            "proposal_name": "The Neural and Network Dynamics of Social Influence Across Adolescence",
+            "proposal_details": {
+                "importance": [
+                    "adolescent development",
+                    "academic achievement",
+                    "prosocial behavior",
+                    "risk-taking"
+                ],
+                "amplification_factors": [
+                    "social media",
+                    "viral risk-taking challenges"
+                ],
+                "goals": [
+                    "develop a new theoretical framework",
+                    "formalize novel computational models"
+                ],
+                "novelties": [
+                    "adolescents as active information seekers",
+                    "development of novel tasks",
+                    "use of computational models with functional magnetic imaging",
+                    "experimental study in real peer social networks",
+                    "use of social network analyses"
+                ],
+                "research_questions": [
+                    "when to search for social information",
+                    "who to learn from"
+                ],
+                "methods": [
+                    "development of novel tasks",
+                    "computational models",
+                    "functional magnetic imaging",
+                    "social network analyses"
+                ],
+                "expected_outcomes": [
+                    "insights in role of social information in adolescent behavior",
+                    "advance understanding of social learning mechanisms",
+                    "inform development of interventions"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8c90f14bf0920575f258cf5e5a4d5568",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Neural and Network Dynamics of Social Influence Across Adolescence\n\n**Description:**\n\nPeer influence has long been established as one of the most important factors in almost all aspects of adolescent development and behavior, including academic achievement, prosocial behavior and risk-taking. More recently, peer influence seems to be amplified by developments in social media (e.g. viral risk-taking challenges). However, surprisingly little is known about the mechanisms underlying peer influence, or why adolescents are specifically sensitivity. The primary goal of this proposal is to gain insights in the role of social information in adolescent behavior, by developing a new theoretical framework that will be formalized in novel computational models. First, in contrast with previous accounts, adolescents are not treated as the passive receivers of social information, but considered as agents that play an active role in searching for social information. This search revolves around two main questions: when to search for social information, and who to learn from. To track development in social learning strategies I will develop novel tasks to investigate (1) when, and how much, social information is searched for, and (2) who adolescents will go to. Second, I will employ computational models in combination with functional magnetic imaging to gain insight in how brain development, and pubertal hormones are associated with changes in specific computational processes that are involved in social learning. Thirdly, social learning will for the first time be studied experimentally in real peer social networks. Social network analyses will be used to elucidate the impact of different types of peers, and to study the diffusion of information through peer groups. Our findings will significantly advance our understanding of the mechanisms of social learning in the context of real world social networks. Such fundamental knowledge can inform the development of interventions preventing risk or promoting prosocial behavior and educational outcomes."
+}

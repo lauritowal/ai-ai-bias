@@ -1,0 +1,34 @@
+{
+    "item_type": "proposal",
+    "title": "We are all Ayotzinapa: The role of Digital Media in the Shaping of Transnational Memories on Disappearance",
+    "descriptions": [
+        {
+            "proposal_name": "We are all Ayotzinapa: The role of Digital Media in the Shaping of Transnational Memories on Disappearance",
+            "proposal_details": {
+                "study_focus": "role of digital media in shaping transnational memories on disappearance",
+                "case_study": "disappearance of 43 students in Mexico, September 2014",
+                "significance": "new media's impact on citizen engagement and counter-movement against Mexican government",
+                "approaches": [
+                    {
+                        "type": "theoretical",
+                        "focus": "disappearance as a crime, digital memory"
+                    },
+                    {
+                        "type": "multidisciplinary",
+                        "focus": "long transnational history of disappearance in the Hispanic World"
+                    }
+                ],
+                "comparative_aspect": "Mexico's case compared to social performances and artistic representations in Spain and Argentina",
+                "output": "theoretical model for analyzing digital mnemonic objects and networked social movements with transnational scope",
+                "descriptions": [
+                    "Project examines the ontological status of the disappeared and boundaries transgression in digital memory."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "95b53aea8f55d8140e002496ebdcf4a8",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nWe are all Ayotzinapa: The role of Digital Media in the Shaping of Transnational Memories on Disappearance\n\n**Description:**\n\nThe project seeks to study the role of digital media in the shaping of transnational memories on disappearance. It investigates a novel case that is in process of shaping: the disappearance of 43 students in Mexico in September 2014. The role of the new media in getting citizens’ attention and in marking a “turning point” was crucial to the upsurge of a counter-movement against the Mexican government and qualifies the event as significant for the transnational arena. The groundbreaking aspect of the project consists in proposing a double approach: a) a theoretical approach in which “disappearance” is considered as a particular crime that becomes a model for analyzing digital memory. Disappearance is a technology that produces a subject with a new ontological status: the disappeared are non-beings, because they are neither alive nor dead. This ontological status transgresses the clear boundaries separating life and death, past, present and future, materiality and immateriality, personal and collective spheres. “Digital memory”, i.e. a memory mediated by digital technology, is also determined by the transgression of the boundaries of given categories b) a multidisciplinary approach situating Mexico´s case in a long transnational history of disappearance in the Hispanic World, including Argentina and Spain. This longer history seeks to compare disappearance as a mnemonic object developed in the global sphere –in social network sites as blogs, Facebook, Twitter and YouTube– in Mexico and the social performances and artistic representations –literature, photo exhibitions, and films– developed in Spain and Argentina. The Mexican case represents a paradigm for the redefinition of the relationship between media and memory. The main output of the project will consist in constructing a theoretical model for analyzing digital mnemonic objects in the rise of networked social movements with a transnational scope."
+}

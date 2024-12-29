@@ -1,0 +1,40 @@
+{
+    "item_type": "proposal",
+    "title": "Understanding and embracing artificial agents’ impact on the social dynamics of families",
+    "descriptions": [
+        {
+            "proposal_name": "Understanding and embracing artificial agents’ impact on the social dynamics of families",
+            "proposal_details": {
+                "descriptions": [
+                    "F-AI-MILY aims to study and understand the impact of artificial agents on family social dynamics, integrating knowledge from family psychology, social neuroscience, and human-AI interaction."
+                ],
+                "objectives": [
+                    "Establish a new group-centred mobile-lab approach for studying family neurocognition",
+                    "Describe developmental changes in social dynamics during long-term interactions with artificial agents",
+                    "Identify how sustainable interactions with artificial agents can support households with chronic illness"
+                ],
+                "methods": [
+                    "Develop a group-centred mobile lab to study social dynamics impacted by artificial agents",
+                    "Measure behavioural and brain measures of attitudes and behaviours of family members",
+                    "Test child development interaction with artificial agents' impact",
+                    "Test long-term effects of living with an artificial agent on families with children aged 4-12",
+                    "Guide development of artificial agents to support vulnerable households"
+                ],
+                "aims": [
+                    "Uncover social dynamics with unprecedented detail and clarity",
+                    "Change maladaptive to adaptive social dynamics in families coping with chronic illness"
+                ],
+                "approach": [
+                    "Interdisciplinary",
+                    "Neurocognition-at-home",
+                    "Full circle"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a17df1bde7816b14150fbc8a5b45171a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nUnderstanding and embracing artificial agents’ impact on the social dynamics of families\n\n**Description:**\n\nHow we trust, feel, understand, and connect with family members shapes the well-being of all family members. With families increasingly inviting artificial agents into their life, questions arise how we can describe these dynamics in the age of artificial intelligence. Integrating insights and methods from family psychology, social neuroscience, and human-ai interaction, F-AI-MILY will 1) establish a new group-centred mobile-lab approach to study the neurocognition of family social dynamics, 2) describe the developmental aspects of changes in households’ social dynamic during long-term interactions with artificial agents, and 3) identify how sustainable interactions with artificial agents can provide support in households with chronic illness. First, we will develop a new group-centred mobile lab to study how the key mechanisms of social dynamics, similarity and distance between family members, are impacted by interactions with artificial agents. Using this innovative neurocognition-at-home approach we will measure both behavioural and brain measures of key attitudes and behaviours of all family members and uncover social dynamics with unprecedented detail and clarity. Second, we will test how child development interacts with the impact of artificial agents on social dynamics. Going beyond one-off interactions, we will directly test how long-term living with an artificial agent affects families with children (4-12 years) that differ in their flexibility to the influence of these agent. Third, we will use the neurocognition-at-home approach to guide the development of artificial agents to support vulnerable households. This artificial agent support system targets family coping with chronic illness and aims to change maladaptive to adaptive social dynamics. The innovative, interdisciplinary, and full circle approach of F-AI-MILY offers new ground-breaking vistas on family systems, neurocognition of social behaviour, and the developmental of artificial agents."
+}

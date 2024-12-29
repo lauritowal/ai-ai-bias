@@ -1,0 +1,33 @@
+{
+    "item_type": "proposal",
+    "title": "Mapping the Deprived Visual System: Cracking function for prediction",
+    "descriptions": [
+        {
+            "proposal_name": "Mapping the Deprived Visual System: Cracking function for prediction",
+            "proposal_details": {
+                "objectives": [
+                    "Understand how visual deprivation at different development stages affects the occipital cortex's organization and connectivity",
+                    "Use knowledge from the first objective to predict outcomes of sight restoration"
+                ],
+                "approach": [
+                    "Study the relationship between crossmodal plasticity and sight-recovery",
+                    "Employ interdisciplinary methods across cognitive neurosciences and ophthalmology"
+                ],
+                "expected_impact": [
+                    "Advance understanding of experience-dependent shaping of brain regions",
+                    "Bridge the gap between crossmodal reorganization and sight restoration",
+                    "Develop new predictive tools for sensory restoration procedures"
+                ],
+                "project_name": "MADVIS",
+                "descriptions": [
+                    "Investigate how specific brain regions adapt their function for processing stimuli in the absence of visual input and leverage this understanding to predict sight restoration outcomes."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "805decc686185dc38112d2c0de5da200",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMapping the Deprived Visual System: Cracking function for prediction\n\n**Description:**\n\nOne of the most striking demonstrations of experience-dependent plasticity comes from studies of blind individuals showing that the occipital cortex (traditionally considered as purely visual) massively changes its functional tuning to support the processing of non-visual inputs. These mechanisms of crossmodal plasticity, classically considered compensatory, inevitably raise crucial challenges for sight-restoration. The neglected relation between crossmodal plasticity and sight-recovery will represent the testing ground of MADVIS in order to gain important novel insights on how specific brain regions become, stay and change their functional tuning toward the processing of specific stimuli. The main goal of MADVIS is therefore to make a breakthrough on two fronts: (1) understanding how visual deprivation at different sensitive periods in development affects the functional organization and connectivity of the occipital cortex; and (2) use the fundamental knowledge derived from (1) to test and predict the outcome of sight restoration. Using a pioneering interdisciplinary approach that crosses the boundaries between cognitive neurosciences and ophthalmology, MADVIS will have a large impact on our understanding of how experience at different sensitive periods shapes the response properties of specific brain regions. Finally, in its attempt to fill the existing gap between crossmodal reorganization and sight restoration, MADVIS will eventually pave the way for a new generation of predictive surveys prior to sensory restoration."
+}

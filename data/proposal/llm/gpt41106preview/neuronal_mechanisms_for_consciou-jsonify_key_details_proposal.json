@@ -1,0 +1,41 @@
+{
+    "item_type": "proposal",
+    "title": "NeUronal MEchanisms foR consciOUS perception",
+    "descriptions": [
+        {
+            "proposal_name": "NeUronal MEchanisms foR consciOUS perception",
+            "proposal_details": {
+                "descriptions": [
+                    "The proposal aims to understand the mechanisms for consciousness, particularly why some visual stimuli are consciously perceived and others are not, the relationship between conscious perception, attention, and working memory, and the neuronal fate of simple and complex stimuli that do and do not enter consciousness."
+                ],
+                "lab_previous_work": [
+                    "Demonstrated that weak simple stimuli can be reported if they elicit minimal activity in the frontal cortex related to working memory storage."
+                ],
+                "visual_cortex_function": [
+                    "Acts as a relay station for simple stimuli, passing information to higher cortical areas."
+                ],
+                "complex_stimuli_perception": [
+                    "Relies on sustained interaction between visual cortex and associative brain regions related to scene segmentation and visual attention."
+                ],
+                "research_goals": [
+                    "Compare the neuronal fate of simple and complex stimuli across most brain regions."
+                ],
+                "methods": [
+                    "Measuring activity of single neurons in human patients with drug-resistant epilepsy using implanted electrodes.",
+                    "Recording from numerous single neurons within an entire hemisphere of a monkey.",
+                    "Characterizing neuronal activity in most regions of the cortex and subcortex.",
+                    "Using perturbation methods and functional imaging in monkeys to measure a 'functional connectome'.",
+                    "Investigating brain regions where activity does or does not lead to a reportable experience."
+                ],
+                "expected_outcomes": [
+                    "Provide insight into how sensory stimuli give rise to conscious perception."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "fceacb652b108f3103d5e8c1791ed2b8",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNeUronal MEchanisms foR consciOUS perception\n\n**Description:**\n\nUnderstanding the mechanisms for consciousness is arguably one of the most intriguing questions of modern neuroscience. Why are some visual stimuli consciously perceived, whereas others remain subliminal? What is the relation between conscious perception, attention and working memory? Recent work of my lab demonstrated that weak but simple stimuli can be reported once they elicit a minimal level of activity in the frontal cortex, which is related to the storage of the stimulus in working memory. For these simple stimuli, the visual cortex acts as a relay station that needs to pass the information to higher cortical areas. However, we found that the perception of more complex visual stimuli relies on a more sustained interaction between visual cortex and associative brain regions, related to scene segmentation and visual attention. These recent results pave the way for a genuine understanding of mechanisms for consciousness, inspiring new paradigms that assess the awareness of stimuli while varying the demands on attention and working memory. The present proposal will be the first to compare the neuronal fate of simple and complex stimuli that do and do not enter consciousness across most brain regions. We will measure the activity of single neurons in human patients who are implanted with electrodes as part of their treatment of drug-resistant epilepsy. We will also use a new method that permits the recording from numerous single neurons within an entire hemisphere of a monkey and characterize neuronal activity in most regions of the cortex and subcortex. We will use perturbation methods at numerous locations throughout the brain in combination with functional imaging in monkeys to measure a “functional connectome” and to investigate the brain regions in which activity does (or does not) readily lead to a reportable experience. The proposed combination of experiments will provide unprecedented insight into how sensory stimuli give rise to conscious perception."
+}

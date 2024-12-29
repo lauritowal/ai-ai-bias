@@ -1,0 +1,51 @@
+{
+    "item_type": "proposal",
+    "title": "Politics and Emotions Investigated Comparatively",
+    "descriptions": [
+        {
+            "proposal_name": "Politics and Emotions Investigated Comparatively",
+            "proposal_details": {
+                "research_questions": [
+                    "Do emotional appeals affect citizens’ political choices?",
+                    "Do politicians actually make more emotional appeals than in the past?",
+                    "Why are politicians making more emotional appeals?"
+                ],
+                "project_name": "POLEMIC",
+                "research_period": {
+                    "start_year": 1945,
+                    "end_year": "now"
+                },
+                "countries_analyzed": 9,
+                "theories_tested": [
+                    "Vote-maximizing strategy",
+                    "Product of politician's personality",
+                    "Fashionable trend"
+                ],
+                "methods_used": [
+                    "Automated text analysis",
+                    "Physiological measurement"
+                ],
+                "perspectives_included": [
+                    "Macro (what politicians say)",
+                    "Micro (how citizens respond)"
+                ],
+                "fields_bridged": [
+                    "Party politics",
+                    "Political psychology"
+                ],
+                "expected_outcomes": [
+                    "Importance of emotion in citizens' decision-making",
+                    "Level of rationality behind politicians' emotional appeals"
+                ],
+                "descriptions": [
+                    "POLEMIC will extend existing theory and use novel methods to explain when emotional appeals are persuasive, and when emotional attachments prevent persuasion."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8bf5fc686d94354d5d34a3d745a378d6",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPolitics and Emotions Investigated Comparatively\n\n**Description:**\n\nMany claim that politicians make more, and more extreme, emotional appeals than ever before, because these appeals win over the emotional citizen. With highly emotive language people like Donald Trump, Geert Wilders or Marine Le Pen are pounding on the portals to power. Do such emotional appeals affect citizens’ political choices? Yes, they can. But, citizens’ existing emotional attachments to parties, leaders or issues moderate the success of emotional appeals. POLEMIC will extend existing theory and use novel methods to explain when (types of) emotional appeals are persuasive, and when emotional attachments prevent persuasion. Do politicians actually make more emotional appeals than in the past? And if so why are they doing it? We lack historical data of emotional appeals so we cannot answer these questions. POLEMIC will provide unique, historical data (1945-now, 9 countries) of emotional appeals by politicians in their speeches. I develop and test 3 alternative theories from different intellectual traditions that explain why politicians make emotional appeals: is it either (1) a vote-maximizing strategy, (2) a product of the personality of a politician or (3) just fashionable? POLEMIC analyses emotional appeals of politicians and the emotional responses of citizens to these appeals. Emotional appeals are texts, and emotions are experiences by the brain. To measure them POLEMIC will use innovative methods in political science: automated text analysis to extract emotion from appeals; physiological measurement to measure emotions. POLEMIC offers a ground-breaking combination of a macro-perspective (what politicians say) and a micro-perspective (how citizens respond) and forms a bridge between party politics and political psychology. The project’s output will indicate the importance of emotion in the decision-making of citizens, and the level of rationality that is behind politicians’ decision to make emotional appeals."
+}
