@@ -53,6 +53,14 @@ def generate_llm_descriptions(
     if llm_engine in [Engine.gpt35turbo, Engine.gpt35turbo1106, Engine.gpt4turbo]:
         logging.info(f"Querying OpenAI servers for: {llm_engine}")
         engine = langchain.chat_models.ChatOpenAI(model_name=llm_engine)
+    elif llm_engine.value.startswith("together-"):
+        name = llm_engine.value.split("-", 1)[1]
+        logging.info(f"Querying {name} on Together (via OpenAI API)")
+        engine = langchain.chat_models.ChatOpenAI(
+            model_name=name,
+            openai_api_key=os.environ.get("TOGETHER_API_KEY"),
+            openai_api_base="https://api.together.xyz/v1"
+        )
     else:
         logging.info(f"Assuming {llm_engine} is running locally")
         engine = langchain.chat_models.ChatOpenAI(

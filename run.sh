@@ -7,17 +7,21 @@ WORKERS=1
 
 COMPARISON_ENGINES_ARGS="
     --comparison-engine=together-mistralai/Mixtral-8x22B-Instruct-v0.1
-    --comparison-engine=together-meta-llama/Llama-3-8b-chat-hf
-    --comparison-engine=together-meta-llama/Llama-3-70b-chat-hf
+    --comparison-engine=together-meta-llama/Meta-Llama-3-8B-Instruct-Turbo
+    --comparison-engine=together-meta-llama/Meta-Llama-3-70B-Instruct-Turbo
     --comparison-engine=together-Qwen/Qwen1.5-4B-Chat
     --comparison-engine=together-Qwen/Qwen1.5-14B-Chat
     --comparison-engine=together-Qwen/Qwen1.5-72B-Chat
 "
+
 # TODO: Add more than these two engines
 DESCRIPTION_ENGINES_ARGS="
-    --description-engine='gpt-3.5-turbo'
-    --description-engine='gpt-4-1106-preview'
+    --description-engine=together-meta-llama/Meta-Llama-3-70B-Instruct-Turbo
+    --description-engine=gpt-3.5-turbo
+    --description-engine=gpt-4-1106-preview
 "
+
+#     --description-engine=together-meta-llama/Meta-Llama-3-8B-Instruct-Turbo
 
 # Generate jsons
 python scripts/generate_llm_descriptions.py \
@@ -34,8 +38,8 @@ poetry run python3 scripts/generate_and_compare_descriptions.py \
     --description-prompt-key=from_json_details \
     --min-description-generation-count=3  \
     --max-comparison-concurrent-workers=$WORKERS \
-    $COMPARISON_ENGINES_ARGS \
-    $DESCRIPTION_ENGINES_ARGS
+    ${COMPARISON_ENGINES_ARGS} \
+    ${DESCRIPTION_ENGINES_ARGS}
 
 
 # one generation model and one description model
