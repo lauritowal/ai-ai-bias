@@ -120,9 +120,6 @@ def generate_llm_descriptions_for_item_type(
                 tokens = encoding.encode(generation_prompt.prompt_text)
                 if llm_engine == Engine.gpt35turbo1106 and len(tokens) >= 16385:
                     print(f"Skip. prompt {generation_prompt.prompt_nickname} is too long for gpt35turbo1106")
-                elif llm_engine.value.startswith("together-"):
-                    name = llm_engine.value.split("-", 1)[1]
-                    logging.info(f"Querying {name} on Together (via OpenAI API)")
                 else:
                     llm_description_batch = generate_llm_descriptions(
                         generation_prompt=generation_prompt,
