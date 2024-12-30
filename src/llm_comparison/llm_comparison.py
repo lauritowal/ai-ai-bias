@@ -14,6 +14,8 @@ from query_for_json import query_for_json
 import openai
 from pydantic.dataclasses import Field, dataclass
 import interlab
+from interlab.lang_models import query_model
+
 
 import groq_model
 from llm_comparison.config import ComparisonPromptConfig
