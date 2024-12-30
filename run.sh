@@ -39,3 +39,9 @@ poetry run python3 scripts/generate_and_compare_descriptions.py \
     --max-comparison-concurrent-workers=$WORKERS \
     ${COMPARISON_ENGINES_ARGS} \
     ${DESCRIPTION_ENGINES_ARGS}
+
+
+# poetry run python3 scripts/generate_llm_descriptions.py \
+# #     --item-type=proposal \
+#     --prompt-nickname=from_json_details \
+#     --target-count=3
