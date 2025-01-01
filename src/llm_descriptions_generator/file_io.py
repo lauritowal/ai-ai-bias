@@ -132,6 +132,7 @@ def load_description_batch_from_json_file(
     logging.info(f"Loading descriptions from: {filepath}")
     with open(filepath) as f:
         data = json.load(f)
+        data.pop('__pydantic_initialised__', None)  # Remove the field if it exists
     origin = data.get("origin")
     if origin == Origin.LLM:
         return LlmGeneratedTextItemDescriptionBatch(**data)
