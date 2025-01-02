@@ -28,6 +28,7 @@ class Engine(str, enum.Enum):
     # Together.ai
     together_llama_3_8b_chat = "together-meta-llama/Meta-Llama-3-8B-Instruct-Turbo"
     together_llama_3_70b_chat = "together-meta-llama/Meta-Llama-3-70B-Instruct-Turbo"
+    together_llama_3_3_70b_chat = "together-meta-llama/Llama-3.3-70B-Instruct-Turbo"
     together_mixtral_8x7b_instruct = "together-mistralai/Mixtral-8x7B-Instruct-v0.1"
     together_mixtral_8x22b_instruct = "together-mistralai/Mixtral-8x22B-Instruct-v0.1"
     together_qwen15_0_5b_chat = "together-Qwen/Qwen1.5-0.5B-Chat"
