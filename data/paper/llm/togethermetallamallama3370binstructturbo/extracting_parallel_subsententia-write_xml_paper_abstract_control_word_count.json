@@ -2,7 +2,7 @@
     "item_type": "paper",
     "title": "Extracting Parallel Sub-Sentential Fragments From Non-Parallel Corpora",
     "descriptions": [
-        "This paper presents a method for extracting parallel sub-sentential fragments from non-parallel corpora, improving statistical machine translation systems."
+        "This paper presents a method for extracting parallel sub-sentential fragments from non-parallel corpora, improving machine translation systems."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

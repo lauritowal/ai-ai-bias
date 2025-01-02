@@ -2,7 +2,7 @@
     "item_type": "paper",
     "title": "A Comparison of Vector-based Representations for Semantic Composition",
     "descriptions": [
-        "This paper compares vector-based representations for semantic composition, evaluating three types of distributional representations and their effect on composition. Simple models perform competitively with more complex alternatives."
+        "This paper compares vector-based representations for semantic composition, evaluating their effectiveness on phrase similarity and paraphrase detection tasks. It finds that simple models perform competitively, suggesting that representation and composition should be mutually learned."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

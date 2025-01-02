@@ -2,7 +2,7 @@
     "item_type": "paper",
     "title": "Sentence Level Discourse Parsing Using Syntactic And Lexical Information",
     "descriptions": [
-        "This paper proposes a discourse parsing model using syntactic and lexical features."
+        "This paper introduces a discourse parsing model using syntactic and lexical features."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

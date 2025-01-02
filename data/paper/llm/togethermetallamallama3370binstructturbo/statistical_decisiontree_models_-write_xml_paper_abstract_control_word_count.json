@@ -2,7 +2,7 @@
     "item_type": "paper",
     "title": "Statistical Decision-Tree Models For Parsing",
     "descriptions": [
-        "This paper presents a statistical decision-tree model for parsing natural language sentences. The model, called SPATTER, uses decision trees to disambiguate parsing decisions and assigns probabilities to each possible choice. The parser is trained on a large corpus of parsed sentences and evaluated on its ability to accurately parse new sentences. Experimental results show that SPATTER outperforms a state-of-the-art grammar-based parser on a common task, demonstrating the effectiveness of statistical models for parsing."
+        "This paper presents a statistical approach to natural language parsing using decision-tree models. The parser, called SPATTER, learns to parse sentences by analyzing a large corpus of annotated data. It uses decision trees to model the probability of different parse trees and selects the most likely parse based on these probabilities. Experimental results show that SPATTER achieves high accuracy on two different domains, outperforming a rule-based parser on one of them. The paper demonstrates the effectiveness of statistical models in parsing and highlights the importance of incorporating contextual information into these models."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

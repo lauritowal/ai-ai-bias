@@ -2,7 +2,7 @@
     "item_type": "paper",
     "title": "Information Fusion In The Context Of Multi-Document Summarization",
     "descriptions": [
-        "Paper on multi-document summarization using information fusion."
+        "This paper presents a method for multi-document summarization."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

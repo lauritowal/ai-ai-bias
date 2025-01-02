@@ -1,5 +1,6 @@
 import hashlib
 import json
+import logging
 
 from llm_descriptions_generator.file_io import generate_descriptions_dirpath, generate_descriptions_filepath, load_description_batch_from_json_file
 from llm_descriptions_generator.schema import (
@@ -15,13 +16,13 @@ def create_text_item_generation_prompt_from_config(
     source_description_batch: TextItemDescriptionBatch,
 ) -> TextItemGenerationPrompt:
     prompt_text = f"{config.prompt_base_text}"
-    
     if config.match_human_original_length == True:
         if config.item_type == "paper":
             # Special handling: academic papers use original abstract for target count
             meta = getattr(source_description_batch, "meta", {})
             abstract = meta.get("abstract", None)
             target_word_count = len(abstract.split(" "))
+            logging.info(f"Using original abstract for target word count: {target_word_count}")
             
         elif config.item_type == "proposal":
             # Read in human file with same title and use the length of the description

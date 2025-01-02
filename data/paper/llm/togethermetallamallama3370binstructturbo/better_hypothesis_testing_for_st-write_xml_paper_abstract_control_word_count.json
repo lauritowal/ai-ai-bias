@@ -2,7 +2,7 @@
     "item_type": "paper",
     "title": "Better Hypothesis Testing for Statistical Machine Translation: Controlling for Optimizer Instability",
     "descriptions": [
-        "This paper improves statistical hypothesis testing for machine translation by controlling optimizer instability, ensuring more reliable results."
+        "This paper addresses optimizer instability in statistical machine translation, proposing methods to control for its effects on hypothesis testing and experimental results."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",
