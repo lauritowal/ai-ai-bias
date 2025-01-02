@@ -2,12 +2,7 @@
     "item_type": "paper",
     "title": "The Grammar Matrix: An Open-Source Starter-Kit For The Rapid Development Of Cross-Linguistically Consistent Broad-Coverage Precision Grammars",
     "descriptions": [
-        "The Grammar Matrix is an open-source starter kit for developing broad-coverage grammars.",
-        "This paper introduces the Grammar Matrix, a starter kit for developing cross-linguistically consistent broad-coverage grammars.",
-        "Developers introduce the Grammar Matrix, a starter-kit for creating broad-coverage precision grammars.",
-        "The Grammar Matrix is an open-source starter kit for rapid development of cross-linguistically consistent grammars.",
-        "The Grammar Matrix is an open-source starter kit for developing cross-linguistically consistent grammars.",
-        "This paper introduces the Grammar Matrix, a starter-kit for developing cross-linguistically consistent grammars."
+        "The Grammar Matrix is an open-source starter kit for developing cross-linguistically consistent broad-coverage grammars."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

@@ -2,12 +2,7 @@
     "item_type": "paper",
     "title": "Unsupervised Multilingual Learning for Morphological Segmentation",
     "descriptions": [
-        "This paper proposes a model for unsupervised multilingual learning of morphological segmentation, leveraging cross-lingual patterns to improve analysis. Results show that bilingual models outperform monolingual counterparts, with related languages providing the most benefit when phonetic correspondences are modeled.",
-        "This paper proposes a model for unsupervised multilingual morphological segmentation, using cross-lingual patterns to improve analysis. Results show that bilingual models outperform monolingual counterparts, with related language pairs benefiting most when phonetic correspondences are modeled.",
-        "This paper proposes a multilingual model for unsupervised morphological segmentation, exploiting cross-lingual patterns to improve analysis. Results show significant improvement over monolingual models, with related language pairs benefiting most when phonetic correspondences are modeled.",
-        "This paper proposes a model for unsupervised multilingual morphological segmentation, using a hierarchical Bayesian approach to jointly segment and align morphemes across languages, improving segmentation accuracy by up to 24%.",
-        "This paper proposes a model for unsupervised multilingual learning of morphological segmentation, leveraging cross-lingual patterns to improve analysis. Results show that bilingual models outperform monolingual counterparts, with related language pairs benefiting most when phonetic correspondences are modeled.",
-        "This paper proposes a model for unsupervised multilingual morphological segmentation, leveraging cross-lingual patterns to improve analysis. Results show that bilingual models outperform monolingual counterparts, with related languages providing the most benefit when phonetic correspondences are modeled."
+        "This paper proposes a model for unsupervised multilingual morphological segmentation, exploiting cross-lingual patterns to improve analysis. Results show gains for language pairs, with related languages providing the most benefit when common structures are modeled."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

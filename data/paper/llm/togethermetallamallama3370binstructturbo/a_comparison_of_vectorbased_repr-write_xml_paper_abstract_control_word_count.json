@@ -2,12 +2,7 @@
     "item_type": "paper",
     "title": "A Comparison of Vector-based Representations for Semantic Composition",
     "descriptions": [
-        "This paper compares vector-based representations for semantic composition, evaluating three distributional representation types and their effects on composition. Simple models perform competitively with more complex ones on phrase similarity and paraphrase detection tasks.",
-        "This paper compares vector-based representations for semantic composition, evaluating three representation types and composition methods on phrase similarity and paraphrase detection tasks. Results show simple models perform competitively.",
-        "This paper compares vector-based representations for semantic composition, evaluating simple and complex models on phrase similarity and paraphrase detection tasks. Results show that simple models perform competitively, suggesting that representation and composition should be mutually learned.",
-        "This paper compares vector-based representations for semantic composition, evaluating three representations and three composition methods on phrase similarity and paraphrase detection tasks.",
-        "This paper compares vector-based representations for semantic composition, evaluating three distributional representations and three composition methods on phrase similarity and paraphrase detection tasks. Results show that simple models perform well, with syntax-oblivious composition models superior on phrase similarity tasks.",
-        "This paper compares vector-based representations for semantic composition, evaluating simple and complex models on phrase similarity and paraphrase detection tasks. Results show that simple models perform competitively, suggesting that representation and composition should be mutually learned."
+        "This paper compares vector-based representations for semantic composition, evaluating three types of distributional representations and their effect on composition. Simple models perform competitively with more complex alternatives."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",

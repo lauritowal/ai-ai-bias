@@ -2,11 +2,6 @@
     "item_type": "paper",
     "title": "Better Hypothesis Testing for Statistical Machine Translation: Controlling for Optimizer Instability",
     "descriptions": [
-        "This paper improves statistical hypothesis testing for machine translation by controlling optimizer instability, ensuring more reliable results with few replications.",
-        "This paper improves statistical hypothesis testing for machine translation by controlling optimizer instability, ensuring more reliable results with few replications.",
-        "This paper addresses optimizer instability in statistical machine translation, proposing methods to control its effects and ensure reliable hypothesis testing results.",
-        "This paper addresses optimizer instability in statistical machine translation, proposing methods to control for its effects and ensure reliable hypothesis testing results.",
-        "This paper addresses optimizer instability in statistical machine translation, proposing methods to control for its effects on hypothesis testing and experimental results.",
         "This paper improves statistical hypothesis testing for machine translation by controlling optimizer instability, ensuring more reliable results."
     ],
     "origin": "LLM",

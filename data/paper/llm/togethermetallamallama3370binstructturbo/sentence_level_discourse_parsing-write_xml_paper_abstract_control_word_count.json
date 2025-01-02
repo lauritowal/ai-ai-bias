@@ -2,12 +2,7 @@
     "item_type": "paper",
     "title": "Sentence Level Discourse Parsing Using Syntactic And Lexical Information",
     "descriptions": [
-        "This paper introduces a discourse parsing model using syntactic and lexical features.",
-        "This paper introduces a discourse parsing model using syntactic and lexical features.",
-        "This paper proposes a discourse parsing model using syntactic and lexical features, achieving near-human performance on sentence-level discourse structure derivation.",
-        "This paper proposes a probabilistic model for sentence-level discourse parsing using syntactic and lexical information, achieving near-human performance on discourse structure derivation.",
-        "This paper proposes a probabilistic model for sentence-level discourse parsing, leveraging syntactic and lexical information to achieve near-human performance.",
-        "This paper introduces a discourse parsing model using syntactic and lexical features."
+        "This paper proposes a discourse parsing model using syntactic and lexical features."
     ],
     "origin": "LLM",
     "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",
