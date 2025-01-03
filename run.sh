@@ -22,13 +22,7 @@
 # require at least one parameter
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <MODELS>"
-    echo "MODELS: groq-llama3-8b-8192 groq-mixtral-8x7b-32768 groq-llama3-70b-8192"
-    echo "        together-meta-llama/Llama-3-8b-chat-hf together-meta-llama/Llama-3-70b-chat-hf together-mistralai/Mixtral-8x22B-Instruct-v0.1"
-    echo "        together-mistralai/Mixtral-8x7B-Instruct-v0.1 together-Qwen/Qwen1.5-0.5B-Chat together-google/gemma-2b-it"
-    echo "        together-meta-llama/Llama-2-13b-chat-hf together-microsoft/phi-2"
-    echo "        together-meta-llama/Llama-3-8b-chat-hf together-meta-llama/Llama-3-70b-chat-hf"
-    echo "        gpt-4-1106-preview gpt-3.5-turbo-1106 gpt-3.5-turbo"
-    echo "        ... and others (see schema.py)"
+    echo "MODELS: (see schema.py)"
     exit 1
 fi
 
@@ -53,7 +47,7 @@ for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything
             --description-prompt-key=write_xml_paper_abstract_control_word_count \
             --description-engine='gpt-3.5-turbo-1106' \
             --description-engine='gpt-4-1106-preview' \
-            --description-engine='together-meta-llama/Llama-3.3-70B-Instruct-Turbo' \
+            --description-engine='together-Qwen/Qwen2.5-72B-Instruct-Turbo' \
             --max-comparison-concurrent-workers="$WORKERS" \
             --redo-invalid-results \
             --min-description-generation-count=1
@@ -66,7 +60,7 @@ for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything
         #     --description-prompt-key=from_json_product_listing \
         #     --description-engine='gpt-3.5-turbo' \
         #     --description-engine='gpt-4-1106-preview' \
-        #     --description-engine='together-meta-llama/Llama-3.3-70B-Instruct-Turbo' \
+        #     --description-engine='together-Qwen/Qwen2.5-72B-Instruct-Turbo' \
         #     --max-comparison-concurrent-workers="$WORKERS" \
         #     --redo-invalid-results \
         #     --min-description-generation-count=4
@@ -79,7 +73,7 @@ for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything
         #     --min-description-generation-count=1  \
         #     --description-engine='gpt-3.5-turbo' \
         #     --description-engine='gpt-4-1106-preview' \
-        #     --description-engine='together-meta-llama/Llama-3.3-70B-Instruct-Turbo' \
+        #     --description-engine='together-Qwen/Qwen2.5-72B-Instruct-Turbo' \
         #     --max-comparison-concurrent-workers="$WORKERS" \
         #     --redo-invalid-results \
         #     --min-description-generation-count=4
