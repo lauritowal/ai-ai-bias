@@ -157,8 +157,8 @@ def query_for_json(
                 d = pdT(**d)
                 # Convert back to match expected type (nested types are ok)
                 # check if T has from.attributed method
-                
                 # TODO: make this whole function a custom function outside of interlab
+                d = d.dict(exclude={'_pydantic_initialised_'})
                 if hasattr(T, "from_attributed"):
                     # This should be handled somewhere else...
                     d = T.from_attributed(d)
