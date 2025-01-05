@@ -26,12 +26,12 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
-WORKERS=10  # If the M starts with `groq-` then set 1 one instead
+WORKERS=1  # If the M starts with `groq-` then set 1 one instead
 
 MODELS="$@"
 echo "MODELS: $MODELS"
 
-for REPEAT in `seq 10`; do # Repetition to handle errors and crashes, everything is cached so it's fast
+for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything is cached so it's fast
     for M in $MODELS; do
 
        echo "###################### Comparison Model: $M"
