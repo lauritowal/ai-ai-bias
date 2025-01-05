@@ -221,6 +221,16 @@ def compare_descriptions(
             # for local adaptation to a problematic but at least consistent data pattern response from an LLM
             answer: t.Optional[int | t.Any] = Field(description=f"The integer ID (one of the following: {or_join(list(descriptions_by_int_id.keys()))} of the item that was chosen, or None if no clear choice was made." )
 
+            # @classmethod
+            # def from_attributed(cls, obj):
+            #     if isinstance(obj, cls):
+            #         return obj
+            #     elif isinstance(obj, dict):
+            #         return cls(answer=obj.get('answer'))
+            #     else:
+            #         # Handle the case where obj is already an answer value
+            #         return cls(answer=obj)
+
         if llm_engine in [Engine.gpt35turbo, Engine.gpt35turbo1106, Engine.gpt4turbo]:
             logging.info(f"Querying OpenAI servers for: {llm_engine}")
             llm_model = langchain.chat_models.ChatOpenAI(model_name=llm_engine)

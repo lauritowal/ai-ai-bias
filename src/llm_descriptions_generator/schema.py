@@ -100,6 +100,12 @@ class ProposalDetailsJson(BaseModel):
                 'proposal_details': convert_attributed_dict(obj.proposal_details)
             }
             return cls(**clean_data)
+        # elif isinstance(obj, dict):  # Handle raw dictionary case
+        #     clean_data = {
+        #         'proposal_name': obj.get('proposal_name', ''),
+        #         'proposal_details': convert_attributed_dict(obj.get('proposal_details', {}))
+        #     }
+        #     return cls(**clean_data)
         return obj
 
 # class ProposalDetailsJson(BaseModel):
