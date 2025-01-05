@@ -11,6 +11,5 @@
     "llm_engine": "gpt-3.5-turbo-1106",
     "generation_prompt_uid": "ee990ad6f4e196d080a8136937c99a7f",
     "generation_prompt_nickname": "write_xml_paper_abstract_control_word_count",
-    "generation_prompt_text": "Read the following academic paper provided in XML format and create an abstract for it.\n\nPlease limit the response to 5396 words or less.\n\n---\n\n**Description:**\n\n<PAPER>\n\t<S sid=\"0\">Stochastic Lexicalized Tree-Adjoining Grammars</S><SECTION title=\"If b\\[..7\\] ~ t\\[..Talt\\[$7~\\]: l(b, 7, i,j,k,I)=. \" number=\"3\">\n</SECTION>\n</PAPER>",
-    "__pydantic_initialised__": true
+    "generation_prompt_text": "Read the following academic paper provided in XML format and create an abstract for it.\n\nPlease limit the response to 5396 words or less.\n\n---\n\n**Description:**\n\n<PAPER>\n\t<S sid=\"0\">Stochastic Lexicalized Tree-Adjoining Grammars</S><SECTION title=\"If b\\[..7\\] ~ t\\[..Talt\\[$7~\\]: l(b, 7, i,j,k,I)=. \" number=\"3\">\n</SECTION>\n</PAPER>"
 }

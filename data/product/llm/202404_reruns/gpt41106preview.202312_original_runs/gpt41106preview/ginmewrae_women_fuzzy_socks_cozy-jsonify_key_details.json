@@ -47,6 +47,5 @@
     "llm_engine": "gpt-4-1106-preview",
     "generation_prompt_uid": "984239748c9d8a8556bb68115fdb8882",
     "generation_prompt_nickname": "jsonify_key_details",
-    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks Sleeping Warm Socks Christmas Gift for Girls\n\nDescription: fuzzy socks",
-    "__pydantic_initialised__": true
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks Sleeping Warm Socks Christmas Gift for Girls\n\nDescription: fuzzy socks"
 }

@@ -72,6 +72,5 @@
     "llm_engine": "gpt-4-1106-preview",
     "generation_prompt_uid": "8f8247de02006ea167f2507e6c51527a",
     "generation_prompt_nickname": "jsonify_key_details",
-    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Jack Henry Cleanse+ Hair Shampoo | All Hair Types - Premium, Natural, Organic - Made in USA - 10 Ounces\n\nDescription: Purifies and balances your hair and scalp\n\nLeaves your hair softer, fuller, and cleaner\n\nDoesn't strip or dry\n\nFree from harmful chemicals and preservatives\n\nFor all hair types and everyday use.",
-    "__pydantic_initialised__": true
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Jack Henry Cleanse+ Hair Shampoo | All Hair Types - Premium, Natural, Organic - Made in USA - 10 Ounces\n\nDescription: Purifies and balances your hair and scalp\n\nLeaves your hair softer, fuller, and cleaner\n\nDoesn't strip or dry\n\nFree from harmful chemicals and preservatives\n\nFor all hair types and everyday use."
 }
