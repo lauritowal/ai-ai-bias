@@ -1,4 +1,5 @@
-!/bin/bash
+#!/bin/bash
+
 
 WORKERS=1  # If the M starts with `groq-` then set 1 one instead
 
@@ -7,15 +8,14 @@ echo "COMPARISON_MODELS: $COMPARISON_MODELS"echo "MODELS: $MODELS"
 
 for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything is cached so it's fast
     for M in $COMPARISON_MODELS; do
-
-       echo "###################### Comparison Model: $M"
-
-        poetry run python scripts/generate_and_compare_descriptions.py \
-            --item-type=product \
-            --comparison-prompt-key=marketplace_recommendation_force_decision \
+        echo "###################### Comparison Model: $M"
+        
+        poetry run python3 scripts/generate_and_compare_descriptions.py \
+            --item-type=proposal \
             --comparison-engine="$M" \
+            --comparison-prompt-key=proposal_pick_one \
             --description-prompt-key=from_json_details \
-            --description-prompt-key=from_json_product_listing \
+            --min-description-generation-count=1  \
             --description-engine='together-mistralai/Mixtral-8x22B-Instruct-v0.1' \
             --description-engine='together-Qwen/Qwen2.5-7B-Instruct-Turbo' \
             --description-engine='together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo' \
