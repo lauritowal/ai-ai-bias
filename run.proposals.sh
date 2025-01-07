@@ -28,8 +28,11 @@ for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything 
             --description-engine='together-mistralai/Mixtral-8x22B-Instruct-v0.1' \
             --description-engine='together-Qwen/Qwen2.5-7B-Instruct-Turbo' \
             --description-engine='together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo' \
+            --description-engine='together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo' \
             --max-comparison-concurrent-workers="$WORKERS" \
             --redo-invalid-results \
             --min-description-generation-count=1
     done
 done
+
+# --description-engine='together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo' \
