@@ -28,11 +28,14 @@ class Engine(str, enum.Enum):
     # Together.ai
 
     ## New Models
-    together_llama_3_1_8b_chat = "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo"
     together_llama_3_1_70b_chat = "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo"
     together_mixtral_8x22b_instruct = "together-mistralai/Mixtral-8x22B-Instruct-v0.1"
-    together_qwen25_7b_chat = "together-Qwen/Qwen2.5-7B-Chat"
     together_qwen25_72b_chat = "together-Qwen/Qwen2.5-72B-Instruct-Turbo"
+    gpt3_5 = "gpt-3.5-turbo"
+    gpt4 = "gpt-4-1106-preview"
+    together_llama_3_1_8b_chat = "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo"
+    together_qwen25_7b_instruct = "together-Qwen/Qwen2.5-7B-Instruct-Turbo"
+
 
     # Older Models
     together_mixtral_8x7b_instruct = "together-mistralai/Mixtral-8x7B-Instruct-v0.1"

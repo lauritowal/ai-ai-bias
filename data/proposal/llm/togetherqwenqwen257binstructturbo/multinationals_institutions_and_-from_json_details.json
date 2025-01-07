@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Multinationals, Institutions and Innovation in Europe",
+    "descriptions": [
+        "**Abstract:**\n\nThis grant proposal seeks funding to explore the strategic location decisions of multinational enterprises (MNEs) and their implications on European territories. The project, titled \"Multinationals, Institutions and Innovation in Europe,\" aims to investigate how MNEs contribute to Europe's economic landscape, with a focus on their value addition of $16 trillion, which represents more than a quarter of the world's GDP. Drawing on the significant FDI outflows from developing economies amounting to $426 billion in 2012, constituting 31% of global outflows compared to 16% in 2007, the research will address critical gaps in existing literature. By analyzing the location strategies of MNEs and their territorial impacts, the project will provide valuable policy-making tools. This initiative is crucial for understanding and leveraging the benefits of MNEs' strategic decisions for sustainable economic development in Europe."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "4029cf6d398da6a3f35e69b64509cdca",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 264 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Multinationals, Institutions and Innovation in Europe', 'proposal_details': {'multinational_enterprises_value_added': 'US$16 trillion', 'multinational_enterprises_world_GDP_percentage': 'more than a quarter', 'FDI_outflows_from_developing_economies_2012': '$426 billion', 'global_outflows_percentage_2012': '31%', 'global_outflows_percentage_2007': '16%', 'descriptions': ['Investigation of the location strategies of MNEs and their territorial impacts, addressing gaps in literature and providing policy-making tools.']}}"
+}
