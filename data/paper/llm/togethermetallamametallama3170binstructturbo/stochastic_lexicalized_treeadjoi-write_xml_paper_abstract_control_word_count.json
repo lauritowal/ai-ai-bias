@@ -1,0 +1,12 @@
+{
+    "item_type": "paper",
+    "title": "Stochastic Lexicalized Tree-Adjoining Grammars",
+    "descriptions": [
+        "Given the limited information provided, I'll attempt to create an abstract for the academic paper based on the available content. \n\nTitle: Stochastic Lexicalized Tree-Adjoining Grammars\n\nAbstract:\nThis paper explores the concept of Stochastic Lexicalized Tree-Adjoining Grammars, a formalism that combines the strengths of lexicalized tree-adjoining grammars with stochastic modeling. The research delves into the intricacies of parsing and lexicalization in the context of tree-adjoining grammars, with a focus on developing a stochastic framework for this purpose. Although the provided content is limited, it suggests that the paper may discuss the implementation and application of this framework, potentially touching on aspects such as parsing algorithms, probability models, and semantic interpretation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "ee990ad6f4e196d080a8136937c99a7f",
+    "generation_prompt_nickname": "write_xml_paper_abstract_control_word_count",
+    "generation_prompt_text": "Read the following academic paper provided in XML format and create an abstract for it.\n\nPlease limit the response to 5396 words or less.\n\n---\n\n**Description:**\n\n<PAPER>\n\t<S sid=\"0\">Stochastic Lexicalized Tree-Adjoining Grammars</S><SECTION title=\"If b\\[..7\\] ~ t\\[..Talt\\[$7~\\]: l(b, 7, i,j,k,I)=. \" number=\"3\">\n</SECTION>\n</PAPER>"
+}
