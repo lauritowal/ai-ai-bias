@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Merry Old Soul",
+    "descriptions": [
+        "\"The Merry Old Soul\" is a 1933 animated short film that embodies the whimsical and comedic tone often found in cartoons of the early 1930s. The film, produced during the golden age of animation, likely revolves around a jovial and elderly protagonist, who is referred to as the \"Merry Old Soul.\"\n\nThe plot may center on the daily life of this cheerful character, who could be a king, a wise man, or simply an old man with a youthful spirit. His kingdom or community is probably a fantastical place filled with colorful characters and anthropomorphic animals, which was a common trope in animations of the time.\n\nAs the Merry Old Soul goes about his day, he could encounter various humorous situations that test his optimism and wit. The film might include slapstick comedy and visual gags, as well as musical elements, since many cartoons during this era featured characters spontaneously breaking into song.\n\nThe conflict in the story could arise from a comical villain or a mischievous creature causing trouble for the townsfolk, leading the Merry Old Soul to take action in his own quirky way. Despite any challenges, the protagonist would remain good-natured and use his wisdom and humor to resolve any issues, often with the help of his friends or subjects.\n\nThe climax of the film would likely showcase a grand, funny resolution that brings the community together and reaffirms the Merry Old Soul's status as a beloved figure. The story would conclude with everyone celebrating, perhaps in a grand musical number, emphasizing the joy and merriment that the central character brings to all.\n\nThough \"The Merry Old Soul\" is a fictional title for the purposes of this exercise, its plot would be expected to encapsulate the charm and levity of 1930s animation, delivering a tale of laughter and timeless amusement to its audience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a8243cc5afd5a2cdfaffd22052e03653",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 299.0 words or less.\n\n---\n\n**Title:**\n\nThe Merry Old Soul\n\n**Year:**\n\n1933",
+    "include_year": false
+}

@@ -138,6 +138,9 @@ def main():
         if word_count < 200:
             continue
 
+        # prepend title and year to plottext
+        plot_text = f"Title: {title} ({year})\n\n{plot_text}"
+
         # If we have a max limit, stop once reached
         if max_movies is not None and count >= max_movies:
             break

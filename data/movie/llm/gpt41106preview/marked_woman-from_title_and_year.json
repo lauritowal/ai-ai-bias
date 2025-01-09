@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Marked Woman",
+    "descriptions": [
+        "In the gritty underworld of 1937, \"Marked Woman\" tells the story of Mary Dwight Strauber (Bette Davis), a hostess at a nightclub that's essentially a front for a prostitution ring run by the powerful and unscrupulous gangster Johnny Vanning (Eduardo Ciannelli). Mary and her fellow hostesses are coerced into entertaining wealthy men, finding themselves trapped in a life of exploitation and danger.\n\nWhen Mary's innocent younger sister Betty (Jane Bryan) comes for a visit, Mary tries to shield her from the harsh realities of her job. However, Betty becomes entangled in the criminal activities and is murdered by Vanning's henchmen when she threatens to go to the authorities. Devastated by her sister's death, Mary decides to take a stand against Vanning.\n\nWith the help of an honest and determined district attorney, David Graham (Humphrey Bogart), Mary and the other women gather the courage to testify against Vanning. Despite the threats and intimidation from the mob, Mary's testimony is pivotal in securing Vanning's conviction.\n\n\"Marked Woman\" is a crime drama that showcases the plight of women in the criminal underworld and their fight for justice. It is a story of redemption, courage, and the struggle to break free from the chains of organized crime."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "055a1d7c3bd762b867f5f764a86dab9a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937",
+    "include_year": false
+}

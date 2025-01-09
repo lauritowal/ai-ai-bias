@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trial by Jury",
+    "descriptions": [
+        "\"Trial by Jury\" (1994) is a legal thriller directed by Heywood Gould. The plot follows Valerie Alston (played by Joanne Whalley), a single mother who is unwittingly selected to serve as a juror in the trial of mob boss Rusty Pirone (played by Armand Assante). Pirone is notorious for his ability to manipulate the system and has a history of intimidating jurors to secure acquittals.\n\nAs the trial progresses, Valerie is approached by one of Pirone's henchmen, who makes it clear that her life and the life of her young son are at risk unless she convinces the other jurors to return a verdict of not guilty. Faced with this terrifying predicament, Valerie must navigate the dangerous waters of the criminal underworld while maintaining her facade as an impartial juror.\n\nCaught between the relentless pressure from the mob and the ethical demands of her civic duty, Valerie becomes involved with a police officer, Tommy Vesey (played by William Hurt), who is determined to bring Pirone to justice. As the trial reaches its climax, Valerie must use her wits to protect herself and her son, outsmart the mob, and ensure justice is served without compromising her own integrity. The film explores themes of justice, corruption, and the personal cost of standing up to intimidation within the legal system."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9cc2fa39e3b1f778da835d9985f8ab75",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994",
+    "include_year": false
+}

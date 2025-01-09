@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Funny About Love",
+    "descriptions": [
+        "\"Funny About Love\" is a 1990 romantic comedy directed by Leonard Nimoy and stars Gene Wilder as Duffy Bergman, a successful cartoonist who has become ambivalent about the idea of marriage. Despite this, he falls for Meg Lloyd Bergman, played by Christine Lahti, a gourmet chef who is equally uncertain about the institution of wedlock. They meet at a culinary event where Duffy is speaking, and despite their initial hesitance, they embark on a relationship.\n\nThe couple eventually marries, but they soon discover that their views on having children are quite different. Duffy is eager to become a father, but they struggle with infertility. This leads to a series of comedic and touching attempts at conception, including fertility treatments and adoption attempts, which put a strain on their marriage.\n\nAs the couple navigates the ups and downs of their relationship, they also encounter other romantic interests. Meg meets a younger man who shares her reluctance to have children, while Duffy has an encounter with a college student, played by Mary Stuart Masterson, who ends up pregnant after a brief affair with him.\n\nThe film explores themes of love, marriage, and parenthood, as Duffy and Meg must reconcile their desires and dreams with the realities of their relationship. \"Funny About Love\" highlights the often-unpredictable nature of relationships and the ways in which love can evolve and change over time. It's a story that mixes humor with the emotional complexities of trying to balance personal aspirations with the compromises that come with a committed partnership."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ea05ec1ad63dbae0612e954bfcef03d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nFunny About Love\n\n**Year:**\n\n1990",
+    "include_year": false
+}

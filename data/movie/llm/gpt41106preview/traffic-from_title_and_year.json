@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Traffic",
+    "descriptions": [
+        "I'm sorry, but there seems to be a mix-up. The movie \"Traffic\" is a well-known film directed by Steven Soderbergh, but it was released in the year 2000, not 2011. There is no widely recognized movie titled \"Traffic\" from 2011. The 2000 film \"Traffic\" is a crime drama that explores the complex world of drug trafficking from multiple perspectives: a conservative judge appointed as the US drug czar, two DEA agents, a drug lord's wife, and a police officer in Mexico.\n\nCould you please confirm if you're referring to the 2000 film \"Traffic\" or if you are inquiring about a different movie or possibly a lesser-known film from 2011? If it's the latter, additional context or details would be needed to provide a summary, as there might not be enough information available to create an accurate synopsis."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "97715b165bc53cecbd7a4aa3fcaa268b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 401.0 words or less.\n\n---\n\n**Title:**\n\nTraffic\n\n**Year:**\n\n2011",
+    "include_year": false
+}

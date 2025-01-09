@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Andaru Dongale Dorikithe",
+    "descriptions": [
+        "2004\n\n---\n\n**Plot Summary:**\n\n\"Andaru Dongale Dorikithe\" is a 2004 Telugu comedy-drama film that revolves around a series of comical events when a group of individuals with different motives end up crossing paths. The movie features an ensemble cast and is known for its humorous narrative and chaotic situations.\n\nThe story kicks off with a bank robbery orchestrated by a cunning thief. However, things take a hilarious turn when the stolen money ends up in the hands of a middle-class man who is struggling to make ends meet. Unaware of the origins of the cash, he sees it as a blessing and starts to use it for his family's welfare.\n\nMeanwhile, the original thief is on the hunt to retrieve his loot, but he's not the only one after the money. A corrupt police officer also learns about the lost cash and aims to claim it for himself. Additionally, a local gangster who was double-crossed during the heist seeks revenge and his share of the money.\n\nWhat follows is a wild chase involving mistaken identities, slapstick comedy, and a series of misunderstandings. The characters' paths intertwine in unexpected ways, leading to a climax where they are all forced to confront the chaos they've created.\n\nThe movie uses humor to comment on greed, chance, and the lengths to which desperate people will go to improve their circumstances. \"Andaru Dongale Dorikithe\" is a rollercoaster of laughter and suspense, showcasing the classic trope of ordinary people unwittingly getting entangled in a criminal world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9f7e1b1e1d613b6f29c6e00e964c38b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nAndaru Dongale Dorikithe\n\n**Year:**\n\n",
+    "include_year": false
+}

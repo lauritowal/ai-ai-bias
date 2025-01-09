@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Me and Orson Welles",
+    "descriptions": [
+        "\"Me and Orson Welles\" is a 2009 drama film directed by Richard Linklater. Set in 1937, the film follows the story of a teenage high school student named Richard Samuels (played by Zac Efron), who dreams of making it big in the world of theater. By chance, Richard stumbles upon the legendary actor and director Orson Welles (played by Christian McKay) outside the Mercury Theatre in New York City.\n\nWelles, known for his brilliant and often tyrannical genius, is in the process of staging a groundbreaking modern-dress production of Shakespeare's \"Julius Caesar\" with his Mercury Theatre company. Impressed by Richard's enthusiasm and a bit of serendipity, Welles offers him a minor role in the play. Overwhelmed with excitement, Richard quickly accepts, seeing it as his big break into the acting world.\n\nThroughout the film, Richard navigates the chaotic and creative world of the theater, encountering the diverse and eccentric personalities that make up Welles' troupe. He becomes romantically involved with an ambitious production assistant named Sonja Jones (played by Claire Danes), who is also striving to advance her career in the arts. Richard's experiences expose him to the complexities of love, art, and the harsh realities of show business.\n\nMe and Orson Welles is a coming-of-age story that captures the magic of theater and the transformative experience of working under a creative visionary like Orson Welles. Richard's journey through the high-stakes environment of professional theater provides a captivating glimpse into the life and character of one of the most influential figures in the history of cinema and drama."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nMe and Orson Welles\n\n**Year:**\n\n2009",
+    "include_year": false
+}

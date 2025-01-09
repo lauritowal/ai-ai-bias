@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Critters 2: The Main Course",
+    "descriptions": [
+        "\"Critters 2: The Main Course\" is a 1988 science fiction horror comedy and the second film in the \"Critters\" franchise. The movie picks up two years after the events of the first film, once again centering on the small town of Grover's Bend. The plot revolves around the return of the carnivorous alien creatures known as \"Crites\" that resemble small, furry balls with sharp teeth and an insatiable appetite for flesh.\n\nThe story begins when a batch of Critter eggs, disguised as Easter eggs, are unwittingly brought to Grover's Bend. When the eggs hatch, the town is once again thrown into chaos by the marauding creatures. The protagonist of the first film, Brad Brown (played by Scott Grimes), returns to Grover's Bend during his Easter break from college, only to find himself in the middle of the Critter infestation once more.\n\nAlongside Brad, the loveable and bumbling alien bounty hunters Ug and Lee return to Earth to exterminate the Critter menace once and for all. They are joined by Charlie (played by Don Opper), who has become an official bounty hunter since the first film. Together, they team up with the local townspeople, including the feisty newspaper reporter Megan Morgan (played by Liane Curtis), to fight back against the Critters.\n\nAs the Critters wreak havoc, devouring everything in their path and multiplying in number, the group must find a way to stop the creatures before they overrun the town. The film combines elements of horror with comedic undertones, featuring numerous action-packed sequences, special effects showcasing the Critters' mayhem, and a final showdown that will determine the fate of Grover's Bend.\n\n\"Critters 2: The Main Course\" is directed by Mick Garris and offers a blend of laughter and scares, catering to fans of the horror-comedy genre with its campy and light-hearted approach to the alien invasion narrative."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "45f0f2adff61eaeb90ca9b7c56539912",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 314.0 words or less.\n\n---\n\n**Title:**\n\nCritters 2: The Main Course\n\n**Year:**\n\n1988",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mice Follies",
+    "descriptions": [
+        "\"Mice Follies\" is an animated short film released in 1954 as part of the Looney Tunes series by Warner Bros. The film features the iconic characters, Tom the cat and Jerry the mouse, in a humorous and whimsical story.\n\nIn \"Mice Follies,\" Jerry and his little mouse friend Nibbles decide to turn the kitchen into their own personal winter wonderland after Tom falls asleep. They start by leaving the freezer door open, causing the entire kitchen to become coated in a layer of ice. The mice don ice skates and begin a series of playful ice-dancing routines, complete with intricate choreography and comedic antics, much to the oblivious Tom's chagrin.\n\nThe fun escalates as the mice construct a miniature winter village and engage in winter sports. However, their frosty fun is threatened when Tom awakens and discovers the icy transformation of his domain. A chase ensues, with Tom slipping and sliding on the ice as he tries to catch the nimble mice. The clever Jerry and Nibbles use their newfound icy playground to their advantage, leading to a series of slapstick situations that showcase their wit and agility.\n\n\"Mice Follies\" is a classic example of the comedic battles between Tom and Jerry, filled with playful animation, physical comedy, and a light-hearted spirit that has entertained audiences for generations."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6a1ba1350a9fdb91bf811c6abe13b795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMice Follies\n\n**Year:**\n\n1954",
+    "include_year": false
+}

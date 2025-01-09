@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Roots: The Gift",
+    "descriptions": [
+        "1988\n\n---\n\n**Plot Summary:**\n\n\"Roots: The Gift\" is a television movie that serves as a holiday-themed continuation of the \"Roots\" saga, which is based on Alex Haley's novel detailing the history of an African American family. The film is set during the Christmas period in the late 18th century and focuses on two of the original miniseries characters, George \"Chicken George\" Moore and Kunta Kinte, as they still toil under slavery in the United States.\n\nIn this story, set a few years before the American Civil War, George and Kunta are temporarily moved to another plantation, where they meet fellow slave, a young boy named Thomas. Thomas has a gift for learning and reading, and Kunta takes it upon himself to educate the boy in secret, despite the great risk this poses to all of them. As the holiday season progresses, the trio becomes involved in a daring plan to transport several slaves to freedom via the Underground Railroad, a network of secret routes and safe houses helping slaves escape to free states and Canada.\n\nThe themes of the film revolve around the significance of knowledge, the spirit of giving, and the resilience of the human spirit in the face of oppression. \"Roots: The Gift\" emphasizes the bonds of community and the strength that comes from hope and determination to fight for freedom and human dignity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d82e0dd9780746987a76ff05d44b0586",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n",
+    "include_year": false
+}

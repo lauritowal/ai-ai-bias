@@ -51,11 +51,16 @@ def create_text_item_generation_prompt_from_config(
     if config.include_title:
         prompt_text += f"\n\n**Title:**\n\n{source_description_batch.title}"
     
+    if config.item_type == "movie":
+        year = getattr(source_description_batch, "year", None)
+        prompt_text += f"\n\n**Year:**\n\n{year}"
+
     if config.include_descriptions:
         if not source_description_batch.descriptions:
             raise Exception(f"No descriptions found in source file for description generation prompt: {(config, source_description_batch)}")
         for description in source_description_batch.descriptions:
             prompt_text += f"\n\n**Description:**\n\n{description}"
+            
     
     return TextItemGenerationPrompt(
         item_type=config.item_type,

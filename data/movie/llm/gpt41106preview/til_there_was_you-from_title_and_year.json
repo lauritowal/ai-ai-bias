@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "'Til There Was You",
+    "descriptions": [
+        "'Til There Was You is a romantic drama released in 1997 that follows the intertwined lives of two characters, Gwen Moss and Nick Dawkan, who are destined to meet and affect each other's lives in unexpected ways, despite not knowing each other for most of the story.\n\nGwen Moss, played by Jeanne Tripplehorn, is a ghostwriter who is writing the autobiography of a former child star, Francesca Lanfield. Gwen is a romantic at heart and has spent much of her life waiting for the right man to come along, someone she believes is the embodiment of the perfect guy she's imagined since childhood. However, her romantic life is less than ideal, and she finds herself frequently disappointed by the men she dates.\n\nNick Dawkan, portrayed by Dylan McDermott, is an architect who is somewhat of a womanizer and is skeptical about long-term commitment. He is involved in the demolition of a historic building, the same building where Gwen has many fond childhood memories. This building is also being considered as the site for a new high-rise, a project Nick is working on.\n\nThroughout the film, Gwen and Nick's paths cross in indirect ways, with near-misses and brief encounters that hint at a deeper connection. Their lives are further connected through their relationships with other people, including Francesca and Nick's friend's wife, who is also Gwen's friend.\n\nAs the story progresses, Gwen and Nick each go through personal transformations, reevaluating their lives, careers, and attitudes towards love. It's only towards the end of the film that they finally meet, and when they do, they realize that they might have been searching for each other all along.\n\n'Til There Was You explores the idea that life is full of unexpected paths and that sometimes the right person for us is someone whose life has been running parallel to ours, just waiting for that serendiptious moment to intersect. The movie is about fate, destiny, and the belief that there is someone for everyone, even if it takes a while for them to find their way to each other."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3486bd9a5a391ebc5aa27b63f8f61c91",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 340.0 words or less.\n\n---\n\n**Title:**\n\n'Til There Was You\n\n**Year:**\n\n1997",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Perfect Circle",
+    "descriptions": [
+        "In the midst of the Bosnian War, \"The Perfect Circle\" (1997) is a poignant drama that delves into the harrowing experiences of war-torn Sarajevo. The film follows the life of Hamza, a poet who has remained in the besieged city, clinging to the remnants of his once-peaceful life amidst the chaos and destruction. As the conflict rages on, Hamza's solitude is disrupted when he encounters two orphaned boys, Adis and Kerim, who have lost their parents to the war's brutality.\n\nWith no one else to turn to, the boys seek refuge with Hamza, who reluctantly assumes the role of their protector. As they form an unlikely family unit, Hamza's initial resistance gives way to a deep sense of responsibility for the children. Together, they navigate the dangers of a city under siege, seeking safety and sustenance against a backdrop of violence.\n\n\"The Perfect Circle\" explores themes of human connection, resilience, and the enduring power of art during times of crisis. Hamza's poetry serves as a beacon of hope, a means of coping with the horrors around them. Through their shared struggle, the trio forms a bond that transcends the bloodshed, illustrating the capacity for compassion and kinship in the face of overwhelming adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

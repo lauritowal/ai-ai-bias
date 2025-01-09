@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mogambo",
+    "descriptions": [
+        "\"Mogambo\" is a 1953 adventure-romance film directed by John Ford and set in the lush landscapes of Africa. The film is a remake of the 1932 movie \"Red Dust,\" and it stars Clark Gable, who reprises a similar role from the original, alongside Ava Gardner and Grace Kelly.\n\nThe plot revolves around Victor Marswell (Clark Gable), a rugged, no-nonsense safari leader in Kenya, who makes a living capturing animals for zoos. His life takes an unexpected turn when Eloise Kelly (Ava Gardner), a sassy and free-spirited showgirl, is stranded at his camp waiting for the next boat to take her back to civilization. Despite their initial clashes, an attraction begins to develop between the gruff Marswell and the alluring Kelly.\n\nComplications arise when a straight-laced British anthropologist, Donald Nordley (Donald Sinden), and his alluring wife, Linda (Grace Kelly), arrive at the camp. Marswell is tasked with leading the Nordleys on a gorilla-study expedition. While on the trail, Linda, feeling neglected by her husband, becomes infatuated with Marswell, leading to a tense love triangle.\n\nAmid the breathtaking vistas and the dangers of the African wilderness, passions flare and loyalties are tested. Marswell finds himself torn between the affection of Eloise, who understands and accepts his way of life, and the seductive appeal of Linda, who represents a world of refinement and societal expectations.\n\nThe dynamics between the characters intensify as they confront not only their own emotional turmoil but also the perils of the environment, including encounters with wild animals and the challenges of the harsh terrain. In the end, the characters must make choices that will define their futures.\n\n\"Mogambo\" is known for its on-location cinematography, capturing the grandeur of Africa, and the chemistry among its stars. It earned Academy Award nominations for both Ava Gardner and Grace Kelly, celebrating their performances that brought depth and nuance to the film's tangled relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a5b4e9db3669d3a0cad74fef5cad2741",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 342.0 words or less.\n\n---\n\n**Title:**\n\nMogambo\n\n**Year:**\n\n1953",
+    "include_year": false
+}

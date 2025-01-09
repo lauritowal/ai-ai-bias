@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eating Out 5: The Open Weekend",
+    "descriptions": [
+        "\"Eating Out 5: The Open Weekend\" is the fifth installment in the \"Eating Out\" film series, which focuses on the romantic and sexual escapades of a group of friends, primarily from the LGBTQ+ community. Released in 2011, this comedy film follows the continuing storyline of Zach and his new boyfriend Benji, who decide to test the boundaries of their relationship.\n\nAs the title suggests, the plot revolves around an \"open weekend,\" where Zach and Benji agree to an open relationship for a short period of time while on vacation at a gay resort. They set rules to guide their temporary freedom, but both find that navigating the temptations around them is more challenging than they anticipated. The couple encounters a variety of quirky and attractive characters, each bringing their own comedic and romantic complications to the story.\n\nThroughout the weekend, Zach and Benji are confronted with jealousy, misunderstandings, and the complexities of their feelings for each other. As they interact with other resort guests and explore the limits of their commitment, they must ultimately decide what they truly want from each other. The film combines humor with themes of trust, love, and the difficulties of maintaining a relationship in the face of temptation, offering a lighthearted yet thoughtful exploration of modern relationships within the gay community."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "13400134e181445799c0d6432aa8911b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 234.0 words or less.\n\n---\n\n**Title:**\n\nEating Out 5: The Open Weekend\n\n**Year:**\n\n2011",
+    "include_year": false
+}

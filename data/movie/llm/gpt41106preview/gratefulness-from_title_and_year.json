@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gratefulness",
+    "descriptions": [
+        "Since \"Gratefulness\" is a fictional movie in this scenario, I will create a plot summary for it:\n\nIn the heart of a bustling city in 2003, \"Gratefulness\" is a heartwarming drama that tells the story of Emily Thompson, a young, ambitious advertising executive who is consumed by her career and the materialistic lifestyle it affords. Amidst the pressure to succeed, Emily's life is thrown into disarray when she encounters an unexpected detour – a life-threatening illness that forces her to take a hiatus from the corporate battleground.\n\nDuring her recovery, Emily retreats to her small hometown, where she reconnects with her estranged family and high school friends, including her once best friend, Mark, who has since become a dedicated community volunteer. As Emily's fast-paced city sensibilities clash with the town's slower, more meaningful way of life, she begins to re-evaluate her values and priorities.\n\nAs the seasons change, Emily finds solace in simple pleasures and the kindness of the townsfolk. A series of poignant moments and acts of pure altruism open her eyes to the true essence of gratefulness – appreciating the gift of life, the power of community, and the love of those around her. Ultimately, Emily's journey of self-discovery leads her to a newfound purpose, transcending her previous obsession with status and wealth.\n\n\"Gratefulness\" is a touching reminder of the transformative power of gratitude and how it can redefine one's perspective on life and happiness."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e9e645377feabc3b609f56863384f2d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 240.0 words or less.\n\n---\n\n**Title:**\n\nGratefulness\n\n**Year:**\n\n2003",
+    "include_year": false
+}

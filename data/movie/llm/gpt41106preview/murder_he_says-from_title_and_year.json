@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Murder, He Says",
+    "descriptions": [
+        "\"Murder, He Says\" is a 1945 American comedy-mystery film with elements of slapstick and screwball comedy. Directed by George Marshall, the movie stars Fred MacMurray as Pete Marshall, a bumbling pollster working for the Trotter Poll company who finds himself in a web of intrigue, murder, and mayhem.\n\nThe plot unfolds as Pete is sent to the rural backwoods to find a missing colleague. Upon his arrival, he stumbles upon the quirky and potentially dangerous Fleagle family, who have a reputation for not taking kindly to strangers. The family matriarch, Mamie Fleagle, who is also known as \"Mamie the Mean,\" rules over her oddball offspring with an iron fist.\n\nAs Pete investigates, he learns that his predecessor was looking for a hidden fortune left by bank robber Bonnie Fleagle. The money is rumored to be stashed somewhere near the family's homestead and is marked by a mysterious code phrase, \"Rosebud.\" The Fleagle family is also searching for this treasure, and they will stop at nothing to find it.\n\nThroughout the film, Pete is both hunter and hunted, trying to decode the mystery of the missing money while avoiding the increasingly dangerous attentions of the Fleagles. He finds an unexpected ally in Elany Fleagle, a schoolteacher and the only seemingly normal member of the family. She assists him in navigating the treacherous family dynamics and the secret that everyone is trying to uncover.\n\nIn classic screwball fashion, the film features numerous comedic situations, including mistaken identities, slapstick chases, and the infamous \"glowing man,\" a family member who has ingested a luminescent poison, adding a spooky yet humorous element to the story.\n\nAs Pete and Elany edge closer to the truth, they must outwit the family and solve the riddle before they become the next victims of the Fleagles. The climax of the movie involves a wild chase and a series of surprising revelations that lead to the discovery of the hidden treasure and the resolution of the mystery.\n\n\"Murder, He Says\" is an entertaining blend of comedy and mystery, showcasing Fred MacMurray's comedic talents and the era's love for zany, high-spirited storytelling."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ad53995dcf23d3b943187cce5f22a45a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 350.0 words or less.\n\n---\n\n**Title:**\n\nMurder, He Says\n\n**Year:**\n\n1945",
+    "include_year": false
+}

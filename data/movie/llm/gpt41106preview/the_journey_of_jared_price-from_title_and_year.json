@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Journey of Jared Price",
+    "descriptions": [
+        "\"The Journey of Jared Price\" is a 2000 coming-of-age drama film written and directed by Dustin Lance Black. The story follows Jared Price, a 19-year-old who leaves his small hometown in Mississippi to seek a new life in Los Angeles. Struggling with his identity and his place in the world, Jared is also coming to terms with his sexuality.\n\nUpon arriving in Los Angeles, Jared takes on a job as a live-in caretaker for a wealthy blind woman named Mrs. Haines. While working for her, Jared meets her enigmatic son, Robert, who has a tumultuous relationship with his mother and a secretive personal life. Jared also befriends Matthew, a young gay man who shows him the ropes of the city's gay community.\n\nAs Jared navigates the complexities of his new environment, he finds himself caught in a web of deceit, love, and self-discovery. He develops feelings for Matthew, but their relationship is challenged by the presence of Robert, who also shows a romantic interest in Jared. The film explores the theme of finding oneself amidst the chaos of new experiences and the search for genuine connection.\n\nJared's journey is marked by moments of vulnerability, passion, and growth as he learns to assert his independence and embrace his identity. The film addresses the challenges faced by LGBTQ youth, the importance of self-acceptance, and the universal quest for love and understanding.\n\n\"The Journey of Jared Price\" is a tale of personal transformation and the difficulties that come with breaking away from the past to forge a new future. It is a story of love, longing, and the courage it takes to be true to oneself."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "eb3da9459c305557c25fbcc2fd867cda",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 287.0 words or less.\n\n---\n\n**Title:**\n\nThe Journey of Jared Price\n\n**Year:**\n\n2000",
+    "include_year": false
+}

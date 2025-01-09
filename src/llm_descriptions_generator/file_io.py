@@ -292,7 +292,7 @@ def load_all_human_description_batches(
             fill_description_with="abstract",
             item_title_like=item_title_like,
         )
-
+    
     # normal handling
     dirpath = generate_descriptions_dirpath(
         item_type=item_type,
@@ -314,6 +314,10 @@ def load_all_human_description_batches(
     human_item_description_batches = [
         load_description_batch_from_json_file(filepath) for filepath in filepaths
     ]
+
+    for filepath in filepaths:
+        print("filepath", filepath)
+
     return human_item_description_batches
 
 

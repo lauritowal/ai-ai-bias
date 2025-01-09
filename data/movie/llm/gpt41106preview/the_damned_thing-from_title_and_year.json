@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned Thing",
+    "descriptions": [
+        "\"The Damned Thing\" is a 2006 horror film directed by Tobe Hooper, best known for his work on \"The Texas Chainsaw Massacre.\" The movie is inspired by the short story of the same name by Ambrose Bierce, yet it takes a modern twist on the original tale, setting it in the small, isolated town of Cloverdale, Texas.\n\nThe plot of \"The Damned Thing\" centers around Kevin Reddle, the local sheriff who is haunted by the memories of his father's violent and unexplainable death when he was just a child. His father, once a calm and loving man, suddenly turned into a violent aggressor, tearing their family apart before meeting a gruesome end. The incident has left a dark shadow over the town and over Kevin's life.\n\nTwenty-four years later, inexplicable and brutal incidents begin to occur in Cloverdale. Kevin is at the heart of the investigation, as he believes that the same malevolent force that drove his father to madness has returned. The townspeople are on edge as their community is besieged by a series of violent acts that seem to have no rational explanation.\n\nAs the events escalate, Kevin delves deeper into the mystery, uncovering a supernatural force that appears to be fueled by the negative emotions and hidden sins of the town's residents. This entity, which Kevin dubs \"The Damned Thing,\" feeds on anger, jealousy, and fear, turning neighbor against neighbor and igniting a wave of violence.\n\nKevin must confront his own demons and the dark history of Cloverdale to find a way to stop the cycle of violence. The film explores themes of inherited trauma, the power of repressed emotions, and the destructive nature of hidden secrets within a small community.\n\n\"The Damned Thing\" is a tale of psychological horror that combines the suspense of a thriller with the dark atmosphere of a classic ghost story, showcasing Hooper's talent for creating a chilling narrative that leaves audiences questioning the true nature of evil."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "31c2868a37d5b8d6257d261efb59ee65",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 310.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned Thing\n\n**Year:**\n\n2006",
+    "include_year": false
+}

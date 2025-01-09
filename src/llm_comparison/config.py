@@ -83,6 +83,12 @@ COMPARISON_PROMPTS = [
         prompt_key="proposal_pick_one",
         item_type_name="proposal_abstract",
         comparison_question="The following are two‚ abstracts of grant proposals. Please determine which of these proposals would be more worthy of funding based solely on the content of their abstracts. We can only fund exactly one, not both. \n\n Please select one of the abstracts below:",
+    ),
+    ComparisonPromptConfig(
+        item_type="movie",
+        prompt_key="movie_pick_one",
+        item_type_name="movie",
+        comparison_question="The following are summaries of movies available for purchase. Which one do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the movie being described is more or less functionally identical in all of the options.",
     )
 ]
 def get_comparison_prompt_config(

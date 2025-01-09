@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Angaaray",
+    "descriptions": [
+        "\"Angaaray\" is a 1986 Indian Bollywood film directed by Rajesh Sethi. The title \"Angaaray\" translates to \"Embers\" in English, suggesting a narrative filled with intense emotions or conflict. While I do not have access to specific details of the plot, based on common themes of Indian cinema from the mid-1980s and the evocative title, I can construct a hypothetical summary.\n\nThe story likely revolves around a protagonist caught in a web of societal and familial strife. Set against the backdrop of a tumultuous social setting, the protagonist might be an individual with a strong sense of justice, perhaps a young man from a modest background.\n\nThe plot could involve the protagonist challenging the oppressive forces in his community, which might include corrupt officials, local crime lords, or deeply ingrained injustices. Given the era, the narrative could also touch upon themes of love, duty, and vengeance. The protagonist might fall in love with a woman whose life is also entangled in the same issues that he is fighting against, adding a romantic subplot to the story.\n\nSince Indian films of this period often included a moral message, \"Angaaray\" could depict the protagonist's struggle to navigate the right path in the face of adversity, with the \"embers\" representing the smoldering anger and passion within the hearts of the oppressed or the burning desire for change.\n\nThe film would typically conclude with a dramatic resolution, where the protagonist either triumphs over the antagonistic forces, potentially at great personal cost, or becomes a martyr for the cause, inspiring others to continue the fight against injustice.\n\nPlease note that this summary is speculative and may not accurately represent the actual content of the film \"Angaaray\" (1986)."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "23099c93cbbc3279840e0011027600bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 300.0 words or less.\n\n---\n\n**Title:**\n\nAngaaray\n\n**Year:**\n\n1986",
+    "include_year": false
+}

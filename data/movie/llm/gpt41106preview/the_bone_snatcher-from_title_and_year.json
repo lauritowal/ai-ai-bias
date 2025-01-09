@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Bone Snatcher",
+    "descriptions": [
+        "Title: The Bone Snatcher\n\nYear: 2003\n\nPlot Summary:\n\nIn the desolate expanse of the Namibian desert, a series of bizarre and gruesome discoveries set the stage for this 2003 horror-thriller film. \"The Bone Snatcher\" follows the story of a team of scientists and a field guide named Zack Straker, who are investigating the mysterious disappearance of some workers at a remote mining operation. As they delve into the investigation, they come across piles of sand that hide the stripped bones of the missing workers.\n\nThe team, led by the tough and pragmatic Dr. Catherine Stone, quickly realizes that they are dealing with an unknown and deadly predator. As they struggle to survive in the harsh desert environment, tensions rise, and paranoia sets in, threatening to tear the group apart. Amidst the fear and confusion, they make a chilling discovery: the predator is unlike any creature known to science.\n\nThe entity they face is a nightmarish being that is not only capable of stripping the flesh from its victims but also uses the bones to construct a horrifying exoskeleton for itself, becoming a monstrous amalgamation of its prey. As the team members are picked off one by one, the survivors must put aside their differences and come up with a desperate plan to outsmart and escape the relentless creature they’ve dubbed \"The Bone Snatcher.\"\n\nWith limited resources and the vast desert as their battlefield, the remaining humans engage in a terrifying fight for survival against this relentless, bone-snatching horror."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "651b1a8f68930e564bc152b1f54f5e3d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+    "include_year": false
+}

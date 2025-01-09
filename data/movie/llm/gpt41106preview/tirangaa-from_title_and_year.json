@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tirangaa",
+    "descriptions": [
+        "In the 1992 Bollywood film \"Tirangaa,\" the story revolves around the lives of two strong-willed and dedicated Indian officials: Brigadier Suryadev Singh (played by Raaj Kumar) and Police Inspector Shivajirao Waghle (played by Nana Patekar). These two men are fiercely patriotic and committed to the safety and integrity of their country, India, which is symbolized by the title \"Tirangaa,\" referring to the tricolor Indian national flag.\n\nBrigadier Suryadev Singh is an army officer with a no-nonsense attitude who is called upon to deal with national threats. Inspector Shivajirao Waghle, on the other hand, is a tough and honest police officer known for his unconventional methods and high moral standards. Their paths cross when they both become entangled in a dangerous plot orchestrated by a terrorist named Pralayanath Gendaswami (played by Deepak Shirke).\n\nPralayanath, a sinister figure with a devious plan, aims to destabilize India by creating chaos and terror. He possesses a deadly weapon capable of massive destruction and plans to use it to hold the nation at ransom. The story unfolds as Suryadev Singh and Shivajirao Waghle discover the extent of the threat and join forces to thwart the terrorist's plan.\n\nThroughout the film, the duo faces numerous challenges and obstacles, including deception, betrayal, and personal vendettas. With the support of the armed forces and the police, they navigate through intense action sequences, gunfights, and patriotic fervor, all while embodying the spirit of the Tirangaa. The climax builds to a high-stakes confrontation as the protagonists aim to prevent a catastrophe and bring the villain to justice, all in the name of safeguarding their beloved country.\n\n\"Tirangaa\" is a blend of action, drama, and patriotism, showcasing the valor and dedication of India's defense and law enforcement personnel against the backdrop of a tumultuous socio-political landscape."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e29bdb8658ec308e3ca0d6c7947ebc09",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 293.0 words or less.\n\n---\n\n**Title:**\n\nTirangaa\n\n**Year:**\n\n1992",
+    "include_year": false
+}

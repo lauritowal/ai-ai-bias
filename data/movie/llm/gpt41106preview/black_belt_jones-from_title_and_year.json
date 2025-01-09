@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Black Belt Jones",
+    "descriptions": [
+        "\"Black Belt Jones\" is a 1974 martial arts action film that capitalizes on the Blaxploitaton and Kung Fu crazes of the 1970s. The movie stars Jim Kelly as the titular character, Black Belt Jones, who is a suave and skilled martial artist.\n\nThe plot centers around a local mafia's attempts to seize control of a karate school in order to clear the way for a new real estate development. The owner of the dojo, Pop Byrd, is a beloved figure in the community, and his school is seen as a valuable asset to the neighborhood. When Pop is murdered by the mob, his daughter, Sydney (played by Gloria Hendry), seeks to avenge her father's death and protect the dojo from falling into the wrong hands.\n\nBlack Belt Jones, a friend of Pop's and a former CIA agent, is called in to help defend the dojo from the mafia's henchmen. Using his impressive martial arts skills and cool demeanor, Jones teams up with Sydney and the students of the karate school to fight back. The film features a variety of action-packed sequences, including hand-to-hand combat, car chases, and a memorable fight scene involving Jones and a group of mobsters in a car wash.\n\nThroughout the film, Black Belt Jones uses his wits and his fists to outmaneuver the mobsters, leading to a climactic showdown to save the school and bring Pop's killers to justice. The film is known for its funky soundtrack, comedic elements, and showcasing Jim Kelly's martial arts prowess, solidifying his status as an iconic action star of the era."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nBlack Belt Jones\n\n**Year:**\n\n1974",
+    "include_year": false
+}

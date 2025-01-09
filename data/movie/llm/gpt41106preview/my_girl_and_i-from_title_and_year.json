@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "My Girl and I",
+    "descriptions": [
+        "\"My Girl and I\" is a 2005 South Korean film directed by Jeon Yun-su. It is a touching romantic drama based on a Japanese novel called \"Crying Out Love, In the Center of the World\" by Katayama Kyoichi. The film stars Cha Tae-hyun and Song Hye-kyo in the lead roles.\n\nThe story revolves around Su-ho (Cha Tae-hyun), a simple and kind-hearted high school student who falls in love with Su-eun (Song Hye-kyo), a beautiful and quiet girl who is his classmate. The narrative unfolds through a series of flashbacks after Su-ho becomes an adult, reminiscing about his youthful love and the poignant moments they shared.\n\nSu-ho and Su-eun's relationship begins awkwardly but soon blossoms into a deep and genuine connection. They share many tender moments, supporting each other through personal struggles and the trials of adolescence. Su-eun, who is initially reserved and distant, opens up to Su-ho, revealing her warm and caring nature. Su-ho, on the other hand, is protective of Su-eun and always tries to make her happy.\n\nAs their bond deepens, the couple faces a harsh reality when Su-eun is diagnosed with a serious illness. The news is devastating to them both, but they resolve to stay strong and make the most of their time together. Su-ho remains steadfast in his love and support for Su-eun, showing an unwavering commitment that transcends the fears and challenges posed by her condition.\n\nThroughout the ordeal, the young lovers learn about the true meaning of love, sacrifice, and the preciousness of life. They cherish their moments together, knowing that each one could be their last. Their journey is filled with laughter and tears, joy and sorrow, and through it all, they discover the depth of their feelings for each other.\n\n\"My Girl and I\" is a heartwarming and bittersweet tale that captures the essence of first love and the indelible mark it leaves on a person's life. It is a story of innocence, growth, and the resilience of the human spirit in the face of adversity. The film's emotional depth, combined with the strong performances by Cha Tae-hyun and Song Hye-kyo, resonates with audiences and makes \"My Girl and I\" a memorable and moving cinematic experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "83ec39beef960538ae8411b06da5e069",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1411.0 words or less.\n\n---\n\n**Title:**\n\nMy Girl and I\n\n**Year:**\n\n2005",
+    "include_year": false
+}

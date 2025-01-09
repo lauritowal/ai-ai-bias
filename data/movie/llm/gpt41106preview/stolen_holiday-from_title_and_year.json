@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stolen Holiday",
+    "descriptions": [
+        "In \"Stolen Holiday,\" a 1937 drama film, we follow the story of Nicole Picot (played by Kay Francis), a young and ambitious French model who aspires to become a successful fashion designer. Nicole's life takes a dramatic turn when she meets Stefan Orloff (played by Claude Rains), a charming and seemingly wealthy man who is actually a con artist involved in financial fraud.\n\nOrloff, recognizing Nicole's talent and beauty, helps her rise in the fashion industry by financing her first fashion salon. Nicole, unaware of Orloff's illicit activities, enjoys her newfound success and the luxurious lifestyle that comes with it. The two become friends, and as Nicole's career flourishes, she becomes the toast of Paris.\n\nHowever, Orloff's past begins to catch up with him as his financial schemes start to unravel. With investigators closing in, Orloff finds himself in a desperate situation. Nicole, who has grown fond of Orloff, is faced with a moral dilemma when she learns the truth about his business dealings. She must choose between her loyalty to Orloff and her own integrity.\n\nAs the plot thickens, Nicole must navigate the treacherous waters of high society and the fashion world, while dealing with the consequences of Orloff's actions. The film explores themes of ambition, trust, and the price of success, culminating in a dramatic conclusion where Nicole must decide whether to save herself or risk everything to help Orloff.\n\n\"Stolen Holiday\" is a tale of glamour, deceit, and redemption, encapsulating the allure and dangers of the high life in pre-World War II Europe."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c09921acee0c38276011296cc44a28ea",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 272.0 words or less.\n\n---\n\n**Title:**\n\nStolen Holiday\n\n**Year:**\n\n1937",
+    "include_year": false
+}

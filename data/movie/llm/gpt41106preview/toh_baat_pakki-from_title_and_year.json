@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Toh Baat Pakki",
+    "descriptions": [
+        "\"Toh Baat Pakki\" is a 2010 Bollywood romantic comedy directed by Kedar Shinde. The plot revolves around a middle-class Indian woman named Rajeshwari Saxena, who is keen on getting her younger sister Nisha married to a well-settled man. Rajeshwari's determination to find the perfect match for Nisha leads her to Yuvraaj, an engineering student who is due to secure a well-paying job after graduation.\n\nConvinced that Yuvraaj is the ideal candidate, Rajeshwari invites him to live in their house as a tenant, hoping to foster a romantic relationship between him and Nisha. However, things take an unexpected turn when Rajeshwari encounters Rahul, a more successful and established man who she deems to be an even better match for her sister.\n\nCaught between her promise to Yuvraaj and the prospect of an alliance with Rahul, Rajeshwari maneuvers a series of comedic and complicated situations to ensure Nisha's future is secured. This leads to a comedic clash between the two potential suitors, as they vie for Nisha's affection and attempt to prove their worth to the overzealous Rajeshwari.\n\nAs the story unfolds, the characters navigate through misunderstandings, family dynamics, and the complexities of love and relationships, ultimately leading to a conclusion where hearts are won and promises are kept—or broken. The film explores themes of familial responsibility, the societal pressures of marriage, and the unpredictability of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "98e6d68dfddcc8c727c5e3f56eeb076c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 221.0 words or less.\n\n---\n\n**Title:**\n\nToh Baat Pakki\n\n**Year:**\n\n2010",
+    "include_year": false
+}

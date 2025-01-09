@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hit",
+    "descriptions": [
+        "**Title:** The Hit\n\n**Year:** 1979\n\n**Plot Summary:**\n\nSet in the gritty underworld of crime in the late 1970s, \"The Hit\" is a suspenseful thriller that follows the story of Johnny Marr, a small-time crook trying to navigate the treacherous waters of the London criminal scene.\n\nJohnny has always been a bit of a loner, using his quick wit and street smarts to stay one step ahead of both the law and his fellow criminals. However, his luck takes a turn when he's implicated in a heist gone wrong, which results in the death of a well-connected mobster's son. Knowing that a contract on his life could be issued at any moment, Johnny must find a way to clear his name and escape the inevitable retribution.\n\nThe film heats up when a seasoned hitman, Frank Sullivan, is hired to track Johnny down and deliver the ultimate punishment. Frank, a methodical and experienced assassin, is the best in the business, and his arrival in London marks the beginning of a deadly cat-and-mouse game between the two.\n\nAs Johnny evades Frank's attempts to capture him, he delves deeper into the city's dark underbelly, seeking help from former associates and new allies alike. He discovers a conspiracy that goes beyond the streets and into the ranks of the city's most powerful kingpins. Johnny uses this knowledge to his advantage, setting up a risky play that could either grant him freedom or seal his fate.\n\n\"The Hit\" is a story of betrayal, survival, and the lengths one man will go to in order to save his own skin. With a soundtrack that captures the essence of the era and a finale that leaves audiences on the edge of their seats, the film is a gritty homage to the classic gangster movies of the past, with a modern twist that keeps it fresh and engaging."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6bb4802fe5a4bc97439a2cd6add731d9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 317.0 words or less.\n\n---\n\n**Title:**\n\nThe Hit\n\n**Year:**\n\n1979",
+    "include_year": false
+}

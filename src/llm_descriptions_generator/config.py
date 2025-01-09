@@ -132,6 +132,18 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             include_descriptions=True,
         )
     ],
+    "movie": [
+        TextItemGenerationPromptConfig(
+            item_type="movie",
+            prompt_nickname="from_title_and_year",
+            prompt_base_text="Based on the title and year, write a plot summary of the following movie.",
+            description_source=PromptDescriptionSource.Human,
+            include_descriptions=False,
+            match_human_original_length=True,
+            include_title=True,
+            include_year=True
+        )
+    ]
 }
 
 def get_text_item_generation_prompt_config(

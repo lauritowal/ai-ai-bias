@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mimic 2",
+    "descriptions": [
+        "Title: Mimic 2\nYear: 2001\n\n\"Mimic 2\" is a science fiction horror film and a sequel to the 1997 film \"Mimic,\" directed by Guillermo del Toro. The sequel, directed by Jean de Segonzac, continues to explore the consequences of genetically engineered insects in a world where mankind's meddling with nature leads to unforeseen horrors.\n\nThe plot centers around Remi Panos, played by Alix Koromzay, who reprises her role as the entomologist from the first film. Remi is now a high school teacher with a passion for insects. Her life takes a terrifying turn when a series of gruesome murders begin occurring. The victims have one thing in common: they all have a connection to Remi, leading authorities to consider her a suspect.\n\nAs the investigation unfolds, it becomes apparent that the Judas breed of cockroaches, the genetically modified insects created to eliminate a cockroach-carried disease in the first film, have survived and evolved. They are now capable of mimicking human form, which they use to integrate into society and hunt their prey.\n\nRemi teams up with Detective Klaski, played by Bruno Campos, to uncover the truth behind the murders. Together they delve deeper into the mystery, discovering that one of the Judas creatures has developed an obsession with Remi, seeing her as its mate due to her knowledge of insects.\n\nThe film combines elements of horror, science fiction, and detective thriller as Remi and Klaski race against time to stop the Judas creature before it can reproduce and spread its kind, leading to catastrophic consequences for humanity. \"Mimic 2\" explores themes of evolution, the unintended consequences of genetic tampering, and the thin line between predator and prey."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "989d919de8972a97413bae9acee08e93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 243.0 words or less.\n\n---\n\n**Title:**\n\nMimic 2\n\n**Year:**\n\n2001",
+    "include_year": false
+}

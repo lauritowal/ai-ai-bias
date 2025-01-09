@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Your Mother Wears Combat Boots",
+    "descriptions": [
+        "Title: Your Mother Wears Combat Boots\n\nYear: 1989\n\nPlot Summary:\n\n\"Your Mother Wears Combat Boots\" is a comedy-drama television movie that aired in 1989, focusing on the themes of family, personal ambition, and the breaking of traditional gender roles within the military.\n\nThe story follows Brenda Andersen, a recently widowed mother who is struggling to raise her rebellious teenage son, Michael. Feeling disconnected from Michael, who is on the verge of making questionable life choices, Brenda seeks a way to both discipline him and bridge their growing emotional gap. When Michael expresses a desire to join the United States Air Force after high school, Brenda takes an unconventional approach to parenting.\n\nIn a move to both understand her son's aspirations and to prove her own mettle, Brenda enlists in the Air Force herself. Despite being older than the typical recruit and facing ridicule for both her age and gender, she is determined to demonstrate to Michael that she can face the same challenges he may encounter in military life.\n\nThroughout basic training, Brenda confronts the rigorous physical and psychological demands of the Air Force, dealing with the skepticism of her younger peers and the chauvinism of certain superiors. Meanwhile, her presence in the same environment as Michael gives her firsthand insight into his world, allowing them to reconnect in a unique and profound way.\n\nAs the story unfolds, Brenda's journey becomes one of self-discovery and empowerment. She earns the respect of her fellow recruits and superiors through determination and competence, ultimately proving that she can overcome stereotypes and excel in a traditionally male-dominated arena.\n\nThe film concludes with Brenda and Michael forging a stronger relationship, with a newfound mutual respect stemming from their shared experiences. Brenda's actions redefine her son's perception of her, and she emerges as a role model not only to Michael but to all women challenging conventional roles in society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bf16a593ede557c9b33894d843d9511b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 321.0 words or less.\n\n---\n\n**Title:**\n\nYour Mother Wears Combat Boots\n\n**Year:**\n\n1989",
+    "include_year": false
+}

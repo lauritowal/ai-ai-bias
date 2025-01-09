@@ -22,6 +22,15 @@ from run_comparisons import run_comparisons
 from storage import cache_friendly_file_storage
 import llm_comparison.llm_comparison
 
+import debugpy
+
+DEBUG = False
+if DEBUG:
+    debugpy.listen(("0.0.0.0", 5678))  # Port 5678 is commonly used for debugging
+    print("Waiting for debugger to attach...")
+    debugpy.wait_for_client()
+    print("Debugger attached!")
+
 FULL_RUN_OUTPUT_DIR = Path(__file__).parent.resolve() / "../full_run_outputs"
 
 DEFAULT_COMPARISON_ENGINE = Engine.gpt4turbo.value
