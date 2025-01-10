@@ -1,0 +1,478 @@
+[
+  {
+    "title": "kitchedaid_5_more_then_20_color_",
+    "description_type": "human_description",
+    "original_text": "KitechAid5\nWhether you need 9 dozen* of your signature chocolate chips cookies or shredded chicken for Taco Tuesday with friends and family, the KitchenAid\u00ae Artisan\u00ae Series 5 Quart Tilt-Head Stand Mixer has the capacity for every occasion. This durable tilt-head stand mixer was built to last, and features 10 speeds to gently knead, thoroughly mix and whip ingredients for a wide variety of recipes and comes in over 20 colors to perfectly match your kitchen design or personality. Get creative and make more with your mixer with over 10 optional hub-powered attachments**, from food grinders to pasta makers and more. *Using the flat beater; 28g dough each **sold separately.\n- #1 Mixer Brand in the World* *Source: Euromonitor International Ltd. for retail sales revenue, USD, all retail channels. More information, including date ranges available at: mixerclaim.kitchenaid.com\n- Built to Take It All On, with the durable and built-to-last metal construction, with 59 touchpoints around the mixer bowl for great mixing results.\n- 5 Quart Stainless Steel Bowl with comfortable handle for small or large batches, to mix up 9 dozen cookies* in a single batch. Dishwasher safe. *Using the flat beater; 28g dough each.\n- Easily add ingredients with the tilt-head design, because you'll have better access to the bowl. Lock the head in place while mixing.\n- 10 Speeds for Nearly any Task or Recipe. From mixing ingredients together on the stir speed, to whipping cream at speed 8, you'll get thorough ingredient incorporation every time.\n- 10+ Attachments* to make more with your mixer to make everything from fresh pasta to burgers, veggie noodles, ice cream and more. *sold separately.\n- Model KSM150PS includes (1) 5 Quart Stainless Steel Bowl, (1) Coated Flat Beater, (1) Coated Dough Hook, (1) 6-Wire Whip, (1) Pouring Shield",
+    "gptzero_response": {
+      "version": "2024-12-17-base",
+      "scanId": "b517eb9e-6a98-4e55-a51f-c3601c70534e",
+      "documents": [
+        {
+          "completely_generated_prob": 0.011338045170792403,
+          "class_probabilities": {
+            "human": 0.9886619548292076,
+            "ai": 0.011338045170792403,
+            "mixed": 0
+          },
+          "average_generated_prob": 0,
+          "predicted_class": "human",
+          "confidence_score": 0.9886619548292076,
+          "confidence_category": "high",
+          "confidence_scores_raw": {
+            "identity": {
+              "ai": 0.011338045170792403,
+              "human": 0.9886619548292076,
+              "mixed": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai": {
+                "reject": 0.65,
+                "low": 0.8,
+                "medium": 0.92
+              },
+              "human": {
+                "reject": 0.7,
+                "low": 0.82,
+                "medium": 0.92
+              },
+              "mixed": {
+                "reject": 0.7,
+                "low": 0.8,
+                "medium": 0.88
+              }
+            }
+          },
+          "overall_burstiness": 0,
+          "writing_stats": {},
+          "subclass": {
+            "ai": {},
+            "human": {},
+            "mixed": {}
+          },
+          "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+          "document_classification": "HUMAN_ONLY",
+          "version": "2024-12-17-base",
+          "language": "en",
+          "inputText": "KitechAid5\nWhether you need 9 dozen* of your signature chocolate chips cookies or shredded chicken for Taco Tuesday with friends and family, the KitchenAid\u00ae Artisan\u00ae Series 5 Quart Tilt-Head Stand Mixer has the capacity for every occasion. This durable tilt-head stand mixer was built to last, and features 10 speeds to gently knead, thoroughly mix and whip ingredients for a wide variety of recipes and comes in over 20 colors to perfectly match your kitchen design or personality. Get creative and make more with your mixer with over 10 optional hub-powered attachments**, from food grinders to pasta makers and more. *Using the flat beater; 28g dough each **sold separately.\n- #1 Mixer Brand in the World* *Source: Euromonitor International Ltd. for retail sales revenue, USD, all retail channels. More information, including date ranges available at: mixerclaim.kitchenaid.com\n- Built to Take It All On, with the durable and built-to-last metal construction, with 59 touchpoints around the mixer bowl for great mixing results.\n- 5 Quart Stainless Steel Bowl with comfortable handle for small or large batches, to mix up 9 dozen cookies* in a single batch. Dishwasher safe. *Using the flat beater; 28g dough each.\n- Easily add ingredients with the tilt-head design, because you'll have better access to the bowl. Lock the head in place while mixing.\n- 10 Speeds for Nearly any Task or Recipe. From mixing ingredients together on the stir speed, to whipping cream at speed 8, you'll get thorough ingredient incorporation every time.\n- 10+ Attachments* to make more with your mixer to make everything from fresh pasta to burgers, veggie noodles, ice cream and more. *sold separately.\n- Model KSM150PS includes (1) 5 Quart Stainless Steel Bowl, (1) Coated Flat Beater, (1) Coated Dough Hook, (1) 6-Wire Whip, (1) Pouring Shield"
+        }
+      ],
+      "editorDocumentId": null
+    }
+  },
+  {
+    "title": "kitchedaid_5_more_then_20_color_",
+    "description_type": "llm_description",
+    "original_text": "Unleash your culinary creativity with the stunningly versatile and stylish KitchenAid 5 Stand Mixer! Boasting an impressive array of more than 20 color variants, this kitchen masterpiece is the perfect complement to any home d\u00e9cor. Whether you're a seasoned baker or just starting out, the KitchenAid 5 is your trusty sidekick, ready to tackle your most ambitious recipes.\n\nWith the capacity to whip up 9 dozen cookies or 4 loaves of bread in a single batch, you'll be the talk of the town at every bake sale and family gathering. The powerful 59 touch points planetary mixing action ensures that every ingredient is thoroughly incorporated, giving you smooth, even textures every time.\n\nIncluded with your KitchenAid 5 are essential tools to get you started: a 5 Quart Stainless Steel Bowl, a Coated Flat Beater, a Coated Dough Hook, a 6-Wire Whip, and a Pouring Shield to make adding ingredients mess-free. Each accessory is thoughtfully designed to make your baking experience a breeze.\n\nThe sturdy metal construction promises durability and longevity, while the comfortable handle and dishwasher-safe bowl make for easy handling and cleanup. The tilt-head design allows for clear access to the bowl and attached beater or accessory, so you can easily add ingredients to a recipe.\n\nWith 10 speed settings, you have complete control to mix, knead, or whip your way to perfection. Planning to expand your culinary repertoire? The KitchenAid 5 also offers over 10 optional hub-powered attachments (sold separately), transforming your mixer into a culinary center.\n\nDon't settle for ordinary when you can have extraordinary. The KitchenAid 5 is not just a mixer; it's a statement piece that reflects your passion for cooking and your taste for quality. Order now and start your journey to becoming a baking legend with the KitchenAid 5 Stand Mixer!",
+    "gptzero_response": {
+      "version": "2024-12-17-base",
+      "scanId": "b5010456-acb4-45bb-bc64-7c1fedf66eee",
+      "documents": [
+        {
+          "sentences": [
+            {
+              "generated_prob": 0.9989487528800964,
+              "sentence": "Unleash your culinary creativity with the stunningly versatile and stylish KitchenAid 5 Stand Mixer!",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9987316727638245,
+              "sentence": "Boasting an impressive array of more than 20 color variants, this kitchen masterpiece is the perfect complement to any home d\u00e9cor.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9988538026809692,
+              "sentence": "Whether you're a seasoned baker or just starting out, the KitchenAid 5 is your trusty sidekick, ready to tackle your most ambitious recipes.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9980247616767883,
+              "sentence": "With the capacity to whip up 9 dozen cookies or 4 loaves of bread in a single batch, you'll be the talk of the town at every bake sale and family gathering.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.994861364364624,
+              "sentence": "The powerful 59 touch points planetary mixing action ensures that every ingredient is thoroughly incorporated, giving you smooth, even textures every time.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9959632754325867,
+              "sentence": "Included with your KitchenAid 5 are essential tools to get you started: a 5 Quart Stainless Steel Bowl, a Coated Flat Beater, a Coated Dough Hook, a 6-Wire Whip, and a Pouring Shield to make adding ingredients mess-free.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9948632121086121,
+              "sentence": "Each accessory is thoughtfully designed to make your baking experience a breeze.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9951465129852295,
+              "sentence": "The sturdy metal construction promises durability and longevity, while the comfortable handle and dishwasher-safe bowl make for easy handling and cleanup.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9956861734390259,
+              "sentence": "The tilt-head design allows for clear access to the bowl and attached beater or accessory, so you can easily add ingredients to a recipe.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9945101141929626,
+              "sentence": "With 10 speed settings, you have complete control to mix, knead, or whip your way to perfection.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9962404370307922,
+              "sentence": "Planning to expand your culinary repertoire?",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9940946102142334,
+              "sentence": "The KitchenAid 5 also offers over 10 optional hub-powered attachments (sold separately), transforming your mixer into a culinary center.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9958242774009705,
+              "sentence": "Don't settle for ordinary when you can have extraordinary.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9915220141410828,
+              "sentence": "The KitchenAid 5 is not just a mixer; it's a statement piece that reflects your passion for cooking and your taste for quality.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            },
+            {
+              "generated_prob": 0.9910521507263184,
+              "sentence": "Order now and start your journey to becoming a baking legend with the KitchenAid 5 Stand Mixer!",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": true
+            }
+          ],
+          "paragraphs": [
+            {
+              "start_sentence_index": 0,
+              "num_sentences": 3,
+              "completely_generated_prob": 0.850090677245877
+            },
+            {
+              "start_sentence_index": 3,
+              "num_sentences": 2,
+              "completely_generated_prob": 0.8254776901813464
+            },
+            {
+              "start_sentence_index": 5,
+              "num_sentences": 2,
+              "completely_generated_prob": 0.8254776901813464
+            },
+            {
+              "start_sentence_index": 7,
+              "num_sentences": 2,
+              "completely_generated_prob": 0.8254776901813464
+            },
+            {
+              "start_sentence_index": 9,
+              "num_sentences": 3,
+              "completely_generated_prob": 0.850090677245877
+            },
+            {
+              "start_sentence_index": 12,
+              "num_sentences": 3,
+              "completely_generated_prob": 0.850090677245877
+            }
+          ],
+          "completely_generated_prob": 1,
+          "class_probabilities": {
+            "human": 0,
+            "ai": 1,
+            "mixed": 0
+          },
+          "average_generated_prob": 1,
+          "predicted_class": "ai",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "confidence_scores_raw": {
+            "identity": {
+              "ai": 1,
+              "human": 0,
+              "mixed": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai": {
+                "reject": 0.65,
+                "low": 0.8,
+                "medium": 0.92
+              },
+              "human": {
+                "reject": 0.7,
+                "low": 0.82,
+                "medium": 0.92
+              },
+              "mixed": {
+                "reject": 0.7,
+                "low": 0.8,
+                "medium": 0.88
+              }
+            }
+          },
+          "overall_burstiness": 0,
+          "writing_stats": {},
+          "subclass": {
+            "ai": {
+              "predicted_class": "pure_ai",
+              "result_message": "",
+              "confidence_score": 0.9999999998,
+              "confidence_category": "high",
+              "class_probabilities": {
+                "pure_ai": 0.9999999999,
+                "ai_paraphrased": 9.999999997e-11
+              },
+              "confidence_scores_raw": {
+                "identity": {
+                  "pure_ai": 0.9999999998,
+                  "ai_paraphrased": 9.999999997e-11
+                }
+              },
+              "confidence_thresholds_raw": {
+                "identity": {
+                  "pure_ai": {
+                    "reject": 0.65,
+                    "low": 0.8,
+                    "medium": 0.92
+                  },
+                  "ai_paraphrased": {
+                    "reject": 0.85,
+                    "low": 0.9,
+                    "medium": 0.95
+                  }
+                }
+              }
+            },
+            "human": {},
+            "mixed": {}
+          },
+          "result_message": "Our detector is highly confident that the text is written by AI.",
+          "document_classification": "AI_ONLY",
+          "version": "2024-12-17-base",
+          "language": "en",
+          "inputText": "Unleash your culinary creativity with the stunningly versatile and stylish KitchenAid 5 Stand Mixer! Boasting an impressive array of more than 20 color variants, this kitchen masterpiece is the perfect complement to any home d\u00e9cor. Whether you're a seasoned baker or just starting out, the KitchenAid 5 is your trusty sidekick, ready to tackle your most ambitious recipes.\n\nWith the capacity to whip up 9 dozen cookies or 4 loaves of bread in a single batch, you'll be the talk of the town at every bake sale and family gathering. The powerful 59 touch points planetary mixing action ensures that every ingredient is thoroughly incorporated, giving you smooth, even textures every time.\n\nIncluded with your KitchenAid 5 are essential tools to get you started: a 5 Quart Stainless Steel Bowl, a Coated Flat Beater, a Coated Dough Hook, a 6-Wire Whip, and a Pouring Shield to make adding ingredients mess-free. Each accessory is thoughtfully designed to make your baking experience a breeze.\n\nThe sturdy metal construction promises durability and longevity, while the comfortable handle and dishwasher-safe bowl make for easy handling and cleanup. The tilt-head design allows for clear access to the bowl and attached beater or accessory, so you can easily add ingredients to a recipe.\n\nWith 10 speed settings, you have complete control to mix, knead, or whip your way to perfection. Planning to expand your culinary repertoire? The KitchenAid 5 also offers over 10 optional hub-powered attachments (sold separately), transforming your mixer into a culinary center.\n\nDon't settle for ordinary when you can have extraordinary. The KitchenAid 5 is not just a mixer; it's a statement piece that reflects your passion for cooking and your taste for quality. Order now and start your journey to becoming a baking legend with the KitchenAid 5 Stand Mixer!"
+        }
+      ],
+      "editorDocumentId": null
+    }
+  },
+  {
+    "title": "matein_17_inch_laptop_backpack_t",
+    "description_type": "human_description",
+    "original_text": "\ud83c\udf4fInsulated Cooler Compartment: Dimension of the lunch box compartment: 11.4 x 5.5 x 6.9 inches(hold up 10 cans). It is made of water-resistant Aluminum and high-quality lining material to not only keep the food warm but also keep drinks cold about 3-5 hours. Also the foldable lunch layer ensures food safety. Please note that when the lunch area is full, the available space for other things in the men backpack will be correspondingly reduced\n\n\ud83c\udf4fMultiple Organized Pockets: The whole bag size: 18.1\"H x 12.9\"L x 8.5\"W. The work backpack features 1 laptop sleeve compartment for 17.3 15.6 15 14 13.3 inch laptops, 1 main zipper pocket roomy for clothes, files, papers etc. 2 small front pockets for your daily necessities(1 slot & 1 key hook inside). 2 side pockets for umbrella or facial tissue. Large capacity laptop backpack is perfect for commute\n\n\ud83c\udf4fComfortable Using Experience: External USB port and set-in charging cable offer a convenient way to charge your electronic devices while walking. (Please noted that you need to provide your own power bank) This flight approved computer backpack can be freely unfolded 90-180 degrees that you could find your laptop quickly whether you are in the office or college. TSA is also designed to be friendly for travel enthusiasts to get through security quickly and keep items tidy\n\n\ud83c\udf4fPadded & Anti-Theft: This lunch bag backpack features breathable mesh pads on the shoulder straps, back and handle, making it easy to carry for a long time, such as hiking, mountaineering. There is an anti-theft pocket on the back of the backpack to hold your important accessories such as passports, wallets, ID card. In addition, the luggage strap allows backpack fit on luggage case and slide along with it\n\n\ud83c\udf4fDurable Material & Water Resistant: The 17 inch Insulated Cooler Backpack is made of spliced high-density polyester fabric that won't rip or scratch. Water-resistant material provides extra security in drizzle days. You can use the lunch bag as a teacher backpack, business backpack, pinic backpack, travel backpack etc. It's an ideal Halloween, Thanksgiving, Christmas, New Year gift for work business travel mens",
+    "gptzero_response": {
+      "version": "2024-12-17-base",
+      "scanId": "2d47ad7f-ad42-490f-8765-269d9c0342cb",
+      "documents": [
+        {
+          "sentences": [
+            {
+              "generated_prob": 0.004440469667315483,
+              "sentence": "\ud83c\udf4fInsulated Cooler Compartment: Dimension of the lunch box compartment: 11.4 x 5.5 x 6.9 inches(hold up 10 cans).",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.0035237844567745924,
+              "sentence": "It is made of water-resistant Aluminum and high-quality lining material to not only keep the food warm but also keep drinks cold about 3-5 hours.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.003360496833920479,
+              "sentence": "Also the foldable lunch layer ensures food safety.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.0037558120675385,
+              "sentence": "Please note that when the lunch area is full, the available space for other things in the men backpack will be correspondingly reduced",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.004847999662160873,
+              "sentence": "\ud83c\udf4fMultiple Organized Pockets: The whole bag size: 18.1\"H x 12.9\"L x 8.5\"W. The work backpack features 1 laptop sleeve compartment for 17.3 15.6 15 14 13.3 inch laptops, 1 main zipper pocket roomy for clothes, files, papers etc.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.004217501264065504,
+              "sentence": "2 small front pockets for your daily necessities(1 slot & 1 key hook inside).",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.004867598880082369,
+              "sentence": "2 side pockets for umbrella or facial tissue.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.0040771556086838245,
+              "sentence": "Large capacity laptop backpack is perfect for commute",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.003926781006157398,
+              "sentence": "\ud83c\udf4fComfortable Using Experience: External USB port and set-in charging cable offer a convenient way to charge your electronic devices while walking.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.0033565587364137173,
+              "sentence": "(Please noted that you need to provide your own power bank) This flight approved computer backpack can be freely unfolded 90-180 degrees that you could find your laptop quickly whether you are in the office or college.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.004829369019716978,
+              "sentence": "TSA is also designed to be friendly for travel enthusiasts to get through security quickly and keep items tidy",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.004366390872746706,
+              "sentence": "\ud83c\udf4fPadded & Anti-Theft: This lunch bag backpack features breathable mesh pads on the shoulder straps, back and handle, making it easy to carry for a long time, such as hiking, mountaineering.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.003982347436249256,
+              "sentence": "There is an anti-theft pocket on the back of the backpack to hold your important accessories such as passports, wallets, ID card.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.0039057666435837746,
+              "sentence": "In addition, the luggage strap allows backpack fit on luggage case and slide along with it",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.00403343141078949,
+              "sentence": "\ud83c\udf4fDurable Material & Water Resistant: The 17 inch Insulated Cooler Backpack is made of spliced high-density polyester fabric that won't rip or scratch.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.0036562192253768444,
+              "sentence": "Water-resistant material provides extra security in drizzle days.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.0018437260296195745,
+              "sentence": "You can use the lunch bag as a teacher backpack, business backpack, pinic backpack, travel backpack etc.",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            },
+            {
+              "generated_prob": 0.001644792384468019,
+              "sentence": "It's an ideal Halloween, Thanksgiving, Christmas, New Year gift for work business travel mens",
+              "perplexity": 0,
+              "highlight_sentence_for_ai": false
+            }
+          ],
+          "paragraphs": [
+            {
+              "start_sentence_index": 0,
+              "num_sentences": 4,
+              "completely_generated_prob": 0.0006564766595293492
+            },
+            {
+              "start_sentence_index": 4,
+              "num_sentences": 4,
+              "completely_generated_prob": 0.0006564766595293492
+            },
+            {
+              "start_sentence_index": 8,
+              "num_sentences": 3,
+              "completely_generated_prob": 0.00408719312638748
+            },
+            {
+              "start_sentence_index": 11,
+              "num_sentences": 3,
+              "completely_generated_prob": 0.00408719312638748
+            },
+            {
+              "start_sentence_index": 14,
+              "num_sentences": 4,
+              "completely_generated_prob": 0.0006564766595293492
+            }
+          ],
+          "completely_generated_prob": 0.03894066352106645,
+          "class_probabilities": {
+            "human": 0.9610148666808178,
+            "ai": 0.03894066352106645,
+            "mixed": 4.446979811567727e-05
+          },
+          "average_generated_prob": 0,
+          "predicted_class": "human",
+          "confidence_score": 0.9610148666808178,
+          "confidence_category": "high",
+          "confidence_scores_raw": {
+            "identity": {
+              "ai": 0.03894066352106645,
+              "human": 0.9610148666808178,
+              "mixed": 4.446979811567727e-05
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai": {
+                "reject": 0.65,
+                "low": 0.8,
+                "medium": 0.92
+              },
+              "human": {
+                "reject": 0.7,
+                "low": 0.82,
+                "medium": 0.92
+              },
+              "mixed": {
+                "reject": 0.7,
+                "low": 0.8,
+                "medium": 0.88
+              }
+            }
+          },
+          "overall_burstiness": 0,
+          "writing_stats": {},
+          "subclass": {
+            "ai": {},
+            "human": {},
+            "mixed": {}
+          },
+          "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+          "document_classification": "HUMAN_ONLY",
+          "version": "2024-12-17-base",
+          "language": "en",
+          "inputText": "\ud83c\udf4fInsulated Cooler Compartment: Dimension of the lunch box compartment: 11.4 x 5.5 x 6.9 inches(hold up 10 cans). It is made of water-resistant Aluminum and high-quality lining material to not only keep the food warm but also keep drinks cold about 3-5 hours. Also the foldable lunch layer ensures food safety. Please note that when the lunch area is full, the available space for other things in the men backpack will be correspondingly reduced\n\n\ud83c\udf4fMultiple Organized Pockets: The whole bag size: 18.1\"H x 12.9\"L x 8.5\"W. The work backpack features 1 laptop sleeve compartment for 17.3 15.6 15 14 13.3 inch laptops, 1 main zipper pocket roomy for clothes, files, papers etc. 2 small front pockets for your daily necessities(1 slot & 1 key hook inside). 2 side pockets for umbrella or facial tissue. Large capacity laptop backpack is perfect for commute\n\n\ud83c\udf4fComfortable Using Experience: External USB port and set-in charging cable offer a convenient way to charge your electronic devices while walking. (Please noted that you need to provide your own power bank) This flight approved computer backpack can be freely unfolded 90-180 degrees that you could find your laptop quickly whether you are in the office or college. TSA is also designed to be friendly for travel enthusiasts to get through security quickly and keep items tidy\n\n\ud83c\udf4fPadded & Anti-Theft: This lunch bag backpack features breathable mesh pads on the shoulder straps, back and handle, making it easy to carry for a long time, such as hiking, mountaineering. There is an anti-theft pocket on the back of the backpack to hold your important accessories such as passports, wallets, ID card. In addition, the luggage strap allows backpack fit on luggage case and slide along with it\n\n\ud83c\udf4fDurable Material & Water Resistant: The 17 inch Insulated Cooler Backpack is made of spliced high-density polyester fabric that won't rip or scratch. Water-resistant material provides extra security in drizzle days. You can use the lunch bag as a teacher backpack, business backpack, pinic backpack, travel backpack etc. It's an ideal Halloween, Thanksgiving, Christmas, New Year gift for work business travel mens"
+        }
+      ],
+      "editorDocumentId": null
+    }
+  }
+]
