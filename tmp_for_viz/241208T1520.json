@@ -1,0 +1,1781 @@
+{
+    "metadata": {
+        "run_start": "2024-12-08T15:19:07.189692",
+        "run_end": "2024-12-08T15:20:34.089908",
+        "item_type": "proposal",
+        "item_title_like": [],
+        "items_covered": [
+            "chromatin_fiber_and_remodeling_f",
+            "the_ocular_glymphatic_system",
+            "at_a_crossroads_of_bantu_expansi",
+            "foundations_of_transcendental_me",
+            "scanning_multimodality_microscop",
+            "layering_understanding_controlli",
+            "understanding_dsb_repair_from_pa",
+            "integrative_omics_of_heart_failu",
+            "adaptive_optical_microscopy_syst",
+            "the_cultural_evolution_and_ecolo",
+            "correlating_the_state_and_proper",
+            "magmaassisted_tectonics_twophase",
+            "major_depression_as_a_metabolic_",
+            "macroautophagy_and_necrotic_neur",
+            "oral_oxytocin_for_abdominal_pain",
+            "deciphering_the_role_of_huntingt",
+            "silicon_integrated_lasers_and_op",
+            "the_human_behavioral_immune_syst",
+            "a_modular_sensing_and_imaging_to",
+            "unveiling_the_origins_of_whitedw",
+            "a_genomic_and_macroevolutionary_",
+            "stable_and_clean_iron_power_from",
+            "supramolecular_microcapsules_for",
+            "membranebased_nanomechanobiology",
+            "breaking_oncometabolites_dynamic",
+            "concepts_theories_and_models_for",
+            "the_dynamic_protein_matrix_in_ph",
+            "quantum_optical_magnetometer_for",
+            "a_systematic_exploration_of_inte",
+            "cell_migration_in_gut_homeostasi",
+            "productivity_and_development_the",
+            "postauthoritarian_norms_and_the_",
+            "perspectival_realism_science_kno",
+            "pathogenphage_cooperation_during",
+            "moduli_of_curves_sheaves_and_k3_",
+            "neutrinos_and_the_origin_of_the_",
+            "food_circuits_hidden_connections",
+            "geography_and_economy_of_the_imp",
+            "towards_total_scene_understandin",
+            "diabetes_approach_by_multiorgano",
+            "precision_medicine_approach_to_r",
+            "stability_and_testability_groups",
+            "biochips__biofabricated_microflu",
+            "smartcontract_protocols_theory_f",
+            "spontaneous_evolution_and_clonal",
+            "defining_novel_mechanisms_critic",
+            "breathing_oceans_understanding_t",
+            "biological_origins_of_linguistic",
+            "topological_crystalline_insulato",
+            "reconsidering_constitutional_for",
+            "photosynthesis_in_farred_from_cy",
+            "molecular_pathology_of_antiviral",
+            "celluloepidemiology_a_novel_para",
+            "nonergodic_quantum_matter_univer",
+            "60hz_light_entrainment_to_unlock",
+            "disruption_of_systemic_and_micro",
+            "onchip_optical_communication_wit",
+            "activitydependent_modulation_of_",
+            "cochlear_optogenetics_for_audito",
+            "coping_with_decline_comparative_",
+            "singularities_and_symplectic_map",
+            "testing_the_untestable_model_tes",
+            "advanced_multiscale_simulation_o",
+            "are_marine_living_microorganisms",
+            "computational_dissection_of_effe",
+            "repair_mechanisms_of_topoisomera",
+            "from_sparsity_to_deep_learning",
+            "adolescent_precursors_to_psychia",
+            "deepsea_carbonates_under_pressur",
+            "deciphering_and_targeting_cellul",
+            "rethinking_psychological_accultu",
+            "data_driven_structured_modelling",
+            "receptor_recruitment_as_an_organ",
+            "big_data_for_catalysis",
+            "the_gaugegravity_duality_and_geo",
+            "the_role_of_lipolysis_in_the_pat",
+            "plant_adaptation_in_a_changing_p",
+            "soundscapes_of_trauma_music_soun",
+            "multidisciplinary_studies_of_ext",
+            "identification_and_targeting_of_",
+            "interdisciplinary_research_conne",
+            "ultrafast_quantum_physics_on_the",
+            "rehabilitation_and_diagnosis_of_",
+            "making_the_earth_global_early_mo",
+            "integrated_structural_and_probab",
+            "reprogramming_conformation_by_fl",
+            "symbol_elimination_in_reliable_s",
+            "inflammatory_signals_of_cell_dea",
+            "do_plant_volatiles_shape_species",
+            "metalorganic_reagents_for_lighte",
+            "out_of_equilibrium_fluctuations_",
+            "the_15thcentury_book_trade_an_ev",
+            "tension_of_endomembranes_maintai",
+            "postcellular_wireless_networks",
+            "smart_protonic_quantum_frequency",
+            "mapping_dispersion_spectroscopic",
+            "design_of_nucleic_acidtemplated_",
+            "children_and_adolescents_with_pa",
+            "fragmentation_in_turbulence_revi",
+            "ultrasensitive_quantification_of",
+            "novel_symbioses",
+            "nanoengineered_magnetoresponsive",
+            "synthetic_circular_rna_therapeut",
+            "synthetic_confined_environments_",
+            "advanced_magnetic_probes_for_min",
+            "towards_compressive_information_",
+            "the_transcriptional_response_to_",
+            "quasirandomness_in_extremal_comb",
+            "gravitational_interferometry_wit",
+            "smart_monitoring_inspection_and_",
+            "onsurface_atomic_spins_with_outs",
+            "towards_nanostructured_electroca",
+            "trapped_ensembles_of_circular_ry",
+            "new_sensor_devices_based_on_soft",
+            "automatic_measurement_of_speech_",
+            "repair_of_junctional_atrioventri",
+            "lifespan_development_of_typical_",
+            "heterogeneous_integration_of_imp",
+            "finance_and_labor",
+            "studying_the_cisregulatory_chang",
+            "the_neural_basis_of_dynamic_terr",
+            "biogenesis_and_degradation_of_en",
+            "integrated_solar_energy_system",
+            "nanobodytargeted_photodynamic_th",
+            "noninvasive_computational_immuno",
+            "shaped_hybrid_forward_error_corr",
+            "solidarity_in_the_european_union",
+            "interactive_fluidic_state_machin",
+            "designing_devices_by_doping_on_d",
+            "additive_micromanufacturing_for_",
+            "extremes_in_logarithmically_corr",
+            "visual_learning_and_inference_in",
+            "microscale_photonic_trace_gas_se",
+            "performance_capture_of_the_real_",
+            "doping_on_demand_precise_and_per",
+            "creative_agency_and_religious_mi",
+            "nhelicene_diimides_a_twist_in_di",
+            "targeting_the_dark_side_of_the_h",
+            "death_and_life_of_catalysts_a_th",
+            "understanding_the_origin_of_spec",
+            "quantum_metamaterials_with_integ",
+            "adpribosylation_and_ubiquitinati",
+            "beyond_turing_reactiondiffusion_",
+            "nextgeneration_light_source_driv",
+            "rethinking_efficiency_in_deep_le",
+            "financing_frictions_in_highpoten",
+            "sequence_similarity_networks_a_p",
+            "going_deep_and_blind_with_intern",
+            "accelerating_biofilm_matrix_disp",
+            "towards_a_quantitative_framework",
+            "understanding_the_balbiani_body_",
+            "institutions_and_metaphysics_of_",
+            "the_basic_principles_of_polyploi",
+            "forest_intelligence_robotic_netw",
+            "role_of_mirnas_in_brown_and_whit",
+            "robust_mechanism_design_and_robu",
+            "ultimate_fracture_toughness_thro",
+            "quantum_nanophotonics_in_rolledu",
+            "timeprogrammed_selfassemblies_an",
+            "endothelial_immunosuppressive_my",
+            "bismuth_compounds_in_radical_rea",
+            "hybrid_imaging_in_the_catheteriz",
+            "assisting_coral_reef_survival_in",
+            "sciencebased_paradigm_shift_for_",
+            "high_temperature__smallscale_sub",
+            "darksoliton_engineering_in_micro",
+            "family_ties_that_bind_a_new_view",
+            "medieval_placebo_effect_hope_and",
+            "learning_from_our_collective_vis",
+            "inside_the_mind_of_a_voter__memo",
+            "wearable_augmented_reality_3d_di",
+            "function_and_production_of_secon",
+            "towards_a_decentred_history_of_t",
+            "information_technology_and_insti",
+            "the_present_dead_investigating_i",
+            "a_software_interface_for_interac",
+            "an_ex_vivo_platform_to_screen_dr",
+            "timescale_bridging_potentials_fo",
+            "inside_mechanisms_sustaining_can",
+            "scalable_graphenegated_transisto",
+            "massive_intracellular_recording_",
+            "targeting_mechanisms_of_thromboi",
+            "engineering_vascularized_tissues",
+            "adaptation_dispersals_and_phenot",
+            "narrative_ordering_and_explanati",
+            "virtualization_of_real_flows_for",
+            "magicswitch_magnetic_switch_cont",
+            "mechanisms_of_bone_marrow_seques",
+            "political_conflict_in_europe_in_",
+            "magnetoacoustic_waves_in_complex",
+            "population_dynamics_under_global",
+            "solid_basis_for_symmetric_crypto",
+            "the_anthropology_of_the_future_a",
+            "fast_filtering_for_computer_grap",
+            "functionality_of_oxide_based_dev",
+            "towards_the_understanding_a_meta",
+            "early_warning_of_future_rapid_ar",
+            "optical_sensing_of_relative_humi",
+            "investigating_mammalian_evolutio",
+            "conversion_overlapping_religiosi",
+            "valorisation_of_spliceswitching_",
+            "fickle_formulas_the_political_ec",
+            "communication_in_action_towards_",
+            "the_importance_of_cellular_sex_i",
+            "nonvolatile_magnetic_flip_flop",
+            "verified_physicsaware_machine_le",
+            "parental_time_investments_and_in",
+            "high_resolution_and_chemical_gen",
+            "sphere_susceptibility_to_particl",
+            "optimal_particle_identification_",
+            "atomicscale_design_of_majorana_s",
+            "multiscale_modelling_of_the_neur",
+            "optimized_drug_combinations_for_",
+            "the_tocharian_trek_a_linguistic_",
+            "constraints_and_opportunities_fo",
+            "the_multisensorymotor_unity_of_s",
+            "cryptography_from_unstructured_h",
+            "an_integrated_approach_to_unders",
+            "an_anthropological_investigation",
+            "deep_brain_neuromodulation_using",
+            "a_multifaceted_cancer_immunother",
+            "microwave_metadevices_based_on_e",
+            "disability_versus_difference_ove",
+            "deformable_multipleview_geometry",
+            "prisons_the_rule_of_law_accounta",
+            "diffusion_barrier_layers_and_ant",
+            "atomicscale_dynamics_of_quantum_",
+            "local_control_of_macroscopic_pro",
+            "ancient_adhesives__a_window_on_p",
+            "the_global_impact_of_coastal_wat",
+            "multiscale_analysis_of_the_inter",
+            "isotopic_signatures_of_sulfur_cy",
+            "setting_the_optimal_balance_betw",
+            "morbidity_due_to_loiasis_populat",
+            "functional_systems_of_capsules",
+            "the_physics_of_earthquake_faulti",
+            "precise_and_nongmo_engineering_o",
+            "nextgeneration_personalized_diag",
+            "the_dynamics_of_migration_and_ec",
+            "medically_licensed_mesenchymal_s",
+            "a_learningfromprices_view_of_inf",
+            "nextgeneration_of_interior_model",
+            "transcriptional_engineering_of_h",
+            "landscape_use_and_mobility_in_eu",
+            "datacentric_parallel_programming",
+            "gene_expression_level_as_a_keyst",
+            "understanding_life_trajectories_",
+            "precision_dating_of_the_palaeoli",
+            "multiscale_mechanics_of_bone_fra",
+            "the_extracellular_matrix_as_a_me"
+        ],
+        "min_description_generation_count": 3,
+        "engine_and_prompt_permutations": [
+            {
+                "comparison_engine": "gpt-4-1106-preview",
+                "comparison_prompt_key": "proposal_pick_one",
+                "description_engine": "gpt-4-1106-preview",
+                "description_prompt_key": "from_json_details"
+            }
+        ]
+    },
+    "results": {
+        "proposal---DESCRIPTION-from_json_details|gpt-4-1106-preview---COMPARISON-proposal_pick_one|gpt-4-1106-preview": {
+            "details_by_item": {
+                "chromatin_fiber_and_remodeling_f": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 1,
+                    "LLM": 2,
+                    "Invalid": 3
+                },
+                "the_ocular_glymphatic_system": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "at_a_crossroads_of_bantu_expansi": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "foundations_of_transcendental_me": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "scanning_multimodality_microscop": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "layering_understanding_controlli": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "understanding_dsb_repair_from_pa": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "integrative_omics_of_heart_failu": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "adaptive_optical_microscopy_syst": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "the_cultural_evolution_and_ecolo": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "correlating_the_state_and_proper": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "magmaassisted_tectonics_twophase": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "major_depression_as_a_metabolic_": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "macroautophagy_and_necrotic_neur": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "oral_oxytocin_for_abdominal_pain": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "deciphering_the_role_of_huntingt": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "silicon_integrated_lasers_and_op": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 5,
+                    "Invalid": 1
+                },
+                "the_human_behavioral_immune_syst": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "a_modular_sensing_and_imaging_to": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "unveiling_the_origins_of_whitedw": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "a_genomic_and_macroevolutionary_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "stable_and_clean_iron_power_from": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "supramolecular_microcapsules_for": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "membranebased_nanomechanobiology": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "breaking_oncometabolites_dynamic": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "concepts_theories_and_models_for": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "the_dynamic_protein_matrix_in_ph": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "quantum_optical_magnetometer_for": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "a_systematic_exploration_of_inte": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "cell_migration_in_gut_homeostasi": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "productivity_and_development_the": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "postauthoritarian_norms_and_the_": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "perspectival_realism_science_kno": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "pathogenphage_cooperation_during": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "moduli_of_curves_sheaves_and_k3_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "neutrinos_and_the_origin_of_the_": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "food_circuits_hidden_connections": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "geography_and_economy_of_the_imp": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "towards_total_scene_understandin": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "diabetes_approach_by_multiorgano": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "precision_medicine_approach_to_r": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "stability_and_testability_groups": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "biochips__biofabricated_microflu": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "smartcontract_protocols_theory_f": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "spontaneous_evolution_and_clonal": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "defining_novel_mechanisms_critic": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "breathing_oceans_understanding_t": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "biological_origins_of_linguistic": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 6,
+                    "Invalid": 0
+                },
+                "topological_crystalline_insulato": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "reconsidering_constitutional_for": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "photosynthesis_in_farred_from_cy": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "molecular_pathology_of_antiviral": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "celluloepidemiology_a_novel_para": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "nonergodic_quantum_matter_univer": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "60hz_light_entrainment_to_unlock": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "disruption_of_systemic_and_micro": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "onchip_optical_communication_wit": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 6,
+                    "Invalid": 0
+                },
+                "activitydependent_modulation_of_": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "cochlear_optogenetics_for_audito": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "coping_with_decline_comparative_": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "singularities_and_symplectic_map": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "testing_the_untestable_model_tes": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "advanced_multiscale_simulation_o": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "are_marine_living_microorganisms": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "computational_dissection_of_effe": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "repair_mechanisms_of_topoisomera": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "from_sparsity_to_deep_learning": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "adolescent_precursors_to_psychia": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "deepsea_carbonates_under_pressur": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "deciphering_and_targeting_cellul": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "rethinking_psychological_accultu": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "data_driven_structured_modelling": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "receptor_recruitment_as_an_organ": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "big_data_for_catalysis": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "the_gaugegravity_duality_and_geo": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "the_role_of_lipolysis_in_the_pat": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "plant_adaptation_in_a_changing_p": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "soundscapes_of_trauma_music_soun": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "multidisciplinary_studies_of_ext": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "identification_and_targeting_of_": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "interdisciplinary_research_conne": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 4
+                },
+                "ultrafast_quantum_physics_on_the": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "rehabilitation_and_diagnosis_of_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "making_the_earth_global_early_mo": {
+                    "LLM_win_ratio": 0.3333333333333333,
+                    "Human": 4,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "integrated_structural_and_probab": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "reprogramming_conformation_by_fl": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "symbol_elimination_in_reliable_s": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "inflammatory_signals_of_cell_dea": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "do_plant_volatiles_shape_species": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "metalorganic_reagents_for_lighte": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "out_of_equilibrium_fluctuations_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 6,
+                    "Invalid": 0
+                },
+                "the_15thcentury_book_trade_an_ev": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "tension_of_endomembranes_maintai": {
+                    "LLM_win_ratio": 0.16666666666666666,
+                    "Human": 5,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "postcellular_wireless_networks": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "smart_protonic_quantum_frequency": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "mapping_dispersion_spectroscopic": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "design_of_nucleic_acidtemplated_": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "children_and_adolescents_with_pa": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "fragmentation_in_turbulence_revi": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "ultrasensitive_quantification_of": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "novel_symbioses": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "nanoengineered_magnetoresponsive": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "synthetic_circular_rna_therapeut": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "synthetic_confined_environments_": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 1,
+                    "LLM": 2,
+                    "Invalid": 3
+                },
+                "advanced_magnetic_probes_for_min": {
+                    "LLM_win_ratio": 0.3333333333333333,
+                    "Human": 4,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "towards_compressive_information_": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "the_transcriptional_response_to_": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "quasirandomness_in_extremal_comb": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "gravitational_interferometry_wit": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "smart_monitoring_inspection_and_": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "onsurface_atomic_spins_with_outs": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "towards_nanostructured_electroca": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "trapped_ensembles_of_circular_ry": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "new_sensor_devices_based_on_soft": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "automatic_measurement_of_speech_": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "repair_of_junctional_atrioventri": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "lifespan_development_of_typical_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "heterogeneous_integration_of_imp": {
+                    "LLM_win_ratio": 0.2,
+                    "Human": 4,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "finance_and_labor": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "studying_the_cisregulatory_chang": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "the_neural_basis_of_dynamic_terr": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "biogenesis_and_degradation_of_en": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "integrated_solar_energy_system": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "nanobodytargeted_photodynamic_th": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "noninvasive_computational_immuno": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "shaped_hybrid_forward_error_corr": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "solidarity_in_the_european_union": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "interactive_fluidic_state_machin": {
+                    "LLM_win_ratio": 0.2,
+                    "Human": 4,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "designing_devices_by_doping_on_d": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "additive_micromanufacturing_for_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "extremes_in_logarithmically_corr": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "visual_learning_and_inference_in": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "microscale_photonic_trace_gas_se": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "performance_capture_of_the_real_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "doping_on_demand_precise_and_per": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "creative_agency_and_religious_mi": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "nhelicene_diimides_a_twist_in_di": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 4,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "targeting_the_dark_side_of_the_h": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "death_and_life_of_catalysts_a_th": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "understanding_the_origin_of_spec": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "quantum_metamaterials_with_integ": {
+                    "LLM_win_ratio": 0.3333333333333333,
+                    "Human": 4,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "adpribosylation_and_ubiquitinati": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "beyond_turing_reactiondiffusion_": {
+                    "LLM_win_ratio": 0.2,
+                    "Human": 4,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "nextgeneration_light_source_driv": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 3,
+                    "LLM": 1,
+                    "Invalid": 2
+                },
+                "rethinking_efficiency_in_deep_le": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "financing_frictions_in_highpoten": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "sequence_similarity_networks_a_p": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "going_deep_and_blind_with_intern": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "accelerating_biofilm_matrix_disp": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "towards_a_quantitative_framework": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "understanding_the_balbiani_body_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "institutions_and_metaphysics_of_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "the_basic_principles_of_polyploi": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "forest_intelligence_robotic_netw": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "role_of_mirnas_in_brown_and_whit": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "robust_mechanism_design_and_robu": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 3,
+                    "Invalid": 3
+                },
+                "ultimate_fracture_toughness_thro": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "quantum_nanophotonics_in_rolledu": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "timeprogrammed_selfassemblies_an": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 3,
+                    "LLM": 1,
+                    "Invalid": 2
+                },
+                "endothelial_immunosuppressive_my": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "bismuth_compounds_in_radical_rea": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "hybrid_imaging_in_the_catheteriz": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "assisting_coral_reef_survival_in": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 3,
+                    "LLM": 1,
+                    "Invalid": 2
+                },
+                "sciencebased_paradigm_shift_for_": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "high_temperature__smallscale_sub": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "darksoliton_engineering_in_micro": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "family_ties_that_bind_a_new_view": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "medieval_placebo_effect_hope_and": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "learning_from_our_collective_vis": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "inside_the_mind_of_a_voter__memo": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "wearable_augmented_reality_3d_di": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "function_and_production_of_secon": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "towards_a_decentred_history_of_t": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "information_technology_and_insti": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "the_present_dead_investigating_i": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "a_software_interface_for_interac": {
+                    "LLM_win_ratio": 0.2,
+                    "Human": 4,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "an_ex_vivo_platform_to_screen_dr": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "timescale_bridging_potentials_fo": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "inside_mechanisms_sustaining_can": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "scalable_graphenegated_transisto": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "massive_intracellular_recording_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "targeting_mechanisms_of_thromboi": {
+                    "LLM_win_ratio": 0.3333333333333333,
+                    "Human": 4,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "engineering_vascularized_tissues": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "adaptation_dispersals_and_phenot": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "narrative_ordering_and_explanati": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 5,
+                    "Invalid": 1
+                },
+                "virtualization_of_real_flows_for": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "magicswitch_magnetic_switch_cont": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "mechanisms_of_bone_marrow_seques": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "political_conflict_in_europe_in_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "magnetoacoustic_waves_in_complex": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "population_dynamics_under_global": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "solid_basis_for_symmetric_crypto": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "the_anthropology_of_the_future_a": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 3,
+                    "LLM": 1,
+                    "Invalid": 2
+                },
+                "fast_filtering_for_computer_grap": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "functionality_of_oxide_based_dev": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "towards_the_understanding_a_meta": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "early_warning_of_future_rapid_ar": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "optical_sensing_of_relative_humi": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "investigating_mammalian_evolutio": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "conversion_overlapping_religiosi": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "valorisation_of_spliceswitching_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "fickle_formulas_the_political_ec": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "communication_in_action_towards_": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 0
+                },
+                "the_importance_of_cellular_sex_i": {
+                    "LLM_win_ratio": 0.2,
+                    "Human": 4,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "nonvolatile_magnetic_flip_flop": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "verified_physicsaware_machine_le": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "parental_time_investments_and_in": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "high_resolution_and_chemical_gen": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "sphere_susceptibility_to_particl": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "optimal_particle_identification_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "atomicscale_design_of_majorana_s": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "multiscale_modelling_of_the_neur": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "optimized_drug_combinations_for_": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "the_tocharian_trek_a_linguistic_": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "constraints_and_opportunities_fo": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "the_multisensorymotor_unity_of_s": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "cryptography_from_unstructured_h": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "an_integrated_approach_to_unders": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "an_anthropological_investigation": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "deep_brain_neuromodulation_using": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "a_multifaceted_cancer_immunother": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 3,
+                    "LLM": 1,
+                    "Invalid": 2
+                },
+                "microwave_metadevices_based_on_e": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "disability_versus_difference_ove": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "deformable_multipleview_geometry": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "prisons_the_rule_of_law_accounta": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "diffusion_barrier_layers_and_ant": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "atomicscale_dynamics_of_quantum_": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "local_control_of_macroscopic_pro": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 4,
+                    "Invalid": 2
+                },
+                "ancient_adhesives__a_window_on_p": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "the_global_impact_of_coastal_wat": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "multiscale_analysis_of_the_inter": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "isotopic_signatures_of_sulfur_cy": {
+                    "LLM_win_ratio": 0.3333333333333333,
+                    "Human": 4,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "setting_the_optimal_balance_betw": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "morbidity_due_to_loiasis_populat": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "functional_systems_of_capsules": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "the_physics_of_earthquake_faulti": {
+                    "LLM_win_ratio": 0.4,
+                    "Human": 3,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "precise_and_nongmo_engineering_o": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "nextgeneration_personalized_diag": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "the_dynamics_of_migration_and_ec": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "medically_licensed_mesenchymal_s": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "a_learningfromprices_view_of_inf": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "nextgeneration_of_interior_model": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                },
+                "transcriptional_engineering_of_h": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "landscape_use_and_mobility_in_eu": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "datacentric_parallel_programming": {
+                    "LLM_win_ratio": 0.3333333333333333,
+                    "Human": 4,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "gene_expression_level_as_a_keyst": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 2,
+                    "LLM": 2,
+                    "Invalid": 2
+                },
+                "understanding_life_trajectories_": {
+                    "LLM_win_ratio": 0.75,
+                    "Human": 1,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "precision_dating_of_the_palaeoli": {
+                    "LLM_win_ratio": 0.6,
+                    "Human": 2,
+                    "LLM": 3,
+                    "Invalid": 1
+                },
+                "multiscale_mechanics_of_bone_fra": {
+                    "LLM_win_ratio": 0.6666666666666666,
+                    "Human": 2,
+                    "LLM": 4,
+                    "Invalid": 0
+                },
+                "the_extracellular_matrix_as_a_me": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 0
+                }
+            },
+            "total_tallies": {
+                "Human": 537,
+                "LLM": 750,
+                "Invalid": 213
+            },
+            "avg_llm_win_ratio": 0.5899333333333329
+        }
+    }
+}
