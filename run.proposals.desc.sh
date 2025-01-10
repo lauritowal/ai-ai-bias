@@ -5,7 +5,6 @@ WORKERS=1  # Set to 1 if the model starts with `groq-`
 COMPARISON_MODELS="\
   together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
 "
-
   # together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
   # together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
   # together-Qwen/Qwen2.5-72B-Instruct-Turbo \
@@ -14,14 +13,18 @@ COMPARISON_MODELS="\
   # together-Qwen/Qwen2.5-7B-Instruct-Turbo\
 
 DESCRIPTION_ENGINES="\
+  together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
+  together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
   together-Qwen/Qwen2.5-72B-Instruct-Turbo \
-"
-  # together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
-  # together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
-  # together-Qwen/Qwen2.5-72B-Instruct-Turbo \
+" # do 3 at a time, then create new context cache
+
   # gpt-3.5-turbo \
   # gpt-4-1106-preview \
   # together-Qwen/Qwen2.5-7B-Instruct-Turbo\
+
+# done for Mistral as comp:
+#  together-Qwen/Qwen2.5-72B-Instruct-Turbo \
+
 
 for REPEAT in `seq 1`; do # Repetition to handle errors and crashes; caching ensures fast retries
     for M in $COMPARISON_MODELS; do
