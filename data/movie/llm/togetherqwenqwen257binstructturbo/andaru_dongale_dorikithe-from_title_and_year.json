@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Andaru Dongale Dorikithe",
+    "descriptions": [
+        "**Title:** Andaru Dongale Dorikithe  \n**Year:** 1981\n\nA poor farming family struggles to survive in a small village in India. The father, Dongale, and his son, Andaru, dream of a better life. When Dongale loses his land due to a fraudulent transaction by a local moneylender, they are forced to migrate to the city for work. In the city, Andaru finds hope in the form of a skilled carpenter who teaches him a trade. Together, they work hard and eventually open a successful carpentry shop. However, their success is tested when the moneylender, seeking revenge, creates obstacles and tries to repossess their hard-earned property. With the support of their community, Andaru and Dongale fight back, learning valuable lessons about resilience, unity, and the power of dreams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9f7e1b1e1d613b6f29c6e00e964c38b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nAndaru Dongale Dorikithe\n\n**Year:**\n\n",
+    "include_year": false
+}

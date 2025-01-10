@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Black Belt Jones",
+    "descriptions": [
+        "\"Black Belt Jones\" is a 1974 martial arts film starring Jim Kelly as the titular character. Jim Kelly plays Black Belt Jones, a skilled martial artist who works as a maintenance man in a large apartment complex. \n\nJones is a quiet and unassuming man who keeps to himself. However, when the complex is threatened by a crime syndicate, he reveals his true identity as a skilled martial artist. Jones uses his skills to take down the gang and protect the complex's residents.\n\nThe film features a mix of martial arts action and comedy, with Jones using his wit and agility to outsmart his opponents. The movie also stars Glynn Turman as a local journalist who helps Jones in his quest to take down the crime syndicate.\n\n\"Black Belt Jones\" is notable for being one of the few films to feature a predominantly African American cast and crew, including the film's director, Robert Clouse. The movie has since become a cult classic and is still widely enjoyed by fans of 1970s martial arts cinema. Despite its flaws, the film remains a fun and entertaining watch, with Jim Kelly's charismatic performance being a highlight of the movie."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nBlack Belt Jones\n\n**Year:**\n\n1974",
+    "include_year": false
+}

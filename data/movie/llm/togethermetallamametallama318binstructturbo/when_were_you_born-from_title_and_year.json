@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "When Were You Born",
+    "descriptions": [
+        "\"Kiedye Jesteś Z Mnie\" or \"When Were You Born\" is a Polish drama film released in 1938. The movie is directed by Michał Waszyński and is based on a novel of the same name by Stefan Zeromski.\n\nThe film revolves around the story of a young woman, Barbara, who seeks to understand her family's dark past. Barbara is an orphan who resides with her aunt, a widow. However, Barbara's life is turned upside down when she discovers that her aunt is hiding a dark secret from her past. \n\nThe movie takes a look at the tragic events that occurred during the Polish-Russian War. Barbara learns about a tragic event that occurred in her family's past where her mother was involved with a Russian officer. The officer was killed, and Barbara's mother was accused of the crime. However, Barbara's suspicions suggest that her aunt was also involved in the officer's death.\n\nAs Barbara delves deeper into her family's past, she discovers a deep-seated family secret that threatens to destroy her relationship with her aunt. The movie is a poignant exploration of family dynamics, love, and the impact of historical events on people's lives.\n\nThroughout the movie, the cinematography and the direction effectively convey the emotional turmoil that Barbara goes through as she uncovers her family's dark past. The performances by the cast add to the overall impact of the film, making it a powerful drama that explores the complexities of human relationships.\n\nUltimately, \"When Were You Born\" is a thought-provoking film that delves into themes of love, family, and the consequences of one's actions. The movie's exploration of the Polish-Russian War and its impact on ordinary people adds depth and historical context to the story. The film is a must-watch for anyone interested in Polish cinema and historical dramas."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "54bede93b3eba067e4d1dec5abcc385e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 498.0 words or less.\n\n---\n\n**Title:**\n\nWhen Were You Born\n\n**Year:**\n\n1938",
+    "include_year": false
+}

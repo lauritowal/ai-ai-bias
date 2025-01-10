@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Back to the Woods",
+    "descriptions": [
+        " In \"Back to the Woods,\" released in 1937, the Three Stooges - Larry, Moe, and Curly - find themselves in a comedic predicament when they are hired as forest rangers to capture a notorious bandit, the Plywood Pirate. The trio, known for their slapstick humor and physical comedy, stumble their way through the forest, causing mayhem and chaos at every turn. Their incompetence as rangers is evident from the start, as they struggle to set up camp and navigate the wilderness.\n\nMeanwhile, the Plywood Pirate is on a crime spree, robbing local campsites and causing panic among the residents. The Three Stooges, oblivious to the danger they're in, stumble upon the bandit's hideout and mistakenly believe they've captured the Pirate. However, they soon realize their mistake and find themselves in a series of hilarious mishaps as they try to outsmart the criminal.\n\nIn true Three Stooges fashion, the trio's attempts to catch the bandit result in a series of pratfalls, physical gags, and witty one-liners. Despite their bumbling efforts, they eventually manage to capture the Plywood Pirate and save the day. \"Back to the Woods\" is a classic example of the Three Stooges' comedy, with their timeless humor and slapstick antics sure to leave audiences laughing."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "71100496287e5f70bae81ed0067e4484",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 248.0 words or less.\n\n---\n\n**Title:**\n\nBack to the Woods\n\n**Year:**\n\n1937",
+    "include_year": false
+}

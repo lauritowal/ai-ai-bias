@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "My Girl and I",
+    "descriptions": [
+        "\"My Girl and I\" is a 2005 South Korean romantic comedy film directed by Lee Dae-young. The movie revolves around the story of a young woman named Jung Jin-yi (played by Gong Hyo-jin), who is known for being a bit eccentric and awkward in her daily life.\n\nJin-yi has always had a hard time finding a suitable partner due to her unique personality and appearance. However, her life takes a sudden turn when she meets a man named Baek Jang-go (played by Kim Rae-won), who is initially portrayed as a womanizer.\n\nDespite their initial differences, Jin-yi and Jang-go start to develop a connection, and their relationship gradually deepens. However, things become complicated when Jang-go's friends and acquaintances find out about his relationship with Jin-yi.\n\nAs the story unfolds, Jin-yi and Jang-go face various challenges and obstacles in their relationship. Jin-yi's quirky nature and Jang-go's womanizing past create tension in their relationship, causing them to question whether they are truly compatible.\n\nThroughout the movie, Jin-yi and Jang-go learn to accept and appreciate each other's differences, eventually leading to a deeper understanding of themselves and their relationship. The film's lighthearted and comedic tone makes it an enjoyable watch, with a heartwarming message about the importance of embracing individuality and taking risks in love.\n\nOverall, \"My Girl and I\" is a charming and humorous romantic comedy that explores the complexities of relationships and the beauty of self-acceptance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "83ec39beef960538ae8411b06da5e069",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1411.0 words or less.\n\n---\n\n**Title:**\n\nMy Girl and I\n\n**Year:**\n\n2005",
+    "include_year": false
+}

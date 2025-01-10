@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Summer Heat",
+    "descriptions": [
+        "In the summer of 2008, a group of friends embarks on a road trip to escape the scorching heat of the city. As they make their way to a remote beach house, tensions begin to rise within the group. \n\nThe friends, each struggling with their own personal demons and insecurities, find themselves at odds with each other as they are forced to confront their issues in the confines of the beach house. Secrets are revealed, relationships are tested, and emotions run high as the heat of the summer intensifies.\n\nAs the days pass, the group is faced with challenges that push them to their limits. Friendships are strained, romances are tested, and loyalties are questioned. The summer heat becomes a metaphor for the pressure and intensity of their emotions, boiling over and threatening to consume them all.\n\nAmidst the drama and conflict, the friends are forced to confront their own fears and insecurities, leading to moments of self-discovery and growth. As they navigate the complexities of their relationships and confront their inner demons, they realize the importance of honesty, forgiveness, and acceptance.\n\nBy the end of the summer, the group emerges changed and transformed, their bonds stronger than ever. They have weathered the heat of the summer and come out on the other side, united in their shared experiences and newfound understanding of themselves and each other. The summer heat may have been oppressive, but it ultimately served as a catalyst for growth and self-discovery for the group of friends."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "76c9674bf3f7e006ed0fed3b5b7bf780",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 360.0 words or less.\n\n---\n\n**Title:**\n\nSummer Heat\n\n**Year:**\n\n2008",
+    "include_year": false
+}

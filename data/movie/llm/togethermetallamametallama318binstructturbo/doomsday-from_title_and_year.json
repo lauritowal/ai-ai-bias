@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Doomsday",
+    "descriptions": [
+        "Doomsday is a 2008 science fiction action horror film directed by Neil Marshall. The movie takes place in a post-apocalyptic Scotland, where the British government has created a high-tech prison called the \"Slab\" to contain and study a group of highly contagious and deadly individuals.\n\nThe story follows a woman named Eden Sinclair (played by Rhona Mitra), a Scottish nurse who is recruited by the government to travel to a post-apocalyptic America in a massive tunnel called the \"Slab Tunnel\" to retrieve a virus that has been created to wipe out the human population. The government believes that the Slab's prisoners have been infected with the virus, and Sinclair is tasked with bringing back a sample of the virus to help develop a cure.\n\nUpon arrival, Sinclair is confronted by a group of survivors, including a military officer named Major William \"Hark\" MacReady (played by Robert Carlyle), who is determined to escape the Slab and start a new life in Scotland. As Sinclair and MacReady navigate the treacherous landscape of the Slab, they encounter a group of ruthless and violent prisoners who will stop at nothing to protect their territory.\n\nAs the group navigates the dangers of the Slab, they are pursued by a group of highly aggressive and mutated creatures that have been created by the virus. The creatures are the result of the virus's rapid mutation and are nearly unstoppable, making them a formidable foe for the group.\n\nThroughout the movie, Sinclair and MacReady develop a complex and tense relationship, as they are forced to work together to survive the dangers of the Slab. The movie builds to a thrilling climax as the group faces off against the creatures and the government's sinister plans.\n\nDoomsday is a fast-paced and action-packed movie that explores themes of survival, humanity, and the dangers of playing with forces beyond human control. With its impressive visual effects and intense action sequences, the movie is a thrilling ride from start to finish."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1e1098274ef51269a16834893185e80c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nDoomsday\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gamera vs. Viras",
+    "descriptions": [
+        "Unfortunately, I couldn't find any information on a movie titled \"Gamera vs. Viras\" released in 1968. However, I can provide information on the Gamera film franchise. \n\nGamera is a Japanese kaiju film franchise that began in 1965 with the release of 'Gamera'. The franchise features a giant, fire-breathing, prehistoric turtle-like creature, often referred to as the 'Friend to Children'. \n\nGiven the context, if we consider the actual Gamera film released in 1968, it would be 'Gamera vs. Barugon'. This movie is the third installment in the Gamera franchise.\n\nA plot summary for 'Gamera vs. Barugon' would be:\n\nIn 'Gamera vs. Barugon', a prehistoric turtle-like creature emerges from the depths of space. This creature, known as Barugon, is a destructive, giant, reptilian monster. As Barugon terrorizes a small island, it's up to the giant turtle, Gamera, to save the day. Gamera, being a friendly creature, must confront Barugon to protect the island's inhabitants. The movie showcases action-packed scenes, as these two giant creatures clash in a battle for supremacy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "d2f57f3aac903c548bde178b7c53cffa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nGamera vs. Viras\n\n**Year:**\n\n1968",
+    "include_year": false
+}

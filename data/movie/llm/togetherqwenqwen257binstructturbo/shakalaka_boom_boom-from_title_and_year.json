@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shakalaka Boom Boom",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Shakalaka Boom Boom,\" a 2007 animated film, follows the adventures of Shakalaka Boom Boom, a young girl with a mischievous personality and a talent for drawing. Set in a vibrant, colorful neighborhood, the story begins when Shakalaka accidentally damages a friend's bike. She tries to make amends by drawing a magic bike that can fly, but instead creates a mischievous creature with a penchant for pranks.\n\nAs the creature wreaks havoc in the town, Shakalaka must confront her creation and the consequences of her actions. With the help of her friends and family, including her supportive parents and her wise, retired artist grandpa, she learns the importance of responsibility and the value of apologies.\n\nThe film combines elements of a fable with contemporary humor, as Shakalaka and her friends navigate the challenges of growing up, including friendship, creativity, and the consequences of their actions. The story is filled with heartwarming moments and lessons about empathy and the power of art to inspire and heal."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a5decffe654e0363ff95aa4f15fd3d88",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 338.0 words or less.\n\n---\n\n**Title:**\n\nShakalaka Boom Boom\n\n**Year:**\n\n2007",
+    "include_year": false
+}

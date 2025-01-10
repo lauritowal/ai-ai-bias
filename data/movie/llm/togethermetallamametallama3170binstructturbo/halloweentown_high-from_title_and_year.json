@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Halloweentown High",
+    "descriptions": [
+        "'Halloweentown High' is a 2004 Disney Channel Original Movie and the third installment in the 'Halloweentown' film series. The movie follows Marnie Piper (played by Kimberly J. Brown), a teenage witch who is struggling to balance her magical life and her mundane high school life.\n\nMarnie's grandmother, Aggie (played by Debbie Reynolds), has an idea to bring a group of students from a magical realm to the mortal world, hoping to create a cultural exchange program between the two worlds. However, there are those in the magical realm who oppose this idea, fearing the consequences of magical creatures interacting with mortals.\n\nThe students from the magical realm, including a ghost, a goblin, a troll, and a warlock, are transported to the mortal world, where they attend Marnie's high school, Halloweentown High. As the magical students try to fit in and learn about the mortal world, they face various challenges, including prejudice and a villainous warlock who seeks to sabotage the exchange program.\n\nMarnie, along with her friends, must navigate these challenges and help the magical students adjust to their new surroundings. In the process, Marnie learns more about her own magical heritage and the importance of accepting and understanding different cultures.\n\nThroughout the movie, Marnie and her friends work together to overcome obstacles and ensure the success of the exchange program, ultimately proving that even the most unlikely of friends can come together and achieve great things."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "10331d4d891a7037057fa48dbf08b5db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 701.0 words or less.\n\n---\n\n**Title:**\n\nHalloweentown High\n\n**Year:**\n\n2004",
+    "include_year": false
+}

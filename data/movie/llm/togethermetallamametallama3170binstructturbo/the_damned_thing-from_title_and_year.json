@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned Thing",
+    "descriptions": [
+        "The Damned Thing is a 2006 horror film based on the 1893 short story by Ambrose Bierce. The film tells the story of a mysterious creature that is terrorizing a small town in Texas. The story revolves around a young boy named Kevin who witnesses the death of his family at the hands of the creature. \n\nAfter this traumatic event, Kevin's life becomes intertwined with the creature, as he is seemingly immune to its attacks. The creature seems to be drawn to Kevin, and the boy is forced to go on the run to evade the monster and the people who are trying to capture it.\n\nAs the story unfolds, it becomes clear that the creature is an alien entity that has been awakened by an oil drilling operation. The creature is drawn to Kevin because of a unique gene that the boy possesses, which makes him the only person who can see it.\n\nThe film blends elements of horror and science fiction to create a tense and suspenseful atmosphere. The special effects are used to create a sense of unease and uncertainty, as the creature's true nature is slowly revealed over the course of the film. Overall, The Damned Thing is a chilling horror film that explores themes of trauma, identity, and the unknown."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "31c2868a37d5b8d6257d261efb59ee65",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 310.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned Thing\n\n**Year:**\n\n2006",
+    "include_year": false
+}

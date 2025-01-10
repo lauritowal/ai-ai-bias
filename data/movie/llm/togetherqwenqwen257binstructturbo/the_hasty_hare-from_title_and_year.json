@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hasty Hare",
+    "descriptions": [
+        "**Title: The Hasty Hare**\n**Year: 1940**\n\nIn the animated short \"The Hasty Hare,\" Bugs Bunny, the ever-clever rabbit, finds himself in a race against the speedy hare Elmer Fudd. The story unfolds in a typical Fudd hunting ground, a serene forest where Bugs has set up a trap to outwit Elmer. Elmer, eager to catch Bugs, sets up his own traps and snares, unaware that Bugs has anticipated his every move.\n\nAs Elmer eagerly waits in his hiding spot, Bugs sneaks up and leaves a note for the hunter, \"Looky here, Elmer. I hain't got no gun, so don't shoot.\" This prank sets the stage for a series of elaborate and humorous events. Bugs then rigs a series of booby traps and decoys around the forest, all designed to play tricks on Elmer and make him believe he’s succeeding in his hunt.\n\nThroughout the short, Elmer is seen repeatedly jumping into his own traps, believing he’s captured Bugs, only to be the one who ends up ensnared. Bugs, meanwhile, watches from a safe distance, occasionally popping out to enjoy the chaos he’s caused. The climax involves Bugs setting up a final, complicated trap that causes Elmer to fall into a pile of chicken feed, leaving him covered in feathers and in a daze.\n\nJust as Elmer declares, \"I got the hasty hare this time,\" Bugs appears, ready to leave. Elmer, still covered in feathers, mistakes a passing chicken for Bugs and shoots, causing a chicken to squawk and run away. The short ends with Bugs hopping away, leaving Elmer bewildered and the audience laughing at the antics of the clever rabbit and the bumbling hunter.\n\n\"The Hasty Hare\" is a classic example of the enduring partnership between Bugs Bunny and Elmer Fudd, showcasing the rabbit's wit and the hunter's ineptitude in a series of slapstick and cartoonish scenarios."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a930ab977b305831783c94684dfc68ba",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 491.0 words or less.\n\n---\n\n**Title:**\n\nThe Hasty Hare\n\n**Year:**\n\n",
+    "include_year": false
+}

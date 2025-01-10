@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Case of Rape",
+    "descriptions": [
+        "'A Case of Rape' is a 1974 American television film that tackles the sensitive topic of rape. The movie follows the story of Ellen Harrod (played by Elizabeth Montgomery), a happily married woman and devoted mother who is brutally raped by two strangers, Lonny and Toby, in her own home.\n\nThe film explores the aftermath of the traumatic event and Ellen's struggles to come to terms with what happened to her. She decides to report the crime to the police, but the process proves to be grueling and insensitive. The police and the medical examiners handle her with a lack of compassion, further traumatizing her.\n\nAs Ellen navigates the judicial system, she faces numerous obstacles and frustrations. The prosecutor is reluctant to take the case, and when it finally goes to trial, Ellen's character is scrutinized, and she is subjected to humiliating questioning by the defense attorney.\n\nThroughout the film, Elizabeth Montgomery delivers a powerful performance, conveying Ellen's pain, anger, and helplessness. 'A Case of Rape' was a groundbreaking drama that shed light on the struggles faced by rape victims and sparked important conversations about the need for reform in the way society handles such cases. The movie's realistic portrayal of the emotional and psychological trauma experienced by rape victims helped raise awareness about the issue and advocate for change."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6a86e493dccbc8de901a3b12de7aa7f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 333.0 words or less.\n\n---\n\n**Title:**\n\nA Case of Rape\n\n**Year:**\n\n1974",
+    "include_year": false
+}

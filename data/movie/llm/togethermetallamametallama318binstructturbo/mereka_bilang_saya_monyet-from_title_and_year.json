@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mereka Bilang, Saya Monyet!",
+    "descriptions": [
+        "'Mereka Bilang, Saya Monyet!' (They Say I'm a Monkey) is a 2008 Indonesian comedy-drama film directed by Edwin. The movie revolves around Andi (played by Tora Sudiro), a charming but struggling young man who works as a taxi driver in Jakarta. Andi is desperate to find a way to improve his life and win the heart of his crush, a beautiful woman named Luna.\n\nWhen Andi discovers that he can earn a significant amount of money by pretending to be a yoga instructor, he sees an opportunity to get his life back on track. He starts teaching yoga classes and, with the help of his friends, creates a fake identity as a wise and spiritual guru.\n\nAs Andi's yoga classes become popular, he catches the attention of Luna, and they start a romantic relationship. However, things become complicated when Luna's wealthy and influential father becomes interested in Andi and wants to make him a part of their family business.\n\nAndi must navigate the complexities of his new relationship, his fake identity, and the expectations of Luna's family. Throughout the movie, Andi's honesty and integrity are tested, and he must decide whether to keep up the charade or be true to himself.\n\nThe movie 'Mereka Bilang, Saya Monyet!' is a heartwarming and humorous exploration of identity, class, and relationships. With its lighthearted tone and engaging storyline, the film is a delightful ride that will leave viewers rooting for Andi and his friends as they navigate the ups and downs of life in Jakarta."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1288d2ae76fefccae71f2caf934a90c9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nMereka Bilang, Saya Monyet!\n\n**Year:**\n\n2008",
+    "include_year": false
+}

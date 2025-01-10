@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gigi",
+    "descriptions": [
+        "Gigi is a 1958 American musical romantic comedy film directed by Vincente Minnelli. The movie is set in Paris at the turn of the 20th century and is based on a novella by Colette. The story revolves around Gigi (played by Leslie Caron), a young and free-spirited girl from a humble background, who lives with her grandmother (Hermione Gingold) and great-aunt (Isabel Jeans).\n\nGigi is being groomed by her relatives to become a courtesan, just like her relatives before her. They teach her the ways of etiquette, fashion, and the art of seduction. However, Gigi is more interested in her carefree childhood and longs for a life without the constraints of societal expectations.\n\nEnter Gaston (played by Louis Jourdan), a wealthy and charming playboy who is tired of his shallow and promiscuous lifestyle. He is a long-time friend of Gigi's family and often visits them. Gaston is immediately drawn to Gigi's youth and innocence, seeing in her a chance to break free from his usual patterns.\n\nAs Gaston and Gigi grow closer, they start to question the societal norms that dictate their lives. Gigi struggles with the idea of becoming a courtesan, while Gaston realizes that he wants a deeper connection with someone. The two eventually fall in love, but their relationship is complicated by the societal expectations that surround them.\n\nThe movie features a range of memorable songs, including \"Thank Heavens for Little Girls,\" \"I Remember It Well,\" and \"Say a Prayer for Me Tonight.\" The film's music, combined with its beautiful costumes and stunning sets, transport the viewer to the opulent world of Belle Époque Paris.\n\nUltimately, Gigi and Gaston decide to take a chance on each other and defy societal expectations. The movie ends with a sense of hope and promise, as the two young lovers look forward to a future together.\n\nOverall, Gigi is a charming and witty film that explores themes of love, identity, and social class. The movie's blend of music, comedy, and romance makes it a delightful and entertaining watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a4ea1e7cca614e532cfc601845591f74",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 643.0 words or less.\n\n---\n\n**Title:**\n\nGigi\n\n**Year:**\n\n1958",
+    "include_year": false
+}

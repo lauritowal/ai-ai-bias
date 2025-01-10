@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Fear in the Night",
+    "descriptions": [
+        "In the 1947 film 'Fear in the Night,' a psychological thriller directed by Arthur Rubinstein, a beautiful and fragile woman named Karen Gordon (played by Gail Russell) is terrorized by a series of mysterious and ominous events at a small hotel. \n\nKaren becomes increasingly unhinged as she experiences vivid nightmares and a sense of impending doom. With the help of her psychiatrist, Dr. Decker (played by DeForest Kelley), Karen tries to uncover the root of her anxiety, only to discover a shocking truth about her past.\n\nAs the film unfolds, it becomes clear that Karen's fears are not entirely unfounded. She begins to suspect that a figure from her past, a man named Jack Marlow (played by Paul Kelly), is stalking her. With Decker's guidance, Karen works to overcome her fears and uncover the truth about Marlow's intentions.\n\nThe film's twist ending adds a layer of complexity to the story, leaving the viewer questioning what is real and what is just a product of Karen's fragile psyche. 'Fear in the Night' is a gripping and suspenseful thriller that explores the blurred lines between reality and paranoia."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "5adaaea8a2cdc41dbd1dc4a0295bdbeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nFear in the Night\n\n**Year:**\n\n1947",
+    "include_year": false
+}

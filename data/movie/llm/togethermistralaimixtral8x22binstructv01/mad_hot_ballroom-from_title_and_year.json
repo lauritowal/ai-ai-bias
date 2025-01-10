@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mad Hot Ballroom",
+    "descriptions": [
+        " \"Mad Hot Ballroom\" is a delightful 2005 documentary that delves into the transformative power of dance, following the journeys of several elementary school students from New York City's public schools as they participate in a ballroom dancing program. In a city where opportunities for personal growth can be scarce, the children are introduced to the world of ballroom dancing through the American Ballroom Theater's \"Dancing Classrooms\" program.\n\nThe film captures the students' initial apprehension and awkwardness as they learn the intricacies of ballroom dance styles such as the tango, foxtrot, rumba, merengue, and swing. As they progress, they discover the importance of teamwork, discipline, and self-confidence. The young dancers' personal stories are interwoven with their collective pursuit of the coveted trophy in a citywide dance competition.\n\n\"Mad Hot Ballroom\" offers a heartwarming exploration of the children's personal growth as they navigate the challenges of adolescence, cultural differences, and the competitive dance world. The film also highlights the dedication of their teachers, who strive to instill a sense of purpose and self-worth in their students. The movie ultimately celebrates the triumph of the human spirit and the unifying force of dance, transcending racial, economic, and social barriers."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "e0a0ed68c8446d78c2e0e77da68d07e8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nMad Hot Ballroom\n\n**Year:**\n\n2005",
+    "include_year": false
+}

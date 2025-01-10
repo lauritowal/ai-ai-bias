@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hitman",
+    "descriptions": [
+        "'Hitman' is a 2007 action-thriller film directed by Xavier Gens, based on the popular video game series of the same name. The movie stars Timothy Olyphant as the main character, known only by his codename 'Agent 47'.\n\nAgent 47 is a highly skilled and deadly assassin, genetically engineered to be the perfect killing machine. He works for a secret organization known as 'The Agency', taking on various missions to eliminate high-profile targets.\n\nThe story begins with Agent 47 being hired to kill the Russian President, Mikhail Belicoff (Ulrich Thomsen). However, after completing the mission, he discovers that the President was actually a double and that the real target was still alive. As a result, a massive manhunt ensues with Agent 47 being pursued by both The Agency and Interpol.\n\nAgent 47 teams up with a mysterious woman named Nika Boronina (Olga Kurylenko), who helps him uncover a conspiracy involving The Agency and the Russian government. Along the way, they encounter various obstacles, including The Agency's deadly agents and a determined Interpol agent named Mike Whittier (Dougray Scott).\n\nAs the story unfolds, Agent 47 must use his exceptional skills to stay one step ahead of his pursuers and uncover the truth behind the conspiracy. The movie features a mix of action, suspense, and intrigue, with plenty of intense fight scenes and dramatic plot twists.\n\nDespite receiving mixed reviews from critics, 'Hitman' has become a cult classic among fans of the video game series and action movie enthusiasts alike. The film's dark and gritty tone, combined with its fast-paced action sequences and complex plot, make it an entertaining and engaging watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "72c8673e6edc540666bb8afa95553c78",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 686.0 words or less.\n\n---\n\n**Title:**\n\nHitman\n\n**Year:**\n\n2007",
+    "include_year": false
+}

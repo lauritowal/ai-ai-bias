@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Quality Street",
+    "descriptions": [
+        "Set in the early 19th century, \"Quality Street\" follows the story of two sisters, Phoebe Throssel and Susan Throssel, who live in the small English town of Quality Street. Phoebe is a lively and charming young woman, while Susan is more reserved and shy. Phoebe is in love with a dashing young officer named Valentine Brown, who goes off to fight in the Napoleonic Wars.\n\nWhen Valentine returns years later, Phoebe is shocked to find that he no longer recognizes her and has instead fallen for Susan, who has since transformed into a beautiful and confident woman. Feeling heartbroken and rejected, Phoebe decides to pretend to be her own niece, Livvy, in order to mask her true identity and win Valentine's affections.\n\nAs Phoebe struggles to maintain her charade and keep up appearances, she faces various challenges and obstacles, including the jealousy of a local woman named Miss Willoughby, who also has feelings for Valentine. Phoebe's elaborate scheme becomes increasingly complicated as she tries to navigate the complexities of love, identity, and self-discovery.\n\nThroughout the film, Phoebe learns important lessons about self-worth, inner beauty, and the true nature of love. She eventually comes to realize that it is not necessary to pretend to be someone else in order to be loved and accepted for who she truly is. In the end, Phoebe finds happiness and fulfillment in her own identity, while also discovering a deeper connection with Valentine that transcends superficial appearances.\n\n\"Quality Street\" is a charming and heartwarming romantic comedy that explores themes of love, identity, and personal growth. With its delightful characters, engaging storyline, and beautiful period setting, the film captures the essence of classic romantic tales and offers a timeless message about the power of authenticity and self-acceptance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3553135b3835bea4a10ab264661ed9e3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 413.0 words or less.\n\n---\n\n**Title:**\n\nQuality Street\n\n**Year:**\n\n1937",
+    "include_year": false
+}

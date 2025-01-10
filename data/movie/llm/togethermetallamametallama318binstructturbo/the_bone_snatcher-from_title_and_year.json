@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Bone Snatcher",
+    "descriptions": [
+        "Unfortunately, I couldn't find information on a movie called \"The Bone Snatcher\" released in 2003. However, I found a New Zealand horror film with a similar title: \"The Bone Snatcher\" (2003) directed by Jason Stutter.\n\nThe plot follows a young boy named Tommy, who is kidnapped by a serial killer known as \"The Bone Snatcher.\" Tommy's sister, a single mother named Mary, sets out to find him with the help of a local cop. As they delve deeper into the case, they uncover a dark secret behind the kidnappings.\n\nThe movie is a thriller with elements of horror and mystery. It explores themes of family, loss, and the consequences of the past. The film received mixed reviews but has its fans for its original storyline and suspenseful atmosphere.\n\nPlease note that information on this movie might be limited due to its relatively unknown status."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "651b1a8f68930e564bc152b1f54f5e3d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+    "include_year": false
+}

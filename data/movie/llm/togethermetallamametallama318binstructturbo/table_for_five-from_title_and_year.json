@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Table for Five",
+    "descriptions": [
+        "\"Table for Five\" is a 1983 American drama film directed by Robert Ward. The movie follows the story of a family who has been torn apart by a tragic event. The family consists of five members: Helen (Sissy Spacek), her husband Charlie (Jon Voight), and their three children: Matt (Richard Crenna), a veteran, and his two younger siblings, Josh (Morgan Freeman) and Emily (Nicole Tompkins).\n\nThe story takes place in a small town in the United States, where the family has been living for some time. However, their lives are disrupted when Charlie, the father, is severely injured in a car accident. The family is forced to come together to support each other during this difficult time.\n\nAs the family navigates through their struggles, they also confront their own personal demons and conflicts. Matt, who has been away from home for some time, returns to take care of his family and is forced to confront his own feelings of guilt and responsibility. Helen, the mother, struggles to cope with the changes in her family and her own sense of identity.\n\nThroughout the movie, the family's relationships with each other are put to the test as they face their challenges. The film explores themes of love, sacrifice, and redemption as the family works to come together and heal.\n\nThe movie features a strong cast, including Sissy Spacek, Jon Voight, and Morgan Freeman, who deliver nuanced and emotional performances. The film's direction by Robert Ward is also noteworthy, as he effectively captures the emotional depth and complexity of the characters and their relationships.\n\nOverall, \"Table for Five\" is a powerful and emotional drama that explores the complexities of family relationships and the human spirit. With its strong performances and nuanced direction, the movie is a compelling and thought-provoking watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "dd4652afa8d6479f901702a94181111f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 615.0 words or less.\n\n---\n\n**Title:**\n\nTable for Five\n\n**Year:**\n\n1983",
+    "include_year": false
+}

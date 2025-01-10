@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Christmas Story",
+    "descriptions": [
+        "Unfortunately, I was unable to find a movie by the title \"Christmas Story\" released in 2007. However, I can provide information on a movie with a similar title, \"A Christmas Story,\" released in 1983.\n\nIf you are referring to the 1983 film \"A Christmas Story,\" here is a plot summary:\n\n'A Christmas Story' is a comedy film set in the 1940s. The story revolves around 9-year-old Ralphie Parker, who desperately wants a Red Ryder BB gun for Christmas. His parents and other relatives discourage him from receiving the gift, fearing he might shoot his eye out. Ralphie's parents also deal with their own struggles, including his mother's desire for a more comfortable home and his father's nostalgia for his youth. As Christmas approaches, Ralphie faces various challenges and learns valuable lessons about perseverance and the true meaning of the holiday season. The film is based on the semi-autobiographical stories of author Jean Shepherd. \n\nHowever, please note that a 2007 film called \"Christmas Story\" could not be found."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "066626c149517f8e3bbaa8d94c7bbbb7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007",
+    "include_year": false
+}

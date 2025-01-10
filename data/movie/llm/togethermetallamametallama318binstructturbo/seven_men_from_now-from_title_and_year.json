@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Seven Men from Now",
+    "descriptions": [
+        "\"Seven Men from Now\" is a 1956 American Western film directed by Budd Boetticher. The movie stars Randolph Scott, Gail Davis, and Lee Aaker.\n\nThe film's plot revolves around Ben Stride (Randolph Scott), a former rancher who has lost his family in a tragic event. He is now driven by a desire for revenge against the men responsible for his family's death. Stride sets out on a perilous journey to find the seven men who were involved in the tragic incident.\n\nStride's journey takes him across the desert, where he encounters various characters, including a widow and her young son, who are struggling to survive in the harsh environment. Stride's interactions with these characters serve as a contrast to his own dark and vengeful nature.\n\nAs Stride continues his quest for revenge, he is pursued by a group of outlaws who are also after the same men. The tension builds as Stride and the outlaws engage in a series of intense confrontations, leading to a final showdown.\n\nThroughout the film, Stride's character is developed through his interactions with the people he meets. He is shown to be a complex and multifaceted individual, driven by a desire for justice but also haunted by his own demons.\n\nThe movie's climax features a dramatic confrontation between Stride and the leader of the outlaws, who is revealed to be one of the men responsible for Stride's family's death. The film's final scenes show Stride's character undergoing a transformation, as he comes to terms with his past and begins to let go of his desire for revenge.\n\n\"Seven Men from Now\" is a classic Western film that features stunning cinematography and a gripping storyline. Randolph Scott's performance as Ben Stride is particularly noteworthy, as he brings depth and nuance to a complex and flawed character. The film's themes of revenge, justice, and redemption are timeless and continue to resonate with audiences today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "f5593c4ada4b91a03d1abfccd25d3f3a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 844.0 words or less.\n\n---\n\n**Title:**\n\nSeven Men from Now\n\n**Year:**\n\n1956",
+    "include_year": false
+}

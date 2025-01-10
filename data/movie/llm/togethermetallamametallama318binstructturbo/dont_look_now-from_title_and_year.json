@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Don't Look Now",
+    "descriptions": [
+        "\"Don't Look Now\" is a psychological thriller film directed by Nicolas Roeg, released in 1973. The story revolves around a couple, John (played by Donald Sutherland) and Laura (played by Julie Christie), who are grieving the loss of their young daughter, Christine, in a tragic accident involving drowning in a Venice canal. \n\nThe events of the film unfold in Venice, where John, an architect, has traveled to Italy for a short time to work on a project. Laura, a talented artist, joins him in an attempt to overcome their shared grief. The couple's relationship becomes increasingly strained as they deal with their personal loss.\n\nJohn becomes haunted by visions and premonitions of his daughter's death, which are depicted through a series of eerie and unsettling scenes. Laura, on the other hand, begins to experience strange and seemingly supernatural occurrences that she attributes to a mystic woman who claims to have clairvoyant abilities. \n\nAs John delves deeper into the mystery of his visions, he becomes increasingly unhinged and obsessive, which further strains his relationship with Laura. Meanwhile, Laura starts to develop feelings for a local craftsman, Peter (played by Massimo Serato), who is involved in the restoration of the famous St. Mark's Square in Venice.\n\nThe narrative of the film is non-linear, with flashbacks and fragmented scenes that blur the lines between reality and the supernatural. As the story unfolds, it becomes increasingly difficult for the viewer to distinguish between what is real and what is a product of John's grief-stricken imagination.\n\nThe film's climax takes a dark and unexpected turn, leaving the viewer questioning the nature of reality and the true fate of Christine. \"Don't Look Now\" is a complex and thought-provoking film that explores the themes of grief, trauma, and the supernatural, with a haunting and atmospheric portrayal of a broken relationship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "d73b3f3afcda3488cd6e26ac01f92d79",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 548.0 words or less.\n\n---\n\n**Title:**\n\nDon't Look Now\n\n**Year:**\n\n1973",
+    "include_year": false
+}

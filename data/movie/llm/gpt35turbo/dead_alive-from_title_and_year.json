@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Alive",
+    "descriptions": [
+        "The movie \"Dead Alive\" is a horror-comedy film directed by Peter Jackson and released in 1993. The story follows a young man named Lionel Cosgrove who lives with his overbearing mother in a small town in New Zealand. When Lionel's mother is bitten by a Sumatran rat-monkey, she becomes a zombie and her condition rapidly deteriorates.\n\nAs more people in the town become infected with the zombie virus, Lionel struggles to keep the situation under control. He tries to hide his mother's deteriorating state from the neighbors, but things quickly spiral out of control. The town is soon overrun with zombies, and Lionel is forced to take drastic measures to stop the outbreak.\n\nThroughout the film, Lionel battles hordes of zombies in increasingly creative and gory ways. He enlists the help of a local girl named Paquita, who becomes his love interest and helps him fight off the undead. Together, they face off against a horde of zombies in a climactic showdown that takes place in Lionel's own home.\n\nAs the chaos unfolds, Lionel's character undergoes a transformation from a timid and obedient son to a fearless zombie slayer. He must confront his own fears and insecurities in order to save himself and the town from the zombie menace.\n\nThe film is known for its over-the-top gore and dark humor, with plenty of blood and guts to satisfy horror fans. Despite its gruesome content, \"Dead Alive\" also has a comedic edge that sets it apart from other zombie movies. The film's unique blend of horror and comedy has earned it a cult following over the years.\n\nOverall, \"Dead Alive\" is a wild and outrageous ride that delivers on both the horror and comedy fronts. With its mix of over-the-top violence and dark humor, the film is a must-see for fans of the horror genre. Peter Jackson's creative direction and the film's memorable characters make it a standout entry in the zombie movie genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "851da07c93371c5f2c600b1580e0d4f2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 631.0 words or less.\n\n---\n\n**Title:**\n\nDead Alive\n\n**Year:**\n\n1993",
+    "include_year": false
+}

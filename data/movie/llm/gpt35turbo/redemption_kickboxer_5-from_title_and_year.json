@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Redemption: Kickboxer 5",
+    "descriptions": [
+        "In \"Redemption: Kickboxer 5\" (1995), the story follows Matt Reeves, a former kickboxing champion who is now living a quiet life as a family man. However, when his wife is tragically killed in a car accident, Matt's life is turned upside down. Seeking solace and purpose, he returns to the world of kickboxing.\n\nMatt decides to enter a high-stakes underground kickboxing tournament in order to seek redemption and also make some money to support his young daughter. Along the way, he must confront his inner demons, face off against formidable opponents, and prove to himself and others that he still has what it takes to be a champion.\n\nAs Matt trains rigorously for the tournament, he forms unexpected alliances and rekindles old rivalries. Along the way, he learns valuable lessons about perseverance, determination, and the true meaning of redemption.\n\nThe film culminates in an intense final showdown at the tournament, where Matt must use all of his skill, strength, and heart to emerge victorious. In the end, \"Redemption: Kickboxer 5\" is a thrilling tale of one man's journey to overcome personal tragedy, find redemption, and reclaim his rightful place in the world of kickboxing."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1900de10cbc376a299345b56c4626863",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nRedemption: Kickboxer 5\n\n**Year:**\n\n1995",
+    "include_year": false
+}

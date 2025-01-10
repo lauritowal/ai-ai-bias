@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Fair-Haired Hare",
+    "descriptions": [
+        "**Plot Summary:**\n\nThe Fair-Haired Hare, released in 1951, is a classic Looney Tunes cartoon starring Bugs Bunny. The plot unfolds in a lush meadow where Bugs is enjoying a picnic and singing a cheerful song. However, his peaceful day is disrupted by the appearance of Yosemite Sam, a short-tempered and often irritable character known for his quick-tempered nature and red face.\n\nSam, who is also out for a picnic, is furious to find Bugs enjoying his meal and demands that Bugs move along. Bugs, however, is not willing to leave and begins to taunt Sam, leading to a series of slapstick and witty exchanges. Sam becomes increasingly agitated, trying various methods to get Bugs to leave, including setting up a trap with a pie, which Bugs cleverly avoids.\n\nThe tension escalates as Sam resorts to more extreme measures, even resorting to firing a gun at Bugs, who remains unphased by the danger. Bugs retaliates with a series of mischievous pranks and clever tricks, all the while maintaining his composure and keeping Sam flustered.\n\nIn a hilarious sequence, Sam accidentally sets off a fireworks display, creating chaos and confusion. Bugs, however, manages to use the situation to his advantage, leading to a final showdown where Sam is left frustrated and Bugs is the victor, having outwitted his opponent once again.\n\nThe cartoon concludes with Bugs Bunny's famous sign-off, \"Eh, ha-ha, very funny,\" followed by an end card where Bugs is seen munching on a carrot, symbolizing his win over the irate Yosemite Sam. The film is a prime example of the humor and wit that made Bugs Bunny a beloved character in the golden age of American animation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "5face4747b7cf78320ae5f11f8e34d1a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 487.0 words or less.\n\n---\n\n**Title:**\n\nThe Fair-Haired Hare\n\n**Year:**\n\n1951",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "See No Evil",
+    "descriptions": [
+        "\"See No Evil,\" released in 1971, is a psychological thriller that revolves around a family's struggle with a mysterious housekeeper who is secretly a con artist. The year is 1967, and the Johnson family, comprised of a widowed father and his two teenage daughters, hires a young, seemingly innocent housekeeper named Maria. Unbeknownst to them, Maria is a master manipulator who slowly manipulates the family into trusting her completely. As Maria ingratiates herself into their lives, she begins to exploit their kindness, leading to a series of escalating incidents that challenge the family's moral and ethical boundaries. The plot reaches its climactic point when the father becomes suspicious of Maria's true intentions, sparking a tense confrontation that reveals the housekeeper's dark past and her plans to take over their lives. The movie is a suspenseful exploration of trust, deception, and the human capacity for both good and evil."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "38af57b758f7cfdbfaf1e9c1580d897a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 265.0 words or less.\n\n---\n\n**Title:**\n\nSee No Evil\n\n**Year:**\n\n1971",
+    "include_year": false
+}

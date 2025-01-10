@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aage se right",
+    "descriptions": [
+        "'Aage Se Right' is a 2009 Indian comedy film directed by Ashwani Dhir. The movie revolves around two friends, Rohit (Rahul Bose) and Alok (Randeep Hooda), who live in Britain and are known for their mischievous and obsessive behavior towards women. \n\nRohit, a womanizer, is on a mission to lose his virginity, while Alok is obsessed with a British girl named Sophie. However, things take a turn when Rohit and Alok find out that Sophie is actually a sex maniac and they try to win her over.\n\nAs the story unfolds, Rohit and Alok's attempts to impress Sophie become increasingly chaotic and humorous. The movie showcases the duo's ridiculous antics as they try to satisfy their desires and win Sophie's heart. \n\nThroughout the film, Rohit and Alok's friendship is tested as they navigate their respective relationships with Sophie. The movie features a blend of humor, romance, and drama, which keeps the audience engaged throughout. \n\n'Aage Se Right' explores themes of friendship, love, and identity, making it a relatable and entertaining watch for the audience. The film features a talented cast, including Rahul Bose and Randeep Hooda, who deliver impressive performances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "594bc742e5d347d8cff7785cb9a832b5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 262.0 words or less.\n\n---\n\n**Title:**\n\nAage se right\n\n**Year:**\n\n2009",
+    "include_year": false
+}

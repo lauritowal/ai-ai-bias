@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Fear in the Night",
+    "descriptions": [
+        " In the 1947 film noir, \"Fear in the Night,\" the story revolves around a man named Vince Grayson, portrayed by DeForest Kelley. Vince is a factory worker who wakes up from a disturbing nightmare in which he has committed a murder. Unnerved by the explicit details in his dream, he confides in his understanding wife, Peggy, played by Pauline Moore.\n\nAs Vince tries to shake off the vividness of his dream, he discovers a strange key in his pocket, which he believes to be connected to his nightmare. The couple decides to investigate, leading them to an abandoned factory where Vince finds the body of a man he recognizes from his dream.\n\nThe police are notified, and Detective Bailey, played by Robert Emmett Keane, takes charge of the case. Vince's story gains validity, but the mysterious circumstances surrounding the murder only intensify. The couple becomes increasingly entangled in a web of danger and deception as they try to unravel the truth behind Vince's dream and the identity of the murderer.\n\nAs the plot unfolds, it becomes apparent that Vince's dream may have been a result of hypnosis, orchestrated by a sinister figure named Betty, played by Kay Scott. Betty seeks revenge on Vince for an incident in their past, manipulating him into committing the crime.\n\nIn the climactic final act, Vince must confront his own demons and the manipulative Betty to clear his name and protect his wife from the looming danger. \"Fear in the Night\" is a suspenseful psychological thriller that explores the blurred lines between dreams and reality, leaving viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "5adaaea8a2cdc41dbd1dc4a0295bdbeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nFear in the Night\n\n**Year:**\n\n1947",
+    "include_year": false
+}

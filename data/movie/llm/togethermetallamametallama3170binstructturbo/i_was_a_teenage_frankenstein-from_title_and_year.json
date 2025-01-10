@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "I Was a Teenage Frankenstein",
+    "descriptions": [
+        "In the 1957 science fiction horror film 'I Was a Teenage Frankenstein,' a young scientist named Baron Victor Frankenstein attempts to recreate the legendary monster of his ancestor. However, instead of using the traditional method of reanimating a dead body, Baron Frankenstein is experimenting with transplanting the body parts of various donors to create a new being.\n\nBaron Frankenstein finds his ideal donor in a high school student named Karl. Karl is killed in an accident, and his body is secretly taken by the Baron for his experiment. The Baron then transplants various body parts, including the limbs and organs of other people, to create a being with extraordinary strength and agility.\n\nThe Baron's creation, now resembling a grotesque teenager, comes to life and begins to wreak havoc. Despite being obedient to the Baron's commands, the creature develops its own identity and starts to question its purpose in life. As the story unfolds, the creature escapes from the Baron's laboratory and begins to terrorize the surrounding area.\n\nTorn between its loyalty to the Baron and its newfound sense of self, the creature eventually turns against its creator. In the end, the creature is destroyed in a fire, while the Baron faces the consequences of playing God.\n\nThe film serves as a cautionary tale about the dangers of scientific experimentation without moral responsibility. The title 'I Was a Teenage Frankenstein' refers to the creature's teenage-like appearance and its struggles to find its place in the world, echoing the themes of teenage angst and identity crisis that were popular in 1950s American culture."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9320d970a877f4ef9201b4c5ba19f9db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 396.0 words or less.\n\n---\n\n**Title:**\n\nI Was a Teenage Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

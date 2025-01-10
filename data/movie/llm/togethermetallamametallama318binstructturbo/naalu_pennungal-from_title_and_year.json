@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naalu Pennungal",
+    "descriptions": [
+        "Naalu Pennungal is a 2007 Indian Malayalam-language drama film written and directed by Padmarajan's protégé, Shyamaprasad. The movie is based on four short stories by the renowned Indian writer, Thakazhi Sivasankara Pillai. \n\nThe film revolves around the lives of four women from different socio-economic backgrounds in Kerala, India. It explores themes of loneliness, love, and the struggles faced by women in a patriarchal society.\n\nThe story begins with 'Anchu', a narrative about a woman who is forced into a loveless marriage due to societal pressures. However, the woman decides to seek solace in another relationship, which ultimately leads to a tragic confrontation with her husband.\n\nThe second narrative, 'Ponnuchamy', revolves around a woman who is married to a man who is addicted to drinking and womanizing. Despite her husband's infidelity, she tries to maintain a harmonious relationship, but ultimately finds herself at the mercy of her husband's whims.\n\nThe third narrative, 'Oru Chithra Alu', highlights the life of a young girl who is forced to marry a man much older than her. The girl struggles to cope with the harsh realities of her new life but ultimately finds a way to escape and reclaim her freedom.\n\nThe final narrative, 'Narghis', focuses on a woman who is desperate to escape the isolation and loneliness of her rural life. She becomes infatuated with a man she has never met, and through letters, the two share a deep emotional connection. However, their love is ultimately doomed by the societal restrictions and the man's reluctance to leave his family.\n\nThroughout the film, the lives of these four women intersect and diverge, creating a complex tapestry of human emotions and experiences. The movie's exploration of the lives of its female protagonists sheds light on the struggles faced by women in a patriarchal society and the difficulties they face in seeking happiness and fulfillment in their lives.\n\nNaalu Pennungal features a talented ensemble cast, including Nedumudi Venu, Saritha, Lena, and Shweta Menon. The film received critical acclaim and won several awards, including the National Film Award for Best Feature Film in Malayalam."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "5048c87dffe4aab3cc19016a2e259ce9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 609.0 words or less.\n\n---\n\n**Title:**\n\nNaalu Pennungal\n\n**Year:**\n\n2007",
+    "include_year": false
+}

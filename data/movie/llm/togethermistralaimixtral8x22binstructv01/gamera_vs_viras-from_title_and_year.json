@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gamera vs. Viras",
+    "descriptions": [
+        " In \"Gamera vs. Viras\" (1968), the fourth installment of the Gamera series, the story revolves around the colossal, flying, fire-breathing turtle monster, Gamera, who becomes Earth's unlikely protector against extraterrestrial threats. This time, Gamera faces a new antagonist from outer space, Viras, an alien squid-like creature.\n\nThe plot begins with the arrival of an alien spaceship to Earth. The extraterrestrial beings, known as Virasians, seek to conquer the planet, but they underestimate the formidable force of Gamera. As a demonstration of their power, the Virasians threaten to destroy Earth using a black hole unless humanity surrenders. However, Gamera intervenes, thwarting their plans and causing their spaceship to crash into the sea.\n\nEnraged, the Virasians combine their powers to create a new entity, Viras, to battle Gamera. The two monsters engage in a series of epic battles across Japan, causing massive destruction. Gamera, despite being outnumbered, showcases his resilience and resourcefulness, using his ability to fly and breathe fire to counter Viras's tentacles and energy beams.\n\nMeanwhile, a group of Boy Scouts who had previously encountered Gamera becomes entangled in the conflict. They help the Japanese military and scientists to understand Gamera's nature and intentions, realizing that he is not an enemy but a guardian. The boys also play a crucial role in the final showdown, providing Gamera with the energy he needs to defeat Viras.\n\nIn the climactic battle, Gamera emerges victorious, saving Earth from the alien threat. The movie ends with Gamera returning to the sea, leaving humanity in peace, while the Boy Scouts look on, having gained a newfound respect for the giant turtle monster."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "d2f57f3aac903c548bde178b7c53cffa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nGamera vs. Viras\n\n**Year:**\n\n1968",
+    "include_year": false
+}

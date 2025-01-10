@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Samson",
+    "descriptions": [
+        " In the 1961 film, \"Samson,\" director Andrzej Wajda explores the titular Biblical hero's life in an unconventional manner. Set in a post-WWII Polish village, the narrative follows a man named Jakub, a former soldier and prisoner of war, who returns home seeking a peaceful existence. Jakub's imposing physique and unyielding strength lead the villagers to refer to him as \"Samson\" - a moniker that alludes to the Biblical figure known for his incredible power.\n\nUpon his return, Jakub discovers that his fiancée, Hanka, has assumed him dead and is now married to another man. Despite his heartbreak, Jakub attempts to maintain a low profile and work on his family's farm. However, the village's Communist authorities, led by the ruthless Mayor Rybak, have other plans for him. They see Jakub's strength as an asset and attempt to manipulate him into becoming their enforcer, crushing any opposition to their regime.\n\nTorn between his desire for a tranquil life and the growing pressure from the authorities, Jakub faces numerous moral dilemmas. He struggles to reconcile his past as a soldier with the pacifist he wishes to become. Meanwhile, Hanka's husband, a former friend of Jakub's, becomes increasingly suspicious of their connection, further complicating matters. As tensions rise, Jakub must decide whether to use his strength for the benefit of the corrupt authorities or stand up against them, potentially sacrificing his own well-being.\n\nThroughout the film, Wajda masterfully weaves themes of power, morality, and redemption, painting a complex portrait of a man seeking solace in a tumultuous world. The allegorical parallels between Jakub and the Biblical Samson serve to underscore the timeless nature of these themes, while also grounding the narrative in the realities of post-war Poland. Ultimately, \"Samson\" is a poignant exploration of the human condition, as well as a thought-provoking examination of the consequences of power and the enduring struggle for personal freedom."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+    "include_year": false
+}

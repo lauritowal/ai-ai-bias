@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Mad Magician",
+    "descriptions": [
+        " In the 1954 film noir thriller, \"The Mad Magician,\" Vincent Price stars as Don Gallico, a talented inventor of elaborate magic tricks for the stage. Working for the tyrannical and greedy magician, \"The Great Rinaldi,\" Gallico finds himself exploited, with his creations stolen and claimed as Rinaldi's own. Frustrated and seeking retribution, Gallico creates an intricate plan to exact revenge on Rinaldi and his fellow magicians who have wronged him.\n\nGallico invents a new persona for himself, \"The Amazing Gallico,\" and dons a lifelike mask to assume the identity of an esteemed magician. As Gallico takes the stage, he uses his inventive tricks to outshine his rivals, leaving a trail of baffling disappearances and mysterious deaths in his wake. With each performance, Gallico becomes more obsessed with his new identity, descending into madness as he seeks to eliminate his enemies and claim the fame he believes he deserves.\n\nDetermined to uncover the truth behind the strange occurrences, a relentless police inspector, along with Gallico's loyal assistant, Karen, begin to unravel the twisted web of deception. As the noose tightens, Gallico must use every trick up his sleeve to avoid capture and continue his reign of terror. With a gripping plot, suspenseful atmosphere, and Price's captivating performance, \"The Mad Magician\" is a riveting tale of obsession, deception, and the dark side of ambition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "40819b90febcbfa30a2135d948e5c092",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nThe Mad Magician\n\n**Year:**\n\n1954",
+    "include_year": false
+}

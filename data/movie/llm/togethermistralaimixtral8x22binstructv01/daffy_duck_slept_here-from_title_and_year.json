@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daffy Duck Slept Here",
+    "descriptions": [
+        " In \"Daffy Duck Slept Here\" (1948), Daffy Duck finds himself in the midst of a chaotic situation at the Hotel Carotte, where he checks in seeking refuge from the cold winter. The hotel's strict manager, Porky Pig, is initially reluctant to let Daffy stay due to a \"no duck\" policy. However, Daffy cleverly disguises himself as a genie, convincing Porky to let him stay in exchange for granting him three wishes.\n\nAs the night unfolds, Daffy wreaks havoc in the hotel, using his wishes to create chaos. He first turns Porky's bed into a piano, then fills the room with water and fish, and finally, he summons a group of wild animals to join the party. The situation escalates, and Porky becomes increasingly frustrated with Daffy's antics.\n\nIn the climax, Porky discovers Daffy's true identity and demands that he return the hotel to its original state. Daffy, realizing he's overstayed his welcome, quickly reverses his wishes, leaving Porky and the hotel in disarray. The film concludes with Daffy ducking out of the hotel, narrowly escaping Porky's wrath, and leaving behind a trail of laughter and destruction."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "571661f1877124420608f05794ed5740",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948",
+    "include_year": false
+}

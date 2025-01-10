@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mysteries of a Barbershop",
+    "descriptions": [
+        " In the 1950s, a small town is shaken by a series of unexplained events, all connected to a humble barbershop owned by the enigmatic Mr. Edward. The townsfolk gather at the barbershop for more than just haircuts; it's a place where secrets are shared and mysteries unravel.\n\nWhen a young journalist, Emily, moves to town, she becomes intrigued by the peculiar happenings and the barbershop's role in them. Determined to uncover the truth, Emily befriends Mr. Edward and begins to dig deeper into the shop's history. She discovers that the barbershop has been a silent witness to the town's dark past, with each artifact and tool holding a secret.\n\nAs Emily delves further, she uncovers a hidden underground network beneath the barbershop, revealing shocking truths about the town's founding and its inhabitants. With the help of a local historian and a quirky librarian, she pieces together the puzzling past.\n\nAs the trio races against time to solve the Mysteries of a Barbershop, Emily must confront her own fears and decide whether revealing the truth will ultimately bring the town together or tear it apart."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "c3a73040dc46186b8543a8a8a85cd9df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nMysteries of a Barbershop\n\n**Year:**\n\n",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Conrack",
+    "descriptions": [
+        "\"Conrack\" is a 1974 drama film that follows the story of Pat Conroy, a young white teacher who is sent to teach at a remote island school in South Carolina. The school is attended by African American children who have been neglected and underserved by the educational system. Despite facing resistance from the school's administration and community, Conroy is determined to make a difference in the lives of his students.\n\nAs he begins to connect with the children and earn their trust, Conroy introduces them to a world beyond the confines of their isolated island. He teaches them about literature, art, and the importance of self-worth and individuality. However, his unorthodox methods and rebellious attitude cause conflict with the school's authorities, who are resistant to change.\n\nThrough his dedication and unconventional teaching style, Conroy is able to inspire his students and help them realize their potential. The film explores themes of race, education, and the power of a passionate teacher to make a difference in the lives of disadvantaged children."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7aa3bb1ffec85a45083e5fcb12ddc053",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 212.0 words or less.\n\n---\n\n**Title:**\n\nConrack\n\n**Year:**\n\n1974",
+    "include_year": false
+}

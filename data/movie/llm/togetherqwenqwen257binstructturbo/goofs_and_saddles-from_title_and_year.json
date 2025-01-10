@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Goofs and Saddles",
+    "descriptions": [
+        "\"Goofs and Saddles,\" released in 1937, is a comedic Western film that follows the bumbling exploits of a group of cowpokes who run a dilapidated rodeo troupe. The story begins when the owner of the rodeo troupe, Mr. Grumble, hires a new manager, Mr. Flub, to save the failing show. Flub is a clueless city slicker who believes he can run a wild west show with his polished, urban style. The clash between Flub's uptight, over-prepared ways and the ragtag cowboys' carefree, spontaneous approach leads to a series of slapstick misadventures.\n\nAs Flub struggles to integrate modern, conventional show elements, the cowboys continue their traditional, often chaotic methods. Their antics and Flub's attempts to control them create a humorous mismatch, from a failed attempt at a formal opening ceremony to a disastrous attempt at a precision lassoing act. Despite their repeated failures, the team learns to appreciate each other's strengths and begins to bond.\n\nThe film culminates in a big rodeo competition where Flub and the cowboys must work together to present a show that showcases both their best talents. In the end, their mixture of city sophistication and country savviness results in a unique and entertaining performance that wins over the crowd and themselves. \"Goofs and Saddles\" is a charming blend of comedy and camaraderie, celebrating the unexpected joys that arise from combining different worlds."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "2dc6f6db15dcc5f948faacb247277182",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 309.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+    "include_year": false
+}

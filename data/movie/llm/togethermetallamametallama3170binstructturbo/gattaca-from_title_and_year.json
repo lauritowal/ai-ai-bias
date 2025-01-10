@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gattaca",
+    "descriptions": [
+        "In the 1997 film Gattaca, a futuristic society has been created where genetic engineering has become the norm, and a person's DNA determines their social status. The movie is set in a not-too-distant future where people can design their children's genetic makeup to ensure they have the best possible traits.\n\nThe story follows Vincent Freeman (played by Ethan Hawke), a naturally born individual, often referred to as a \"God-child,\" who dreams of becoming an astronaut. However, his genetic makeup is deemed inferior, and he faces prejudice and bias from society due to his \"imperfect\" DNA.\n\nVincent's desire to reach space leads him to assume the identity of Jerome Eugene Morrow (played by Jude Law), a genetically engineered individual with a flawless DNA profile. Vincent purchases Jerome's identity on the black market and assumes his name, allowing him to secure a job at the prestigious Gattaca Aerospace Corporation.\n\nAs Vincent navigates his new life at Gattaca, he becomes involved in a murder investigation led by Detective Hugo (played by Alan Arkin) and is aided by Irene Cassini (played by Uma Thurman), a colleague who becomes romantically interested in him. Meanwhile, Vincent must evade detection by the authorities, who are searching for the \"invalid\" using his genetic material.\n\nThroughout the film, the themes of identity, free will, and what it means to be human are explored. Vincent's experiences raise questions about the consequences of a society that judges people based on their genetic makeup and whether it's possible for someone to overcome their predetermined fate.\n\nGattaca is a thought-provoking and visually stunning film that explores the implications of a society that values genetic perfection above all else. The movie's exploration of these themes remains relevant today, making it a timeless classic in the science fiction genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6053717546631ece274d73f71439a06b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 948.0 words or less.\n\n---\n\n**Title:**\n\nGattaca\n\n**Year:**\n\n1997",
+    "include_year": false
+}

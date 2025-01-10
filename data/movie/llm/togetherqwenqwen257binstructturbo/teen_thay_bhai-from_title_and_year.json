@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Teen Thay Bhai",
+    "descriptions": [
+        "\"Teen Thay Bhai\" (2011) tells the story of three young men navigating the complex dynamics of family, friendship, and loyalty in the bustling streets of Mumbai. Set against the backdrop of a changing urban landscape, the film centers around Anirudh (played by Ranveer Singh), a 21-year-old who dreams of becoming a successful singer but is burdened by familial expectations. His world is turned upside down when his elder brother, Rahul (played by Arunoday Singh), returns from abroad with a mysterious past that threatens to upend their lives. As Anirudh finds himself caught between his ambitions and his responsibilities, he seeks the support of his childhood friend, Mona (played by Ananya Panday), who offers both encouragement and a reality check. Meanwhile, Rahul's enigmatic behavior and sudden involvement in the music industry stir jealousy and suspicion among the trio. The film explores themes of sacrifice, identity, and the struggles of youth in modern India, culminating in a heartwarming yet bittersweet climax that challenges the characters to redefine their roles and relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "687c61c2345c9dc90d9c232d0c01a7d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 322.0 words or less.\n\n---\n\n**Title:**\n\nTeen Thay Bhai\n\n**Year:**\n\n2011",
+    "include_year": false
+}

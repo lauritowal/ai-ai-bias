@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Gendarme in New York",
+    "descriptions": [
+        "\"The Gendarme in New York\" is a 1965 French comedy film directed by Jean Girault. The film is the second in the popular \"Gendarme\" series and stars Louis de Funès as the lead character, Ludovic Crépieloff.\n\nThe story begins with Ludovic Crépieloff, a gendarme from the countryside, being sent to New York City as part of a cultural exchange program. Upon arrival, Crépieloff is overwhelmed by the city's fast-paced lifestyle and struggles to adapt to the local customs.\n\nWhile in New York, Crépieloff becomes infatuated with a beautiful American woman, Allison (played by Daliah Lavi), and attempts to win her heart. However, his efforts are hindered by his own ineptitude and the language barrier.\n\nAs Crépieloff navigates the city, he causes chaos and confusion wherever he goes. His antics often land him in trouble, and he must rely on his wit and charm to talk himself out of sticky situations.\n\nDespite the cultural differences and language barriers, Crépieloff forms a bond with Allison and her friends, and they teach him about American culture and customs. Through his experiences, Crépieloff learns valuable lessons about understanding and appreciating different cultures.\n\nThe film features Louis de Funès' signature blend of humor and physical comedy, making it a hilarious and entertaining watch. The movie's lighthearted and comedic tone is balanced by the cultural exchange theme, making \"The Gendarme in New York\" a heartwarming and engaging film.\n\nOverall, \"The Gendarme in New York\" is a classic French comedy that showcases Louis de Funès' talents as a comedic actor. The film's blend of humor, culture, and adventure makes it a must-watch for fans of the \"Gendarme\" series and comedy enthusiasts alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "4ed3e0261f269fd1174e2d947cee0c1d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 606.0 words or less.\n\n---\n\n**Title:**\n\nThe Gendarme in New York\n\n**Year:**\n\n1965",
+    "include_year": false
+}

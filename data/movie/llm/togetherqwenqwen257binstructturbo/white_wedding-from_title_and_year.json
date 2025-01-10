@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "White Wedding",
+    "descriptions": [
+        "\"White Wedding\" (1989) follows the story of Sarah, a high-society socialite who is set to marry a wealthy businessman. Her life takes a dramatic turn when she discovers that her fiancé has a dark past, including a secret marriage and a child from a previous relationship. As the wedding approaches, Sarah grapples with the decision to go through with the union or expose the truth, which could shatter her social standing and the lives of those around her. The film explores themes of deception, loyalty, and the price of preserving one's image in a superficial society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "73007e000a4ba5fce2c777252f0a7cf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 226.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Blood Reign: Curse of the Yoma",
+    "descriptions": [
+        "Blood Reign: Curse of the Yoma is a 1989 Japanese anime OVA (original video animation) film. The story is set in feudal Japan and revolves around a demonic creature known as a \"yoma.\" Yoma are shape-shifting, blood-sucking demons that blend in with human society.\n\nThe film follows a young samurai named Marou, who seeks revenge against the yoma that killed his family. Marou teams up with a skilled yoma hunter named Akihiko, and together, they embark on a perilous journey to avenge their fallen loved ones.\n\nAs the story unfolds, Marou discovers that he has a unique connection to the yoma, which complicates his mission and raises questions about his own destiny. The film's dark fantasy elements and themes of revenge, honor, and self-discovery drive the narrative forward.\n\nUltimately, Blood Reign: Curse of the Yoma is a gripping and intense anime that explores the complexities of human nature and the struggle between good and evil."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "fe405339ec58dd12713624ac19e7cd73",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1630.0 words or less.\n\n---\n\n**Title:**\n\nBlood Reign: Curse of the Yoma\n\n**Year:**\n\n1989",
+    "include_year": false
+}

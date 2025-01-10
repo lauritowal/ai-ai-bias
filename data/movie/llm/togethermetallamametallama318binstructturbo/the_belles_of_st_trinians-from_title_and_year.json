@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Belles of St Trinian's",
+    "descriptions": [
+        "The Belles of St Trinian's is a 1954 British comedy film directed by Frank Launder. The film is the third installment in the St Trinian's series, following the 1939 film The Wild Blue Yonder and the 1941 film The Headmistress. \n\nThe story revolves around the St Trinian's School for Girls, a notorious institution infamous for its unruly and mischievous students. The film's plot centers around a scheme devised by the school's headmistress, Miss Poste (played by Alastair Sim, in a rare female role), to raise funds for the school by offering a row of vacant apartments in the school's dormitories to the highest bidder. \n\nHowever, things take a turn when a group of high-society women, including the school's benefactress, Lady Patricia Northwood, decide to purchase the apartments, only to discover that they will be living alongside the unruly St Trinian's girls. \n\nThe film follows the misadventures of the high-society women as they attempt to navigate the chaos of the St Trinian's environment, often finding themselves at odds with the school's girls. Meanwhile, Miss Poste and her staff must also contend with the arrival of a new, strict headmistress, Mrs. Johnson, who threatens to disrupt the school's long-standing tradition of unruliness.\n\nThe Belles of St Trinian's features a talented cast, including Joyce Grenfell, Anthony Steel, and Joyce Howard. The film is known for its witty dialogue, comedic performances, and its affectionate portrayal of the St Trinian's girls and their antics. The film's success helped to cement the St Trinian's series as a beloved and enduring part of British comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "4f55ff012326071023fbadcbb0fa1382",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 432.0 words or less.\n\n---\n\n**Title:**\n\nThe Belles of St Trinian's\n\n**Year:**\n\n1954",
+    "include_year": false
+}

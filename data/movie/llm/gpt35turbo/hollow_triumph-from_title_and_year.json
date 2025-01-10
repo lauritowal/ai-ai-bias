@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hollow Triumph",
+    "descriptions": [
+        "In the film \"Hollow Triumph\" released in 1948, the story follows a man named John Muller who is a skilled and intelligent criminal with a troubled past. After a heist gone wrong, Muller finds himself on the run from the law and decides to lay low by assuming the identity of a psychiatrist he resembles, Dr. Bartok. \n\nDr. Bartok is a successful and respected professional, but Muller quickly realizes that his new identity comes with its own set of challenges. As he navigates the world of psychiatry and tries to blend in with his new colleagues and patients, Muller must constantly stay one step ahead to avoid detection.\n\nMuller's plan seems to be working until he encounters a beautiful and mysterious woman named Evelyn Hahn. Despite his efforts to remain anonymous, Evelyn sees through his facade and threatens to expose his true identity. Muller is torn between his growing feelings for Evelyn and the danger she poses to his carefully constructed new life.\n\nAs the tension between Muller and Evelyn escalates, a series of unexpected events unfold that force Muller to confront his past and the choices that led him to this point. With danger closing in from all sides, Muller must decide whether to continue his charade as Dr. Bartok or face the consequences of his actions.\n\nThe film delves into themes of identity, redemption, and the consequences of one's actions. As Muller grapples with the consequences of his deception, he must ultimately come to terms with who he is and what he truly wants out of life. \"Hollow Triumph\" is a gripping noir thriller that keeps viewers on the edge of their seats until the very end, as Muller's fate hangs in the balance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "57f0ff69486808c116a59673c7a08aae",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 516.0 words or less.\n\n---\n\n**Title:**\n\nHollow Triumph\n\n**Year:**\n\n1948",
+    "include_year": false
+}

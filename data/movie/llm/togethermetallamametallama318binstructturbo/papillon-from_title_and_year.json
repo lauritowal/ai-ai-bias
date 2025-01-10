@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Papillon",
+    "descriptions": [
+        "In the 1973 film 'Papillon', a biographical drama directed by Franklin J. Schaffner, the story revolves around the real-life prison escape attempts of Henri Charrière, a French prisoner. The film is an adaptation of Charrière's 1969 semi-autobiographical novel of the same name.\n\nThe movie begins with the introduction of Henri 'Papillon' Charrière (played by Steve McQueen), a skilled prisoner who has been wrongly convicted of murder. Papillon is sent to Devil's Island, a notorious French penal colony in the South American jungle, where he is forced to endure harsh conditions and brutal treatment from the corrupt and sadistic prison authorities.\n\nWhile on the island, Papillon forms a close bond with a fellow prisoner, Louis Dega (played by Dustin Hoffman). Dega is a forger who claims to be innocent and has been wrongly accused. The two men share a common goal: to escape from the island and make their way back to civilization.\n\nDespite numerous failed attempts, Papillon and Dega continue to plot their escape. They face various obstacles, including treacherous terrain, vicious wild animals, and the relentless pursuit of the authorities. Throughout the film, Papillon's determination and resilience in the face of adversity serve as a testament to his unbreakable spirit.\n\nThe film's title, 'Papillon', is a French word that means 'butterfly', a nod to the prisoner's nickname, which was given to him because of a tattoo of a butterfly on his chest. The title also symbolizes the freedom and hope that Papillon clings to, as he navigates the treacherous world of the prison colony.\n\nThe movie features stunning cinematography, capturing the beauty and brutality of the jungle environment. The performances of Steve McQueen and Dustin Hoffman are also noteworthy, adding depth and emotion to the film's portrayal of the prisoners' struggles and camaraderie.\n\nOverall, 'Papillon' is a gripping and inspiring tale of survival and redemption, set against the backdrop of one of the most notorious prison colonies in history. The film's themes of hope, perseverance, and the human spirit continue to resonate with audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "f7941e4af8a9837c2d1feb3afa97af43",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nPapillon\n\n**Year:**\n\n1973",
+    "include_year": false
+}

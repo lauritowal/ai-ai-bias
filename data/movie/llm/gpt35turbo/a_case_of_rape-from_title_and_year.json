@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Case of Rape",
+    "descriptions": [
+        "\"A Case of Rape\" is a 1974 television movie that follows the story of a young woman named Ellen Harrod who is brutally assaulted and raped by a stranger in her own home. The film explores the aftermath of the attack as Ellen struggles to come to terms with what has happened to her and seeks justice through the legal system.\n\nAs Ellen tries to move forward with her life, she is met with skepticism and victim-blaming from those around her, including law enforcement officials and even her own family. Despite the lack of support, Ellen decides to press charges against her attacker and the case goes to trial.\n\nDuring the trial, Ellen faces intense scrutiny and harsh questioning from the defense, who try to paint her as a promiscuous woman who somehow invited the assault upon herself. Despite the challenges and emotional toll of the trial, Ellen remains determined to see justice served and hold her attacker accountable for his actions.\n\nThrough the course of the trial, \"A Case of Rape\" sheds light on the difficulties faced by survivors of sexual assault in seeking justice and the pervasive societal attitudes that often blame the victim rather than the perpetrator. The film ultimately serves as a powerful commentary on the importance of believing and supporting survivors of sexual violence, and the need for a more compassionate and understanding approach to addressing these crimes.\n\nIn the end, \"A Case of Rape\" is a poignant and thought-provoking film that highlights the strength and resilience of survivors and the challenges they face in seeking justice and healing in the aftermath of a traumatic experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "6a86e493dccbc8de901a3b12de7aa7f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 333.0 words or less.\n\n---\n\n**Title:**\n\nA Case of Rape\n\n**Year:**\n\n1974",
+    "include_year": false
+}

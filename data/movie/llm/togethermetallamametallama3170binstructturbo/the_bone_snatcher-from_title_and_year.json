@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Bone Snatcher",
+    "descriptions": [
+        "In the 2003 film \"The Bone Snatcher,\" a group of diamond miners in the Namib Desert is stalked by a giant, ancient creature known as the 'Bone Snatcher' or 'African tarantula-like creature' but more accurately is a giant, carnivorous spider-like creature. \n\nA team of miners, led by Karl, is on the hunt for valuable diamonds in the unforgiving Namib Desert. However, they soon realize that they are not alone as a mysterious creature begins to take out the miners one by one. \n\nAs the remaining miners try to figure out what the creature is and how to stop it, they discover that the creature is a massive, carnivorous arachnid that has been living beneath the desert's surface for centuries. \n\nAs the miners try to fend off the creature and escape the desert, they uncover its lair, where it has been storing the remains of its victims, earning the nickname 'Bone Snatcher'. In the end, the creature's lair is destroyed, but not before it wreaks havoc on the miners."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "651b1a8f68930e564bc152b1f54f5e3d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+    "include_year": false
+}

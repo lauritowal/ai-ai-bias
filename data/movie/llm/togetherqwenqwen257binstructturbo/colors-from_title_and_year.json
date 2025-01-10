@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Colors",
+    "descriptions": [
+        "**Plot Summary:**\n\nColors, released in 2009, is a visually stunning exploration of identity, memory, and the power of art. The film follows three characters whose lives intersect through a mysterious installation of vibrant, abstract paintings that appear overnight in a small Italian town. Each painting evokes powerful and sometimes conflicting emotions and memories in the townspeople, from joy and nostalgia to fear and anger.\n\nElena, a struggling artist, discovers that the paintings resemble her late father's work, igniting a quest to uncover the truth about his final days. Marco, a successful lawyer, uses the paintings as a tool to help clients find closure and emotional release, uncovering hidden truths about their past. Maria, a quiet, elderly woman, finds solace in the paintings, which remind her of her late husband and the life they shared.\n\nAs the townspeople grapple with the paintings, they are forced to confront their own identities and the stories they tell about themselves and each other. The film culminates in a powerful confrontation that reveals the paintings' creator and the purpose behind their creation, offering a profound meditation on the impact of art on human lives."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9300432e31407304ee60f2088835aefd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nColors\n\n**Year:**\n\n2009",
+    "include_year": false
+}

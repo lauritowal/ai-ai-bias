@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Devil's Diary",
+    "descriptions": [
+        "Devil's Diary is a 2007 supernatural television film. The story revolves around two teenage girls, Ursula Wilson and Dominique Pineno, who discover an old diary in their school's basement. As they start reading the diary, they become convinced that it belonged to a former student who died under mysterious circumstances.\n\nUpon reading the diary, Ursula starts experiencing strange and terrifying occurrences, and soon, she becomes possessed by the malevolent spirit of the former student. The spirit manipulates Ursula into committing evil deeds, causing chaos in her life and relationships.\n\nDominique tries to intervene, researching ways to break the curse and free Ursula from the evil entity's control. As the possession worsens, Dominique turns to the school's vice principal for help. Together, they work to exorcise the malevolent spirit from Ursula before it's too late.\n\nThe film explores themes of friendship, loyalty, and the struggle between good and evil, all set against the backdrop of a supernatural mystery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e0949543564dd5f487d81d6d9cda282b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 2867.0 words or less.\n\n---\n\n**Title:**\n\nDevil's Diary\n\n**Year:**\n\n2007",
+    "include_year": false
+}

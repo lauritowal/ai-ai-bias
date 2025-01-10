@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Padagotti",
+    "descriptions": [
+        "**Plot Summary:**\n\nPadagotti, released in 1964, is an Italian film that delves into the life of a small town in the Apennine Mountains during the early 20th century. The story follows the life of Padagotti, a humble farmer who is torn between his traditional values and the modern world. When a group of progressive young people, including a charismatic teacher, arrive in the village, they bring with them new ideas and ways of life that challenge the status quo. Padagotti, initially resistant to change, finds himself drawn to the teacher’s vision of a better future for the community. However, his decision to embrace modernity puts him at odds with the conservative elders of the village. As the story unfolds, Padagotti must navigate the tension between preserving his heritage and adapting to a changing world, all while facing personal and societal challenges. The film explores themes of tradition versus progress, the struggle for identity, and the impact of external influences on a close-knit community. The narrative is rich with cultural and social nuances, painting a vivid picture of life in a small Italian village during a pivotal period of transition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a0beed972e7a66fca2c695c77c93ed08",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 423.0 words or less.\n\n---\n\n**Title:**\n\nPadagotti\n\n**Year:**\n\n1964",
+    "include_year": false
+}

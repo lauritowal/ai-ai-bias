@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "There They Go-Go-Go!",
+    "descriptions": [
+        "I could not find any information on a movie from 1956 titled 'There They Go-Go-Go!'. However, I did find information on a movie titled 'There They Go!' released in 1956, also known as 'There They Go-Go-Go' in some countries.\n\n'There They Go!' (also known as 'There They Go-Go-Go') is a 1956 American drama film directed by Robert Barron, based on a book by Robert LeRoy Caine. \n\nThe movie revolves around the story of the World War II and the crew of the USS 'Hornet' (CV-8), which was involved in the Doolittle Raid, a famous bombing mission over Tokyo, Japan, conducted by Lt. Col. James H. Doolittle in April 1942.\n\nThe story focuses on a small group of men aboard the USS 'Hornet', led by Commander Eric H. Lonergan, who are tasked with delivering Lt. Col. Doolittle to a point from which he can launch the bombing mission. The crew has to contend with their commander's health issues and the challenges they face while carrying out their mission.\n\nThe film features James Craig as Commander Eric H. Lonergan, and the story is told from Commander Lonergan's perspective. The movie portrays the men who were involved in this pivotal moment of World War II, and the challenges they faced in carrying out their mission.\n\nThe movie received mixed reviews at the time of its release, but it is still worth watching for its historical significance and the portrayal of a pivotal moment in World War II.\n\nIt is worth noting that I could not verify whether the movie was released under the title \"There They Go-Go-Go\" in all regions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b67156f91628ee270d29edc462f77bf6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 748.0 words or less.\n\n---\n\n**Title:**\n\nThere They Go-Go-Go!\n\n**Year:**\n\n1956",
+    "include_year": false
+}

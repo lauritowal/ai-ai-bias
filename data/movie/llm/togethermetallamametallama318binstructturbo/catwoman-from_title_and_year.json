@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Catwoman",
+    "descriptions": [
+        "In the 2004 film \"Catwoman,\" Patience Phillips (played by Halle Berry) is a shy and timid artist working at a large cosmetics company called Hughes Beauty Products. Despite her creative talents, she is constantly belittled and overlooked by her male-dominated workplace. After witnessing a dark secret involving the company's toxic products, Patience is murdered in an attempt to silence her.\n\nHowever, Patience's spirit is revived when she touches a magical cat that has been living in an alleyway. As she regenerates, she discovers she has developed extraordinary abilities, including superhuman agility, strength, and reflexes. Embracing her newfound powers, Patience transforms into Catwoman, a fierce and confident crime-fighter.\n\nAs Catwoman, she sets out to expose the truth behind Hughes Beauty Products' toxic products and bring the responsible parties to justice. Along the way, she also seeks revenge against the CEO, George Hedare (played by Benjamin Bratt), who orchestrated her murder.\n\nMeanwhile, a charming and ambitious detective, Tom Lopez (played by Lambert Wilson), becomes entangled in Catwoman's mission. As they work together, Catwoman finds herself torn between her desire for justice and her growing feelings for Tom.\n\nThroughout the film, Catwoman's transformation from a timid artist to a powerful superhero is a central theme. With its blend of action, suspense, and romance, \"Catwoman\" is a thrilling adventure that explores the complexities of identity and empowerment. Despite mixed reviews, Halle Berry's performance as Catwoman has become iconic in pop culture."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "80a857bf39597b277bb973a114b056d7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 349.0 words or less.\n\n---\n\n**Title:**\n\nCatwoman\n\n**Year:**\n\n2004",
+    "include_year": false
+}

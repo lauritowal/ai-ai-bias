@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "George of the Jungle",
+    "descriptions": [
+        "George of the Jungle is a live-action comedy film released in 1997, directed by Sam Weisman. The movie is loosely based on the 1967 animated television series of the same name.\n\nThe story revolves around George (played by Brendan Fraser), a clumsy and naive Tarzan-like character raised by gorillas in the jungle. George lives a peaceful life with his gorilla friends, led by Ape (played by John Cleese as the voice of the ape). However, his world is turned upside down when he meets Ursula Stanhope (played by Leslie Mann), a beautiful and adventurous American woman.\n\nUrsula's fiancé, Lyle van de Groot (played by Thomas Haden Church), is an arrogant and greedy hunter seeking to capture George. Lyle aims to use George to gain fame and fortune. Meanwhile, George falls in love with Ursula, leading to a series of comedic misunderstandings and a wild jungle adventure.\n\nThroughout the film, George struggles to adapt to his newfound love and human surroundings, often resulting in humorous mishaps. With the help of his gorilla friends and Ursula, George must confront Lyle and rescue his jungle home from destruction.\n\nThe film features stunning jungle landscapes, impressive action sequences, and a blend of slapstick humor and witty one-liners. The movie's lighthearted tone and comedic performances make it a fun and entertaining family film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9f494913cef5300bb41e0af2a29ea914",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 671.0 words or less.\n\n---\n\n**Title:**\n\nGeorge of the Jungle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

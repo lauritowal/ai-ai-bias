@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Journey of Jared Price",
+    "descriptions": [
+        "The Journey of Jared Price is a 2000 American drama film. The movie follows Jared Price, a young man struggling with personal and emotional issues. Jared runs away from home, and his journey becomes a path of self-discovery. Along the way, he meets a wide variety of people, each contributing to his growth and helping him confront the past.\n\nAs Jared navigates his journey, he faces challenges that test his resolve and force him to confront his inner demons. He learns valuable lessons about relationships, trust, and the importance of human connection. The journey is not without its setbacks, but Jared eventually begins to heal and find his place in the world.\n\nThroughout the film, Jared's experiences serve as a catalyst for his transformation. He evolves from a lost and troubled young man into someone with a newfound sense of purpose and direction. The Journey of Jared Price is a poignant and thought-provoking exploration of the human spirit, highlighting the complexities and challenges of growing up and finding one's identity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "eb3da9459c305557c25fbcc2fd867cda",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 287.0 words or less.\n\n---\n\n**Title:**\n\nThe Journey of Jared Price\n\n**Year:**\n\n2000",
+    "include_year": false
+}

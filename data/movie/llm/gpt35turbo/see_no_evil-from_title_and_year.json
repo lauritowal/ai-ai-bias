@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "See No Evil",
+    "descriptions": [
+        "In the 1971 film \"See No Evil,\" a young blind woman named Sarah is left alone in her family's secluded English estate while her relatives go on a trip. Unbeknownst to her, a group of criminals breaks into the house looking for hidden money. Sarah, relying on her heightened senses and wit, must navigate the dangerous situation and outsmart the intruders in order to survive.\n\nAs the criminals search the house, Sarah realizes that she is in grave danger and must rely on her instincts to outsmart them. She uses her knowledge of the house's layout and her keen sense of hearing to evade capture and stay one step ahead of her assailants. However, the criminals soon catch on to her tactics and the situation escalates into a cat-and-mouse game of survival.\n\nAs Sarah fights to protect herself and uncover the criminals' motives, she discovers dark secrets about her own family and the true reason behind the break-in. With each twist and turn, Sarah's courage and resourcefulness are put to the test as she races to outwit her enemies and escape the perilous situation.\n\n\"See No Evil\" is a gripping thriller that showcases the strength and resilience of its blind protagonist as she fights against all odds to survive and protect herself in the face of danger."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "38af57b758f7cfdbfaf1e9c1580d897a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 265.0 words or less.\n\n---\n\n**Title:**\n\nSee No Evil\n\n**Year:**\n\n1971",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mimic 2",
+    "descriptions": [
+        " In \"Mimic 2\" (2001), a direct-to-video sequel to the 1997 film \"Mimic,\" the story revolves around a new generation of genetically engineered insects known as the Judas breed. These insects were originally created to eradicate disease-carrying roaches, but they have evolved and multiplied, posing a greater threat to humanity.\n\nThe plot centers around Remi Panos (Alix Koromzay), a school teacher who becomes the prime target of the Judas breed. She inadvertently attracts the attention of these creatures after witnessing a gruesome murder in a subway tunnel, where the killer was devoured by the insects. Detective Klaski (Bruno Campos) takes on the case, and as the body count rises, he starts to suspect that the murders are connected to Remi.\n\nMeanwhile, entomologist Dr. Susan Tyler (returning character from the first film, played by Mira Sorvino) is called in to help understand and combat the Judas breed. As the creatures grow in size and intelligence, Remi, Klaski, and Tyler must work together to unravel the mystery behind the insects' evolution and stop them before they become unstoppable.\n\n\"Mimic 2\" explores themes of genetic manipulation and its unintended consequences, as well as the resilience and adaptability of nature. While not as critically acclaimed as its predecessor, the film offers a suspenseful continuation of the Mimic series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "989d919de8972a97413bae9acee08e93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 243.0 words or less.\n\n---\n\n**Title:**\n\nMimic 2\n\n**Year:**\n\n2001",
+    "include_year": false
+}

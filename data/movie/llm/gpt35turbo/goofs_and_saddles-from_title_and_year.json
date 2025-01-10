@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Goofs and Saddles",
+    "descriptions": [
+        "In \"Goofs and Saddles,\" a 1937 comedy film, the story follows a group of bumbling cowboys who set out to save their town from a greedy land baron. The town is facing foreclosure, and it's up to this ragtag group of misfits to come up with a plan to raise the money needed to save their homes.\n\nLed by the charismatic but scatterbrained cowboy, Buckaroo Bob, the group embarks on a series of hilarious misadventures as they attempt to raise the necessary funds. Along the way, they encounter a colorful cast of characters, including a scheming saloon owner, a feisty schoolmarm, and a band of outlaws who are also after the land baron's fortune.\n\nDespite their best efforts, the cowboys' plans always seem to go awry, leading to a series of slapstick comedy moments and misunderstandings. But through their perseverance and teamwork, they eventually come up with a clever scheme to outwit the land baron and save the town from ruin.\n\nAs the deadline to save the town approaches, tensions rise and the cowboys must pull together to execute their plan flawlessly. In a wild and chaotic final showdown, the cowboys face off against the land baron and his cronies in a battle of wits and wills.\n\nIn the end, the cowboys emerge victorious, saving the town and becoming unlikely heroes in the process. \"Goofs and Saddles\" is a heartwarming and humorous tale of friendship, courage, and the power of community to overcome adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "2dc6f6db15dcc5f948faacb247277182",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 309.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+    "include_year": false
+}

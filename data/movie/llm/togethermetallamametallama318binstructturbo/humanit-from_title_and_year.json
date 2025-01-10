@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Humanité",
+    "descriptions": [
+        "\"Humanité\" is a 1999 French drama film directed by Bruno Dumont. The movie takes place in a small fishing village in northern France and revolves around the life of a young priest, Christian (played by Emmanuel Salmon), and his relationship with the local community. Christian is struggling with his faith and identity, and his interactions with the villagers reveal their own complexities and moral ambiguities.\n\nThe film's narrative is non-linear and often meandering, mirroring Christian's disjointed thoughts and emotions. He becomes particularly fascinated with a local young woman, Marianne (played by Séverine Caneele), who is struggling with her own demons. As Christian's obsession with Marianne grows, so does the sense of unease and tension within the community.\n\nThroughout the film, Dumont explores themes of faith, morality, and the human condition, raising questions about the nature of good and evil. The movie's slow-burning pace and stark, naturalistic setting create a sense of unease, reflecting the characters' inner turmoil and the village's decaying social fabric. \"Humanité\" is a thought-provoking and haunting exploration of the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "30441b301a481382dff20b122f946029",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999",
+    "include_year": false
+}

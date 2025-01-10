@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chakkikotha Chankaran",
+    "descriptions": [
+        "Chakkikotha Chankaran is a 1989 Indian Malayalam-language film. The movie revolves around the life of a village simpleton, Chankaran, who lives with his mother. Despite being a grown man, Chankaran is naive, innocent, and has a childlike personality. He is often taken advantage of by the people in his village, who deceive and mock him.\n\nChankaran's life takes a turn when he falls in love with a woman named Chakkamma, a beautiful and kind-hearted person. As their romance blossoms, Chankaran is faced with various challenges. His innocence and simplicity often lead to comedic situations, and he struggles to navigate the complexities of relationships and adulthood.\n\nDespite the odds against him, Chankaran's love for Chakkamma remains strong. However, their love is put to the test when Chakkamma's family opposes their relationship due to Chankaran's simple nature. The movie follows Chankaran's journey as he tries to prove himself and win over Chakkamma's family.\n\nThroughout the film, Chankaran's character undergoes significant development, and he learns to stand up for himself and assert his individuality. The movie features a mix of comedy, drama, and romance, with Chankaran's innocence and good-hearted nature serving as the central theme.\n\nUltimately, Chakkikotha Chankaran is a heartwarming tale of love, self-discovery, and the power of innocence. The film explores the complexities of rural life in Kerala, India, and showcases the beauty of simple, uncomplicated relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "03ff703b541931a4d705a19ae5542878",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nChakkikotha Chankaran\n\n**Year:**\n\n1989",
+    "include_year": false
+}

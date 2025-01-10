@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love with the Proper Stranger",
+    "descriptions": [
+        "\"Love with the Proper Stranger\" is a 1963 American romantic drama film directed by Robert Mulligan. The movie follows the story of Angie Rossini (Natalie Wood), a young jazz singer who becomes involved with Rocky Papasano (Steve McQueen), a free-spirited and charismatic jazz musician.\n\nAs Angie becomes pregnant with Rocky's child, she decides to get married to him, despite his reluctance to settle down. However, Rocky struggles with the idea of domestic life and eventually abandons Angie, leaving her to raise their child on her own.\n\nHeartbroken and struggling to care for their child, Angie is forced to come to terms with Rocky's true nature. As she navigates the challenges of single motherhood, Angie learns to find her own identity and independence, ultimately discovering a new sense of purpose and self-worth.\n\nThe film explores themes of love, marriage, and motherhood, raising questions about the societal expectations placed on women and the consequences of making choices based on societal norms rather than personal desires. \"Love with the Proper Stranger\" is a poignant and thought-provoking portrayal of the complexities of relationships and the struggles of womanhood in the early 1960s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "9ad016a99671e1a6d75cf7772845abe6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLove with the Proper Stranger\n\n**Year:**\n\n1963",
+    "include_year": false
+}

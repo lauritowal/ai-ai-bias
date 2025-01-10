@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hit",
+    "descriptions": [
+        "In the 1979 British film 'The Hit', Willie Parker (played by Terence Stamp) is a retired hitman who has been living in Spain, trying to escape his past. However, his tranquil life is disrupted when he's kidnapped by a ruthless gangster, Mr. Braddock (played by John Hurt), and forced to reveal the location of a valuable piece of information.\n\nThe information is related to a massive heist that Willie and his associates committed years ago. Unbeknownst to Mr. Braddock, Willie has hidden this information in a safe place and has given a set of cryptic clues to his accomplice, Jack (played by Tim Roth), who is currently living in England.\n\nAs Willie and Mr. Braddock journey through the countryside, they develop a tense yet intriguing dynamic. Meanwhile, Jack is being pursued by another gangster, Myron (played by Freddie Stuart), who is also after the valuable information.\n\nThe film is a slow-burning, suspenseful thriller that explores themes of loyalty, redemption, and the consequences of one's actions. The relationships between the characters are complex, and the tension builds up as the story unfolds.\n\n'The Hit' features strong performances from its cast, particularly Terence Stamp and John Hurt, and is directed by Stephen Frears, who would later go on to direct other notable films like 'My Beautiful Laundrette' and 'Dangerous Liaisons'. Overall, 'The Hit' is a gripping and thought-provoking crime drama that's worth watching for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6bb4802fe5a4bc97439a2cd6add731d9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 317.0 words or less.\n\n---\n\n**Title:**\n\nThe Hit\n\n**Year:**\n\n1979",
+    "include_year": false
+}

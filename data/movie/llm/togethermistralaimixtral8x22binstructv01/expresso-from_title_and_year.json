@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Expresso",
+    "descriptions": [
+        " In the fast-paced world of 2007, \"Expresso\" is a gripping thriller that revolves around the life of Jack, a hardworking and ambitious barista at the trendy coffee shop, Java Junction. Jack is known for his impeccable coffee-making skills, earning him a loyal customer base and the nickname \"Expresso.\"\n\nOne day, Jack accidentally overhears a conversation between two customers discussing a high-stakes robbery. Intrigued and alarmed, Jack decides to keep a low profile, focusing on his coffees and hoping to forget what he heard. However, things take a turn when one of the robbers, a man named Vincent, recognizes Jack from his frequent visits to Java Junction.\n\nVincent, a menacing and manipulative character, blackmails Jack into becoming their inside man, threatening to harm him and his loved ones. Fearful for his life, Jack reluctantly agrees, using his knowledge of Java Junction's security and layout to help the robbers plan the heist.\n\nAs the day of the robbery approaches, Jack becomes increasingly conflicted and seeks help from his close friend and fellow barista, Emma. Together, they devise a plan to outsmart the robbers and save the coffee shop without getting caught in the crossfire.\n\n\"Expresso\" is a heart-pounding tale of courage, deception, and caffeine, as Jack and Emma race against time to stop the robbery and protect their beloved coffee shop. With unexpected twists and turns, the film keeps viewers on the edge of their seats, showcasing the power of friendship, loyalty, and the strength of the human spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "e49f13d9da53bfce82c870a47a6608ac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 283.0 words or less.\n\n---\n\n**Title:**\n\nExpresso\n\n**Year:**\n\n2007",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pee-wee's Big Adventure",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Pee-wee's Big Adventure,\" released in 1985, is a quirky and whimsical comedy film directed by Tim Burton. The story centers around Pee-wee Herman, a lovable and childlike bicycle repairman who is obsessed with bicycles. After losing his cherished bicycle to a mysterious theft, Pee-wee becomes determined to get it back. His quest takes him on a series of comedic and often surreal adventures across the United States.\n\nThe film opens with Pee-wee's arrival in Los Angeles, where he meets a friendly and helpful couple, Mr. and Mrs. Fud, who agree to help him in his search. Pee-wee's journey is filled with various encounters, including a run-in with a shady used car salesman and a brief, chaotic stint as a clown for a local circus. Along the way, he also meets a quirky mechanic named Mr. Dinkleburger, who becomes a key ally in his pursuit.\n\nOne of the most memorable aspects of the film is its colorful cast of characters and the fantastical settings, from a surreal diner to a whimsical car wash. The story takes an unexpected turn when Pee-wee discovers that his bicycle has been taken to New York City. He embarks on a new leg of his journey, facing challenges and meeting new friends, including a group of eccentric theater performers.\n\nIn New York, Pee-wee's quest leads him to the home of a conniving art dealer named Dottie, who is trying to sell his bicycle as a piece of art. Pee-wee engages in a series of elaborate and humorous attempts to retrieve his beloved bicycle, culminating in a daring and climactic confrontation with Dottie.\n\nThe film concludes with Pee-wee successfully recovering his bicycle and returning home. The adventure teaches him a valuable lesson about the importance of friends and the true value of possessions. \"Pee-wee's Big Adventure\" is a celebration of childhood innocence, creativity, and the power of determination, making it a beloved classic in the world of comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "8de0df0d2774bed4f55358faaa2c5fa6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 499.0 words or less.\n\n---\n\n**Title:**\n\nPee-wee's Big Adventure\n\n**Year:**\n\n1985",
+    "include_year": false
+}

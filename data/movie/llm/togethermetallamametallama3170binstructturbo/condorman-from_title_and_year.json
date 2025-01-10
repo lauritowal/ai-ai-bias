@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Condorman",
+    "descriptions": [
+        "\"Condorman\" is a 1981 American spy comedy film directed by Charles Jarrott. The movie follows the adventures of Woody Wilkins (played by Michael Crawford), a cartoonist who creates a comic book character called Condorman. Woody is recruited by a government agency to help a Soviet defector, Natalia (played by Barbara Carrera), who wants to escape her country with a valuable piece of information.\n\nWoody uses his comic book alter ego, Condorman, to create a fictional persona that can help him protect Natalia from the Soviet agents who are trying to capture her. He then embarks on a series of daring and often humorous adventures to keep Natalia safe and bring her to the United States.\n\nThroughout the film, Woody/Condorman faces numerous obstacles, including treacherous mountain terrain, villainous Soviet agents, and his own bumbling ineptitude. Despite the danger, he manages to stay one step ahead of his pursuers, often using his cartoonist skills to create gadgets and disguises that help him escape.\n\nThe film features a mix of action, adventure, and comedy, with plenty of slapstick humor and witty one-liners. Michael Crawford's performance as the bumbling but lovable Woody/Condorman adds to the movie's lighthearted and entertaining tone.\n\nOverall, \"Condorman\" is a fun and entertaining film that combines the best elements of spy movies and comedies. With its lighthearted tone, colorful characters, and exciting action sequences, it's a great choice for fans of adventure films and comedy classics."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "60d35df4f22ba9157c5eb281be6c497d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 582.0 words or less.\n\n---\n\n**Title:**\n\nCondorman\n\n**Year:**\n\n1981",
+    "include_year": false
+}

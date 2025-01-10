@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mera Naam Joker",
+    "descriptions": [
+        "\"Mera Naam Joker\" is a Bollywood film released in 1970 that follows the life of Raju, a famous circus performer. The film is presented in three acts, each depicting a different stage of Raju's life. \n\nIn the first act, we see Raju as a young boy who discovers his passion for performing in the circus. Despite facing challenges and hardships in his personal life, Raju finds solace in entertaining others and develops his skills as a clown. He befriends a teacher named Mary who helps him navigate the complexities of life and love. As Raju grows older, he falls in love with Mary, but their relationship is complicated by societal expectations and misunderstandings.\n\nThe second act of the film shows Raju as a young man who has achieved great success as a circus performer. He is now a popular figure in the entertainment world, known for his comedic acts and emotional performances. However, as Raju becomes more famous, he starts to feel isolated and disconnected from his own emotions. He struggles to balance his personal and professional life, leading to a downward spiral of loneliness and despair.\n\nIn the final act, Raju is shown as an older man reflecting on his life and the choices he has made. He looks back on his past with a sense of nostalgia and regret, realizing the impact his decisions have had on his relationships and happiness. Through a series of flashbacks, we see the key moments that have shaped Raju's life and led him to where he is now.\n\nThroughout the film, \"Mera Naam Joker\" explores themes of love, loss, and the search for meaning in life. It delves into the complexities of human emotions and relationships, highlighting the struggles and triumphs of a man who has dedicated his life to bringing joy to others. The film is a poignant and thought-provoking exploration of the human experience, told through the lens of a circus performer who must confront his own inner demons in order to find peace and fulfillment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3fbe27e4645ae0fd15a6bc5d174605f1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nMera Naam Joker\n\n**Year:**\n\n1970",
+    "include_year": false
+}

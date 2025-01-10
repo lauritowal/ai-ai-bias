@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Attack of the Killer Tomatoes",
+    "descriptions": [
+        "In the 1978 comedy-horror film 'Attack of the Killer Tomatoes,' a mysterious and terrifying phenomenon occurs across the United States, where ordinary tomatoes suddenly grow to enormous sizes, become aggressive, and start attacking humans. The main characters, led by Mason Dixon (played by David Miller) – the newly appointed head of a special task force created by the US President to tackle the crisis – must navigate the chaos caused by these deadly tomatoes.\n\nAs Dixon delves deeper into the crisis, he discovers that the tomatoes are spreading rapidly and wiping out entire cities. The task force, accompanied by a group of eccentric and unorthodox experts, including a parapsychologist (Jack Riley) and a military officer (Rock Peace), work together to identify the cause of the tomato attacks and develop a strategy to stop them.\n\nThe film uses satire and social commentary to poke fun at 1970s disaster films, government bureaucracy, and societal norms. Despite the absurd premise, the film features a mix of dark humor, slapstick comedy, and over-the-top action sequences. The movie also employs a self-aware, tongue-in-cheek style of storytelling, frequently breaking the fourth wall and addressing the audience directly.\n\n'Attack of the Killer Tomatoes' has gained cult status due to its campy charm and comedic take on the classic B-movie genre. The film spawned two sequels, 'Return of the Killer Tomatoes' (1988) and 'Killer Tomatoes Strike Back' (1990), and an animated television series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "04947c30c3620c8cd08d7e6f1a4b28e8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 677.0 words or less.\n\n---\n\n**Title:**\n\nAttack of the Killer Tomatoes\n\n**Year:**\n\n1978",
+    "include_year": false
+}

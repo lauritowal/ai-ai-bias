@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Corporate",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Corporate\" (2006) is a psychological thriller that delves into the dark underbelly of corporate America. The film is set in a high-stakes corporate environment where power, manipulation, and betrayal are the norm. The story centers around Sarah, a successful and ambitious executive at a major financial firm, who finds herself at the center of a corporate conspiracy that threatens to destroy her career and personal life.\n\nSarah, played by a seasoned actress, navigates a cutthroat corporate world where she must constantly prove her worth to her demanding boss, Jack, and his ruthless son, Michael. As Sarah rises through the ranks, she uncovers a web of deceit, including embezzlement, blackmail, and sabotage. Her discovery of the corporate scandal places her in grave danger, and she must navigate this treacherous landscape to expose the truth and clear her name.\n\nThe film explores themes of trust, loyalty, and the moral compromises made in the pursuit of success. Sarah’s journey is both a personal and professional one, as she grapples with the pressure to succeed and the moral implications of the corporate world. Her relationships with her colleagues, including a supportive but conflicted mentor, a rival who becomes an unlikely ally, and a love interest who complicates her loyalties, add layers to her character.\n\nAs Sarah delves deeper into the conspiracy, she faces increasing danger and must confront her own complicity in the corporate culture. Her confrontation with the masterminds behind the scandal leads to a climactic and tense finale where she must choose between justice and survival.\n\n\"Corporate\" is a gripping tale that examines the psychological toll of corporate life and the ethical dilemmas faced by those who navigate its complexities. The film is a tantalizing mix of suspense and drama, offering a critical look at the darker aspects of the business world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "39e1085821db9c600d1615eb3aa621c2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 524.0 words or less.\n\n---\n\n**Title:**\n\nCorporate\n\n**Year:**\n\n2006",
+    "include_year": false
+}

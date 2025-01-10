@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ee Parakkum Thalika",
+    "descriptions": [
+        "Ee Parakkum Thalika, released in 2001, is a poignant drama set in Kerala, India. The story revolves around Kavya, a young woman who returns to her hometown after a long absence, only to find her world turned upside down. Kavya, once a vibrant and ambitious student, has now become a widow, her dreams shattered by an early and tragic marriage and her husband's untimely death. Upon her return, she is greeted with mixed emotions from her family and friends, who struggle to reconcile their expectations with her reality. Kavya's journey is one of rediscovery as she navigates through grief, rekindles a forgotten love, and eventually finds the strength to embrace her true self. The film beautifully captures the essence of love, loss, and the resilience of the human spirit, set against the backdrop of Kerala's lush landscapes and cultural heritage."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "651ae988e9b785fc8369dd64b6202da8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 266.0 words or less.\n\n---\n\n**Title:**\n\nEe Parakkum Thalika\n\n**Year:**\n\n2001",
+    "include_year": false
+}

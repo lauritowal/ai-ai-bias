@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Don't Look Now",
+    "descriptions": [
+        "\"Don't Look Now\" is a psychological thriller released in 1973 that follows the story of John and Laura Baxter, a grieving couple who have recently lost their young daughter, Christine, in a tragic drowning accident. The film is set in Venice, where the couple has traveled for John's work as a restoration architect.\n\nAs the Baxters try to cope with their loss, they encounter two elderly sisters, Heather and Wendy, who claim to be psychic and have a message from Christine. While John is skeptical of their abilities, Laura is comforted by the possibility of communicating with their deceased daughter.\n\nStrange occurrences begin to happen around the city, leading John to believe that someone is following them. He starts to see a figure in a red raincoat, similar to the one Christine was wearing when she drowned. This figure haunts him throughout the film, adding to the tension and unease.\n\nAs John delves deeper into the mystery, he discovers that the sisters are not who they seem to be and that there may be a sinister plot at play. He becomes obsessed with uncovering the truth, despite Laura's pleas for him to let go and move on from their daughter's death.\n\nThe film builds to a suspenseful climax as John's investigation leads him to a deserted building, where he confronts the mysterious figure in the red raincoat. In a shocking twist, John realizes the true identity of the stalker and the intentions behind the haunting visions he has been experiencing.\n\nIn the final moments of the film, the truth is revealed, leaving John and Laura to grapple with the consequences of their actions and the loss of their daughter. As they come to terms with their grief and the disturbing events that have unfolded, they must find a way to move forward and rebuild their shattered lives.\n\n\"Don't Look Now\" is a gripping and atmospheric thriller that explores themes of grief, guilt, and the supernatural. With its haunting visuals, eerie soundtrack, and stellar performances from its leads, the film has become a classic of the horror genre and continues to captivate audiences with its chilling tale of loss and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "d73b3f3afcda3488cd6e26ac01f92d79",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 548.0 words or less.\n\n---\n\n**Title:**\n\nDon't Look Now\n\n**Year:**\n\n1973",
+    "include_year": false
+}

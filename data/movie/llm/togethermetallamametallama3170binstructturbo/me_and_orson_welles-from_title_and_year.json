@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Me and Orson Welles",
+    "descriptions": [
+        "Me and Orson Welles is a 2009 drama film directed by Richard Linklater. The movie is set in 1937 New York City and follows the story of Richard Samuels (Zac Efron), a young high school student with a passion for acting. Richard lands a minor role in Orson Welles' (Christian McKay) production of Julius Caesar at the Mercury Theatre. \n\nInitially, Richard is thrilled to work with his idol, but soon discovers that Welles is a demanding and volatile director. Richard also catches the eye of Sonja Jones (Claire Danes), Welles' assistant, who is struggling to maintain her independence from Welles' charismatic but manipulative personality.\n\nAs the production nears its opening night, Richard becomes increasingly disillusioned with Welles' behavior and the pressure to deliver a flawless performance. Meanwhile, Sonja must navigate her complicated feelings for Welles and her growing connection with Richard.\n\nThe film is a coming-of-age story that explores the complexities of artistic ambition, the cutthroat world of 1930s theater, and the challenges of navigating one's own desires and aspirations. Through its portrayal of Welles and his company, the movie offers a unique glimpse into the life of a legendary filmmaker and the cultural landscape of New York City during the 1930s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nMe and Orson Welles\n\n**Year:**\n\n2009",
+    "include_year": false
+}

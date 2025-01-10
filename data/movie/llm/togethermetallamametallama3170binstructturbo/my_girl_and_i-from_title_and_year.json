@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "My Girl and I",
+    "descriptions": [
+        "My Girl and I is a 2005 South Korean romantic drama film. The movie tells the story of Kim Su-ho (played by Cha Tae-hyun) and Kim Su-yeon (played by Song Hye-kyo), two childhood friends who eventually develop romantic feelings for each other.\n\nThe story begins with the introduction of the two main characters, who grow up together in the same neighborhood. As they mature, Su-ho develops a strong affection for Su-yeon, but he struggles to express his feelings to her.\n\nWhen Su-yeon leaves for college, Su-ho is left behind, feeling lost and uncertain about his future. However, they continue to stay in touch, and Su-ho eventually realizes that his feelings for Su-yeon go beyond friendship.\n\nAs they navigate the complexities of adulthood, Su-ho and Su-yeon must confront their own emotions and the challenges that come with their blossoming romance. The movie explores themes of love, friendship, and self-discovery, set against the backdrop of the beautiful Korean landscape.\n\nThroughout the film, the relationship between Su-ho and Su-yeon is portrayed as a poignant and tender exploration of first love and the complexities of human emotions. The movie's title, \"My Girl and I,\" captures the essence of their relationship, highlighting the deep bond between the two characters.\n\nOverall, My Girl and I is a heartwarming and sentimental film that explores the beauty of first love and the complexities of human relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "83ec39beef960538ae8411b06da5e069",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1411.0 words or less.\n\n---\n\n**Title:**\n\nMy Girl and I\n\n**Year:**\n\n2005",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lucky: No Time for Love",
+    "descriptions": [
+        "\"Lucky: No Time for Love\" is a romantic drama film set in 1947, following the story of a young woman named Lucky who lives in Russia. The film begins with Lucky and her family fleeing to India during the partition. Through a series of events, Lucky finds herself separated from her family and taken in by a kind Indian family. She meets a charming young architect named Aditya, who is instantly drawn to her.\n\nAs Lucky and Aditya spend more time together, they develop a deep bond and fall in love. However, their love is tested by societal expectations, cultural differences, and personal struggles. Lucky is torn between her feelings for Aditya and her loyalty to her family, who are searching for her.\n\nDespite the challenges they face, Lucky and Aditya's love continues to grow stronger. They must navigate through obstacles and difficult decisions in order to be together. The film explores themes of love, sacrifice, and perseverance as Lucky and Aditya fight for their relationship against all odds.\n\nIn the end, Lucky and Aditya prove that love knows no boundaries and can conquer all obstacles. They find a way to be together despite the turmoil surrounding them, showing that true love always finds a way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "68e35a951cf86336918f53d43c4b204c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005",
+    "include_year": false
+}

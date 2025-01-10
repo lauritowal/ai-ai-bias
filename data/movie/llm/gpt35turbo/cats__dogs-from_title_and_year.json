@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cats & Dogs",
+    "descriptions": [
+        "In the movie \"Cats & Dogs\" from 2001, the world is secretly controlled by two rival factions - cats and dogs. The cats, led by the evil Mr. Tinkles, are plotting to take over the world and rid it of dogs once and for all. The dogs, on the other hand, have been working tirelessly to protect humans and maintain their secret war against the cats.\n\nThe story follows a young Beagle named Lou who is recruited by a secret organization of dogs to help stop Mr. Tinkles' diabolical plan. Lou is trained by Butch, a seasoned veteran in the organization, and together they must foil the cats' evil scheme.\n\nMeanwhile, a family adopts a new puppy named Buddy, who quickly becomes the target of Mr. Tinkles' henchmen. The family is unaware of the secret war between cats and dogs, but soon find themselves caught in the middle of the conflict.\n\nAs the cats and dogs battle it out in a high-stakes showdown, Lou and Buddy must work together to save the world from Mr. Tinkles' tyrannical reign. With the help of their human owners, the two unlikely heroes embark on a thrilling adventure filled with danger, espionage, and plenty of laughs.\n\nIn the end, the dogs emerge victorious, thwarting Mr. Tinkles' plans and restoring peace between cats and dogs. Lou and Buddy are hailed as heroes, and the world is safe once again - at least until the next time the cats decide to make their move.\n\n\"Cats & Dogs\" is a fun and action-packed family film that explores the age-old rivalry between cats and dogs in a fresh and exciting way. With a mix of humor, heart, and adventure, this movie is sure to entertain audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "449e7b83d39b55337a9308b8b937b12b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1132.0 words or less.\n\n---\n\n**Title:**\n\nCats & Dogs\n\n**Year:**\n\n2001",
+    "include_year": false
+}

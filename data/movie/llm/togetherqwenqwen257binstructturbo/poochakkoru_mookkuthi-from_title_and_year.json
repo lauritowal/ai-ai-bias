@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Poochakkoru Mookkuthi",
+    "descriptions": [
+        "**Plot Summary of Poochakkoru Mookkuthi (1984):**\n\nPoochakkoru Mookkuthi, meaning \"The Troubled Eyebrow\" in Tamil, is a 1984 Tamil comedy-drama that blends elements of romance, family drama, and humor. The story revolves around Mookkuthi (played by Vijay, a prominent romantic lead of that era), a young man from a rural village who moves to the city in search of a better life. Mookkuthi, known for his good looks and charming personality, quickly becomes popular among the city's young women, much to the chagrin of his traditional village family.\n\nUpon returning to his village, Mookkuthi's return is marked by a series of comical and sometimes awkward situations as he tries to reconcile his new city persona with the expectations of his conservative village community. The plot thickens when he encounters a beautiful and spirited village girl named Poochakkoru (played by Nandhini), who seems to have her own set of challenges and secrets. As Mookkuthi and Poochakkoru's paths cross, they form an unexpected bond, leading to a series of humorous and heartwarming moments that challenge both their preconceived notions.\n\nThe film also delves into the generational gap and cultural clashes between the traditional village and the modern city. Mookkuthi's interactions with his family, especially his mother and the village elders, provide ample opportunities for comedic relief and insightful commentary on societal norms. The narrative is filled with witty dialogues, clever wordplay, and a mix of slapstick humor and romantic tension that keep the audience engaged.\n\nPoochakkoru Mookkuthi is a testament to the era's filmmaking style, which often combined serious themes with light-hearted entertainment. The movie successfully balances its romantic and dramatic elements with its comedic undertones, making it a memorable entry in the Tamil cinema landscape of the 1980s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "cb6ea10fb58be16adde9f4755eb36060",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nPoochakkoru Mookkuthi\n\n**Year:**\n\n1984",
+    "include_year": false
+}

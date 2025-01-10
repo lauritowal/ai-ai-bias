@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mereka Bilang, Saya Monyet!",
+    "descriptions": [
+        "Mereka Bilang, Saya Monyet (which translates to 'They Say I'm a Monkey') is a 2008 Malaysian comedy-drama film. The movie revolves around the life of a young boy named Adi, who lives in a small village in Malaysia.\n\nAdi is known to be a bit of an outcast in his community, as people claim that he bears an uncanny resemblance to a monkey. As a result, Adi is constantly teased and bullied by his peers, and he struggles to find his place among his fellow villagers.\n\nDetermined to prove his worth and find acceptance, Adi befriends a group of misfits in the village, including a young girl named Nisa. Together, they form an unlikely group, and Adi finally finds a sense of belonging.\n\nHowever, Adi's newfound happiness is short-lived as he faces various challenges, including the disapproval of the village elders and the skepticism of Nisa's family. Adi must navigate these obstacles and prove that he is more than just a physical appearance.\n\nThroughout the film, Adi's journey is a heartwarming and humorous exploration of identity, acceptance, and self-discovery. With the help of his friends, Adi learns to overcome his insecurities and find his place in the world.\n\nThe movie features a talented cast, including Beto Kusyairy and Sharifah Amani, and its blend of comedy and drama makes for an entertaining and uplifting watch. Overall, Mereka Bilang, Saya Monyet! is a charming and engaging film that explores themes of identity and acceptance in a small Malaysian village."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1288d2ae76fefccae71f2caf934a90c9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nMereka Bilang, Saya Monyet!\n\n**Year:**\n\n2008",
+    "include_year": false
+}

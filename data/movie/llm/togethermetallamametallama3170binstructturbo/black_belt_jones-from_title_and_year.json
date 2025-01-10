@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Black Belt Jones",
+    "descriptions": [
+        "In the 1974 film 'Black Belt Jones,' a martial arts instructor named Black Belt Jones (played by Jim Kelly) gets caught up in a battle to protect a local martial arts school and its neighborhood from a corrupt developer. The developer, Pop Byrd, wants to buy out the school's property and turn it into a high-rise complex, forcing the school's owner and students to relocate.\n\nBlack Belt Jones teams up with a karate expert named Sidney (played by Gloria Hendry) and a young karate enthusiast named Quincy (played by Eric Laneuville) to fight against Pop Byrd and his gang. Along the way, they encounter various thugs, and Black Belt Jones showcases his impressive martial arts skills in action-packed fight sequences.\n\nAs the conflict escalates, Black Belt Jones and his allies work together to outsmart and defeat Pop Byrd, ultimately saving the martial arts school and the neighborhood from destruction. The film features a mix of action, comedy, and social commentary, addressing themes of community and resistance against oppression. 'Black Belt Jones' is a classic example of 1970s blaxploitation cinema, celebrating African American culture and martial arts."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nBlack Belt Jones\n\n**Year:**\n\n1974",
+    "include_year": false
+}

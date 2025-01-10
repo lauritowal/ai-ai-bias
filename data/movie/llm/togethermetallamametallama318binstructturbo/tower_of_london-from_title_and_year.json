@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tower of London",
+    "descriptions": [
+        "'Tower of London' is a 1962 British-American film directed by Roger Corman, starring Vincent Price, George Sanders, and Michael Pate. The movie is an adaptation of Richard III, loosely based on William Shakespeare's play, but with a unique twist set in the 15th century.\n\nThe story revolves around the rise of Richard Crookback (played by Vincent Price), a deformed and ruthless Duke of Gloucester who seeks to overthrow his brother, King Edward IV (played by Robert Brown), and claim the throne for himself. Richard's cunning and intelligence make him an ideal candidate to manipulate others and achieve his goals.\n\nAs Richard gains power, he begins to eliminate anyone who stands in his way, including his brother's children, the Princes in the Tower. The story takes a dark and macabre turn as Richard's obsession with power and revenge drives him to commit a series of heinous crimes.\n\nThe film features a blend of drama, horror, and dark comedy, which was characteristic of many of Corman's films. Vincent Price delivers a memorable performance as the villainous Richard Crookback, bringing depth and complexity to the character.\n\nThroughout the movie, Richard's descent into madness and tyranny is depicted in vivid detail, with a focus on the moral decay and corruption that comes with absolute power. The film's climax features a dramatic and unexpected twist, as Richard's downfall is brought about by his own arrogance and hubris.\n\n'Tower of London' is a gripping and atmospheric film that explores the darker aspects of human nature. With its blend of drama, horror, and dark comedy, it is a unique and thought-provoking adaptation of Richard III that continues to captivate audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3955d3d3df6df2938d93c77b3351e772",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 586.0 words or less.\n\n---\n\n**Title:**\n\nTower of London\n\n**Year:**\n\n1962",
+    "include_year": false
+}

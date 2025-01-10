@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Severance",
+    "descriptions": [
+        "In the 2006 film \"Severance,\" a group of employees from an international arms company embark on a team-building retreat in the mountains of Eastern Europe. As they arrive at a remote lodge, tensions quickly rise among the group due to their differing personalities and work dynamics. However, things take a dark turn when they become the target of a group of mysterious killers who begin hunting them down one by one.\n\nAs the employees struggle to survive the relentless attacks, they must band together and use their wits to outsmart their assailants. The group soon discovers that there is more to their attackers than meets the eye, and they must uncover the truth behind their motives in order to make it out alive.\n\nThrough a series of intense and suspenseful encounters, the employees are forced to confront their own fears and weaknesses while fighting for their lives. As the body count rises and the tension reaches its peak, the survivors must make difficult choices and sacrifices in order to escape the deadly game that they have unwittingly become a part of.\n\n\"Severance\" is a thrilling and chilling tale of survival, betrayal, and redemption as the characters are pushed to their limits in a fight for their lives against a formidable and unseen enemy. With unexpected twists and turns, this film keeps viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "21dbe032954b36bb5e5f40ecb6c75505",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 999.0 words or less.\n\n---\n\n**Title:**\n\nSeverance\n\n**Year:**\n\n2006",
+    "include_year": false
+}

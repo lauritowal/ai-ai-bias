@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Better Tomorrow 2",
+    "descriptions": [
+        "**Plot Summary for A Better Tomorrow 2 (1987):**\n\n\"A Better Tomorrow 2\" is a 1987 Hong Kong action film that continues the story of the original 1986 film, \"A Better Tomorrow.\" Set in Hong Kong, the film delves into the complex lives of two friends, Nicky (Yin Shun) and Billy (Chun Fung), who were once in the Hong Kong Police Force. After a traumatic incident in the first film, Nicky, disillusioned with the corrupt system, decides to start a new life in Macau, while Billy remains in Hong Kong, attempting to reform the police force from within.\n\nIn Macau, Nicky becomes a successful businessman and is approached by a crime lord named Peter (Ho Man) who offers him a lucrative job in his drug trafficking business. Nicky refuses, maintaining his principles and focusing on his legitimate business dealings. However, Billy's efforts to improve the police force are met with resistance from corrupt officers and higher-ups. He eventually finds himself entangled in a series of dangerous situations, including a shooting incident that leaves him severely injured.\n\nThe film explores themes of loyalty, redemption, and the thin line between justice and corruption. Nicky, struggling with his past and the choices he's made, is forced to return to Hong Kong when his business partner, who had betrayed him, is killed. Upon his return, he finds himself in the middle of a conflict between the police and the criminal underworld, with Billy at the center of the chaos.\n\nTensions rise as Nicky and Billy's paths cross, leading to a series of intense confrontations both outside and within the police force. The film culminates in a heart-wrenching finale where the protagonists face their demons and make crucial life choices. Despite the obstacles and betrayals, the bond between the two friends remains unbreakable, even in the face of overwhelming adversity.\n\n\"A Better Tomorrow 2\" is known for its gripping narrative, memorable characters, and iconic action sequences, cementing its place as a classic in Hong Kong cinema. The film's exploration of friendship, loyalty, and the moral complexities of law enforcement continues to resonate with audiences, making it a seminal work in the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "19be7e9f32d12571a23ade9d376163c4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 521.0 words or less.\n\n---\n\n**Title:**\n\nA Better Tomorrow 2\n\n**Year:**\n\n1987",
+    "include_year": false
+}

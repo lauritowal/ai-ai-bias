@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eve's Bayou",
+    "descriptions": [
+        "'Eve's Bayou' is a 1997 American drama film, written and directed by Kasi Lemmons. The film takes place in 1962 in the fictional town of Eve's Bayou, Louisiana, and is narrated by the protagonist, Eve Batiste.\n\nThe story revolves around the Batiste family, who are part of the affluent Creole community in the small town. Eve's family, particularly her father, Dr. Louis Batiste, are highly respected due to his successful medical practice and charming personality. However, beneath the surface, Dr. Batiste's womanizing ways have significant effects on his family, especially his wife, Roz, and their three daughters, Eve, Cisely, and Mozelle.\n\nEve is a ten-year-old girl who idolizes her father but struggles to make sense of his infidelity and his increasingly complicated relationships with the women in his life. Eve's mother, Roz, is aware of her husband's transgressions but tries to maintain a sense of normalcy for the sake of their children.\n\nWhen Eve witnesses her father's affair with a younger woman, Matty Mereaux, her perception of her father begins to change, and she starts questioning her family's values. Eve also develops a close bond with Elzora, a mystical and enigmatic family friend known for her spiritual powers.\n\nAs Eve navigates her complex emotions and relationships, she begins to uncover dark secrets about her family's past, which challenges her understanding of her own identity. The film explores themes of family, identity, love, and the complexities of human relationships, ultimately leading to a dramatic confrontation that reshapes the Batiste family's dynamics.\n\n'Eve's Bayou' features an ensemble cast, including Jurnee Smollett as Eve, Meagan Good as Cisely, and Samuel L. Jackson as Dr. Louis Batiste. The film received critical acclaim for its powerful storytelling, atmospheric cinematography, and outstanding performances from its cast."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "30a50eb68c6cd9d563c938e3df45b12a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 488.0 words or less.\n\n---\n\n**Title:**\n\nEve's Bayou\n\n**Year:**\n\n1997",
+    "include_year": false
+}

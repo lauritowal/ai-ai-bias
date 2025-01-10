@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Matter of Time",
+    "descriptions": [
+        "'A Matter of Time' is a 1976 American fantasy drama film directed by Vincente Minnelli. The movie stars Ingrid Bergman, Liza Minnelli, Isabella Rossellini, and Charles Boyer.\n\nThe story revolves around Nina (Liza Minnelli), a hotel receptionist struggling to make ends meet in Rome. Nina meets Count Sanziani (Charles Boyer), an aging and enigmatic nobleman who becomes her friend and confidant. Count Sanziani reveals to Nina that he is somehow connected to the past, and with his guidance, Nina develops the ability to see and interact with the past.\n\nAs Nina's connection to the past deepens, she becomes increasingly disillusioned with her mundane life in the present. Count Sanziani's mysterious past and his connection to a tragic love affair in the early 20th century begin to unravel, and Nina becomes entangled in the story.\n\nThroughout the film, Nina's relationship with Count Sanziani becomes more complex, and she begins to question the boundaries between past and present. The movie ultimately explores the themes of time, love, and the human connection, raising questions about the nature of time and how it affects our lives.\n\n'A Matter of Time' features stunning cinematography and a unique storyline that blends fantasy and drama, showcasing the talents of its cast, particularly Ingrid Bergman and Liza Minnelli."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5ceeaca338acd30b283329ad747d0b36",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 717.0 words or less.\n\n---\n\n**Title:**\n\nA Matter of Time\n\n**Year:**\n\n1976",
+    "include_year": false
+}

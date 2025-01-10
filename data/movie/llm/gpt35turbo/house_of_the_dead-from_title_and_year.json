@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "House of the Dead",
+    "descriptions": [
+        "A group of college students decide to attend a rave on a remote island, only accessible by boat. As they arrive at the island, they quickly realize that something is not right. The island appears deserted, with no signs of the rave that they were expecting to attend.\n\nAs they explore the island, they discover a house that seems to be the only building on the entire island. Curious, they decide to investigate further. Inside the house, they find evidence that people were once living there, but now it seems abandoned.\n\nSuddenly, they are attacked by a horde of zombies that come out of nowhere. Panicked, the group tries to defend themselves, but they are outnumbered and outmatched. They realize that they need to find a way off the island before they become the next victims.\n\nAs they try to make their way back to the boat, they encounter more zombies at every turn. The group begins to realize that the island is infested with the undead, and their chances of survival are slim. They must work together to come up with a plan to escape the island and make it back to safety.\n\nThroughout their ordeal, they uncover the dark secrets of the island and the mysterious experiments that were conducted there. They learn that the zombies were created by a mad scientist who was experimenting with a virus that turns people into the undead.\n\nAs they fight their way through hordes of zombies, the group faces betrayal from within their own ranks. One of their own turns out to be working with the scientist and has been leading them into traps all along.\n\nIn a final stand against the zombies and the traitor, the group must come together and fight for their lives. With courage and determination, they manage to overcome the odds and make it back to the boat. As they sail away from the island, they are haunted by the memories of the horrors they faced and the friends they lost along the way.\n\nHouse of the Dead is a thrilling and action-packed horror movie that keeps viewers on the edge of their seats. It is a story of survival, betrayal, and the fight against a terrifying enemy that lurks in the shadows."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "5b34f9d41912c2706add77ee3296d7df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 547.0 words or less.\n\n---\n\n**Title:**\n\nHouse of the Dead\n\n**Year:**\n\n2003",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cursed",
+    "descriptions": [
+        "'Cursed' is a 2004 American dark fantasy romantic comedy film directed by Wes Craven and starring Christina Ricci, Jesse James, and Doug Jones. The film is loosely based on the medieval European folklore of werewolves and is a dark, comedic take on the classic tale of love and transformation.\n\nThe story revolves around Ellie Andrew (Christina Ricci), a beautiful and independent young woman who lives in a small town near Los Angeles. Ellie's life is turned upside down when she meets a mysterious and charming stranger named Jimmy (Jesse James), who is hiding a dark secret. Jimmy is, in fact, a werewolf, a descendant of a long line of lycanthropes who have been cursed by a wicked sorcerer.\n\nAs Ellie and Jimmy fall deeply in love, they must navigate the challenges of their supernatural relationship. However, their happiness is short-lived, as they soon discover that they are not the only werewolves in the area. A pack of vicious and aggressive werewolves, led by the villainous Milo (Bill Duke), is terrorizing the town, and Jimmy's family is at the center of the chaos.\n\nAs the full moon approaches, Ellie finds herself caught in the middle of a centuries-old feud between Jimmy's family and the Milo's pack. With the help of her eccentric grandmother, a wise and witty woman who knows the secrets of the supernatural, Ellie must learn to control her own newfound abilities as a werewolf and help Jimmy defeat the evil Milo and his pack.\n\nThroughout the film, Craven cleverly subverts the traditional werewolf genre, injecting it with a sense of humor and wit. The film's tone is playful and lighthearted, with a touch of darkness and suspense. The special effects are also noteworthy, with Doug Jones's impressive performance as a werewolf a highlight of the film.\n\n'Cursed' is a fun and entertaining take on the classic werewolf tale, with a strong focus on romance and relationships. While it may not be as scary as some of Craven's other films, it is a delightful and engaging watch, with a talented cast and impressive production values. Overall, 'Cursed' is a charming and quirky film that is sure to delight fans of the supernatural genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "58a2991faf36533485f87d7eed824e4c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 623.0 words or less.\n\n---\n\n**Title:**\n\nCursed\n\n**Year:**\n\n2004",
+    "include_year": false
+}

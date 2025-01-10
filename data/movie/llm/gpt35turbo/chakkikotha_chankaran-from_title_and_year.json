@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chakkikotha Chankaran",
+    "descriptions": [
+        "In the 1989 Malayalam film \"Chakkikotha Chankaran,\" the story follows the life of Chankaran, a young man who works as a cook in a wealthy household. Despite his humble background, Chankaran is known for his exceptional culinary skills and kind-hearted nature. He is well-liked by the family he works for and is considered a part of their household.\n\nHowever, things take a dramatic turn when a new maid named Chakkikotha is hired by the family. Chakkikotha is a beautiful and ambitious young woman who quickly catches the eye of Chankaran. Despite his feelings for her, Chankaran tries to maintain a professional relationship with Chakkikotha.\n\nAs time passes, Chakkikotha begins to reciprocate Chankaran's feelings, and the two develop a close bond. However, their relationship faces numerous challenges, including societal expectations, class differences, and the disapproval of their employers.\n\nAmidst all the obstacles, Chankaran and Chakkikotha must navigate their feelings for each other while also dealing with external pressures. Their love story is both heartwarming and heartbreaking, as they struggle to find a way to be together despite the odds stacked against them.\n\nThroughout the film, the audience is taken on an emotional rollercoaster as they witness the ups and downs of Chankaran and Chakkikotha's relationship. The film explores themes of love, class divide, and societal norms, shedding light on the complexities of human relationships.\n\nIn the end, Chankaran and Chakkikotha must make difficult decisions about their future together, forcing them to confront their own desires and the expectations of those around them. As the story reaches its climax, the audience is left wondering whether love will triumph in the face of adversity or if circumstances will tear the lovers apart.\n\n\"Chakkikotha Chankaran\" is a timeless tale of love and sacrifice that resonates with audiences of all ages, capturing the essence of human emotions and the power of true love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "03ff703b541931a4d705a19ae5542878",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nChakkikotha Chankaran\n\n**Year:**\n\n1989",
+    "include_year": false
+}

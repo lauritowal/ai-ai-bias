@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Roots: The Gift",
+    "descriptions": [
+        " \"Roots: The Gift\" (1988) is a heartwarming holiday drama set in 1870, seven years after the end of the Civil War. The film serves as a spin-off of the original \"Roots\" miniseries and centers around the character of Kunta Kinte, now known as Toby (played by LeVar Burton), and his family.\n\nAs Christmas approaches, Toby's daughter, Kizzy (Ami Dolenz), is sold to a new owner and separated from her family. Toby and his wife, Bell (Alva Rogers), are determined to be reunited with their daughter. They embark on a dangerous journey, facing numerous obstacles and prejudices along the way.\n\nMeanwhile, Kizzy forms a bond with her new owner's son, Noah (Michael Learned), who teaches her how to read and write. Noah sympathizes with Kizzy's situation and decides to help her escape, leading to a suspenseful and emotional climax.\n\nThroughout their journey, Toby and Bell encounter a kind stranger named Cletus Moyer (Tim Russ), who assists them in their quest. Moyer's character adds a layer of complexity to the story, as he is a former Confederate soldier grappling with his past actions and seeking redemption.\n\n\"Roots: The Gift\" is a powerful exploration of family, love, and perseverance in the face of adversity. It showcases the strength and resilience of the human spirit, while also shedding light on the harsh realities of life for African Americans in post-Civil War America. The film ultimately delivers a message of hope and unity, making it a poignant and thought-provoking holiday classic."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "d82e0dd9780746987a76ff05d44b0586",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n",
+    "include_year": false
+}

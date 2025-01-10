@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Little Quacker",
+    "descriptions": [
+        "Unfortunately, I don't have information about the movie \"Little Quacker\" from the year you specified. Could you please provide the year, and I'll do my best to write a plot summary for you?"
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7b0491ca67e388c6cce3d2a2e4dbc9c5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 698.0 words or less.\n\n---\n\n**Title:**\n\nLittle Quacker\n\n**Year:**\n\n",
+    "include_year": false
+}

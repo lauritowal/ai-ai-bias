@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hot Blood",
+    "descriptions": [
+        "In the 1956 film \"Hot Blood,\" the story follows a passionate romance between a fiery Italian woman named Angela and a rugged American rancher named Jeff. Set against the backdrop of the beautiful California landscape, their love is tested by cultural differences, family expectations, and personal demons.\n\nAngela's fiery temperament clashes with Jeff's stoic demeanor, creating tension and passion in equal measure. Their love affair is complicated by Angela's overbearing father, who disapproves of their relationship. As the couple navigates the obstacles in their path, they must confront their own insecurities and fears in order to find true happiness.\n\nAmidst the drama and intensity of their love affair, \"Hot Blood\" explores themes of cultural identity, family dynamics, and the power of love to overcome all obstacles. The film captures the raw emotions and complexities of a relationship that defies societal norms and expectations.\n\nFilled with dramatic confrontations, emotional revelations, and sweeping landscapes, \"Hot Blood\" is a classic tale of love and passion that transcends time and borders."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "25f211d561e48c823de2791c70bc36ed",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+    "include_year": false
+}

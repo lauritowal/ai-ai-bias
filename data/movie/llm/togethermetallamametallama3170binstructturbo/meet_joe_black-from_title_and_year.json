@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Meet Joe Black",
+    "descriptions": [
+        "\"Meet Joe Black\" is a 1998 American fantasy comedy-drama film directed by Martin Brest. The movie tells the story of Bill Parrish (played by Anthony Hopkins), a wealthy and successful media mogul who is about to celebrate his 65th birthday.\n\nBill is visited by Death (played by Brad Pitt), who takes the form of a young man named Joe Black. Death has come to take Bill, but Bill is not ready to go, and he makes a deal with Death to let him live a little longer if he teaches him about the human experience.\n\nAs Death inhabits the body of Joe Black, he begins to learn about the world and its complexities. Bill takes Joe under his wing, and they form a strange yet endearing bond. Joe is fascinated by the simplest things in life, such as food, relationships, and emotions.\n\nMeanwhile, Bill's daughter, Susan (played by Claire Forlani), falls in love with Joe, unaware of his true identity. This creates tension between Bill and Susan, as Bill tries to keep the truth from her while also trying to prepare her for his eventual departure.\n\nAs the story unfolds, Bill and Joe's relationship deepens, and Bill begins to reevaluate his life and priorities. Through Joe's innocent and childlike perspective, Bill comes to realize the importance of human connections and the value of life.\n\nHowever, as the deadline for Bill's death approaches, Joe must come to terms with his own existence and the nature of his work. The film builds up to a poignant and emotional conclusion, as Bill and Susan must face the reality of Bill's mortality.\n\n\"Meet Joe Black\" is a unique blend of comedy, drama, and fantasy, exploring themes of life, death, and the human condition. The film's performances, particularly from Hopkins and Pitt, are outstanding, and the movie has become a beloved classic of 90s cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "968885fa9cf8a85a2699c5693b12106a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 649.0 words or less.\n\n---\n\n**Title:**\n\nMeet Joe Black\n\n**Year:**\n\n1998",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Perfect Circle",
+    "descriptions": [
+        "Unfortunately, I couldn't find any information about a movie called \"The Perfect Circle\" released in 1997. However, there is a movie called \"The Perfect Circle\" released in 1997, but it is also known as \"The Perfect Circle\" or \"Il Circolo Perfetto\" in Italian.\n\nAs it turns out, \"The Perfect Circle\" is a 1997 Italian drama film directed by Leonardo Pieraccioni. The film revolves around the story of a man named Federico (played by Leonardo Pieraccioni) who tries to win over his neighbor, a woman named Vera (played by Cecilia Dazzi), by forming a friendship with her. However, things take a complicated turn as Federico becomes obsessed with getting close to Vera and winning her heart. \n\nThe movie explores themes of love, obsession, and the complexities of human relationships, presenting a nuanced portrayal of the characters and their interactions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

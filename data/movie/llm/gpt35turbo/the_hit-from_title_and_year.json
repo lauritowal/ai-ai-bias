@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hit",
+    "descriptions": [
+        "In the 1979 film, \"The Hit,\" the story follows a former gangster named Willie Parker who has been living in hiding for ten years after betraying his criminal associates. However, his past catches up with him when a hitman named Braddock tracks him down to a remote village in Spain. Braddock, along with his young apprentice Myron, kidnaps Willie and plans to take him to Paris to face his fate.\n\nAs they embark on the journey, tensions rise among the group. Willie is resigned to his fate and accepts that he will be killed once they reach Paris. Braddock, on the other hand, is a seasoned professional who is determined to carry out the hit. Myron is a naïve and eager young man who becomes increasingly conflicted about his role in the mission.\n\nThroughout the journey, the group faces various obstacles and challenges that test their loyalty and resolve. As they travel through the picturesque Spanish countryside, the characters engage in philosophical discussions about life, death, and morality. Willie reflects on his past crimes and the choices that led him to his current predicament, while Braddock remains focused on his duty as a hitman.\n\nAs they near their destination, Myron begins to question the morality of their mission and the consequences of taking a life. His internal struggle forces him to confront his own beliefs and values, leading to a dramatic climax that will ultimately determine the fate of all three men.\n\n\"The Hit\" is a gripping and thought-provoking film that explores themes of redemption, fate, and the consequences of one's actions. With stellar performances and a compelling storyline, the movie keeps viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "6bb4802fe5a4bc97439a2cd6add731d9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 317.0 words or less.\n\n---\n\n**Title:**\n\nThe Hit\n\n**Year:**\n\n1979",
+    "include_year": false
+}

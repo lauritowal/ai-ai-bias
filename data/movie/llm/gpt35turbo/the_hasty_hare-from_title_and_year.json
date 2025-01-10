@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hasty Hare",
+    "descriptions": [
+        "1952\n\n**Plot Summary:**\n\n\"The Hasty Hare\" is a classic Looney Tunes animated short film released in 1952. The story follows the iconic rivalry between Bugs Bunny and Yosemite Sam. The film begins with Yosemite Sam, a hot-tempered and bumbling outlaw, stumbling upon Bugs Bunny's burrow in the desert. Sam is determined to capture the wily rabbit and make him pay for trespassing in his territory.\n\nAs soon as Sam arrives, Bugs Bunny instantly recognizes the danger and begins to outsmart him at every turn. Bugs uses his quick wit and cunning to outmaneuver Yosemite Sam, leading him on a wild chase through the desert. With each attempt to catch Bugs, Sam only ends up falling victim to his own foolish traps and schemes.\n\nThroughout the film, Bugs Bunny showcases his trademark humor and resourcefulness, finding clever ways to outwit Yosemite Sam at every opportunity. From disguising himself as a beautiful woman to setting up elaborate pranks, Bugs always manages to stay one step ahead of his bumbling adversary.\n\nAs the chase continues, Yosemite Sam becomes increasingly frustrated and determined to catch Bugs Bunny by any means necessary. However, no matter how hard he tries, Sam always ends up falling victim to Bugs' clever tricks and escapes unscathed.\n\nIn the final showdown between Bugs Bunny and Yosemite Sam, the two engage in a hilarious battle of wits and physical comedy. Bugs uses his quick thinking and agility to outsmart Sam once again, leaving the outlaw foiled and defeated.\n\nIn the end, Bugs Bunny emerges victorious, much to the frustration of Yosemite Sam. The film concludes with Bugs Bunny outsmarting Sam one last time before disappearing into the desert, leaving the defeated outlaw to lick his wounds.\n\n\"The Hasty Hare\" is a timeless classic that showcases the iconic rivalry between Bugs Bunny and Yosemite Sam. The film's fast-paced humor, clever gags, and memorable characters have cemented its status as a beloved piece of animation history. Fans of Looney Tunes and classic cartoons alike will delight in watching Bugs Bunny outsmart his adversaries in this hilarious and entertaining short film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a930ab977b305831783c94684dfc68ba",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 491.0 words or less.\n\n---\n\n**Title:**\n\nThe Hasty Hare\n\n**Year:**\n\n",
+    "include_year": false
+}

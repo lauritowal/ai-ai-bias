@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Perfect Circle",
+    "descriptions": [
+        "In the 1997 film \"The Perfect Circle,\" the story follows the journey of a young boy named Orhan, who is left orphaned during the Bosnian War. He is taken in by an elderly man named Miro, who lost his own son in the war. Together, they set out on a road trip through the war-torn countryside, searching for Orhan's grandmother in a refugee camp.\n\nAs they travel through the devastation and chaos of the war, Orhan and Miro form a deep bond, finding comfort and solace in each other's company. Along the way, they encounter other survivors of the war, each with their own heartbreaking stories to tell.\n\nThrough their experiences and interactions with others, Orhan and Miro are forced to confront the harsh realities of war and the toll it takes on individuals and families. Despite the bleak circumstances they find themselves in, they discover moments of beauty and humanity amidst the destruction.\n\n\"The Perfect Circle\" is a poignant and moving portrayal of the impact of war on those caught in its crossfire, and the enduring power of human connection and compassion in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

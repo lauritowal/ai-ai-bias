@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gattaca",
+    "descriptions": [
+        "Gattaca, a 1997 science fiction film directed by Andrew Niccol, is set in a future where genetic engineering has become a crucial aspect of human life. The story revolves around Vincent Freeman, an individual born naturally without any genetic enhancements, played by Ethan Hawke.\n\nIn this utopian society, genetic engineering has enabled people to have their children designed with desirable traits. Those with naturally occurring traits are viewed as inferior and discriminated against in various aspects of life. Vincent's parents, who are also naturally born, have instilled in him a strong desire to become an astronaut.\n\nThe main obstacle Vincent faces in his pursuit of becoming an astronaut is the strict genetic criteria set by the aerospace corporation Gattaca, which hires only individuals with genetically enhanced traits. Vincent's desire to fly in space is further complicated by his congenital heart condition, which makes it difficult for him to achieve his dream.\n\nTo overcome these challenges, Vincent turns to Jerome Eugene Morrow, an individual with a high level of genetic enhancement, played by Jude Law. Morrow is a quadriplegic due to an accident, and Vincent convinces him to lend him his identity in exchange for Vincent's help in gaining independence.\n\nAs Vincent navigates the world with Jerome's identity, he meets Irene Cassini, a Gattaca employee and Irene's sister, played by Uma Thurman. Irene becomes Vincent's confidante, and they develop a close relationship.\n\nHowever, when Vincent is involved in an accident that jeopardizes his cover, he must find a way to clear his name and pursue his dream of becoming an astronaut. Throughout the film, Vincent's character undergoes significant development as he learns to overcome his circumstances and believe in himself.\n\nGattaca explores the themes of identity, free will, and societal pressures, raising questions about the implications of genetic engineering on human life. The film's unique vision of a future where genetic enhancement has become the norm challenges viewers to consider the consequences of such advancements."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "6053717546631ece274d73f71439a06b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 948.0 words or less.\n\n---\n\n**Title:**\n\nGattaca\n\n**Year:**\n\n1997",
+    "include_year": false
+}

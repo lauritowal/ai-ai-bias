@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daddy Cool",
+    "descriptions": [
+        "Daddy Cool is a 2009 Indian Malayalam-language film. The movie revolves around Deepu, a young man who lives with his father, a corrupt and cunning police officer named Antony Simon. Deepu's life changes when he meets a girl named Ancy, and they fall in love. However, their relationship faces opposition from Ancy's father, who dislikes Antony due to his corrupt nature.\n\nDeepu decides to marry Ancy despite the opposition, and they eventually get married. After the wedding, Deepu tries to change his father's ways and make him a better person. Through his efforts, Antony's life transforms, and he starts to become a more honest and responsible police officer.\n\nThe film focuses on the father-son relationship and how Deepu's love and influence change Antony's life. The movie explores themes of family, love, and redemption, and it features a mix of drama, comedy, and action."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "0a1b41ca8b850243987cd2bca5649dd9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 219.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Chaser",
+    "descriptions": [
+        "The Chaser is a 2008 South Korean neo-noir thriller film directed by Na Hong-jin. The movie tells the story of a former police detective, Jung-ho, who has become a pimp to make ends meet. He runs a small brothel and charges his clients exorbitant rates. However, when his most valuable prostitute, Mi-jin, goes missing, Jung-ho is forced to take action to find her.\n\nAs Jung-ho searches for Mi-jin, he discovers that several of his other prostitutes have also gone missing. He becomes increasingly desperate and begins to suspect that a serial killer is targeting them. Jung-ho teams up with Mi-jin's young daughter and a few acquaintances to track down the killer.\n\nAs the investigation unfolds, Jung-ho's past as a detective comes back to haunt him. He becomes obsessed with finding the killer and is forced to confront his own dark past. Meanwhile, the police are initially uncooperative, but eventually, they start to take Jung-ho's claims seriously.\n\nThe killer, Young-min, is a calculating and cold-blooded individual who is using the prostitutes to fulfill his dark fantasies. Jung-ho's search for Mi-jin becomes a cat-and-mouse game between him and the killer. As the chase intensifies, Jung-ho's determination to find the killer becomes all-consuming.\n\nThe Chaser is a gripping thriller that explores themes of obsession, redemption, and the darker side of human nature. The film features intense action sequences, suspenseful moments, and a gripping plot that keeps viewers on the edge of their seats."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1f954faa08091689109b8c997782cebe",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 981.0 words or less.\n\n---\n\n**Title:**\n\nThe Chaser\n\n**Year:**\n\n2008",
+    "include_year": false
+}

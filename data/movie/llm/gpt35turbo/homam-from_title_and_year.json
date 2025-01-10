@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Homam",
+    "descriptions": [
+        "In the movie \"Homam\" (2008), the story revolves around a man named Surya who is a loyal and trusted henchman to a powerful and influential politician. Surya is known for his unwavering dedication and willingness to do whatever it takes to protect his boss and ensure his success in the political arena.\n\nHowever, things take a dark turn when Surya's boss is betrayed by a close associate, leading to a chain of events that puts Surya in a difficult position. As he navigates the treacherous world of politics and crime, Surya begins to question his loyalty and his own moral compass.\n\nThe movie delves into the complexities of power, loyalty, and betrayal, as Surya grapples with difficult choices and tries to navigate a world where nothing is as it seems. Along the way, he encounters a diverse cast of characters, each with their own motivations and agendas, adding layers of intrigue and suspense to the story.\n\nAs Surya delves deeper into the murky world of politics and crime, he must confront his own demons and make decisions that will not only affect his own fate but also the lives of those around him. The movie builds towards a thrilling climax as Surya must confront his own past and make a final stand against the forces that seek to destroy him.\n\n\"Homam\" is a gripping and intense drama that explores themes of power, loyalty, and redemption, with a strong central performance from the lead actor. The movie keeps viewers on the edge of their seats as it unfolds a complex and compelling story of one man's struggle to navigate a world of deceit and danger."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "19ac69ea77b4f2a00b33a61ec0f0edf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nHomam\n\n**Year:**\n\n2008",
+    "include_year": false
+}

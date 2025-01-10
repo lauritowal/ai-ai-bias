@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Your Mother Wears Combat Boots",
+    "descriptions": [
+        "\"Your Mother Wears Combat Boots\" is a 1989 American comedy film directed by John Stockwell. The movie revolves around Jonathan, a young man who embarks on a road trip across the country to find his estranged father. \n\nDuring his journey, Jonathan meets a free-spirited woman named Sarah, who is a 'hippie' type. Together, they face various challenges, including run-ins with law enforcement and other eccentric characters they meet along the way. Jonathan learns a lot from Sarah, who teaches him about the importance of taking risks and expressing himself freely.\n\nAs they travel, Jonathan and Sarah engage in conversations about their pasts and their relationships with their parents. This helps them both to confront their fears and insecurities. The film also touches on themes of rebellion, nonconformity, and self-discovery.\n\nUltimately, Jonathan finds his father, but the experience also leaves him with a newfound appreciation for the unconventional and carefree lifestyle that Sarah represents. The film is a heartwarming exploration of the human spirit and the importance of embracing individuality. \"Your Mother Wears Combat Boots\" is a lighthearted, offbeat comedy that celebrates the power of friendship and self-discovery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "bf16a593ede557c9b33894d843d9511b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 321.0 words or less.\n\n---\n\n**Title:**\n\nYour Mother Wears Combat Boots\n\n**Year:**\n\n1989",
+    "include_year": false
+}

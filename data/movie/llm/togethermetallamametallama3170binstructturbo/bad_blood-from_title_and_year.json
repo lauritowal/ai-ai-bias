@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bad Blood",
+    "descriptions": [
+        "Bad Blood is a 2010 British drama film. The story revolves around a family's struggles to cope with the release of their father, Jack Reece, from prison after serving 14 years for murder. Jack's return sparks tension and unease, especially in his 17-year-old son, Danny, who has grown up without him and is now dealing with the aftermath of his father's past actions.\n\nAs Jack tries to reconnect with his family, he faces resistance from his wife, Julie, and Danny, who is torn between his loyalty to his family and his need for the truth about his father's past. Jack's presence also puts a strain on Danny's relationships with his friends and love interest, which further complicates the family's dynamics.\n\nThroughout the film, the family's dark secrets and past traumas slowly surface, threatening to destroy their already fragile relationships. As tensions escalate, the family must confront the harsh realities of their situation and make difficult choices to move forward. The film explores themes of family, forgiveness, and redemption in a gripping and emotional drama."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "fad8e49af36a1e504874a347d99bf4b4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nBad Blood\n\n**Year:**\n\n2010",
+    "include_year": false
+}

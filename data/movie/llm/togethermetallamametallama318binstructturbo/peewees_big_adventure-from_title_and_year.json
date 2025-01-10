@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pee-wee's Big Adventure",
+    "descriptions": [
+        "In the 1985 film \"Pee-wee's Big Adventure,\" director Tim Burton teams up with star Paul Reubens to bring to life the quirky and offbeat character of Pee-wee Herman. The film is a comedic adventure that follows Pee-wee, a childlike adult, as he searches for his beloved bicycle.\n\nThe movie begins with Pee-wee Herman, a 30-year-old man, still behaving like a child. He is obsessed with his prized possession, a shiny red bicycle, which he has named \"The Bike.\" One day, he decides to go on a road trip to find his missing bike, which he believes has been stolen by a group of thieves.\n\nPee-wee sets off on his journey, armed with his trusty map, a suitcase full of snacks, and a can of sardines. Along the way, he encounters a series of bizarre characters, including a group of bikers, a mysterious stranger, and a gruff hotel clerk.\n\nAs Pee-wee searches for his bike, he becomes embroiled in a series of misadventures, including a wild ride through the desert, a run-in with a group of hostile bikers, and a night spent at a seedy motel. Through it all, Pee-wee remains cheerful and optimistic, never losing his sense of wonder and curiosity.\n\nThroughout the film, Pee-wee's innocence and naivety are contrasted with the harsh realities of the adult world. Despite the dangers and challenges he faces, Pee-wee remains undeterred, always following his heart and his sense of adventure.\n\nUltimately, Pee-wee's Big Adventure is a film about the power of imagination and the importance of following one's dreams. With its offbeat humor, colorful characters, and sense of wonder, the film has become a cult classic, beloved by audiences around the world.\n\nThe film features a memorable supporting cast, including Elizabeth Daily, Mark Holton, and Jan Hooks. The film's score, composed by Danny Elfman, is a key element in creating the film's offbeat atmosphere and sense of adventure.\n\nOverall, Pee-wee's Big Adventure is a unique and entertaining film that showcases the talents of Paul Reubens and Tim Burton. Its offbeat humor and sense of wonder make it a must-see for fans of comedy and adventure."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "8de0df0d2774bed4f55358faaa2c5fa6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 499.0 words or less.\n\n---\n\n**Title:**\n\nPee-wee's Big Adventure\n\n**Year:**\n\n1985",
+    "include_year": false
+}

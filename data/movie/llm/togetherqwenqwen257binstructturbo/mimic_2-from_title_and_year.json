@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mimic 2",
+    "descriptions": [
+        "**Plot Summary:**\n\nIn 2001, \"Mimic 2\" continues the story of the winged insectoids from the original 1997 film. The sequel picks up where the first left off, as scientists and government agents struggle to contain and eliminate the massive, flying creatures that threaten New York City. New genetic experiments have led to even more monstrous and resilient bugs, and the team must race against time to develop a cure and find a way to stop the impending swarm. As the insects grow in numbers and ferocity, the survivors realize that the only hope lies in understanding the creatures' weaknesses and working together to seal off their underground lair before the city is overrun."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "989d919de8972a97413bae9acee08e93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 243.0 words or less.\n\n---\n\n**Title:**\n\nMimic 2\n\n**Year:**\n\n2001",
+    "include_year": false
+}

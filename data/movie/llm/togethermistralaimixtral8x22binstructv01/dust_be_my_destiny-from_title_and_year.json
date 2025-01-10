@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dust Be My Destiny",
+    "descriptions": [
+        " In \"Dust Be My Destiny\" (1939), Joe Bell, a paroled convict, finds himself on the run after being wrongfully accused of a crime in a small town. Desperate and seeking refuge, Joe stumbles upon Mabel, a kind-hearted woman who owns a traveling carnival. Touched by Joe's plight and innocence, she offers him a job and a place to hide within her troupe.\n\nAs Joe settles into his new life, he forms a close bond with Mabel and falls in love with her daughter, Carol. However, their peaceful existence is threatened when a ruthless detective is determined to bring Joe to justice. As Joe fights to clear his name, he uncovers a web of corruption and deceit that runs deep within the town's power structure.\n\nWith time running out, Joe must navigate treacherous waters and risk everything, including his newfound love and happiness, to prove his innocence. As the truth comes to light, Joe and Mabel's carnival troupe band together to protect their own and uncover the true villain behind the crimes.\n\nIn this gripping tale of redemption, love, and the power of friendship, \"Dust Be My Destiny\" explores the lengths one man will go to clear his name and protect the people he loves."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "7503a80b36448cbcc6b19ce17a99e3dd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 231.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939",
+    "include_year": false
+}

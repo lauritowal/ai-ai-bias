@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Brassed Off",
+    "descriptions": [
+        "Brassed Off is a 1996 British comedy-drama film directed by Mark Herman. The movie takes place in the fictional Yorkshire mining town of Grimley, where the local colliery is facing closure. The story revolves around the town's brass band, which has been a source of pride and unity for the community.\n\nGloria Mullins (Tara Fitzgerald), a young flugelhorn player from England, joins the Grimley Colliery Brass Band, led by the charismatic conductor Danny Ormondroyd (Pete Postlethwaite). As the town's fate hangs in the balance, the band decides to compete in the national brass band championships at the Royal Albert Hall in London.\n\nThe movie explores themes of community, friendship, and the struggles of working-class life. Amidst the impending colliery closure, the band's journey becomes a symbol of the town's resilience and determination to hold on to its identity.\n\nThe film also features a romantic subplot between Gloria and Andy Barrow (Ewan McGregor), a young miner struggling to cope with the impending loss of his job and the decline of his community. As the story unfolds, the band's progress serves as a backdrop to the town's fight for survival and the characters' personal growth.\n\nUltimately, Brassed Off is a heartwarming and uplifting tale that celebrates the power of music, community, and the human spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "74068cea740909ea0f30352f482ae36b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 721.0 words or less.\n\n---\n\n**Title:**\n\nBrassed Off\n\n**Year:**\n\n1996",
+    "include_year": false
+}

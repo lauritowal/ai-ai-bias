@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hill",
+    "descriptions": [
+        "Set in a British military prison in North Africa during World War II, \"The Hill\" follows a group of prisoners who are subjected to brutal treatment by the sadistic Sergeant Major Roberts. The prisoners, including Joe Roberts, a former officer imprisoned for insubordination, are forced to endure physical labor in the scorching desert heat as punishment. Among the prisoners is a new arrival, Roberts, who is initially naive and optimistic about his chances of survival in the harsh environment. However, he quickly learns that he will need to toughen up in order to survive.\n\nAs the abuse from the guards intensifies, tensions among the prisoners begin to rise. Joe Roberts emerges as a leader among the men, advocating for unity and resistance against their oppressors. However, his efforts are met with skepticism and fear from some of the other prisoners, who are more concerned with protecting themselves.\n\nThe brutal conditions of the prison camp take a toll on the men, both physically and mentally. Some of the prisoners begin to crack under the pressure, while others become more determined to fight back against their tormentors. The arrival of a new commanding officer, who is more sympathetic to the prisoners' plight, offers a glimmer of hope for the men. However, his attempts to bring about change are thwarted by Sergeant Major Roberts, who is determined to maintain his iron-fisted control over the camp.\n\nAs the prisoners' situation becomes increasingly dire, Joe Roberts and a small group of allies hatch a daring escape plan. Risking their lives, they plot to break out of the camp and make a run for freedom. The tension builds as the men put their plan into action, facing danger and betrayal at every turn.\n\nIn the end, \"The Hill\" is a powerful exploration of the brutality of war and the resilience of the human spirit. It is a gripping tale of survival, sacrifice, and the struggle for justice in the face of overwhelming odds."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7e80f012a3e6d943a0b037234a342233",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 397.0 words or less.\n\n---\n\n**Title:**\n\nThe Hill\n\n**Year:**\n\n1965",
+    "include_year": false
+}

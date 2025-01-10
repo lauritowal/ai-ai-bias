@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Traffic",
+    "descriptions": [
+        "The movie \"Traffic\" is actually a 2000 film, not 2011. It was directed by Steven Soderbergh and stars Michael Douglas, Benicio del Toro, and Catherine Zeta-Jones. \n\nThe film interweaves multiple storylines that explore the U.S. war on drugs. \n\nThe main character, Montel Gordon (Michael Douglas), is a conservative congressman who becomes the chairman of a committee that deals with narcotics control. However, his son, Kevin, is arrested for cocaine possession, and Montel becomes a reluctant advocate for leniency in the face of harsh sentencing laws.\n\nMeanwhile, a Mexican police officer, Javier Rodriguez (Benicio del Toro), is tasked with infiltrating a powerful cartel that exports cocaine into the United States. Javier becomes a key figure in the U.S. government's efforts to dismantle the cartel, but he faces corruption and betrayal from within his own department.\n\nIn another storyline, a DEA agent, Robert Wakefield (Don Cheadle), is tasked with leading an investigation into the same cartel that Javier is trying to dismantle. However, Robert's wife, Helena (Amy Irving), is struggling with addiction, and his daughter, Rachel (Erika Christensen), becomes increasingly involved in the party scene, which puts her at risk of addiction as well.\n\nThroughout the film, the characters' paths intersect and collide, highlighting the complexities and failures of the U.S. war on drugs. The film ultimately raises questions about the effectiveness of the war on drugs and the impact it has on individuals and society.\n\n\"Traffic\" received widespread critical acclaim for its thought-provoking storyline, strong performances, and nuanced direction. The film earned four Academy Award nominations and won one for Best Supporting Actor for Benicio del Toro's performance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "97715b165bc53cecbd7a4aa3fcaa268b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 401.0 words or less.\n\n---\n\n**Title:**\n\nTraffic\n\n**Year:**\n\n2011",
+    "include_year": false
+}

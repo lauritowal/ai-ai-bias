@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tol'able David",
+    "descriptions": [
+        "In the 1921 film \"Tol'able David,\" the story follows the life of a young man named David who lives in a rural village in the mountains of Virginia. David is a kind-hearted and hard-working individual who dreams of becoming a successful and respected member of his community. \n\nHowever, David's peaceful life is disrupted when a group of outlaws start terrorizing the village, causing fear and chaos among the residents. Determined to protect his family and friends, David takes it upon himself to confront the outlaws and restore peace to the village.\n\nThroughout the film, David undergoes a transformation from a naive young man to a courageous hero as he faces numerous challenges and dangers in his quest to defeat the outlaws. Along the way, he learns valuable lessons about bravery, perseverance, and the true meaning of strength.\n\nAs David's journey unfolds, he forms close bonds with the people in his village, including a young woman named Esther whom he falls in love with. Their relationship is put to the test as David must balance his duty to protect the village with his desire to build a future with Esther.\n\nIn a climactic showdown, David confronts the leader of the outlaws in a final battle that will determine the fate of the village and its residents. With the help of his friends and the support of his community, David must summon all of his courage and determination to overcome the greatest challenge of his life.\n\n\"Tol'able David\" is a timeless tale of a young man's journey to find his place in the world and the sacrifices he must make along the way. Filled with action, romance, and drama, the film captures the spirit of resilience and hope in the face of adversity. It is a story that resonates with audiences of all ages and continues to inspire generations with its message of courage and determination."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "d09e4f70601c087a1ecb645fa80e0e8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 379.0 words or less.\n\n---\n\n**Title:**\n\nTol'able David\n\n**Year:**\n\n1921",
+    "include_year": false
+}

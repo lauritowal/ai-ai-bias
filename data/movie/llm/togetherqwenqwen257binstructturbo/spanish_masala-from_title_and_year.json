@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spanish Masala",
+    "descriptions": [
+        "**Title:** Spanish Masala  \n**Year:** 2020\n\n\"Spanish Masala\" is a 2020 Spanish-Indian hybrid film that blends the spicy flavors of both cuisines with the heat of cultural clash and romance. Set against the backdrop of Madrid, the story revolves around Raj (played by Indian actor Shreyas Talpade), a charismatic chef from Mumbai who dreams of opening his own restaurant. His ambitious plans take an unexpected turn when he lands a job at a prestigious Spanish tapas bar in Madrid, hoping to refine his culinary skills under the guidance of a renowned chef.\n\nRaj's journey in Spain is filled with cultural surprises and culinary challenges. He finds himself navigating the complex social dynamics of the Spanish food industry, where traditional recipes and cooking techniques are deeply rooted in family history and regional pride. His unique blend of Indian and Spanish flavors begins to gain attention, but he faces resistance from some of the more conservative members of the culinary community.\n\nParallel to Raj's professional struggles, he forms a friendship with Elena (played by Spanish actress Sara Vélez), a young and ambitious sommelier who is passionate about her work. As Raj and Elena spend more time together, their bond deepens, leading to a passionate romance. Their relationship is tested by the cultural differences and the pressures of their respective professions.\n\nAs Raj's restaurant concept gains popularity, he faces a moral dilemma when he uncovers a secret about the ingredients used in the tapas bar's signature dishes. This revelation forces him to choose between his career and his principles, ultimately leading to a confrontation that could either destroy his newfound success or pave the way for a new beginning.\n\n\"Spanish Masala\" is a vibrant exploration of cultural exchange, the struggle for acceptance in a professional world, and the courage to follow one's dreams. It offers a heartfelt journey through the kitchens of Madrid, where traditional recipes and bold innovations intersect, and the true essence of a fusion cuisine lies in the heart of its creators."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "2aeb1f7a9f86373d5d48f10e51849ec8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 400.0 words or less.\n\n---\n\n**Title:**\n\nSpanish Masala\n\n**Year:**\n\n",
+    "include_year": false
+}

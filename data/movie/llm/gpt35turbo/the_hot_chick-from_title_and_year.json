@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hot Chick",
+    "descriptions": [
+        "\"The Hot Chick\" is a comedy film released in 2002 that follows the story of Jessica Spencer, a popular and self-absorbed high school cheerleader who one day wakes up in the body of a middle-aged man named Clive. The switch occurs after Jessica and Clive both simultaneously put on a pair of cursed earrings that Jessica stole from a shady saleswoman at a mall.\n\nAs Jessica struggles to come to terms with her new appearance and identity as Clive, she realizes she must find a way to switch back before the curse becomes permanent. Meanwhile, Clive, now in Jessica's body, takes advantage of his newfound looks and popularity by living it up as a teenage girl. \n\nJessica, now in Clive's body, faces a number of challenges as she navigates life as a man. She struggles with the physical differences, societal expectations, and the way she is treated by others. She also has to deal with the consequences of Clive's actions in her body, which include getting her best friend in trouble and causing havoc at school.\n\nAs Jessica tries to figure out a way to reverse the curse, she enlists the help of her friends and her younger brother, who is the only one who believes her story. Together, they come up with a plan to track down the saleswoman and get the cursed earrings back. Along the way, Jessica learns important lessons about empathy, self-acceptance, and the true meaning of beauty.\n\nAs the film progresses, Jessica and Clive both go through personal growth and transformation. Jessica learns to see beyond the superficial while Clive learns the importance of being true to oneself. In the end, after a series of hilarious and heartwarming moments, the two are able to switch back to their original bodies just in time.\n\n\"The Hot Chick\" is a fun and lighthearted film that explores themes of identity, self-image, and the importance of inner beauty. With its mix of humor, heart, and a touch of fantasy, the movie delivers a feel-good message about embracing who you are and finding beauty in unexpected places."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "df4d869abbf135e4b7c6a4c8139bac69",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 612.0 words or less.\n\n---\n\n**Title:**\n\nThe Hot Chick\n\n**Year:**\n\n2002",
+    "include_year": false
+}

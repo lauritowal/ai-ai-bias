@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Ringer",
+    "descriptions": [
+        "\"Dead Ringer\" is a 1964 American psychological thriller film starring Bette Davis and Karl Malden. The story revolves around Edith Phillips (Bette Davis), the wife of a wealthy man who is trapped in an unhappy marriage. Edith discovers that she has a long-lost twin sister, Margaret DeLorca, who is identical in appearance but leads a life of luxury. \n\nAfter Edith's husband dies in an accident, she assumes her sister's identity to claim her wealth. However, she soon realizes that she has taken on more than she bargained for as she becomes embroiled in a complicated web of her sister's life, including a romance with Margaret's lover, Tony Collins (Karl Malden).\n\nAs Edith navigates her new life, she must maintain the illusion of being Margaret while dealing with the guilt and paranoia of living a lie. The film explores themes of identity, deception, and the blurred lines between reality and illusion. \"Dead Ringer\" is a gripping and suspenseful drama that showcases Bette Davis's remarkable acting range."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e7a5935e21717fc8edca0d81974a4762",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964",
+    "include_year": false
+}

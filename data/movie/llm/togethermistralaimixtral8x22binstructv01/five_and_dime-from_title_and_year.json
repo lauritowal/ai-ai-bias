@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Five and Dime",
+    "descriptions": [
+        " In the heart of the Great Depression, \"Five and Dime\" (1933) is a heartwarming drama set in a small, struggling five-and-dime store in the heartland of America. The store is owned by the benevolent and hardworking widow, Martha Johnson, who is determined to keep her late husband's dream alive despite the bleak economic climate.\n\nThe story unfolds as Martha's only son, Jack, returns home after a failed attempt to make it big in the city. He brings with him a newfound cynicism and a desire to sell the store, which clashes with his mother's unwavering spirit. As they grapple with their differences, the store becomes a microcosm of the larger struggles of the time, with patrons facing their own hardships and finding solace in the store's humble offerings.\n\nThe arrival of a charismatic salesman, Tom, adds a layer of complexity. Tom, with his silver tongue and promises of a better future, threatens to lure Jack away from his mother's side. However, as Tom's true intentions come to light, Jack and Martha realize the importance of their bond and the store's role in their community.\n\nIn the end, \"Five and Dime\" is a poignant tale of resilience, family, and the power of community in the face of adversity. It serves as a reminder of the simple joys and comforts that can be found in the most humble of places, even during the toughest of times."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "dac6f77a51fc9bc0a426f7844926f608",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 290.0 words or less.\n\n---\n\n**Title:**\n\nFive and Dime\n\n**Year:**\n\n1933",
+    "include_year": false
+}

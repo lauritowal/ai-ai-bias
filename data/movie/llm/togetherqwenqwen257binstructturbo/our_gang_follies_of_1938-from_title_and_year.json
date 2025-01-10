@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Our Gang Follies of 1938",
+    "descriptions": [
+        "**Plot Summary of \"Our Gang Follies of 1938\" (1937)**\n\nOur Gang, also known as The Little Rascals, presents a compilation of short films in \"Our Gang Follies of 1938,\" a showcase of the group's comedic talents and antics. The movie, set in 1937, features a series of vignettes that highlight the mischievous and endearing adventures of the gang, led by the lovable protagonist Alfalfa, and his friends Spanky, Buckwheat, and others.\n\nThe first segment sees Alfalfa attempting to impress his crush, Sweetie O'Leary, by impressing her with his rope-jumping skills. However, his efforts are thwarted by his mischievous antics, causing chaos and humor throughout the scene. In another segment, Spanky and Alfalfa engage in a silly contest to see who can stay dry in a rainstorm, leading to unexpected results as they find themselves in various comical situations.\n\nBuckwheat, known for his humorous idiosyncrasies, stars in a segment where he tries to teach a group of kids how to dance, only to end up causing more confusion and laughter with his unique style. The episode also includes a memorable dance routine where the entire gang joins in, showcasing their playful and energetic spirits.\n\nAnother vignette features Alfalfa accidentally setting up a prank that goes awry, resulting in a hilariously chaotic scene. Meanwhile, Spanky's attempts to win a pie-eating contest are filled with comical mishaps, including being drenched by water balloons and getting caught in a mud puddle.\n\nThe final segment brings the gang together in a fun-filled day at the beach, where they engage in water sports, build sandcastles, and play beach games. However, their playful antics lead to unexpected comical moments, such as getting covered in sand and water, and a humorous misunderstanding about a lost pet.\n\nThroughout the film, the characters' interactions and adventures reflect the typical day-to-day life of a group of children, full of mishaps, laughter, and genuine camaraderie. \"Our Gang Follies of 1938\" captures the essence of the beloved series, celebrating the innocence and joy of childhood while providing a delightful and entertaining experience for audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1e4b85c7e20b37bcda8bd062b75fd2bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 709.0 words or less.\n\n---\n\n**Title:**\n\nOur Gang Follies of 1938\n\n**Year:**\n\n1937",
+    "include_year": false
+}

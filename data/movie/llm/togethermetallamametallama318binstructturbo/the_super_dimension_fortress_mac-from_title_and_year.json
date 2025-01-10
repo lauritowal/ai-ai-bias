@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Super Dimension Fortress Macross: Do You Remember Love?",
+    "descriptions": [
+        "The Super Dimension Fortress Macross: Do You Remember Love? is a 1984 Japanese animated science fiction film directed by Noboru Hosono and produced by Studio Nue and Tatsunoko Production. \n\nThe film is set in the year 1999 and follows the story of Lynn Minmay, a young singer who becomes the key to the battle between the United Nations Spacy (UNS) and the Zentradi, an alien species with advanced technology.\n\nLynn Minmay is a singer who is thrust into the midst of a war between humanity and the Zentradi. As she performs for the UNS and the refugees, she becomes a symbol of hope and a reminder of the human spirit. Her songs serve as a connection between the two opposing sides, and she finds herself trapped in a complex web of emotions between her producer, Max Jeon, and a mysterious Zentradi warrior, Max Jenius.\n\nAs the war rages on, Lynn Minmay finds herself at the forefront of the conflict. Her music serves as a beacon of hope for both the UNS and the Zentradi, and she becomes a key figure in the battle for humanity's survival.\n\nThroughout the film, themes of love, loss, and the power of music are explored. Lynn Minmay's songs serve as a reminder of the human spirit and the importance of hope in the face of adversity. The film's narrative is a blend of science fiction, drama, and romance, making it a compelling and emotional watch.\n\nThe film's animation and music are also noteworthy, with a blend of mecha action sequences and emotional drama. The film's soundtrack, composed by Yoko Kanno, features memorable and catchy songs that have become iconic in anime culture.\n\nOverall, The Super Dimension Fortress Macross: Do You Remember Love? is a powerful and emotional film that explores the human condition in the face of war and adversity. With its blend of science fiction, drama, and romance, it is a must-watch for fans of anime and science fiction."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "8f7df91b3754f8e8ee9afa3c4ee7a2c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 604.0 words or less.\n\n---\n\n**Title:**\n\nThe Super Dimension Fortress Macross: Do You Remember Love?\n\n**Year:**\n\n1984",
+    "include_year": false
+}

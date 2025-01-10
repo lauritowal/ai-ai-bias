@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hit",
+    "descriptions": [
+        "The Hit is a 1979 British crime drama film directed by Stephen Frears. The film follows the story of Willie Park (played by Terence Stamp), a professional hitman who has retired from his job and is living a quiet life in a small village in England.\n\nHowever, Willie's peaceful life is disrupted when his old friend and fellow hitman, Lee (played by John Hurt), is released from prison. Lee has a price on his head and is being pursued by a group of people who want to kill him. Willie is forced to go back to his old profession and help Lee escape and eventually get to a safe location where he can lay low.\n\nAlong the way, Willie and Lee's friendship is put to the test as they deal with the consequences of their past actions. The film is a gritty and realistic portrayal of the hitman lifestyle, and it explores the themes of loyalty, friendship, and redemption.\n\nThe film features a strong performance from Terence Stamp, who brings a sense of depth and nuance to his character. The film's direction by Stephen Frears is also noteworthy, as it creates a sense of tension and unease that keeps the viewer on the edge of their seat.\n\nOverall, The Hit is a tense and thought-provoking film that explores the darker side of human nature. It's a must-see for fans of crime dramas and anyone interested in exploring the complexities of human relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "6bb4802fe5a4bc97439a2cd6add731d9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 317.0 words or less.\n\n---\n\n**Title:**\n\nThe Hit\n\n**Year:**\n\n1979",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mereka Bilang, Saya Monyet!",
+    "descriptions": [
+        "In the 2008 film \"Mereka Bilang, Saya Monyet!\" we follow the story of a young woman named Maya who is struggling to find her place in the world. The title, which translates to \"They Say I'm a Monkey!\" alludes to the derogatory term used to describe Maya and her unconventional behavior.\n\nMaya is a free spirit, unafraid to speak her mind and challenge societal norms. This often leads her into trouble, as she clashes with her conservative family and the expectations placed upon her as a woman in Indonesian society. Despite the criticism and judgment she faces from those around her, Maya remains true to herself and refuses to conform.\n\nAs Maya navigates the challenges of being true to herself in a society that values conformity, she finds solace in her relationships with a group of misfits who accept her for who she is. Together, they form a tight-knit community that provides Maya with the support and understanding she craves.\n\nThroughout the film, Maya grapples with issues of identity, belonging, and self-acceptance. She must confront her own insecurities and fears, while also challenging the prejudices and stereotypes that hold her back. As she embarks on a journey of self-discovery, Maya learns valuable lessons about the importance of staying true to oneself and standing up for what you believe in.\n\nThe film is a powerful exploration of the complexities of identity and the struggles faced by those who do not fit neatly into societal boxes. Through Maya's story, we are reminded of the importance of embracing our individuality and finding the courage to be ourselves, even in the face of adversity.\n\nIn the end, Maya's journey is one of empowerment and growth. She learns to embrace her uniqueness and finds strength in her authenticity. \"Mereka Bilang, Saya Monyet!\" is a poignant and thought-provoking film that celebrates the power of self-expression and the beauty of embracing our true selves, no matter what others may say."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1288d2ae76fefccae71f2caf934a90c9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nMereka Bilang, Saya Monyet!\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Alive",
+    "descriptions": [
+        "\"Dead Alive\" is a 1993 horror-comedy film directed by Peter Jackson, who is known for his work on the Lord of the Rings trilogy. The film is set in modern-day New Zealand and revolves around the story of Lionel Cosgrove (played by Timothy Balme), a young man who lives with his mother, Vera (played by Diana Peñalver), in a large, isolated house.\n\nThe story begins with Vera's eccentric behavior, which is attributed to her being a bit of a recluse and having a strained relationship with Lionel. However, things take a dark turn when Vera is bitten by a Sumatran rat-monkey, which has been infected with a zombie-like virus. As Vera begins to exhibit symptoms of the infection, Lionel is forced to take care of her, which leads to a series of gruesome and comedic events.\n\nAs Vera's condition worsens, she becomes increasingly violent and aggressive, and Lionel is left to deal with the aftermath of her attacks. The situation becomes more complicated when Lionel's girlfriend, Paquita (played by Elizabeth Moody), becomes infected as well. Lionel's attempts to find a cure for the virus lead him to a series of bizarre encounters with a local priest, a doctor, and a group of eccentric townspeople.\n\nThroughout the film, Jackson employs a mix of horror and comedy elements, often blending the two genres seamlessly. The film's visual effects and makeup are impressive, particularly in the depiction of the zombie-like creatures that result from the infection. The film's tone is often irreverent and darkly comedic, with a sense of satire aimed at the conventions of the horror genre.\n\nOne of the standout aspects of \"Dead Alive\" is its over-the-top violence and gore, which is often played for laughs. The film's climax features a memorable and outrageous sequence of events, as Lionel attempts to contain the outbreak and find a way to cure those infected.\n\nDespite its gruesome subject matter, \"Dead Alive\" has a lighthearted and irreverent tone, which sets it apart from other horror films of the time. The film's mix of humor and horror elements has made it a cult classic, and it remains one of Peter Jackson's most beloved and enduring works."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "851da07c93371c5f2c600b1580e0d4f2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 631.0 words or less.\n\n---\n\n**Title:**\n\nDead Alive\n\n**Year:**\n\n1993",
+    "include_year": false
+}

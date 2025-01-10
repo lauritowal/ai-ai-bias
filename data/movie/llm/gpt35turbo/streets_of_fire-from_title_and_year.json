@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Streets of Fire",
+    "descriptions": [
+        "In the 1984 film \"Streets of Fire,\" directed by Walter Hill, the story follows a rock 'n' roll singer named Ellen Aim (played by Diane Lane) who is kidnapped by a motorcycle gang called the Bombers led by a ruthless leader named Raven Shaddock (played by Willem Dafoe). Ellen's ex-boyfriend, a tough and brooding soldier of fortune named Tom Cody (played by Michael Paré), returns to his hometown to rescue her.\n\nTom teams up with Ellen's tough manager Billy Fish (played by Rick Moranis) and a beautiful ex-soldier named McCoy (played by Amy Madigan) to track down Ellen and take on the Bombers. Along the way, they face various obstacles and challenges, including encounters with other rival gangs and intense action sequences.\n\nAs Tom and his team get closer to finding Ellen, they must navigate through the dangerous and gritty streets of the city, facing danger at every turn. The tension between Tom and Raven escalates as they engage in a final showdown, with Ellen's life hanging in the balance.\n\nThrough their journey, Tom and Ellen rekindle their romance and rediscover their love for each other. The film is filled with classic rock 'n' roll music, intense action scenes, and a gritty urban atmosphere that sets the tone for this thrilling adventure.\n\nIn the end, Tom and his team successfully rescue Ellen and defeat the Bombers, bringing justice and peace back to the streets. The film concludes with a triumphant celebration as the characters come together to celebrate their victory and newfound bonds.\n\n\"Streets of Fire\" is a high-energy, action-packed film that captures the essence of the 1980s with its vibrant visuals, electrifying music, and dynamic performances. It is a story of love, loyalty, and redemption set against the backdrop of a dangerous and unforgiving urban landscape."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c9c8beb1fc3c8622f33b6a2360494b17",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 800.0 words or less.\n\n---\n\n**Title:**\n\nStreets of Fire\n\n**Year:**\n\n1984",
+    "include_year": false
+}

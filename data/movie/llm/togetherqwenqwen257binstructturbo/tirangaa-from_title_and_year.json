@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tirangaa",
+    "descriptions": [
+        "Tirangaa, released in 1992, is a poignant drama that revolves around the life of a young boy named Arjun, who lives in a small fishing village in Tamil Nadu, India. Orphaned at a young age, Arjun is raised by his grandmother, who instills in him a deep respect for their culture and traditions. When Arjun reaches adolescence, he must navigate the complexities of growing up, including his first love, a girl from a rival village. The film explores themes of cultural identity, the clash between traditional values and modern influences, and the struggles faced by young people in rural India. As Arjun grapples with his feelings and the expectations placed upon him by his community, he discovers the strength to stand up for his beliefs and pursue a path that honors both his roots and his dreams. The story concludes with Arjun making a significant decision that will shape his future and the future of his village."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "e29bdb8658ec308e3ca0d6c7947ebc09",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 293.0 words or less.\n\n---\n\n**Title:**\n\nTirangaa\n\n**Year:**\n\n1992",
+    "include_year": false
+}

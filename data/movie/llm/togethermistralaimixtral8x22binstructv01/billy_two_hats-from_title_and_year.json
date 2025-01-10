@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Billy Two Hats",
+    "descriptions": [
+        " In the 1974 Western film \"Billy Two Hats,\" directed by Ted Kotcheff, we follow the story of two fugitives, an American outlaw named Arch Deans (Gregory Peck) and a half-breed, Billy (Desi Arnaz Jr.), as they navigate the unforgiving landscapes of the American Southwest. After a failed bank robbery attempt, the duo finds themselves on the run from the relentless Sheriff Henry Gifford (Jack Warden), who is determined to bring them to justice.\n\nSeeking refuge in the wilderness, they stumble upon a remote farm owned by Esther (Sian Barbara Allen), a widow struggling to make ends meet. Despite the initial tension, Arch and Billy form a bond with Esther, who sympathizes with their plight. As they stay on her farm, Arch and Billy work to earn their keep, while the sheriff closes in on their location.\n\nAs the manhunt intensifies, Arch and Billy are forced to confront their pasts and reevaluate their priorities. Arch, a seasoned outlaw, grapples with the weight of his criminal past, while Billy, haunted by his mixed heritage, seeks to find his place in a society that rejects him. Esther, meanwhile, finds herself torn between her growing affection for Arch and her loyalty to the law.\n\nAs the climax approaches, Arch and Billy must make a stand against the sheriff and his posse, risking their lives in a desperate bid for freedom. In the end, the two fugitives learn the value of redemption and the power of friendship, as they fight to escape the clutches of the law and forge a new path in life.\n\n\"Billy Two Hats\" is a poignant exploration of identity, redemption, and the bonds that unite us, set against the stark backdrop of the American West."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "2d70d8da925ad0ef805759c56970e23e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 276.0 words or less.\n\n---\n\n**Title:**\n\nBilly Two Hats\n\n**Year:**\n\n1974",
+    "include_year": false
+}

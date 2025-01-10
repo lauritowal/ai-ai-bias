@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Merry Old Soul",
+    "descriptions": [
+        "In the 1933 film \"The Merry Old Soul,\" a wealthy and eccentric old man named Mr. Merryweather decides to host a grand party at his sprawling estate. The party is attended by a diverse group of guests, including politicians, socialites, and artists, all eager to bask in the opulence of Mr. Merryweather's home.\n\nAs the evening unfolds, it becomes clear that Mr. Merryweather has a few tricks up his sleeve. He surprises his guests with elaborate magic tricks, musical performances, and other forms of entertainment that keep everyone on their toes. Despite his advanced age, Mr. Merryweather proves to be a lively and engaging host, charming his guests with his wit and charisma.\n\nHowever, as the night progresses, it becomes apparent that there is more to Mr. Merryweather than meets the eye. His past is shrouded in mystery, and rumors swirl among the guests about his true identity and the source of his wealth. As the party reaches its climax, a shocking revelation threatens to unravel everything Mr. Merryweather has built.\n\nThrough a series of flashbacks and revelations, the audience learns about Mr. Merryweather's tumultuous past, including his rise to fortune and the sacrifices he made along the way. The film delves into themes of love, loss, and redemption, culminating in a heartwarming conclusion that leaves the audience with a newfound appreciation for the merry old soul at the center of it all."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a8243cc5afd5a2cdfaffd22052e03653",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 299.0 words or less.\n\n---\n\n**Title:**\n\nThe Merry Old Soul\n\n**Year:**\n\n1933",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "George of the Jungle",
+    "descriptions": [
+        "The 1997 film \"George of the Jungle\" is a family comedy based on the 1967 animated series of the same name. The movie stars Brendan Fraser as the titular character, a kind-hearted but dim-witted man who was raised by gorillas in the jungle.\n\nAs a baby, George was left in the jungle and adopted by a family of gorillas, led by Tookie (John Cleese), a wise and experienced leader. George grows up under their care, learning how to climb trees and swing from vines. However, due to his jungle upbringing, he lacks the basic knowledge of the human world.\n\nAfter years in the jungle, George is discovered by Lyle Van de Groot (Richard Roundtree), an evil businessman who wants to exploit the jungle for his own gain. Lyle hires Ursula Stanhope (Leslie Mann), a beautiful and intelligent woman, to be his assistant and help him navigate the jungle.\n\nWhen Ursula arrives, she is immediately drawn to George, and the two begin a romantic relationship. However, their love is threatened by Lyle's evil plans, which include destroying the jungle and building a resort.\n\nAs George and Ursula work together to stop Lyle, George's jungle upbringing often gets in the way. He uses his physical strength and agility to fight off Lyle's henchmen, but his lack of knowledge about the human world often leads to humorous misunderstandings.\n\nThroughout the film, George's gorilla family, including Ape (Thomas Haden Church), Lotta (Jackie Burroughs), and Shep (Joe Baker), provide comedic relief and support George in his mission to save the jungle.\n\nIn the end, George and Ursula are able to defeat Lyle and his plans, and the jungle is saved. George also learns a valuable lesson about the importance of education and understanding the human world.\n\nThe film features a mix of action, adventure, and comedy, and features Brendan Fraser's signature charm and wit. The movie was a commercial success and received positive reviews from critics, with many praising Fraser's performance and the film's lighthearted and entertaining tone."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "9f494913cef5300bb41e0af2a29ea914",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 671.0 words or less.\n\n---\n\n**Title:**\n\nGeorge of the Jungle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

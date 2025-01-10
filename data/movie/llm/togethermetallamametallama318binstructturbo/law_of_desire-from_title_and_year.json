@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Law of Desire",
+    "descriptions": [
+        "\"Law of Desire\" is a 1987 Spanish drama film written and directed by Pedro Almodóvar. The movie follows the complex relationships between a filmmaker, Pablo Quílez (Eusebio Poncela), and his lover, Juan (Miguel Molina). \n\nPablo, a charismatic and free-spirited artist, meets Juan, a shy and introverted young man, and they begin a tumultuous romance. However, their relationship is put to the test when Juan's brother, Antonio (Manuel Molina), returns from prison after serving time for murder.\n\nAntonio is determined to get revenge against Pablo, whom he blames for the breakdown of his relationship with Juan. As tensions escalate, Pablo's creative work becomes increasingly influenced by his feelings for Antonio, further complicating the already strained relationships between the characters.\n\nThroughout the film, Almodóvar explores themes of love, desire, and the blurred lines between reality and fantasy. The characters' complex web of emotions and relationships leads to a dramatic and intense climax.\n\n\"Law of Desire\" is a critically acclaimed film that showcases Almodóvar's unique style and his ability to tackle complex and provocative themes. The movie features stunning performances from the cast, particularly Eusebio Poncela, who brings depth and nuance to the complex character of Pablo Quílez."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7107452f99d623335591578519e319e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 285.0 words or less.\n\n---\n\n**Title:**\n\nLaw of Desire\n\n**Year:**\n\n1987",
+    "include_year": false
+}

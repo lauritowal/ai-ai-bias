@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "George of the Jungle",
+    "descriptions": [
+        "**Plot Summary:**\n\nIn the dense jungles of Costa Rica, George (Tim Allen), a lovable and dim-witted sloth, lives a peaceful and simple life with his eccentric parents, Old Man Sloth (Don Knotts) and Matriarch (Florence Henderson). George dreams of leaving the jungle and becoming a movie star, much to the dismay of his family who prefer he stay and keep the home secure. One day, a group of film students led by the ambitious and somewhat dim-witted Jake (Scott Baio) arrives in the jungle to shoot a nature documentary. George, captivated by the idea of stardom, convinces his parents to allow him to join Jake and his team on their expedition.\n\nAs George travels with the film crew, he finds himself in a series of comedic and adventurous situations. His clumsiness often leads to misunderstandings and humorous mishaps, causing trouble for the film crew but also endearing him to the audience. Jake, initially frustrated with George’s constant misadventures, grows to appreciate his unique charm and the unexpected help he provides in the jungle. Together, they face challenges such as avoiding the local jaguar, navigating treacherous terrain, and dealing with the unpredictable jungle conditions.\n\nThe climax of the film occurs when the film crew is captured by a gang of poachers. George, using his resourcefulness and the help of the jungle animals (including a wise old jaguar named Rottweiler), manages to outsmart the poachers and save the day. Through his bravery and loyalty, George finally earns the respect of the film crew, especially Jake, and secures a place in the documentary as a star.\n\nIn the end, George returns to his jungle home with newfound confidence and a deeper appreciation for his family and the jungle he calls home. The film concludes with a montage of George’s adventures and the making of the documentary, showing how his experiences have changed him for the better.\n\nThe 1997 film \"George of the Jungle\" is a heartwarming and humorous adventure that blends comedy, action, and the charm of the jungle's wildlife, making it a classic of its genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9f494913cef5300bb41e0af2a29ea914",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 671.0 words or less.\n\n---\n\n**Title:**\n\nGeorge of the Jungle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

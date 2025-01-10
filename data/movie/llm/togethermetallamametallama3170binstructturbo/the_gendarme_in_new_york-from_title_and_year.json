@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Gendarme in New York",
+    "descriptions": [
+        "The Gendarme in New York is a 1965 French-Italian comedy film. It is the third installment in the Gendarme series, a popular series of French films that began with Le Gendarme de Saint-Tropez in 1964.\n\nThe story revolves around the main character, Marshal Cruchot (played by Louis de Funès), a bumbling but lovable French gendarme who is initially assigned to the French Riviera. However, he soon receives an invitation to attend an international police conference in New York City.\n\nCruchot is thrilled at the opportunity to visit America and eagerly accepts the invitation. Upon arrival, he is immediately immersed in the unfamiliar American culture and the fast-paced city life of New York. He is amazed by the skyscrapers, the noise, and the chaos that surrounds him.\n\nDuring the conference, Cruchot becomes acquainted with various international police officers from different countries, learning about their unique methods and customs. However, his trip is not just about attending the conference; he also wants to explore the city and experience all that New York has to offer.\n\nAs Cruchot navigates the city, he encounters various obstacles and humorous situations, often due to his cultural and language differences. He becomes lost in the city, mistakes a street performer for a real crime scene, and gets into a series of comedic misadventures.\n\nDespite the challenges, Cruchot remains optimistic and makes the most of his trip. He learns to appreciate the American way of life and forms new friendships with the people he meets. The film ends with Cruchot returning to France, but not before he reflects on the valuable experiences and lessons he learned during his time in New York.\n\nThe Gendarme in New York is a light-hearted comedy that showcases Louis de Funès' signature wit and charm, as well as the cultural differences between France and America in the 1960s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "4ed3e0261f269fd1174e2d947cee0c1d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 606.0 words or less.\n\n---\n\n**Title:**\n\nThe Gendarme in New York\n\n**Year:**\n\n1965",
+    "include_year": false
+}

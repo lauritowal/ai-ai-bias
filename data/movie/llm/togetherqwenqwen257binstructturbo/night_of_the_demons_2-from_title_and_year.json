@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Night of the Demons 2",
+    "descriptions": [
+        "**Plot Summary:**\n\nNight of the Demons 2, released in 1994, picks up where its predecessor left off, continuing the tale of a group of slumber party girls who accidentally summon a powerful demon while attempting to record a séance on videotape. The film opens with the girls, now in their mid-to-late twenties, still haunted by the events of the previous night. Emily, the main character, and her friends decide to revisit the house to uncover the truth behind the demonic invasion.\n\nUpon returning, they discover that the house is now a derelict and abandoned, but not before Emily manages to grab a video camera to document their findings. As they explore, the house begins to come alive with supernatural occurrences. Shadows move, doors slam, and ghosts of the previous night's victims return, all while a sinister presence looms in the background.\n\nAs the night progresses, they realize that the demon they summoned is more powerful and malevolent than they had imagined. It begins to possess the girls one by one, with each victim suffering from gruesome and violent transformations. Emily, along with her boyfriend, a skeptical paranormal investigator named David, must use everything they have learned about the demon to find a way to destroy it before it claims them all.\n\nThroughout the night, the girls face their deepest fears and inner demons, leading to a series of intense and graphic scenes. The film culminates in a climactic battle between the possessed girls and the demon, with Emily confronting the entity in a terrifying showdown in the basement of the house. In a shocking twist, Emily must make a dark and morally questionable decision to save her friends and end the demon's reign of terror.\n\nNight of the Demons 2 delivers a wild ride of supernatural horror, blending elements of psychological terror, gore, and a relentless pace that keeps the audience on edge. The film is known for its over-the-top special effects, graphic violence, and a dark sense of humor that often borders on the absurd."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "642aff32c329f3fa340b8dc4fcd88fac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 559.0 words or less.\n\n---\n\n**Title:**\n\nNight of the Demons 2\n\n**Year:**\n\n1994",
+    "include_year": false
+}

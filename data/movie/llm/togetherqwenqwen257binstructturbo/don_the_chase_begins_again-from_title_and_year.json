@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Don: The Chase Begins Again",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Don: The Chase Begins Again,\" released in 2006, is the second installment in the \"Don\" series of films, following the first, \"Don: The Chase Begins.\" The movie is a crime thriller that delves into the complex world of organized crime, focusing on the rivalries and power struggles within the Italian-American mafia.\n\nThe film picks up where the first movie left off, with the Don, played by Joe Pantoliano, still trying to maintain control over his criminal empire while facing new challenges and threats. The story revolves around a high-stakes game of cat and mouse, as the Don and his Irish partner, Paddy, must navigate a web of alliances and betrayals, all while being pursued by the ruthless and cunning Capo, played by Danny DeVito, who seeks to take over the Don's territory.\n\nThe plot thickens when a mysterious business partner, introduced as a potential ally, turns out to be a traitor, leading to a series of dangerous confrontations and narrow escapes. The Don, with Paddy's support, must use all his resources and cunning to stay one step ahead of his enemies, both within and outside his crew.\n\nAs the Don's hold on his empire begins to slip, he must also deal with personal challenges, including the potential fracture in his family and the looming threat of law enforcement. The film explores themes of loyalty, betrayal, and the cost of maintaining power in a world of violence and corruption.\n\nThe climax of the movie features a high-octane chase scene through the streets of New York City, where the Don and his crew engage in a desperate struggle to outwit the Capo and his men. The final scenes reveal the Don's plans for a bold comeback, setting the stage for the potential continuation of the series.\n\n\"Don: The Chase Begins Again\" is a gripping and intense thriller that showcases the dark and dangerous world of organized crime, with a focus on the intricate power dynamics and the high-stakes games played by those at the top."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1e1085e3a400ae4567a67f45291afc1a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 728.0 words or less.\n\n---\n\n**Title:**\n\nDon: The Chase Begins Again\n\n**Year:**\n\n2006",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Multiple Maniacs",
+    "descriptions": [
+        "Multiple Maniacs is a 1970 American independent comedy film written, produced, and directed by John Waters. The film stars Divine, David Lochary, and Mary Vivian Pearce. \n\nThe story revolves around a traveling freak show, \"Lady Divine's Cavalcade of Perversions,\" led by the outrageous and charismatic Lady Divine (Divine). The group performs outrageous and disturbing acts to shock their audiences. However, the show's success eventually leads to Lady Divine's increasing megalomania and instability.\n\nAs Lady Divine becomes increasingly unhinged, the group's performances become more and more extreme. Eventually, Lady Divine's lover, Mr. David (David Lochary), and her sidekick, Mr. David's lover, Steve (Paul Swift), plan to leave the freak show to start a new life in a suburban neighborhood.\n\nHowever, their plans are thwarted when they discover that Lady Divine has become obsessed with the idea of becoming \"normal\" and blending in with the suburban lifestyle. The group's tour bus breaks down in a suburban neighborhood, and Lady Divine becomes fixated on a beautiful Catholic girl, Bonnie (Mary Vivian Pearce).\n\nLady Divine's descent into madness accelerates as she tries to infiltrate the suburban world and capture Bonnie's attention. The film descends into chaos and violence, culminating in a shocking and disturbing finale that showcases John Waters' signature irreverence and dark humor.\n\nMultiple Maniacs is a classic example of John Waters' underground cinema style and has gained cult status for its outrageous performances, over-the-top humor, and unapologetic portrayal of the counterculture movement of the 1960s and 1970s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "cb26f58888eaa897ce87dba4e283a5b8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 451.0 words or less.\n\n---\n\n**Title:**\n\nMultiple Maniacs\n\n**Year:**\n\n1970",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love with the Proper Stranger",
+    "descriptions": [
+        "In \"Love with the Proper Stranger\" (1963), Jane, a shy librarian, finds herself drawn to a charming but mysterious stranger named Charles at a local dance. Despite their initial shyness, they develop a deep connection. As they navigate the complexities of their budding romance, Jane's traditional family and Charles' unconventional lifestyle pose challenges. The story explores themes of societal expectations, personal growth, and the courage to embrace love. Ultimately, Jane must decide whether to follow her heart or adhere to the norms set by her family, leading to a poignant and bittersweet conclusion."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9ad016a99671e1a6d75cf7772845abe6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLove with the Proper Stranger\n\n**Year:**\n\n1963",
+    "include_year": false
+}

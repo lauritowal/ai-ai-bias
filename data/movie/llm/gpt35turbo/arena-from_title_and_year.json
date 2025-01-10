@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arena",
+    "descriptions": [
+        "In the 1989 film \"Arena,\" audiences are taken to a dystopian future where entertainment takes on a whole new level of intensity. Set in a world where gladiatorial combat has become a popular form of entertainment, the movie follows the story of a young man named Steve Armstrong who becomes a participant in these deadly games.\n\nSteve is a skilled fighter who is forced to compete in the brutal arena battles in order to survive and earn his freedom. As he navigates the dangerous world of the arena, Steve must not only face formidable opponents in the ring but also navigate the treacherous politics and corruption that surround the games.\n\nAs Steve rises through the ranks of the arena, he begins to uncover the dark secrets behind the organization that runs the games and the true motivations of those in power. Along the way, he forms alliances with fellow fighters and rebels, leading to a climactic showdown that will determine the fate of not only himself but the entire society that thrives on violence and bloodshed.\n\nFilled with action-packed fight scenes, suspenseful twists, and a gripping story of survival and rebellion, \"Arena\" is a thrilling sci-fi film that explores the darker side of human nature and the consequences of a society built on exploitation and entertainment at any cost."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+    "include_year": false
+}

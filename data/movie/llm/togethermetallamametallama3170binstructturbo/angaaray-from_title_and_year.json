@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Angaaray",
+    "descriptions": [
+        "Angaaray is a 1986 Indian Hindi-language drama film. The movie follows the story of two childhood friends, Raj and Ravi, played by Raj Babbar and Kumar Gaurav respectively, who are separated due to circumstances. Years later, Raj returns to their hometown and discovers that Ravi is now a local goon who works for a powerful crime lord. \n\nRaj tries to reform Ravi, but their friendship is complicated by Raj's romance with Ravi's sister, Sandhya, played by Smita Patil. As Raj tries to bring Ravi back to the right path, he must confront the crime lord and navigate the complex web of relationships and loyalties in their hometown.\n\nThe movie explores themes of friendship, redemption, and the struggle for justice in a corrupt society. Angaaray features a strong cast and a gripping storyline, which made it a notable film in 1986."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "23099c93cbbc3279840e0011027600bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 300.0 words or less.\n\n---\n\n**Title:**\n\nAngaaray\n\n**Year:**\n\n1986",
+    "include_year": false
+}

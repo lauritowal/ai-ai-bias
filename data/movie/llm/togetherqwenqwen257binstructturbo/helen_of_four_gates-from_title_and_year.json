@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Helen of Four Gates",
+    "descriptions": [
+        "\"Helen of Four Gates\" from 1920 is a dramatic tale set in ancient Greece, drawing inspiration from the myth of Helen of Troy. The film centers around Helen, a remarkably beautiful and charismatic woman, whose story begins with her wedding to King Menelaus of Sparta. Known for her unparalleled beauty, Helen's presence captivates all who meet her, a trait that both draws admiration and envy.\n\nThe narrative unfolds against the backdrop of political intrigue and personal drama. Helen's arrival in Sparta attracts the attention of Paris, the prince of Troy, who is bewitched by her beauty and charm. Despite warnings from her sisters, Helen decides to elope with Paris, igniting a chain of events that leads to the infamous Trojan War.\n\nAs the story progresses, Helen grapples with her actions and the consequences of her choices. She finds herself torn between her loyalty to Menelaus and her feelings for Paris. Meanwhile, the tension between Sparta and Troy escalates, leading to a devastating conflict that affects not only the lives of Helen and Menelaus but also the entire region.\n\nThe film explores themes of love, betrayal, and the disastrous consequences of pride and passion. Through Helen's journey, the narrative highlights the complex nature of human emotions and the profound impact of individual actions on history. The plot is intricately woven with historical elements and romantic subplots, creating a compelling narrative that captures the essence of Helen's legendary story.\n\nIn \"Helen of Four Gates,\" the protagonist's beauty and allure serve as a catalyst for the unfolding drama, while her personal struggles and the looming war create a rich tapestry of characters and events. The film's setting in ancient Greece, with its grandeur and historical significance, adds depth to the narrative, making it a significant entry in the early silent film era."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "4f8b0a692a063411a36a98db9a485868",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 390.0 words or less.\n\n---\n\n**Title:**\n\nHelen of Four Gates\n\n**Year:**\n\n1920",
+    "include_year": false
+}

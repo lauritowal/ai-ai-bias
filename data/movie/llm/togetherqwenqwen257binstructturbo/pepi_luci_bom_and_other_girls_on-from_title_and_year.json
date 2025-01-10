@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pepi, Luci, Bom and Other Girls on the Heap",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Pepi, Luci, Bom and Other Girls on the Heap\" (1980) is a poignant and often dark comedy directed by Mário Claro, a film that explores the lives of four young girls living in the favelas of Rio de Janeiro. The story unfolds in the gritty and impoverished context of the Brazilian slums, where the girls—Pepi, Luci, Bom, and others—navigate the harsh realities of their daily lives.\n\nPepi, the eldest of the group, is a sexually precocious and rebellious girl who dreams of a better life. She is constantly in trouble with authority figures and struggles to maintain her integrity amidst the moral and social decay of her environment. Luci, on the other hand, is shy and introverted, often the victim of Pepi's pranks and the object of the older boys' unwanted attention. Bom, the youngest, is full of life and dreams of becoming a dancer, but her aspirations are frequently thwarted by the violence and poverty that surround her.\n\nThe film's narrative is fragmented, mirroring the chaotic and unpredictable lives of the characters. As the story progresses, the girls find themselves trapped in a cycle of violence, exploitation, and disillusionment. The social and economic despair that characterizes their world is vividly depicted through raw, unflinching scenes that expose the brutal realities of life in the favelas.\n\nMário Claro's direction is marked by a raw, documentary-like quality, capturing the essence of the favelas and the lives of the people within them with a stark honesty. The film's score, which includes a haunting original song, adds to the emotional impact of the story, underscoring the girls' struggles and the sense of hopelessness that permeates their existence.\n\n\"Pepi, Luci, Bom and Other Girls on the Heap\" is a powerful and haunting exploration of youth, desire, and the relentless struggle against a backdrop of social and economic oppression. It stands as a poignant reminder of the enduring human spirit and the unyielding hope that can be found even in the darkest of circumstances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "e662d5db2dfd4bcc93eaba6185eade0c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 581.0 words or less.\n\n---\n\n**Title:**\n\nPepi, Luci, Bom and Other Girls on the Heap\n\n**Year:**\n\n1980",
+    "include_year": false
+}

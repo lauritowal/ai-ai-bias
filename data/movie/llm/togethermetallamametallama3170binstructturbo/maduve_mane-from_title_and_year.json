@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Maduve Mane",
+    "descriptions": [
+        "However, I need the year of the movie 'Maduve Mane' to provide a plot summary. Please provide the year, and I'll do my best to provide a summary within the 417-word limit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "23cce7a2669de698e50a741c9b981319",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 417.0 words or less.\n\n---\n\n**Title:**\n\nMaduve Mane\n\n**Year:**\n\n",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mice Follies",
+    "descriptions": [
+        "However, I couldn't find any information on a movie called \"Mice Follies\" released in 1954. It's possible that the movie is a lesser-known or older film. \n\nIf you provide more information or context about the movie, I'd be happy to help. However, I can suggest an alternative. \n\nThe 1944 Mickey Mouse cartoon film \"Mickey and the Seagull\" has a shorter title and is a lesser-known release and a 1954 cartoon film called 'Mickey's Follies' is an alternate."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "6a1ba1350a9fdb91bf811c6abe13b795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMice Follies\n\n**Year:**\n\n1954",
+    "include_year": false
+}

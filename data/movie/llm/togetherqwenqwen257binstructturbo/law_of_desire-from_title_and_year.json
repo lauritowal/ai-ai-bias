@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Law of Desire",
+    "descriptions": [
+        "\"Law of Desire\" (1987) is a provocative French erotic drama directed by Bernardo Bertolucci. Set in the late 1960s, the film explores the complex sexual and emotional relationships between a young, aspiring writer, Jean-Pierre (Jean-Pierre Léaud), and two women, Isabelle (Isabelle Adjani) and Odile (Isabelle Huppert). Jean-Pierre, struggling to find inspiration for his novel, becomes entangled in a passionate affair with Isabelle, a beautiful and ambitious model. As their relationship intensifies, he also begins an affair with Odile, a more worldly and established artist. The film delves into themes of desire, creativity, and the sacrifices made in the pursuit of art and love. Through a series of intimate and sometimes disturbing scenes, Bertolucci masterfully examines the blurred lines between passion and exploitation, making \"Law of Desire\" a nuanced exploration of the human condition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "7107452f99d623335591578519e319e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 285.0 words or less.\n\n---\n\n**Title:**\n\nLaw of Desire\n\n**Year:**\n\n1987",
+    "include_year": false
+}

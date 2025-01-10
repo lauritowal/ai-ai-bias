@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Viva Max!",
+    "descriptions": [
+        "Viva Max! is a 1969 American comedy film directed by Jerry Paris. The movie is set in 1914 and revolves around General Maximilian \"Max\" Rodrigues de Santos (played by Peter Ustinov), a charismatic and eccentric Mexican general who, along with his loyal followers, infiltrates the Alamo, a historic mission in San Antonio, Texas.\n\nThe story begins with General Max, who has lost his previous command, seeking a new challenge. He decides to capture the Alamo as an act of revenge against the Texans who took it from Mexico during the famous 1836 Battle of the Alamo. Max and his men successfully infiltrate the Alamo by disguising themselves as American tourists.\n\nHowever, things become complicated when Max befriends a group of school children on a field trip to the Alamo. Despite the initial intentions of his invasion, Max starts to develop a bond with the children and begins to question his motives. Meanwhile, the Texans, led by a determined police officer, are trying to figure out how the Mexicans gained access to the Alamo.\n\nAs the situation escalates, Max must balance his loyalty to his men with his newfound affection for the children. In the end, Max decides to call off the invasion and abandon his plans, realizing that his actions would put the children in harm's way.\n\nThe film ends on a lighthearted note, with Max and his men escaping, and the Texans left to wonder what really happened. Viva Max! is a comedic and satirical take on the famous Battle of the Alamo, poking fun at the historical event and the cultural differences between Mexico and the United States."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2f7295a6941cd3aa9044c4b209383821",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 590.0 words or less.\n\n---\n\n**Title:**\n\nViva Max!\n\n**Year:**\n\n1969",
+    "include_year": false
+}

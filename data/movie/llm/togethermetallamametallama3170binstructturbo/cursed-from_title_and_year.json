@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cursed",
+    "descriptions": [
+        "'Cursed' is a 2004 American-German horror-comedy film written by Kevin Williamson and directed by Wes Craven. The movie takes place in Los Angeles and revolves around two siblings, Jimmy (Jesse Eisenberg) and Ellie (Christina Ricci), who are struggling to cope with the loss of their parents.\n\nOne night, Jimmy and Ellie are involved in a car accident on the Mulholland Highway, where they are bitten by a mysterious animal. They soon discover that they have begun to develop supernatural characteristics, such as enhanced senses and superhuman strength. As the full moon rises, they realize that they are slowly transforming into werewolves.\n\nAs the siblings navigate their newfound powers, they also face personal struggles. Jimmy is trying to balance his new condition with his high school life, while Ellie is dealing with her own identity crisis and relationship problems. The siblings must find a way to reverse the curse before it's too late and they lose control completely.\n\nMeanwhile, a series of mysterious murders and attacks take place across the city, all linked to the full moon. As the body count rises, Jimmy and Ellie become the prime suspects, and they must work together to clear their names and find the truth behind the curse.\n\nThe movie features a star-studded cast, including Portia de Rossi, Joshua Jackson, and Judy Greer, and offers a mix of horror, comedy, and coming-of-age themes. However, 'Cursed' received mixed reviews from critics and underperformed at the box office. Despite this, the film has developed a cult following over the years and remains a unique take on the werewolf genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "58a2991faf36533485f87d7eed824e4c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 623.0 words or less.\n\n---\n\n**Title:**\n\nCursed\n\n**Year:**\n\n2004",
+    "include_year": false
+}

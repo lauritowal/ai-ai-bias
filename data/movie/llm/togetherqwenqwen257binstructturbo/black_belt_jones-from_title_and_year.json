@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Black Belt Jones",
+    "descriptions": [
+        "In \"Black Belt Jones\" (1974), a rogue martial arts expert and former police officer, played by Jim Brown, returns to his small hometown to unravel a series of mysterious killings. Jones, known for his black belt in karate, navigates a web of corruption involving local law enforcement and organized crime. As he investigates, he uncovers a conspiracy that threatens to engulf the entire town. Utilizing his exceptional fighting skills and wits, Jones takes on the corrupt forces, protecting his community and seeking justice for the victims. The film blends elements of martial arts action with social commentary, highlighting themes of justice and the struggle against systemic corruption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nBlack Belt Jones\n\n**Year:**\n\n1974",
+    "include_year": false
+}

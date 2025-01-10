@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Blood Reign: Curse of the Yoma",
+    "descriptions": [
+        "\"Blood Reign: Curse of the Yoma\" is a 1989 Japanese horror film directed by Ei Ogawa. The movie is based on the manga of the same name by Kazuo Umezu.\n\nThe story takes place in the Heian period of Japan, where a powerful yurei (vengeful spirit) named Tae is awakened by a group of samurai warriors. Tae is a beautiful and seductive woman who returns from the dead to seek revenge against the men who wronged her in life.\n\nAs the story unfolds, Tae's malevolent spirit begins to possess the bodies of the samurai warriors, leading them to commit heinous crimes and terrorize the local villagers. The main character, a young samurai named Tsukikage, must join forces with a group of villagers to defeat Tae and put an end to the bloodshed.\n\nThe film features a blend of horror, action, and supernatural elements, with a focus on the yurei mythology of Japan. The special effects and makeup are notable for their time, with a range of gruesome and unsettling scenes that add to the film's overall sense of tension and fear.\n\nOverall, \"Blood Reign: Curse of the Yoma\" is a classic Japanese horror film that explores themes of revenge, possession, and the supernatural. Its haunting and atmospheric style, combined with its graphic violence and eerie special effects, make it a standout in the horror genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "fe405339ec58dd12713624ac19e7cd73",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1630.0 words or less.\n\n---\n\n**Title:**\n\nBlood Reign: Curse of the Yoma\n\n**Year:**\n\n1989",
+    "include_year": false
+}

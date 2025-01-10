@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Killing Jar",
+    "descriptions": [
+        "In the 2010 film \"The Killing Jar,\" a group of strangers find themselves trapped in a remote roadside diner during a violent thunderstorm. As tensions rise and suspicions grow, it becomes clear that not everyone is who they claim to be. The diner's owner, a gruff and mysterious man, holds the key to unlocking the truth behind the group's presence in the diner.\n\nAs the storm rages outside, the group is forced to confront their own pasts and secrets. One by one, they are picked off in a series of brutal and shocking murders. The survivors must band together to uncover the identity of the killer before it's too late.\n\nAs the night wears on, dark secrets are revealed and alliances are tested. The group must navigate a maze of deception and betrayal to uncover the truth behind the killings. In a shocking twist, the killer's true identity is finally revealed, leaving the survivors reeling from the realization of who among them is responsible for the bloodshed.\n\n\"The Killing Jar\" is a tense and gripping thriller that keeps viewers on the edge of their seats until the very end. With a cast of compelling characters and a plot full of twists and turns, this film is a must-watch for fans of psychological thrillers and mysteries."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "b4a0c21459503bc4dde5319edc54f0f5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 724.0 words or less.\n\n---\n\n**Title:**\n\nThe Killing Jar\n\n**Year:**\n\n2010",
+    "include_year": false
+}

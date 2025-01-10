@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Magic Riddle",
+    "descriptions": [
+        "In the animated film \"The Magic Riddle\" from 1991, we follow the story of a young girl named Sarah who finds herself in a magical world full of talking animals, fairies, and other mystical creatures. Sarah is on a quest to solve a riddle that will save the kingdom from an evil sorcerer who has cast a spell over the land.\n\nAs Sarah embarks on her journey, she meets a variety of colorful characters who help her along the way. One of her first companions is a wise owl who guides her through the forest and imparts valuable advice. Together, they set out to find the pieces of the riddle that will unlock the secret to defeating the sorcerer.\n\nAlong the way, Sarah encounters a mischievous fox who tries to trick her into giving up her quest, but she outsmarts him with her quick thinking and determination. She also befriends a kind-hearted fairy who teaches her the importance of believing in herself and never giving up, even when the odds seem stacked against her.\n\nAs Sarah gets closer to solving the riddle, she must face a series of challenges that test her bravery and intelligence. She must navigate treacherous traps, outsmart cunning villains, and decipher cryptic clues in order to uncover the truth behind the sorcerer's curse.\n\nFinally, after much perseverance and courage, Sarah solves the riddle and confronts the sorcerer in a dramatic showdown. With the help of her friends and her own inner strength, she is able to break the spell and restore peace to the kingdom.\n\nIn the end, Sarah returns home, forever changed by her magical adventure. She has learned valuable lessons about friendship, courage, and the power of belief. The kingdom is saved, and Sarah's bravery is celebrated by all who know her.\n\n\"The Magic Riddle\" is a heartwarming tale of courage, friendship, and the triumph of good over evil. It reminds viewers of the importance of staying true to oneself and never giving up, even in the face of seemingly insurmountable obstacles. With its charming characters, enchanting story, and timeless message, \"The Magic Riddle\" is a classic animated film that will captivate audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1f36a19c458f75eef778c1e27b78f795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 748.0 words or less.\n\n---\n\n**Title:**\n\nThe Magic Riddle\n\n**Year:**\n\n1991",
+    "include_year": false
+}

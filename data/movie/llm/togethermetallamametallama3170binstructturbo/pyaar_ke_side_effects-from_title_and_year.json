@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pyaar Ke Side Effects",
+    "descriptions": [
+        "Pyaar Ke Side Effects is a 2006 Indian Hindi-language romantic comedy film directed by Saket Chaudhary. The movie stars Rahul Bose and Mallika Sherawat as the main leads.\n\nThe story revolves around Siddharth 'Sid' Sinha (played by Rahul Bose), a cynical and carefree television anchor who is afraid of commitment. Sid lives a bachelor's life and has no intention of getting married. On the other hand, Trisha (played by Mallika Sherawat) is a free-spirited and confident model who shares a similar outlook on life. The two meet at a party and start a casual relationship, but eventually, they develop strong feelings for each other.\n\nAs their relationship progresses, Trisha starts to feel the need for commitment, and Sid struggles with the idea of settling down. Despite his initial resistance, Sid eventually agrees to marry Trisha, but their relationship becomes more complicated as they face various challenges. Sid's fear of commitment and Trisha's desire for stability create tension in their relationship.\n\nThroughout the movie, the couple navigates the ups and downs of their relationship, and in the process, they learn valuable lessons about love, commitment, and themselves. The film takes a humorous approach to exploring the complexities of modern relationships and the challenges of maintaining a long-term partnership.\n\nOverall, Pyaar Ke Side Effects is a light-hearted romantic comedy that explores the nuances of love and relationships in a contemporary setting. The movie features witty dialogue, engaging performances, and a relatable storyline that makes it an enjoyable watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "945de2a97984919b6ffe7fed2110f877",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 356.0 words or less.\n\n---\n\n**Title:**\n\nPyaar Ke Side Effects\n\n**Year:**\n\n2006",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daivanamathil",
+    "descriptions": [
+        "Daivanamathil, released in 2005, is a heartwarming drama set in Kerala, India. The story revolves around a middle-aged man named Sreeram, who returns to his hometown after a decade to attend his sister's wedding. Sreeram, a successful businessman in the city, struggles with the realization that time has passed him by, and his once vibrant relationship with his family is now strained. As the wedding preparations unfold, Sreeram reconnects with old friends and faces the challenges of rekindling his bond with his sister and the rest of his family.\n\nThe film delves into themes of nostalgia, generational gaps, and the quest for reconciliation. Through a series of poignant moments, Sreeram confronts his past decisions and the consequences they have had on his personal life. Alongside his sister's wedding, Sreeram's journey also includes unexpected romantic sparks with a young woman from his village, adding a layer of emotional complexity to his narrative.\n\nAs the wedding reaches its climax, Sreeram must make a difficult choice that will not only affect his relationship with his sister but also redefine his own identity. Daivanamathil beautifully captures the essence of familial love, the importance of tradition, and the universal quest for a place in one's heart and home."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "632ce75844ddbfb9ea3530b771c305e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nDaivanamathil\n\n**Year:**\n\n2005",
+    "include_year": false
+}

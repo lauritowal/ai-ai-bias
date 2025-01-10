@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chakkikotha Chankaran",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Chakkikotha Chankaran\" (1989) is a heartwarming tale from the rich tapestry of Malayalam cinema. The movie revolves around the lives of two young boys, Chankaran and Chakkikaran, set in a small village in Kerala. Chankaran, the elder and more responsible of the two, is the son of a hardworking farmer, while Chakkikaran, the younger and more adventurous, is the son of a local shopkeeper. Despite their different backgrounds, the boys share a deep bond and a love for adventure.\n\nOne day, a mysterious and charismatic stranger arrives in their village, offering them a chance to join a circus. Both boys are captivated by the idea, but Chakkikaran is more eager to take up the offer, feeling it's a way to escape the monotony of their village lives. Chankaran, however, is torn between his loyalty to his brother and his duty towards his family. He eventually decides to accompany Chakkikaran, marking the beginning of their journey into the big world outside.\n\nThe movie follows their journey, filled with laughter, tears, and life lessons. They encounter various challenges and people along the way, from kind-hearted circus performers to a handful of villains trying to prevent them from succeeding. Through their shared experiences, the boys learn about friendship, the value of family, and the importance of following one's dreams, no matter the obstacles.\n\nUltimately, the brothers face a crucial decision that tests their friendship and their individual aspirations. The climax of the film sees them in a race against time, choosing between staying true to their dreams and staying loyal to their family. \"Chakkikotha Chankaran\" is a story of brotherly love, adventure, and the eternal quest for happiness and fulfillment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "03ff703b541931a4d705a19ae5542878",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nChakkikotha Chankaran\n\n**Year:**\n\n1989",
+    "include_year": false
+}

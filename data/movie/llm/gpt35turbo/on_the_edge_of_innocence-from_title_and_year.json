@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "On the Edge of Innocence",
+    "descriptions": [
+        "\"On the Edge of Innocence\" is a coming-of-age drama film that follows the story of 17-year-old Patsy, played by Kellie Martin, as she navigates the complexities of adolescence and the challenges of growing up. Set in the small town of Lantana, California in the mid-1990s, Patsy is a high school senior who is struggling to find her place in the world.\n\nPatsy's life takes a dramatic turn when she meets a rebellious and charismatic new student named Terry, played by James Marsden. Terry is everything Patsy is not - confident, daring, and unafraid to challenge the status quo. Drawn to his carefree attitude and bad boy charm, Patsy finds herself falling for Terry and getting caught up in his reckless behavior.\n\nAs Patsy becomes more deeply involved with Terry, she begins to distance herself from her friends and family, including her overprotective mother, played by Terry O'Quinn. Patsy's grades start to slip, and she starts skipping school and staying out late with Terry, much to the concern of those around her.\n\nHowever, as Patsy delves deeper into Terry's world, she starts to see a darker side to his personality. Terry's rebellious nature turns destructive, and Patsy soon finds herself caught up in a dangerous and toxic relationship. Despite warnings from her loved ones, Patsy is unable to break free from Terry's hold on her, leading to a series of escalating events that culminate in a tragic and life-changing moment.\n\nThroughout the film, Patsy grapples with the difficult choices she must make as she teeters \"on the edge of innocence.\" She must confront her own vulnerabilities and insecurities, as well as the consequences of her actions and the impact they have on those around her. Ultimately, Patsy must find the strength to stand up for herself and make the hard choices necessary to reclaim her sense of self-worth and identity.\n\n\"On the Edge of Innocence\" is a poignant and emotionally charged film that explores the complexities of teenage relationships, the struggles of adolescence, and the importance of self-discovery. Through Patsy's journey, the film highlights the challenges of growing up and the power of resilience and self-empowerment in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9a7a04ff08db77912a66f6e4be3ee010",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 719.0 words or less.\n\n---\n\n**Title:**\n\nOn the Edge of Innocence\n\n**Year:**\n\n1997",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Going Under",
+    "descriptions": [
+        "\"Going Under\" is a 2004 drama film directed by Eric Werthman. The movie follows Peter, a shy and introverted young man, played by Geno Lechner, who leads a mundane life as a toll booth attendant. Peter's life takes a drastic turn when he meets a quirky and charismatic woman named Susan, portrayed by Rozonda Thomas, also known as Chilli from the R&B group TLC.\n\nAs Peter becomes more fascinated with Susan, he starts to break free from his shell. Susan introduces Peter to her world, taking him on a series of exciting and unconventional adventures. Peter becomes increasingly drawn to Susan's carefree spirit, which challenges his conservative upbringing.\n\nHowever, their relationship is put to the test when Susan's dark past and her real intentions are revealed. Peter must confront the reality of his feelings and decide whether he is willing to risk everything to be with Susan.\n\nThroughout the film, Peter's transformation from a timid and isolated individual to someone more confident and self-assured is a central theme. The movie's title \"Going Under\" can be interpreted as Peter's willingness to dive head-first into the unknown and take risks in pursuit of love and self-discovery.\n\n\"Going Under\" is a poignant exploration of human connection, identity, and the complexities of relationships. The film features strong performances from its leads and offers a nuanced portrayal of two people navigating their differences and finding common ground."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "844c87d8b779192f81abf36f71d7609d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 758.0 words or less.\n\n---\n\n**Title:**\n\nGoing Under\n\n**Year:**\n\n2004",
+    "include_year": false
+}

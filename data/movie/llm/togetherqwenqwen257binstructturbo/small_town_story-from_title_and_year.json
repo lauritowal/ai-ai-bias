@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Small Town Story",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Small Town Story,\" released in 1953, unfolds in the picturesque yet insular town of Millbrook, where the residents keep their secrets close and their gossip even closer. The film centers around the life of Elizabeth, a young woman whose life takes a dramatic turn when she returns to her hometown after a long absence. Elizabeth, now a successful author, has left behind the small-town life for the big city, but the allure of her childhood home and the people she left behind proves too strong to resist.\n\nUpon her return, Elizabeth stumbles upon a series of mysterious events that shake the very foundation of Millbrook. The town’s serene facade hides deep secrets, and as Elizabeth delves deeper into unraveling the truth, she finds herself entangled in a web of lies and hidden desires. Her investigation leads her to uncover long-buried scandals, including a scandal involving the town's beloved mayor, which has been kept hidden for decades.\n\nThe film explores themes of nostalgia, the price of change, and the enduring power of small-town gossip. Elizabeth's journey forces her to confront not just the secrets of Millbrook, but also her own past and the choices that led her away from her roots. As she navigates the complexities of her hometown, she must decide whether to remain entrenched in its traditions or forge her own path, ultimately learning that sometimes, the past is hard to escape but not always best to live with.\n\nThroughout the story, the tight-knit community of Millbrook is portrayed with both affection and critique, highlighting the town's strengths and weaknesses. The narrative is a poignant exploration of identity, belonging, and the hidden histories that shape a community."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "64717fa2414cd2ae1f91dc1ba7532160",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 419.0 words or less.\n\n---\n\n**Title:**\n\nSmall Town Story\n\n**Year:**\n\n1953",
+    "include_year": false
+}

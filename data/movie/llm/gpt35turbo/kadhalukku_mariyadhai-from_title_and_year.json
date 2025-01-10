@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kadhalukku Mariyadhai",
+    "descriptions": [
+        "Kadhalukku Mariyadhai is a Tamil romantic drama film released in 1997. The story follows Jeevanandham, a humble and kind-hearted man who falls in love with Mini, a wealthy and privileged young woman. Despite their stark differences in social status, they both share a deep love for each other.\n\nAs their relationship blossoms, they face opposition from Mini’s family who disapprove of Jeevanandham due to his lower social standing. Mini’s father plans to marry her off to a wealthy suitor, leaving Jeevanandham heartbroken and determined to win her back.\n\nJeevanandham’s unwavering love and determination eventually win over Mini, and they decide to elope to be together. However, their happiness is short-lived as they face new challenges and obstacles in their relationship. Mini’s family continues to interfere, and Jeevanandham must prove his worth and dedication to Mini in order to earn her family’s acceptance.\n\nThe film explores themes of love, sacrifice, and societal expectations as Jeevanandham and Mini navigate the complexities of their relationship. Despite facing numerous hardships and setbacks, their love for each other remains strong, and they are willing to fight for their happiness against all odds.\n\nKadhalukku Mariyadhai is a heartfelt and emotional tale of love that transcends societal barriers and challenges. The film’s powerful performances, poignant moments, and touching romance make it a timeless classic that continues to resonate with audiences even years after its release."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "5941eebdbee11d1110d050b440a2a479",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 326.0 words or less.\n\n---\n\n**Title:**\n\nKadhalukku Mariyadhai\n\n**Year:**\n\n1997",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mera Naam Joker",
+    "descriptions": [
+        "'Mera Naam Joker' is a 1970 Indian film directed by Raj Kapoor. The movie is a poignant and introspective exploration of the human condition, delving into themes of identity, love, and the fleeting nature of life.\n\nThe film is a semi-autobiographical account of Raj Kapoor's own life, with the protagonist, Raju (played by Raj Kapoor's son, Randhir Kapoor), serving as a proxy for the director. Raju is a young man who grows up in a circus, learning the art of clowning from his father, a skilled juggler and acrobat.\n\nAs Raju navigates the challenges of growing up, he falls in love with a beautiful woman named Mala (played by Padmini), but their relationship is doomed from the start. Raju's father, a kind and wise man, tries to guide him through the complexities of life, but ultimately, Raju must face the harsh realities of the world on his own.\n\nThe film takes a dramatic turn when Raju loses Mala, and he becomes disillusioned with the world around him. He goes on to become a circus owner, but his life is marked by tragedy and heartache. Through Raju's struggles, the film explores the themes of identity, love, and the human condition.\n\nOne of the most striking aspects of 'Mera Naam Joker' is its use of symbolism. The circus, with its colorful characters and dramatic performances, serves as a metaphor for life itself. The clowns, with their painted-on smiles and hidden tears, represent the masks we wear to hide our true selves. Through this symbolism, the film critiques the societal expectations placed on individuals and the fragility of human relationships.\n\n'Raj Kapoor's direction is masterful, with a deep understanding of the human heart. The film's cinematography is stunning, capturing the beauty and pain of life with equal intensity. 'Mera Naam Joker' is a powerful and poignant film that continues to resonate with audiences today, offering a profound exploration of the human condition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3fbe27e4645ae0fd15a6bc5d174605f1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nMera Naam Joker\n\n**Year:**\n\n1970",
+    "include_year": false
+}

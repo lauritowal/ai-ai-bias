@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Sakigake!! Otokojuku",
+    "descriptions": [
+        "In the movie \"Sakigake!! Otokojuku\" from 2008, we are introduced to a group of students at Otokojuku, a tough and prestigious all-boys school known for its rigorous training and discipline. The students are put through intense physical and mental challenges in order to become strong and honorable men. The main character, Momotaro Tsurugi, is a new student at Otokojuku who is determined to prove himself and become the strongest warrior at the school.\n\nAs Momotaro navigates the challenges of Otokojuku, he forms close bonds with his fellow students, including the tough and loyal Heihachi Edajima and the hot-headed Shishimaru Tsurugi. Together, they face off against rival schools and formidable opponents in intense battles of strength and skill.\n\nHowever, the students of Otokojuku soon find themselves facing their biggest challenge yet when a sinister organization threatens to destroy the school and all that it stands for. Led by the ruthless and power-hungry Hien, this organization will stop at nothing to achieve their goals, even if it means resorting to violence and treachery.\n\nMomotaro and his friends must band together and use all of their training and skills to protect Otokojuku and defeat their enemies. Along the way, they learn valuable lessons about friendship, honor, and the true meaning of strength. As they face increasingly difficult challenges and dangerous opponents, Momotaro and his friends must dig deep within themselves to find the courage and determination to overcome any obstacle in their path.\n\nIn the end, Momotaro and his friends emerge victorious, proving themselves as true warriors and heroes. Through their courage and sacrifice, they not only save Otokojuku but also inspire others to stand up against injustice and fight for what is right. \"Sakigake!! Otokojuku\" is a thrilling and action-packed film that celebrates the power of friendship, loyalty, and perseverance in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "6b4ecb75b471a58fa4d2e6a1a6486423",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 891.0 words or less.\n\n---\n\n**Title:**\n\nSakigake!! Otokojuku\n\n**Year:**\n\n2008",
+    "include_year": false
+}

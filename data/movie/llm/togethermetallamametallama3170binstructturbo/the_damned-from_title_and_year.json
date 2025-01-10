@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned",
+    "descriptions": [
+        "The Damned is a 1963 British science fiction film directed by Joseph Losey, based on the novel 'The Children of Light' by H.L. Lawrence. The story revolves around an American tourist, Simon Wells (played by Macdonald Carey), who becomes embroiled in a mysterious and sinister plot involving a group of children who are being raised in a secret underground bunker in an isolated area of England.\n\nThe children are the product of a secret government experiment to create a new generation of super-intelligent beings, capable of surviving a nuclear war. The experiment is conducted by a scientist, Bernard (played by Alexander Knox), who seeks to create a new breed of human beings that can withstand the devastating effects of radiation.\n\nAs the story unfolds, Simon discovers the true nature of the experiment and the sinister intentions behind it. He also learns that the children, who are being raised in isolation, are beginning to exhibit strange and unsettling behavior, suggesting that they may not be as controllable as their creators had hoped.\n\nThe film explores themes of science, morality, and the dangers of unchecked technological advancement. Through its narrative, The Damned raises questions about the ethics of scientific experimentation and the consequences of playing God with human life. The film's atmospheric tension and sense of foreboding create a sense of unease, as the audience is left to ponder the implications of the events unfolding on screen.\n\nThe Damned is a thought-provoking and unsettling film that explores the darker aspects of human nature and the consequences of scientific hubris."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "eb53aca5df3251d1a94f362524e27355",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 960.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned\n\n**Year:**\n\n1963",
+    "include_year": false
+}

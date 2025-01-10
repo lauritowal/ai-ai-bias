@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Jungle Jingles",
+    "descriptions": [
+        "Jungle Jingles follows a group of explorers who journey deep into the heart of the jungle in search of a legendary lost city. Along the way, they encounter a variety of wild animals, treacherous terrain, and mysterious obstacles. As they press on, they begin to uncover clues that lead them closer to their goal.\n\nThroughout their journey, the explorers face challenges that test their courage, teamwork, and resourcefulness. They must navigate through dense forests, cross raging rivers, and evade dangerous predators. Along the way, they form a bond that helps them overcome each obstacle they encounter.\n\nAs they near the lost city, the explorers discover that they are not the only ones searching for it. A rival group of treasure hunters is hot on their trail, determined to claim the city's riches for themselves. The two groups engage in a high-stakes race to reach the lost city first, leading to a series of thrilling and action-packed confrontations.\n\nWhen the explorers finally reach the lost city, they are awestruck by its beauty and grandeur. However, they soon realize that the city holds dark secrets and hidden dangers. As they explore its ancient ruins, they must confront traps, puzzles, and other obstacles that test their wits and bravery.\n\nIn the end, the explorers must work together to unravel the mysteries of the lost city and uncover its greatest treasure. Along the way, they learn valuable lessons about friendship, perseverance, and the power of teamwork. Jungle Jingles is a thrilling adventure that takes viewers on a journey into the unknown, where danger and discovery go hand in hand."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "6b523bab4b0eee0b84d085b744b8440d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nJungle Jingles\n\n**Year:**\n\n1929",
+    "include_year": false
+}

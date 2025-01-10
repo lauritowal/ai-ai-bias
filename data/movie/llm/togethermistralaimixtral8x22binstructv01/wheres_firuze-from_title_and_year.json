@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Where's Firuze?",
+    "descriptions": [
+        " In the vibrant and bustling city of Istanbul, \"Where's Firuze?\" (2004) unfolds as a heartwarming romantic comedy-drama. The story revolves around the endearing protagonist, Halil, a humble and introverted violin craftsman. Despite his quiet demeanor, Halil's life takes an unexpected turn when he falls head over heels for the enigmatic and alluring Firuze, a beautiful woman he encounters at a local market.\n\nFiruze, a free-spirited artist, captivates Halil with her radiant smile and carefree nature. In a whirlwind romance, they quickly become inseparable, their love story blossoming amidst the historic landmarks and bustling streets of Istanbul. However, their fairytale romance takes a dramatic turn when Firuze suddenly disappears without a trace, leaving Halil utterly heartbroken and confused.\n\nDriven by his unwavering love and determination to find Firuze, Halil embarks on a city-wide search, enlisting the help of quirky characters he meets along the way. As he delves deeper into the mystery of Firuze's disappearance, Halil uncovers a web of secrets that reveal a side of Firuze he never knew. Through this journey, Halil not only discovers the truth about his beloved but also learns about himself and the transformative power of love.\n\n\"Where's Firuze?\" (2004) is a delightful exploration of love, loss, and self-discovery, set against the backdrop of Istanbul's rich cultural tapestry. The film beautifully captures the essence of the city, its people, and the universal quest for true love. With its captivating narrative, charming characters, and unexpected twists, this romantic tale leaves audiences rooting for Halil and eagerly anticipating the resolution of the intriguing mystery that is Firuze's disappearance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "1a9aaf1db5c550f6cdf2fb501638c19c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 329.0 words or less.\n\n---\n\n**Title:**\n\nWhere's Firuze?\n\n**Year:**\n\n2004",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Bone Snatcher",
+    "descriptions": [
+        " In the desolate landscapes of South Africa, a group of researchers and a mysterious drifter, Karl (Ralf Moeller), discover an alien entity that emerges from the depths of the Earth in \"The Bone Snatcher\" (2003). This sci-fi horror film, directed by Jason Wulfsohn, begins when a mining team disappears without a trace. The company sends a geologist, Dr. Zack Straker (Scott Bairstow), to investigate, accompanied by a motley crew of experts.\n\nAs the team ventures into the desert, they stumble upon Karl, a loner who claims he has encountered a terrifying creature. Ignoring his warnings, the group continues their search for the lost miners, who are eventually found dead, their skeletons eerily intact. The team realizes that the creature, the eponymous Bone Snatcher, extracts and consumes human bones, leaving the flesh behind.\n\nAs the creature picks off members of the team one by one, the survivors must band together and use their knowledge of the desert to outsmart the monster. Along the way, they discover that the Bone Snatcher is an ancient alien entity that has been dormant for centuries, awakened by the mining activities.\n\nIn a desperate final standoff, Karl and Dr. Straker devise a plan to lure the creature into a trap, using a combination of explosives and Karl's intimate knowledge of the beast. The film culminates in a climactic battle, testing the limits of human ingenuity and courage against the ravenous alien predator."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "651b1a8f68930e564bc152b1f54f5e3d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+    "include_year": false
+}

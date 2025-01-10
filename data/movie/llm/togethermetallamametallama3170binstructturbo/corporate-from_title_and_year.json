@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Corporate",
+    "descriptions": [
+        "Corporate is a 2006 Indian Marathi-language film directed by Madhur Bhandarkar. The movie explores the cutthroat world of corporate India through the story of two ambitious women, Nishigandha (played by Bipasha Basu) and Seema (played by Kay Kay Menon's character's love interest, played by Minissha Lamba).\n\nNishigandha, a high-flying executive at the pharmaceutical company Seemantine, is determined to reach the top of the corporate ladder. She has an affair with her boss, Vinay Sehgal (played by Kay Kay Menon), who is married. As Nishigandha climbs up the ranks, she faces stiff competition from her colleague, Seema.\n\nThroughout the film, the characters' personal lives become intertwined with their professional ambitions, leading to complications and power struggles. The movie portrays the darker side of corporate India, revealing the ruthless and manipulative tactics used by executives to advance their careers.\n\nAs Nishigandha and Seema engage in a battle for supremacy, the film raises questions about the cost of success and the morality of the corporate world. The characters must navigate complex relationships, office politics, and their own personal demons in order to achieve their goals.\n\nUltimately, Corporate is a gripping drama that provides a candid look at the inner workings of corporate India, highlighting the high stakes and cutthroat competition that define the industry. The film's portrayal of ambitious women in a male-dominated world adds a unique perspective to the narrative, making it a thought-provoking and engaging watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "39e1085821db9c600d1615eb3aa621c2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 524.0 words or less.\n\n---\n\n**Title:**\n\nCorporate\n\n**Year:**\n\n2006",
+    "include_year": false
+}

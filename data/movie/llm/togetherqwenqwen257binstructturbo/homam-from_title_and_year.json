@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Homam",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Homam,\" released in 2008, is a poignant Iranian drama that delves into the complex dynamics of family and identity. The film centers around Homam, a young man grappling with his cultural heritage and his emerging sexual identity. Born into a traditional Iranian family in Tehran, Homam finds himself at odds with the societal norms and expectations placed upon him. As he navigates the challenges of coming out to his conservative family, he must also confront his own feelings and desires.\n\nThe story unfolds over a tense period as Homam tries to reconcile his inner self with the external pressures of his family and community. Through a series of intimate conversations and encounters, we see Homam's struggle to find acceptance, not just from his family but also from himself. The film beautifully captures the emotional journey of a young man seeking authenticity in a world that often demands conformity.\n\n\"Homam\" is a profound exploration of love, acceptance, and the struggle for self-discovery in a culturally rich yet restrictive environment. It resonates with themes of identity, family, and the universal quest for understanding and validation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "19ac69ea77b4f2a00b33a61ec0f0edf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nHomam\n\n**Year:**\n\n2008",
+    "include_year": false
+}

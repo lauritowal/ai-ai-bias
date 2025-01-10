@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Mad Magician",
+    "descriptions": [
+        "In the 1954 film \"The Mad Magician,\" Michael Brandon, a former magician and a struggling artist, seeks revenge against Vincent Price's character, Basil Whitney, a former magician and a theatrical producer, who had humiliated him in the past. Brandon disguises himself as a magician named Phillip, identical to Whitney, to get close to his target and exact revenge.\n\nAs Phillip, Brandon gains Whitney's trust and becomes a master of deception, leading to a series of terrifying events. The film is a psychological thriller that delves into the themes of identity, deception, and the blurred lines between reality and illusion.\n\nAs the story unfolds, it becomes increasingly difficult to distinguish between the real Brandon and his alter ego, Phillip. The film's climax features a thrilling finale that exposes the truth behind the dual identities and the motivations of the characters. Vincent Price delivers a memorable performance as the enigmatic and sinister Basil Whitney, while Richard Basehart plays the complex and conflicted Michael Brandon. The film's direction by John Brahm adds to the tension and suspense, making \"The Mad Magician\" a classic thriller of the 1950s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "40819b90febcbfa30a2135d948e5c092",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nThe Mad Magician\n\n**Year:**\n\n1954",
+    "include_year": false
+}

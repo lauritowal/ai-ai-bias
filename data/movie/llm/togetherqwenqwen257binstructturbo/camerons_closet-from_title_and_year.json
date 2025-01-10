@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cameron's Closet",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Cameron's Closet\" (1988) is a coming-of-age drama that explores the life of Cameron Green, a thirteen-year-old boy dealing with his father's sudden and mysterious disappearance. Set in an idyllic suburban neighborhood, the film weaves themes of family, friendship, and self-discovery through Cameron's eyes.\n\nCameron lives with his mother, Sarah, and his younger sister, Ellie, in a comfortable but somewhat stifling home. His father, Robert, an ambitious businessman, has been absent for weeks, leaving behind only a cryptic note. As Cameron navigates his daily life, he finds solace in his father's old closet, which he transforms into his sanctuary. This space becomes a metaphor for the emotional void his father's absence has created.\n\nCameron's best friend, Jason, and his sister, Lisa, become his support system, helping him cope with the changes at home. As they spend more time together, Cameron and Lisa's relationship blossoms, adding a layer of complexity to the story. Their growing connection is both a source of happiness and internal conflict, as Cameron struggles with his feelings and fears of losing his innocence.\n\nMeanwhile, Cameron's mother is forced to confront her own demons and the reality of life without her husband's financial support. She takes on a job and embarks on a journey to discover the truth about Robert's disappearance. This revelation changes the family dynamics and Cameron's perception of his father.\n\nThe climax of the film sees Cameron confronting his mother about the truth, leading to a pivotal moment of understanding and forgiveness. The story culminates with Cameron finally opening his father's closet, revealing a secret that alters his perspective on life, love, and the importance of family.\n\n\"Cameron's Closet\" is a heartwarming yet poignant tale that captures the essence of adolescence and the resilience of the human spirit in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9b62d3d490eee066c71aa9d5a7a69e5c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 540.0 words or less.\n\n---\n\n**Title:**\n\nCameron's Closet\n\n**Year:**\n\n1988",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tango",
+    "descriptions": [
+        "Tango is a 1998 Argentine drama film directed by Carlos Saura. The film is a fictionalized account of the life of renowned tango composer and bandoneón player, Carlos Gardel, and the development of tango music in the 1920s in Buenos Aires. \n\nMario Suarez (played by Miguel Ángel Solá) is a middle-aged film director who becomes obsessed with making a film about the tango. As he delves deeper into the world of tango, he becomes infatuated with Elena (played by Cecilia Narova), a beautiful dancer.\n\nThe film jumps between the present and the past, showcasing the origins of tango music. Mario's fascination with tango becomes all-consuming, leading him to abandon his film and instead focus on a live tango performance.\n\nTango blends stunning dance sequences with poignant drama, exploring the themes of creativity, love, and the enduring power of music. The film features impressive choreography and captures the spirit of tango, showcasing its intricate rhythms and expressive movements."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6d8481f5b2978e83569dfeae6fea9b4e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cats & Dogs",
+    "descriptions": [
+        "'Cats & Dogs' is a 2001 family comedy film directed by Lawrence Guterman. The movie revolves around a secret war between cats and dogs that has been ongoing for centuries, with each side utilizing advanced technology and espionage tactics.\n\nThe story begins with a look at the lives of ordinary household pets, but beneath the surface, it is revealed that cats and dogs are engaged in a high-stakes battle for supremacy. The main characters include Lou, a beagle who discovers the existence of this war, and Mr. Tinkles, a diabolical white cat who seeks to overthrow the canine dominance.\n\nAs the plot unfolds, Lou teams up with Butch, a street-smart dog, and a team of canine agents to thwart Mr. Tinkles' plan to steal a formula that makes dogs allergic to their owners. The cats, led by Mr. Tinkles, plan to use this formula to create chaos and establish feline dominance.\n\nThe movie features a mix of live-action and CGI animation, with the animal characters often exhibiting human-like abilities and behaviors. The film's action-packed sequences and comedic moments make it an entertaining watch for both children and adults.\n\nUltimately, Lou and his canine allies succeed in stopping Mr. Tinkles and saving the world from feline domination, restoring the delicate balance between cats and dogs. The movie ends on a lighthearted note, with the pets returning to their ordinary lives, but with a newfound appreciation for the secret world that exists beneath their owners' noses."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "449e7b83d39b55337a9308b8b937b12b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1132.0 words or less.\n\n---\n\n**Title:**\n\nCats & Dogs\n\n**Year:**\n\n2001",
+    "include_year": false
+}

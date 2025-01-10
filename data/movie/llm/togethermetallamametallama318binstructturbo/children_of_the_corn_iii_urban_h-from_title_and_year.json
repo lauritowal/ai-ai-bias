@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Children of the Corn III: Urban Harvest",
+    "descriptions": [
+        "\"Children of the Corn III: Urban Harvest\" is a 1995 American supernatural horror film directed by Lawrence Dane and the third installment in the \"Children of the Corn\" franchise. The movie is a direct-to-video release.\n\nThe story takes place in an urban setting, in a city where a charismatic and mysterious preacher named John (played by Daniel Chaim) arrives, spreading his message of a new era of peace and prosperity. John is revealed to be the successor to the corn spirit, Malachiah, who is the central deity of the series.\n\nAs John's influence grows, he begins to gather a group of young followers who are drawn to his message of a utopian society where the weak are protected and the strong are punished. However, beneath the surface, John's true intentions are sinister. He has a vision of a world where children are the dominant force, and adults are seen as inferior.\n\nA young couple, Julie (played by Josh Lucas's sister, Kelly Rowan) and her boyfriend, become entangled in John's web of deceit when they discover that the preacher's followers are secretly gathering children from the city's streets to use as vessels for the corn spirit.\n\nAs the relationship between the couple and John's followers deteriorates, Julie and her boyfriend realize that they must escape the clutches of the charismatic preacher and his followers before it's too late. Along the way, they uncover the dark secrets behind John's true intentions and the sinister plot to harvest the children for the corn spirit.\n\nThe movie explores themes of cult behavior, child abuse, and the dangers of blind obedience. The film features a mix of suspense, horror, and supernatural elements, which are characteristic of the \"Children of the Corn\" franchise.\n\n\"Children of the Corn III: Urban Harvest\" is not as well-regarded as some of the other films in the series, but it still offers a unique take on the cult classic themes and provides a chilling portrayal of a charismatic preacher's descent into madness. The movie's urban setting and the darker tone of the story make it a standout in the franchise."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "884ded7469d08eb11627f6108eaaacd3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 627.0 words or less.\n\n---\n\n**Title:**\n\nChildren of the Corn III: Urban Harvest\n\n**Year:**\n\n1995",
+    "include_year": false
+}

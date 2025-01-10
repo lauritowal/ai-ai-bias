@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Detonator",
+    "descriptions": [
+        "The Detonator is a 2006 action-thriller film. The movie follows Nick Chetwynd (played by Dolph Lundgren), a former SAS operative who returns to England to help a friend's sister. Upon his return, Nick gets caught up in a terrorist plot to cause a massive explosion in a crowded shopping mall on the day before Christmas.\n\nAs the threat of a massive explosion unfolds, Nick must confront his troubled past and use his skills to save the day. With the help of his friend's sister, a journalist, and the local police, Nick must work against time to uncover the identity of the terrorist and prevent the impending disaster.\n\nThe Detonator is a high-octane, action-packed film with plenty of explosions, shootouts, and hand-to-hand combat. The movie follows a familiar plot, but Dolph Lundgren's charisma and the film's high energy help to make it an entertaining watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "c32b501ee1d9a114e3121fb32c9a718a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nThe Detonator\n\n**Year:**\n\n2006",
+    "include_year": false
+}

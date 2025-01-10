@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Sebastian Star Bear: First Mission",
+    "descriptions": [
+        "In the movie \"Sebastian Star Bear: First Mission,\" we are introduced to a young bear named Sebastian who lives in a small village on the planet of Ursidae. Sebastian dreams of becoming a space explorer and following in the footsteps of his hero, Captain Grizzly. Despite his small size and lack of experience, Sebastian is determined to prove himself and make a difference in the universe.\n\nOne day, an unexpected opportunity arises when an alien spacecraft crash-lands near Sebastian's village. The pilot, a friendly alien named Zara, explains that she is on a mission to deliver an important message to the Galactic Council about an impending threat to the planet Earth. However, Zara is injured and unable to continue her journey. With time running out, Sebastian volunteers to take Zara's place and deliver the message himself.\n\nDespite his lack of training and experience, Sebastian is given a spaceship and sent off on his first mission. Along the way, he faces numerous challenges and obstacles, including navigating through asteroid fields, evading enemy ships, and outsmarting cunning space pirates. With the help of his quick wit, bravery, and determination, Sebastian manages to overcome these obstacles and reach the Galactic Council in time to deliver Zara's message.\n\nThe message reveals that a powerful alien warlord known as Darkclaw is planning to invade and conquer Earth. The Galactic Council is shocked by this news and immediately mobilizes their forces to defend the planet. Sebastian, feeling a sense of accomplishment and pride, returns to Ursidae as a hero and is hailed as a symbol of courage and determination.\n\nAs the movie comes to a close, Sebastian is offered a position as a space explorer and is given the opportunity to join Captain Grizzly on his next mission. Sebastian eagerly accepts the offer, eager to continue his adventures in space and make a difference in the universe.\n\n\"Sebastian Star Bear: First Mission\" is a heartwarming tale of courage, friendship, and the power of believing in oneself. It teaches us that no matter how small or inexperienced we may be, we have the ability to achieve great things if we dare to dream and never give up."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "2161afbf04307680648f0b682e7dd848",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1096.0 words or less.\n\n---\n\n**Title:**\n\nSebastian Star Bear: First Mission\n\n**Year:**\n\n1991",
+    "include_year": false
+}

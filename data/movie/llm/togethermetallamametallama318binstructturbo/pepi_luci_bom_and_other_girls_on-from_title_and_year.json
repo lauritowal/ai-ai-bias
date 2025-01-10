@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pepi, Luci, Bom and Other Girls on the Heap",
+    "descriptions": [
+        "Pepi, Luci, Bom and Other Girls on the Heap is a 1980 Spanish film directed by Carlos Saura. The movie is a surrealist drama that follows Pepi, a vibrant and energetic woman living in a small Spanish town. \n\nThe narrative is presented as a series of vignettes, dream-like sequences, and fragmented memories, which blur the lines between reality and fantasy. This non-linear storytelling style allows the audience to piece together the story alongside Pepi, as she navigates her life and relationships.\n\nPepi is a free-spirited woman who lives with her mother, Luci. Their lives are marked by poverty, isolation, and a deep sense of disconnection from the world around them. Pepi's mother is a complex figure, both mysterious and cruel, who seems to be hiding secrets from her daughter.\n\nAs the story unfolds, Pepi's life becomes increasingly intertwined with that of Bom, a beautiful and enigmatic woman who is part of a traveling circus troupe. The two women form a deep connection, which is both romantic and platonic. Bom's presence in Pepi's life sparks a sense of excitement and possibility, but also threatens the stability of her relationship with her mother.\n\nThroughout the film, Saura uses a range of visual and narrative techniques to create a dream-like atmosphere. The use of vibrant colors, complex camera movements, and non-sequitur plot twists all contribute to a sense of disorientation and uncertainty.\n\nOne of the key themes of the film is the relationship between women, particularly in a patriarchal society. Saura explores the ways in which women are often marginalized, objectified, and controlled by the men in their lives. Pepi and Bom's relationship is a powerful example of female desire and intimacy, which is both beautiful and rebellious.\n\nUltimately, Pepi, Luci, Bom and Other Girls on the Heap is a film that resists easy interpretation or summary. It is a complex, challenging work that rewards close attention and multiple viewings. Saura's use of surrealist techniques and non-linear storytelling creates a sense of uncertainty, which is both disorienting and liberating."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "e662d5db2dfd4bcc93eaba6185eade0c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 581.0 words or less.\n\n---\n\n**Title:**\n\nPepi, Luci, Bom and Other Girls on the Heap\n\n**Year:**\n\n1980",
+    "include_year": false
+}

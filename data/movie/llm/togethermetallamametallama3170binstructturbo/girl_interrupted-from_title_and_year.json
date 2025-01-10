@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Girl, Interrupted",
+    "descriptions": [
+        "Girl, Interrupted is a 1999 American psychological drama film directed by James Mangold. The movie is based on Susanna Kaysen's 1993 semi-autobiographical novel of the same name. \n\nThe film follows Susanna Kaysen (played by Winona Ryder), a teenager struggling to cope with the societal expectations of the 1960s. After a suicide attempt and a visit to her psychiatrist, Dr. Wick, she is diagnosed with borderline personality disorder and admitted to a psychiatric hospital.\n\nAt Claymoore Hospital, Susanna meets a diverse group of patients, including a sociopathic and charismatic patient named Lisa (played by Angelina Jolie). Lisa has a profound impact on Susanna's life and challenges her perceptions about herself and her place in society.\n\nThroughout the film, Susanna undergoes various therapies and treatments, trying to understand her diagnosis and navigate her relationships with the other patients. As she forms close bonds with some of the patients, including Georgina (played by Clea DuVall), Polly (played by Elisabeth Moss), and Daisy (played by Brittany Murphy), she begins to question the true nature of her diagnosis and the restrictive environment of the hospital.\n\nMeanwhile, Susanna's relationships with her family members, including her parents and boyfriend, Toby, are explored. Her experiences at the hospital lead to a deeper understanding of herself and her place in the world.\n\nThe film's climax revolves around a pivotal event involving Lisa, which results in Susanna's realization that she needs to take control of her own life. Ultimately, Susanna decides to leave the hospital, symbolizing her growth and newfound understanding of herself.\n\nGirl, Interrupted explores themes of identity, mental illness, and female empowerment, raising questions about the societal expectations placed on women during the 1960s and the limitations of the psychiatric care system at that time."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8e7e11faf1a6c5a78022a394b2d7d6c2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 849.0 words or less.\n\n---\n\n**Title:**\n\nGirl, Interrupted\n\n**Year:**\n\n1999",
+    "include_year": false
+}

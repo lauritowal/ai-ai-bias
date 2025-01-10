@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mogambo",
+    "descriptions": [
+        "\"Mogambo\" is a 1953 adventure drama film that follows the story of a group of characters who find themselves entangled in a complicated love triangle in the African wilderness. The film begins with a love affair between Victor Marswell, a rugged big-game hunter played by Clark Gable, and Eloise Kelly, a beautiful socialite portrayed by Ava Gardner. However, their relationship is put to the test when a young anthropologist named Donald Nordley, played by Grace Kelly, arrives on the scene to study the gorillas in the area.\n\nAs tensions rise between the three characters, they must navigate their emotions and desires while also dealing with the dangers of the African wilderness. Victor finds himself torn between his feelings for Eloise and his growing attraction to Donald, while Eloise struggles to come to terms with her own conflicting emotions. Meanwhile, Donald is caught in the middle, trying to balance his professional responsibilities with his budding romance with Victor.\n\nThe situation becomes even more complicated when the group encounters a tribe of hostile natives, forcing them to rely on each other for survival. As they face danger and uncertainty, the characters are forced to confront their true feelings and make difficult decisions about their futures.\n\nThroughout the film, themes of love, jealousy, and betrayal are explored as the characters grapple with their emotions and the challenges of the African wilderness. The stunning cinematography captures the beauty and danger of the landscape, adding to the tension and drama of the story.\n\nIn the end, the characters must confront the consequences of their actions and decide what truly matters to them. \"Mogambo\" is a gripping tale of love and survival set against the backdrop of the African wilderness, showcasing the talents of its talented cast and crew."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a5b4e9db3669d3a0cad74fef5cad2741",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 342.0 words or less.\n\n---\n\n**Title:**\n\nMogambo\n\n**Year:**\n\n1953",
+    "include_year": false
+}

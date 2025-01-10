@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Case of Rape",
+    "descriptions": [
+        "\"A Case of Rape,\" released in 1974, is a tense and provocative legal drama that delves into the complexities of rape and the justice system. The film follows the life of Sarah, a young woman who is raped by a group of men at a party. Believing she is pregnant, Sarah becomes pregnant and decides to sue the men for wrongful pregnancy, a novel and controversial legal claim at the time. The case garners significant media attention and becomes a high-stakes trial, not just for Sarah but for the entire community. As the trial unfolds, Sarah must confront her accusers, her own trauma, and the societal attitudes towards rape and sexuality. The movie explores themes of justice, victim-blaming, and the struggle for legal and societal change in the face of deeply rooted prejudices."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "6a86e493dccbc8de901a3b12de7aa7f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 333.0 words or less.\n\n---\n\n**Title:**\n\nA Case of Rape\n\n**Year:**\n\n1974",
+    "include_year": false
+}

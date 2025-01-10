@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Papillon",
+    "descriptions": [
+        "'Papillon' is a 1973 American drama film directed by Franklin J. Schaffner, based on the 1969 autobiographical novel 'Papillon' by Henri Charrière. The film stars Steve McQueen and Dustin Hoffman.\n\nThe story revolves around Henri 'Papillon' Charrière (played by Steve McQueen), a French safecracker who is wrongfully convicted of murder and sentenced to life imprisonment on Devil's Island, a notorious French penal colony off the coast of South America. Determined to escape, Papillon befriends a fellow prisoner, Louis Dega (played by Dustin Hoffman), a wealthy counterfeiter who becomes his ally in his multiple attempts to break free.\n\nThroughout the film, Papillon repeatedly tries to escape, facing numerous challenges, brutal treatment from the prison authorities, and harsh living conditions. Each failed attempt leads to severe punishment, including solitary confinement and physical torture. However, Papillon's unyielding spirit and determination to regain his freedom drive him to continue trying.\n\nAs the years pass, Papillon and Dega develop a deep bond, with Dega providing financial support and Papillon offering protection. The two men work together to devise elaborate escape plans, often relying on their resourcefulness and cunning to evade capture.\n\nThe film is a testament to Papillon's resilience and his unrelenting pursuit of freedom. Despite the hardships he faces, he never loses hope and continues to dream of a life beyond the confines of the prison. Ultimately, Papillon's perseverance pays off, and he successfully escapes from Devil's Island, bringing an end to his long and arduous journey.\n\n'Papillon' is a gripping drama that explores themes of hope, freedom, and the human spirit. With outstanding performances from Steve McQueen and Dustin Hoffman, the film is a powerful tribute to the real-life story of Henri Charrière, who eventually escaped from Devil's Island and went on to write about his experiences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "f7941e4af8a9837c2d1feb3afa97af43",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nPapillon\n\n**Year:**\n\n1973",
+    "include_year": false
+}

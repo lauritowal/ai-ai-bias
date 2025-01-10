@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Journey of Jared Price",
+    "descriptions": [
+        "\"The Journey of Jared Price\" follows the story of a young man named Jared Price who is struggling to come to terms with his sexuality in a conservative small town. Feeling isolated and misunderstood, Jared decides to leave his hometown behind in search of acceptance and self-discovery. Throughout his journey, Jared meets a variety of characters who challenge his beliefs and help him grow as a person.\n\nAs Jared travels across the country, he encounters both acceptance and hostility from different communities. He faces discrimination and prejudice, but also finds support from unexpected allies who show him that there is more to life than the narrow-minded views of his hometown.\n\nAlong the way, Jared also struggles with his own internal conflicts, grappling with feelings of shame and guilt as he tries to navigate his identity in a world that often rejects him. Through his experiences, Jared learns to embrace his true self and find the strength to stand up for who he is, no matter the consequences.\n\nUltimately, \"The Journey of Jared Price\" is a poignant coming-of-age story that explores the challenges and triumphs of self-acceptance in the face of adversity. It is a powerful reminder that love and acceptance can be found in unexpected places, and that true happiness comes from embracing who you are, no matter what others may think."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "eb3da9459c305557c25fbcc2fd867cda",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 287.0 words or less.\n\n---\n\n**Title:**\n\nThe Journey of Jared Price\n\n**Year:**\n\n2000",
+    "include_year": false
+}

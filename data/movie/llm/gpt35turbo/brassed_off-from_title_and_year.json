@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Brassed Off",
+    "descriptions": [
+        "In the small mining town of Grimley, the residents are facing tough times as the local coal mine is set to close down. As the miners struggle to come to terms with the impending loss of their livelihoods, a glimmer of hope comes in the form of the Grimley Colliery Band.\n\nLed by their passionate and dedicated band director, Danny, the band is preparing for the national brass band competition. Despite the challenges they face, including dwindling numbers and lack of funds, the band members pour their hearts and souls into their music as a way to cope with the uncertainty of their future.\n\nAs tensions rise within the community and the band members grapple with personal struggles, including illness, financial hardship, and relationship issues, they find solace and strength in their music. The band becomes a symbol of resilience and unity in the face of adversity, bringing the townspeople together in a shared sense of purpose and pride.\n\nThrough their journey to the national competition, the band members learn valuable lessons about friendship, loyalty, and the power of music to uplift and inspire. Despite the odds stacked against them, they refuse to give up on their dreams, determined to make their mark on the world and prove that even in the darkest of times, there is always hope.\n\nAs the competition draws near, the band must confront their fears and insecurities, pushing themselves to the limit in order to give their best performance. In a stirring and emotional finale, the band delivers a breathtaking performance that captures the hearts of the judges and the audience, showcasing the true spirit and resilience of the people of Grimley.\n\nIn the end, while the future of the coal mine remains uncertain, the band's triumph at the competition serves as a powerful reminder that as long as there is music, there is always a reason to hope and believe in a brighter tomorrow. \"Brassed Off\" is a heartwarming and poignant tale of courage, community, and the enduring power of music to bring people together in times of struggle."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "74068cea740909ea0f30352f482ae36b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 721.0 words or less.\n\n---\n\n**Title:**\n\nBrassed Off\n\n**Year:**\n\n1996",
+    "include_year": false
+}

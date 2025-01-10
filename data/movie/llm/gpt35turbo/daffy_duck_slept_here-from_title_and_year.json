@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daffy Duck Slept Here",
+    "descriptions": [
+        "In \"Daffy Duck Slept Here\" (1948), the iconic Looney Tunes character Daffy Duck finds himself in a series of comedic misadventures when he accidentally falls asleep in an unfamiliar location. As Daffy wakes up in a strange room, he realizes he has no idea where he is or how he got there. Determined to figure out what happened, Daffy sets off on a wild journey to retrace his steps and uncover the truth.\n\nAlong the way, Daffy encounters a variety of colorful characters, including Bugs Bunny, Porky Pig, and Elmer Fudd, who all offer their own unique perspectives on Daffy's predicament. As Daffy's memory slowly starts to return, he begins to piece together the events of the previous night, leading to a hilarious and unexpected conclusion.\n\nFilled with classic Looney Tunes humor and clever wordplay, \"Daffy Duck Slept Here\" is a delightful romp through the zany world of animated comedy. With Daffy Duck at the center of the chaos, audiences are sure to be entertained by his wacky antics and larger-than-life personality."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "571661f1877124420608f05794ed5740",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948",
+    "include_year": false
+}

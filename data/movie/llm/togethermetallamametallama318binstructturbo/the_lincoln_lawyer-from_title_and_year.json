@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Lincoln Lawyer",
+    "descriptions": [
+        "The Lincoln Lawyer is a 2011 American neo-noir crime thriller film directed by Brad Furman and based on the 2005 novel of the same name by Michael Connelly.\n\nThe movie follows the story of defense attorney Mick Haller (played by Matthew McConaughey), a charismatic and unorthodox lawyer who operates out of the back of his Lincoln Town Car, which he uses as a mobile office. Mick specializes in defending high-profile and often guilty clients, taking on cases that other lawyers might shy away from.\n\nOne day, Mick meets Louis Roulet (played by Ryan Phillippe), a young and wealthy real estate agent who has been accused of brutally beating a sex worker, Cameron Lazar (played by Josh Lucas). Roulet is a friend of Mick's and has been a client in the past, so Mick agrees to take on his case.\n\nAs Mick delves deeper into the case, he discovers that Roulet's alibi for the night of the murder is shaky at best, and the evidence against him seems overwhelming. However, Mick is convinced that Roulet is innocent and sets out to prove it.\n\nAs the investigation unfolds, Mick's past begins to catch up with him. He discovers that Roulet is actually a suspect in a previous murder, and that he has been involved in some shady dealings. Mick's investigation also puts him at odds with the prosecution, led by the determined and ambitious prosecutor, Theodora \"Teddy\" Van Hay (played by Marisa Tomei).\n\nDespite his best efforts, Mick finds himself torn between his duty to defend his client and his growing suspicion that Roulet may indeed be guilty. As the trial approaches, Mick's reputation as a lawyer is put to the test, and he must use all his skills and experience to save Roulet from a potentially deadly sentence.\n\nThe Lincoln Lawyer is a gripping and suspenseful thriller that explores the complexities of the law and the moral gray areas that often exist in the world of defense attorneys. With a strong performance from Matthew McConaughey, the movie is a thrilling ride that will keep viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "443105cc171f90876b344694e812cdd6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 664.0 words or less.\n\n---\n\n**Title:**\n\nThe Lincoln Lawyer\n\n**Year:**\n\n2011",
+    "include_year": false
+}

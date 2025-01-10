@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned Thing",
+    "descriptions": [
+        "The Damned Thing is a science fiction horror short film released in 2006, based on a short story by Ambrose Bierce. The film is directed by Adam Gierasch. \n\nThe story revolves around a series of mysterious and gruesome murders that take place in a small town in California. The main suspect is a mysterious and seemingly supernatural creature, which is neither human nor animal. \n\nThe creature's origins are shrouded in mystery, but it is soon revealed that it is a shape-shifting entity that can take on different forms, always adapting to its surroundings. The creature's presence is always accompanied by a strange, eerie glow and a pungent smell.\n\nAs the main characters, including a detective, try to unravel the mystery behind the creature's existence, they are confronted with the reality of the creature's supernatural abilities. \n\nThe creature's attacks are brutal and violent, leaving behind a trail of death and destruction. The film builds up to a thrilling and intense finale, as the characters try to confront the creature and put an end to its reign of terror.\n\nThe Damned Thing is a tense and suspenseful horror film that explores the themes of identity, existence, and the unknown. The film's use of practical effects and eerie atmosphere creates a sense of unease and fear, making it a compelling watch for fans of the horror genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "31c2868a37d5b8d6257d261efb59ee65",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 310.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned Thing\n\n**Year:**\n\n2006",
+    "include_year": false
+}

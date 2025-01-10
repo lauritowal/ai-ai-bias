@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Whistle Blower",
+    "descriptions": [
+        "The Whistle Blower is a 1986 British drama film directed by Simon Langton. The movie is based on the 1985 novel of the same name by John Hale. The story revolves around a former army intelligence officer, Frank Jones, who seeks to uncover the truth about his son Bob's mysterious death.\n\nFrank Jones (played by Michael Caine), a retired intelligence officer, discovers his son has been killed under unclear circumstances while working for the British government. After being met with silence and dismissals by the authorities, Frank starts investigating on his own to find answers.\n\nHis inquiries lead him to a government cover-up surrounding a mole within the British intelligence services. Frank navigates a treacherous web of espionage and government corruption to expose the truth, putting his own life at risk.\n\nAs Frank delves deeper into the mystery, he uncovers evidence that suggests his son may have been close to uncovering the mole before his death. The government is desperate to conceal this information, and Frank must use his own intelligence skills to evade capture and continue his pursuit of justice.\n\nThroughout his investigation, Frank is aided by a few trusted allies who share his determination to bring the truth to light. However, the government will stop at nothing to silence him.\n\nThe Whistle Blower is a gripping drama that explores themes of government corruption, loyalty, and personal sacrifice. With its expertly crafted plot and outstanding performances, the film is a tribute to those who risk everything to expose the truth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "423e1d1dc3dc4ded287e9fee782c1218",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 846.0 words or less.\n\n---\n\n**Title:**\n\nThe Whistle Blower\n\n**Year:**\n\n1987",
+    "include_year": false
+}

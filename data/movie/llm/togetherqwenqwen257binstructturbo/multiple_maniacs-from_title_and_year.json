@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Multiple Maniacs",
+    "descriptions": [
+        "**Title: Multiple Maniacs**\n\n**Year: 1970**\n\n**Plot Summary:**\n\nIn the 1970 film \"Multiple Maniacs,\" directed by Robert Day, the story unfolds in a small Pennsylvania town where a series of bizarre and unsettling events begin to unfold. The film's protagonist, Mary Corbin, a shy and introverted young woman, becomes increasingly agitated as strange occurrences plague her and her community. These events include unexplained noises, unidentifiable objects appearing in her home, and a pervasive sense of unease that permeates the town.\n\nThe story delves into the psychological and social dynamics of the town, revealing that many of the residents have repressed or forgotten traumas. As Mary delves deeper into the mystery, she uncovers a dark secret: the town is home to a cult that practices a form of mind control and mental manipulation on its members. The cult leader, a charismatic but deeply disturbed individual, has been using psychological manipulation and repeated trauma to create a community of \"maniacs,\" each under a different spell.\n\nMary, with the help of a local detective, tries to unravel the cult's influence and bring light to the dark practices. The film explores themes of conformity, mental health, and the power of suggestion, as Mary grapples with her own sanity and the reality of the cult's influence. As the truth comes to light, the film takes a thrilling and suspenseful turn, with both the cult members and the townspeople caught in a web of psychological warfare.\n\nThe climax sees Mary and the detective confronting the cult leader, who reveals the extent of his manipulation and the extent to which he has controlled the lives of the townspeople. In a tense and dramatic finale, Mary must choose between breaking free from the cult's influence and saving her community, or succumbing to the same mental manipulation that has driven the town to madness.\n\n\"Multiple Maniacs\" is a haunting and thought-provoking exploration of the human mind and the power of suggestion, set against the backdrop of a small American town in the early 1970s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "cb26f58888eaa897ce87dba4e283a5b8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 451.0 words or less.\n\n---\n\n**Title:**\n\nMultiple Maniacs\n\n**Year:**\n\n1970",
+    "include_year": false
+}

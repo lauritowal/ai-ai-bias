@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Samson",
+    "descriptions": [
+        "'Samson' is a 1961 historical drama film directed by Gregory Todd. The movie is loosely based on the biblical story of Samson (Judges 13:2-16:31). The film stars George Nader in the title role.\n\nThe story follows Samson, a young and powerful Israelite warrior with long hair that symbolizes his divine strength. Samson is an outcast among his people due to his unusual appearance and behavior. However, he finds acceptance with a group of fellow outcasts and becomes a key figure in their rebellion against the oppressive Philistine regime.\n\nAs Samson navigates his newfound role, he falls in love with a Philistine woman named Delilah. Unbeknownst to Samson, Delilah is a spy for the Philistines, tasked with discovering the secret to his incredible strength. Despite his trust issues, Samson confides in Delilah, revealing that his strength comes from his uncut hair.\n\nDelilah, however, betrays Samson's trust by cutting his hair while he is asleep, rendering him powerless. The Philistines capture and imprison Samson, who is subjected to various forms of torture and humiliation. In a final act of defiance, Samson pushes the temple pillars, killing himself and many Philistines.\n\nThe film takes creative liberties with the biblical story, emphasizing Samson's struggles with his identity and his battle against the oppressive forces of the Philistines. Despite its deviations from the original narrative, 'Samson' remains a compelling and visually striking retelling of a classic biblical tale."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+    "include_year": false
+}

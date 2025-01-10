@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Miracle Man",
+    "descriptions": [
+        "\"The Miracle Man\" is a 1919 American silent drama film directed by George Loane Tucker. The plot revolves around a group of con artists, led by \"The Patriarch\" (played by E. Alyn Warren), who pose as faith healers to deceive and exploit people seeking miracles and cures.\n\nThe main character, Tom Burke (played by Thomas Meighan), is a young man who becomes disillusioned with the group's tactics and their treatment of desperate people. Burke decides to leave the group, but they threaten to expose his past unless he participates in one final scheme.\n\nThe group targets a wealthy blind girl, who is desperate to regain her sight. The Patriarch and his accomplices plan to stage a fake miracle, but things take a turn when Burke begins to develop feelings for the girl. Torn between his loyalty to the group and his newfound affection, Burke must decide whether to follow his conscience or continue with the scam.\n\nAs the story unfolds, Burke's character undergoes a transformation, and he finds redemption by making amends for his past wrongdoings. The film features a mix of drama, romance, and social commentary, highlighting the dangers of false promises and the exploitation of vulnerable individuals. \"The Miracle Man\" is considered a classic of the silent era, known for its engaging storyline and memorable performances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b59190dc96728848f2a5bf9c0b6ad920",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 316.0 words or less.\n\n---\n\n**Title:**\n\nThe Miracle Man\n\n**Year:**\n\n1919",
+    "include_year": false
+}

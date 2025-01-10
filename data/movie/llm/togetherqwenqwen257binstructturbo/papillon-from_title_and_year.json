@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Papillon",
+    "descriptions": [
+        "**Plot Summary of Papillon (1973)**\n\nPapillon, released in 1973, is a gripping and dramatic film based on the memoirs of Henri Charrière, a French convict. The movie, directed by Franklin J. Schaffner, tells the tale of the unlikely friendship between two prisoners, Papillon (Steve McQueen) and Anglisse (Leslie Nielsen), who are serving time in a harsh French Guiana penal colony in the 1930s.\n\nPapillon, a charming pickpocket, is sentenced to life for a crime he claims he didn’t commit. Anglisse, also known as \"the Bird Man,\" is a respected and skilled surgeon who, unbeknownst to Papillon, is a political prisoner. Despite their vastly different backgrounds and experiences, the two men form a bond and embark on a daring escape from the notorious Devil's Island. Their plan involves faking death and assuming new identities, but their attempts are thwarted by the relentless and brutal guards.\n\nUndeterred, Papillon and Anglisse continue their fight for freedom, facing numerous challenges and setbacks. They encounter a series of corrupt officials, dangerous criminals, and unexpected allies as they navigate the treacherous landscape of French Guiana. Along the way, Papillon falls in love with a beautiful local woman named Corazon (Diana Rigg), adding a layer of personal drama to his already challenging journey.\n\nThe film explores themes of hope, friendship, and the human spirit's resilience in the face of adversity. Despite the harsh realities of their imprisonment, Papillon and Anglisse maintain their sense of humanity and determination to break free from their chains. Their journey is filled with moments of both humor and heartache, as they struggle to survive and find a way to escape the clutches of the penal system.\n\nPapillon's story is ultimately one of perseverance and the power of the human spirit, as he and Anglisse fight against all odds to reclaim their freedom and achieve their dreams. The film culminates in a dramatic and emotional climax that showcases the enduring strength and commitment of their friendship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "f7941e4af8a9837c2d1feb3afa97af43",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nPapillon\n\n**Year:**\n\n1973",
+    "include_year": false
+}

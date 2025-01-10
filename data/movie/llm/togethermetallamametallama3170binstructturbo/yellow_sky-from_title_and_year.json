@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Yellow Sky",
+    "descriptions": [
+        "\"Yellow Sky\" is a 1948 American Western film directed by William A. Wellman, based on a story by W.R. Burnett. The movie takes place in the 1860s and follows a band of notorious bank robbers, led by James 'Stretch' Dawson (Gregory Peck), who are on the run after a heist in a small town.\n\nAfter the robbery, Stretch and his gang - consisting of Walrus (Charles Kemper), Half Pint (Robert Arthur), Dude (Richard Widmark), and Bull Run (Henry Morgan) - flee to the desert, searching for a place to hide and divide their loot. They stumble upon the ghost town of Yellow Sky, which appears to be uninhabited, but they soon discover that the town is occupied by a young woman named Mike (Anne Baxter) and her grandfather, Prospector (James Barton).\n\nAs the outlaws settle in, they begin to clash over their intentions, with some wanting to take the women hostage and others wanting to leave them unharmed. Stretch, who has begun to develop feelings for Mike, finds himself at odds with Dude, who is ruthless and violent. As tensions rise, the group's dynamics begin to unravel, and the true nature of the outlaws is revealed.\n\nMeanwhile, a posse is closing in on the gang, and Stretch must decide whether to protect Mike and her grandfather or save his own skin. As the situation escalates, Stretch and his gang are forced to confront their own morality and the consequences of their actions.\n\n\"Yellow Sky\" is a tense and gripping Western that explores themes of redemption, violence, and the human condition. The film features strong performances from its cast, particularly Gregory Peck and Richard Widmark, who bring depth and nuance to their characters. The movie's cinematography, shot on location in California's Lone Pine, adds to the film's harsh and unforgiving atmosphere, making \"Yellow Sky\" a classic Western that remains engaging and thought-provoking to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7f25b68064ee0fc036e936a24856221c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 412.0 words or less.\n\n---\n\n**Title:**\n\nYellow Sky\n\n**Year:**\n\n1948",
+    "include_year": false
+}

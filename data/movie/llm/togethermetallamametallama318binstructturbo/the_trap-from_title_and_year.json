@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trap",
+    "descriptions": [
+        "The Trap is a 1966 British thriller film directed by Sidney Hayers. The movie follows the story of a group of people who are trapped in a remote cottage in the English countryside.\n\nThe story begins with a group of four friends, including American artist Julia (OLivia de Havilland), who is on a working holiday, her husband Mark (Nigel Green), a mystery novelist, and their friends, Louise (Stephanie Powers) and her boyfriend, Mark's friend, and sailor, Kevin (Ronnie Stevens) and Mike (Frank Finlay) who is Mark's brother. The group decides to spend some time in a remote cottage in the countryside, away from the hustle and bustle of city life.\n\nHowever, their peaceful retreat is short-lived, as the group soon realizes that they are trapped in the cottage, with no way to escape. The doors and windows are locked from the outside, and no one seems to be around to help them.\n\nAs the group tries to figure out who has trapped them and why, they begin to turn on each other. Tensions rise, and old rivalries and resentments come to the surface. The group's dynamics are put to the test as they try to survive and find a way out of their predicament.\n\nAs the situation becomes more desperate, the group discovers that they are not alone in the cottage. A mysterious figure is lurking in the shadows, watching them and manipulating them. The group's fears and paranoia are fueled by the figure's presence, and they begin to suspect that one of their own is behind the trap.\n\nThe Trap is a tense and suspenseful thriller that keeps viewers on the edge of their seats. With its twisty plot and complex characters, the movie is a gripping exploration of human psychology and the darker aspects of human nature. The film's atmospheric setting and direction add to the tension, creating a sense of claustrophobia and unease.\n\nThe movie features a strong cast, including Olivia de Havilland, Nigel Green, and Frank Finlay, who bring depth and nuance to their characters. The film's climax is both shocking and surprising, making it a memorable and thought-provoking watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "16bb68c5850b094c416c92d2ad98ac8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 588.0 words or less.\n\n---\n\n**Title:**\n\nThe Trap\n\n**Year:**\n\n1966",
+    "include_year": false
+}

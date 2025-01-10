@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daivanamathil",
+    "descriptions": [
+        "\"Daivanamathil\" (English: \"The God's Land\") is a 2005 Indian Malayalam-language drama film directed by Sanjeev. The movie revolves around two brothers, Ravi (played by Suresh Gopi) and Rameshan (played by Dileep), who share a close bond despite their vastly different lifestyles.\n\nRavi is a police officer who lives with his family in a peaceful environment, whereas Rameshan is a carefree and adventurous individual who moves from place to place in search of new experiences. The brothers were separated at a young age due to their mother's death, and they have been searching for each other ever since.\n\nThe story takes an interesting turn when Ravi, who is in a coma, has a vision of his childhood with Rameshan. This vision sets him on a quest to find his long-lost brother. As the search unfolds, both brothers grow closer to each other, confronting their past and the harsh realities of their lives.\n\nThe film explores themes of love, family, and the complexities of human relationships. With a strong supporting cast, including Meena and Thilakan, \"Daivanamathil\" is a heartwarming drama that delves into the emotional depths of two brothers' lives. The movie is a poignant portrayal of the power of love and the importance of family ties, making it a compelling watch for Malayalam film enthusiasts."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "632ce75844ddbfb9ea3530b771c305e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nDaivanamathil\n\n**Year:**\n\n2005",
+    "include_year": false
+}

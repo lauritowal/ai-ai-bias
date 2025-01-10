@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hill",
+    "descriptions": [
+        "**Plot Summary:**\n\nSet in 1965, \"The Hill\" is a poignant and realistic drama that delves into the lives of young British soldiers stationed in Aden, a former British colony on the Arabian Peninsula. The film, directed by Tony Richardson and based on a play by Harold Pinter, centers around the harsh realities of military life and the psychological toll it takes on the men.\n\nThe story begins with the arrival of new recruits at a bleak and isolated military base, known simply as \"The Hill.\" The base is a place where the men face constant danger, from the local population and the unpredictable environment. The young soldiers, including the protagonist, Private John Davis (played by Tom Courtenay), grapple with the intensity of their duties, the loneliness of their environment, and the inherent cruelty of their superiors.\n\nPrivate Davis, a sensitive and intelligent man, struggles to cope with the physical and emotional demands of his role as a military policeman. He befriends other soldiers, such as George (Jack Lemon), an older, more experienced soldier, and Sergeant Joyce (Reg Rogers), who becomes a mentor and a friend. As the story unfolds, the characters confront the absurdity and brutality of their situation, leading to a series of tense interactions and conflicts.\n\nThe film's narrative is structured around the men's attempts to find a sense of camaraderie and humanity amidst the chaos of their lives. It explores themes of loyalty, friendship, and the dehumanizing effects of war and military service. Through a series of flashbacks and present-day interactions, the audience witnesses the transformation of the young soldiers as they navigate the complexities of their new world.\n\n\"The Hill\" masterfully captures the raw emotions and moral dilemmas faced by these young men, providing a powerful and thought-provoking glimpse into the realities of military life during that period."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "7e80f012a3e6d943a0b037234a342233",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 397.0 words or less.\n\n---\n\n**Title:**\n\nThe Hill\n\n**Year:**\n\n1965",
+    "include_year": false
+}

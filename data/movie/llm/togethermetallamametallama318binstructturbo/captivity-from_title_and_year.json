@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Captivity",
+    "descriptions": [
+        "\"Captivity\" is a psychological thriller film released in 2007, directed by Gary J. Tunnicliffe and written by Larry Cohen. The movie stars Elisha Cuthbert, Ewen Bremner, and Daniel Gillies.\n\nThe film tells the story of Jennifer \"Jen\" Kornfeldt (played by Elisha Cuthbert), a fashion model who poses for a photographer, Benjamin (played by Ewen Bremner), in a remote cabin in the woods. Unbeknownst to Jen, the cabin is actually a trap set by a deranged photographer named Bobby Stevens (played by Robert Carradine), who takes women captive to photograph them in various disturbing situations.\n\nBenjamin is working for Stevens, and he is instructed to sedate Jen and take her back to the cabin. However, things take a turn when Benjamin starts to develop feelings for Jen, and he decides to help her escape. As they try to escape, they are met with resistance from Stevens and his accomplices.\n\nThe film takes a dark and twisted turn as Stevens' true intentions are revealed, and the audience is left questioning what is real and what is just a product of Jen's paranoia. The movie builds up to a suspenseful climax, where Jen must use her wits and resourcefulness to outsmart Stevens and his accomplices.\n\n\"Captivity\" received mixed reviews from critics, with some praising Elisha Cuthbert's performance and the film's suspenseful atmosphere, while others found the plot to be convoluted and the characters to be one-dimensional. Despite this, the film has developed a cult following over the years, and is often cited as one of the most disturbing and unsettling thrillers of the 2000s.\n\nOverall, \"Captivity\" is a gripping and unsettling thriller that explores themes of captivity, obsession, and the darker side of human nature. With its twists and turns, the film keeps viewers on the edge of their seats, making it a must-watch for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3ae197d3fe7eb9ff46d4426ae64785e4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 889.0 words or less.\n\n---\n\n**Title:**\n\nCaptivity\n\n**Year:**\n\n2007",
+    "include_year": false
+}

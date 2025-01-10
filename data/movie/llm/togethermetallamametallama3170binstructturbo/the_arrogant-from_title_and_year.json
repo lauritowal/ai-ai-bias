@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Arrogant",
+    "descriptions": [
+        "I couldn't find any information on a movie titled \"The Arrogant\" released in 1987. It's possible that the movie is lesser-known, was not widely released, or the title is not accurate.\n\nIf you have any more information or context about the movie, I can try to help you further. Alternatively, if you'd like, I can try to generate a hypothetical plot summary based on the title alone.\n\nHere's a hypothetical summary:\n\n\"The Arrogant\" is a 1987 drama film that tells the story of a charismatic and confident individual, who, despite their charm and good looks, is struggling with an inflated sense of self-importance. As they navigate their personal and professional relationships, they begin to realize that their arrogance is not only alienating those around them but also holding them back from achieving their true potential.\n\nThe movie follows the protagonist's journey as they face setbacks, challenges, and ultimately, a moment of truth that forces them to reevaluate their behavior and confront the damage their arrogance has caused. Along the way, they must learn to let go of their ego, develop empathy, and form genuine connections with others.\n\nThrough a nuanced and thought-provoking exploration of the human condition, \"The Arrogant\" raises important questions about the nature of pride, humility, and the complexities of the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c821b0996c5406519b89950db21a01bc",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 807.0 words or less.\n\n---\n\n**Title:**\n\nThe Arrogant\n\n**Year:**\n\n1987",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arthur Christmas",
+    "descriptions": [
+        "**Plot Summary of \"Arthur Christmas\" (2011):**\n\nIn the bustling world of the North Pole, where Santa Claus and his elves prepare for the annual Christmas miracle, a heartwarming adventure unfolds alongside the usual holiday magic. The film tells the story of Arthur Claus, the youngest son of Santa Claus, who is eager to prove his worth in the family business. As Christmas Eve approaches, Arthur, along with his lovable and slightly eccentric Uncle Monty, sets out on a high-tech sleigh to deliver Christmas to the world.\n\nMeanwhile, at the North Pole, Santa Claus, accompanied by his team of elves, prepares for the biggest challenge yet: ensuring all packages are delivered on time. The mission is complicated by the arrival of a new, highly advanced robot, created to assist in the delivery process. However, the robot malfunctions, leading to chaos as thousands of packages are left undelivered.\n\nWhile Santa and his team work tirelessly to rectify the situation, Arthur embarks on his own mission. He leaves the North Pole, traveling through the globe to ensure that no family is left without a Christmas miracle. Along the way, Arthur encounters various characters, from a wise old kangaroo to a friendly but misguided young thief, played by James Corden. Arthur's journey teaches him the true meaning of Christmas and the importance of family.\n\nBack at the North Pole, Santa, with the help of his elves and the malfunctioning robot, faces the challenge of coordinating a massive rescue operation. They must track down Arthur, recover the lost packages, and restore the magical spirit of Christmas to the world.\n\nAs Arthur's adventure reaches its climax, he discovers that the most important Christmas gifts are not the ones that come in packages, but the ones that come from the heart. With the help of his Uncle Monty and the love and support of his family, Arthur manages to deliver the last packages just in time for Christmas morning. The film concludes with a heartfelt message about the joy of giving and the importance of family, leaving audiences with a warm and fuzzy feeling as the holiday season begins."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9498e256a9b77ac24327f1e04b93e98c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 711.0 words or less.\n\n---\n\n**Title:**\n\nArthur Christmas\n\n**Year:**\n\n2011",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Critters 2: The Main Course",
+    "descriptions": [
+        "In \"Critters 2: The Main Course\" (1988), the critters from the original film have mutated into larger, more deadly creatures. The story follows a group of college students who are stranded at a remote hunting camp during a brutal blizzard. When the critters invade the camp, the students must fight for survival against these monstrous pests. Among the group is a young woman who uncovers a sinister plot involving the camp's owner and the critters, which threatens to spread beyond the camp boundaries. As the critters multiply and the students are forced to confront their own fears and mistrust, they must work together to survive and find a way out before the critters consume them all. The film combines elements of horror, action, and a touch of mystery, delivering a gory and thrilling experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "45f0f2adff61eaeb90ca9b7c56539912",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 314.0 words or less.\n\n---\n\n**Title:**\n\nCritters 2: The Main Course\n\n**Year:**\n\n1988",
+    "include_year": false
+}

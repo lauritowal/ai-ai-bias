@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Duet",
+    "descriptions": [
+        "I couldn't find any notable information on a movie called 'Duet' released in 1997. However, I did find information on a 1994 Indian Tamil-language film 'Duet' and a 1994 American film 'Duet for One' but neither of those matched the year you provided.\n\nI also found that a 1994 American musical drama film 'Duet for One' was initially titled 'Duet'."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "136ca5bed20bd92ab6fdb151752cee30",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 705.0 words or less.\n\n---\n\n**Title:**\n\nDuet\n\n**Year:**\n\n1997",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "200 Cigarettes",
+    "descriptions": [
+        "In the year 1999, \"200 Cigarettes\" is a comedy film that takes place on New Year's Eve in 1981. The movie follows multiple characters in New York City as they navigate the ups and downs of love, friendship, and partying on the biggest night of the year.\n\nThe film centers around Monica, played by Martha Plimpton, who is throwing a New Year's Eve party and desperately wants it to be a success. As the night unfolds, we are introduced to a variety of quirky characters, each dealing with their own personal dramas and relationships.\n\nOne storyline follows Kevin and Lucy, two friends who are attempting to navigate their romantic feelings for each other amidst the chaos of the party. Meanwhile, Cindy and Jack, a couple on the verge of breaking up, struggle to communicate and find common ground.\n\nThroughout the night, the characters cross paths and interact in various ways, leading to humorous and heartfelt moments. As the clock ticks closer to midnight, tensions rise, secrets are revealed, and relationships are tested.\n\nDespite the chaos and drama, the characters ultimately come together to ring in the new year with laughter, tears, and a renewed sense of hope for the future. The film explores themes of love, friendship, and the complexities of human relationships in a lighthearted and entertaining way.\n\n\"200 Cigarettes\" is a fun and nostalgic look back at the 1980s, filled with memorable characters and witty dialogue. As the characters learn important lessons about themselves and each other, viewers are reminded of the importance of connection and the power of friendship in navigating life's ups and downs."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1deb08e90b14a4291ee8ca22b812dab8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 325.0 words or less.\n\n---\n\n**Title:**\n\n200 Cigarettes\n\n**Year:**\n\n1999",
+    "include_year": false
+}

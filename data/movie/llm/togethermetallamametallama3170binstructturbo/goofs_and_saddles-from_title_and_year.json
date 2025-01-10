@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Goofs and Saddles",
+    "descriptions": [
+        "\"Goofs and Saddles\" is a 1937 American Western comedy film directed by Del Lord and starring the Three Stooges - Moe Howard, Larry Fine, and Curly Howard. The film is set in the Old West and revolves around three bumbling cowboys, Wrong Lyle, Loco Lopez, and Longhorn Pete, played by the Stooges.\n\nThe trio is part of a group of inept lawmen appointed to protect a small town from the notorious outlaw, Black Jack McCoy. As the Stooges try to prove themselves, they manage to create chaos and confusion while attempting to apprehend Black Jack. However, their silly antics inadvertently foil Black Jack's plans, and they become the heroes of the town.\n\nThroughout the film, the Stooges engage in their signature slapstick humor, poking fun at Western tropes and conventions. \"Goofs and Saddles\" showcases the comedic talents of the Three Stooges as they poke fun at the traditional Western genre. The film's lighthearted and entertaining approach has made it a classic among Stooges fans and Western comedy enthusiasts alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2dc6f6db15dcc5f948faacb247277182",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 309.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+    "include_year": false
+}

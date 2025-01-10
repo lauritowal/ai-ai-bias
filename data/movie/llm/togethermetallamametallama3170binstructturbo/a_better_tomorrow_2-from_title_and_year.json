@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Better Tomorrow 2",
+    "descriptions": [
+        "'A Better Tomorrow 2' is a 1987 Hong Kong crime drama film directed by John Woo. The movie is the sequel to the 1986 film 'A Better Tomorrow,' which was also directed by John Woo. The story revolves around Ho (Ti Lung), who has retired from his life of crime and is living in the United States under an assumed identity.\n\nHowever, when his brother, Kit (Leslie Cheung), is threatened by a Triad extortionist, Ho is forced to return to Hong Kong to protect his brother. Upon his return, Ho teams up with an old Triad associate, Lung (Dean Shek), and Kit's friend, Ken (Chow Yun-fat), a former Triad enforcer turned police officer.\n\nAs Ho navigates the complex world of organized crime, he becomes embroiled in a violent conflict between rival Triad factions. He must confront his own demons and make difficult choices to ensure the safety of his loved ones. Meanwhile, Ken struggles with his own moral code and the consequences of his past actions.\n\nThroughout the film, John Woo employs his signature style of intense action sequences and dramatic shootouts. The movie explores themes of loyalty, redemption, and the consequences of a life of crime. 'A Better Tomorrow 2' is a gritty and intense crime drama that offers a thought-provoking look at the complexities of human relationships and the difficulties of leaving a life of crime behind.\n\nThe film features a mix of action, drama, and social commentary, which sets it apart from other crime dramas of its time. The performances from the cast, particularly Ti Lung and Chow Yun-fat, are also notable for their depth and complexity. Overall, 'A Better Tomorrow 2' is a gripping and emotionally charged film that is widely regarded as a classic of Hong Kong cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "19be7e9f32d12571a23ade9d376163c4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 521.0 words or less.\n\n---\n\n**Title:**\n\nA Better Tomorrow 2\n\n**Year:**\n\n1987",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Poochakkoru Mookkuthi",
+    "descriptions": [
+        "Poochakkoru Mookkuthi is a 1984 Indian Malayalam-language comedy film directed by S. Sankar. The movie revolves around the life of a young man named Appukuttan, played by Mammootty, who is a school teacher by profession. Appukuttan is a simple and honest man, but he is often humiliated by his family due to their financial struggles.\n\nThe story takes a turn when Appukuttan falls in love with a beautiful woman named Janaki, played by Sripriya. Janaki is a member of a wealthy family, and her father is a strict and wealthy man named Bhaskara Panicker. Bhaskara Panicker is known for his strict policies and is feared by the entire village.\n\nAs Appukuttan's love for Janaki grows, he decides to express his feelings to her. However, things become complicated when Bhaskara Panicker announces that he will marry his daughter to a man of his choice. Appukuttan, determined to win Janaki's hand, concocts a plan to change Bhaskara Panicker's mind.\n\nThe rest of the movie follows Appukuttan's hilarious and creative attempts to gain the approval of Bhaskara Panicker. Along the way, he faces numerous challenges and obstacles, but his determination and love for Janaki keep him going. The movie's climax features a dramatic and entertaining sequence of events that ultimately leads to a happy ending.\n\nPoochakkoru Mookkuthi is a classic Malayalam comedy film that features Mammootty in a memorable role. The movie is known for its witty dialogue, hilarious performances, and entertaining storyline. The film's success can be attributed to the direction of S. Sankar, who brought out the best in the cast and created a movie that is still enjoyed by audiences today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cb6ea10fb58be16adde9f4755eb36060",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nPoochakkoru Mookkuthi\n\n**Year:**\n\n1984",
+    "include_year": false
+}

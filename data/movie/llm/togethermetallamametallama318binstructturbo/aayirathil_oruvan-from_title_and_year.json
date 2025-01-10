@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aayirathil Oruvan",
+    "descriptions": [
+        "'Aayirathil Oruvan' is a 2008 Indian Tamil-language mystery action film directed by Selvaraghavan, an Indian film director and writer. The film stars Karthi, Andrea Jeremiah, and Priyamani in key roles.\n\nThe story follows the protagonist, Rathnavel (played by Karthi), who is an archaeologist. Rathnavel is married to a woman named Thenmozhi (played by Andrea Jeremiah) and has a sister named Subhashini (played by Priyamani). Rathnavel's life takes a dramatic turn when he meets a mysterious woman named Urvashi (also played by Karthi in a dual role). Urvashi is a British archaeologist who is working in India, and Rathnavel becomes infatuated with her.\n\nHowever, Urvashi has a dark secret: she is actually a 500-year-old woman who has been living in India for centuries. She is cursed by a demon and is doomed to live until she finds a worthy husband. Urvashi's existence is revealed through a series of flashbacks, which show her life in the past and her numerous marriages.\n\nAs Rathnavel becomes more and more entangled in Urvashi's life, he begins to experience strange and terrifying occurrences. He starts to question whether Urvashi is telling him the truth about her past and whether he is truly in love with her. Meanwhile, Rathnavel's sister Subhashini is also searching for her missing sister, who was last seen with Urvashi.\n\nThe film's plot becomes increasingly complex as Rathnavel delves deeper into Urvashi's past. He discovers that she is being pursued by a group of demons who are determined to kill her. Rathnavavels life becomes a battle to protect Urvashi from these supernatural forces and to uncover the truth about her mysterious past.\n\nThroughout the film, the director Selvaraghavan uses a non-linear narrative structure to tell the story. The film's visuals are stunning, with a mix of vibrant colors and dark, eerie landscapes. The film's music is also noteworthy, with a haunting and atmospheric score that complements the on-screen action.\n\nOverall, 'Aayirathil Oruvan' is a thrilling and visually stunning film that combines elements of mystery, action, and romance. The film's complex plot and stunning visuals make it a must-see for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "abbe8da1cb99c4ea762db7903b84e959",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 624.0 words or less.\n\n---\n\n**Title:**\n\nAayirathil Oruvan\n\n**Year:**\n\n2008",
+    "include_year": false
+}

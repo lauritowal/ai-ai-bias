@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "My Neighbor Totoro",
+    "descriptions": [
+        "\"My Neighbor Totoro\" is a heartwarming animated film that follows the story of two young sisters, Satsuki and Mei, who move to the countryside with their father to be closer to their mother who is recovering from an illness in a nearby hospital. Upon exploring their new surroundings, the sisters encounter magical creatures known as Totoros, who live in the nearby forest.\n\nMei, the younger sister, is particularly drawn to these mystical creatures and forms a special bond with the largest and most gentle Totoro. Satsuki, the older sister, is initially skeptical of Mei's stories about the Totoros but eventually comes to believe in them as well.\n\nAs the sisters navigate their new life in the countryside, they face various challenges and adventures, from attending school to helping their father with chores around the house. Through it all, the Totoros play a significant role in the girls' lives, offering comfort, guidance, and a sense of wonder.\n\nOne day, Mei goes missing while trying to find her mother in the hospital, leading to a frantic search by Satsuki and the Totoros. Eventually, Mei is found safe and sound, and the family is reunited. The experience strengthens the bond between the sisters and reinforces the importance of family and friendship.\n\nThroughout the film, the Totoros serve as symbols of nature, magic, and imagination, reminding the audience of the beauty and wonder that can be found in the world around us. \"My Neighbor Totoro\" is a touching tale of childhood innocence, sibling love, and the power of imagination to help us through life's challenges."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8149a185aeae7dd0c00e97198931c524",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 691.0 words or less.\n\n---\n\n**Title:**\n\nMy Neighbor Totoro\n\n**Year:**\n\n1988",
+    "include_year": false
+}

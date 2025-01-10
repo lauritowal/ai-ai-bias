@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chandamama",
+    "descriptions": [
+        " In the vibrant and bustling city of Hyderabad, India, \"Chandamama\" (2007) weaves a heartwarming tale of love, family, and destiny. The story revolves around two young lovers, Mahalakshmi and Ramu, who hail from different socio-economic backgrounds.\n\nMahalakshmi, a middle-class girl with a passion for singing, dreams of making it big in the music industry. Ramu, on the other hand, is a humble auto-rickshaw driver who aspires to uplift his family from poverty. Their paths cross when Mahalakshmi hires Ramu's rickshaw, and they instantly connect. Despite their contrasting lifestyles, they find common ground in their dreams and fall deeply in love.\n\nHowever, their relationship faces several hurdles, primarily from Mahalakshmi's domineering father, who has other plans for his daughter's future. He arranges her marriage to a wealthy businessman, much to Mahalakshmi's dismay. Meanwhile, Ramu struggles to make ends meet and support his ailing mother.\n\nThe plot thickens when Mahalakshmi's father discovers her relationship with Ramu. He tries to separate them, leading to a series of dramatic events. Mahalakshmi, determined to follow her heart, runs away from home to be with Ramu. Their love story unfolds amidst the backdrop of Hyderabad, capturing the city's rich culture and traditions.\n\n\"Chandamama\" is a poignant portrayal of the power of love and the lengths one is willing to go for their beloved. It explores themes of societal pressure, familial obligations, and the pursuit of dreams. The film culminates in a climax that tests the couple's love and resilience, leaving the audience with a message of hope and perseverance. With its engaging narrative and compelling performances, \"Chandamama\" is a cinematic experience that resonates with the heart."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "5f682c2bf484b9f3e4b8f257135fa2e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 306.0 words or less.\n\n---\n\n**Title:**\n\nChandamama\n\n**Year:**\n\n2007",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Meet Joe Black",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Meet Joe Black\" is a 1998 romantic fantasy film directed by Martin Scorsese. The movie stars Brad Pitt as Joe Black, a Death personified, who has grown tired of his grim and solitary existence. Joe begins to enjoy life on Earth, where he forms a deep connection with a renowned screenwriter, played by Nicole Kidman, named Elizabeth Thorne.\n\nElizabeth is a successful and troubled writer working on a screenplay about the nature of good and evil. Joe, fascinated by her passion and intellect, falls in love with her, but their relationship is complicated when he faces the moral dilemma of choosing between his duty to Death and his newfound love for Elizabeth.\n\nAs Joe struggles to reconcile his eternal role with his newfound humanity, Elizabeth helps him rediscover the joy and meaning of life. She challenges him to experience human experiences such as laughter, love, and suffering, which Joe initially avoids due to his grim responsibilities. However, Elizabeth's unwavering support and love gradually draw Joe away from his duties.\n\nThe film explores themes of mortality, the value of human life, and the importance of experiencing life fully. Joe must ultimately decide whether to embrace his human emotions and leave his position as Death, or to return to his dark and solitary existence. The climax of the film sees Joe making a choice that profoundly impacts both his own destiny and Elizabeth's life.\n\n\"Meet Joe Black\" is a visually stunning and emotionally rich film, blending elements of romance, fantasy, and drama. It offers a unique perspective on the nature of life and death, and the emotional and moral complexities that come with experiencing both. The chemistry between Brad Pitt and Nicole Kidman is palpable, and the movie's exploration of the human experience resonates with audiences on a profound level."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "968885fa9cf8a85a2699c5693b12106a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 649.0 words or less.\n\n---\n\n**Title:**\n\nMeet Joe Black\n\n**Year:**\n\n1998",
+    "include_year": false
+}

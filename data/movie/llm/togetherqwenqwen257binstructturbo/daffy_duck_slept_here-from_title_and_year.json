@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daffy Duck Slept Here",
+    "descriptions": [
+        "In \"Daffy Duck Slept Here,\" released in 1948, Daffy Duck stumbles upon a luxurious hotel and is immediately enchanted by its opulence. However, he soon learns the hotel is haunted by the ghost of its former owner, who is upset that his legacy is being tarnished by the modern amenities. Daffy, eager to prove his worth, sets out to catch the ghost and restore the hotel's honor. Along the way, he encounters a series of comedic mishaps and encounters with other hotel guests, including a vain opera singer and a snobbish count. The ghost, amused by Daffy's antics, helps him solve the mystery of the hotel's curse, leading to a hilarious and heartwarming conclusion where Daffy not only saves the hotel but also earns a place among its esteemed guests."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "571661f1877124420608f05794ed5740",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948",
+    "include_year": false
+}

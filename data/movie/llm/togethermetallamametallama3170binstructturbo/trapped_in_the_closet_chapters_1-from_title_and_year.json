@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trapped in the Closet Chapters 1–12",
+    "descriptions": [
+        "Trapped in the Closet Chapters 1-12 is a 2005 musical comedy film written, directed by, and starring R. Kelly. The film is presented as a soap opera-style serial, with each chapter serving as a music video.\n\nThe story revolves around Sylvester (played by R. Kelly), a man who is trapped in a closet after a one-night stand with a man named Rufus (played by R. Kelly), who is married to a woman named Cathy (played by Cat Wilson). The plot becomes increasingly complicated as Sylvester encounters various characters, including Rosie the Nosey Neighbor (played by LeShay Tomlinson), and Twan, a pimp and ex-lover of Rufus (played by Eric Lane).\n\nAs the story unfolds, Sylvester becomes entangled in a web of relationships, secrets, and deceptions, involving Rufus's wife, Cathy, and his lover, Chuck (played by Malik Middleton), as well as several other characters, including Big Man (played by Drevon Cooks), who is also involved with Cathy.\n\nThroughout the film, R. Kelly uses his signature R&B style to narrate the story through song, often breaking into musical numbers to explain the plot twists and character developments. The film's absurd humor, over-the-top performances, and catchy musical numbers have made it a cult classic.\n\nTrapped in the Closet Chapters 1-12 was initially released as a series of music videos and later compiled into a feature-length film. The film's success led to the creation of additional chapters, which were released in 2007 and 2012."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b0b9eb022ab4e3706915fe8549e7b985",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 2266.0 words or less.\n\n---\n\n**Title:**\n\nTrapped in the Closet Chapters 1–12\n\n**Year:**\n\n2005",
+    "include_year": false
+}

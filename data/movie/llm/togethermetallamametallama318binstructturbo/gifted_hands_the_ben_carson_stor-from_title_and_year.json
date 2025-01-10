@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gifted Hands: The Ben Carson Story",
+    "descriptions": [
+        "\"Gifted Hands: The Ben Carson Story\" is a 2009 American biographical drama film directed by Thomas Carter. The film is a portrayal of the life of Dr. Ben Carson, a renowned American neurosurgeon and author. \n\nThe film begins with Ben Carson (played by Cuba Gooding Jr.) as a young boy, struggling in school due to his difficulties with reading and learning. Despite his struggles, Ben finds solace in drawing and music. He is often at odds with his adoptive mother, Sonya (played by Aunjanue Ellis), who wants Ben to focus on his studies and improve his grades.\n\nBen's life takes a turn when he meets Dr. Nathaniel Burle (played by Charles S. Dutton), a pediatric neurosurgeon at Johns Hopkins Hospital. Dr. Burle sees potential in Ben and encourages him to pursue a career in medicine. With Dr. Burle's guidance, Ben begins to excel in school and eventually becomes a top student in his class.\n\nAs Ben grows older, he faces numerous challenges, including racism and bullying. However, he perseveres and eventually attends Yale University, where he meets his future wife, Catherine (played by Kimberly Elise). Ben's determination and hard work lead him to become one of the youngest residents at Johns Hopkins Hospital.\n\nThe film highlights Ben's journey from being a struggling student to becoming a renowned neurosurgeon. Through his experiences, Ben learns valuable lessons about perseverance, hard work, and the importance of family. The film's title, \"Gifted Hands,\" refers to Ben's exceptional surgical skills and his ability to connect with his patients.\n\n\"Gifted Hands: The Ben Carson Story\" is a heartwarming and inspiring film that showcases the power of determination and hard work. Cuba Gooding Jr.'s portrayal of Ben Carson is outstanding, and the film's production values are top-notch. Overall, the movie is a must-see for anyone looking for a story of triumph and overcoming adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cb17e8975e15f69021d06bef812a6ffb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 526.0 words or less.\n\n---\n\n**Title:**\n\nGifted Hands: The Ben Carson Story\n\n**Year:**\n\n2009",
+    "include_year": false
+}

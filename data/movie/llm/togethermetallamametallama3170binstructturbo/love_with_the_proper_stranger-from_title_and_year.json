@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love with the Proper Stranger",
+    "descriptions": [
+        "In the 1963 romantic drama film \"Love with the Proper Stranger,\" Angela Rossini (Natalie Wood) is a young Italian-American woman working in a department store. She becomes pregnant after a brief encounter with Rocky Papasano (Steve McQueen), a trumpet player. The movie begins with Angela searching for Rocky, as she is pregnant and wants him to take responsibility for the child.\n\nAfter finding Rocky, Angela initially wants him to marry her, but as they begin to spend more time together, they start to develop a deeper connection. As a result, Angela must decide whether she truly loves Rocky or simply wants him to be the father of her child.\n\nThroughout the film, Angela struggles with her traditional Italian-American upbringing and the societal expectations of her family, while also navigating her own desires and aspirations. As the story unfolds, Angela and Rocky's relationship is put to the test, leading to a poignant exploration of love, identity, and personal growth. Directed by Robert Mulligan, the movie features strong performances from Wood and McQueen, making \"Love with the Proper Stranger\" a classic of American cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9ad016a99671e1a6d75cf7772845abe6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLove with the Proper Stranger\n\n**Year:**\n\n1963",
+    "include_year": false
+}

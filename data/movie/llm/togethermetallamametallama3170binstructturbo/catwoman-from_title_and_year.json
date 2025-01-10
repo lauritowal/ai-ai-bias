@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Catwoman",
+    "descriptions": [
+        "Catwoman is a 2004 superhero film starring Halle Berry as the titular character. The movie follows Patience Phillips, a shy and timid graphic designer who works for a cosmetics company called Hedare Beauty. Patience discovers a dark secret about the company's new anti-aging cream, which has a deadly side effect.\n\nAs Patience digs deeper, she is discovered by the company's executives and is subsequently killed. However, she is resurrected by the Egyptian cat goddess Bastet, who grants her supernatural abilities, including agility, strength, and reflexes.\n\nPatience adopts the alter ego of Catwoman and sets out to seek revenge against those responsible for her death. Along the way, she meets Tom Lone, a detective who is investigating the mysterious circumstances surrounding Patience's death. As Catwoman, she must balance her newfound powers with her growing feelings for Tom.\n\nAs Patience navigates her new life as Catwoman, she must confront the dark forces behind Hedare Beauty and its sinister CEO, Laurel Hedare. With her newfound powers and a fierce determination, Catwoman sets out to bring justice to those who have wronged her.\n\nThe movie explores themes of identity, empowerment, and self-discovery as Patience transforms from a timid and introverted person to a confident and fearless superhero. Despite receiving mixed reviews from critics, Catwoman has become a cult classic, with Halle Berry's performance as the titular character receiving widespread praise."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "80a857bf39597b277bb973a114b056d7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 349.0 words or less.\n\n---\n\n**Title:**\n\nCatwoman\n\n**Year:**\n\n2004",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mimic 2",
+    "descriptions": [
+        "In \"Mimic 2\" (2001), a series of mysterious murders in a city lead to the discovery of a new breed of genetically modified insects that can mimic their human prey. As the body count rises, a biology teacher named Remy and her detective boyfriend Nick team up to investigate the bizarre killings. They soon realize that the insects are evolving rapidly and becoming smarter, making it harder to track and kill them.\n\nRemy becomes a target of the insects after she witnesses one of the creatures in action, putting her life in danger. As they race against time to stop the deadly insects from taking over the city, Remy and Nick must outsmart the creatures and find a way to destroy them once and for all.\n\nWith suspenseful chase scenes and intense moments of horror, \"Mimic 2\" keeps viewers on the edge of their seats as Remy and Nick face off against the deadly creatures in a battle for survival. Will they be able to stop the insects before they overrun the city, or will the mimic creatures succeed in their deadly mission? Only time will tell in this thrilling sequel to the original \"Mimic\" film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "989d919de8972a97413bae9acee08e93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 243.0 words or less.\n\n---\n\n**Title:**\n\nMimic 2\n\n**Year:**\n\n2001",
+    "include_year": false
+}

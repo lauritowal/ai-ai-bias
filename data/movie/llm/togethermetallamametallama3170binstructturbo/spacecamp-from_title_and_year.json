@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "SpaceCamp",
+    "descriptions": [
+        "'SpaceCamp' is a 1986 American science fiction film directed by Harry Winer. The movie follows a group of teenagers who attend a space camp at the United States Space and Rocket Center in Huntsville, Alabama. The main characters include Kathryn (Lea Thompson), T.J. (Kelly Preston), Kevin (Tate Donovan), and Andie (Kate Capshaw).\n\nDuring a tour of a space shuttle, the group accidentally triggers the launch sequence, and they find themselves on board the shuttle, 'Atlantis,' which is now heading into space. As they struggle to comprehend the situation, they discover that they have inadvertently launched the shuttle with an inexperienced crew.\n\nThe group soon realizes that they must work together and use their knowledge of space and technology to navigate the shuttle back to Earth. Along the way, they face various obstacles and challenges, including malfunctioning equipment and limited communication with Mission Control.\n\nAs they fight to survive and find a way back home, the teenagers learn valuable lessons about teamwork, responsibility, and the importance of following instructions. With the help of their instructors and Mission Control, they manage to overcome the odds and safely return to Earth.\n\n'SpaceCamp' is an entertaining and action-packed film that showcases the adventures of a group of young people in space. The movie combines elements of science fiction, drama, and adventure, making it an enjoyable watch for audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "cbc57be84c61d41c8779ccee8e6d4421",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 654.0 words or less.\n\n---\n\n**Title:**\n\nSpaceCamp\n\n**Year:**\n\n1986",
+    "include_year": false
+}

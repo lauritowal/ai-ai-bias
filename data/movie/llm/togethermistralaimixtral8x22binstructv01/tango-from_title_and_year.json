@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tango",
+    "descriptions": [
+        " In the gripping 1998 drama Tango, director Carlos Saura explores the intricate, sensual, and often painful world of dance and relationships. Set in the vibrant Buenos Aires, Argentina, the film follows renowned tango choreographer Mario Suárez as he struggles to create a new show amidst personal turmoil.\n\nMario, played by the talented Miguel Ángel Solá, finds himself entangled in a web of romantic complications. His former lover, Laura, portrayed by the captivating Cecilia Narova, returns to his life after years apart, sparking a passionate yet tumultuous reunion. As Mario works on his production, he becomes infatuated with a young dancer, Elena, whose raw talent and allure prove irresistible. Mía Maestro delivers a standout performance as Elena, capturing the audience with her vulnerability and grace.\n\nAs the rehearsals for the show progress, the lines between reality and art blur, and the boundaries of love, desire, and betrayal are tested. The film's climax unfolds with a breathtaking performance of the tango, reflecting the characters' emotional turmoil and the art form's captivating power. Tango is a visually stunning exploration of the human condition, showcasing the complexities of love, passion, and the pursuit of artistic excellence."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "6d8481f5b2978e83569dfeae6fea9b4e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998",
+    "include_year": false
+}

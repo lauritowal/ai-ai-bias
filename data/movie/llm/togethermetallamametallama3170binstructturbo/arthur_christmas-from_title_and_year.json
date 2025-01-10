@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arthur Christmas",
+    "descriptions": [
+        "Arthur Christmas is a 2011 computer-animated Christmas comedy film. The story takes place on Christmas Eve, where Santa Claus (voiced by Jim Broadbent) is preparing for the big night. His son Steve (voiced by Hugh Laurie), a tech-savvy and efficient Santa-in-training, has taken over much of the operations at the North Pole.\n\nHowever, during the gift-giving process, a child's present is left behind. The child, a girl named Gwen, is in danger of waking up on Christmas morning without any gifts. Arthur (voiced by James McAvoy), Santa's other son who is more old-fashioned and traditional, decides to take matters into his own hands and team up with his grandfather Grandsanta (voiced by Bill Nighy), a retired Santa, and a wrapping elf named Bryony (voiced by Ashley Jensen).\n\nTogether, they embark on a perilous journey to deliver the present to Gwen using Grandsanta's old-fashioned sleigh. Along the way, they face numerous challenges, including bad weather, treacherous landscapes, and a skeptical Steve who is trying to track them down. As they near their destination, Arthur learns the true meaning of Christmas and the importance of preserving the spirit of the holiday.\n\nThe film features stunning animation, witty dialogue, and a heartwarming story that explores the complexities of family dynamics and the magic of Christmas."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9498e256a9b77ac24327f1e04b93e98c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 711.0 words or less.\n\n---\n\n**Title:**\n\nArthur Christmas\n\n**Year:**\n\n2011",
+    "include_year": false
+}

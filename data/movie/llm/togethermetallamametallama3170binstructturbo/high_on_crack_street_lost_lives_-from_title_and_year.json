@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "High on Crack Street: Lost Lives in Lowell",
+    "descriptions": [
+        "\"High on Crack Street: Lost Lives in Lowell\" is a 1995 HBO documentary film that explores the lives of three crack cocaine addicts in Lowell, Massachusetts. The film is directed by Richard Farrell, Maryann DeLeo, and Jon Alpert, who spent 18 months filming the subjects.\n\nThe documentary primarily focuses on the lives of Dicky Eklund, a former boxer, and two other individuals, Boo Boo and Brenda, who are all struggling with crack addiction. Through intimate and raw footage, the film provides a candid look into their lives, revealing their struggles, relationships, and the devastating effects of their addiction.\n\nThe film highlights the harsh realities of life on the streets, where the subjects often resort to prostitution, theft, and other desperate measures to feed their addiction. It also explores the impact of their addiction on their relationships, families, and overall well-being.\n\nThroughout the documentary, the filmmakers gain the trust of their subjects, capturing unflinching and often disturbing footage of their daily lives. The film also explores the social and economic factors that contribute to the rise of crack addiction in Lowell, including poverty, lack of opportunities, and the decline of the city's manufacturing industry.\n\nUltimately, \"High on Crack Street\" is a powerful and thought-provoking documentary that sheds light on the darker aspects of addiction and the human condition. The film received widespread critical acclaim and won several awards, including two Emmy Awards."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "28aeccf430914bdc31eaa50618efb5aa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 584.0 words or less.\n\n---\n\n**Title:**\n\nHigh on Crack Street: Lost Lives in Lowell\n\n**Year:**\n\n1995",
+    "include_year": false
+}

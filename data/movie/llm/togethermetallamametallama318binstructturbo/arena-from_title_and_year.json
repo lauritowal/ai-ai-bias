@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arena",
+    "descriptions": [
+        "\"Arena\" is a 1989 science fiction film directed by Rick Jacobson. The movie takes place in a post-apocalyptic future where a group of gladiators are forced to fight in an arena against genetically engineered creatures and other human opponents. \n\nThe film's protagonist is an African-American gladiator named Jaker (played by Paul Winfield), who is competing in the arena. His goal is to survive the brutal fights and eventually escape the arena.\n\nAs Jaker navigates the deadly arena, he forms alliances and friendships with other gladiators and establishes a sense of camaraderie and solidarity among them. Despite the gruesome conditions and the risk of death, they all strive to survive and resist their captors.\n\nThroughout the movie, Jaker faces various opponents, including genetically engineered animals and other strong gladiators. Eventually, he plans an escape, and the film's climax revolves around his attempt to break free from the arena.\n\n\"Arena\" is a futuristic take on the classic gladiatorial combat theme, blending elements of science fiction, action, and drama. The film features a mix of intense fight scenes, emotional moments, and a commentary on the exploitation of human life in a dystopian society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+    "include_year": false
+}

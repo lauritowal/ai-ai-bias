@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Traffic",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Traffic\" (2011) is a crime thriller that delves into the complex and interconnected world of drug trafficking and law enforcement. The film, directed by Brian Helgeland, picks up several years after the events of the 2000 film of the same name, revisiting the characters and their lives as they continue to grapple with the consequences of their actions.\n\nIn Mexico, a drug kingpin named Javier poses a threat to the cartels due to his high-purity cocaine and his methods of operation. U.S. Drug Enforcement Agency (DEA) agent Tommy Kilbourn, along with his partner, begins to investigate Javier. Meanwhile, in Los Angeles, Javier’s estranged daughter and former DEA agent, Maricela, is trying to reconcile with her past and her father. Her journey leads her to uncover a conspiracy involving corrupt officials and a massive drug trafficking operation.\n\nTommy, now a detective, is assigned to work alongside Maricela to dismantle the drug trafficking network that has infiltrated the city. The investigation leads them through a maze of corruption, where they find that the lines between good and evil are blurred. As they close in on the kingpins, they face increasing risks and threats, leading to a tense and action-packed climax.\n\nThe film explores themes of corruption, family, and the moral complexities of the fight against drug trafficking. It highlights the personal and professional challenges faced by those on both sides of the law and culminates in a powerful and thought-provoking conclusion that leaves audiences questioning the systemic issues contributing to the drug trade's prevalence."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "97715b165bc53cecbd7a4aa3fcaa268b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 401.0 words or less.\n\n---\n\n**Title:**\n\nTraffic\n\n**Year:**\n\n2011",
+    "include_year": false
+}

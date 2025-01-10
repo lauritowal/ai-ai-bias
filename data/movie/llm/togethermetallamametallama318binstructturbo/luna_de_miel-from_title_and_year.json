@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Luna de Miel",
+    "descriptions": [
+        "'Luna de Miel' is a 1959 Mexican drama film directed by Miguel M. Delgado. The story revolves around Juan, a young man from a humble background, who marries his long-time girlfriend, Luisa. However, their marriage is not a traditional one, as they have been together for a long time and have decided to formalize their relationship through marriage.\n\nThe film primarily focuses on Juan and Luisa's interactions and their relationships with other people in their lives, including Juan's family and friends. Their marriage is portrayed as a union of two people who genuinely care for each other and have been through various experiences together.\n\nThroughout the film, Juan's introspective nature and Luisa's gentle and affectionate personality are highlighted. They share moments of love, laughter, and everyday struggles, as they navigate their new life together. The director, Miguel M. Delgado, uses these interactions to portray a realistic and intimate portrayal of a young couple's life.\n\nOne of the central themes of the film is the societal pressure that couples like Juan and Luisa face. As they try to establish themselves as a married couple, they encounter various expectations from their families and friends. The film explores how these external pressures can affect the relationship between Juan and Luisa, and how they navigate these challenges.\n\nThe cinematography and direction in 'Luna de Miel' are notable for their time. The film features a mix of location shots and studio settings, which adds to the authenticity of the story. The use of lighting and camera angles is also noteworthy, as it helps to create a sense of intimacy and realism in the film.\n\n'Luna de Miel' is a poignant and heartfelt portrayal of a young couple's life, set against the backdrop of post-revolutionary Mexico. The film's focus on the everyday struggles and triumphs of Juan and Luisa makes it a relatable and engaging watch. Although the film may not be as well-known as some other works from the same period, it remains a significant and valuable contribution to the Mexican New Wave cinema movement."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "09698174dfa85564bea8e9e8c0c1893d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 791.0 words or less.\n\n---\n\n**Title:**\n\nLuna de Miel\n\n**Year:**\n\n1959",
+    "include_year": false
+}

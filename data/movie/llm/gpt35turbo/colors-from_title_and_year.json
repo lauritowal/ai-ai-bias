@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Colors",
+    "descriptions": [
+        "In the movie \"Colors\" (2009), the story follows a group of high school students from different backgrounds who come together to form a dance crew. As they navigate the challenges of school and personal struggles, the crew uses their passion for dance to overcome obstacles and unite their community.\n\nThe main character, a talented dancer named Alex, leads the crew as they prepare for a major dance competition. Along the way, they face rivalry from other dance groups, as well as pressure from their families and teachers who do not understand their commitment to dance.\n\nAs the competition draws near, the crew must confront their own insecurities and fears in order to come together and perform at their best. Through hard work, dedication, and the power of friendship, they learn valuable lessons about teamwork, perseverance, and the importance of chasing their dreams.\n\nThroughout the film, the audience is treated to electrifying dance sequences that showcase the crew's talent and creativity. The vibrant colors and dynamic choreography bring the performances to life, capturing the energy and passion of the characters.\n\nIn the end, the crew's hard work pays off as they deliver a show-stopping performance at the competition, earning the respect and admiration of their peers. \"Colors\" is a heartwarming and inspiring story about the power of dance to bring people together and overcome obstacles, leaving a lasting impact on both the characters and the audience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9300432e31407304ee60f2088835aefd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nColors\n\n**Year:**\n\n2009",
+    "include_year": false
+}

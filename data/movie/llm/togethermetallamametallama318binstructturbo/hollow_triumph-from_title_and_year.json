@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hollow Triumph",
+    "descriptions": [
+        "'Hollow Triumph' is a 1948 British-American film noir directed by Steve Sekely. The movie is an adaptation of the 1946 novel 'The Killer and the Stratagem' by Maurice Hennequin.\n\nThe story revolves around a fugitive physician named Dr. Mark Lyttle (played by Paul Newman in early US releases, however this role was cut and he is not in the British version that was released in the United Kingdom and in some other countries). Lyttle is on the run from the police and a corrupt gangster named Dr. Van Leyden (played by Edmond O'Brien).\n\nVan Leyden is a notorious hitman and a surgeon who has managed to evade the law. He has become a patient of Dr. Lyttle, who initially is unaware of his identity. Van Leyden is after Lyttle's successful surgical technique to transplant a kidney from a living donor.\n\nAs the story unfolds, Lyttle becomes increasingly entangled with Van Leyden's web of deceit and violence. Despite Van Leyden's sinister intentions, Lyttle is forced to assist him in his quest to escape justice.\n\nThroughout the film, Lyttle struggles with his own moral dilemmas and the consequences of his involvement with a ruthless killer. The movie's tense atmosphere and the cat-and-mouse game between Lyttle and Van Leyden create a gripping narrative.\n\nUltimately, 'Hollow Triumph' is a complex exploration of the blurred lines between right and wrong, and the devastating consequences of getting caught up in the dark world of crime and corruption. The film's gripping storyline and the performances of its lead actors make it a compelling watch for fans of film noir."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "57f0ff69486808c116a59673c7a08aae",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 516.0 words or less.\n\n---\n\n**Title:**\n\nHollow Triumph\n\n**Year:**\n\n1948",
+    "include_year": false
+}

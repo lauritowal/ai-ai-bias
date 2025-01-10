@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Charas",
+    "descriptions": [
+        "In the movie \"Charas\" set in 1976, the story follows a group of friends who embark on a journey to the remote Himalayan region in search of a rare and valuable strain of marijuana known as Charas. The group, consisting of a mix of adventurers and thrill-seekers, are drawn to the allure of the mystical substance and the promise of riches that come with finding it.\n\nAs they make their way through the rugged terrain, they encounter various obstacles and challenges, including dangerous wildlife, treacherous weather conditions, and rival groups also seeking the prized Charas. Along the way, tensions within the group begin to rise as personal motivations and hidden agendas come to light.\n\nAs they get closer to their destination, they discover that finding the Charas is only the beginning of their troubles. They soon find themselves caught in the middle of a conflict between local authorities and a powerful drug lord who will stop at nothing to protect his illicit business.\n\nThe group must navigate through a dangerous web of deception, betrayal, and violence as they fight to secure the Charas and make it out of the region alive. Along the way, they are forced to confront their own moral boundaries and question the true cost of their pursuit.\n\nAs the stakes continue to rise, the group is faced with difficult choices that will test their loyalty, bravery, and resilience. In the end, they must decide what is truly important to them and whether the Charas is worth the price they have paid.\n\n\"Charas\" is a thrilling and suspenseful tale of adventure, greed, and redemption set against the backdrop of the stunning Himalayan landscape. It explores the darker aspects of human nature and the consequences of chasing after desires that can ultimately lead to destruction."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "137e815ab187c9619f710421301cae6e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nCharas\n\n**Year:**\n\n1976",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "November",
+    "descriptions": [
+        "\"November\" is a 2004 Canadian drama film written and directed by Greg Harrison. The film explores themes of loneliness, love, and human connection in modern society.\n\nThe story revolves around an unnamed protagonist, played by Jodie Whittaker, who is struggling to find meaning in her life. She is a shy, isolated woman working as a hotel clerk, living in a world that seems devoid of genuine human relationships. The protagonist's life takes a turn when she meets a young girl, Mary, who has run away from home and is living on the streets.\n\nAs the protagonist develops a bond with Mary, she begins to open up and confront her own emotional vulnerabilities. Through their interactions, the protagonist starts to rediscover her sense of purpose and find a sense of belonging in a world that often seems cold and unforgiving.\n\nThe film's narrative is structured around the protagonist's inner journey, with the story unfolding through her conversations with Mary and other characters she encounters. Through these interactions, the protagonist grapples with themes of loneliness, love, and the human need for connection.\n\n\"November\" features a minimalist approach to storytelling, with a focus on character-driven drama and subtle emotional depth. The film's tone is melancholic and introspective, reflecting the protagonist's own struggles and emotional landscape. Overall, \"November\" is a poignant exploration of the human condition, offering a nuanced and thought-provoking portrayal of loneliness and the search for connection in a modern world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "5aa0e0bd99d5549bdccb188219f8b9bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 380.0 words or less.\n\n---\n\n**Title:**\n\nNovember\n\n**Year:**\n\n2004",
+    "include_year": false
+}

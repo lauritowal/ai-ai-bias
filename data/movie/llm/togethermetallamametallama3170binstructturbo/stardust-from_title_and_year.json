@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stardust",
+    "descriptions": [
+        "'Stardust' is a 2007 fantasy adventure film directed by Matthew Vaughn, based on Neil Gaiman's 1999 novel of the same name. The story takes place in the 19th century, in a mystical realm that lies beyond a magical wall in the English village of Wall.\n\nThe film begins with a young man named Tristan Thorn (played by Charlie Cox) who falls in love with a beautiful but shallow woman named Victoria Forester (played by Sienna Miller). Desperate to win her heart, Tristan promises to retrieve a fallen star that has crash-landed on the other side of the magical wall. He sets out on a perilous journey to fulfill his promise.\n\nUpon crossing the wall, Tristan enters a magical kingdom filled with witches, pirates, and other supernatural beings. There, he encounters the fallen star, which has taken the form of a beautiful young woman named Yvaine (played by Claire Danes). Tristan soon finds himself on the run from various adversaries, including the ruthless witch Lamia (played by Michelle Pfeiffer) and the power-hungry Prince Septimus (played by Mark Strong).\n\nAs Tristan and Yvaine travel together, they develop a deep bond and begin to realize their true feelings for each other. Along the way, they encounter a group of pirates led by Captain Shakespeare (played by Robert De Niro), who becomes an unlikely ally in their quest.\n\nThroughout their journey, Tristan and Yvaine face numerous challenges and obstacles, including the pursuit of Lamia and Prince Septimus, who seek to capture the star and use its magical powers for their own gain. In the end, Tristan must confront his own destiny and the true nature of his love for Yvaine, and make a choice that will determine the fate of the magical kingdom.\n\n'Stardust' is a fantastical and romantic tale of adventure, magic, and self-discovery, featuring stunning visuals, memorable characters, and a richly imagined world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "84bc4c2220bf856aadb067059558bb3f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 952.0 words or less.\n\n---\n\n**Title:**\n\nStardust\n\n**Year:**\n\n2007",
+    "include_year": false
+}

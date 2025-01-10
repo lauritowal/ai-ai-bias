@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "November",
+    "descriptions": [
+        " In the 2004 film \"November,\" director Greg Harrison explores the complexities of love, loss, and the human psyche in a captivating thriller. The story revolves around Sophie Jacobs, portrayed by Courteney Cox, a photographer who is struggling to cope with the sudden death of her boyfriend, Hugh, played by James LeGros.\n\nAs Sophie grapples with her grief, she becomes increasingly paranoid and begins to question the circumstances surrounding Hugh's demise. Haunted by memories and recurring nightmares, she discovers a mysterious videotape in Hugh's possession, which appears to depict his murder. This revelation sends Sophie on a downward spiral, as she becomes obsessed with uncovering the truth behind Hugh's death.\n\nAs Sophie delves deeper into the mystery, she encounters a series of bizarre events and unexplained phenomena, leading her to suspect that there may be a supernatural element at play. She finds herself drawn to a mysterious man named Jesse, played by Michael Ealy, who seems to know more about the situation than he initially lets on.\n\nAs the lines between reality and illusion begin to blur, Sophie's sanity is called into question. She starts to question her own memories and perceptions, wondering if she is experiencing a mental breakdown or if there is a genuine conspiracy afoot. The tension builds as Sophie races against time to unravel the truth about Hugh's death, all while attempting to maintain her grip on reality.\n\nIn a shocking twist, it is ultimately revealed that Sophie herself is responsible for Hugh's death, having accidentally shot him during a heated argument. The mysterious videotape was, in fact, a figment of her imagination, serving as a manifestation of her guilt and grief. The film concludes with Sophie coming to terms with her actions and seeking help to overcome her trauma.\n\n\"November\" is a gripping psychological thriller that explores the depths of human emotion and the lengths to which one will go to confront their inner demons. With its intricate plot and unexpected twists, the film keeps viewers on the edge of their seats, while also delving into the complex nature of love, loss, and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "5aa0e0bd99d5549bdccb188219f8b9bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 380.0 words or less.\n\n---\n\n**Title:**\n\nNovember\n\n**Year:**\n\n2004",
+    "include_year": false
+}

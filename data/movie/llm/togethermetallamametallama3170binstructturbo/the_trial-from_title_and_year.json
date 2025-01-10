@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trial",
+    "descriptions": [
+        "I couldn't find any information on a notable movie titled 'The Trial' released in 2009. However, I found a 2010 film 'The Trial' starring Matthew Modine. \n\nIf this is the correct movie, here's a plot summary:\n\n'The Trial' is a 2010 American drama film directed by Gary Wheeler. The movie revolves around Mac (Matthew Modine), a man who is struggling to come to terms with his faith and connection to God after the death of his wife. As Mac navigates his life, he begins to question the existence of a higher power.\n\nSeeking answers, Mac initiates a trial in which he prosecutes God for allowing evil and suffering in the world. He appoints a local priest, Father Daniel (Robert Forster), as the defense attorney for God. As the trial unfolds, Mac presents various witnesses who share their personal experiences of pain and loss.\n\nThrough the trial, Mac and the people around him come to a deeper understanding of their faith and the complexities of the world. 'The Trial' is a thought-provoking film that explores the complexities of faith, morality, and the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5a03754bb22e9219f8eb42e2b0dd22d2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 274.0 words or less.\n\n---\n\n**Title:**\n\nThe Trial\n\n**Year:**\n\n2009",
+    "include_year": false
+}

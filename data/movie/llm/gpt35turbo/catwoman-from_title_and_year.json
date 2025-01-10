@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Catwoman",
+    "descriptions": [
+        "In the 2004 film \"Catwoman,\" the story follows Patience Phillips, a shy and meek graphic designer who works for a cosmetics company called Hedare Beauty. Patience accidentally uncovers a dark secret about a dangerous anti-aging cream the company is producing, leading her to be killed by the company's owner, Laurel Hedare. However, Patience is mysteriously brought back to life by an Egyptian Mau cat and gains cat-like abilities, agility, and reflexes.\n\nEmbracing her new powers, Patience transforms into Catwoman and seeks vengeance against Hedare Beauty for their crimes. As Catwoman, she begins to uncover more about her own past and the true nature of the anti-aging cream that Laurel Hedare is planning to release to the public. Along the way, she crosses paths with detective Tom Lone, who is investigating the mysterious Catwoman and becomes romantically involved with Patience.\n\nAs Catwoman delves deeper into the conspiracy at Hedare Beauty, she must navigate dangerous situations, face off against the company's security guards, and eventually confront Laurel Hedare herself. With the help of her feline instincts and newfound abilities, Catwoman fights to bring down the corrupt company and stop the harmful product from reaching consumers.\n\nThrough her journey as Catwoman, Patience Phillips learns to embrace her inner strength and confidence, breaking free from her former timid self. She ultimately becomes a symbol of justice and empowerment, using her unique skills to protect the innocent and fight against injustice.\n\n\"Catwoman\" is a story of redemption, self-discovery, and empowerment as Patience Phillips transforms into a fierce and independent hero who stands up against powerful forces to do what is right."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "80a857bf39597b277bb973a114b056d7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 349.0 words or less.\n\n---\n\n**Title:**\n\nCatwoman\n\n**Year:**\n\n2004",
+    "include_year": false
+}

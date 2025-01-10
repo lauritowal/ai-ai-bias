@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Viva Max!",
+    "descriptions": [
+        "Viva Max! is a 1969 American comedy film directed by Jerry Paris and starring Peter Ustinov, John Amos, and Jonathan Winters. The movie is set during the Vietnam War and revolves around a satirical take on the anti-war movement.\n\nThe film tells the story of Max Slaten (played by Peter Ustinov), a charming but dim-witted World War I veteran who is convinced that he is still a hero. Max is tired of living in a world where he feels he doesn't belong and decides to join the anti-war movement by claiming that he has a plan to tunnel under the Hudson River and smuggle anti-war protesters from Canada into New York City.\n\nHowever, Max's plan is not as clever as he thinks it is, and it quickly falls apart. He enlists the help of a group of bumbling protesters, including a young woman named Maxine (played by Pamela Smith), and a black activist named Billy (played by Jonathan Winters). Together, they embark on a series of misadventures as they try to execute Max's plan.\n\nAs the story unfolds, Max's antics become more and more absurd, and the film becomes a commentary on the excesses and hypocrisy of the anti-war movement. Despite its satirical tone, the movie also has a lighthearted and comedic feel to it, with plenty of physical humor and witty one-liners.\n\nThroughout the film, Peter Ustinov shines as the lovable but buffoonish Max Slaten, bringing a sense of energy and enthusiasm to the role. The supporting cast, including John Amos and Jonathan Winters, also deliver strong performances, adding to the film's comedic charm.\n\nOverall, Viva Max! is a clever and entertaining comedy that uses satire to poke fun at the anti-war movement of the 1960s. With its lighthearted tone and absurd humor, the film is a fun and nostalgic look back at a pivotal moment in American history."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "2f7295a6941cd3aa9044c4b209383821",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 590.0 words or less.\n\n---\n\n**Title:**\n\nViva Max!\n\n**Year:**\n\n1969",
+    "include_year": false
+}

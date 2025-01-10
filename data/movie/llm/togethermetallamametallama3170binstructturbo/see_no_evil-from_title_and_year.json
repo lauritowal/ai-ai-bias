@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "See No Evil",
+    "descriptions": [
+        "\"See No Evil\" is a 1971 British thriller film directed by Richard Fleischer. The movie follows Sarah, a young and beautiful woman who is blind. She lives in a large country house with her uncle and his family. \n\nOne day, Sarah's uncle and his family go away for the weekend, leaving her alone. However, she soon realizes that she is not alone in the house. Sarah discovers that three escaped convicts have taken refuge in the house. The situation becomes even more dire when Sarah realizes that the convicts are using the house to plan a heist.\n\nThe tension builds as Sarah uses her other senses to navigate the house and evade the convicts. She becomes determined to outsmart them and protect herself from harm. The movie's suspenseful atmosphere is heightened by Sarah's blindness, making it even more intense and thrilling.\n\n\"See No Evil\" explores themes of survival and the power of the human spirit. The film features a strong performance from Mia Farrow as the resilient and determined Sarah. The movie's gripping storyline and atmospheric setting make it a classic thriller that still holds up today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "38af57b758f7cfdbfaf1e9c1580d897a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 265.0 words or less.\n\n---\n\n**Title:**\n\nSee No Evil\n\n**Year:**\n\n1971",
+    "include_year": false
+}

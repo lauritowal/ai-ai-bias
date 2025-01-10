@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kingdom of the Spiders",
+    "descriptions": [
+        "In the 1977 horror film \"Kingdom of the Spiders,\" a small town in Arizona is suddenly overrun by a massive infestation of aggressive tarantulas. The story follows veterinarian Rack Hansen, played by William Shatner, who teams up with a local rancher, played by Woody Strode, and a fiery arachnologist, played by Tiffany Bolling, to investigate the cause of the spider invasion.\n\nAs they delve deeper into the mystery, they discover that the spiders are behaving unusually due to the misuse of pesticides by a nearby farm, which has disrupted their natural habitat and forced them to seek out new sources of food. The spiders begin to attack livestock, pets, and eventually, humans, causing widespread panic and chaos in the town.\n\nRack and his team realize that they must come up with a plan to stop the spiders before they completely take over the town. They try various methods to exterminate the spiders, including setting fires and using chemicals, but nothing seems to work. The spiders continue to multiply and grow more aggressive, posing a serious threat to the town's inhabitants.\n\nAs the situation becomes more dire, Rack and his team decide to take a more drastic approach by using a helicopter to drop a massive amount of spider-killing powder over the town. The plan seems to be working at first, but the spiders quickly adapt and begin to attack the helicopter, putting everyone's lives in danger.\n\nIn a heart-pounding climax, Rack and his team must face off against the relentless horde of spiders in a final showdown. With the help of the townspeople, they manage to fend off the arachnid attackers and successfully eliminate the remaining spiders. The town is saved, but not without some casualties along the way.\n\n\"Kingdom of the Spiders\" serves as a cautionary tale about the dangers of environmental destruction and the unintended consequences of human interference in nature. It also explores themes of teamwork, courage, and resilience in the face of overwhelming odds. The film's chilling atmosphere, creepy special effects, and suspenseful action sequences make it a classic cult favorite among horror fans."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c4990eaf203538c639735f738f012eaa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 806.0 words or less.\n\n---\n\n**Title:**\n\nKingdom of the Spiders\n\n**Year:**\n\n1977",
+    "include_year": false
+}

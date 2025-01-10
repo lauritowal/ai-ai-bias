@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Humanité",
+    "descriptions": [
+        "Humanité is a 1999 French drama film written and directed by Bruno Dumont. The film is set in a rural town in Northern France and revolves around the life of Pharaon De Winter, a police lieutenant in his mid-30s. Pharaon is tasked with investigating a gruesome murder of an 11-year-old girl. \n\nAs the investigation unfolds, the film delves into Pharaon's introspective and quiet personality, who struggles to cope with the brutality of the crime. The movie explores the complexities of human nature, love, and the moral ambiguities that surround Pharaon and the people in the town. He becomes obsessed with the case, but his attempts to solve it are hindered by his own emotional turmoil and detachment from the world.\n\nThe title 'Humanité' translates to 'humanity' in English, which reflects the film's themes of probing human nature and the effects of violence on individuals and society. The film features a poignant and contemplative performance by Emmanuel Schotté as Pharaon, which adds depth to the narrative."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "30441b301a481382dff20b122f946029",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999",
+    "include_year": false
+}

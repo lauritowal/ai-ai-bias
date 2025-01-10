@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "No sos vos, soy yo",
+    "descriptions": [
+        "No sos vos, soy yo (It's Not You, It's Me) is a 2004 Argentine romantic comedy film. The movie tells the story of a man, Javier (played by Diego Peretti), who decides to break up with his girlfriend, María (played by Soledad Villamil). After the breakup, Javier starts to realize that the split was not his idea, but rather the result of his own paranoia and insecurities.\n\nAs Javier tries to win María back, he must confront his own flaws and the true reasons behind their breakup. Along the way, he enlists the help of his friends and family, leading to a series of comedic misadventures.\n\nThe film is a witty and engaging exploration of relationships, love, and personal growth. Through Javier's journey, the movie pokes fun at the complexities of human relationships and the often-self-inflicted wounds that can lead to their downfall. The film's title, \"No sos vos, soy yo\" (It's Not You, It's Me), reflects Javier's growing realization that he is the one responsible for the problems in his relationship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "132b7cce378c409c1225f6fb03b65e10",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 220.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004",
+    "include_year": false
+}

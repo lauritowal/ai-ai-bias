@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spun",
+    "descriptions": [
+        "'Spun' is a 2003 American dark comedy-crime film written and directed by Jonas Åkerlund. The movie takes place over the course of three days and revolves around Ross (played by Jason Schwartzman), a young and impressionable methamphetamine addict.\n\nRoss's life is turned upside down when he is forced to become the driver for a group of eccentric methamphetamine manufacturers and users, including Spider (played by Mickey Rourke), who has just been released from jail. The group is led by the manipulative and unstable Crystal (played by Brittany Murphy), and they are desperate to get their hands on a large quantity of the highly addictive substance Pseudoephedrine, which they need to produce more methamphetamine.\n\nAs Ross becomes more and more entrenched in the chaotic and unpredictable world of these methamphetamine users and manufacturers, he finds himself caught up in a series of intense and surreal events. The group's dynamic is volatile and prone to outbursts of violence, and Ross's growing dependence on methamphetamine begins to blur his perception of reality.\n\nThroughout the film, Åkerlund uses a frenetic and kinetic visual style to capture the frenzied energy and paranoia that often accompanies methamphetamine use. The film's color palette is washed out and muted, with a focus on the drab, rundown environments that the characters inhabit.\n\nAs the story unfolds, Ross becomes increasingly disillusioned with the group's destructive lifestyle and begins to question his own involvement. However, his attempts to extricate himself from the situation are met with resistance and hostility from the group, who see him as a vital cog in their operation.\n\nUltimately, 'Spun' is a film that explores the darker aspects of addiction and the destructive power of methamphetamine. Through its unflinching portrayal of the lives of these characters, the film provides a glimpse into a world that is often hidden from view, and offers a powerful commentary on the devastating consequences of addiction."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "4df379a449eaf8f426a0186d19c6a745",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 765.0 words or less.\n\n---\n\n**Title:**\n\nSpun\n\n**Year:**\n\n2003",
+    "include_year": false
+}

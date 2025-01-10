@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ee Parakkum Thalika",
+    "descriptions": [
+        "\"Ee Parakkum Thalika\" is a 2001 Indian Malayalam-language comedy film that follows the story of three friends - Unni, Das, and Swarnavel. Unni is a small-time bus conductor who dreams of becoming a millionaire, while Das is a carefree young man who is always up for an adventure. Swarnavel is a naive village boy who is easily influenced by his friends.\n\nThe trio boards a bus headed to Bangalore in search of better opportunities. However, things take a hilarious turn when they realize that the bus they are on is full of quirky characters and unusual situations. From a love-struck couple to a forgetful old man, the bus journey is filled with laughter and chaos.\n\nAs the journey progresses, Unni, Das, and Swarnavel find themselves embroiled in a series of misadventures that test their friendship and resilience. They encounter con artists, gangsters, and even a runaway bride, leading to a rollercoaster ride of laughter and chaos.\n\nDespite the challenges they face, the trio sticks together and learns valuable lessons about friendship, loyalty, and the true meaning of success. Through their escapades, they discover that wealth and fame are not as important as the bonds they share with each other.\n\n\"Ee Parakkum Thalika\" is a heartwarming comedy that celebrates the spirit of friendship and the joy of life's unexpected twists and turns."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "651ae988e9b785fc8369dd64b6202da8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 266.0 words or less.\n\n---\n\n**Title:**\n\nEe Parakkum Thalika\n\n**Year:**\n\n2001",
+    "include_year": false
+}

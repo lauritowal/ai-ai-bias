@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chandamama",
+    "descriptions": [
+        "Chandamama is a 2007 Indian Telugu-language fantasy film that follows the story of a young man named Sivaramakrishna (played by Navdeep) who has a deep love for storytelling. He narrates fantastical tales to children in a village, captivating them with his imagination and creativity. One day, he meets a beautiful woman named Priya (played by Shriya Saran) and falls in love with her. However, Priya is engaged to another man, sparking a love triangle that threatens to tear them apart.\n\nAs Sivaramakrishna continues to tell stories to the children, he becomes more involved in their lives and learns valuable lessons about love, sacrifice, and perseverance. Through his storytelling, he helps the children navigate their own challenges and inspires them to follow their dreams.\n\nMeanwhile, Sivaramakrishna's love for Priya deepens, leading to a series of misunderstandings and obstacles that test their relationship. As their love is put to the ultimate test, Sivaramakrishna must find a way to prove his love for Priya and win her heart.\n\nThroughout the film, Chandamama weaves together elements of fantasy, romance, and drama to create a heartfelt story about the power of love and storytelling. The movie highlights the importance of imagination, creativity, and empathy in overcoming life's obstacles and connecting with others on a deeper level.\n\nIn the end, Sivaramakrishna's storytelling not only entertains the children in the village but also helps him find his own path to happiness and fulfillment. Chandamama is a heartwarming tale that celebrates the magic of storytelling and the transformative power of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "5f682c2bf484b9f3e4b8f257135fa2e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 306.0 words or less.\n\n---\n\n**Title:**\n\nChandamama\n\n**Year:**\n\n2007",
+    "include_year": false
+}

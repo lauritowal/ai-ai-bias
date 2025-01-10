@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tango",
+    "descriptions": [
+        "\"Tango\" is a 1998 Argentine drama film directed by Carlos Saura. The film takes place in Buenos Aires and revolves around a group of tango dancers. \n\nJuan Carlos Cobián and Mía Maestro star as Maria and Juan, a couple whose love is rekindled through the sensual and dramatic world of tango. The film explores the idea that tango is not just a dance but also a metaphor for the complexities of love and relationships.\n\nAs Maria and Juan navigate their rekindled romance, they are surrounded by another couple, played by Falk Hentschel and Cecilia Zincone, who struggle with the darker aspects of their own relationship. The film interweaves the stories of these two couples, using the tango as a backdrop to explore themes of love, passion, and heartache.\n\nThrough its use of vibrant music, dramatic dance sequences, and poignant storytelling, \"Tango\" creates a captivating and emotional journey that leaves the audience reflecting on the power of love and the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "6d8481f5b2978e83569dfeae6fea9b4e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998",
+    "include_year": false
+}
