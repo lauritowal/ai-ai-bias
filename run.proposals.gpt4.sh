@@ -3,15 +3,15 @@
 WORKERS=1  # Set to 1 if the model starts with `groq-`
 
 COMPARISON_MODELS="\
-  gpt-3.5-turbo \
-  together-Qwen/Qwen2.5-72B-Instruct-Turbo \
-  together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo \
+  gpt-4-1106-preview \
 "
 
 DESCRIPTION_ENGINES="\
+  gpt-3.5-turbo \
   together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
   together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo \
   together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
+  together-Qwen/Qwen2.5-72B-Instruct-Turbo \
   together-Qwen/Qwen2.5-7B-Instruct-Turbo \
 "
 
