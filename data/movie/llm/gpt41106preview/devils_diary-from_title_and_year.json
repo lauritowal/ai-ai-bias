@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Devil's Diary",
+    "descriptions": [
+        "\"Devil's Diary\" is a 2007 supernatural horror film that delves into the dark consequences of unleashing evil through the written word. The movie's plot revolves around two teenage girls, Dominique and Ursula, who stumble upon a mysterious, ancient diary in a graveyard while attending a high school friend's party.\n\nAs they begin to read the diary, they quickly realize that it possesses a sinister power: anything written in it comes true in the most horrific ways. Initially, the girls use the diary to enact petty revenges on those who have wronged them, such as high school bullies and dismissive peers. Dominique, who is more innocent and less inclined towards malice, becomes increasingly uncomfortable with the use of the diary, while Ursula becomes obsessed and corrupted by the power it holds.\n\nAs Ursula's entries become more vengeful and deadly, the consequences spiral out of control, leading to a series of tragic events. The mysterious deaths and inexplicable occurrences begin to attract attention, and the girls find themselves at the center of a dark and terrifying force that they do not fully understand.\n\nAs the body count rises, Dominique realizes that they must find a way to stop the diary's power before it's too late. The film's tension builds as she struggles to confront Ursula, who has been completely consumed by the diary's dark influence. Dominique must battle her friend for possession of the cursed book, confront the evil that they have unleashed, and find a way to end the diary's deadly cycle.\n\nThe film explores themes of power, corruption, and the unintended consequences of one's actions, wrapped up in a supernatural horror narrative. The climax of the movie involves a desperate fight against time and evil forces, as Dominique seeks to right the wrongs that have been done and to prevent the devilish diary from claiming more lives.\n\n\"Devil's Diary\" is a cautionary tale about the allure of power and the destructive nature of vengeance, showing how quickly the line between justice and malevolence can be blurred when one is given the means to act without consequences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e0949543564dd5f487d81d6d9cda282b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 2867.0 words or less.\n\n---\n\n**Title:**\n\nDevil's Diary\n\n**Year:**\n\n2007",
+    "include_year": false
+}

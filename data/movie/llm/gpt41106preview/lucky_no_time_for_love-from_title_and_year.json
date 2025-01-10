@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lucky: No Time for Love",
+    "descriptions": [
+        "\"Lucky: No Time for Love\" is a 2005 Bollywood romantic drama set against the backdrop of political unrest in Russia. The plot revolves around Lucky Negi (played by Sneha Ullal), an Indian teenager who is the daughter of the Indian ambassador to Russia. While she is attending a school in Russia, a political uprising breaks out, and the chaos of the rebellion separates her from her family.\n\nDuring the turmoil, Lucky encounters Aditya Sekhri (played by Salman Khan), an Indian man who happens to be in Russia on business. Aditya takes it upon himself to protect Lucky amidst the violence and uncertainty. As they embark on a perilous journey to reunite Lucky with her family, the two develop a deep bond that blossoms into love.\n\nTheir journey is fraught with danger, as they must navigate not only the physical obstacles presented by the rebellion but also the emotional turmoil of their growing feelings for each other. Despite the chaos around them, Lucky and Aditya find solace in each other's company, giving rise to a delicate romance that must survive the harsh realities of war.\n\n\"Lucky: No Time for Love\" is a tale of love against all odds, highlighting themes of bravery, sacrifice, and the enduring power of love. It showcases the lengths to which people will go to protect those they care about and the unexpected relationships that can form in the midst of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "68e35a951cf86336918f53d43c4b204c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005",
+    "include_year": false
+}

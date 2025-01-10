@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chandamama",
+    "descriptions": [
+        "\"Chandamama\" is a 2007 Telugu-language film directed by Krishna Vamsi. The movie is a family drama interlaced with romance, comedy, and traditional values.\n\nSet in a picturesque village, the story revolves around four main characters: Ranga Rao, the village head who is highly respected; his daughter Mahalakshmi, who is loved by everyone for her beauty and kindness; Kishore, Ranga Rao's nephew who is a carefree and jovial young man; and a stranger from the city named Kishna, who enters the village with his own secret agenda.\n\nRanga Rao wants to see his daughter Mahalakshmi married to a suitable boy from a good family. However, Mahalakshmi is secretly in love with Kishore, who is oblivious to her feelings. The twist in the tale comes with the arrival of Kishna, who starts working on a mission that could potentially harm the interests of the villagers.\n\nAs the story unfolds, Kishna's true intentions become clear, and they are not as harmful as initially suspected. In fact, Kishna harbors a deep secret that connects him to the village in ways nobody could have imagined.\n\nThe film weaves through various subplots, including the romantic escapades of Kishore, the schemes of village adversaries, and the blossoming love between Mahalakshmi and Kishore. Amidst all this, Ranga Rao represents the moral backbone of the story, guiding the characters through the challenges they face.\n\n\"Chandamama\" ultimately explores themes of love, loyalty, and community spirit. The movie is known for its vibrant portrayal of rural life, melodious music, and engaging performances. As the story reaches its climax, truths are unveiled, relationships are tested, and the village comes together to celebrate the union of true love and the victory of good over evil."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5f682c2bf484b9f3e4b8f257135fa2e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 306.0 words or less.\n\n---\n\n**Title:**\n\nChandamama\n\n**Year:**\n\n2007",
+    "include_year": false
+}

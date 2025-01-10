@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Vulture",
+    "descriptions": [
+        "In the bustling city of London in 1937, \"The Vulture\" unfolds as a gripping crime-drama. The story revolves around Jonathan Blake, a former detective turned private investigator who is renowned for his unique ability to solve the most perplexing of cases. When a series of mysterious and gruesome crimes begin to terrorize the city, leaving behind a signature mark that eerily resembles a vulture, the police find themselves at a dead end.\n\nEnter Blake, who is hired by the anxious city officials to track down the elusive criminal mastermind behind these heinous acts. As Blake delves deeper into the investigation, he encounters a web of deceit, corruption, and the dark underbelly of London society. His journey leads him through the fog-enshrouded streets, where every shadow could conceal a clue or a perilous trap set by the cunning antagonist.\n\nThe stakes rise when Blake discovers that the Vulture is not just a mere criminal but is driven by a vendetta against the very institutions that uphold the law. With time running out and the body count rising, Blake must use his wits and moral compass to navigate through the lies and bring the Vulture to justice before he strikes again, saving London from the clutches of fear and restoring peace to its citizens."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3f2ad087bb1cac376822658c08cbe5e7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 232.0 words or less.\n\n---\n\n**Title:**\n\nThe Vulture\n\n**Year:**\n\n1937",
+    "include_year": false
+}

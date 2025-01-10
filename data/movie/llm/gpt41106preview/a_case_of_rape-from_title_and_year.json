@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Case of Rape",
+    "descriptions": [
+        "\"A Case of Rape\" is a 1974 television film that delves into the harrowing experience of a woman named Ellen Harrod, portrayed by Elizabeth Montgomery. The film tackles the difficult subject of marital rape and the challenges faced by victims when they seek justice.\n\nThe plot centers on Ellen, a loving wife and mother who endures the psychological and physical trauma of rape by a man she encounters one evening. The assailant, who is an acquaintance, attacks her twice, leaving Ellen traumatized and fearful for her safety. Despite the stigma and shame often associated with sexual assault, Ellen bravely decides to report the crime to the police, hoping for justice.\n\nThe title, \"A Case of Rape,\" highlights the legal battle that ensues. Ellen's ordeal is compounded by the skepticism of law enforcement, the invasive and often humiliating legal procedures, and the social attitudes of the time which question the credibility and character of rape victims. The film portrays the grueling courtroom proceedings where Ellen is cross-examined, and her personal life is scrutinized. The defense attempts to discredit her, suggesting that she provoked the attack or consented to the encounter, reflecting the widespread misconceptions about rape.\n\nEllen's husband, played by Ronny Cox, initially supports her but becomes increasingly strained by the weight of the situation. Throughout the film, Ellen's resilience is tested as she navigates the emotional turmoil and the dismissive attitudes of those around her, including the jurors. The movie exposes the flaws in the legal system and societal perceptions of the 1970s that often blamed victims and protected perpetrators.\n\n\"A Case of Rape\" was groundbreaking for its time, bringing the issue of sexual assault, particularly marital rape, which was often ignored or dismissed, into the public conversation. It is a stark portrayal of a woman's fight for justice against the backdrop of a society that is reluctant to acknowledge her suffering and the reality of sexual violence. The film is a poignant and distressing reflection on the personal and legal struggles faced by rape survivors seeking validation and justice."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6a86e493dccbc8de901a3b12de7aa7f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 333.0 words or less.\n\n---\n\n**Title:**\n\nA Case of Rape\n\n**Year:**\n\n1974",
+    "include_year": false
+}

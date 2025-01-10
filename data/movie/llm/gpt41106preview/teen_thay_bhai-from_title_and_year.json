@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Teen Thay Bhai",
+    "descriptions": [
+        "\"Teen Thay Bhai\" (2011) is a Hindi-language comedy film directed by Mrighdeep Singh Lamba. The movie is about the comically dysfunctional relationship between three brothers who are brought together by their grandfather’s unusual will.\n\nThe story revolves around the three Gill brothers – Chixie, Happy, and Fancy – who are anything but close-knit. Each of them lives a separate life, engulfed in their own set of problems, and they share little but disdain and irritation for each other. Chixie (Om Puri) is the oldest, a married shopkeeper whose business is failing. Happy (Deepak Dobriyal), the middle brother, is a dentist with a failing marriage, and Fancy (Shreyas Talpade), the youngest, is a struggling actor who dreams of making it big.\n\nTheir grandfather, who was apparently aware of the growing rift between his grandsons, passes away, leaving behind a peculiar will. The will stipulates that the brothers must spend three years together on three consecutive anniversaries of his death at a snowbound cabin that he owned. If they fail to comply with this condition, they will forfeit their inheritance.\n\nReluctantly, the brothers meet at the cabin, leading to a series of comic misadventures as they bicker, fight, and try to sabotage each other’s stay. Their time together is filled with chaos, heartwarming moments, and humorous encounters that force them to confront their differences and personal issues. As they continue to honor their grandfather’s will over the three years, they begin to understand and appreciate each other, discovering the bond of brotherhood that they thought was lost.\n\n\"Teen Thay Bhai\" offers a blend of slapstick humor and emotional moments, as it explores themes of family, reconciliation, and the realization that despite their differences, family ties are important and worth preserving. The film received mixed reviews but was appreciated for its light-hearted take on family dynamics and the performances of its lead actors."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "687c61c2345c9dc90d9c232d0c01a7d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 322.0 words or less.\n\n---\n\n**Title:**\n\nTeen Thay Bhai\n\n**Year:**\n\n2011",
+    "include_year": false
+}

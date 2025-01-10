@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dust Be My Destiny",
+    "descriptions": [
+        "\"Dust Be My Destiny\" is a 1939 film directed by Lewis Seiler, reflecting the struggles of the working class during the Great Depression era in America. The film stars John Garfield as Joe Bell, a down-on-his-luck man who becomes embroiled in a series of misfortunes that seem to seal his grim fate.\n\nThe story begins with Joe Bell being released from a stint in a labor camp, wrongly accused and serving time for a crime he didn't commit. His attempt to start fresh is quickly thwarted when he gets into a fight with a foreman, leading to his arrest. In court, he meets the sympathetic judge's daughter, Mabel Alden, played by Priscilla Lane. Mabel sees the good in Joe and helps him escape a life sentence, eventually falling in love with him.\n\nThe couple goes on the run, facing hardship and adversity as they try to evade the law and forge a new life together. They find work on a farm, but their past catches up with them, leading to a dramatic courtroom scene. Joe must fight to prove his innocence one more time, with Mabel steadfastly supporting him. \"Dust Be My Destiny\" is a tale of love, redemption, and the unyielding human spirit in the face of injustice and societal barriers."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7503a80b36448cbcc6b19ce17a99e3dd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 231.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939",
+    "include_year": false
+}

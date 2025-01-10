@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Mad Magician",
+    "descriptions": [
+        "In \"The Mad Magician\" (1954), we delve into the suspenseful world of Don Gallico, an ingenious inventor and designer of magical illusions who aspires to make a name for himself as a stage magician. Gallico, portrayed by the talented Vincent Price, creates a stunning new trick called the \"Lady to Tiger\" illusion, which he hopes will propel him to stardom.\n\nHowever, Gallico's dreams are crushed when his employer, the tyrannical Ross Ormond, asserts legal ownership of Gallico's creations and forbids him from performing them. Ormond intends to give the new illusion to the established magician, The Great Rinaldi, further infuriating Gallico. When Ormond pushes him over the edge, Gallico snaps and murders his oppressive boss in a fit of rage, using one of his own illusions to do the deed.\n\nTo cover his tracks, Gallico disguises himself as Ormond, only to find himself entangled in a web of deceit and murder. He must continue to employ his mastery of disguise to impersonate his victims and evade detection by the authorities.\n\nAs Detective Alan Bruce and Gallico's assistant Karen Lee start to close in, the magician's sanity begins to fray, leading him down a dark path. The film builds to a climax that sees Gallico's world of illusion and reality collide, as he orchestrates one final grand illusion in a desperate attempt to escape justice.\n\n\"The Mad Magician\" is a vintage thriller that blends elements of horror and film noir, showcasing Vincent Price's iconic performance as a man whose artistry turns to madness."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "40819b90febcbfa30a2135d948e5c092",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nThe Mad Magician\n\n**Year:**\n\n1954",
+    "include_year": false
+}

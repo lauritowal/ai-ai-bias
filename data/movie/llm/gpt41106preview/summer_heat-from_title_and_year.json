@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Summer Heat",
+    "descriptions": [
+        "Title: Summer Heat\nYear: 2008\n\nPlot Summary:\n\nSet in a small coastal town during the summer of 2008, \"Summer Heat\" follows the story of Anna, a young woman who returns home after several years away at college. The film opens with Anna's arrival, her sense of nostalgia palpable as she drives through the familiar streets, greeted by the sights and sounds of summer in full swing.\n\nAs the town prepares for its annual summer festival, Anna rekindles old friendships and confronts past relationships. She meets up with her high school sweetheart, Michael, who has stayed in town, working at his family's boat repair shop. Despite the passage of time, their chemistry is undeniable, and they find themselves drawn to each other once again.\n\nHowever, the idyllic reunion is complicated by the arrival of a new figure in town: David, an enigmatic artist with a troubled past. He captures Anna's attention with his talent and mysterious allure, creating a love triangle that stirs up long-buried emotions and rivalries among the trio.\n\nAs the summer heat intensifies, so do the dynamics within the group. The tension between Michael and David escalates, with both vying for Anna's affection. Meanwhile, Anna is torn between the comfort of her history with Michael and the exciting, unpredictable prospect of a future with David.\n\nThe film delves into themes of passion, jealousy, and the crossroads of life. It explores the idea that the choices we make in the heat of the moment can have lasting consequences. The small-town setting provides a backdrop for the unfolding drama, with the festival serving as a catalyst for the characters' true feelings to emerge.\n\nThe climax of \"Summer Heat\" arrives as the festival's fireworks light up the night sky, mirroring the explosive confrontations between characters. In the end, Anna must decide whether to embrace the familiarity of her past or take a risk on a new, uncertain love.\n\n\"Summer Heat\" is a coming-of-age drama that captures the essence of summer romance, the complexities of growing up, and the struggle to find one's place in the world amidst the backdrop of fleeting seasonal beauty."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "76c9674bf3f7e006ed0fed3b5b7bf780",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 360.0 words or less.\n\n---\n\n**Title:**\n\nSummer Heat\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Transit",
+    "descriptions": [
+        "\"Transit\" (2012) is a tense thriller directed by Antonio Negret, revolving around a family's harrowing ordeal when a band of criminals targets them. The plot is centered around the Sidwell family, who are embarking on a camping trip to bond and mend their strained relationships. The father, Nate Sidwell, is trying to reconnect with his wife, Robyn, and their two children after a stint in prison for a white-collar crime.\n\nHowever, their attempt at a peaceful getaway takes a nightmarish turn when a gang of four ruthless thieves, led by the cold and calculating Marek, cross paths with them. The criminals have just pulled off a daring armored car heist, stealing a large sum of money. In their attempt to evade the police, they stash the stolen cash in the Sidwells' SUV at a rest stop, planning to retrieve it once they've passed the police roadblocks.\n\nUnbeknownst to the Sidwells, their vehicle becomes a target for the criminals as they continue their journey. The family soon realizes they are being followed and harassed by the thieves. Tensions escalate when the true nature of their pursuers is revealed, and the family must come to terms with the dangerous situation they've unwittingly become a part of.\n\nNate, drawing on his past experiences and desperate to protect his family, decides to take matters into his own hands. He must outwit and outmaneuver the criminals who will stop at nothing to retrieve their loot. The family's survival becomes a high-stakes game of cat and mouse, as they are pushed to their limits both physically and emotionally.\n\nWith the law enforcement on the lookout for the robbers and the Sidwells caught in the middle, \"Transit\" delivers a thrilling ride filled with action, suspense, and a test of family loyalty and resilience in the face of danger. The film examines themes of redemption, trust, and the lengths one will go to protect loved ones."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "aec605f8f9222d29de447c44d00f6880",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1761.0 words or less.\n\n---\n\n**Title:**\n\nTransit\n\n**Year:**\n\n2012",
+    "include_year": false
+}

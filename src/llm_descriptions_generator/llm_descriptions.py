@@ -78,7 +78,6 @@ def generate_llm_descriptions_for_item_type(
             )
         
         llm_description_batches: list[LlmGeneratedTextItemDescriptionBatch] = []
-
         for source_description_batch in source_description_batches:
             generation_prompt = create_text_item_generation_prompt_from_config(
                 config=generation_config,
@@ -117,6 +116,9 @@ def generate_llm_descriptions_for_item_type(
                 # if existing_description_count < description_count:
                 # generate and save results one at a time in case of failures
                 encoding = tiktoken.encoding_for_model("gpt-3.5-turbo-1106")
+
+                print("generation_prompt.prompt_text", generation_prompt.prompt_text)
+
                 tokens = encoding.encode(generation_prompt.prompt_text)
                 if llm_engine == Engine.gpt35turbo1106 and len(tokens) >= 16385:
                     print(f"Skip. prompt {generation_prompt.prompt_nickname} is too long for gpt35turbo1106")

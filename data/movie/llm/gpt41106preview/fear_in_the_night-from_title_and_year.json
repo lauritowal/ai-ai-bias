@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Fear in the Night",
+    "descriptions": [
+        "\"Fear in the Night\" is a 1947 film noir psychological thriller directed by Maxwell Shane and based on the story \"And So to Death\" by Cornell Woolrich. The movie follows the story of a man named Vince Grayson, who is a bank teller plagued by a disturbing dream that feels all too real. In his nightmare, Vince dreams that he murders a man in a bizarre mirrored room, only to wake up with physical evidence that suggests the dream may have actually happened.\n\nConfused and horrified, Vince finds support from his brother-in-law, Cliff Herlihy, who is a detective. As Vince's grip on reality begins to slip, and he is tormented by doubts about his own sanity, Cliff decides to investigate the strange circumstances to uncover the truth. The tension builds as they delve deeper into the mystery, with Vince questioning his innocence and his own mind.\n\nTogether, Vince and Cliff uncover a trail of clues that lead them to the actual mirrored room from Vince's dream. It is revealed that Vince was indeed involved in a crime, but he has been manipulated by a nefarious figure who was using hypnosis to control him and carry out the murder. The psychological manipulation and the stark fear Vince experiences throughout the film exemplify the classic themes of film noir, including paranoia, identity crisis, and the fine line between reality and illusion.\n\n\"Fear in the Night\" is a gripping exploration of subconscious fears and the power of suggestion, culminating in a tense and suspenseful resolution that seeks to free Vince from the nightmare that has taken over his life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5adaaea8a2cdc41dbd1dc4a0295bdbeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nFear in the Night\n\n**Year:**\n\n1947",
+    "include_year": false
+}

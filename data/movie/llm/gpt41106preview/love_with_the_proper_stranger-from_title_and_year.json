@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love with the Proper Stranger",
+    "descriptions": [
+        "\"Love with the Proper Stranger\" is a romantic comedy-drama film released in 1963, directed by Robert Mulligan and starring Natalie Wood and Steve McQueen. The film explores themes of love, responsibility, and personal growth during an era when topics such as premarital sex and abortion were considered taboo for Hollywood films.\n\nThe plot follows Angie Rossini (Natalie Wood), a young Italian-American woman living in New York City who works as a Macy's shop clerk. She has a brief fling with Rocky Papasano (Steve McQueen), a musician who is a bit of a ladies' man. After their one-night stand, Angie finds herself pregnant. She tracks Rocky down, not for a declaration of love, but to seek his assistance in dealing with the pregnancy.\n\nRocky, initially indifferent, feels a sense of responsibility and agrees to help Angie find a doctor to perform an illegal abortion. However, as they spend more time together during this crisis, they begin to develop genuine feelings for each other. The film delves into their emotional journey, as they navigate the complexities of their relationship and their futures. Their connection forces both Angie and Rocky to reflect on their lives, the societal expectations they face, and what it truly means to fall in love with the \"proper stranger.\"\n\n\"Love with the Proper Stranger\" is a poignant story that balances the serious issues of its time with the universal themes of love and self-discovery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9ad016a99671e1a6d75cf7772845abe6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLove with the Proper Stranger\n\n**Year:**\n\n1963",
+    "include_year": false
+}

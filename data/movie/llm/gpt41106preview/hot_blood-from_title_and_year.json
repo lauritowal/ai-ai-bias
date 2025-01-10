@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hot Blood",
+    "descriptions": [
+        "\"Hot Blood\" (1956) is a drama centered around the vibrant and passionate world of a Romani (Gypsy) community in the United States. The film stars Cornel Wilde as Stephano Torino, a handsome and fiery Romani dancer who is determined to maintain his cultural traditions. His brother, Marco (Luther Adler), has other plans and arranges a marriage for Stephano to the beautiful and spirited Annie Caldash (Jane Russell).\n\nAnnie, initially ambivalent about the marriage, agrees to the arrangement with the hope of securing a stable future. However, when she meets Stephano, sparks fly, and the two quickly find themselves engulfed in a tempestuous relationship that reflects the intensity of their dances.\n\nAs the story unfolds, Stephano struggles with the expectations of his community, his brother's manipulative control, and his own desires for freedom. Annie, on the other hand, learns to navigate the complexities of Romani culture while also asserting her independence and challenging traditional gender roles.\n\nThe film is infused with energetic dance sequences and a colorful portrayal of Romani life, set against the backdrop of 1950s America. \"Hot Blood\" explores themes of love, family loyalty, cultural identity, and the clash between tradition and modernity, all while treating viewers to a dramatic and musical spectacle."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "25f211d561e48c823de2791c70bc36ed",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+    "include_year": false
+}

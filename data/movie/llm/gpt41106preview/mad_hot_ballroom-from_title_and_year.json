@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mad Hot Ballroom",
+    "descriptions": [
+        "\"Mad Hot Ballroom\" is a 2005 documentary film directed by Marilyn Agrelo. The film captures the journey of New York City public school students as they prepare for and compete in a citywide ballroom dancing competition.\n\nThe plot centers around fifth graders from three diverse schools in Manhattan, Brooklyn, and Queens. The students, many of whom have never danced before, are introduced to the world of ballroom dance through a ten-week program provided by the nonprofit organization Dancing Classrooms. The program's aim is to not only teach the students dance steps but also to instill in them a sense of pride, discipline, and accomplishment.\n\nThrough their rigorous training, the children learn various dance styles, including the tango, rumba, swing, foxtrot, and merengue. As they practice their steps and routines, the documentary highlights their personal growth, the development of their social skills, and the way the experience affects their self-esteem and outlook on life.\n\nThe film showcases the excitement and nervousness of the young dancers as they move through the quarter-finals and semi-finals, with the goal of reaching the final competition. It also delves into the lives and backgrounds of several students, offering a glimpse into the challenges and triumphs they face both on and off the dance floor.\n\n\"Mad Hot Ballroom\" is an inspiring and heartwarming film that demonstrates the transformative power of dance and the positive impact it can have on children's lives, as they learn about respect, cultural diversity, and competition, all while having fun and building lasting friendships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e0a0ed68c8446d78c2e0e77da68d07e8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nMad Hot Ballroom\n\n**Year:**\n\n2005",
+    "include_year": false
+}

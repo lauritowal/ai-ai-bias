@@ -124,20 +124,25 @@ class TextItemDescriptionBatch:
     descriptions: list[DescriptionTextOrJson]
     origin: Origin
 
+
 @dataclass
 class HumanTextItemDescriptionBatch(TextItemDescriptionBatch):
     meta: t.Optional[dict] = None
+    year: t.Optional[bool] = False
+
 
 @dataclass
 class LlmGeneratedTextItemDescriptionBatch(TextItemDescriptionBatch):
-    item_type: str
-    title: str
-    descriptions: list[DescriptionTextOrJson]
-    origin: Origin
     llm_engine: str
-    generation_prompt_uid: str # @deprecated concept. do not use.
+    generation_prompt_uid: str  # @deprecated concept. do not use.
     generation_prompt_nickname: str
     generation_prompt_text: str
+    item_type: str
+    title: str
+    origin: Origin
+    descriptions: list[DescriptionTextOrJson]
+    include_year: t.Optional[bool] = False
+
 
 @dataclass
 class TextItemGenerationPromptConfig:
@@ -149,6 +154,7 @@ class TextItemGenerationPromptConfig:
     include_title: t.Optional[bool] = True
     output_description_type: t.Optional[t.Any] = None
     match_human_original_length: t.Optional[bool] = None
+    include_year: t.Optional[bool] = False
 
 @dataclass
 class TextItemGenerationPrompt:

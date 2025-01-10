@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Khumba",
+    "descriptions": [
+        "\"Khumba\" is a 2013 South African 3D computer-animated adventure film that tells the story of a young zebra named Khumba who is born with only half of his stripes. The film is set in the Great Karoo desert in South Africa and follows Khumba's journey as he embarks on a daring quest to earn his stripes.\n\nIn the film, Khumba is an outcast within his superstitious zebra herd because of his partial striping, which they believe is an omen of bad luck. This belief is further entrenched when a severe drought hits the area, and the zebras attribute their misfortune to Khumba's unusual appearance. Feeling responsible for the hardships of his herd and desperate to fit in, Khumba becomes convinced that finding a legendary waterhole where the first zebras got their stripes will complete his own and bring water back to the land.\n\nEncouraged by a mystical mantis, Khumba leaves the safety of his home and ventures into the vast Karoo desert. Along the way, he meets a variety of quirky characters, including a sassy wildebeest named Mama V and a flamboyant ostrich named Bradley. The unlikely trio faces numerous challenges and adversaries, including a fierce leopard named Phango, who sees Khumba as his ultimate prey due to his unique appearance.\n\nAs Khumba searches for the waterhole, he learns valuable lessons about diversity, acceptance, and the courage to be oneself. He discovers that uniqueness can be a strength rather than a weakness and that it's not necessary to conform to be accepted. Ultimately, Khumba's adventure brings hope and unity to the animals of the Karoo as he finds a way to save his herd and the other creatures from the drought.\n\n\"Khumba\" is a heartwarming tale that combines humor, action, and life lessons, appealing to children and adults alike. The movie delivers a message of self-discovery, embracing one's identity, and the importance of community and teamwork."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ff47d5bb7ce7a87937dbd0529a81be8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 303.0 words or less.\n\n---\n\n**Title:**\n\nKhumba\n\n**Year:**\n\n2013",
+    "include_year": false
+}

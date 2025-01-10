@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Azhagi",
+    "descriptions": [
+        "\"Azhagi\" is a 2002 Indian Tamil-language drama film written and directed by Thangar Bachan. The title \"Azhagi\" translates to \"Beautiful Woman\" in English.\n\nPlot Summary:\n\nThe story of \"Azhagi\" revolves around the life of Dhanalakshmi (Nandita Das), a simple and beautiful woman living in a rural village in Tamil Nadu. She is married to a kind-hearted, hardworking man named Shanmugam (Parthiban), with whom she shares a deep and loving bond. They have a daughter and lead a contented life, despite their modest means.\n\nHowever, Dhanalakshmi's past holds a poignant tale. Before her marriage, she was in love with a young man named Sekar (Ajith Kumar), with whom she shared a passionate and intense relationship. Circumstances forced them apart, and Dhanalakshmi's life took a different turn when she married Shanmugam. Sekar, on the other hand, was unable to forget Dhanalakshmi and remained unmarried, holding onto the memories of their time together.\n\nAs fate would have it, Sekar arrives in Dhanalakshmi's village many years later, bringing the past rushing back. The sudden re-entry of her first love unsettles Dhanalakshmi's life. While she has moved on and is dedicated to her family, the presence of Sekar rekindles old feelings and creates an emotional turmoil within her.\n\nThe film beautifully captures the internal conflict Dhanalakshmi experiences as she grapples with her past love and present responsibilities. It also explores the themes of love, loyalty, and sacrifice. Dhanalakshmi is torn between the loyalty to her husband and the unresolved emotions for her first love. The narrative delves into how the main characters deal with the complexities of relationships and the impact of their choices on their lives.\n\n\"Azhagi\" is a poignant exploration of human emotions and relationships, showcasing the depth of character and the strength required to honor present commitments while respecting the past. The film's sensitive storytelling, combined with powerful performances by the cast, particularly by Nandita Das and Parthiban, makes it a memorable cinematic experience. The movie was well-received for its narrative, direction, and the actors' portrayal of the characters' nuanced emotions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3ff1ae95bab7b9f051e07505e41f04af",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nAzhagi\n\n**Year:**\n\n2002",
+    "include_year": false
+}

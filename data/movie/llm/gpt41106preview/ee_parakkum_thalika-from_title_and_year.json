@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ee Parakkum Thalika",
+    "descriptions": [
+        "\"Ee Parakkum Thalika\" is a 2001 Malayalam-language comedy film from India. The title translates to \"On the Wings of Dreams\" in English. Directed by Thaha, the film stars Dileep, Nithya Das, and Harisree Asokan in pivotal roles.\n\nPlot Summary:\n\nThe story revolves around Unni (played by Dileep), a young man who inherits a dilapidated bus from his late father. Unni is simple-minded and has an innocent nature, which often leads to amusing situations. The bus is in a shabby state and is considered unlucky by the locals, as it has been the site of several mishaps and accidents. Despite this, Unni dreams of restoring the bus and starting his own transport business.\n\nWith help from his friend Sundareshan (played by Harisree Asokan), who is a street-smart and witty character, they start the arduous task of renovating the bus. Through a series of comedic events and mishaps, they finally manage to get the bus running. The bus is named \"Ee Parakkum Thalika,\" symbolizing the dreams and aspirations that it carries.\n\nAs they embark on their maiden trip, the duo encounters a host of colorful characters, each with their own quirks and stories, leading to a journey filled with laughter and unexpected friendships. Along the way, Unni falls in love with a girl named Pooja (played by Nithya Das), adding a touch of romance to the narrative.\n\nUnni's journey with \"Ee Parakkum Thalika\" is not just about the bus, but also about self-discovery, the importance of perseverance, and the joy of pursuing one's dreams, no matter how far-fetched they may seem. The film combines slapstick comedy with heartwarming moments, making it a memorable ride for the audience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "651ae988e9b785fc8369dd64b6202da8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 266.0 words or less.\n\n---\n\n**Title:**\n\nEe Parakkum Thalika\n\n**Year:**\n\n2001",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daivanamathil",
+    "descriptions": [
+        "\"Daivanamathil,\" a Malayalam film released in 2005, is set against the backdrop of the Babri Masjid demolition in 1992 and the subsequent riots that followed in India. The story focuses on Anwar, a young Muslim man who gets influenced by extremist ideologies post the demolition of the Babri Masjid.\n\nAnwar, played by Prithviraj Sukumaran, is an intelligent and promising student who is deeply affected by the communal tensions. As he becomes increasingly disturbed by the injustice he perceives his community to be facing, he joins a radical Islamic group that preaches a hardline interpretation of Islam. His newfound beliefs and activities start to create a rift between him and his family, especially his wife, Sameera.\n\nSameera, portrayed by Bhavana, is a strong-willed and educated woman who does not share her husband's extremist views. She tries to steer Anwar away from the path of violence and fundamentalism, fearing for both their future and the moral implications of his actions. The film delves into the complexities of religious extremism, the personal struggle of the protagonist, and the impact of his choices on his relationship with his wife and his own identity.\n\n\"Daivanamathil\" is a poignant narrative that explores themes of love, faith, and the human cost of religious conflict. It's a story of redemption and the power of love to overcome hate and prejudice. The film is directed by Jayaraj and leverages powerful performances, a compelling script, and sensitive storytelling to present a thought-provoking commentary on the socio-political issues of the time. It's a film that resonates with the audience by showing the personal and emotional consequences of communal violence and the loss of innocence in the face of ideological extremism."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "632ce75844ddbfb9ea3530b771c305e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nDaivanamathil\n\n**Year:**\n\n2005",
+    "include_year": false
+}

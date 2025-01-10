@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rokkk",
+    "descriptions": [
+        "\"Rokkk\" is a 2010 Indian horror film directed by Rajesh Ranshinge. The movie intertwines supernatural elements with psychological horror, unraveling a tale of curses, tragic deaths, and the unrelenting grip of the past on the present.\n\nThe plot revolves around two women, Anushka and Ahana. Anushka is married to an abusive husband, Ranveer. Her life takes a dark turn when she moves into a new apartment with him. The apartment, unbeknownst to them, is cursed, and Anushka experiences disturbing supernatural occurrences. Her concerns go unheeded by Ranveer, who believes she is delusional. Tragically, Anushka dies under mysterious circumstances, leaving the curse unresolved.\n\nThe story then shifts focus to Ahana, Anushka's sister, who is determined to uncover the truth behind the strange events that led to her sister's death. She is joined by Anushka's friend, Ravi, and together they delve into the history of the apartment. They discover that the building is built on the grounds of an old colonial bungalow where a woman was wrongly accused of being a witch and killed, setting the curse in motion.\n\nAs Ahana investigates further, she encounters a series of terrifying supernatural events similar to what Anushka experienced. The curse seems to be repeating itself, threatening Ahana's life. To save herself and put an end to the cycle, Ahana must unravel the mystery behind the curse and find a way to break it. She seeks the help of a priest who specializes in paranormal activities and learns about the rituals needed to free the apartment from the haunting.\n\nThe climax of the movie sees Ahana performing a risky exorcism to confront the sinister forces and save herself from the same fate that befell her sister. \"Rokkk\" combines the horror of the unknown with the desperation of a sister's love, culminating in a suspenseful and chilling narrative that leaves audiences questioning the reality of curses and the power of the past."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "03e26709601c0002054b2ef0a6189ec9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 323.0 words or less.\n\n---\n\n**Title:**\n\nRokkk\n\n**Year:**\n\n2010",
+    "include_year": false
+}

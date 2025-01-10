@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rescue Dawn",
+    "descriptions": [
+        "\"Rescue Dawn,\" a 2006 film directed by Werner Herzog, is based on the true story of Dieter Dengler, a U.S. Navy pilot during the Vietnam War. Dieter Dengler, portrayed by Christian Bale, is shot down and captured by villagers allied with the Pathet Lao during an American military secret mission over Laos. Dengler is subsequently taken prisoner and subjected to brutal treatment at the hands of his captors.\n\nDespite the harsh conditions and torturous environment, Dengler refuses to give up hope. He bonds with his fellow prisoners, including Duane Martin (played by Steve Zahn) and Gene DeBruin (played by Jeremy Davies), who have been captive for longer and are suffering from the physical and psychological toll of their imprisonment.\n\nDengler orchestrates an escape plan, demonstrating remarkable ingenuity and bravery. The small group of prisoners faces the dense jungle and its many dangers, as well as the constant threat of recapture by their pursuers. The film highlights the indomitable human spirit and the will to survive against all odds.\n\n\"Rescue Dawn\" is both a survival adventure and a poignant war drama, exploring themes of camaraderie, resilience, and the resilience of the human spirit in the face of unimaginable adversity. It is a story of escape, survival, and ultimately, redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "cdbcb6267390216c9a35e429e6ab6c51",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nRescue Dawn\n\n**Year:**\n\n2006",
+    "include_year": false
+}

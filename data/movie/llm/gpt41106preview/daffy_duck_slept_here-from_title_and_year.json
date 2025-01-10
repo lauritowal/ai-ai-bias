@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daffy Duck Slept Here",
+    "descriptions": [
+        "\"Daffy Duck Slept Here\" is a 1948 Warner Bros. Merrie Melodies animated short directed by Robert McKimson. The plot revolves around Porky Pig, who desperately seeks a quiet place to rest in a crowded city but finds it nearly impossible due to the various loud and disruptive events that keep occurring around him. In his quest for peace, Porky checks into a hotel, hoping to finally catch some sleep.\n\nHowever, his plans are thwarted when he discovers that his hotel room is already occupied by the zany and irrepressible Daffy Duck. Daffy's antics and the chaotic environment he creates make it impossible for Porky to relax. The duck's unpredictable behavior, ranging from noisy gags to outlandish stunts, continuously interrupts Porky's attempts to sleep, leading to a series of comedic misunderstandings and slapstick hijinks.\n\nAs Porky grows increasingly frustrated, he tries various methods to remove Daffy or at least quiet him down, but the cunning duck always manages to stay one step ahead. The battle of wits between the two escalates throughout the night, culminating in a wild climax that leaves the hotel room—and Porky's hopes for rest—in shambles. Despite the mayhem, Daffy remains oblivious to the chaos he causes, leaving Porky to wonder if he'll ever find the tranquility he seeks."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "571661f1877124420608f05794ed5740",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948",
+    "include_year": false
+}

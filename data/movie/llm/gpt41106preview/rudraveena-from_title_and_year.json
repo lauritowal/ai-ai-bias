@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rudraveena",
+    "descriptions": [
+        "\"Rudraveena\" is a 1988 Telugu film directed by K. Balachander and starring Chiranjeevi and Shobana. The film is a social drama that explores themes of caste discrimination, social justice, and the transformative power of music.\n\nThe plot revolves around Suryam, played by Chiranjeevi, who is the son of a highly respected, conservative Carnatic musician, Bilahari Ganapathi Sastry. Suryam, however, is a progressive thinker and a social activist who believes in using music as a tool to bring about social change. His ideas clash with his father's traditional beliefs, leading to conflict between the two.\n\nDespite the opposition from his father, Suryam continues to work for the betterment of the underprivileged and fights against the caste system. He falls in love with Lalitha, played by Shobana, a woman from a lower caste. This relationship further fuels the fire between Suryam and his father.\n\nThe film's climax involves Suryam organizing a grand music concert to promote social harmony and equality. He must overcome the prejudices of society and his father's disapproval to succeed in his mission.\n\n\"Rudraveena\" is a thought-provoking film that combines a compelling narrative with a powerful social message, emphasizing the importance of empathy, equality, and the unifying force of music."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "540715a47fbcf755ac393c9609058246",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 213.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988",
+    "include_year": false
+}

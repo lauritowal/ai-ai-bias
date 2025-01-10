@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pierrot le fou",
+    "descriptions": [
+        "\"Pierrot le fou\" is a 1965 French film directed by Jean-Luc Godard, one of the key figures in the French New Wave cinema. The movie is known for its blend of genres, incorporating elements of drama, crime, and romance, as well as its vibrant use of color and innovative narrative techniques.\n\nThe film follows Ferdinand Griffon, an unhappily married man who has grown tired of his mundane life in Paris. At a party, he reconnects with Marianne Renoir, a former lover who is spontaneous and free-spirited, but also involved in criminal activities. Under the impulsive and romantic alias \"Pierrot\" (which means \"sad clown\"), Ferdinand abandons his family and embarks on a wild and unpredictable journey with Marianne across France.\n\nAs they travel, they live a life of reckless adventure, stopping to attend parties, read literature, ponder life, and make love. However, their escapades are underpinned by Marianne's involvement in a criminal plot, which involves smuggling arms and leads them to be pursued by gangsters. As they try to stay ahead of their pursuers, the couple's relationship becomes strained, with Ferdinand growing increasingly disillusioned with Marianne's dangerous lifestyle and opaque motivations.\n\nThe film is characterized by its fragmented narrative structure, frequent breaking of the fourth wall, and philosophical digressions, which reflect the characters' inner turmoil and the chaotic nature of their lives. Pierrot's journey is both a physical and existential one, seeking meaning in a world that seems absurd and superficial.\n\n\"Pierrot le fou\" is a reflection on love, freedom, and the search for authenticity in a modern world, all presented through Godard's distinctive visual style and innovative approach to storytelling. The film's ending is tragic and thought-provoking, cementing its status as a classic of French cinema and a poignant exploration of the human condition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "cf41356f93713cb5788cb0c31df63cad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 297.0 words or less.\n\n---\n\n**Title:**\n\nPierrot le fou\n\n**Year:**\n\n1965",
+    "include_year": false
+}

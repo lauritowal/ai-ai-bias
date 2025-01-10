@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Where's Firuze?",
+    "descriptions": [
+        "\"Where's Firuze?\" is a Turkish comedy film released in 2004, directed by Ezel Akay. The film showcases the chaotic and often humorous world of the music industry in Turkey, as it follows the lives of several interconnected characters who are all in some way involved with the production and release of a highly anticipated music album.\n\nThe plot revolves around Hayri and Orhan, two struggling music producers who are desperate to save their company from financial ruin. They believe that their fortunes will turn if they manage to sign Firuze, a legendary and elusive diva whose voice is considered to be the best in Turkey. However, Firuze has not been seen in public for years, and rumors about her whereabouts are rife. Some say she's retired, while others believe she's living abroad.\n\nAs Hayri and Orhan embark on a wild journey to find Firuze, their path is fraught with comic mishaps and misunderstandings. They encounter a host of quirky characters, including ambitious singers, shady businessmen, and over-the-top performers, each with their own agenda and each contributing to the chaotic tapestry of the story.\n\nThe search for Firuze becomes a metaphor for the characters' pursuit of their own dreams and aspirations in the face of adversity. Along the way, the film pokes fun at the eccentricities of the music industry, from the production of catchy yet formulaic pop songs to the marketing gimmicks used to sell records.\n\nIn true comedic fashion, the resolution comes with a twist. The characters learn that the journey to find Firuze may be more important than the actual goal, leading to personal growth and unexpected opportunities. Whether or not Firuze is found, or even if she exists at all, becomes secondary to the bonds formed and the lessons learned along the way.\n\n\"Where's Firuze?\" combines slapstick humor with a satirical look at fame and the pursuit of success, delivering laughs and commentary on the nature of celebrity within the Turkish cultural context."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1a9aaf1db5c550f6cdf2fb501638c19c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 329.0 words or less.\n\n---\n\n**Title:**\n\nWhere's Firuze?\n\n**Year:**\n\n2004",
+    "include_year": false
+}

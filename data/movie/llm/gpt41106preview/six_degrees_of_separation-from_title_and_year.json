@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Six Degrees of Separation",
+    "descriptions": [
+        "\"Six Degrees of Separation\" (1993) is a drama film directed by Fred Schepisi, based on John Guare's play of the same name. The plot revolves around a wealthy Manhattan couple, Ouisa and Flan Kittredge, who are art dealers living a sophisticated, high-society life. Their world is turned upside down when a young, charming and articulate man named Paul appears at their doorstep, claiming to be a friend of their children at Harvard and the son of actor Sidney Poitier.\n\nPaul impresses the Kittredges with his knowledge of fine cuisine, art, and his tales of world travels. Intrigued by his cultured persona, they invite him to stay the night. The next morning, they discover that Paul has deceived them after a run-in with a young male hustler in their home.\n\nAs the Kittredges begin to investigate Paul's true identity, they find out that he has been conning many upper-class New Yorkers with his fabricated stories. The film explores themes of connection, the human desire for self-discovery, and the social, racial, and economic disparities within society. It delves into the idea that everyone is connected by a chain of acquaintances with no more than six links, known as the \"six degrees of separation.\"\n\nThe movie stars Stockard Channing, who received an Academy Award nomination for her performance, Donald Sutherland, and Will Smith as Paul. It is a thoughtful, satirical, and poignant examination of the human condition and the complex social fabric of modern life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+    "include_year": false
+}

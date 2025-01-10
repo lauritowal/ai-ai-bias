@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Elementary School",
+    "descriptions": [
+        "\"The Elementary School\" (Original title: \"Obecná škola\") is a 1991 Czechoslovakian film directed by Jan Svěrák, written by his father Zdeněk Svěrák, who also stars in the movie. The film is set in the aftermath of World War II in the 1940s and explores the life of a young boy, Eda Souček, and his experiences at an elementary school in a suburban area of Prague.\n\nThe plot centers around Eda and his classmates, who are on the brink of adolescence and are known for their mischievous antics. The boys often get into trouble, which is barely managed by their weary and long-suffering teacher. Their antics range from innocent pranks to more serious transgressions, reflecting the broader societal changes and the impact of the recent war on their lives.\n\nThe school gets a new teacher, Igor Hnízdo, a stern and mysterious man who claims to be a war hero. He is strict but also fair and begins to earn the respect of the students with his unorthodox teaching methods and tales of wartime bravery. Hnízdo's influence on the boys is significant, and they start to see him as a role model, someone who brings order and a sense of purpose to their lives.\n\nHowever, as the story progresses, it becomes apparent that there may be more to Hnízdo than meets the eye. The children, along with Eda's father, who also harbors doubts about the teacher's past, start to unravel the truth. Through their investigations and the unfolding events, the film touches on themes of heroism, authority, and the innocence of childhood juxtaposed with the harsh realities of the adult world.\n\n\"The Elementary School\" is a coming-of-age film that combines humor and drama to depict a pivotal time in the lives of these young boys, as well as a critical period in Czech history. The film was well-received and was nominated for the Academy Award for Best Foreign Language Film in 1991."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a24471cd36ea39a6538f7a9b8b035a9f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 331.0 words or less.\n\n---\n\n**Title:**\n\nThe Elementary School\n\n**Year:**\n\n1991",
+    "include_year": false
+}

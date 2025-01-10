@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shakalaka Boom Boom",
+    "descriptions": [
+        "\"Shakalaka Boom Boom\" is a 2007 Bollywood musical drama film directed by Suneel Darshan. The movie delves into the cutthroat world of the music industry and explores themes of ambition, jealousy, and betrayal.\n\nThe plot centers around two main characters: A.J. (played by Bobby Deol), a music baron with an ego as large as his success, and Reggie (Upen Patel), a young, talented, and up-and-coming music composer. A.J. is renowned for his hit music and has a stronghold on the industry, but his arrogance and self-assuredness make him blind to the emerging talent of Reggie.\n\nWhen Reggie enters the scene, his fresh and innovative music quickly begins to gain popularity, threatening A.J.'s position at the top of the music world. A.J. feels threatened by Reggie's success and decides to set up obstacles to undermine Reggie's career. As Reggie navigates through these challenges, he falls in love with Ruhi (Kangana Ranaut), a budding singer who dreams of making it big in the music industry.\n\nThe plot thickens when it is revealed that A.J. also has his eyes on Ruhi, not just for her talent but also for her beauty. This creates a love triangle that adds to the tension between A.J. and Reggie. A.J.'s manipulation and cunning tactics to maintain his dominance in the music industry lead to a series of betrayals and the downfall of relationships.\n\nAs the story unfolds, the characters must deal with the consequences of their actions, and Reggie must fight to preserve his integrity and his love for Ruhi, all while striving to attain his rightful place in the music world. The climax of the film is a showdown of talent and willpower, as both A.J. and Reggie face off to see who truly deserves to be the king of the music industry.\n\n\"Shakalaka Boom Boom\" is a story of passion, music, and the dark side of fame, depicting how the quest for power can lead to rivalry and the destruction of one's moral compass."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a5decffe654e0363ff95aa4f15fd3d88",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 338.0 words or less.\n\n---\n\n**Title:**\n\nShakalaka Boom Boom\n\n**Year:**\n\n2007",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Homam",
+    "descriptions": [
+        "\"Homam,\" a 2008 Indian Telugu-language film directed by J.D. Chakravarthy, revolves around the life of Chandu, a young man who aspires to become a part of the underground criminal world. The film is heavily inspired by the Hollywood movies \"The Departed\" and \"Infernal Affairs,\" and it features themes of betrayal, undercover operations, and the quest for power within the seedy underbelly of organized crime.\n\nThe plot follows Chandu, who is fascinated by the world of crime and dreams of becoming a notorious gangster. He finds an opportunity to enter this world through Mallikarjun aka Malli, a powerful local don. The police, desperate to infiltrate Malli's gang and bring down his operations, convince Chandu to work as an undercover informant. Chandu agrees, seeing it as a chance to get close to the don and rise through the ranks.\n\nIn his journey, Chandu faces numerous challenges as he has to prove his loyalty to the gang while secretly feeding information to the police. His dual life puts him in increasingly dangerous situations, as suspicions and tensions within the gang grow. As Chandu delves deeper into his role, he begins to lose his own identity, caught between his duty to the law and the allure of power and respect within the criminal organization.\n\nThe narrative is marked by intense action sequences, dramatic confrontations, and a complex portrayal of the moral ambiguities that characterize the life of an undercover agent. Chandu's struggle to maintain his cover and the constant threat of exposure keep the tension high throughout the film, leading to a climax that reveals betrayals and tests the protagonist's allegiances.\n\n\"Homam\" is a crime drama that explores the thin line between good and evil, and the personal costs of living a life shrouded in deception. It focuses on the protagonist's inner conflict and the consequences of his choices in the treacherous world he has chosen to be a part of."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "19ac69ea77b4f2a00b33a61ec0f0edf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nHomam\n\n**Year:**\n\n2008",
+    "include_year": false
+}
