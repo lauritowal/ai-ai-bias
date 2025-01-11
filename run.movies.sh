@@ -4,11 +4,10 @@
 WORKERS=1  # If the M starts with `groq-` then set 1 one instead
 
 COMPARISON_MODELS="\
-  gpt-4-1106-preview \  
+  together-Qwen/Qwen2.5-7B-Instruct-Turbo \
 "
-# Next
-#   together-Qwen/Qwen2.5-7B-Instruct-Turbo\
-
+# Next:
+#   gpt-4-1106-preview \  
 
 # Done
 #   together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
