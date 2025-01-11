@@ -16,9 +16,8 @@ echo "COMPARISON_MODELS: $COMPARISON_MODELS"
 
 for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything is cached so it's fast
     for M in $COMPARISON_MODELS; do
-
        echo "###################### Comparison Model: $M"
-
+       sleep 65
         poetry run python scripts/generate_and_compare_descriptions.py \
             --item-type=product \
             --comparison-prompt-key=marketplace_recommendation_force_decision \

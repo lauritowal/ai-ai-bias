@@ -47,30 +47,30 @@ for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything 
         #     --redo-invalid-results \
         #     --min-description-generation-count=1
 
-        # poetry run python scripts/generate_and_compare_descriptions.py \
-        #     --item-type=product \
-        #     --comparison-prompt-key=marketplace_recommendation_force_decision \
-        #     --comparison-engine="$M" \
-        #     --description-prompt-key=from_json_details \
-        #     --description-prompt-key=from_json_product_listing \
-        #     --description-engine='gpt-3.5-turbo' \
-        #     --description-engine='gpt-4-1106-preview' \
-        #     --description-engine='together-Qwen/Qwen2.5-72B-Instruct-Turbo' \
-        #     --max-comparison-concurrent-workers="$WORKERS" \
-        #     --redo-invalid-results \
-        #     --min-description-generation-count=4
-
-        poetry run python3 scripts/generate_and_compare_descriptions.py \
-            --item-type=proposal \
+        poetry run python scripts/generate_and_compare_descriptions.py \
+            --item-type=product \
+            --comparison-prompt-key=marketplace_recommendation_force_decision \
             --comparison-engine="$M" \
-            --comparison-prompt-key=proposal_pick_one \
             --description-prompt-key=from_json_details \
-            --min-description-generation-count=1  \
+            --description-prompt-key=from_json_product_listing \
             --description-engine='gpt-3.5-turbo' \
             --description-engine='gpt-4-1106-preview' \
             --description-engine='together-Qwen/Qwen2.5-72B-Instruct-Turbo' \
             --max-comparison-concurrent-workers="$WORKERS" \
             --redo-invalid-results \
             --min-description-generation-count=1
+
+        # poetry run python3 scripts/generate_and_compare_descriptions.py \
+        #     --item-type=proposal \
+        #     --comparison-engine="$M" \
+        #     --comparison-prompt-key=proposal_pick_one \
+        #     --description-prompt-key=from_json_details \
+        #     --min-description-generation-count=1  \
+        #     --description-engine='gpt-3.5-turbo' \
+        #     --description-engine='gpt-4-1106-preview' \
+        #     --description-engine='together-Qwen/Qwen2.5-72B-Instruct-Turbo' \
+        #     --max-comparison-concurrent-workers="$WORKERS" \
+        #     --redo-invalid-results \
+        #     --min-description-generation-count=1
     done
 done
