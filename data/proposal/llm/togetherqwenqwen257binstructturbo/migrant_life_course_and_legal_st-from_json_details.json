@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Migrant Life Course and Legal Status Transition",
+    "descriptions": [
+        "This grant proposal seeks to investigate the timing and impact of citizenship on migrant integration, with a focus on how policy variations influence legal status transitions and integration outcomes. The project, titled \"Migrant Life Course and Legal Status Transition,\" aims to model migrants' legal status transitions as life course events, analyze the relevance of citizenship for work and income, living conditions, health status, out-migration, and educational attainment, and develop methodologies to analyze step-to-citizenship trajectories and policy impact. The study will utilize longitudinal and survey-based micro-data from 8 European and North American countries to test these models and inform targeted citizenship policies to maximize settlement success. The target population includes immigrants and their children. This comprehensive analysis will provide valuable insights into the complexities of migrant integration and the effectiveness of current citizenship policies."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "8105232fa3efe9ec332fb90f3f2c44e6",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 278 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Migrant Life Course and Legal Status Transition', 'proposal_details': {'descriptions': ['The project investigates the timing and impact of citizenship on migrant integration, considering how policy variations influence legal status transitions and integration outcomes.'], 'objectives': [\"Model migrants' legal status transitions as life course events\", 'Analyze the relevance of citizenship for work and income, living conditions, health status, out-migration, and educational attainment', 'Develop methodologies to analyze step-to-citizenship trajectories and policy impact', 'Test models with longitudinal and survey-based micro-data in 8 countries', 'Inform targeted citizenship policies to maximize settlement success'], 'target_population': ['Immigrants', 'Their children'], 'data_sources': ['Longitudinal register-based micro-data', 'Survey-based micro-data'], 'study_countries': ['8 European and North American countries']}}"
+}

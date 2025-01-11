@@ -1,0 +1,36 @@
+{
+    "item_type": "proposal",
+    "title": "Planning for Sustainable Ocean Use in Antarctica Under Global Environmental Change",
+    "descriptions": [
+        {
+            "proposal_name": "Planning for Sustainable Ocean Use in Antarctica Under Global Environmental Change",
+            "proposal_details": {
+                "marine_spatial_planning_development_status": "None in Antarctica",
+                "focus_on_climate_change": true,
+                "urgency": "High due to rapid changes in Antarctica",
+                "goal": "Develop integrated, sustainable MSP for Antarctica",
+                "climate_effects_inclusion": "Critical for effective MSP",
+                "project_name": "PLAnT",
+                "objectives": [
+                    "Assess social-ecological vulnerabilities",
+                    "Build future scenarios",
+                    "Support area-based climate action",
+                    "Provide dynamic solutions",
+                    "Conduct governance analyses",
+                    "Foster a paradigm shift for sustainability and equity"
+                ],
+                "challenges": [
+                    "Contextual idiosyncrasies (political, social, economic)"
+                ],
+                "solution_specificity_risk": true,
+                "potential_global_impact": "Inspire nations for ocean sustainability",
+                "international_agenda_relevance": "High"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "b3416943c32dab527e9a0ccc5629a4ec",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPlanning for Sustainable Ocean Use in Antarctica Under Global Environmental Change\n\n**Description:**\n\nPlanning of marine areas is being developed worldwide to support ocean sustainability. However, few existing marine spatial planning (MSP) initiatives consider climate change explicitly. This is a critical oversight in a rapidly changing world. At the same time, no formal MSP initiatives are envisioned for Antarctica; it is the only ocean basin globally without MSP under development. Antarctica is changing rapidly with potential repercussions around the planet, particularly for sea-level rise, climate regulation, and marine ecosystems functioning. Developing integrated, sustainable MSP for Antarctica is now more fundamental than ever. Excluding climate effects from MSP will lead to plans that are maladaptive and inefficient in sustaining marine ecosystems and their use under change. By contrast, if designed with climate objectives, MSP can provide substantial benefits while requiring few trade-offs. Efforts must be thus put together to effectively move towards climate-smart MSP in Antarctica and globally. Yet, contextual idiosyncrasies (political, social, economic) limit the effectiveness of such efforts. Understanding what challenges hinder the development of climate-smart MSP, in Antarctica and globally, and pointing ways to overcome such challenges is key. PLAnT will take up, for the very first time, such critical task. It will assess social-ecological vulnerabilities; build future scenarios; support area-based climate action and dynamic solutions; conduct governance analyses; and foster a paradigm shift on how to plan for sustainability and equity under change. Research on complex social-ecological systems rarely leads to one-size solutions, and there is a risk that solutions identified in PLAnT are context specific. Still, PLAnT will inspire nations worldwide to finding pathways and solutions to support ocean sustainability. At a time when the latter is firmly established in the international agenda, taking a leap forward on this topic is ground-breaking."
+}

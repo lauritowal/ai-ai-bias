@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Mapping the Deprived Visual System: Cracking function for prediction",
+    "descriptions": [
+        "Title: Mapping the Deprived Visual System: Cracking function for prediction (MADVIS)\n\nThis proposal seeks to understand how visual deprivation at different developmental stages affects the organization and connectivity of the occipital cortex. By studying the relationship between crossmodal plasticity and sight recovery, we aim to predict outcomes of sight restoration. Our interdisciplinary approach combines cognitive neurosciences and ophthalmology to investigate how brain regions adapt to process stimuli in the absence of visual input. The expected impact of this project includes advancing our understanding of experience-dependent brain shaping, bridging the gap between crossmodal reorganization and sight restoration, and developing predictive tools for sensory restoration procedures. The MADVIS project will ultimately contribute to improving outcomes for individuals undergoing sight restoration procedures."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5d2dfd02058280c5d628cf28d05fca99",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 214 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Mapping the Deprived Visual System: Cracking function for prediction', 'proposal_details': {'objectives': [\"Understand how visual deprivation at different development stages affects the occipital cortex's organization and connectivity\", 'Use knowledge from the first objective to predict outcomes of sight restoration'], 'approach': ['Study the relationship between crossmodal plasticity and sight-recovery', 'Employ interdisciplinary methods across cognitive neurosciences and ophthalmology'], 'expected_impact': ['Advance understanding of experience-dependent shaping of brain regions', 'Bridge the gap between crossmodal reorganization and sight restoration', 'Develop new predictive tools for sensory restoration procedures'], 'project_name': 'MADVIS', 'descriptions': ['Investigate how specific brain regions adapt their function for processing stimuli in the absence of visual input and leverage this understanding to predict sight restoration outcomes.']}}"
+}

@@ -1,0 +1,43 @@
+{
+    "item_type": "proposal",
+    "title": "Truth and Semantics",
+    "descriptions": [
+        {
+            "proposal_name": "Truth and Semantics",
+            "proposal_details": {
+                "descriptions": [
+                    "A unified perspective on natural language semantics, conceived of as truth-conditional semantics, and the research on the so-called semantic paradoxes in form of theories of self-applicable truth."
+                ],
+                "challenges": [
+                    "Truth in Semantics",
+                    "Truth and the Foundations of Semantics"
+                ],
+                "objectives": [
+                    {
+                        "part": "Truth in Semantics",
+                        "aims": [
+                            "Developing semantic accounts for rich fragments of natural language"
+                        ],
+                        "elements": [
+                            "notion of truth",
+                            "modal expressions",
+                            "propositional attitudes",
+                            "natural language conditionals"
+                        ]
+                    },
+                    {
+                        "part": "Truth and the Foundations of Semantics",
+                        "perspective": "metasemantic",
+                        "focus": "role of the notion of truth in the foundations of natural language semantics"
+                    }
+                ],
+                "outcome": "The first systematic study of truth and natural language semantics from a combined perspective"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7327ce5817ec07c656acc8e4b160a54f",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTruth and Semantics\n\n**Description:**\n\n\"Anne believes that Bob assumes that Anne believes that Bob's assumption is false. Does Anne believe that Bob's assumption is false?\" Don't try too hard answering the question - any straightforward attempt will lead to paradox. But what are we to make of sentences such as \"Anne believes that Bob's assumption is false.\" Is the sentence true or false? On the face of it, it would seem that answering this question is a pressing problem for natural language semantics that assigns truth conditions to sentences of natural language. However, semanticists have largely ignored problems of this kind, leaving the field to philosophical logicians working on paradoxes, in particular, the paradoxes of truth such as the Liar paradox. But research on the paradoxes of truth has often focused on exploring the space of possible coherent \"solutions\" to the paradoxes thereby ignoring desiderata of natural language semantics. The project provides a unified perspective on natural language semantics, conceived of as truth-conditional semantics, and the research on the so-called semantic paradoxes in form of theories of self-applicable truth. A unified approach to truth and semantics will need to answer two principal challenges, which divides the research project into two interrelated parts. The first part, Truth in Semantics, aims at developing semantic accounts for rich fragments of natural language, that is, fragments in which, besides the notion of truth, we allow for, e.g., modal expressions, propositional attitudes but also natural language conditionals. The second part, Truth and the Foundations of Semantics, assumes a metasemantic perspective and explores the role of the notion of truth in the foundations of natural language semantics, conceived of as truth-conditional semantics. The project constitutes the first systematic study of truth and natural language semantics from such a combined perspective."
+}

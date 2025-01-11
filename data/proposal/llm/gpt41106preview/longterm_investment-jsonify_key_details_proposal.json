@@ -1,0 +1,69 @@
+{
+    "item_type": "proposal",
+    "title": "Long-Term Investment",
+    "descriptions": [
+        {
+            "proposal_name": "Long-Term Investment",
+            "proposal_details": {
+                "descriptions": [
+                    "Study on determinants and consequences of long-term investment through three linked components."
+                ],
+                "20th_century_firm_characteristics": [
+                    "capital-intensive",
+                    "competed on cost efficiency"
+                ],
+                "21st_century_firm_characteristics": [
+                    "competes on product quality",
+                    "relies on intangible assets"
+                ],
+                "intangible_assets": [
+                    "brand strength",
+                    "innovation",
+                    "corporate culture"
+                ],
+                "investment_comparison": {
+                    "tangible": "buying a factory",
+                    "intangible": "may take years to show results"
+                },
+                "managerial_pressure": "maximise short-term earnings",
+                "components": [
+                    "Financial Markets",
+                    "Incentives",
+                    "Effects of Investment"
+                ],
+                "financial_markets": {
+                    "traditional_view": "discourage investment due to short-term shareholder focus",
+                    "study_focus": [
+                        "information incorporation into stock prices",
+                        "information about future investment opportunities"
+                    ],
+                    "analysis_goals": [
+                        "determine efficiency of information channels"
+                    ]
+                },
+                "incentives": {
+                    "research_focus": [
+                        "level of pay",
+                        "pay sensitivity to performance"
+                    ],
+                    "key_aspect": "horizon of incentives",
+                    "study_areas": [
+                        "optimal incentive horizon",
+                        "effect on long-term decisions",
+                        "incentivising teachers beyond teaching-to-the-test"
+                    ]
+                },
+                "effects_of_investment": {
+                    "challenge": "demonstrating benefits",
+                    "data_focus": "corporate social responsibility",
+                    "linkage_goal": "link to firm value"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "abbac26539cbea95e763b91102c2d95b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nLong-Term Investment\n\n**Description:**\n\nThe typical 20th-century firm was capital-intensive and competed on cost efficiency. The 21st-century firm is different. Competitive success increasingly depends on product quality, which in turn hinges on intangible assets such as brand strength, innovation, and corporate culture. Unlike tangible investment such as buying a factory, the fruits of intangible investment may take several years to appear. A manager pressured to maximise short-term earnings may fail to invest, jeopardising the long-term future of his firm. This project will study the determinants and consequences of long-term investment through three linked components. Financial Markets. The traditional view is that financial markets dissuade investment by forcing firms to cater to short-term shareholders. I will study two channels through which markets promote investment. First, traders gather information about a firm’s past investments and incorporate it into stock prices by trading - rewarding the manager for good investment. Second, traders can gather information about a firm’s future investment opportunities - informing the manager about his future investment decisions. I aim to analyse what determines the efficiency of both channels. Incentives. Most research on incentives focuses on either the level of pay, or the sensitivity of pay to performance, but it is the horizon of incentives that is key to promoting investment. I will theoretically analyse the optimal incentive horizon, and empirically demonstrate how it affects long-term decisions. Moving beyond managers, I will study how to incentivise teachers to focus on their pupils’ long-run development rather than “teaching-to-the-test.” Effects of Investment. A key to inducing long-run investment is to demonstrate its benefits, but this is difficult due to data availability. I aim to gather data on a firm’s corporate social responsibility – its investment in its stakeholders – and link it to firm value."
+}

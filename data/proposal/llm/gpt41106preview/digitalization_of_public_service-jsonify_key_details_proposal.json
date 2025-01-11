@@ -1,0 +1,48 @@
+{
+    "item_type": "proposal",
+    "title": "Digitalization of Public Service Delivery and Inclusive Development",
+    "descriptions": [
+        {
+            "proposal_name": "Digitalization of Public Service Delivery and Inclusive Development",
+            "proposal_details": {
+                "estimated_annual_deaths_due_to_service_access": 5700000,
+                "estimated_annual_poverty_due_to_service_access": 100000000,
+                "source_of_estimates": "Lancet Health Commission, 2018",
+                "global_government_response": "Adopting digital technologies",
+                "high_income_countries_progress": "Impressive strides",
+                "low_income_countries_challenges": {
+                    "abandoned_digitalization_projects_rate": "One-third",
+                    "year_of_report": 2016,
+                    "source_of_report": "World Development Report"
+                },
+                "risks_of_digitization_projects": "Excluding individuals with limited connectivity",
+                "research_aims": [
+                    "Determinants of success or failure of digitalization",
+                    "Improving efficiency and inclusion in public service delivery"
+                ],
+                "collaborators": [
+                    "Local governments",
+                    "NGOs"
+                ],
+                "number_of_experiments": 4,
+                "experiment_locations": [
+                    "India",
+                    "Indonesia",
+                    "Sierra Leone",
+                    "Liberia"
+                ],
+                "study_focus": [
+                    "Demand for public services via digital access",
+                    "Supply of in-person services with remote monitoring"
+                ],
+                "policy_implication": "Inform public policy in low-income countries",
+                "outcome_goal": "Access to more and higher quality public services for a broader population segment"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "739f1b968f1257f6fa5fe642bac8ba28",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nDigitalization of Public Service Delivery and Inclusive Development\n\n**Description:**\n\nAn estimated 5.7 million people die every year and another 100 million are pushed into extreme poverty due to limited access to essential public services in low-income countries (Lancet Health Commission, 2018). Governments across the globe have responded by adopting digital technologies — e.g., by making services available to citizens virtually — in the hopes of providing broader, faster, and cheaper access to public services. While high-income countries have made impressive strides in this regard, low-income countries continue to struggle with nearly one-third of digitalization projects being abandoned and substantial resources being wasted (World Development Report, 2016). Moreover, even when successful, these digitization projects they risk excluding vulnerable individuals with limited connectivity, potentially widening existing inequalities. This research proposal aims to advance our understanding of (i) the determinants of the success or failure of digitalization in the public sector of developing countries, and (ii) the ways digital technologies can be harnessed to improve the efficiency and inclusion of public service delivery, thereby producing more robust and inclusive economic growth. In collaboration with local governments and NGOs, I will design and carry out four large-scale randomized experiments in countries where public services are being digitized (India, Indonesia, Sierra Leone, Liberia). In these experiments, I will study digital technologies that influence (i) the demand for public services by allowing citizens to access them digitally, and (ii) the supply of in-person services by remotely monitoring or supervising the delivery agents. The results will inform public policy in low-income countries, ultimately helping a broader segment of the population access more and higher quality public services."
+}

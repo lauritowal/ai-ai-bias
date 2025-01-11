@@ -1,28 +1,28 @@
-import scripts_common_setup
-
 import json
-import click
 from datetime import datetime
 from pathlib import Path
 
+import click
+import debugpy
+import scripts_common_setup
+from generate_llm_descriptions import batch_gen_descriptions
 from interlab.context import Context
 from interlab.ext.pyplot import capture_figure
+from run_comparisons import run_comparisons
 
-from generate_llm_descriptions import batch_gen_descriptions
+import llm_comparison.llm_comparison
 from llm_comparison.config import get_all_comparison_prompt_keys_for_item_type
 from llm_comparison.presentation import (
-    compute_llm_win_ratio,
     compute_avg_llm_win_ratio,
+    compute_llm_win_ratio,
     make_chart,
     make_comparison_run_permutation_label,
 )
-from llm_descriptions_generator.config import get_all_description_prompt_keys_for_item_type
+from llm_descriptions_generator.config import (
+    get_all_description_prompt_keys_for_item_type,
+)
 from llm_descriptions_generator.schema import Engine, Origin
-from run_comparisons import run_comparisons
 from storage import cache_friendly_file_storage
-import llm_comparison.llm_comparison
-
-import debugpy
 
 DEBUG = False
 if DEBUG:

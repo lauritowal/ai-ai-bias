@@ -1,0 +1,55 @@
+{
+    "item_type": "proposal",
+    "title": "Narratives of Loss: Unravelling the Origins of Support for Socially Conservative Political Agendas",
+    "descriptions": [
+        {
+            "proposal_name": "Narratives of Loss: Unravelling the Origins of Support for Socially Conservative Political Agendas",
+            "proposal_details": {
+                "aims": [
+                    "Unravel how economic hardship affects support for socially conservative political agendas",
+                    "Understand how policy contexts at local and national levels influence this relationship"
+                ],
+                "context": [
+                    "Growing prejudice towards marginalised groups in Europe",
+                    "Rise in support for far-right parties",
+                    "Threats to cohesion of communities"
+                ],
+                "knowledge_gap": [
+                    "Lack of understanding why financial crises coincide with increased support for far-right parties"
+                ],
+                "theoretical_framework": [
+                    "Political science",
+                    "Sociology",
+                    "Social psychology",
+                    "Behavioural economics"
+                ],
+                "hypothesis": [
+                    "Economic hardship translates into narratives of loss",
+                    "Narratives of loss trigger support for social conservative political agendas"
+                ],
+                "methodology": [
+                    "Multi-method empirical approach",
+                    "Combination of qualitative and quantitative research"
+                ],
+                "study_scope": {
+                    "countries": [
+                        "France",
+                        "Germany",
+                        "The Netherlands",
+                        "Sweden",
+                        "United Kingdom"
+                    ],
+                    "variable": "Level of compensation for economic hardship"
+                },
+                "descriptions": [
+                    "The project compares five European countries with different levels of economic hardship compensation to uncover the role of context."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8f453abf850dde6c18a8cd356816b098",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNarratives of Loss: Unravelling the Origins of Support for Socially Conservative Political Agendas\n\n**Description:**\n\nThe key aim of the LOSS project is to unravel: How economic hardship affects support for socially conservative political agendas aimed at restricting the rights of marginalised groups (ethnic, linguistic and religious minorities, migrants, LGBTQIA+ and women), and how local and national policy contexts affect this relationship. Many European societies have recently experienced growing prejudice towards marginalised groups and the rise in support for far-right parties advocating to restrict the rights of these groups. These developments threaten the cohesion of national and local communities across Europe. While aggregate level evidence suggests that financial crises generally coincide with increased support for far-right parties, we do not understand why this happens. By developing a groundbreaking interdisciplinary theoretical framework that integrates insights about the role of loss from political science, sociology, social psychology and behavioural economics, the LOSS project contends that experiences of economic hardship translate into specific narratives of loss that in turn trigger support for social conservative political agendas. To empirically examine the importance of narratives of loss, the LOSS project employs an innovative multi-method empirical approach combining qualitative and quantitative research methodologies. To uncover the role of context, the project compares five European countries (France, Germany, the Netherlands, Sweden, and the United Kingdom) that vary in the level of compensation provided for economic hardship, and local contexts within these countries."
+}

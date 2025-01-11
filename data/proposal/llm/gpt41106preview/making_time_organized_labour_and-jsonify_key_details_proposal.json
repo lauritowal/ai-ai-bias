@@ -1,0 +1,50 @@
+{
+    "item_type": "proposal",
+    "title": "Making Time: Organized Labour and the Politics of Care Leave",
+    "descriptions": [
+        {
+            "proposal_name": "Making Time: Organized Labour and the Politics of Care Leave",
+            "proposal_details": {
+                "focus": "Promoting work-life balance and policy innovation in Europe",
+                "importance": "Social policies for sustainable work through family and self-care time",
+                "trade_union_role": "Development of statutory care-related leave rights and protections",
+                "gender_aspect": "Women's predominance in caregiving and union membership",
+                "research_design": "Mixed-method",
+                "research_methods": [
+                    "Quantitative analysis",
+                    "Qualitative analysis"
+                ],
+                "quantitative_analysis_scope": {
+                    "context": "Rich democracies",
+                    "start_year": 1965
+                },
+                "qualitative_analysis_countries": [
+                    "Ireland",
+                    "France",
+                    "Netherlands"
+                ],
+                "policy_focus": [
+                    "Child care leave",
+                    "Aging parent care leave",
+                    "Spousal care leave",
+                    "Sick leave",
+                    "Disability benefits"
+                ],
+                "union_influence_mechanisms": "Investigation",
+                "comparative_contexts": "Different institutional settings",
+                "interdisciplinary_fields": [
+                    "Comparative policy analysis",
+                    "Social movement research"
+                ],
+                "ambition": "Advance comparative labour studies and develop theories of union-policy relationships",
+                "data_infrastructure_development": "Longitudinal, comparative data on care leave provisions",
+                "outcome_assessment": "Organized labour's role as a partner in developing sustainable work policies"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "890d4a005860b012cce5e714fa551330",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMaking Time: Organized Labour and the Politics of Care Leave\n\n**Description:**\n\nPromoting work-life balance has been a focus of recent directives from the European Commission and a source of policy innovation in several countries. Social policies that make time for family and self-care are important tools for building sustainable work, but countries vary considerably in the extent to which such tools are available. Trade union organizations may play an important role for developing statutory care-related leave rights and protections, particularly as women still provide a bulk of family caregiving and now constitute a majority or near-majority of union members in many countries. This project will use a novel mixed-method design to investigate organized labour’s relationships to national leave policies that grant time-off from work to address care needs, including leave to care for a child, aging parent, or ill spouse or to address self-care needs through sick leave or disability benefits. Quantitative analyses will examine union-policy relationships across rich democracies starting in 1965, and qualitative analyses will examine organized labour’s policy advocacy in Ireland, France and the Netherlands. Analyses of predictors will distinguish between different types of social provisions, consider differences in trade unions and the types of workers they represent, investigate the mechanisms of potential union influence over policy, and compare union-policy relationships across different institutional contexts. A central ambition is to integrate the interdisciplinary fields of comparative policy analysis and social movement research to advance comparative labour studies and develop new theories of union-policy relationships. The project will additionally develop data infrastructures, offering much-needed longitudinal, comparative data on different types of care leave provisions. Overall, the project will assess the extent to which organized labour can be a partner for developing social policies that promote sustainable work for the future."
+}

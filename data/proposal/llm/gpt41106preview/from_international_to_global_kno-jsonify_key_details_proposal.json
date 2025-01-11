@@ -1,0 +1,46 @@
+{
+    "item_type": "proposal",
+    "title": "From International to Global: Knowledge, Diseases and the Postwar Government of Health.",
+    "descriptions": [
+        {
+            "proposal_name": "From International to Global: Knowledge, Diseases and the Postwar Government of Health",
+            "proposal_details": {
+                "aims": [
+                    "Socio-historical study of the transition between two regimes of knowledge and action in post-World War II health governance"
+                ],
+                "timeframe": {
+                    "start_regime": "Post-World War II",
+                    "emergence_of_current_regime": "1980s"
+                },
+                "focus_areas": [
+                    "Tuberculosis",
+                    "Mental health",
+                    "Traditional medicine",
+                    "Medical genetics"
+                ],
+                "investigation_types": [
+                    "Historical",
+                    "Anthropological"
+                ],
+                "interests": [
+                    "Changing roles of WHO",
+                    "Developments in non-Western countries, especially India"
+                ],
+                "expected_benefits": [
+                    "Inclusion of social worlds like laboratories, hospitals, enterprises, public health institutions, and international organizations",
+                    "Approaching global health as translated in and emerging from local practices and knowledge",
+                    "Exploring different levels of circulation beyond North-South transfers",
+                    "Understanding the transition from Cold War political and economic order to a neo-liberal and multi-centric age of uncertainty"
+                ],
+                "descriptions": [
+                    "The project analyzes the shift from international public health focused on eradication and UN organizations to global health characterized by risk management, chronic diseases, market-driven regulations, and private-public alliances."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "796a40fbe78b1026005b0528926fad44",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nFrom International to Global: Knowledge, Diseases and the Postwar Government of Health.\n\n**Description:**\n\nThis project aims at a socio-historical study of the transition between the two regimes of knowledge and action, which have characterized the government of health after World War II: the regime of international public health, dominating during the first decades of the postwar era, which was centered on eradication policies, nation-states and international UN organizations; the present regime of global health, which emerged in the 1980s and is centered on risk management and chronic diseases, market-driven regulations, and private-public alliances. The project seeks to understand this transition in terms of globalization processes, looking at the making of knowledge, the production and commercialization of health goods, the implementation of public health programs, and routine medical work. It will focus on four fields of investigations: tuberculosis, mental health, traditional medicine and medical genetics in order to understand how categories, standardized treatment regimens, industrial products, management tools or specific specialties have become elements in the global government of health. The project associates historical and anthropological investigations of practices in both international and local sites with strong interests in: a) the changing roles of WHO; b) the developments taking place in non-Western countries, India in the first place. The expected benefits of this research strategy are: a) to take into account social worlds including laboratories, hospitals, enterprises, public health institutions and international organizations; b) to approach the global as something translated in and emerging from local practices and local knowledge; c) to explore different levels of circulations beyond the classical question of North-South transfers; d) to deepen our understanding of the transition from the political and economical order of the Cold War into a neo-liberal and multi-centric age of uncertainty."
+}

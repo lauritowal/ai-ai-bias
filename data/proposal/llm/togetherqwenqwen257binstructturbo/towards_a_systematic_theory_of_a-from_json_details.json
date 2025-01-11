@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Towards a Systematic Theory of Aristotelian Diagrams in Logical Geometry",
+    "descriptions": [
+        "Title: STARTDIALOG - Towards a Systematic Theory of Aristotelian Diagrams in Logical Geometry\n\nThis grant proposal seeks to develop a unified theory of Aristotelian diagrams, a crucial yet underexplored aspect of logical geometry, with applications spanning philosophy, logic, psychology, linguistics, and computer science. The lack of a comprehensive understanding of the logical properties and heuristic potential of these diagrams has hindered their full utilization. Our research strategy involves a systematic typology of Aristotelian diagrams and the creation of a comprehensive database to address these issues. Expected outcomes include clarifying current debates, providing an accurate understanding of the methodological importance of these diagrams, and treating them as independent objects of study. This project aims to achieve a breakthrough in the field, contribute to philosophical logics, and foster interdisciplinary applications, thereby enhancing our theoretical and practical understanding of Aristotelian diagrams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "82aa6279383a589d474de3d78c398891",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 287 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Towards a Systematic Theory of Aristotelian Diagrams in Logical Geometry', 'proposal_details': {'descriptions': ['Development of a unified theory of Aristotelian diagrams'], 'applications': ['philosophy', 'logic', 'psychology', 'linguistics', 'computer science'], 'problems_addressed': ['lack of understanding of logical properties', 'unappreciated heuristic potential'], 'research_strategy': ['systematic typology of Aristotelian diagrams', 'comprehensive diagram database'], 'expected_outcomes': ['clarify and solve current issues', 'accurate understanding of methodological importance', 'study diagrams as objects of independent interest'], 'impact': ['breakthrough in logical geometry', 'relevance for philosophical logicians', 'applications in various disciplines'], 'project_name': 'STARTDIALOG'}}"
+}

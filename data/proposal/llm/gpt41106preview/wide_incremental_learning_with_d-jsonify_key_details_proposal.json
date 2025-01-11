@@ -1,0 +1,49 @@
+{
+    "item_type": "proposal",
+    "title": "Wide Incremental learning with Discrimination nEtworks",
+    "descriptions": [
+        {
+            "proposal_name": "Wide Incremental learning with Discrimination nEtworks",
+            "proposal_details": {
+                "language_evolution_timeline": {
+                    "homo_sapiens_language": "over 50,000 years",
+                    "alphabet_invention": "3,000 years ago"
+                },
+                "linguistic_focus": "Western linguistic thinking",
+                "literacy_training_onset": "early childhood",
+                "chinese_writing_system_features": {
+                    "character_spacing": "juxtaposed without intervening spaces",
+                    "context_dependency": true,
+                    "syllables_instead_of_letters": true
+                },
+                "research_goal": "explore language understanding beyond phone and word-based approach",
+                "methodology": {
+                    "network_type": "wide learning networks",
+                    "network_structure": "two-layer networks",
+                    "unit_quantity": "many thousands",
+                    "learning_rule": "simplest possible error-driven"
+                },
+                "network_performance": "matches human processing strengths and weaknesses",
+                "current_trends": [
+                    "machine learning",
+                    "artificial intelligence"
+                ],
+                "funding_request": true,
+                "research_program_advancement": {
+                    "auditory_comprehension_development": true,
+                    "modeling_diverse_languages": true,
+                    "speech_production_extension": true,
+                    "discrimination_based_language_theory_development": true
+                },
+                "descriptions": [
+                    "The research proposed here seeks to break the hold that the alphabet-centric approach has on our understanding of language by exploring the idea that languages use low-level properties of the acoustic signal to directly reduce uncertainty about the messages encoded in the speech signal."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1e18dc2959ed66e5b95d0c429f860c4e",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nWide Incremental learning with Discrimination nEtworks\n\n**Description:**\n\nAlthough homo sapiens has been endowed with language for over 50,000 years, the invention of alphabet-like scripts 3,000 years ago dominates Western linguistic thinking. Training in literacy starts in early childhood, and because of this, words and letter-like sound units can naturally seem to be the building blocks of language. The Chinese writing system highlights the cultural-specificity of this approach: characters are juxtaposed without intervening spaces, and their interpretation is highly context-dependent. Words are not singled out. And although more frequent characters contain parts indicating pronunciation, it is syllables that are referred to, not letter-like sound units. The research proposed here seeks to break the hold that the alphabet-centric approach has on our understanding of language by exploring the idea that instead of being phone and word-based, languages use low-level properties of the acoustic signal to directly reduce uncertainty about the messages encoded in the speech signal. My work with wide learning networks (two-layer networks with many thousands of units, using the simplest possible error-driven learning rule) provides remarkable support for this suggestion: For reading and speech comprehension, their performance closely matches both the strengths and the weaknesses of human processing. Especially at a time when machine learning and artificial intelligence are moving beyond human capacity, it is a methodological imperative to study and work with algorithms reflecting both the advantages and disadvantages of human learning. I am requesting funding to take this radically novel research program to the next level by further developing our account of auditory comprehension, by modeling more typologically diverse languages, by extending this approach to speech production, and by developing a discrimination-based language theory."
+}

@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Jewish Translation and Cultural Transfer in Early Modern Europe",
+    "descriptions": [
+        "**Abstract:**\n\nThe project \"Jewish Translation and Cultural Transfer in Early Modern Europe\" seeks to explore the transformative role of translations of non-Jewish texts into Jewish languages during the early modern period. This study redefines the process of Jewish modernization as an active importation of new ideas, rather than a stark break from tradition. By examining the dynamic engagement of Jewish translators with their sources, the project uncovers the development of a new, distinctly Jewish corpus that engaged in dialogue with the majority culture. This research aims to provide the first comprehensive analysis of these translations, shedding light on the intercultural exchanges between Christians and Jews at the dawn of modernity. Through this lens, the project proposes a novel paradigm for understanding the early modern 'Jewish book' and the mechanisms of Jewish modernization, contributing to a richer and more nuanced view of cultural transfer and intellectual history in early modern Europe."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "e55efa18cbbd69f0d0793bbbefe875d4",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 283 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Jewish Translation and Cultural Transfer in Early Modern Europe', 'proposal_details': {'descriptions': [\"This project examines the role of translations of non-Jewish texts into Jewish languages during the early modern period, redefining the process of modernization in Jewish culture as an importation of new ideas rather than a radical break with tradition. It highlights how Jewish translators actively engaged with their sources, leading to a new, distinctly Jewish corpus that was in dialogue with majority culture. The project aims to provide the first comprehensive study of these translations, showcasing the intercultural encounters between Christians and Jews at the onset of modernity, and proposes a new paradigm for understanding the early modern 'Jewish book' and Jewish modernization.\"]}}"
+}

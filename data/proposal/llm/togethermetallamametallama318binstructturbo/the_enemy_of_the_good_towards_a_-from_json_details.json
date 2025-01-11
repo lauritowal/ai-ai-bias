@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "The Enemy of the Good: Towards a Theory of Moral Progress",
+    "descriptions": [
+        "**Title:** The Enemy of the Good: Towards a Theory of Moral Progress\n\n**Abstract:**\n\nThis grant proposal seeks funding to develop a novel theory of moral progress that challenges traditional views on the subject. Building on the \"expanding circle\" account of moral progress, our project aims to overcome key limitations of current theories by exploring alternative forms of moral progress and moral attitudes not constrained by evolutionary pressures. We will also investigate the design of institutions that can facilitate smart moral growth, unencumbered by the limitations of our inherited psychology. Our ultimate goal is to extend moral concern beyond arbitrary features such as class, age, gender, ethnicity, religion, and species membership. This research has the potential to significantly advance our understanding of moral progress and its implications for human society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "60b6c3fa906e97eda2043cb41de9c824",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 206 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'The Enemy of the Good: Towards a Theory of Moral Progress', 'proposal_details': {'descriptions': ['Develop an alternative theory of moral progress focusing on different forms of moral progress, different moral attitudes not subject to evolutionary constraints, and smart institutions bypassing limits of our inherited psychology.'], 'moral_progress_account': 'expanding circle', 'current_limitations': ['parochial empathy', 'altruism tied to friends and kin'], 'ethical_features_to_overcome': ['class', 'age', 'gender', 'ethnicity', 'religion', 'species membership'], 'goal': 'Extend moral concern beyond ethically arbitrary features'}}"
+}

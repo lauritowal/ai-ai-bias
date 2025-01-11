@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Truth and Semantics",
+    "descriptions": [
+        "**Abstract**\n\nThis proposal, titled \"Truth and Semantics,\" aims to advance our understanding of natural language semantics by integrating truth-conditional semantics and the study of semantic paradoxes. The project seeks to develop comprehensive semantic accounts for key aspects of natural language, including modal expressions, propositional attitudes, and natural language conditionals, informed by the notion of truth. It also explores the foundational role of truth in the semantics of natural languages from a metasemantic perspective. By addressing the challenges of \"Truth in Semantics\" and \"Truth and the Foundations of Semantics,\" this research will achieve a unified framework that combines traditional and contemporary approaches. The outcome will be the first systematic study to examine the intersection of truth and natural language semantics from a comprehensive, interdisciplinary viewpoint, contributing significantly to both linguistic theory and philosophical logic."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "08ef00af5a6d50155b9ecb9570fdc6f6",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 290 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Truth and Semantics', 'proposal_details': {'descriptions': ['A unified perspective on natural language semantics, conceived of as truth-conditional semantics, and the research on the so-called semantic paradoxes in form of theories of self-applicable truth.'], 'challenges': ['Truth in Semantics', 'Truth and the Foundations of Semantics'], 'objectives': [{'part': 'Truth in Semantics', 'aims': ['Developing semantic accounts for rich fragments of natural language'], 'elements': ['notion of truth', 'modal expressions', 'propositional attitudes', 'natural language conditionals']}, {'part': 'Truth and the Foundations of Semantics', 'perspective': 'metasemantic', 'focus': 'role of the notion of truth in the foundations of natural language semantics'}], 'outcome': 'The first systematic study of truth and natural language semantics from a combined perspective'}}"
+}

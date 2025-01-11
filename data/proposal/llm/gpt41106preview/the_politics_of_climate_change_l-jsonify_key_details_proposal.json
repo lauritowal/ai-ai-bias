@@ -1,0 +1,47 @@
+{
+    "item_type": "proposal",
+    "title": "The Politics of Climate Change Loss and Damage",
+    "descriptions": [
+        {
+            "proposal_name": "The Politics of Climate Change Loss and Damage",
+            "proposal_details": {
+                "research_area": "International Relations",
+                "focus": "Emergence and contestation of norms, specifically justice norms",
+                "context": "UN Framework Convention on Climate Change (UNFCCC)",
+                "issue": "Urgent need to address climate change consequences",
+                "policy_areas": [
+                    "Disaster risk reduction",
+                    "Non-economic losses",
+                    "Finance",
+                    "Climate-related migration"
+                ],
+                "consensus": "Lack of consensus on loss and damage policy",
+                "approach": "Interdisciplinary theoretical and ethnographic methodology",
+                "scales_of_governance": "International and national levels",
+                "project_name": "CCLAD",
+                "objectives": [
+                    "Understand conditions for norm hegemony",
+                    "Influence, contestation, or reversal",
+                    "New understanding of norm-content fluidity"
+                ],
+                "theory": "Norms partly constituted through policy-making and implementation",
+                "research_methods": [
+                    "Micro-politics of international negotiations",
+                    "Domestic policy practices comparative research"
+                ],
+                "contributions": [
+                    "Methodological contribution to political ethnography",
+                    "Development of practice-tracing methods"
+                ],
+                "descriptions": [
+                    "Study of norm emergence and contestation in the context of climate change loss and damage."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "df59db9426c8cf15c878cee0a1cd5243",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Politics of Climate Change Loss and Damage\n\n**Description:**\n\nThe way in which normative principles (“norms”) matter in world politics is now a key area of international relations research. Yet we have limited understanding of why some norms emerge and gain traction globally whereas others do not. The politics of loss and damage related to climate change offers a paradigm case for studying the emergence of - and contestation over - norms, specifically justice norms. The parties to the UN Framework Convention on Climate Change (UNFCCC) have recently acknowledged that there is an urgent need to address the inevitable, irreversible consequences of climate change. Yet within this highly contested policy area - which includes work on disaster risk reduction; non-economic losses (e.g. loss of sovereignty); finance and climate-related migration - there is little consensus about what loss and damage policy means or what it requires of the global community, of states and of the (current and future) victims of climate change. Relying on an interdisciplinary theoretical approach and an ethnographic methodology that traverses scales of governance, my project - The Politics of Climate Change Loss and Damage (CCLAD) - will elucidate the conditions under which a norm is likely to become hegemonic, influential, contested or reversed by introducing a new understanding of the fluid nature of norm-content. I argue that norms are partly constituted through the practices of policy-making and implementation at the international and national level. The research will examine the micro-politics of the international negotiations and implementation of loss and damage policy and also involves cross-national comparative research on domestic loss and damage policy practices. Bringing these two streams of work together will allow me to show how and why policy practices shape the evolution of climate justice norms. CCLAD will also make an important methodological contribution through the development of political ethnography and “practice-tracing” methods."
+}

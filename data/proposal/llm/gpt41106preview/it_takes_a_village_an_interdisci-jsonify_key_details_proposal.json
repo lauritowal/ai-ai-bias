@@ -1,0 +1,42 @@
+{
+    "item_type": "proposal",
+    "title": "It takes a village: an interdisciplinary community neuroscience approach to characterize multigenerational interactions",
+    "descriptions": [
+        {
+            "proposal_name": "It takes a village: an interdisciplinary community neuroscience approach to characterize multigenerational interactions",
+            "proposal_details": {
+                "descriptions": [
+                    "InterCom aims to understand multi-generational communication within and beyond family contexts by combining laboratory research, real-world experimentation, intrapersonal and interpersonal measures."
+                ],
+                "research_questions": [
+                    "Do age-related differences in brain rhythms inhibit conversational flow?",
+                    "How do listeners process speech produced by children or older adults?",
+                    "Can intergenerational miscommunications be partly attributed to children and older adults being less likely to predict what others are about to say?"
+                ],
+                "methodology": [
+                    "Collect brain, body, and language data from diverse groups of children, adults, and older adults during real-world storytelling events.",
+                    "Co-design storytelling events with community partners.",
+                    "Use data from real-world events to inform and constrain subsequent laboratory studies and vice versa."
+                ],
+                "objectives": [
+                    "Combine laboratory and real-world data collection.",
+                    "Develop stimuli and analyze data in a reciprocal manner between lab and real-world settings."
+                ],
+                "goals": [
+                    "Understand multigenerational communication.",
+                    "Generate insights and tools to investigate and improve communication between and across generations."
+                ],
+                "innovation": [
+                    "Test a novel ‘community neuroscience’ approach.",
+                    "Leverage benefits and offset downsides of naturalistic observations and experimental control.",
+                    "Innovate on combining laboratory and real-world data collection, stimulus development, and data analysis."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6e1f05c3ed5ddd7f16bb633e83ccf2a5",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nIt takes a village: an interdisciplinary community neuroscience approach to characterize multigenerational interactions\n\n**Description:**\n\nWhile many of our daily interactions involve people of different ages, little is known about how the human brain supports naturalistic communication between generations. InterCom combines laboratory research with real-world experimentation, and intrapersonal analyses with interpersonal measures (e.g. ‘brain-to-brain synchrony’), to better understand multi-generational communication, both within and beyond family contexts. Do age-related differences in brain rhythms inhibit conversational flow? How do listeners process speech produced by children or older adults? Can intergenerational miscommunications be partly attributed to the fact that children and older adults are less likely to predict what others are about to say? How can we overcome implicit neurobehavioral culprits of misalignment? Curiously, while laboratory studies have shown that there are significant differences in how children, adults, and older adults process (non)verbal information, these and related questions remain largely unanswered. InterCom will test a novel ‘community neuroscience’ approach, one that flows from the real world, to the lab, and back. We will collect brain, body, and language data from socio-culturally diverse groups of children, adults, and older adults during real-world storytelling events that are co-designed with community partners. The data collected during these events will then inform and constrain subsequent laboratory studies and vice versa. As such, InterCom leverages the benefits while offsetting the downsides of both naturalistic observations and experimental control, and will innovate on and combine laboratory and real-world data collection, stimulus development, and data analysis in a truly reciprocal manner. Together, InterCom will tread previously uncharted territory in both intergenerational and real-world neuroscience research to generate insights and tools to investigate and improve communication between and across generations."
+}

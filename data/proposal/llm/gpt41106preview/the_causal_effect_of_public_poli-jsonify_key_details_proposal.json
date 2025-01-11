@@ -1,0 +1,45 @@
+{
+    "item_type": "proposal",
+    "title": "The Causal Effect of Public Policy and Income on Child Health and Human Capital",
+    "descriptions": [
+        {
+            "proposal_name": "The Causal Effect of Public Policy and Income on Child Health and Human Capital",
+            "proposal_details": {
+                "research_field": "economics",
+                "hypothesis": "fetal origins hypothesis",
+                "focus_period": "missing middle",
+                "country_of_study": "Spain",
+                "data_period": "35 years",
+                "econometric_techniques": true,
+                "sample_size": "large",
+                "interventions_shocks": [
+                    "Household material resources",
+                    "Parental time",
+                    "Medical treatments around birth",
+                    "Availability of family planning services",
+                    "Aggregate demand shocks"
+                ],
+                "ages_impacted": "0-15",
+                "outcome_measures": [
+                    "hospital and primary health care records",
+                    "school grades",
+                    "standardized test scores"
+                ],
+                "potential_channels": [
+                    "family size (fertility)",
+                    "parental time use and labor market outcomes",
+                    "expenditure patterns"
+                ],
+                "policy_implications": true,
+                "descriptions": [
+                    "This study evaluates the causal effects of various public policies and shocks on child development in Spain, using administrative data over the past 35 years and state of the art econometric techniques."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d03a50ec06c96f52954aa1aed77ffc67",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Causal Effect of Public Policy and Income on Child Health and Human Capital\n\n**Description:**\n\nA recent literature in economics on the “fetal origins hypothesis” has documented that a range of early (prenatal and postnatal) shocks and interventions can have substantial effects on long-term human capital formation (e.g. adult health, wages). However, we still know little about the years in between early infancy and adulthood, referred to as the “missing middle”. How do early shocks affect health and human capital formation during childhood? How do the effects of different types of interventions, or shocks at different ages, compare? What are the most cost-effective ways of improving young children’s future outcomes? I aim to fill this gap in the literature by taking advantage of a range of natural experiments in a country, Spain, for which high quality administrative data are available for the past 35 years. State of the art econometric techniques, combined with large sample sizes, will allow me to evaluate credibly and precisely the causal effects of a number of different public policies and shocks on child development. I will consider five different “shocks” in early childhood (at different ages), affecting: i) Household material resources (an unconditional mother’s allowance); ii) Parental time (subsidized paternity leave); iii) Medical treatments around birth (elective delivery); iv) The availability of family planning services (access to abortion); and v) Aggregate demand shocks to different sectors of the economy. I will evaluate their impact on health and cognitive development at ages 0-15, as measured in hospital and primary health care records, school grades, and standardized test scores, among other data sources. I will also study the potential channels linking treatments to child outcomes, including family size (fertility), parental time use and labor market outcomes, expenditure patterns, etc. My results will help us understand how shocks in early life can have long-term effects on human capital, with direct policy implications."
+}

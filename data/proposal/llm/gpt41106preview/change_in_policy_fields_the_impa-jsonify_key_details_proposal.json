@@ -1,0 +1,41 @@
+{
+    "item_type": "proposal",
+    "title": "Change in Policy Fields: The Impact of International and Domestic Factors on Morality Policies in 25 OECD Countries Between 1980 and 2010",
+    "descriptions": [
+        {
+            "proposal_name": "Change in Policy Fields: The Impact of International and Domestic Factors on Morality Policies in 25 OECD Countries Between 1980 and 2010",
+            "proposal_details": {
+                "objectives": [
+                    "Provide systematic empirical knowledge on the development of morality policies",
+                    "Develop explanations and identify patterns of changes in policy fields"
+                ],
+                "focus": [
+                    "Change in morality policy over time",
+                    "Comparison across countries",
+                    "Comparison across policy subfields"
+                ],
+                "period": "1980-2010",
+                "number_of_countries": 25,
+                "member_organization": "OECD",
+                "subfields_of_study": [
+                    "Life and death (abortion, euthanasia)",
+                    "Sexuality (prostitution, pornography, homosexuality)",
+                    "Addictive substances and behaviour"
+                ],
+                "methodology": [
+                    "Macro-quantitative analysis",
+                    "Qualitative case studies"
+                ],
+                "data_sources": [
+                    "Legislative output data"
+                ],
+                "case_selection_basis": "Results from the quantitative study indicating critical cases"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "52996b7e64c743f6601b74df1a7b63f1",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nChange in Policy Fields: The Impact of International and Domestic Factors on Morality Policies in 25 OECD Countries Between 1980 and 2010\n\n**Description:**\n\nMORAPOL pursues two basic objectives that entail both empirically and theoretically fundamental advances of the state-of-the-art. First, MORAPOL takes an innovative empirical focus. It is the first to provide systematic empirical knowledge on the development of morality policies. This policy area is so far unexplored from a policy-analytical perspective. The focus is on changing patterns of morality policy over time, across countries and policy subfields. The project compares morality policies in 25 OECD countries over a period of thirty years (1980 \u0013 2010). It involves a comparison across different subfields of morality policy, including (1) policies on \"life and death\" (abortion, euthanasia), (2) sexuality (prostitution, pornography, homosexuality) and (3) addictive substances and addictive behaviour. Second, the project is conceptually innovative. The theoretical aim is to develop explanations and identify patterns of changes in policy fields rather than for individual policies or policy items. This holistic approach constitutes a path-breaking departure from existing concepts. This way, it is for the first time possible to develop theories that account for changes in whole policy fields or subfields. To systematically assess the influence of international and domestic factors on morality policy change, MORAPOL adopts a mixed-methods approach. In a first step, a macro-quantitative analysis is undertaken, based on legislative output data for the subfields and countries under study. This analysis is in a second step complemented with qualitative case studies. The case studies are selected on the basis of the results of the quantitative study, which turn out to be “critical” cases; i.e. cases that are apparently incorrectly predicted by the theoretical model."
+}
