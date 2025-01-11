@@ -1,6 +1,13 @@
 [build]
 builder = "nixpacks"
-buildCommand = "rm -rf /root/.cache/pip && python -m pip install --no-cache-dir --no-deps -r ./human_preference_collector/requirements.txt && cd ./human_preference_collector/frontend && npm install && npm run build"
+buildCommand = """
+  python -m pip install --upgrade pip && python -m pip install pipdeptree --no-cache-dir && \
+  pipdeptree > dependency-tree.txt && \
+  cat dependency-tree.txt && \
+  python -m pip install --no-cache-dir Flask==2.3.2 flask_cors==3.1.0 && \
+  cd ./human_preference_collector/frontend && npm install && npm run build
+"""
+
 [deploy]
 startCommand = "cd ./human_preference_collector && poetry run gunicorn backend.server:app"
 healthcheckPath = "/"
