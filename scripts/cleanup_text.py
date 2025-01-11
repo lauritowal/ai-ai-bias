@@ -5,17 +5,24 @@ import re
 # Folder containing the JSON files
 folder_path = "/home/wombat_share/laurito/ai-ai-bias/data/movie/human"
 
-# Updated cleanup function
+
 def cleanup_text(text):
-    # Replace Unicode em dash with proper em dash
+    # Replace Unicode em dash with a hyphen
     text = text.replace("\u2014", "-")
-    # Remove extra spaces
+    # Remove text within double curly braces {{...}}
+    text = re.sub(r'\{\{.*?\}\}', '', text)
+    # Remove extra spaces caused by removal of {{...}}
     text = re.sub(r'\s+', ' ', text)
     # Remove spaces before punctuation
     text = re.sub(r'\s([,.;?!])', r'\1', text)
     # Trim leading/trailing whitespace
     text = text.strip()
+
+    # Match "Title: ... (YYYY)" and add two new lines after "(YYYY)"
+    text = re.sub(r'(Title: .*?\(\d{4}\))', r'\1\n\n', text)
+
     return text
+
 
 # Process all JSON files in the folder
 for filename in os.listdir(folder_path):
