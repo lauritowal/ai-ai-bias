@@ -1,7 +1,10 @@
 [build]
 builder = "nixpacks"
-buildCommand = "pip install -r human_preference_collector/requirements.txt --no-cache-dir && cd ./human_preference_collector/frontend && npm install && npm run build"
-
+buildCommand = """
+  rm -rf /root/.cache/pip
+  pip install --no-cache-dir --no-deps -r ./human_preference_collector/requirements.txt
+  cd ./human_preference_collector/frontend && npm install && npm run build
+"""
 [deploy]
 startCommand = "cd ./human_preference_collector && poetry run gunicorn backend.server:app"
 healthcheckPath = "/"
