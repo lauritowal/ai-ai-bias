@@ -1,6 +1,6 @@
-import os
 import json
 from pathlib import Path
+
 
 def get_title_from_json(json_file):
     try:

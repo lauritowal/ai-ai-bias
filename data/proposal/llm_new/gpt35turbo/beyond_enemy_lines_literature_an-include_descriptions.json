@@ -1,0 +1,13 @@
+{
+    "item_type": "proposal",
+    "title": "Beyond Enemy Lines: Literature and Film in the British and American Zones of Occupied Germany, 1945-1949",
+    "descriptions": [
+        "This grant proposal seeks funding for a groundbreaking project exploring the cultural exchange between Anglo/American and German literature and film during the Allied Occupation of Germany. The study will provide a comprehensive analysis of the British and American zones of Occupied Germany, shedding new light on postwar culture through the lens of three key areas: the history of the Allied Occupation, postwar Anglophone and Germanophone literature, and the relationship between postwar and Cold War dynamics. By combining literary and film history with critical analysis and cultural history, this multidisciplinary study aims to create a new framework for understanding the interconnectedness of postwar Anglo/American and German culture. This project represents a significant opportunity to advance research in this field and contribute to a deeper understanding of postwar cultural dynamics."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "2ea431d43966b5f92a978eefb8d05ee0",
+    "generation_prompt_nickname": "include_descriptions",
+    "generation_prompt_text": "Write an abstract for a grant proposal. Use the existing description below as a guideline, matching it roughly in quality and level of detail. Do not include information not available in the description below. Do not directly plagiarize the description below.\n\nPlease limit the response to 129 words or less.\n\n---\n\n**Description:**\n\nThis project investigates the cross-fertilisation of Anglo/American and German literature and film during the Allied Occupation of Germany. It will be the first study to survey the cultural landscape of the British and American zones of Occupied Germany in any detail. By doing so it will offer a new interpretative framework for postwar culture, in particular in three areas: the history of the Allied Occupation of Germany; the history of postwar Anglophone and Germanophone literature (arguing the two were more intertwined than has previously been suggested); and the history of the relationship between postwar and Cold War. Combining Anglo-American and German literature and film history with critical analysis, cultural history and life-writing, this is a necessarily ambitious, multidisciplinary study which will open up a major new field of research.",
+    "include_year": false
+}

@@ -4,14 +4,8 @@ WORKERS=1  # If the M starts with `groq-` then set 1 one instead
 
 # Note: No space after the '=' and the entire list is wrapped in quotes:
 COMPARISON_MODELS="\
-  together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
-  together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
-  together-Qwen/Qwen2.5-72B-Instruct-Turbo \
   gpt-3.5-turbo \
-  gpt-4-1106-preview \
-  together-Qwen/Qwen2.5-7B-Instruct-Turbo\
 "
-
 echo "COMPARISON_MODELS: $COMPARISON_MODELS"
 
 for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything is cached so it's fast
@@ -24,11 +18,8 @@ for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything 
             --description-prompt-key=write_xml_paper_abstract_control_word_count \
             --description-engine='together-mistralai/Mixtral-8x22B-Instruct-v0.1' \
             --description-engine='together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo' \
-            --description-engine='together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo' \
             --max-comparison-concurrent-workers="$WORKERS" \
             --redo-invalid-results \
             --min-description-generation-count=1
     done
 done
-
-# --description-engine='together-Qwen/Qwen2.5-7B-Instruct-Turbo' \

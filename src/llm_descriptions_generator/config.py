@@ -113,6 +113,15 @@ TEXT_GENERATION_PROMPT_CONFIG = {
             include_descriptions=True,
             match_human_original_length=True,
         ),
+        TextItemGenerationPromptConfig(
+            item_type="proposal",
+            prompt_nickname="include_descriptions",
+            prompt_base_text="Write an abstract for a grant proposal. Use the existing description below as a guideline, matching it roughly in quality and level of detail. Do not include information not available in the description below. Do not directly plagiarize the description below.",
+            description_source=PromptDescriptionSource.Human,
+            include_title=False,
+            match_human_original_length=True,
+            include_descriptions=True,
+        ),
     ],
     "book_review": [
         TextItemGenerationPromptConfig(
