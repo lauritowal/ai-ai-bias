@@ -1,9 +1,6 @@
 [backend]
 builder = "nixpacks"
-buildCommand = """
-poetry install &&
-cd frontend && npm install && npm run build
-"""
+buildCommand = "poetry install && cd frontend && npm install && npm run build"
 startCommand = "waitress-serve --listen=0.0.0.0:8000 backend.server:app"
 healthcheckPath = "/"
 healthcheckTimeout = 100
