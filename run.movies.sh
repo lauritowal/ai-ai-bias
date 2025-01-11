@@ -4,13 +4,19 @@
 WORKERS=1  # If the M starts with `groq-` then set 1 one instead
 
 COMPARISON_MODELS="\
-  together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
-  together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
-  together-Qwen/Qwen2.5-72B-Instruct-Turbo \
-  gpt-3.5-turbo \
-  gpt-4-1106-preview \
-  together-Qwen/Qwen2.5-7B-Instruct-Turbo\
+  
+  gpt-4-1106-preview \  
 "
+# Next
+#   
+#   together-Qwen/Qwen2.5-7B-Instruct-Turbo\
+
+
+# Done
+#   together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
+#   together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
+#   together-Qwen/Qwen2.5-72B-Instruct-Turbo \
+#   gpt-3.5-turbo \
 
 
 echo "COMPARISON_MODELS: $COMPARISON_MODELS"
