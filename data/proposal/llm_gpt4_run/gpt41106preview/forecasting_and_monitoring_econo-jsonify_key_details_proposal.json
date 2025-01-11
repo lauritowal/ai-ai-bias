@@ -1,0 +1,64 @@
+{
+    "item_type": "proposal",
+    "title": "Forecasting and Monitoring Economic Indicators",
+    "descriptions": [
+        {
+            "proposal_name": "Forecasting and Monitoring Economic Indicators",
+            "proposal_details": {
+                "funding_agency": "ERC",
+                "grant_type": "Proof of Concept",
+                "previous_grant": {
+                    "code": "ERC-2007-StG",
+                    "name": "Change-Point Tests"
+                },
+                "project_goal": "Develop a software/toolbox for forecasting and monitoring economic indicators",
+                "improvements_over_current_software": [
+                    "real-time monitoring",
+                    "predictive breakdown tests"
+                ],
+                "methods": {
+                    "novel_model_family": true,
+                    "high_frequency_information_use": true,
+                    "real_time_forecast_monitoring": true,
+                    "predictive_breakdown_tests": true
+                },
+                "target_users": [
+                    "governments",
+                    "Central Banks",
+                    "firms"
+                ],
+                "initial_collaborations": [
+                    {
+                        "entity_type": "forecasting agency",
+                        "status": "established contact"
+                    },
+                    {
+                        "entity_type": "Central Bank",
+                        "status": "established contact"
+                    }
+                ],
+                "development_aspects": [
+                    "user-friendly software",
+                    "three-dimensional graphical representation",
+                    "accessibility to decision makers"
+                ],
+                "objective": "Improve economic forecasts and decision making",
+                "impact": [
+                    "prudent economic policy",
+                    "economic growth",
+                    "economic and social welfare"
+                ],
+                "descriptions": [
+                    {
+                        "summary": "Development of novel models and tests for forecasting key economic indicators and evaluating the reliability of model predictions, with an aim to improve upon current-state-of-art methods."
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ffdea095451afc7cf796f6b0624e0f83",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nForecasting and Monitoring Economic Indicators\n\n**Description:**\n\nForecasting and monitoring key economic variables is one of the main activities of financial and government institutions, forecasting agencies, and investment companies. In the ERC-funded starting grant (ERC-2007-StG: Change-Point Tests) we developed novel models and tests for forecasting key economic indicators (such as economic activity, financial volatility and others) as well as evaluating the reliability of model predictions. In many cases our methods improve upon the current-state-of-art. The idea of this ERC Proof of Concept (PoC) grant is to use these novel models and tests to develop a software/toolbox that forecasts and monitors economic indicators. Most available forecasting software lack real-time monitoring and predictive breakdown tests which are important for reliable forecasts especially in periods of instability. Our forecasting and monitoring toolbox can improve the reliability of forecasts as follows: (1) using a novel family of models and high frequency information (2) monitoring forecasts in real-time (3) using new predictive tests of potential breakdowns. Such economic forecasts are at the heart of economic decision making made by governments, Central Banks, and firms that are potential users of our toolbox. In this ERC PoC we will initially work with a forecasting agency and a Central Bank, given contacts have already been established, in order to examine various aspects of the development of this toolbox such as: building a user-friendly software, developing a three-dimensional graphical representation of the monitoring and predictive breakdown tests, and generally making our new methods accessible to decision makers. The overall objective of this ERC PoC grant is to provide a software with innovative techniques that can improve economic forecasts and thereby economic decision making. Reliable economic forecasts can lead to prudent economic policy making and affect the growth, economic and social welfare of countries, firms and individuals."
+}

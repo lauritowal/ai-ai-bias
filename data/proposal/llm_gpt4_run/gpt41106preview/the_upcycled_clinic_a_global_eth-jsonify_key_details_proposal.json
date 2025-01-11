@@ -1,0 +1,48 @@
+{
+    "item_type": "proposal",
+    "title": "The Upcycled Clinic: A global ethnography of material creativity in contemporary medicine",
+    "descriptions": [
+        {
+            "proposal_name": "The Upcycled Clinic: A global ethnography of material creativity in contemporary medicine",
+            "proposal_details": {
+                "problem_focus": "wastefulness in medicine",
+                "approach": "ethnographic project",
+                "project_type": "repurposing in the clinic",
+                "number_of_sub_projects": 5,
+                "sub_project_locations": [
+                    "Antarctica",
+                    "Ghana",
+                    "the Netherlands",
+                    "U.S",
+                    "U.K"
+                ],
+                "participants": [
+                    "ethnographers",
+                    "cleaners",
+                    "laundry staff"
+                ],
+                "research_methods": [
+                    "fieldwork",
+                    "interviews",
+                    "analysis of open datasets"
+                ],
+                "objective": "understand conditions for creative material engagement in clinics",
+                "contributions": [
+                    "move hospital ethnographies beyond patient encounter focus",
+                    "first globally orientated study of improvisation in the clinic",
+                    "develop new methods for reusing and sharing research material"
+                ],
+                "implications": [
+                    "advance theories of materiality",
+                    "address questions of resilience and innovation in the workplace"
+                ],
+                "practical_outcomes": "articulate conditions for healthcare creativity and local solutions to wastefulness and shortage"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0d1cc12ab675945cb8e1f1f6f2d066b4",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Upcycled Clinic: A global ethnography of material creativity in contemporary medicine\n\n**Description:**\n\nAs the world wades through Covid-19 pandemic debris, it becomes harder to ignore that medicine is a distinctly wasteful enterprise. Hospitals in particular have become nodes of disposability. Solutions to this problem has to date attracted mostly the attention of medical technology companies promoting circular economies, a model still reliant on production and technological innovation. The Upcycled Clinic takes a different direction. This ethnographic project focuses on creative practices such as repurposing in the clinic, involving making the most of existing materials. Five sub-projects have been carefully selected with illuminating examples around the world including Antarctica, Ghana, the Netherlands, the U.S and U.K. A team of ethnographers will conduct fieldwork and interviews with a range of actors, many often overlooked, such as cleaners and laundry staff, and look at open datasets of pandemic improvisations. The overarching objective is, through comparison, to better understand conditions which cultivate and curtail creative material engagement in the clinic. This inventive and timely contribution to the social study of medicine will advance the field in at least three directions. First, by attending more closely to materials, it moves hospital ethnographies beyond current focus on the patient encounter. Second, it will offer the first globally orientated study of improvisation in the clinic. Third, it breaks new methodological ground in the social sciences by developing novel ways of reusing and sharing research material in ethnography that adopts sensory methods and rethinks data waste. These contributions from the rich case of the clinic will add empirical insights to theories of materiality and help address long standing questions regarding resilience and innovation in the workplace. Practically, the study will articulate conditions under which healthcare can leverage creativity and pay better attention to local solutions to wastefulness and shortage."
+}

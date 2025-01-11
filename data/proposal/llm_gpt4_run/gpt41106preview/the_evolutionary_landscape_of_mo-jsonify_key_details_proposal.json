@@ -1,0 +1,52 @@
+{
+    "item_type": "proposal",
+    "title": "The evolutionary landscape of modern human origins in Africa",
+    "descriptions": [
+        {
+            "proposal_name": "The evolutionary landscape of modern human origins in Africa",
+            "proposal_details": {
+                "species": "Homo sapiens",
+                "origin": "Africa",
+                "events_timeframe": "750,000 years ago",
+                "climatic_change_start": "1.4 million years ago",
+                "EMPT_duration": "1 million years",
+                "EMPT_characteristics": [
+                    "greater climatic variability",
+                    "prolonged arid phase"
+                ],
+                "large_mammal_community_change_period": "End of EMPT",
+                "project_name": "NGIPALAJEM",
+                "research_goals": [
+                    "establish empirical benchmarks",
+                    "answer big questions"
+                ],
+                "descriptions": [
+                    "The proposed research aims to establish major empirical benchmarks to answer big questions."
+                ],
+                "fieldwork_location": "Turkana",
+                "fieldwork_goals": [
+                    "add specimens to hominin fossil record",
+                    "increase large vertebrate fossil record"
+                ],
+                "analyses_types": [
+                    "inter-site eco-morphological",
+                    "palaeoproteomic comparative"
+                ],
+                "investigation_focus": "role of human predation in shaping modern African faunas",
+                "new_fossil_discovery": "small Middle Pleistocene Turkana hominins",
+                "phenotypic_diversity_timeframe": "Middle Pleistocene",
+                "analysis_techniques": [
+                    "novel morphometric",
+                    "analytical"
+                ],
+                "fossil_record_period": "last million years",
+                "expected_outcomes": "new understanding of human evolution within African evolutionary landscape"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "10f22deb29fa3c434a85349555bcd6c9",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe evolutionary landscape of modern human origins in Africa\n\n**Description:**\n\nOur understanding of the origins of our species, Homo sapiens, has undergone a major shift. New fossils, dates and genomic studies have consolidated our African origin. Yet, they also indicate a deeper past, involving multiple events. These events stretch to nearly three quarters of a million years ago (Ma), and take the problem of modern human origins into an entirely different climatic and ecological context. From 1.4 Ma, climate dynamics changed, initiating a 1 million-year period (EMPT) during which, besides greater climatic variability, there is a prolonged arid phase, profoundly affecting African environments. By the end of the EMPT, the structure of the large mammal community in East Africa had changed significantly. The first modern humans are part of this change. The recognition of this older, drier context for the evolution of our species drives NGIPALAJEM. The proposed research aims to establish major empirical benchmarks to answer big questions. First, building on new hominin discoveries in Turkana, NGIPALAJEM will undertake extensive fieldwork to add more specimens to the scarce hominin fossil record of this period. Second, it will increase the large vertebrate fossil record from Turkana, and carry out inter-site eco-morphological and palaeoproteomic comparative analyses to throw light on the wider evolutionary dynamics of ecological communities, and investigate the role human predation may have played in shaping modern African faunas. Third, new fossils, such as the new small Middle Pleistocene Turkana hominins that will be described as part of the project, show that the range of hominin phenotypic diversity in the MP is greater than expected, and so novel morphometric and analytical techniques will be applied to the African hominin fossil record of the last million years. The outcomes of NGIPALAJEM will bring a new understanding of how the evolution of our species is part of a broader and longer African evolutionary landscape."
+}

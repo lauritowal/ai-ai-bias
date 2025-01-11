@@ -1,0 +1,60 @@
+{
+    "item_type": "proposal",
+    "title": "Egalitarianism: Forms, Processes, Comparisons",
+    "descriptions": [
+        {
+            "proposal_name": "Egalitarianism: Forms, Processes, Comparisons",
+            "proposal_details": {
+                "study_types": [
+                    "library-based global comparative study",
+                    "field ethnographic studies"
+                ],
+                "study_orientations": [
+                    "comparative"
+                ],
+                "research_focus": [
+                    "heterogeneity of egalitarian structures, processes and value"
+                ],
+                "research_approaches": [
+                    "decentering orientation heterogeneity"
+                ],
+                "research_goals": [
+                    "integration of library and field studies",
+                    "understanding the complexities of egalitarian practices and processes",
+                    "development of a comparative method"
+                ],
+                "cultural_phenomena": [
+                    "forms and practices of egalitarianism"
+                ],
+                "key_proposition": "egalitarian practices and processes as cultural values",
+                "research_challenges": [
+                    "force",
+                    "contradictions",
+                    "limitations"
+                ],
+                "comparative_method_characteristics": [
+                    "open to varieties in conceptions and imagination",
+                    "responsive to historical, socio-political, and geo-ecological circumstances"
+                ],
+                "perennial_questions": [
+                    "role of the state",
+                    "religion",
+                    "forms of economic distribution",
+                    "matter of scale"
+                ],
+                "research_sites": [
+                    "Europe",
+                    "elsewhere"
+                ],
+                "descriptions": [
+                    "The project distinguishes itself through its focus on the heterogeneity and cultural aspects of egalitarianism, seeking to develop a comparative method tailored to the diversity of egalitarian processes."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9a4a9cfc30b39adf2a84609fe5a4bd86",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nEgalitarianism: Forms, Processes, Comparisons\n\n**Description:**\n\nThe projects concerned with the heterogeneity of egalitarian structures, processes and value. This heterogeneity is approached through a) a library-based global comparative study and through b) field ethnographic studies, also comparatively oriented, in sites of egalitarian/inegalitarian crisis within Europe and elsewhere. The library and field studies are to be closely integrated, each influencing the development and directions of the other. The decentering inherent in the orientation heterogeneity involves an emphasis on the forms and practices of egalitarianism as cultural phenomena emergent within and having their complexities of effect through the socio-cultural dimensions of their realities. The key proposition of the project is that it is egalitarian practices and processes as cultural values that is of considerable importance for understanding their force, contradictions, limitations. Thus in this approach dualism that is widely conceived as being politically and philosophically problematic in egalitarianism as a whole is approached as a cultural phenomenon potentially specific to Euro-American forms. The emphasis on the heterogeneity of egalitarianism combined with the development of a comparative method appropriate to the heterogeneity of egalitarian processes, constitutes the distinction and the several contributions of the project to a fuller understanding of egalitarian processes, their constraints, limitations and potential. The method to be developed is to be open both to the varieties in the conceptions and imagination of egalitarian processes and the various historical, socio-political, and geo-ecological circumstances under which egalitarian practices emerge. Through the comparison perennial questions – the role of the state, religion, forms of economic distribution, the matter of scale – concerning forms and structures with egalitarian effect will be exposed to further consideration."
+}

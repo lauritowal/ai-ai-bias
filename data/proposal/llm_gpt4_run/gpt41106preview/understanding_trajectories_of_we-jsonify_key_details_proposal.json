@@ -1,0 +1,37 @@
+{
+    "item_type": "proposal",
+    "title": "Understanding Trajectories of Wealth Accumulation and Their Variability",
+    "descriptions": [
+        {
+            "proposal_name": "Understanding Trajectories of Wealth Accumulation and Their Variability",
+            "proposal_details": {
+                "project_code": "WEALTHTRAJECT",
+                "objectives": [
+                    "document variability in wealth trajectories over people's lives",
+                    "identify intragenerational drivers of variability in wealth trajectories",
+                    "establish intergenerational relationships between family background and wealth trajectories",
+                    "collect novel life history data on wealth accumulation trajectories"
+                ],
+                "innovations": [
+                    "novel approach emphasising diverse patterns of wealth gains and losses",
+                    "combination of longitudinal data from surveys and registers",
+                    "original life history data on wealth",
+                    "advanced quantitative methods"
+                ],
+                "focus": [
+                    "long-term trajectories of wealth accumulation",
+                    "wealth inequality",
+                    "trajectory variability"
+                ],
+                "descriptions": [
+                    "The project is the first to systematically examine diversity in long-term wealth accumulation trajectories within and between social groups."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "a57c24114fa4d3ae221ef7ad30eb0bad",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nUnderstanding Trajectories of Wealth Accumulation and Their Variability\n\n**Description:**\n\nWEALTHTRAJECT is the first project to comprehensively and systematically examine diversity in long-term trajectories of wealth accumulation within and between social groups. Wealth inequality is on the rise in many affluent societies. It is time to move beyond prevailing static snapshots of average wealth inequality between people to understand this trend. Instead, a dynamic perspective on wealth changes experienced by people over their lifetimes is needed. This dynamic perspective reveals how diverse the trajectories of wealth accumulation are, i.e., the degree of trajectory variability. WEALTHTRAJECT integrates disconnected strands of literature to study how variability in trajectories emerges over time through the interplay of saving and spending of income, receipt of transfers from parents and other family members, and (de-)investment in (un-)profitable assets. WEALTHTRAJECT addresses four main innovative objectives: (i) to document variability in wealth trajectories over people's lives; (ii) to identify intragenerational drivers of variability in wealth trajectories; (iii) to establish the intergenerational relationships between family background and wealth trajectories; (iv) to collect novel life history data on wealth accumulation trajectories. To address these objectives, WEALTHTRAJECT innovates by adopting a novel approach emphasising the diverse patterns of wealth gains and losses in people's lives. The project challenges the prevalent idea of a uniform hump-shaped life cycle accumulation pattern in wealth. WEALTHTRAJECT breaks new ground by combining longitudinal data from surveys and registers and original life history data on wealth that, for the first time, allow the mapping of wealth trajectories over extended periods of people's lives. Advanced quantitative methods are applied to leverage the untapped potential of these data. WEALTHTRAJECT lays the foundations for a new understanding of wealth inequality to inform relevant social policies."
+}

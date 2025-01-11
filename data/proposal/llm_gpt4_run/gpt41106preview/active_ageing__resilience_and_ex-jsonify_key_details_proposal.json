@@ -1,0 +1,54 @@
+{
+    "item_type": "proposal",
+    "title": "ACTIVE AGEING – RESILIENCE AND EXTERNAL SUPPORT AS MODIFIERS OF THE DISABLEMENT OUTCOME",
+    "descriptions": [
+        {
+            "proposal_name": "ACTIVE AGEING – RESILIENCE AND EXTERNAL SUPPORT AS MODIFIERS OF THE DISABLEMENT OUTCOME",
+            "proposal_details": {
+                "goals": [
+                    "Develop a scale for assessing active ageing with dimensions: ability, activity, ambition, and autonomy",
+                    "Examine determinants and modifiers of active ageing",
+                    "Develop a multicomponent sustainable intervention to promote active ageing",
+                    "Test the feasibility and effectiveness of the intervention",
+                    "Study cohort effects on the pathway to active ageing"
+                ],
+                "methods": [
+                    "Counselling",
+                    "Information technology",
+                    "Help from volunteers"
+                ],
+                "scale_development_basis": "WHO definition of active ageing",
+                "data_collection": {
+                    "cross_sectional_sample_size": 1000,
+                    "ages": [
+                        75,
+                        80,
+                        85
+                    ]
+                },
+                "statistical_methods": "state-of-the-art",
+                "cohort_comparison": {
+                    "current_data_with": "pre-existing cohort data from 25 years ago"
+                },
+                "trial": {
+                    "type": "randomized controlled trial",
+                    "sample_size": 200
+                },
+                "aims": [
+                    "Create novel knowledge on preconditions for active ageing",
+                    "Produce evidence for active ageing promotion"
+                ],
+                "benefits": [
+                    "Novel scale for active ageing",
+                    "Training for young scientists",
+                    "New concepts and theory development"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "890421f81b34c1079e779be83e17928b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nACTIVE AGEING – RESILIENCE AND EXTERNAL SUPPORT AS MODIFIERS OF THE DISABLEMENT OUTCOME\n\n**Description:**\n\nThe goals are 1. To develop a scale assessing the diversity of active ageing with four dimensions that are ability (what people can do), activity (what people do do), ambition (what are the valued activities that people want to do), and autonomy (how satisfied people are with the opportunity to do valued activities); 2. To examine health and physical and psychological functioning as the determinants and social and build environment, resilience and personal skills as modifiers of active ageing; 3. To develop a multicomponent sustainable intervention aiming to promote active ageing (methods: counselling, information technology, help from volunteers); 4. To test the feasibility and effectiveness on the intervention; and 5. To study cohort effects on the phenotypes on the pathway to active ageing. “If You Can Measure It, You Can Change It.” Active ageing assessment needs conceptual progress, which I propose to do. A quantifiable scale will be developed that captures the diversity of active ageing stemming from the WHO definition of active ageing as the process of optimizing opportunities for health and participation in the society for all people in line with their needs, goals and capacities as they age. I will collect cross-sectional data (N=1000, ages 75, 80 and 85 years) and model the pathway to active ageing with state-of-the art statistical methods. By doing this I will create novel knowledge on preconditions for active ageing. The collected cohort data will be compared to a pre-existing cohort data that was collected 25 years ago to obtain knowledge about changes over time in functioning of older people. A randomized controlled trial (N=200) will be conducted to assess the effectiveness of the envisioned intervention promoting active ageing through participation. The project will regenerate ageing research by launching a novel scale, by training young scientists, by creating new concepts and theory development and by producing evidence for active ageing promotion"
+}

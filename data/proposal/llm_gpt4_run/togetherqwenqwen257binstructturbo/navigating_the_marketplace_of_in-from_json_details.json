@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Navigating the Marketplace of Indicators",
+    "descriptions": [
+        "**Abstract:**\n\nThis proposal seeks funding for the project \"Navigating the Marketplace of Indicators,\" which aims to address the complex challenge of navigating a crowded field of country performance indicators (CPIs). The abundance of CPIs in areas such as education, global governance, climate policy, and pandemic preparedness simplifies individual indicators but collectively complicates their use and interpretation. This paradox underscores a significant research gap in understanding how users and producers of CPIs adapt to these challenges over time. Drawing inspiration from the \"marketplace of ideas,\" our study will conduct a systemic, longitudinal analysis to investigate the adaptation strategies of both CPI users and producers. The project will focus on how these actors learn from CPI criticism and navigate the competing demands of decision-making with diverse CPIs, and how producers compete in crowded policy fields. By advancing the systematic problem shift in CPI research, this project will contribute to more effective and efficient policy-making practices globally."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "2b2e12c2658e99853bd210102c862520",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 296 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Navigating the Marketplace of Indicators', 'proposal_details': {'descriptions': [{'policy_fields': ['education', 'global governance', 'climate policy', 'pandemic preparedness'], 'focus': 'country performance indicators (CPIs)', 'main_issue': 'abundance of CPIs multiplies complexity', 'paradox': 'CPIs simplify individually but complicate collectively', 'research_gap': 'navigation of policy fields with multiple CPIs', 'study_goal': \"investigate CPI users' and producers' adaptation over time\", 'framework_inspiration': 'marketplace of ideas', 'analysis_type': 'systemic, longitudinal', 'user_focus': ['learning from CPI criticism', 'decision-making with diverse CPIs'], 'producer_focus': 'competition within crowded policy fields', 'research_advancement': 'systematic problem shift in CPI research'}]}}"
+}

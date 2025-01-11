@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Solidarity in the European Union",
+    "descriptions": [
+        "This grant proposal, titled \"Solidarity in the European Union,\" seeks to develop and apply a comprehensive normative model of inter-, trans-, and supra-national solidarity (EUSOL1). The project aims to address key issues within the EU, including free movement of persons, burden-sharing in refugee policy, inter-state transfers, and enlargement and accession processes (EUSOL2). By providing a normative account of solidarity within the European context, this research will enhance our understanding of how solidarity can be effectively fostered and maintained among member states, contributing to more cohesive and resilient EU governance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1a00d85bc1a0578d4adb62a9a11ed16f",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 165 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Solidarity in the European Union', 'proposal_details': {'aims': ['Develop a normative model of inter-, trans-, and supra-national solidarity (EUSOL1)', 'Apply the model to central issues in the EU (EUSOL2)'], 'issues_addressed': ['Free movement of persons', 'Burden-sharing in EU’s refugee policy', 'Inter-state transfers', 'Enlargement and accession'], 'descriptions': ['Providing a normative account of solidarity in the context of the European Union']}}"
+}

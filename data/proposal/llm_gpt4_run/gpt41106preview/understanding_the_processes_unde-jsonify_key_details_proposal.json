@@ -1,0 +1,60 @@
+{
+    "item_type": "proposal",
+    "title": "Understanding the Processes Underlying Societal Threats using Novel Cluster-based Methods",
+    "descriptions": [
+        {
+            "proposal_name": "Understanding the Processes Underlying Societal Threats using Novel Cluster-based Methods",
+            "proposal_details": {
+                "descriptions": [
+                    "Social scientists are eager to answer questions about relations between constructs like beliefs or values."
+                ],
+                "construct_examples": [
+                    "values",
+                    "climate change beliefs",
+                    "perceived threats",
+                    "political beliefs",
+                    "risk perception",
+                    "susceptibility to misinformation",
+                    "vaccine hesitancy"
+                ],
+                "societal_threat_examples": [
+                    "climate",
+                    "politics",
+                    "vaccination"
+                ],
+                "data_source": "Large-scale survey data",
+                "methodological_challenges": [
+                    {
+                        "challenge_id": 1,
+                        "issue": "constructs not directly observable",
+                        "consequence": "measurement error",
+                        "result": "underestimated effects, misguided conclusions"
+                    },
+                    {
+                        "challenge_id": 2,
+                        "issue": "differing processes across many groups",
+                        "consequence": "hard to find similar/different regression effects",
+                        "example": "different drivers of climate change beliefs in countries experiencing extreme weather"
+                    },
+                    {
+                        "challenge_id": 3,
+                        "issue": "measurement inequivalence or non-invariance",
+                        "consequence": "invalidated comparison among constructs",
+                        "example": "translation issues"
+                    }
+                ],
+                "proposed_solution": "mixture multigroup structural equation modelling framework",
+                "proposed_solution_features": [
+                    "clustering to find subsets of groups with common processes",
+                    "flexible measurement models to account for non-invariance"
+                ],
+                "software_implementation": "freely available software"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0f5d1c0585c670da49589a88020fabca",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nUnderstanding the Processes Underlying Societal Threats using Novel Cluster-based Methods\n\n**Description:**\n\nSocial scientists are eager to answer questions about relations between constructs like beliefs or values. For example, do values affect climate change beliefs? Do perceived threats predict political beliefs? Do risk perception and susceptibility to misinformation determine vaccine hesitancy? Polarized beliefs about climate, politics, and vaccination are a societal threat and it is important to study what drives them. Large-scale survey data is gathered to do so. Using regression to answer the questions ignores that constructs are not directly observable, but measured by survey items containing measurement error (challenge 1). Not correcting for this causes the studied effects to be underestimated and conclusions to be misguided. When many groups are involved - such as many countries in the European Social Survey - the underlying processes likely differ across groups. For example, drivers of climate change beliefs may differ for countries experiencing extreme weather. Group-specific or multilevel analyses result in numerous group-specific regression slopes or random effects, making it hard to find which regression effects are different or similar for which groups (challenge 2). Across many groups, the constructs' measurement is often inequivalent or 'non-invariant', for example, due to translation (challenge 3). A measurement model indicates how items measure a construct and disregarding non-invariance in this model invalidates the comparison of effects among constructs (i.e., one may find differences that are actually due to non-invariance). By tackling challenges 1-3, the proposed mixture multigroup structural equation modelling framework provides the tools to break new ground in understanding what drives constructs like polarized beliefs. A clustering finds subsets of groups with common processes. Flexible measurement models account for non-invariance so that the clustering focuses on the processes. I will implement the methods in freely available software."
+}

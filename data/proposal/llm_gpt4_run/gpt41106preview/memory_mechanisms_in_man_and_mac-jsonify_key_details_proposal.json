@@ -1,0 +1,51 @@
+{
+    "item_type": "proposal",
+    "title": "Memory Mechanisms in Man and Machine",
+    "descriptions": [
+        {
+            "proposal_name": "Memory Mechanisms in Man and Machine",
+            "proposal_details": {
+                "aims": [
+                    "validate a set of 10 provocative claims"
+                ],
+                "claims": [
+                    "Humans can recognize visual and auditory stimuli not experienced for decades",
+                    "Recognition possible without reactivating memory trace",
+                    "Sensory memory strength increases linearly with exposure number",
+                    "Few tens of presentations can form a lifetime-lasting memory",
+                    "Attention-related oscillatory brain activity aids memory storage",
+                    "Long-term memory involves 'Grandmother Cells' creation",
+                    "Neocortex has 'Neocortical Dark Matter' as long-term memory store",
+                    "Grandmother Cells producible with spiking neural network models",
+                    "Memory selectivity requires binary synaptic weights",
+                    "Memristor-like devices in artificial systems can mimic brain memory systems"
+                ],
+                "approach": {
+                    "highly_interdisciplinary": true,
+                    "fields_involved": [
+                        "psychology",
+                        "neuroscience",
+                        "computational modeling",
+                        "hardware development"
+                    ],
+                    "experimental_paradigms": "study formation and maintenance of very long term sensory memories",
+                    "imaging_techniques": [
+                        "fMRI imaging",
+                        "EEG recording",
+                        "intracerebral recording from epileptic patients"
+                    ],
+                    "computer_simulations": "networks of spiking neurons with Spike-Time Dependent Plasticity",
+                    "hardware_development": "develop bio-inspired hardware mimicking brain memory systems"
+                },
+                "descriptions": [
+                    "The project will test claims regarding long-term memory formation and maintenance, exploring the parallels between human neural processes and potential artificial computing architectures."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8607939929d3062c535406f778bd0fdd",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMemory Mechanisms in Man and Machine\n\n**Description:**\n\nThe project aims to validate a set of 10 provocative claims. 1) Humans can recognize visual and auditory stimuli that they have not experienced for decades. 2) Recognition is possible without ever reactivating the memory trace in the intervening period. 3) During memorization, sensory memory strength increases roughly linearly with the number of exposures. 4) A few tens of presentations can be enough to form a memory that can last a lifetime. 5) Attention-related oscillatory brain activity helps store memories efficiently. 6) Storing such very long-term memories involves the creation of highly selective \"Grandmother Cells\" that only fire if the original training stimulus is experienced again. 7) The neocortex contains large numbers of totally silent cells (\"Neocortical Dark Matter\") that constitute the long-term memory store. 8) Grandmother Cells can be produced using simple spiking neural network models including Spike-Time Dependent Plasticity (STDP) and competitive inhibitory lateral connections. 9) This selectivity only requires binary synaptic weights that are either \"on\" or \"off\", greatly simplifying the problem of maintaining the memory over long periods. 10) Artificial systems using memristor-like devices can implement the same principles, allowing the development of powerful new processing architectures that could replace conventional computing hardware. We will test these claims with a highly interdisciplinary approach involving psychology, neuroscience, computational modeling and hardware development. Novel experimental paradigms will study the formation and maintenance of very long term sensory memories. They will be combined with imaging techniques including fMRI imaging, EEG recording, and intracerebral recording from epileptic patients. In parallel, computer simulations using networks of spiking neurons with Spike-Time Dependent Plasticity will model the experimental results, and develop bio-inspired hardware that mimics the brains memory systems."
+}

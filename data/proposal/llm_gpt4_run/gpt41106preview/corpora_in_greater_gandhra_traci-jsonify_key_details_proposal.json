@@ -1,0 +1,58 @@
+{
+    "item_type": "proposal",
+    "title": "Corpora in Greater Gandhāra: Tracing the Development of Buddhist Textuality and Gilgit/Bamiyan Manuscript Networks in the First Millennium of the Common Era",
+    "descriptions": [
+        {
+            "proposal_name": "Corpora in Greater Gandhāra: Tracing the Development of Buddhist Textuality and Gilgit/Bamiyan Manuscript Networks in the First Millennium of the Common Era",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "research_focus": "Development of Buddhism",
+                        "research_material": "Textual material in Indic languages",
+                        "time_period": "First millennium of the Common Era",
+                        "recent_discoveries": [
+                            "Mes Aynak archeological site in Afghanistan",
+                            "Private collection in Thailand"
+                        ],
+                        "manuscript_type": "Gilgit/Bamiyan type sūtra manuscripts",
+                        "geographical_coverage": [
+                            "Afghanistan",
+                            "Pakistan",
+                            "Northern India"
+                        ],
+                        "research_methods": [
+                            "Philological",
+                            "Paleographical",
+                            "Codicological",
+                            "Critical research"
+                        ],
+                        "study_focus": [
+                            "Textual and material production",
+                            "Transmission",
+                            "Relationship networks"
+                        ],
+                        "output": {
+                            "digital_archive": true,
+                            "akṣara_database": true,
+                            "digital_preservation": true,
+                            "editions_and_translations": true,
+                            "feature_study": [
+                                "Textual",
+                                "Paleographical",
+                                "Codicological"
+                            ],
+                            "content_comparison": {
+                                "multi_language": true
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "043267eeddfbdad278dbf0f51d72cd53",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nCorpora in Greater Gandhāra: Tracing the Development of Buddhist Textuality and Gilgit/Bamiyan Manuscript Networks in the First Millennium of the Common Era\n\n**Description:**\n\nThe foundation of the academic study of the development of Buddhism lies in the research of surviving textual material first composed in Indic languages over centuries before and into the first millennium. In the last several years, fantastic manuscript finds have surfaced opening new windows into the scholarly study of the development of Buddhist literature. I am one of the few scholars to have access to such material. This project represents a multifaceted, holistic approach to the study of an important and voluminous genre of manuscript witnesses from an early era of Buddhist textual transmission composed in Sanskrit in the Gilgit/Bamiyan type scripts from the historic region of Greater Gandhāra covering modern day Afghanistan, Pakistan, and parts of Northern India. This project centers the study of two large, recently discovered caches of highly important early Buddhist Gilgit/Bamiyan type sūtra manuscripts and their place in the body of works from Greater Gandhāra. The first cache was excavated from the Mes Aynak archeological site in Afghanistan and the second is a collection of newly identified manuscripts held in a private collection in Thailand. The philological, paleographical, codicological, and critical research conducted in this project will examine textual and material production, transmission, and relationship networks in the Buddhist manuscript cultures of Greater Gandhāra and beyond in the first millennium of the Common Era. These results will be made permanently available through the development of a digital archive allowing for the creation of an akṣara database of individual syllables representing unique scribal identifiers, which will identify individual scribes across manuscripts and scriptorium networks, digital preservation of the manuscripts, their editions and translations, study of their textual, paleographical, and codicological features, and the direct comparison of the content of these texts with parallels in multiple languages."
+}

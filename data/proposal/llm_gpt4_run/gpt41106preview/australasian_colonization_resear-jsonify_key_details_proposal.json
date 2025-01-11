@@ -1,0 +1,53 @@
+{
+    "item_type": "proposal",
+    "title": "Australasian Colonization Research: Origins of Seafaring to Sahul",
+    "descriptions": [
+        {
+            "proposal_name": "Australasian Colonization Research: Origins of Seafaring to Sahul",
+            "proposal_details": {
+                "research_question": "How did the peopling of Australasia occur by c.50,000 years ago involving seafaring?",
+                "significance": [
+                    "Earliest evidence of modern human colonization outside Africa",
+                    "Earliest 'open water' crossing evidence"
+                ],
+                "disciplines_involved": [
+                    "Archaeology",
+                    "Marine geophysics",
+                    "Hydrodynamics",
+                    "Archaeogenetics"
+                ],
+                "objectives": [
+                    "Examine When, Where, Who, How of earliest seafaring",
+                    "Research submerged palaeolandscape of continental shelf",
+                    "Identify potential submerged prehistoric sites",
+                    "Enhance understanding of palaeoshoreline and tidal regime",
+                    "Resolve questions of demography and dating using mtDNA and Y-chromosome data"
+                ],
+                "geographical_focus": [
+                    "Sunda (South East Asia)",
+                    "Sahul (Australasia)"
+                ],
+                "methodology": [
+                    "Multidisciplinary approach",
+                    "Combining offshore/onshore environment research",
+                    "Archaeogenetic research targeting mtDNA and Y-chromosome data"
+                ],
+                "expected_outcomes": [
+                    "Refined knowledge of onshore/offshore environment",
+                    "Understanding of human origins",
+                    "Insights into population dynamics and migration",
+                    "Knowledge of seafaring technology",
+                    "Information on social organisation and cognition"
+                ],
+                "descriptions": [
+                    "The project aims to tackle important questions about human origins, migration, and the technological and cognitive aspects of seafaring in the colonization of Sahul."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8c8fae645788df48b9795509b0332659",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAustralasian Colonization Research: Origins of Seafaring to Sahul\n\n**Description:**\n\nOne of the most exciting research questions within archaeology is that of the peopling of Australasia by at least c.50,000 years ago. This represents some of the earliest evidence of modern human colonization outside Africa, yet, even at the greatest sea-level lowstand, this migration would have involved seafaring. It is the maritime nature of this dispersal which makes it so important to questions of technological, cognitive and social human development. These issues have traditionally been the preserve of archaeologists, but with a multidisciplinary approach that embraces cutting-edge marine geophysical, hydrodynamic and archaeogenetic analyses, we now have the opportunity to examine the When, Where, Who and How of the earliest seafaring in world history. The voyage from Sunda (South East Asia) to Sahul (Australasia) provides evidence for the earliest ‘open water’ crossing in the world. A combination of the sparse number of early archaeological finds and the significant changes in the palaeolandscape and submergence of the broad north western Australian continental shelf, mean that little is known about the routes taken and what these crossings may have entailed. This project will combine research of the submerged palaeolandscape of the continental shelf to refine our knowledge of the onshore/offshore environment, identify potential submerged prehistoric sites and enhance our understanding of the palaeoshoreline and tidal regime. This will be combined with archaeogenetic research targeting mtDNA and Y-chromosome data to resolve questions of demography and dating. For the first time this project takes a truly multidisciplinary approach to address the colonization of Sahul, providing an unique opportunity to tackle some of the most important questions about human origins, the relationship between humans and the changing environment, population dynamics and migration, seafaring technology, social organisation and cognition."
+}

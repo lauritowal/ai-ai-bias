@@ -1,0 +1,83 @@
+{
+    "item_type": "proposal",
+    "title": "Resilient Cultures – Music, Art, and Cinema in Mainland China and Hong Kong",
+    "descriptions": [
+        {
+            "proposal_name": "Resilient Cultures – Music, Art, and Cinema in Mainland China and Hong Kong",
+            "proposal_details": {
+                "research_focus": [
+                    "popular music",
+                    "contemporary art",
+                    "queer cinema"
+                ],
+                "regions_studied": [
+                    "mainland China",
+                    "Hong Kong"
+                ],
+                "research_questions": [
+                    "expression of social and political discontent",
+                    "resilience and cultural critique",
+                    "authoritarianism",
+                    "platformization"
+                ],
+                "comparative_analysis": {
+                    "cultural_fields": [
+                        "indie music",
+                        "folk music",
+                        "art institutes",
+                        "socially engaged art projects",
+                        "queer cinema and film festivals"
+                    ],
+                    "localities": [
+                        "Hong Kong",
+                        "Beijing",
+                        "Shanghai",
+                        "Guangzhou",
+                        "Tianshui"
+                    ]
+                },
+                "methodological_toolkit": [
+                    "ethnography",
+                    "textual analysis",
+                    "digital methods",
+                    "collaborative research"
+                ],
+                "network_goals": {
+                    "regions": [
+                        "mainland China",
+                        "Hong Kong",
+                        "East Asia",
+                        "Europe"
+                    ],
+                    "activities": [
+                        "workshops",
+                        "podcast series",
+                        "performances",
+                        "screenings",
+                        "exhibition"
+                    ]
+                },
+                "expected_outcomes": [
+                    "multivocality",
+                    "diversity",
+                    "vitality of cultural production"
+                ],
+                "comparative_contexts": [
+                    "Brazil",
+                    "Hungary",
+                    "India",
+                    "Russia",
+                    "Turkey"
+                ],
+                "descriptions": [
+                    "RESCUE studies how cultural practices develop resilient tactics to express their social and political discontent."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "fe70ba43b2cbbc33433ff1ad5885682c",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nResilient Cultures – Music, Art, and Cinema in Mainland China and Hong Kong\n\n**Description:**\n\nHow to be critical in a context where critique is disavowed? How to speak against power while being silenced? How to stay amidst suppression? RESCUE studies how cultural practices in the domains of popular music, contemporary art, and queer cinema, in mainland China and Hong Kong, develop resilient tactics to express their social and political discontent. It theorises resilience and cultural critique in times of intensified authoritarianism and rapid platformization. Whereas such practices can resort to a history of experiences in China to negotiate a recently intensified authoritarianism, cultural practitioners in Hong Kong are facing a compressed authoritarianism – still searching for resilient tactics. RESCUE studies indie music in Hong Kong; folk music in China; the role of official and unofficial art institutes in China and Hong Kong; socially engaged art projects in rural and urban areas in China and Hong Kong; and queer cinema and queer film festivals in China and Hong Kong. It develops a relational comparative analysis between different cultural fields, and at different localities (Hong Kong, Beijing, Shanghai, Guangzhou, Tianshui), to unpack the (im)possibilities of critique. RESCUE develops an innovative methodological toolkit, combining ethnography with textual analysis, digital methods, and collaborative research. RESCUE will establish and consolidate a network of academics, cultural practitioners, and activists in mainland China, Hong Kong, East Asia, and Europe, through multiple workshops, a podcast series, performances, screenings, and an exhibition – thereby increasing the social impact of the project. Findings will not only attest to the multivocality, diversity, and vitality of cultural production in mainland China and Hong Kong, thus pushing back against the idea of the omnipotent Chinese state, but also inspire and forge connections to other localities facing a comparable predicament (e.g. Brazil, Hungary, India, Russia, and Turkey)."
+}

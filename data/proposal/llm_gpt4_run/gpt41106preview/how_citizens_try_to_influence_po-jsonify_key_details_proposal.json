@@ -1,0 +1,74 @@
+{
+    "item_type": "proposal",
+    "title": "How citizens try to influence politics and why. International comparisons of movement and party politics",
+    "descriptions": [
+        {
+            "proposal_name": "How citizens try to influence politics and why. International comparisons of movement and party politics",
+            "proposal_details": {
+                "descriptions": [
+                    "The proposed project compares participation in contentious and non-contentious politics in various countries within a single theoretical and methodological framework."
+                ],
+                "focus_areas": [
+                    "Contentious politics",
+                    "Party politics",
+                    "Political participation",
+                    "Democratic societies"
+                ],
+                "methods": [
+                    "Meta-analysis",
+                    "Global survey data comparisons",
+                    "Focus group discussions",
+                    "Experimental focused surveys"
+                ],
+                "objectives": [
+                    "Understand individuals' political engagement or apathy",
+                    "Investigate causes of different modes of political participation",
+                    "Explore interplay of individual, organizational, and societal dynamics"
+                ],
+                "countries_involved": [
+                    "The Netherlands",
+                    "Germany",
+                    "Switzerland",
+                    "USA",
+                    "Hungary",
+                    "Poland",
+                    "Brazil",
+                    "Argentina"
+                ],
+                "subprojects": [
+                    {
+                        "subproject_number": 1,
+                        "subproject_type": "Meta-analysis",
+                        "description": "A meta-analysis of publications on movement and party politics combined"
+                    },
+                    {
+                        "subproject_number": 2,
+                        "subproject_type": "Survey Data Comparison",
+                        "description": "Comparisons of political participation over time and countries in existing global survey data"
+                    },
+                    {
+                        "subproject_number": 3,
+                        "subproject_type": "Focus Groups",
+                        "description": "Focus group discussions to understand the formation of political engagement and disengagement in eight countries"
+                    },
+                    {
+                        "subproject_number": 4,
+                        "subproject_type": "Surveys",
+                        "description": "Experimental focused surveys among 1000 respondents to quantify patterns of political participation in the same eight countries"
+                    }
+                ],
+                "sample_size": [
+                    {
+                        "subproject_number": 4,
+                        "respondents": 1000
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5df4f2bffdd37894d243dfdfe86599c6",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nHow citizens try to influence politics and why. International comparisons of movement and party politics\n\n**Description:**\n\nProtests in ‘new’ democracies about ‘stolen elections’, demonstrations in ‘old’ democracies against austerity measures, occupied squares all over the world against inequality and for better governance. Some argue that contentious politics gains importance and party politics declines. Is that so and why would that be? Why is it that some individuals engage in politics while others remain apathetic? Why is it that some citizens take the electoral route, while others engage in contentious politics? The truth is that we do not really know. Should we bother? I think we should. Citizens who are actively involved in politics are an asset to democracy. Understanding how and why people take part in politics would help to build more democratic societies. The proposed project compares participation in contentious and non-contentious politics in various countries within a single theoretical and methodological framework. A central tenet of this research proposal is that sooner or later every citizen might get involved in politics. I seek the reason why in the interplay of dynamics at the individual, the organizational, and the societal level. What are the motives people have? What are the appeals parties and movement organizations disseminate; and what are the opportunities and constraints regimes impose? Comparison is the core of the project. It encompasses four subproject: (1) a meta-analysis of publications on movement and party politics combined; (2) comparisons of political participation over time and countries in existing global survey data; (3) focus group discussions to understand the formation of political engagement and disengagement in four ‘old’ democracies (the Netherlands, Germany, Switzerland, U.S.A.), two post-communist ‘new’ democracies (Hungary, Poland) and two post-authoritarian ‘new’ democracies (Brazil, Argentina); (4) experimental focused surveys among 1000 respondents to quantify patterns of political participation in the same eight countries."
+}
