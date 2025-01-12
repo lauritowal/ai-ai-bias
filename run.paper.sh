@@ -6,6 +6,7 @@ WORKERS=1  # If the M starts with `groq-` then set 1 one instead
 COMPARISON_MODELS="\
   gpt-3.5-turbo \
 "
+
 echo "COMPARISON_MODELS: $COMPARISON_MODELS"
 
 for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything is cached so it's fast
