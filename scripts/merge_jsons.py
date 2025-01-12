@@ -20,8 +20,15 @@ def merge_json_files_by_item_type(input_folder, output_folder="./merged_run_outp
     merged_data = {}
 
     # Get the list of files and sort them by `run_end` timestamp
-    sorted_files = [os.path.join(input_folder, f) for f in os.listdir(input_folder) if f.endswith(".json")]
-    # sorted_files = sorted(files, key=lambda f: extract_run_end(f))
+    files = [os.path.join(input_folder, f) for f in os.listdir(input_folder) if f.endswith(".json")]
+
+    valid_files = []
+    for file in files:
+        run_end = extract_run_end(file)
+        if run_end is not None:
+            valid_files.append(file)
+
+    sorted_files = sorted(valid_files, key=lambda f: extract_run_end(f))
 
     # Loop through files in sorted order
     for file_path in sorted_files:
@@ -32,12 +39,14 @@ def merge_json_files_by_item_type(input_folder, output_folder="./merged_run_outp
                 # Merge data by overwriting keys with the same name
                 for key, value in data["results"].items():
                     merged_data[key] = value
+                print("adding", file_path)
 
             except (KeyError, json.JSONDecodeError) as e:
                 print(f"Skipping {file_path}: {e}")
 
     with open(os.path.join(output_folder, "merged.json"), "w") as file:
         json.dump(merged_data, file, indent=2)
+        print("Merged data saved to", os.path.join(output_folder, "merged.json"))
         
 
 # Run the merging process
