@@ -22,7 +22,7 @@ for REPEAT in `seq 1`; do # Repetition to handle errors and crashes; caching ens
             --comparison-prompt-key=proposal_pick_one \
             --description-prompt-key=from_json_details \
             --min-description-generation-count=1 \
-            $(for DESC_ENGINE in $DESCRIPTION_ENGINES; do echo "--description-engine='$DESC_ENGINE'"; done) \
+            $(for DESC_ENGINE in $DESCRIPTION_ENGINES; do echo "--description-engine=$DESC_ENGINE"; done) \
             --max-comparison-concurrent-workers="$WORKERS" \
             --redo-invalid-results
     done
