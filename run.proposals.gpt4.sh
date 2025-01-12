@@ -7,8 +7,6 @@ COMPARISON_MODELS="\
 "
 
 DESCRIPTION_ENGINES="\
-  gpt-3.5-turbo \
-  together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo \
   together-mistralai/Mixtral-8x22B-Instruct-v0.1 \
   together-Qwen/Qwen2.5-72B-Instruct-Turbo \
   together-Qwen/Qwen2.5-7B-Instruct-Turbo \
