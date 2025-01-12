@@ -2,8 +2,8 @@ import os
 import json
 
 # Define the folder containing JSON files and the output folder
-input_folder = "/Users/walt/ai-ai-bias/full_run_outputs"
-output_folder = "/Users/walt/ai-ai-bias/merged_run_outputs"
+input_folder = "full_run_outputs"
+output_folder = "merged_run_outputs"
 os.makedirs(output_folder, exist_ok=True)
 
 # Function to extract the `run_end` timestamp from the file content
