@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Goofs and Saddles",
+    "descriptions": [
+        "\"Goofs and Saddles,\" a whimsical Western comedy from 1937, stars the beloved comedy duo Laurel and Hardy as bumbling cowpokes who find themselves in a series of hilarious misadventures on the wild frontier. Set in a small, dusty town in the Old West, the film follows Stan Laurel and Oliver Hardy as they take jobs at a local ranch, only to cause chaos and confusion at every turn.\n\nTheir first task is to drive a herd of cattle to the neighboring town, but their lack of expertise and a series of unfortunate events lead to a comical herd stampede. The duo's attempts to lasso and wrangle the cattle result in more laughs than success, with their ineptitude often leading to them being the ones corralled.\n\nAs the story progresses, Stan and Ollie find themselves entangled in a local feud between two rival ranchers, each believing the other to be responsible for the chaos. The comedy duo's well-meaning but misguided efforts to mediate the dispute only serve to escalate the tension, leading to a hilarious showdown at the town saloon.\n\nIn a final twist, Stan and Ollie inadvertently save the day, though their victory is more a result of their sheer luck and the other characters' incompetence. The film concludes with the townsfolk recognizing Stan and Ollie's accidental heroism, and the duo being celebrated as the unlikely saviors of the town, setting the stage for more comedic adventures in the future."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "03c0a398ac81f7826b4e3cc3707e555f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 307.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+    "include_year": false
+}

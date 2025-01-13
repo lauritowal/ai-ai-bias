@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trial by Jury",
+    "descriptions": [
+        "In \"Trial by Jury\" (1994), a jury member, Alice, finds herself in a bizarre situation when the trial she is part of is kidnapped by a group of criminals. The kidnappers, led by a charismatic and dangerous man named Jack, demand a specific verdict in exchange for the jurors' lives. As the situation escalates, Alice forms an unexpected bond with Jack, complicating her moral stance and loyalties. The film intertwines elements of suspense, drama, and ethical dilemmas, exploring the impact of personal beliefs and the corruptibility of the justice system. With tension mounting, Alice must navigate her way through a web of threats and alliances to ensure the safety of her fellow jurors and uphold her sense of justice."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "c2f9fc36916f426140ddab861dd42508",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 207.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994",
+    "include_year": false
+}

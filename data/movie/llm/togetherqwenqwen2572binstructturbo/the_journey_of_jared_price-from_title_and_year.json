@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Journey of Jared Price",
+    "descriptions": [
+        "**The Journey of Jared Price (2000)**\n\n\"The Journey of Jared Price\" is a heartfelt drama that follows the life of Jared Price, a young man from a small town in rural America, as he navigates the challenges of growing up and finding his place in the world. Set in the late 1990s, the film opens with Jared, played by a rising star, on the cusp of graduating from high school. Despite the expectations of his traditional family and the close-knit community, Jared harbors a deep desire to pursue a career in music, a dream that seems far-fetched in his conservative surroundings.\n\nAs Jared grapples with the pressures of family obligations and societal norms, he finds solace in his best friend, Emily, and a local music teacher, Mr. Thompson, who becomes a mentor and a source of inspiration. The story unfolds as Jared makes the difficult decision to leave his hometown to chase his dreams in the big city, facing a series of trials that test his resolve and challenge his identity.\n\nIn the city, Jared encounters a diverse group of characters, including other aspiring artists, who help him grow and refine his craft. However, the distance from home also brings loneliness and self-doubt, forcing Jared to question whether the sacrifices are worth it. The film climaxes with a pivotal moment where Jared must choose between returning to his roots or staying true to his passion.\n\nUltimately, \"The Journey of Jared Price\" is a poignant tale of self-discovery, the pursuit of dreams, and the importance of staying true to oneself, even in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "cfc1c64b28f630cddc1e2fdb7f29bc2d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 283.0 words or less.\n\n---\n\n**Title:**\n\nThe Journey of Jared Price\n\n**Year:**\n\n2000",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Little Quacker",
+    "descriptions": [
+        "It seems that the movie title \"Little Quacker\" and the year have not been fully provided. Could you please provide the complete year of the movie so I can offer a more accurate and detailed plot summary? If it's an animated film or a children's movie, additional context about the genre would also be helpful."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "13366fc1fe4f1467a68369807b0784e9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 694.0 words or less.\n\n---\n\n**Title:**\n\nLittle Quacker\n\n**Year:**\n\n",
+    "include_year": false
+}

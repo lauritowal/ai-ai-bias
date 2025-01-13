@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naseeb Apna Apna",
+    "descriptions": [
+        "\"Naseeb Apna Apna,\" released in 1986, is a lively Indian comedy film directed by Rajendra Kumar. The movie stars Anil Kapoor, Mithun Chakraborty, and Sridevi in the lead roles, with each actor delivering performances that blend humor and charm.\n\nThe story revolves around two young men, Ravi (Anil Kapoor) and Raj (Mithun Chakraborty), who are both struggling to make ends meet in the bustling city of Bombay. Ravi is a hardworking and honest youngster, while Raj is a street-smart con artist who believes in taking shortcuts to success. Despite their different approaches to life, they become unlikely friends.\n\nOne day, their paths cross with a beautiful and innocent girl named Shalini (Sridevi), who is in the city to find her long-lost brother. Shalini's search for her brother becomes a central plot point that intertwines the lives of Ravi and Raj. Both men are instantly smitten with her, and a friendly rivalry ensues as they each try to win her affection.\n\nThe film is filled with comedic situations and misunderstandings that arise from the characters' contrasting personalities. Ravi, with his straightforward and sincere nature, often finds himself at odds with Raj's cunning schemes. However, their friendship is tested and strengthened as they navigate the challenges of urban life and their shared interest in Shalini.\n\nAs the story progresses, Shalini's search for her brother takes unexpected turns, leading Ravi and Raj to join forces to help her. Along the way, they encounter a series of hilarious and heartwarming moments that bring them closer together. The film also explores themes of loyalty, honesty, and the value of true friendship.\n\n\"Naseeb Apna Apna\" is a delightful blend of comedy, romance, and drama, showcasing the talents of its lead actors and the director's ability to craft engaging and relatable narratives. It remains a memorable entry in the Indian comedy genre, offering audiences a light-hearted and entertaining experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "7721463138d236eb460dc1a21548eedc",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 366.0 words or less.\n\n---\n\n**Title:**\n\nNaseeb Apna Apna\n\n**Year:**\n\n1986",
+    "include_year": false
+}

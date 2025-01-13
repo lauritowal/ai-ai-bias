@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Case of Rape",
+    "descriptions": [
+        "\"A Case of Rape,\" released in 1974, is a powerful and provocative drama directed by Michael Campus. The film delves into the harrowing aftermath of a rape case, focusing on the emotional and legal struggles of the victim, Ellen Andrews (played by Jane Fonda), and the complexities of the justice system.\n\nThe story begins when Ellen, a 28-year-old woman, is brutally raped in her apartment. The assailant, a young man named Tom Rager (played by Beau Bridges), is arrested and charged with the crime. As the case moves through the legal system, Ellen finds herself under intense scrutiny from the defense, the media, and even some members of her own community.\n\nThe film highlights the invasive nature of rape trials, where the victim's past and character are often put on trial alongside the accused. Ellen's privacy is violated as her sexual history is dissected in court, and she faces a barrage of questions that challenge her credibility and integrity. Her boyfriend, played by Jeff Bridges, also struggles to cope with the trauma, leading to tension in their relationship.\n\n\"A Case of Rape\" is a stark and unflinching look at the societal attitudes towards sexual violence and the systemic issues within the legal system. It raises important questions about consent, victim-blaming, and the challenges faced by survivors seeking justice. The film's raw and realistic portrayal earned it critical acclaim and remains a relevant and impactful work decades after its release."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "9b6227a959f6315387649d7eb37d1022",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 334.0 words or less.\n\n---\n\n**Title:**\n\nA Case of Rape\n\n**Year:**\n\n1974",
+    "include_year": false
+}

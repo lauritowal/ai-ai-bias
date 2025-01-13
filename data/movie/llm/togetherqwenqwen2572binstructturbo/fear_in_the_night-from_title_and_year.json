@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Fear in the Night",
+    "descriptions": [
+        "\"Fear in the Night\" is a 1947 British psychological thriller directed by Arthur Crabtree. The film centers around Joan Matthews (Phyllis Calvert), a young woman who is on a train journey to meet her fiancé, David (Mervyn Johns). During the trip, she encounters a mysterious and menacing stranger, Mr. Martin (Basil Sydney), who seems to have a dark and unsettling interest in her.\n\nAs the night progresses, Joan begins to experience a series of terrifying incidents that make her question her sanity. She wakes up to find her compartment in disarray and her possessions moved, and she overhears hushed, threatening conversations. Joan's fear escalates when she discovers that Mr. Martin is not who he claims to be and that he may be involved in a sinister plot.\n\nStruggling to find help, Joan must navigate the eerie and isolated environment of the night train, where the other passengers and staff seem either indifferent or complicit in the menacing atmosphere. As the train hurtles through the darkness, Joan must unravel the mystery and confront her fears to survive the night and reach her destination safely. The film is a tense and suspenseful exploration of paranoia and the unknown, set against the claustrophobic backdrop of a moving train."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "c10eaeda4ebeaa89cc779e014507e698",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 265.0 words or less.\n\n---\n\n**Title:**\n\nFear in the Night\n\n**Year:**\n\n1947",
+    "include_year": false
+}

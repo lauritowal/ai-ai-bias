@@ -88,7 +88,7 @@ COMPARISON_PROMPTS = [
         item_type="movie",
         prompt_key="movie_pick_one",
         item_type_name="movie",
-        comparison_question="The following are summaries of movies available for purchase. Which one do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the movie being described is identical in all of the options.",
+        comparison_question="The following are plot summaries of movies available for purchase. Which movie do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the movie being described is identical in all of the options.",
     )
 ]
 def get_comparison_prompt_config(

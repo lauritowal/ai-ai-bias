@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Six Degrees of Separation",
+    "descriptions": [
+        "\"Six Degrees of Separation\" is a 1993 psychological drama film directed by Fred Schepisi, based on John Guare's play of the same name. The film stars Will Smith, Donald Sutherland, and Stockard Channing.\n\nThe story revolves around Paul, a young con artist who infiltrates the lives of a wealthy New York couple, Ouisa and Flan Kittredge. Paul, claiming to be the son of a famous African diplomat and a friend of their daughter’s from Harvard, convincingly weaves a tale of being mugged and left penniless. Sympathetic, the couple invites him into their home. As Paul continues to manipulate and charm them, he reveals unsettling truths about their lives and the nature of trust and connection in society.\n\nThe film explores themes of identity, class, and the human need for connection, questioning the reliability of first impressions and the ease with which people can be deceived. It also delves into the concept of \"six degrees of separation,\" the idea that everyone is connected to everyone else through a chain of no more than six acquaintances, highlighting the interconnectedness of human relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "375a692183f4cc45107f6166d17e5897",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 242.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+    "include_year": false
+}

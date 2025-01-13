@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Vulture",
+    "descriptions": [
+        "**The Vulture (1937)**\n\nSet in a remote village, \"The Vulture\" is a gripping tale of suspense and revenge. The story revolves around a vengeful man, known only as The Vulture, who returns to his village after years of absence. His return is shrouded in mystery and fear, as he seeks to settle old scores with those who wronged him in the past. The Vulture's targets are a group of corrupt villagers who were responsible for the wrongful conviction and exile of his brother. As The Vulture methodically exacts his revenge, the village is plunged into chaos and paranoia. The film explores themes of justice, redemption, and the cyclical nature of violence. Directed with a noir aesthetic, \"The Vulture\" is a tense and atmospheric thriller that keeps the audience on the edge of their seats until the final revelation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "3ec118f2e0c68a814d2b9d93811bd211",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 230.0 words or less.\n\n---\n\n**Title:**\n\nThe Vulture\n\n**Year:**\n\n1937",
+    "include_year": false
+}

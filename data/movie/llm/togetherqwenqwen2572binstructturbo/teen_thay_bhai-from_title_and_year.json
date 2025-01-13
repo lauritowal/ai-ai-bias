@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Teen Thay Bhai",
+    "descriptions": [
+        "\"Teen Thay Bhai\" is a 2011 Indian Gujarati drama film directed by Paresh Mokashi. The film explores the lives of three brothers—Chimanbhai, the eldest, who is a respected doctor; Gopalbhai, the middle brother, who is a successful businessman; and Ramanbhai, the youngest, who is a struggling artist. Despite their different professions and lifestyles, the brothers share a deep bond rooted in their childhood and family values.\n\nThe story begins with the sudden death of their father, which brings the three brothers back to their ancestral home. As they gather to settle their father's estate, long-buried tensions and unresolved conflicts resurface. Chimanbhai, the responsible and dutiful son, feels the pressure to maintain the family's honor and reputation. Gopalbhai, driven by his materialistic ambitions, is more concerned with the financial aspects of the inheritance. Ramanbhai, the idealistic and sensitive artist, seeks emotional closure and a sense of belonging.\n\nAs the brothers delve into their father's will, they discover a series of letters and personal items that reveal the true nature of their father's life and the sacrifices he made for his family. These revelations force the brothers to confront their own values and the choices they have made. The film delves into themes of family, loyalty, and the pursuit of personal happiness, as the brothers navigate their way through the complexities of their relationships and the expectations placed upon them.\n\n\"Teen Thay Bhai\" is a poignant exploration of brotherhood and the challenges of balancing individual aspirations with family obligations. The film's emotional depth and nuanced performances by the cast make it a compelling and thought-provoking drama."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "d2688a68d0d6e9c9b910ce7daf6d0244",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 315.0 words or less.\n\n---\n\n**Title:**\n\nTeen Thay Bhai\n\n**Year:**\n\n2011",
+    "include_year": false
+}

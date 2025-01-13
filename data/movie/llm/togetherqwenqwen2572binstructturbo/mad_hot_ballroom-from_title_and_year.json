@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mad Hot Ballroom",
+    "descriptions": [
+        "\"Mad Hot Ballroom\" (2005) is a documentary that follows the lives of 11-year-old New York City public school students as they participate in a citywide ballroom dancing program. Directed by Marilyn Agrelo, the film captures the transformative journey of these young dancers from three different schools in Manhattan, the Bronx, and Brooklyn. Over the course of a school year, the students learn the intricacies of ballroom dances like the tango, foxtrot, and swing, under the guidance of dedicated instructors.\n\nThe documentary highlights the challenges and triumphs of the students as they navigate the rigorous training and the competitive spirit of the annual citywide dance competition. It showcases the impact of the program on the children's confidence, discipline, and social skills, as well as the bonds they form with their peers and instructors. \"Mad Hot Ballroom\" not only celebrates the art of dance but also provides a poignant look at the power of education and the positive influence of supportive communities. The film culminates in the anticipation and excitement of the final competition, where the students' hard work and dedication are put to the test."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "6af2adcac433b33632e6bde6dfc6e727",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nMad Hot Ballroom\n\n**Year:**\n\n2005",
+    "include_year": false
+}

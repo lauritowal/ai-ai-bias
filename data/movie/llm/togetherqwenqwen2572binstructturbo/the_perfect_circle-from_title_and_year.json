@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Perfect Circle",
+    "descriptions": [
+        "In \"The Perfect Circle,\" a psychological thriller from 1997, Eleanor, a talented but reclusive artist, moves into a secluded countryside house to escape the chaos of city life and her troubled past. She begins to experience a series of eerie and unexplained events that challenge her sanity. As she delves deeper into the history of the house, she discovers that it was once the site of a tragic murder-suicide involving a former artist and his wife. Haunted by visions and driven by a need to uncover the truth, Eleanor starts to recreate the scenes from the past through her art. Her obsession blurs the lines between reality and delusion, leading her to question her own identity and motives. When a mysterious stranger appears, claiming to have information about the house's dark history, Eleanor must confront her deepest fears and the possibility that the past is not as distant as she believes. The film culminates in a tense and revealing climax that forces Eleanor to face the true source of her torment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "f3d3ae2db315045615a818707dab11ad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 216.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

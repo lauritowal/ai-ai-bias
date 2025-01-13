@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Snoopy!!! The Musical",
+    "descriptions": [
+        "**Title:** Snoopy!!! The Musical  \n**Year:** 1985\n\n\"Snoopy!!! The Musical\" is a heartwarming animated musical film that brings to life the beloved Peanuts characters in a vibrant and whimsical way. The story follows Snoopy, Charlie Brown’s imaginative and creative beagle, as he embarks on a series of adventures and musical escapades.\n\nThe film opens with Snoopy living in his doghouse, dreaming of a life filled with excitement and adventure. When his friend Woodstock, a small yellow bird, suggests that they put on a show, Snoopy is thrilled. Together, they recruit the rest of the Peanuts gang, including Charlie Brown, Lucy, Linus, and Sally, to join their musical production.\n\nAs the group prepares for the big day, each character faces their own challenges and fears. Charlie Brown struggles with his lack of confidence, Lucy grapples with her bossy nature, and Linus worries about losing his security blanket. Despite these obstacles, the team comes together, supported by Snoopy’s unwavering optimism and Woodstock’s enthusiasm.\n\nThe film features a series of musical numbers that showcase the unique personalities and dynamics of the Peanuts characters. From Snoopy’s dance routines to Charlie Brown’s heartfelt ballads, the music captures the essence of friendship, perseverance, and the joy of creating something special together.\n\nOn the night of the performance, the Peanuts gang puts on a spectacular show, overcoming their doubts and fears to deliver a memorable performance. The film concludes with a celebration of their success, reinforcing the message that with support and determination, anything is possible. \"Snoopy!!! The Musical\" is a delightful and charming story that celebrates the power of friendship and the magic of the performing arts."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "802189b4a3c6bb33ed1ce61185edd229",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 302.0 words or less.\n\n---\n\n**Title:**\n\nSnoopy!!! The Musical\n\n**Year:**\n\n",
+    "include_year": false
+}

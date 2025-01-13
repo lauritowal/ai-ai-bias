@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Toh Baat Pakki",
+    "descriptions": [
+        "\"Toh Baat Pakki\" (2010) is a Pakistani romantic comedy directed by Meenu Rana. The film centers around Zara (Saba Qamar), a spirited and ambitious young woman who dreams of becoming a successful entrepreneur. Zara's life takes an unexpected turn when her family arranges her marriage to Saif (Fawad Khan), a charming but somewhat irresponsible man with a gambling addiction. Despite their initial misgivings, Zara and Saif start to develop a deep connection, but their relationship is tested by Saif's past mistakes and the pressures of family expectations.\n\nAs Zara tries to balance her career aspirations with her new marital responsibilities, she discovers that Saif has a hidden talent for cooking. She sees an opportunity to turn his life around and opens a small restaurant, with Saif as the chef. The restaurant becomes a hit, but success brings its own set of challenges, including jealous competitors and the constant scrutiny of their community. Through it all, Zara and Saif learn the true meaning of love, trust, and commitment, ultimately finding a way to build a future together that fulfills both their dreams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "3259f88c9d231f77c08a2b4af872a046",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nToh Baat Pakki\n\n**Year:**\n\n2010",
+    "include_year": false
+}

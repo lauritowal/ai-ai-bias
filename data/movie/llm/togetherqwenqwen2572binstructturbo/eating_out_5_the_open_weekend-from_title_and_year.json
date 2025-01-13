@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eating Out 5: The Open Weekend",
+    "descriptions": [
+        "\"Eating Out 5: The Open Weekend\" is a romantic comedy that continues the story of the characters from the previous films in the \"Eating Out\" series. The movie focuses on the dynamic and romantic entanglements of a group of friends during a weekend getaway. The main character, Chris, a gay man, is navigating the challenges of his relationships with his ex-boyfriend, his current partner, and a new love interest. The weekend is filled with humorous misunderstandings, heartfelt conversations, and personal revelations that push each character to confront their true feelings and desires. Set against the backdrop of a picturesque retreat, the film explores themes of love, acceptance, and the complexities of modern relationships. The ensemble cast delivers witty and engaging performances, making \"Eating Out 5: The Open Weekend\" a delightful and entertaining addition to the series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "8fd610412c7a1e103eafa1413f1a0b3c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nEating Out 5: The Open Weekend\n\n**Year:**\n\n2011",
+    "include_year": false
+}

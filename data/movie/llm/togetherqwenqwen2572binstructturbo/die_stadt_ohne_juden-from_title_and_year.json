@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Die Stadt ohne Juden",
+    "descriptions": [
+        "**Die Stadt ohne Juden** (The City Without Jews) is a silent film directed by Hans Karl Breslauer, released in 1924. Adapted from the 1922 novel of the same name by Hugo Bettauer, the film is a satirical and dystopian portrayal of a city that expels its Jewish population, only to face severe economic and social consequences as a result.\n\nThe story is set in a fictional city that closely mirrors Vienna, Austria. The city is grappling with economic strife and social unrest, and a populist political movement begins to blame the Jewish community for the city's woes. The movement gains momentum, and the city council, succumbing to pressure, decides to expel all Jews from the city.\n\nInitially, many non-Jewish citizens celebrate the expulsion, believing it will solve their problems. However, the city soon begins to suffer. Businesses that relied on Jewish labor and expertise start to fail, and the cultural and intellectual life of the city is diminished. The city's economy spirals into a crisis, and the once-thriving metropolis becomes a shadow of its former self.\n\nThe protagonist, a young Jewish man named Richard Loos, and his non-Jewish fiancée, Lucie, are among those deeply affected by the expulsion. Richard is forced to leave the city, and Lucie, devastated by the separation, joins the growing number of citizens who realize the error of the city's decision. As conditions worsen, Lucie and others begin to campaign for the return of the Jewish population, recognizing that their absence has caused more harm than good.\n\nThe film concludes with the city council reversing its decision and inviting the Jews back. The return of the Jewish community brings a sense of renewal and hope, and the city begins to recover. Richard and Lucie are reunited, symbolizing the healing of the city's social fabric.\n\n**Die Stadt ohne Juden** is notable for its prescient critique of anti-Semitism and its exploration of the devastating consequences of discrimination. The film's message remains relevant, serving as a cautionary tale about the dangers of scapegoating and the importance of inclusivity and tolerance in society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "15c26c462a5c0e32e030b782f0d14b2e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 437.0 words or less.\n\n---\n\n**Title:**\n\nDie Stadt ohne Juden\n\n**Year:**\n\n1924",
+    "include_year": false
+}
