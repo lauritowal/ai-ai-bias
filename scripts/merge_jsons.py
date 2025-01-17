@@ -16,7 +16,8 @@ models_to_filter = [
     "Qwen2.5-7B",
     "groq-llama3-70b-8192",
     "groq-llama3-8b-8192",
-    "mistral-7b-instruct-v0.2.Q4_K_M.gguf"
+    "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+    "Qwen1.5"
 ]
 
 # List of proposal/product experiment keywords to filter out
