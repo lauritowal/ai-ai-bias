@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cats & Dogs",
+    "descriptions": [
+        "In the 2001 comedy film \"Cats & Dogs,\" a cat named Mr. Tinkles is working as a top-secret agent for a villainous organization known as Meowzart, a group of feline spies. Mr. Tinkles' ultimate goal is to take over the world by manipulating humans through various means.\n\nOn the other side of the conflict are a group of canine agents, including Lou (voiced by Alec Baldwin), a seasoned dog with exceptional abilities, and Butch (voiced by Sean Hayes), a charming and laid-back dog. These agents are part of a top-secret organization known as Paws, which works to prevent Meowzart's evil plans.\n\nThe story follows a 16-year-old boy named Shane Wolf (played by Tobey Maguire), who discovers the existence of both cats and dogs in the human world, each with their own agendas. As Shane becomes entangled in the world of espionage, he finds himself caught between the two rival groups.\n\nCats & Dogs features a talented voice cast, including Tobey Maguire, Alec Baldwin, Sean Hayes, and Christina Applegate. The film's blend of action, comedy, and heart provides an entertaining experience that appeals to both children and adults.\n\nThe movie explores themes such as loyalty, friendship, and the complex relationships between humans and animals. Through its engaging storyline and lovable characters, Cats & Dogs offers a lighthearted and engaging viewing experience.\n\nUltimately, Shane Wolf finds himself at the center of a global battle between cats and dogs, and must use his wits and newfound friendships to help the canine agents prevent Mr. Tinkles' sinister plans. With its blend of humor, action, and heart, Cats & Dogs provides an enjoyable and family-friendly experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "449e7b83d39b55337a9308b8b937b12b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1132.0 words or less.\n\n---\n\n**Title:**\n\nCats & Dogs\n\n**Year:**\n\n2001",
+    "include_year": false
+}

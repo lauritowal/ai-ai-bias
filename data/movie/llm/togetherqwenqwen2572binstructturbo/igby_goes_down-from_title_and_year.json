@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Igby Goes Down",
+    "descriptions": [
+        "\"Igby Goes Down,\" released in 2002, is a dark comedy directed by Burr Steers and written by Wilson Cruz and Steers. The film stars Kieran Culkin as the titular character, Igby Latham, a rebellious and disillusioned young man who navigates the eccentric and often dysfunctional world of his upper-class family.\n\nThe story begins with Igby, who has just been expelled from his latest prep school, much to the chagrin of his mother, Mimi (Susan Sarandon), a self-absorbed socialite. Igby’s older brother, Roderick (Ryan Phillippe), is a successful but emotionally detached businessman, and their father, Whit (Jeff Goldblum), is a charismatic but irresponsible man who has a habit of disappearing for long periods.\n\nFeeling stifled by his family’s pretensions and materialism, Igby decides to leave home and embark on a journey of self-discovery. He takes a job as a waiter at a restaurant where he befriends Sookie (Claire Danes), a kind-hearted and quirky waitress. Sookie becomes a source of comfort and stability for Igby, and they develop a close bond. However, Igby’s life is further complicated when he crosses paths with his father’s former mistress, Tabitha (Amanda Peet), who is now married to a wealthy man and has a son, Paul, who becomes Igby’s new prep school nemesis.\n\nAs Igby navigates his new life, he also grapples with his feelings for Sookie and his growing awareness of the superficiality of his family’s world. His interactions with a variety of colorful characters, including a gay artist named Gideon (Bill Pullman) and a philosophical chef named Pipo (Ricardo Chavira), provide him with new perspectives and help him to question his own values and beliefs.\n\nUltimately, Igby’s journey is a search for authenticity and meaning in a world that often seems hollow and superficial. The film is a satirical and poignant exploration of family dynamics, class, and the search for identity, set against the backdrop of New York City’s elite social circles."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "606295450203ff68c198acb21e4ad0f8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 381.0 words or less.\n\n---\n\n**Title:**\n\nIgby Goes Down\n\n**Year:**\n\n2002",
+    "include_year": false
+}

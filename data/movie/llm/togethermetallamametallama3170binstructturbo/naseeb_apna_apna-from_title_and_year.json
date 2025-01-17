@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naseeb Apna Apna",
+    "descriptions": [
+        "Naseeb Apna Apna is a 1986 Indian Hindi-language action drama film. The movie revolves around the life of a young man named Ravi, who seeks revenge against the people responsible for his sister's death.\n\nThe story begins with Ravi's sister, who is brutally murdered by a group of goons. Ravi, determined to avenge her death, starts working as a taxi driver. He crosses paths with a kind-hearted woman named Kiran, who falls in love with him.\n\nHowever, Ravi is focused on his mission of finding the people who killed his sister. He eventually discovers that the main culprit behind his sister's murder is a powerful and corrupt politician named Rajan. Ravi starts gathering evidence against Rajan, but the latter is too powerful, and Ravi faces numerous challenges in his pursuit of justice.\n\nMeanwhile, Kiran's brother, Amar, is also involved in the revenge plot, as he too has a score to settle with Rajan. As the story unfolds, Ravi and Amar team up to take down Rajan and his accomplices.\n\nThe movie features action-packed sequences, intense drama, and a romantic subplot. The film's climax features a thrilling confrontation between Ravi, Amar, and Rajan, ultimately leading to the downfall of the corrupt politician. In the end, Ravi finds solace in the fact that he has avenged his sister's death and can now start a new life with Kiran.\n\nNaseeb Apna Apna is a classic example of an 80s Bollywood revenge drama, with a mix of action, romance, and social commentary. The film's plot is engaging, and the performances of the lead actors add to the overall entertainment value of the movie."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "bc50ba909d2460df782a838550c57125",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nNaseeb Apna Apna\n\n**Year:**\n\n1986",
+    "include_year": false
+}

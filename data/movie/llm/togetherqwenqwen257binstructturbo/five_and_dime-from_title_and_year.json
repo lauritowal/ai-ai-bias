@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Five and Dime",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Five and Dime,\" released in 1933, is a poignant drama set in the Depression-era United States. The film centers around the tumultuous life of Marie, a young widow struggling to provide for her two children, Tom and Mary. Desperate to make ends meet, Marie takes on a position as a salesgirl in a small-town five-and-dime store, where she encounters various characters, including a charming but unscrupulous store owner, Mr. Thompson, who takes an interest in her. As Marie navigates her new job and the challenges it brings, she must also confront the moral dilemma of her relationship with Mr. Thompson. The film explores themes of sacrifice, integrity, and the harsh realities of life during the Great Depression, culminating in a bittersweet resolution that highlights the resilience of the human spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "dac6f77a51fc9bc0a426f7844926f608",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 290.0 words or less.\n\n---\n\n**Title:**\n\nFive and Dime\n\n**Year:**\n\n1933",
+    "include_year": false
+}

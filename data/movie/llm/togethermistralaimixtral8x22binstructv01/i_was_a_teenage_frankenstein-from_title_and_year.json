@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "I Was a Teenage Frankenstein",
+    "descriptions": [
+        " In 1957, \"I Was a Teenage Frankenstein\" hit the silver screen as a black-and-white science fiction horror film, directed by Herbert L. Strock and produced by Herman Cohen. The movie is a spin-off of the successful \"I Was a Teenage Werewolf,\" released earlier that year.\n\nThe story revolves around the ambitious and brilliant but morally bankrupt Professor Frankenstein, played by Whit Bissell, who is determined to create life from the dead. Using his medical knowledge, he obtains the body of a recently deceased teenage boy, planning to reanimate it with a new, artificially grown brain. However, things take a dark turn when his unscrupulous assistant, who is secretly in love with the professor's daughter, decides to sabotage the experiment.\n\nThe assistant steals a brain from a hanged criminal, inserting it into the reanimated teenage body, hoping to create a monster that will kill Professor Frankenstein and leave his daughter to him. The experiment is successful, and the Teenage Frankenstein is born, a grotesque and powerful creature with a criminal mind.\n\nThe Teenage Frankenstein escapes from the lab and embarks on a violent rampage, leaving a trail of destruction in its wake. Professor Frankenstein, filled with remorse and guilt, realizes the monster he has created and vows to stop it. He teams up with the police and his daughter to hunt down the creature, leading to a climactic showdown at the professor's lab.\n\nIn the end, the Teenage Frankenstein is destroyed, and Professor Frankenstein is left to face the consequences of his actions. The movie ends on a cautionary note, warning against the dangers of unchecked scientific ambition and the potential horrors that can arise when human beings play God.\n\n\"I Was a Teenage Frankenstein\" is a classic example of 1950s horror cinema, blending elements of science fiction, horror, and teenage angst. Despite its low budget and campy aesthetics, the movie was a commercial success and has since gained a cult following. It is remembered for its memorable title, its chilling portrayal of the Teenage Frankenstein, and its cautionary tale about the dangers of unchecked scientific ambition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "9320d970a877f4ef9201b4c5ba19f9db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 396.0 words or less.\n\n---\n\n**Title:**\n\nI Was a Teenage Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

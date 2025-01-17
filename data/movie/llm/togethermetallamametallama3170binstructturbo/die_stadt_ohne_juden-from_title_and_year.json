@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Die Stadt ohne Juden",
+    "descriptions": [
+        "\"Die Stadt ohne Juden\" (The City Without Jews) is a 1924 Austrian silent film directed by Hans Karl Breslauer. The movie is based on a 1922 novel of the same name by Hugo Bettauer.\n\nThe story takes place in a fictional city called Utopia, which serves as a satirical representation of Vienna during the post-World War I era. The city is facing economic struggles, and the population blames the Jewish community for their misfortunes. \n\nAs a result, the government of Utopia decides to expel all Jews from the city. The Jews are given a short period to pack their belongings and leave. The main character, a wealthy Jewish businessman named Leo Strakosch, is among those forced to depart.\n\nThe city initially experiences a sense of relief and prosperity after the expulsion. However, it soon becomes apparent that the absence of the Jewish population has severe consequences. Many businesses go bankrupt, and the city's cultural scene begins to decline.\n\nAs the city's situation worsens, the government realizes its mistake and tries to persuade the Jews to return. Leo Strakosch is invited to come back and help the city recover. He agrees to return, but only if the government guarantees the rights and safety of the Jewish community.\n\nThe film ends with the Jews returning to Utopia and the city beginning to flourish once again. \"Die Stadt ohne Juden\" is a powerful commentary on the dangers of antisemitism and xenophobia, as well as the importance of tolerance and acceptance in society.\n\nUnfortunately, the film's message was not heeded in reality. The author of the novel, Hugo Bettauer, was assassinated by a young Nazi in 1925. The novel and the film were later banned by the Nazis, and the film was thought to be lost until a fragment was rediscovered in 2015."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b97e512b6eb31aafc07c91b723eb38e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 441.0 words or less.\n\n---\n\n**Title:**\n\nDie Stadt ohne Juden\n\n**Year:**\n\n1924",
+    "include_year": false
+}

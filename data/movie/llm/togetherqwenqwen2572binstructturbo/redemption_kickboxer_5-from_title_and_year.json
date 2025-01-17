@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Redemption: Kickboxer 5",
+    "descriptions": [
+        "\"Redemption: Kickboxer 5,\" released in 1995, is a martial arts action film that continues the \"Kickboxer\" franchise. The story follows Kurt Sloane (Mark Dacascos), a skilled kickboxer who seeks redemption after a devastating loss to the ruthless and powerful Muay Thai fighter, Tong Po (Don Wilson). Determined to reclaim his honor and prove his worth, Kurt embarks on a rigorous training regimen under the guidance of his mentor, Durand (Philip Tan), and a mysterious martial arts master known only as The Dragon (Don LaRue).\n\nAs Kurt hones his skills and learns new techniques, he also confronts his inner demons and the mistakes of his past. His journey takes him to Thailand, where he participates in an underground fighting circuit to face the toughest opponents and ultimately challenge Tong Po in a rematch. Along the way, Kurt forms alliances with other fighters and faces betrayals, testing his resolve and pushing him to his limits.\n\nThe climax of the film features an intense and brutal fight between Kurt and Tong Po, where Kurt must use everything he has learned to defeat his nemesis and achieve redemption. The film is a blend of action, drama, and personal growth, showcasing the power of perseverance and the human spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "db6051731d3771c9437139b45b0522e8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 245.0 words or less.\n\n---\n\n**Title:**\n\nRedemption: Kickboxer 5\n\n**Year:**\n\n1995",
+    "include_year": false
+}

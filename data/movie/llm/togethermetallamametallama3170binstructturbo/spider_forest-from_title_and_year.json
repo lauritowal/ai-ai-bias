@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spider Forest",
+    "descriptions": [
+        "'Spider Forest' is a 2004 South Korean mystery thriller film directed by Song Il-gon. The story revolves around Kang Min (played by Kam Woo-sung), a television film director who is struggling to find inspiration for his next project. One day, he discovers a mysterious and isolated forest, which sparks his interest and serves as the basis for his new film.\n\nHowever, as Kang Min delves deeper into his project, he becomes entangled in a series of enigmatic and disturbing events. He begins to experience strange and vivid dreams, which slowly blur the lines between reality and fantasy. \n\nIn an attempt to find answers, Kang Min returns to the forest and becomes obsessed with uncovering its dark secrets. The deeper he digs, the more Kang Min becomes trapped in a web of mystery, and the lines between reality and his film become increasingly blurred.\n\nThroughout the film, Kang Min's mental state deteriorates, and he starts questioning his own sanity. As the mystery unfolds, Kang Min discovers a series of unsolved murders that took place in the forest years ago. It becomes clear that the forest holds many dark secrets and that Kang Min's presence has awakened something sinister.\n\nThe title 'Spider Forest' refers to the intricate and tangled web of relationships and events that entrap Kang Min. The film is a complex exploration of the human psyche, delving into themes of obsession, trauma, and the blurring of reality and fantasy. As Kang Min's world spirals out of control, he must confront the dark secrets of the forest and face his own demons in order to uncover the truth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7bc41809a75823e4ee0735b382cad28c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 376.0 words or less.\n\n---\n\n**Title:**\n\nSpider Forest\n\n**Year:**\n\n2004",
+    "include_year": false
+}

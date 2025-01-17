@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Colors",
+    "descriptions": [
+        "I couldn't find information about a 2009 movie titled 'Colors'. However, I can try to provide information about a 1988 movie titled 'Colors', as it may be possible that it's an incorrect year.\n\n'Colors' is a 1988 American crime drama film directed by Dennis Hopper. The film is set in South Central Los Angeles and explores the tensions between the Los Angeles Police Department and the local gang culture. The story revolves around two police officers, Bob Hodges (Robert Duvall) and Danny McGavin (Sean Penn), who work in the gang unit.\n\nDanny is a young and ambitious officer who often disregards the rules and procedures, while Bob is a more experienced and laid-back officer who tries to teach Danny the ropes. The two officers are tasked with patrolling the streets of South Central, where they encounter various gangs, including the Crips and the Bloods.\n\nThroughout the film, Danny and Bob witness the violence and brutality that permeates the gang culture, and they begin to realize the complexities and difficulties of their job. The film explores themes of racism, police brutality, and the cyclical nature of violence.\n\n'Colors' is known for its gritty and realistic portrayal of gang life in Los Angeles, and it features a strong cast, including Robert Duvall, Sean Penn, and Don Cheadle."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9300432e31407304ee60f2088835aefd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nColors\n\n**Year:**\n\n2009",
+    "include_year": false
+}

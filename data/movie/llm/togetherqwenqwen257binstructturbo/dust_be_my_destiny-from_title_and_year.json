@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dust Be My Destiny",
+    "descriptions": [
+        "\"Dust Be My Destiny\" (1939) is a poignant drama set during the Great Depression. The film follows a hardworking farm couple, John and Mary Thompson, who are struggling to keep their family farm afloat amidst economic hardship and harsh drought conditions. As dust storms ravage the land, the Thompsons face increasing financial burdens and personal challenges. Seeking a better life, they decide to migrate westward with other displaced farmers, embarking on a perilous journey that tests their resilience and bond. The story poignantly explores themes of perseverance, the human spirit, and the relentless pursuit of a better future in the face of overwhelming odds."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "7503a80b36448cbcc6b19ce17a99e3dd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 231.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939",
+    "include_year": false
+}

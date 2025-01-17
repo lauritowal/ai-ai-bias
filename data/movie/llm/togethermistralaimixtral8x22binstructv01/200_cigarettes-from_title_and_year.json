@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "200 Cigarettes",
+    "descriptions": [
+        " \"200 Cigarettes\" is a 1999 ensemble comedy-drama film set in New York City on New Year's Eve in 1981. The story revolves around a group of twenty-something friends, each navigating their own personal dramas and romantic entanglements as they try to make it to a New Year's Eve party hosted by their mutual friend, Monica.\n\nThe film is divided into several interconnected storylines. One follows the anxious and insecure Monica (played by Martha Plimpton) as she prepares for the party, hoping that her high school crush, Jack (Jay Mohr), will attend. Meanwhile, Tom (Casey Affleck) and Dave (Guillermo Díaz) are two best friends who vow to lose their virginity before the night ends. Cindy (Kate Hudson) and Lucy (Courtney Love) are two uptight art students who end up at the party after a disastrous blind date.\n\nElsewhere in the city, Eric (Paul Rudd) is desperately trying to prove his love to his girlfriend, Maggie (Christina Ricci), while Kevin (David Johansen) is a cab driver who picks up a mysterious woman (Angelica Huston) and finds himself on a wild ride. Throughout the night, these characters' paths cross, leading to a series of humorous and heartwarming moments.\n\nAs the clock ticks closer to midnight, the partygoers must confront their fears, desires, and insecurities, all while trying to make it to Monica's apartment before the ball drops. \"200 Cigarettes\" is a nostalgic look back at the 1980s, filled with witty dialogue, memorable characters, and a killer soundtrack that captures the spirit of the era. Ultimately, the film is a celebration of friendship, love, and the unpredictable nature of life, as seen through the eyes of a group of young adults on one fateful New Year's Eve."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "1deb08e90b14a4291ee8ca22b812dab8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 325.0 words or less.\n\n---\n\n**Title:**\n\n200 Cigarettes\n\n**Year:**\n\n1999",
+    "include_year": false
+}

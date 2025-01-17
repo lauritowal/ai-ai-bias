@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Julai",
+    "descriptions": [
+        "Julai is a 2012 Indian Telugu action comedy film directed by Trivikram Srinivas. The movie follows the story of Ravindra Narayan (played by Allu Arjun), a happy-go-lucky and carefree young man who lives with his father (played by Kota Srinivasa Rao) in Hyderabad.\n\nRavindra falls in love with a girl named Madhu (played by Ileana D'Cruz) but her past catches up with her as she has a connection with a local gangster named Bittu (played by Sonu Sood). As Ravindra tries to protect Madhu, he gets entangled in a web of complications and face-offs with Bittu.\n\nThe situation becomes more complicated when a local constable (played by Rajendra Prasad) gets involved in their affairs, and a series of twists and turns unfolds, showcasing Ravindra's determination to protect the people he cares about.\n\nThe film is known for its blend of action, comedy, and romance, with Allu Arjun delivering an impressive performance. The movie received positive reviews from critics and audiences alike, praising its engaging storyline, witty dialogue, and impressive action sequences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7f66f6a76caab484f24662d5e2d3afd4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 785.0 words or less.\n\n---\n\n**Title:**\n\nJulai\n\n**Year:**\n\n2012",
+    "include_year": false
+}

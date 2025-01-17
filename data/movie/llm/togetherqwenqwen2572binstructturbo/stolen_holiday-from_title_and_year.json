@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stolen Holiday",
+    "descriptions": [
+        "\"Stolen Holiday,\" released in 1937, is a romantic comedy directed by Norman Taurog. The film stars Jeanette MacDonald and Robert Montgomery, who play a wealthy socialite and a charming con man, respectively. Set in Paris, the story follows the life of Vivian Aldridge (MacDonald), a sophisticated and pampered heiress who feels stifled by her luxurious but monotonous lifestyle. One day, she meets Steve Carpenter (Montgomery), a smooth-talking charmer who quickly captures her interest.\n\nSteve, aware of Vivian's wealth, initially plans to swindle her but finds himself genuinely drawn to her. As they spend more time together, their relationship deepens, and Vivian begins to experience a sense of freedom and excitement she has never known. However, the illusion of their perfect romance is threatened when Vivian's suspicious fiancé, a stuffy and controlling man, starts to investigate Steve's background.\n\nThe plot thickens as Steve must navigate the challenges of his own past and the looming threat of exposure. Meanwhile, Vivian must decide whether to follow her heart or return to the safety and predictability of her previous life. \"Stolen Holiday\" is a delightful tale of love, deception, and the pursuit of true happiness, set against the romantic backdrop of Paris."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "d2ffc65a703c547d99a2fd087b314e7b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nStolen Holiday\n\n**Year:**\n\n1937",
+    "include_year": false
+}

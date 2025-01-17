@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Joneses",
+    "descriptions": [
+        "'The Joneses' is a 2009 American comedy film written by Randy T. Dinzler and directed by Derrick Borte. The film stars Demi Moore and David Duchovny as Kate and Steve Jones, a perfect suburban couple. They have two beautiful children, Jenn (Amber Heard) and Mick (Ben Hollingsworth), who seem to have it all.\n\nUpon moving into their new upscale home, the Joneses quickly become the envy of their neighbors, including Larry (Gary Cole) and Summer (Glenne Headly). However, beneath their seemingly flawless facade, the Joneses are not what they appear to be. They are actually a family of corporate spies, working to infiltrate and gather data on the ideal suburban lifestyle.\n\nThe family is tasked with promoting various products, from luxury cars to kitchen appliances, and even dental hygiene products. As they seamlessly integrate into their new community, they begin to experience the real-life benefits of their fake lifestyle. They start to form genuine connections with their neighbors and develop their own unique relationships.\n\nHowever, their superficial existence slowly unravels as they struggle to maintain the perfect image. Kate and Steve's marriage begins to crumble, and their children start to rebel against the artificial world they live in. The family's true intentions are eventually discovered by Larry, who becomes obsessed with uncovering their secrets.\n\n'The Joneses' is a satirical commentary on modern suburban life, consumerism, and the lengths to which people will go to achieve the perfect image. Through the Jones family's story, the film pokes fun at the idea of keeping up appearances and the emptiness that can come with chasing material possessions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6ea8e9613115bfb5fb62636e54237158",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 644.0 words or less.\n\n---\n\n**Title:**\n\nThe Joneses\n\n**Year:**\n\n2009",
+    "include_year": false
+}

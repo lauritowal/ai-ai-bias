@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trapped in the Closet Chapters 1–12",
+    "descriptions": [
+        "'Trapped in the Closet' is a series of short films created by R. Kelly, an American singer, songwriter, and record producer. The series consists of 22 chapters, released between 2002 and 2007. I will be focusing on the first 12 chapters, released in 2005.\n\nThe series is a comedy, drama, and musical extravaganza that follows the story of Sylvester, a man who discovers a closet in his home where he keeps his mistress, Naomi. As Sylvester navigates his complicated relationships, he finds himself trapped in the closet with various women.\n\nThe first 12 chapters of the series introduce Sylvester's multiple affairs and the complex web of relationships that ensue. Each chapter explores a different aspect of Sylvester's love life, featuring a range of characters, including his fiancée, Angela, and his mistress, Naomi.\n\nThroughout the series, Sylvester becomes increasingly entangled in his relationships, often finding himself at odds with his fiancée and other lovers. The chapters are filled with humorous moments, dramatic twists, and musical numbers that showcase R. Kelly's signature style.\n\nAs the series progresses, Sylvester's relationships become more complicated, and he finds himself trapped in the closet, literally and figuratively. The chapters 1-12 set the stage for the rest of the series, introducing the main characters and themes that will continue to unfold in the subsequent chapters.\n\nOverall, 'Trapped in the Closet' is a wild and entertaining ride that combines music, comedy, and drama to create a unique and engaging viewing experience. The series has become a cult classic, with fans continuing to enjoy its campy humor and over-the-top performances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b0b9eb022ab4e3706915fe8549e7b985",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 2266.0 words or less.\n\n---\n\n**Title:**\n\nTrapped in the Closet Chapters 1–12\n\n**Year:**\n\n2005",
+    "include_year": false
+}

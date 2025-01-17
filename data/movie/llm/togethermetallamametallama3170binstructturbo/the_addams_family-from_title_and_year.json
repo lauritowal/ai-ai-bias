@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Addams Family",
+    "descriptions": [
+        "The Addams Family is a 1991 American dark comedy film directed by Barry Sonnenfeld. The movie is based on the characters created by Charles Addams. The story revolves around the eccentric and macabre Addams Family.\n\nThe film begins with Uncle Fester (Christopher Lloyd), who has been missing for 25 years. The family believes he is dead, but Gomez Addams (Raúl Juliá) remains hopeful that his brother will return. Meanwhile, Abigail Craven (Joan Cusack) and her son Gordon (Dan Hedaya) concoct a plan to steal the family's vast fortune by posing as Fester.\n\nAbigail's son, Gordon, is an actor who is hired to impersonate Uncle Fester, and the family, unaware of the deception, welcomes him back. However, Gordon's portrayal of Fester is marred by his lack of the real Fester's peculiar characteristics, and the family starts to realize that something is amiss.\n\nAs the story unfolds, the family's children, Pugsley (Jimmy Workman) and Wednesday (Christina Ricci), become suspicious of the imposter. Meanwhile, the real Uncle Fester is found, and the family works together to expose Gordon's true identity and thwart Abigail's plans.\n\nThe film features a blend of dark humor and witty one-liners, staying true to the spirit of the original Addams Family characters. The Addams Family's love for the macabre and their quirky lifestyle serve as a backdrop for a heartwarming story about the importance of family and loyalty.\n\nOverall, the 1991 film adaptation of The Addams Family is a delightful and entertaining take on the beloved characters, with a talented cast and clever direction that bring the eccentric family to life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e0a049ac591c850d509be49749f02099",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 632.0 words or less.\n\n---\n\n**Title:**\n\nThe Addams Family\n\n**Year:**\n\n1991",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Teen Thay Bhai",
+    "descriptions": [
+        "Teen Thay Bhai is a 2011 Indian comedy film directed by Mrigdeep Singh Lamba. The movie revolves around three brothers: Chixie (Chunky Pandey), Fancy (Deepak Dobriyal), and Raghu (Omkar Das Manikpuri). \n\nThe story begins with the introduction of the three brothers who were separated at birth and adopted by different families. Chixie is a Punjabi, Fancy is a Haryanvi, and Raghu is a Bihari. The brothers' lives take an unexpected turn when their father's will is read, stating that they will inherit his wealth only if they spend a night together in their ancestral home, located in a remote area of Punjab.\n\nThe brothers reluctantly agree and head to their ancestral home, where they discover that they have been tricked. They soon realize that their ancestral home is actually a haunted house, and they must work together to survive the night. Along the way, they discover their shared past and bond with each other.\n\nAs they navigate through the night, they face various hilarious challenges and obstacles, often due to their own misadventures and cultural differences. Through their experiences, the brothers develop a deep understanding of each other's backgrounds and learn to appreciate their unique cultural identities.\n\nThe movie is a heartwarming and entertaining tale of brotherhood, friendship, and self-discovery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "687c61c2345c9dc90d9c232d0c01a7d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 322.0 words or less.\n\n---\n\n**Title:**\n\nTeen Thay Bhai\n\n**Year:**\n\n2011",
+    "include_year": false
+}

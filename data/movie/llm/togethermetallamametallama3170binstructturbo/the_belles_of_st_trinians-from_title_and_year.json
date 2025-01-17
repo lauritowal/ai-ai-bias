@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Belles of St Trinian's",
+    "descriptions": [
+        "The Belles of St Trinian's is a 1954 British comedy film directed by Frank Launder. The movie is the first in a series of St Trinian's films, based on the cartoons by Ronald Searle. The story revolves around the notorious St Trinian's School for Girls, a boarding school notorious for its unruly and mischievous students.\n\nThe film begins with a new headmistress, Miss Millicent Fritton (played by Alastair Sim in drag), taking over the school. Miss Fritton is the sister of the school's previous headmistress and has a hidden agenda. She is actually a bookmaker in disguise, and her intention is to use the school as a front for her betting activities.\n\nThe students of St Trinian's are a lively and resourceful bunch, known for their pranks and mischief. They are divided into different houses, each with its own unique personality. The girls soon discover Miss Fritton's true intentions and decide to take matters into their own hands.\n\nAs the story unfolds, the students of St Trinian's become embroiled in a series of wild adventures, including a wild hockey match, a plot to sabotage the school's sports rivals, and a chaotic Christmas party. Along the way, they outsmart the authorities and cause chaos throughout the school.\n\nDespite the chaos they cause, the students of St Trinian's ultimately prove to be loyal and resourceful, and they work together to protect their school and their new headmistress from those who seek to do them harm. The film ends on a lighthearted note, with the students of St Trinian's emerging victorious and Miss Fritton's betting empire thriving.\n\nThe Belles of St Trinian's is a classic British comedy that combines witty humor, satire, and slapstick comedy. The film's success spawned a series of sequels, including Blue Murder at St Trinian's (1957) and The Pure Hell of St Trinian's (1960). The film's blend of humor and chaos has made it a beloved classic among British comedy fans."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "4f55ff012326071023fbadcbb0fa1382",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 432.0 words or less.\n\n---\n\n**Title:**\n\nThe Belles of St Trinian's\n\n**Year:**\n\n1954",
+    "include_year": false
+}

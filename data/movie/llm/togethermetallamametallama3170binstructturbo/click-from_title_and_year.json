@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Click",
+    "descriptions": [
+        "'Click' is a 2006 American fantasy comedy-drama film directed by Frank Coraci. The movie stars Adam Sandler as Michael Newman, a workaholic architect who is constantly struggling to balance his personal and professional life.\n\nMichael's life changes when he meets a mysterious remote control seller, Morty (played by Christopher Walken), in a store. Morty gives Michael a magical universal remote control that can control not only his TV and other electronic devices but also time itself. With this powerful device, Michael can rewind, fast-forward, and pause his life.\n\nInitially, Michael uses the remote to skip mundane tasks, avoid arguments with his wife (Kate Beckinsale), and spend more time with his family. However, he soon becomes over-reliant on the remote and starts skipping important moments, including family gatherings and milestones in his children's lives.\n\nAs Michael continues to use the remote, he starts to realize the consequences of his actions. His relationships with his family begin to deteriorate, and he starts to lose touch with what truly matters in life. He also discovers that the remote is aging him rapidly, and he is losing precious time with his loved ones.\n\nIn the end, Michael must learn to appreciate the value of time and the importance of being present in the moment. He destroys the remote and makes amends with his family, learning to balance his personal and professional life without relying on the magical device.\n\n'Click' is a heartwarming and thought-provoking film that explores the consequences of taking shortcuts in life and the importance of being present in the moment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1b275e4f011ed5d6252523067f4193e6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 828.0 words or less.\n\n---\n\n**Title:**\n\nClick\n\n**Year:**\n\n2006",
+    "include_year": false
+}

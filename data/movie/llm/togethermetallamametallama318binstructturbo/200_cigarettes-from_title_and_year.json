@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "200 Cigarettes",
+    "descriptions": [
+        "\"200 Cigarettes\" is a 1999 American romantic comedy-drama film set in New York City on New Year's Eve in 1981. The movie is presented in a non-linear fashion, weaving together various storylines of characters' lives over the course of the night.\n\nThe film centers around a group of young people from different walks of life who find themselves at a party in a Manhattan apartment. As the night unfolds, the characters' stories intersect and collide, revealing their secrets, desires, and relationships.\n\nOne of the main characters, Matt (Paul Rudd), is trying to find his place in the world and navigate his relationships with his friends and family. Meanwhile, Candace (Catrina Ganey) is dealing with the aftermath of a painful breakup, while her friend, Samantha (Christina Ricci), tries to help her move on.\n\nThroughout the night, the characters' paths cross and recross, leading to a series of chance encounters and unexpected connections. Along the way, they must confront their fears, insecurities, and desires, all while trying to make the most of the night and the new year.\n\nThe film's non-linear structure and multiple storylines add to the sense of chaos and uncertainty, mirroring the characters' experiences as they navigate the ups and downs of life. Ultimately, \"200 Cigarettes\" is a heartwarming and humorous exploration of love, friendship, and the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1deb08e90b14a4291ee8ca22b812dab8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 325.0 words or less.\n\n---\n\n**Title:**\n\n200 Cigarettes\n\n**Year:**\n\n1999",
+    "include_year": false
+}

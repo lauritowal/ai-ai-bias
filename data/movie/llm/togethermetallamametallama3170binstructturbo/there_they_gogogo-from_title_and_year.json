@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "There They Go-Go-Go!",
+    "descriptions": [
+        "I couldn't find any information on a movie titled \"There They Go-Go-Go!\" released in 1956. It's possible that the movie is lesser-known or not well-documented. If you have any additional information about the movie, I'd be happy to try and help you with a plot summary."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b67156f91628ee270d29edc462f77bf6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 748.0 words or less.\n\n---\n\n**Title:**\n\nThere They Go-Go-Go!\n\n**Year:**\n\n1956",
+    "include_year": false
+}

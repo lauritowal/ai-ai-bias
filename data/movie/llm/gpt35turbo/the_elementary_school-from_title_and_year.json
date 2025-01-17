@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Elementary School",
+    "descriptions": [
+        "In the movie \"The Elementary School\" (1991), a small Czechoslovakian town in the 1940s is the setting for a heartwarming tale of friendship, resilience, and the power of education. The story centers around a young boy named Eda, who is excited to start school and make new friends. However, his joy is quickly overshadowed by the oppressive atmosphere created by the school's strict headmaster, who enforces harsh rules and punishes students for the smallest infractions.\n\nDespite these challenges, Eda forms a close bond with his classmates and they band together to navigate the ups and downs of school life. Together, they find ways to rebel against the headmaster's tyranny and stand up for what is right. Along the way, they learn valuable lessons about loyalty, courage, and the importance of sticking together in the face of adversity.\n\nAs the children grow and mature throughout the school year, they come to realize the power of knowledge and the transformative impact of education. With the help of a compassionate teacher who encourages creativity and critical thinking, the students discover their own potential and begin to dream of a brighter future.\n\n\"The Elementary School\" is a touching coming-of-age story that celebrates the innocence and resilience of childhood. Through moments of laughter, tears, and triumph, the film captures the universal experiences of youth and the enduring power of friendship. Set against the backdrop of a tumultuous historical period, the movie serves as a poignant reminder of the enduring human spirit and the hope that can be found in even the darkest of times."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a24471cd36ea39a6538f7a9b8b035a9f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 331.0 words or less.\n\n---\n\n**Title:**\n\nThe Elementary School\n\n**Year:**\n\n1991",
+    "include_year": false
+}

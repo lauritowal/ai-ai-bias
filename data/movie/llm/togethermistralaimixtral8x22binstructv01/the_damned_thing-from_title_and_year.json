@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned Thing",
+    "descriptions": [
+        " In the 2006 horror film, \"The Damned Thing,\" a small, peaceful town is suddenly plagued by a series of bizarre and gruesome deaths. The local sheriff, David, begins to investigate the mysterious occurrences, but is met with resistance from the townsfolk, who are fearful and superstitious. As David delves deeper into the case, he discovers that the deaths are not random acts of violence, but rather the work of an unseen, malevolent force.\n\nThe force, known only as \"The Damned Thing,\" seems to have the ability to manipulate and control the minds of its victims, driving them to commit unspeakable acts of violence against themselves and others. As the body count rises, David becomes increasingly desperate to stop The Damned Thing before it claims any more lives.\n\nWith the help of a mysterious outsider who has experience with the supernatural, David begins to piece together the clues that will lead him to the source of the evil. It is revealed that The Damned Thing is an ancient, malevolent entity that has been trapped in the town for centuries, feeding off the negative emotions of the townsfolk.\n\nIn a final, climactic showdown, David confronts The Damned Thing and is able to banish it from the town, freeing the residents from its grip. The film ends with David, now a changed man, leaving the town and the horrors of the past behind him.\n\n\"The Damned Thing\" is a chilling and suspenseful film that combines elements of horror, mystery, and the supernatural to create a truly terrifying experience. With its gripping plot, well-developed characters, and shocking twists, it is sure to keep audiences on the edge of their seats."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "31c2868a37d5b8d6257d261efb59ee65",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 310.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned Thing\n\n**Year:**\n\n2006",
+    "include_year": false
+}

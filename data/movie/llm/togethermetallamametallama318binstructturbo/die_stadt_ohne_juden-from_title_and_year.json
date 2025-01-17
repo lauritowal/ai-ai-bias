@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Die Stadt ohne Juden",
+    "descriptions": [
+        "\"Die Stadt ohne Juden\" (The City Without Jews) is a 1924 German silent film directed by Hans Schwarzzer and Paul ZURL. The movie is a satirical work that presents a fictional scenario in which the Jewish population of a city in Austria leaves after being persecuted. \n\nIn the film, when the Jewish residents of the city of \"Leipzig\" decide to leave due to anti-Semitic sentiments, the city is thrust into chaos. The characters grapple with how to replace the absent population, highlighting their economic and social dependence on the Jewish community.\n\nAs the city tries to find a solution, the film critiques the societal norms and prejudices of the time. It presents the perspectives of various characters, including business owners, politicians, and ordinary citizens. \n\nThese characters' reactions to the absence of the Jewish population vary from shock and despair to exploitation and profiteering. Some see the departure as an opportunity to take what they believe was rightfully theirs. The portrayal of the city's desperation and selfishness underscores the problems with scapegoating a particular group.\n\nThe movie ultimately depicts a city struggling to rebuild itself in the absence of a vital component. It subtly points out the consequences of the city's own prejudices and the importance of the Jewish community in its functioning. \"Die Stadt ohne Juden\" is an early example of anti-discrimination cinema and served as a commentary on the social climate of the time."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b97e512b6eb31aafc07c91b723eb38e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 441.0 words or less.\n\n---\n\n**Title:**\n\nDie Stadt ohne Juden\n\n**Year:**\n\n1924",
+    "include_year": false
+}

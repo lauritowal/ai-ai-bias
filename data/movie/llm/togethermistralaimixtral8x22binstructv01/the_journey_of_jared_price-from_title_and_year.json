@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Journey of Jared Price",
+    "descriptions": [
+        " In \"The Journey of Jared Price\" (2000), a young and ambitious musician named Jared Price, portrayed by Daniel Clark, navigates the complexities of love, loss, and self-discovery in the bustling city of New York. The film opens with Jared's arrival in New York, eager to pursue his dream of becoming a successful pianist. He quickly befriends a diverse group of artists, each struggling to make their mark in the competitive world of music.\n\nAs Jared delves deeper into his passion, he crosses paths with Sergei, a talented but troubled violinist, played by Goran Kostić. Their initial rivalry soon blossoms into a profound friendship, as they find solace in each other's company amidst their personal and professional challenges.\n\nJared's life takes a dramatic turn when he falls in love with Maria, a beautiful and enigmatic singer, played by Kerry LaiFatt. Their relationship is tested by the pressures of their respective careers and the looming shadow of Maria's former lover, a powerful and manipulative music producer. As Jared grapples with his feelings for Maria and his loyalty to Sergei, he is forced to make difficult choices that will ultimately shape his future.\n\nThroughout his journey, Jared learns invaluable lessons about love, sacrifice, and the true meaning of success. He comes to understand that the path to greatness is fraught with obstacles, and that true fulfillment often lies in the connections we forge along the way. \"The Journey of Jared Price\" is a poignant and thought-provoking film that delves into the human experience, exploring the delicate balance between ambition, love, and self-acceptance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "eb3da9459c305557c25fbcc2fd867cda",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 287.0 words or less.\n\n---\n\n**Title:**\n\nThe Journey of Jared Price\n\n**Year:**\n\n2000",
+    "include_year": false
+}

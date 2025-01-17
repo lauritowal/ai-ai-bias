@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kung Pow! Enter the Fist",
+    "descriptions": [
+        "Kung Pow! Enter the Fist is a 2002 American martial arts comedy film written, directed by, and starring Steve Oedekerk. The movie is presented as a re-dubbed and re-edited version of a 1976 Hong Kong martial arts film, 'Tiger & Crane Fists,' with Oedekerk's humor and storyline inserted into the original film.\n\nThe film follows The Chosen One (also known as 'The Chosen'), a hero with incredible kung fu skills. As a child, The Chosen One's family was killed by an evil villain named Master Pain, also known as 'Betty.' Seeking revenge, The Chosen One sets out on a journey to defeat Master Pain and restore balance to the world.\n\nAlong the way, The Chosen One encounters the evil Master Pain's henchmen, as well as an eccentric martial arts master named The Wimp Lo. The Wimp Lo trains The Chosen One and teaches him various kung fu techniques to help him overcome the evil forces.\n\nThroughout the movie, Oedekerk's re-dubbed humor pokes fun at traditional martial arts films, with exaggerated sound effects and comedic dialogue. Kung Pow! Enter the Fist is a parody that blends action, comedy, and satire, creating an entertaining and humorous experience for viewers.\n\nThe film received mixed reviews but developed a cult following due to its offbeat humor and unique approach to parodying martial arts films."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "f211ac5b001a2c8c384c3c01db81eeb8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 860.0 words or less.\n\n---\n\n**Title:**\n\nKung Pow! Enter the Fist\n\n**Year:**\n\n2002",
+    "include_year": false
+}

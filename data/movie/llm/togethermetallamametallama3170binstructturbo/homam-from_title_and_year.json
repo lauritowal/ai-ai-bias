@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Homam",
+    "descriptions": [
+        "I couldn't find any detailed information about the movie 'Homam' released in 2008. However, I found that there is a 2008 Indian Telugu-language action thriller film titled 'Homam' directed by J. D. Chakravarthy.\n\nThe movie 'Homam' stars Jagapathi Babu, J. D. Chakravarthy, Mamta Mohandas, and Priyamani. It follows the story of a police officer, played by Jagapathi Babu, who is on a mission to take down a powerful mafia leader.\n\nThe plot revolves around the officer's journey to bring justice to the city, and he is aided by his loyal team. On the other hand, the mafia leader is portrayed as a ruthless and cunning character who will stop at nothing to achieve his goals.\n\nThroughout the movie, the officer faces various challenges and obstacles as he navigates the complex web of crime and corruption. As the story unfolds, the stakes become higher, and the officer finds himself in a desperate battle against the mafia.\n\nThe movie 'Homam' is known for its action-packed sequences, intense drama, and social commentary on the issues of corruption and crime."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "19ac69ea77b4f2a00b33a61ec0f0edf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nHomam\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Back to the Woods",
+    "descriptions": [
+        "\"Back to the Woods,\" released in 1937, is a charming comedy-drama that follows the story of a wealthy, urban family who, after a series of unfortunate events, finds themselves forced to relocate to a remote, rustic cabin in the countryside. The family, initially overwhelmed by the stark contrast between their luxurious city life and the simplicity of rural living, gradually learns to appreciate the natural beauty and slower pace of their new environment. \n\nThe film highlights the comedic and heartwarming adjustments the family must make as they adapt to farming, dealing with wildlife, and the friendly but eccentric locals. Through their struggles and eventual triumphs, the family discovers a deeper sense of community and a renewed appreciation for the simpler things in life. \"Back to the Woods\" is a delightful exploration of the human spirit and the transformative power of nature."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "71100496287e5f70bae81ed0067e4484",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 248.0 words or less.\n\n---\n\n**Title:**\n\nBack to the Woods\n\n**Year:**\n\n1937",
+    "include_year": false
+}

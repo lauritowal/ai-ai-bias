@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Majunu",
+    "descriptions": [
+        "**Plot Summary of \"Majnu\" (2001):**\n\n\"Majnu\" is a 2001 Bollywood romantic drama that delves into the tumultuous relationship between two star-crossed lovers, set against the backdrop of a modern Indian society grappling with tradition and modernity. The story revolves around two young individuals, Arjun, a traditionalist, and Nargis, a progressive woman who dares to challenge societal norms.\n\nArjun, a devoted follower of the ideal of true love as depicted in the epic poem \"Majnu and Nargis,\" falls deeply in love with Nargis, the daughter of a prominent businessman. However, their love is tested when their families oppose the union, viewing Nargis's progressive views and Arjun's traditional outlook as irreconcilable differences. The film explores the internal and external conflicts that arise as the couple tries to navigate their love amidst societal pressures, family expectations, and personal ambitions.\n\nThe narrative encapsulates the essence of the traditional tale of Majnu and Nargis, while infusing it with contemporary themes such as the clash between tradition and modernity, the struggle for individual identity, and the quest for true love. As Arjun and Nargis face numerous obstacles, including family disapproval, social stigma, and their own fears and insecurities, their bond strengthens, pushing them to question their beliefs and the very essence of their love.\n\nThe film's climax is a poignant exploration of the couple's willingness to break free from societal constraints to be together, ultimately highlighting the power of love to transcend all boundaries. \"Majnu\" is not just a love story but also a reflection on the evolving nature of relationships and the quest for a personal and societal balance between tradition and modernity. Through its powerful performances and evocative storytelling, the film aims to resonate with audiences, encouraging them to reflect on their own beliefs and the importance of standing by one's true love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "4153211dec32c12f4dadd8e884f88e96",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 687.0 words or less.\n\n---\n\n**Title:**\n\nMajunu\n\n**Year:**\n\n2001",
+    "include_year": false
+}

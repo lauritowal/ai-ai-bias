@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hit",
+    "descriptions": [
+        " In the gritty 1979 crime drama, \"The Hit,\" directed by Tom Clegg, the story revolves around the intertwined lives of a seasoned criminal, Willie Parker (Billy Hamon), and a young, ambitious detective, David Supt. Carter (Patrick McGoohan). Set against the grim backdrop of London's underworld, the film delves into the complexities of morality, loyalty, and the pursuit of justice.\n\nParker, a notorious bank robber, has managed to evade the law for years. His cunning and resourcefulness make him a formidable adversary for the police. However, Parker's world begins to crumble when he becomes the prime suspect in a high-profile murder case. The victim is a prominent businessman with ties to organized crime, and the evidence points directly to Parker.\n\nEnter Supt. Carter, a no-nonsense detective known for his tenacity and unorthodox methods. He is determined to bring Parker to justice, seeing him as the key to dismantling the city's criminal underworld. As Carter delves deeper into the case, he uncovers a web of corruption that extends far beyond Parker. The investigation puts him at odds with his superiors and forces him to question his own ethics.\n\nAs the pressure mounts, Parker and Carter engage in a deadly game of cat and mouse. Parker uses his criminal connections to stay one step ahead of the law, while Carter risks everything to bring him down. The climax of the film sees the two men face off in a tense, high-stakes confrontation that leaves neither unscathed.\n\n\"The Hit\" is a riveting exploration of the thin line between law and lawlessness. It delves into the moral ambiguities of the justice system and the personal toll of pursuing justice at all costs. The film's stark realism and compelling performances make it a standout entry in the British crime drama genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "6bb4802fe5a4bc97439a2cd6add731d9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 317.0 words or less.\n\n---\n\n**Title:**\n\nThe Hit\n\n**Year:**\n\n1979",
+    "include_year": false
+}

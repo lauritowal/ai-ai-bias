@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Catwoman",
+    "descriptions": [
+        "\"Catwoman,\" released in 2004, is an action-thriller that explores the origins of the iconic superheroine. The film stars Halle Berry as Patience Phillips, a mild-mannered cosmetics company employee with a talent for designing makeup. Patience leads a double life as a stand-up comic, performing under the name \"Patience,\" where she channels her frustration with the corporate world into biting social commentary.\n\nPatience's life takes a dramatic turn when she uncovers a dark secret about her employer, Hedare Beauty, a powerful cosmetics corporation. The company has been testing dangerous products on unsuspecting women, leading to severe health issues and even deaths. When Patience threatens to expose the truth, she is brutally attacked and left for dead in a landfill.\n\nMiraculously, Patience survives the attack and is transformed by a mysterious cat goddess. She gains enhanced agility, strength, and the ability to communicate with cats. Embracing her new identity as Catwoman, she dons a sleek, black bodysuit and sets out to seek revenge on those responsible for her near-death and the harm caused to others.\n\nAs Catwoman, Patience becomes a vigilante, using her skills to fight crime and protect the innocent. Her quest for justice leads her to cross paths with Detective Tom Lone (Benjamin Bratt), a dedicated police officer who is initially skeptical of her motives but gradually begins to trust her. Meanwhile, she also confronts the ruthless businessman, Philippe Roux (Francis Capello), the mastermind behind the unethical practices at Hedare Beauty.\n\nThe film explores themes of power, corruption, and the struggle for redemption. As Catwoman navigates the dangerous world of corporate espionage and personal vendettas, she must also confront her own demons and decide whether her new powers will be used for revenge or for a greater good. The movie culminates in a high-stakes confrontation that tests Catwoman's limits and reveals the true extent of her transformation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "8e6eab59d226f210ab424c05948db4c4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 345.0 words or less.\n\n---\n\n**Title:**\n\nCatwoman\n\n**Year:**\n\n2004",
+    "include_year": false
+}

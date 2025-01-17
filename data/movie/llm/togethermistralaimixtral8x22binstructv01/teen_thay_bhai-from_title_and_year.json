@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Teen Thay Bhai",
+    "descriptions": [
+        " In the 2011 Indian comedy film \"Teen Thay Bhai,\" three estranged brothers, Chixie Gill (Om Puri), Happy Singh (Deepak Dobriyal), and Fancy (Shreyas Talpade), are forced to come together for their grandfather's last rites. Upon arriving at their ancestral home, they learn about a hidden treasure that their grandfather had left behind for them. However, the treasure is located in a far-off, treacherous valley, and the brothers must embark on a dangerous journey to retrieve it.\n\nAs they navigate through the treacherous terrain, the brothers face numerous challenges and obstacles that test their patience and resolve. Along the way, they are also forced to confront their past differences and long-standing grudges, leading to moments of hilarity and heartfelt introspection.\n\nAs they get closer to the treasure, the brothers realize that the true treasure is not the gold or riches that they had initially set out to find, but the bond that they share with each other. Through their shared experiences and struggles, they are able to mend their broken relationships and rediscover the love and affection that they had lost over the years.\n\nIn the end, the brothers decide to leave the treasure behind and return home with a newfound appreciation for each other. They realize that the true wealth is not material possessions, but the love and support of family. \"Teen Thay Bhai\" is a heartwarming story of sibling rivalry, reconciliation, and the enduring power of family bonds."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "687c61c2345c9dc90d9c232d0c01a7d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 322.0 words or less.\n\n---\n\n**Title:**\n\nTeen Thay Bhai\n\n**Year:**\n\n2011",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Murder, He Says",
+    "descriptions": [
+        "'Murder, He Says' is a 1945 American comedy film directed by George Marshall, starring Fred MacMurray. The film revolves around Pete Marshall (Fred MacMurray), a pollster, who is sent to a rural town to conduct a survey. However, upon his arrival, Pete discovers that the town has been taken over by a family of eccentric and possibly murderous individuals.\n\nPete soon becomes entangled in a web of mystery and danger as he gets caught up in the family's bizarre activities. The family, led by the enigmatic Mrs. Winchester, is rumored to be hiding a dark secret, which Pete is determined to uncover. As Pete navigates this strange and unpredictable environment, he finds himself in a series of humorous misadventures.\n\nThroughout the film, Pete's attempts to gather information and escape the family's clutches are thwarted by a series of comedic misunderstandings and near-misses. Along the way, he develops a romantic interest in a beautiful and charming young woman named Elsie (Helen Walker), who may hold the key to unraveling the mystery.\n\nAs the story unfolds, Pete's curiosity and determination ultimately lead him to the shocking truth behind the family's sinister activities. With its blend of witty humor, clever plot twists, and a charismatic lead performance from Fred MacMurray, 'Murder, He Says' is a classic comedy-mystery film that continues to entertain audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "ad53995dcf23d3b943187cce5f22a45a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 350.0 words or less.\n\n---\n\n**Title:**\n\nMurder, He Says\n\n**Year:**\n\n1945",
+    "include_year": false
+}

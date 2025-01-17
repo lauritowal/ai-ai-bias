@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Road to Singapore",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Road to Singapore\" (1940) is a wartime adventure film that takes us through the tumultuous events of World War II. The story follows a diverse group of American servicemen and civilians, including a young army officer, a witty war correspondent, and a spirited Chinese-American woman, who embark on a dangerous journey from India to Singapore via the Burma Road. \n\nThe film opens with an American military camp in India, where tensions rise as Japan begins to tighten its grip on South Asia. When the Burma Road, the only overland supply route to Allied forces in Southeast Asia, comes under threat, the characters are thrust into a desperate race against time. Each member of this unlikely ensemble brings their unique talents and perspectives to the perilous mission.\n\nAs they travel through treacherous terrain, the group faces numerous challenges, including Japanese patrols, harsh climates, and internal conflicts. The officer struggles with his sense of duty, the journalist battles to keep her wits and her spirit, and the woman navigates cultural barriers and personal fears. Together, they must overcome these obstacles and forge a bond that transcends their differences.\n\nThe journey is marked by moments of humor, sacrifice, and heroism. The characters' personal stories intertwine, revealing complex friendships and unexpected alliances. Along the way, they encounter a cast of colorful supporting characters, from sympathetic locals to suspicious strangers, each adding depth and authenticity to their adventure.\n\nAs they approach Singapore, the group discovers that the city is under Japanese siege. In a heart-pounding climax, they must use all their wits and courage to deliver crucial supplies and information, setting the stage for a dramatic conclusion that tests the limits of their friendship and determination.\n\n\"Road to Singapore\" is a thrilling tale of camaraderie, resilience, and the human spirit's capacity to persevere in the face of overwhelming adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "8ef47e491f8baedb93ca18a4a8159dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 428.0 words or less.\n\n---\n\n**Title:**\n\nRoad to Singapore\n\n**Year:**\n\n1940",
+    "include_year": false
+}

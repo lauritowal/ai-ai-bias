@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Alive",
+    "descriptions": [
+        "**Plot Summary for \"Dead Alive\" (1993)**\n\n**Title: Dead Alive**\n\n**Year: 1993**\n\n\"Dead Alive\" is a dark and twisted comedy-horror film directed by the legendary Peter Jackson, known for its unique blend of humor and gore that has become a cult classic. The film is set in a remote, rural New Zealand town where a group of unsuspecting locals find themselves in a nightmarish situation after a seemingly harmless dinner party.\n\nThe story begins when a couple, David and Kate, return to David's family farm, which has been left to them by their recently deceased father. As they settle in, they receive an invitation to a dinner party at a nearby farm, hosted by the mysterious Bill Rags. At the party, the atmosphere is initially jovial, but things take a dark turn when it becomes apparent that the evening is not what it seems. The guests, including David, Kate, and Bill, are all unknowingly invited to witness a bizarre ritual involving human sacrifice.\n\nAs the night progresses, it is revealed that Bill Rags is not what he seems. He is a sadistic killer who has been hosting these dinner parties for years, feeding on the fear and suspense he creates. The guests soon find themselves trapped in the farmhouse, with no way to escape. The horror escalates as Bill begins to kill and dismember the guests, keeping their bodies in a large freezer to be used in his ghastly rituals.\n\nDavid and Kate, along with a few other survivors, must work together to outsmart Bill and find a way to escape. They uncover a dark secret about the farm and its previous inhabitants, leading them to believe that Bill is not alone in his madness. The film is filled with dark humor, graphic violence, and unexpected plot twists that keep the audience guessing until the very end.\n\nThe climax of the film is both hilarious and horrifying, as the survivors launch a desperate attack on Bill's stronghold, only to find themselves in a series of increasingly surreal and macabre scenarios. \"Dead Alive\" is a testament to Jackson's ability to blend the horror and humor genres in a way that is both terrifying and delightfully absurd, making it a unique and unforgettable cinematic experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "851da07c93371c5f2c600b1580e0d4f2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 631.0 words or less.\n\n---\n\n**Title:**\n\nDead Alive\n\n**Year:**\n\n1993",
+    "include_year": false
+}

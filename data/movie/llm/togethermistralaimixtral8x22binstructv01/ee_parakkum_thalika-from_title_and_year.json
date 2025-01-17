@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ee Parakkum Thalika",
+    "descriptions": [
+        " \"Ee Parakkum Thalika\" (2001) is a Malayalam comedy-drama film directed by Thaha. The story revolves around Unnikrishnan, a middle-aged bus conductor who leads a simple life with his wife and two children. He is deeply attached to his bus, \"Parakkum Thalika,\" which he considers his pride and joy.\n\nThe plot thickens when Unnikrishnan learns that his bus is scheduled to be decommissioned. He becomes determined to save his beloved bus, embarking on a series of comedic and dramatic adventures. Along the way, he encounters a variety of eccentric characters, including a corrupt bus company manager, a group of scheming businessmen, and a beautiful woman who catches his eye.\n\nAs Unnikrishnan fights to save his bus, he also grapples with personal issues, such as his strained relationship with his wife and his struggles as a father. Through his journey, he learns valuable lessons about love, family, and the importance of standing up for what he believes in.\n\nDespite facing numerous obstacles and setbacks, Unnikrishnan remains determined to save \"Parakkum Thalika.\" The film reaches its climax as Unnikrishnan and his allies stage a daring and hilarious plan to rescue the bus from its impending fate.\n\n\"Ee Parakkum Thalika\" is a heartwarming and humorous film that explores the bonds between people and their possessions, as well as the power of perseverance and determination. With its memorable characters, witty dialogue, and engaging plot, this film is a must-watch for fans of Malayalam cinema and comedy-drama films alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "651ae988e9b785fc8369dd64b6202da8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 266.0 words or less.\n\n---\n\n**Title:**\n\nEe Parakkum Thalika\n\n**Year:**\n\n2001",
+    "include_year": false
+}

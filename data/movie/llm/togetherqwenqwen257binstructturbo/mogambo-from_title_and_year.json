@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mogambo",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Mogambo,\" released in 1953, is a thrilling adventure and romance set in the wilds of Africa. The film follows the story of a greedy big-game hunter named Henry Brandon (played by Clark Gable), who operates in a rainforest region of Africa. With his eyes set on a valuable ivory shipment, Brandon is joined by a young and ambitious wildlife photographer, Margaret \"Margo\" Joubert (Grace Kelly), and her boyfriend, a native African named Lew Harper (Donald Sinden).\n\nAs they navigate the dense jungle, the trio encounters a variety of dangerous animals and indigenous tribes. Margo's presence sparks a romantic tension between her and Brandon, who initially views her as a distraction. However, as they face numerous challenges together, including a confrontation with a local warlord, their relationship evolves.\n\nThe film climaxes with a dramatic battle against the warlord's forces, showcasing the characters' bravery and teamwork. In the end, Mogambo's plot intertwines themes of love, adventure, and the harsh realities of the African wilderness, culminating in a satisfying resolution that solidifies the bond between Margo and Lew, while Brandon is left to reflect on the true value of life beyond material wealth. Directed by John Ford, \"Mogambo\" is a classic of the adventure genre, blending romance, action, and natural beauty."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a5b4e9db3669d3a0cad74fef5cad2741",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 342.0 words or less.\n\n---\n\n**Title:**\n\nMogambo\n\n**Year:**\n\n1953",
+    "include_year": false
+}

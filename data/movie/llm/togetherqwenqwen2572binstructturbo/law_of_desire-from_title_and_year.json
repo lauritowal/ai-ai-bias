@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Law of Desire",
+    "descriptions": [
+        "\"Law of Desire\" (Spanish: \"La Ley del Deseo\"), directed by Pedro Almodóvar and released in 1987, is a complex and emotionally charged exploration of desire, identity, and the blurred lines between love and obsession. The film centers on Pablo, a successful film director who is struggling with the murder of his former lover, Antonio, by a young man named Andrés. Pablo, now in a relationship with an actress named Ivan, is haunted by his past and the guilt of his role in Andrés' actions.\n\nThe narrative shifts between the present and flashbacks, revealing the deep emotional ties and conflicts that have shaped Pablo's life. As Pablo navigates his current relationship and the complexities of his work, he is forced to confront the consequences of his past decisions. The film delves into themes of sexual identity, the nature of art, and the transformative power of love and desire.\n\nAlmodóvar's signature style, characterized by vivid colors, melodrama, and a blend of comedy and tragedy, is on full display. \"Law of Desire\" is a poignant and provocative examination of the human psyche, challenging viewers to question the boundaries of their own desires and the moral implications of their actions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "1875fb694510e11f15fd587e8747f130",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nLaw of Desire\n\n**Year:**\n\n1987",
+    "include_year": false
+}

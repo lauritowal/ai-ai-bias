@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hot Chick",
+    "descriptions": [
+        "The Hot Chick is a 2002 American fantasy comedy film directed by Tom Brady. The movie stars Rob Schneider as Clive/Jessica, and Rachel McAdams in her film debut as Jessica/Clive.\n\nThe story revolves around Jessica Spencer (Rachel McAdams), a popular high school student who is also a cheerleader. One day, while at a shopping mall, Jessica and her friends stumble upon an African artifact that they take home as a souvenir. Unbeknownst to them, the artifact has magical powers, and when Jessica puts on an ancient-looking pendant, she and Clive Maxwell (Rob Schneider), a small-time thief, magically switch bodies.\n\nJessica, now trapped in Clive's body, is initially confused and frustrated by her new situation. Meanwhile, Clive in Jessica's body enjoys the attention and popularity that comes with being a high school student. As Jessica navigates her new surroundings, she discovers that Clive's life is not as simple as she thought.\n\nJessica, now in Clive's body, starts to make amends for Clive's wrongdoings and sets out to clear his name. Along the way, she learns to appreciate the people and experiences that Clive had in his life. Clive, on the other hand, must navigate the complexities of high school life, friendships, and romance.\n\nThroughout the film, the two characters struggle to adjust to their new lives and figure out how to switch back. In the end, they learn valuable lessons about themselves and each other, and their experiences ultimately bring them closer together. The movie ends on a lighthearted note, with the two characters returning to their original bodies and gaining a newfound appreciation for their lives.\n\nThe Hot Chick is a lighthearted, comedic film that explores themes of identity, friendship, and self-discovery. Despite receiving mixed reviews from critics, the movie has become a cult classic and remains a beloved comedy from the early 2000s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "df4d869abbf135e4b7c6a4c8139bac69",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 612.0 words or less.\n\n---\n\n**Title:**\n\nThe Hot Chick\n\n**Year:**\n\n2002",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Super Dimension Fortress Macross: Do You Remember Love?",
+    "descriptions": [
+        "In \"The Super Dimension Fortress Macross: Do You Remember Love?\" set in the year 2009, humanity has been engaged in a long and brutal war against an alien race known as the Zentradi. The Macross, a massive spaceship that serves as humanity's last hope for survival, is on the front lines of this conflict.\n\nAs the war rages on, a young pilot named Hikaru Ichijyo finds himself in the midst of the chaos. Hikaru is a skilled pilot, but he is also haunted by the memories of a lost love. Despite his inner turmoil, Hikaru remains determined to fight for his people and protect the ones he cares about.\n\nDuring a pivotal battle against the Zentradi, Hikaru and his fellow pilots discover a mysterious alien ship that holds the key to ending the war once and for all. As they explore the ship, they uncover ancient secrets and powerful technology that could change the course of the conflict.\n\nAs Hikaru delves deeper into the mysteries of the alien ship, he is confronted with his past and forced to confront his feelings for his lost love. Alongside his friends and allies, Hikaru must navigate treacherous battles, political intrigue, and personal demons in order to save humanity from destruction.\n\nAs the battle reaches its climax, Hikaru and his comrades must make difficult choices and face impossible odds. The fate of humanity hangs in the balance, and only through courage, sacrifice, and love can they hope to emerge victorious.\n\nIn the end, \"The Super Dimension Fortress Macross: Do You Remember Love?\" is a thrilling and emotional tale of war, romance, and redemption. It explores themes of loyalty, friendship, and the power of love to overcome even the greatest of challenges. Through Hikaru's journey, we see the resilience of the human spirit and the enduring hope that drives us to keep fighting, no matter the cost."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8f7df91b3754f8e8ee9afa3c4ee7a2c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 604.0 words or less.\n\n---\n\n**Title:**\n\nThe Super Dimension Fortress Macross: Do You Remember Love?\n\n**Year:**\n\n1984",
+    "include_year": false
+}

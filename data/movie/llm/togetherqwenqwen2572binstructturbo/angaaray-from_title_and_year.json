@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Angaaray",
+    "descriptions": [
+        "\"Angaaray,\" released in 1986, is a Hindi thriller film directed by Manmohan Desai. The film stars Anil Kapoor, Mithun Chakraborty, and Meenakshi in the lead roles. The story revolves around the life of Vicky (Anil Kapoor), a young and ambitious man who is caught in a web of crime and corruption.\n\nVicky, originally from a humble background, moves to the city in search of a better life. He quickly finds himself entangled in the underworld, where he meets and forms an alliance with the powerful and ruthless don, Raja (Mithun Chakraborty). Raja, impressed by Vicky's daring and intelligence, takes him under his wing and grooms him to become a key player in his criminal empire.\n\nAs Vicky rises through the ranks, he falls in love with Priya (Meenakshi), a social worker who is dedicated to helping the underprivileged. Priya's ideals and love challenge Vicky's loyalty to Raja and the life of crime he has embraced. Torn between his ambition and his conscience, Vicky must decide whether to continue his ascent in the criminal world or to break free and start anew.\n\nThe film reaches its climax as Vicky's internal conflict leads to a confrontation with Raja, testing the limits of their bond and the strength of Vicky's moral resolve. \"Angaaray\" is a gripping tale of ambition, love, and the struggle between right and wrong, set against the backdrop of urban crime and societal corruption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "f1c4d5b3b45f246201bd80686e94bbf9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 298.0 words or less.\n\n---\n\n**Title:**\n\nAngaaray\n\n**Year:**\n\n1986",
+    "include_year": false
+}

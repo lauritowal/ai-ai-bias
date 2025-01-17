@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cleopatra",
+    "descriptions": [
+        "In the 1934 film \"Cleopatra,\" the story follows the life of the famous Egyptian queen, Cleopatra VII. The movie begins with Cleopatra's rise to power in Egypt, following the death of her father, Ptolemy XII. Cleopatra, played by actress Claudette Colbert, is depicted as a strong-willed and intelligent ruler who uses her charm and wit to manipulate those around her.\n\nAs Cleopatra navigates the political landscape of ancient Egypt, she forms alliances with Julius Caesar, played by Warren William, and later with Mark Antony, portrayed by Henry Wilcoxon. Cleopatra's relationships with these powerful Roman leaders are central to the plot of the film, showcasing her ability to use her feminine wiles to advance her own agenda and secure her position on the throne.\n\nThe film delves into Cleopatra's romantic entanglements with both Caesar and Antony, highlighting the passionate love affairs that shaped her reign. Despite facing opposition from her enemies, including her treacherous brother Ptolemy XIII, Cleopatra proves herself to be a formidable and cunning ruler who will stop at nothing to protect her kingdom.\n\nThe political intrigue and power struggles that characterize Cleopatra's reign are brought to life in this classic Hollywood portrayal of one of history's most iconic figures. The film captures the opulence and grandeur of ancient Egypt, with lavish sets and costumes that transport viewers back to a time of pharaohs and conquest.\n\nAs Cleopatra's relationships with Caesar and Antony deepen, she finds herself torn between her love for these powerful men and her duty to her people. The film explores the complexities of Cleopatra's character, painting her as a multifaceted woman who is both ruthless in her pursuit of power and vulnerable in matters of the heart.\n\nUltimately, \"Cleopatra\" is a tale of love, betrayal, and ambition set against the backdrop of ancient Egypt. The film showcases the enduring legacy of a queen who defied convention and challenged the might of Rome, leaving an indelible mark on history that continues to fascinate audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "cfd1e5ae003e6f8b2da4b8573e22f2c6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 478.0 words or less.\n\n---\n\n**Title:**\n\nCleopatra\n\n**Year:**\n\n1934",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Viva Max!",
+    "descriptions": [
+        "**Plot Summary of \"Viva Max!\" (1969)**\n\nViva Max! is a 1969 British-French-Italian political satire film that centers around Max, a jovial but inept revolutionary. Set in a fictional post-apocalyptic world, the movie follows Max as he embarks on a series of misadventures in his quest to overthrow the oppressive regime that controls his country. Max, a charismatic but dim-witted character, believes in the power of laughter and positivity to bring about change, despite the bleak and dystopian environment around him.\n\nThe film opens with Max, played by the late Italian comedian Totò, awakening in a world where the government has taken over every aspect of life, from the media to the economy. Max, a simple farmer, dreams of a better future and decides to take action by forming a revolutionary group with a group of like-minded, equally inept individuals. As they begin their campaign, Max's group faces numerous setbacks and absurd situations, including a disastrous attempt to launch a rocket to space, a failed plot to assassinate the president using a stolen chicken, and a misunderstanding that leads to their mistaken arrest as spies for a rival faction.\n\nDespite these failures, Max remains optimistic and continues to spread his message of hope through comedy and satire. His relentless pursuit of a better world and his quixotic attempts to achieve it resonate with the common people, who begin to question the authority of the government. The film climaxes with a massive rally where Max delivers a speech that combines humor and political commentary, ultimately leading to the regime's collapse.\n\nViva Max! is a lighthearted and satirical look at political revolution, using humor to critique the excesses and absurdities of authoritarian regimes. The film's central character, Max, embodies the spirit of resistance and the power of laughter in the face of adversity. Through a series of slapstick and absurd events, the movie explores themes of social change, the role of the individual in society, and the importance of maintaining a sense of humor in the face of oppression."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "2f7295a6941cd3aa9044c4b209383821",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 590.0 words or less.\n\n---\n\n**Title:**\n\nViva Max!\n\n**Year:**\n\n1969",
+    "include_year": false
+}

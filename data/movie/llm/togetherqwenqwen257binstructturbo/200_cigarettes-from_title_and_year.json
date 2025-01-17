@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "200 Cigarettes",
+    "descriptions": [
+        "\"200 Cigarettes\" (1999) is a gritty, thought-provoking crime drama that follows the life of Tony \"Bones\" Bonaventura (played by Ben Gazzara), a no-nonsense New York City detective with a penchant for smoking two packs of cigarettes a day. As the film opens, Bones is on the verge of retiring and is offered one last case that could make or break his career. The case involves the disappearance of a young woman, and Bones is drawn into a web of corruption, deceit, and violence that challenges his beliefs about justice and morality.\n\nBones, known for his sharp instincts and no-bullshit approach, finds himself entangled with a shadowy conspiracy that goes deeper than he ever imagined. Along the way, he forms an unlikely alliance with a young, idealistic attorney named Emily (played by Christine Baranski) who is determined to expose the truth. Together, they uncover a network of corrupt officials and power brokers who are willing to go to extreme lengths to protect their interests.\n\nAs Bones delves deeper, he faces personal and professional challenges, including his own demons and the dangerous men who will stop at nothing to cover their tracks. The film's title, \"200 Cigarettes,\" serves as a metaphor for Bones' self-destructive habits and his obsession with solving the case, which he believes is the only way to make a difference.\n\nThe story culminates in a tense showdown where Bones must confront the corrupt elements he has been investigating. In a dramatic twist, the case takes an unexpected turn, forcing Bones to question everything he thought he knew about justice and morality. The film explores themes of loyalty, redemption, and the blurred line between right and wrong, leaving the audience with a powerful impression of the dark underbelly of urban life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1deb08e90b14a4291ee8ca22b812dab8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 325.0 words or less.\n\n---\n\n**Title:**\n\n200 Cigarettes\n\n**Year:**\n\n1999",
+    "include_year": false
+}

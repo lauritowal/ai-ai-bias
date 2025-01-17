@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "'Til There Was You",
+    "descriptions": [
+        "\"'Til There Was You,\" released in 1997, is a romantic drama directed by Jon Turteltaub and stars Thomas Gibson, Laura Leighton, and John Corbett. The film tells the story of John Stone (Thomas Gibson), a successful New York City attorney who has it all: a beautiful fiancée, a lucrative job, and a bright future. However, his life is thrown into chaos when he receives a letter from a woman named Maggie Hayes (Laura Leighton), a high school sweetheart from his hometown of Millfield, Iowa. Maggie informs John that she is the mother of his 10-year-old son, whom he has never met.\n\nShocked and initially reluctant, John decides to visit Millfield to meet his son, Michael (played by Alex D. Linz). Upon his arrival, he is greeted with a mix of curiosity and suspicion by the townspeople, who remember him as the boy who left for the big city and never looked back. Maggie, a single mother working as a teacher, is wary of John’s intentions but agrees to let him spend time with Michael.\n\nAs John gets to know his son, he begins to form a deep bond with him and the tight-knit community of Millfield. He also finds himself falling in love with Maggie all over again. However, his return to New York for work and his upcoming marriage to his high society fiancée, Caroline (played by Susan Sarandon), create a rift in his new-found happiness.\n\nTorn between his old life and the new one he has discovered, John must decide what truly matters to him. The film explores themes of family, love, and the choices we make that can change the course of our lives. In the end, John must choose between his past and his future, and the love that has been waiting for him all along."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "7bd43e4462ec50c1ef801d9aa7513441",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\n'Til There Was You\n\n**Year:**\n\n1997",
+    "include_year": false
+}

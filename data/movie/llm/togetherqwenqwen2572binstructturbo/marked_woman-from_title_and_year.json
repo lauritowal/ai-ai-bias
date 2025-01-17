@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Marked Woman",
+    "descriptions": [
+        "\"Marked Woman\" (1937) is a gritty crime drama starring Bette Davis as Lily Powers, a nightclub dancer ensnared in the world of organized crime. Lily, working at a club run by mobster Louis \"Lew\" Clark (Edward Arnold), is used by him to lure men into his gambling and prostitution ring. When Lily falls in love with crusading district attorney David Graham (Humphrey Bogart), she decides to break free from Clark’s control. David encourages Lily to testify against Clark, leading to his arrest. However, the trial is jeopardized when other women, fearing retribution, refuse to join Lily as witnesses. The film explores themes of redemption and the courage required to stand against powerful criminal forces. Lily’s determination and the moral support she receives from David and a compassionate judge, played by Claude Rains, highlight the film’s focus on justice and personal integrity in a corrupt environment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "56d5c174865846571c5b1003f7f1c118",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 203.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937",
+    "include_year": false
+}

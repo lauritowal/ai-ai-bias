@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aage se right",
+    "descriptions": [
+        "In the movie \"Aage se Right\" (2009), the story follows a timid, bumbling police officer named Dinkar Waghmare who accidentally becomes involved in a dangerous conspiracy. Dinkar, who dreams of becoming a tough and respected cop, finds himself in a series of misadventures after he mistakenly shoots a famous dancer during a raid.\n\nAs Dinkar tries to navigate his way out of trouble, he discovers that the dancer was actually involved in a plot to assassinate a politician. Now, Dinkar must race against time to unravel the conspiracy and prevent the assassination from taking place. Along the way, he teams up with a spirited journalist named Pearl, who helps him uncover the truth behind the sinister plan.\n\nDespite his initial incompetence and fear, Dinkar gradually finds the courage to stand up to the criminals and redeem himself as a police officer. As he faces danger and challenges head-on, Dinkar also learns valuable lessons about bravery, integrity, and the true meaning of being a hero.\n\nFilled with humor, action, and unexpected twists, \"Aage se Right\" is a thrilling and entertaining ride that showcases the transformation of an unlikely hero. Through his journey, Dinkar proves that anyone can rise to the occasion and make a difference, no matter how many mistakes they may have made in the past."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "594bc742e5d347d8cff7785cb9a832b5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 262.0 words or less.\n\n---\n\n**Title:**\n\nAage se right\n\n**Year:**\n\n2009",
+    "include_year": false
+}

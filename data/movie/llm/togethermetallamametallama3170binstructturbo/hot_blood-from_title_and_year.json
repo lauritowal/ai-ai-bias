@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hot Blood",
+    "descriptions": [
+        "In the 1956 drama film 'Hot Blood', starring Cornel Wilde and Jane Russell, the story revolves around Gypsy dancer Stephanya (played by Jane Russell), a fiery and exotic dancer who falls in love with Marco (played by Cornel Wilde), a young and ambitious gypsy who aims to buy a piece of land to settle down. \n\nThe movie primarily focuses on the passionate and intense romance between Marco and Stephanya, which leads to a series of dramatic events involving love, greed, and rivalry. Stephanya's dance troupe is struggling financially, and Marco comes up with a plan to raise the necessary funds to buy the land and secure their future. However, the plan is fraught with danger and temptation.\n\nAs the story unfolds, Stephanya is torn between her love for Marco and her ambition as a dancer. The film is a classic tale of love, passion, and the struggle for a better life, with the captivating performances of Jane Russell and Cornel Wilde at its core."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "25f211d561e48c823de2791c70bc36ed",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawman",
+    "descriptions": [
+        "In the 1971 film \"Lawman,\" Marshal Jared Maddox, played by Burt Lancaster, arrives in a small town in the Old West to bring in a group of cowboys who accidentally killed an old man during a drunken celebration. Maddox is a seasoned lawman who takes his job seriously, but he is not a heartless man. He is conflicted about the situation and hopes to resolve it peacefully.\n\nThe town is run by a wealthy land baron named Vincent Bronson, played by Lee J. Cobb, who sees Maddox's arrival as a threat to his authority. Bronson is used to getting his way and is not pleased with the prospect of losing some of his men to the law. He tries to intimidate Maddox into leaving town, but the marshal stands his ground.\n\nAs Maddox begins his investigation, he discovers that the cowboys responsible for the old man's death are well-liked in the town and have families who depend on them. Maddox sympathizes with their situation but knows that justice must be served. He tries to convince the cowboys to come peacefully, but they refuse to surrender.\n\nTensions rise in the town as Bronson and his men become increasingly hostile towards Maddox. The marshal finds himself caught in the middle of a power struggle between the law and the land baron. Despite facing threats and violence, Maddox remains determined to uphold the law and bring the cowboys to justice.\n\nThe situation comes to a head when a shootout erupts between Maddox and Bronson's men. The town is thrown into chaos as bullets fly and lives hang in the balance. In the end, Maddox emerges victorious, but not without paying a heavy price. He realizes that upholding the law sometimes comes at a cost, but it is a burden he is willing to bear.\n\n\"Lawman\" is a gritty and realistic portrayal of the Old West, where justice is hard-won and the line between right and wrong is often blurred. Burt Lancaster's performance as Marshal Jared Maddox is compelling and nuanced, showing the complexities of a man dedicated to his duty in a lawless land. The film is a classic Western that explores themes of morality, justice, and the price of upholding the law."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "0ba01482c8dfd5fba3c87d60f4330a1f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nLawman\n\n**Year:**\n\n1971",
+    "include_year": false
+}

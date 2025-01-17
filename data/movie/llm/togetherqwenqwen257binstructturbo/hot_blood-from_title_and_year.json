@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hot Blood",
+    "descriptions": [
+        "In 1956, \"Hot Blood\" is a dramatic thriller about a group of young, sexually frustrated friends who discover an old diary detailing a series of murders committed by a handsome but mysterious man in the 1920s. Drawn to his dark allure, they begin to reenact his deeds, only to find themselves trapped in a web of deceit and danger. As tensions rise and secrets are revealed, the line between fantasy and reality blurs, leading to a shocking climax that challenges their perceptions of love, lust, and morality."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "25f211d561e48c823de2791c70bc36ed",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+    "include_year": false
+}

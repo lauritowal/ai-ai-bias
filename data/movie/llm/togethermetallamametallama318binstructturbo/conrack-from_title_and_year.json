@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Conrack",
+    "descriptions": [
+        "\"Conrack\" is a 1974 American drama film based on a true story. The movie follows the journey of Lt. Lou Gossett Jr., a young naval officer who volunteers to teach at a rural island school in South Carolina. Gossett Jr. is tasked with training a group of underprivileged children, who are considered uneducable and are often subjected to physical and emotional abuse.\n\nDespite the initial resistance and skepticism from the community, Gossett Jr. uses unconventional and creative methods to connect with the children and teach them valuable life skills. He also inspires the children to voice their feelings and show their emotions, which they had been discouraged from doing.\n\nThrough his efforts, Gossett Jr. not only helps the children develop their academic abilities but also teaches them to respect themselves and others. The film is a heartwarming and thought-provoking portrayal of a dedicated teacher who makes a lasting impact on the lives of his students, and in doing so, changes the community for the better."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7aa3bb1ffec85a45083e5fcb12ddc053",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 212.0 words or less.\n\n---\n\n**Title:**\n\nConrack\n\n**Year:**\n\n1974",
+    "include_year": false
+}

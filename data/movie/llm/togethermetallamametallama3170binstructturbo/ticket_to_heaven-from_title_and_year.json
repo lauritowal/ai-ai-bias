@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ticket to Heaven",
+    "descriptions": [
+        "'Ticket to Heaven' is a 1981 Canadian drama film directed by Ralph L. Thomas. The movie tells the story of David, a young man who becomes involved with a cult-like organization, known as the 'Church of the New Spirit' or 'the Movement,' led by the charismatic Father Sun (played by R.H. Thomson). \n\nDavid's involvement with the cult is deeply influenced by the group's charming and persuasive members, who promise a sense of belonging and spiritual enlightenment. However, as he gets deeper into the group's activities, David's family and friends grow increasingly concerned about his well-being and try to intervene.\n\nThe story revolves around the themes of cult recruitment, manipulation, and the dangers of blindly following a charismatic leader. The film also delves into the process of deprogramming, as David's loved ones attempt to rescue him from the clutches of the cult.\n\n'Ticket to Heaven' features a gripping narrative that highlights the complexities and risks associated with cult involvement, providing a thought-provoking commentary on the human desire for connection and meaning."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e91334dc4ec76e5faf69be163bc1ea2b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1345.0 words or less.\n\n---\n\n**Title:**\n\nTicket to Heaven\n\n**Year:**\n\n1981",
+    "include_year": false
+}

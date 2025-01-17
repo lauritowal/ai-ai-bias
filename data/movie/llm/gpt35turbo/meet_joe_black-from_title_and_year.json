@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Meet Joe Black",
+    "descriptions": [
+        "\"Meet Joe Black\" tells the story of a wealthy media mogul named William Parrish, who is approached by a mysterious man named Joe Black. Joe is actually the personification of Death, who has come to take William's soul. However, Joe offers William a deal - if William will act as Joe's guide to the world of the living, Joe will allow William to live a few more days before taking him.\n\nWilliam agrees to the deal, and Joe takes on the appearance of a young man in order to blend in with the living. As they spend time together, Joe begins to develop feelings for William's daughter, Susan. Susan is initially wary of Joe, but she is drawn to his kind and gentle nature. As their relationship grows, Susan starts to fall in love with Joe, unaware of his true identity.\n\nMeanwhile, William is faced with a difficult decision about the future of his company. He is being pressured by his board of directors to merge the company with a large conglomerate, but he is hesitant to give up control of the business he has built from the ground up. With Joe's guidance, William starts to see things in a new light and begins to make decisions based on his own values rather than those of others.\n\nAs the days pass, William begins to come to terms with his impending death. He shares heartfelt moments with his family and friends, and he starts to prepare them for life without him. Susan also starts to realize the truth about Joe, but she is torn between her love for him and the knowledge that he must eventually leave.\n\nIn the end, Joe fulfills his duty and takes William's soul, leaving Susan devastated. However, Joe is so moved by his experiences in the world of the living that he decides to spare William's life and take his own instead. Susan is heartbroken by Joe's sacrifice, but she is grateful for the time she had with him.\n\n\"Meet Joe Black\" is a poignant and thought-provoking film that explores themes of love, loss, and the meaning of life. It reminds viewers to cherish the moments they have with their loved ones and to live each day to the fullest. The movie's beautiful cinematography, touching performances, and emotional storyline make it a memorable and moving experience for audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "968885fa9cf8a85a2699c5693b12106a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 649.0 words or less.\n\n---\n\n**Title:**\n\nMeet Joe Black\n\n**Year:**\n\n1998",
+    "include_year": false
+}

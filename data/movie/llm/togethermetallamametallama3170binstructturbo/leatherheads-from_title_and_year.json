@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Leatherheads",
+    "descriptions": [
+        "\"Leatherheads\" is a 2008 American sports comedy film directed by George Clooney, who also stars in the film. The movie is set in 1925 and revolves around the early days of professional American football.\n\nDodge Connolly (George Clooney) is the charismatic captain of the Duluth Bulldogs, a struggling professional football team. In an effort to save the team from bankruptcy and gain popularity, Dodge recruits Carter \"The Bull\" Rutherford (John Krasinski), a charming and talented college football star. Carter's arrival attracts the attention of a beautiful and ambitious reporter, Lexie Littleton (Renée Zellweger), who is determined to tell his story.\n\nAs the story unfolds, Lexie becomes torn between her growing feelings for Carter and her initial attraction to the charming Dodge. Meanwhile, Dodge and Carter develop a rivalry both on and off the field, as they compete for Lexie's affections and the spotlight.\n\nThe film explores the early days of professional football, with teams struggling to gain recognition and acceptance. The Duluth Bulldogs and other teams face numerous challenges, including rough playing conditions, lack of funding, and the skepticism of the public.\n\nThrough its witty dialogue, charming performances, and nostalgic portrayal of the 1920s, \"Leatherheads\" is a lighthearted and entertaining film that pays homage to the early days of American football."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "52281ee66c6c1c6bec0050272b36e0b9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 678.0 words or less.\n\n---\n\n**Title:**\n\nLeatherheads\n\n**Year:**\n\n2008",
+    "include_year": false
+}

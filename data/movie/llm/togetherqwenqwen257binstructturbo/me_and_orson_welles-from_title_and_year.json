@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Me and Orson Welles",
+    "descriptions": [
+        "\"Me and Orson Welles\" is a 2009 film that delves into the world of a young actor, Richard Leland (played by Luke Evans), who lands a role in a theater production of Shakespeare's \"The \"[%PlayName%]\" for a summer program at a prestigious high school. Directed by the legendary Orson Welles (Christian Bale), the play's production becomes a transformative experience for Richard and the other actors. As rehearsals intensify, Richard and his fellow cast members are pushed to their creative limits, bonding deeply under Welles' demanding and innovative direction. The film explores themes of ambition, creativity, and the impact of a mentor on a young artist's life. Through Richard's journey, the movie not only captures the magic of theater but also offers a glimpse into the fascinating world of Orson Welles, a figure renowned for his groundbreaking work in film and theater."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nMe and Orson Welles\n\n**Year:**\n\n2009",
+    "include_year": false
+}

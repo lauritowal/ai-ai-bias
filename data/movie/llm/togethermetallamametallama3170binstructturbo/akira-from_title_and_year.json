@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Akira",
+    "descriptions": [
+        "'Akira' is a 1988 Japanese animated science fiction film directed by Katsuhiro Otomo, based on his 1982 manga of the same name. The story takes place in a post-apocalyptic Neo-Tokyo in 2019, 31 years after a devastating event known as the \"Great Tokyo Earthquake\" that destroyed the city.\n\nThe film follows Shotaro Kaneda, the leader of a biker gang known as \"The Capsules,\" who becomes involved in a government conspiracy when his friend Tetsuo Shima, a former member of the gang, is involved in a motorcycle accident and develops powerful telekinetic abilities.\n\nTetsuo is secretly taken by the government to a research facility where they are studying individuals with psychic powers, known as \"espers.\" The government hopes to harness their abilities for military purposes. However, Tetsuo's powers grow rapidly, and he becomes increasingly unstable and violent.\n\nAs Kaneda searches for Tetsuo, he crosses paths with a mysterious woman named Kei, who is part of an anti-government organization known as the \"Resistance.\" Together, they uncover the truth behind the government's experiments and the connection between Tetsuo's powers and the mysterious event known as \"Akira,\" which triggered the Great Tokyo Earthquake.\n\nAs Tetsuo's powers continue to grow, he becomes a threat to the entire city, and Kaneda must find a way to stop him before it's too late. The film culminates in a dramatic showdown between Kaneda and Tetsuo, with the fate of Neo-Tokyo hanging in the balance.\n\n'Akira' is a classic anime film known for its stunning visuals, complex storyline, and themes of government corruption, psychic powers, and the dangers of scientific experimentation. The film's success has had a lasting impact on the anime industry and has influenced numerous other films, TV shows, and manga series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "aa8e638a3de018879d529f0f9c821ba0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 805.0 words or less.\n\n---\n\n**Title:**\n\nAkira\n\n**Year:**\n\n1988",
+    "include_year": false
+}

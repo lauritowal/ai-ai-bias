@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Law of Desire",
+    "descriptions": [
+        "Law of Desire is a 1987 Spanish drama film written and directed by Pedro Almodóvar. The story revolves around Pablo Quintero (played by Eusebio Poncela), a gay filmmaker who becomes entangled in a complicated love triangle. \n\nPablo ends his relationship with his long-term partner, Juan, after he realizes that Juan is still in love with him. This leads to a series of tumultuous events as Pablo becomes involved with Antonio Benítez (played by Antonio Banderas), an unstable and obsessive young man who becomes deeply infatuated with Pablo.\n\nMeanwhile, Pablo also develops feelings for Tina Quintero (played by Carmen Maura), his trans sister who returns to his life after years of separation. As the narrative unfolds, Pablo's relationships become increasingly complicated, leading to tragic consequences.\n\nThroughout the film, Almodóvar explores themes of love, desire, and identity. Law of Desire features the director's characteristic blend of drama, melodrama, and dark humor, which has become a hallmark of his filmmaking style. The film also showcases the director's ability to explore complex, non-traditional relationships and his willingness to push boundaries in his storytelling."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7107452f99d623335591578519e319e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 285.0 words or less.\n\n---\n\n**Title:**\n\nLaw of Desire\n\n**Year:**\n\n1987",
+    "include_year": false
+}

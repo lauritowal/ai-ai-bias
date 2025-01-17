@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Devil's Diary",
+    "descriptions": [
+        "\"Devil's Diary\" is a 2007 Canadian television horror film directed by Jason Bourque. \n\nThe movie revolves around a series of mysterious murders in a high school setting. It follows the story of a teenage girl, Melissa 'Midge' Brooks, who discovers an ancient diary hidden in her attic. As she begins to read the diary, she realizes that the diary belonged to a girl named 'Laura' and that it contains the story of a dark pact made by Laura in the 19th century.\n\nThe pact, made with a mysterious entity, was meant to bring Laura immense power and beauty, but it ultimately led to her downfall. As Midge delves deeper into the diary, she begins to experience strange and terrifying occurrences, which seem to be connected to the pact Laura made.\n\nMidge soon realizes that the pact has been passed on to her, and she must find a way to break it before it's too late. The movie builds up to a climactic finale, where Midge must confront the evil entity head-on and save herself and her friends from its wrath.\n\nThroughout the movie, there are flashbacks of Laura's story, which provide insight into the dark pact and its consequences. The movie relies heavily on horror elements, suspense, and supernatural themes to keep the viewer engaged.\n\nOverall, \"Devil's Diary\" is a thrilling horror film that explores the themes of power, beauty, and the consequences of making dark pacts. It's a gripping story that will keep viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "e0949543564dd5f487d81d6d9cda282b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 2867.0 words or less.\n\n---\n\n**Title:**\n\nDevil's Diary\n\n**Year:**\n\n2007",
+    "include_year": false
+}

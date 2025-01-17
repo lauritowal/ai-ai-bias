@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Snoopy!!! The Musical",
+    "descriptions": [
+        "There seems to be a missing piece of information. However, based on my knowledge, I can provide a general plot summary for 'Snoopy!!! The Musical' as it is a stage musical based on the Peanuts comic strip. \n\n'Snoopy!!! The Musical' is an adaptation of the Peanuts comic strip by Charles M. Schulz. The story revolves around Charlie Brown, his friends, and their beloved beagle Snoopy, who has a wild imagination.\n\nIn this musical, Snoopy's imagination takes him on various adventures as the World War I Flying Ace, a pirate, and Joe Cool. Meanwhile, Charlie Brown and his friends try to help Snoopy come to terms with his many personas and find his true identity.\n\nThroughout the musical, Snoopy's imagination takes center stage, featuring elaborate musical numbers that showcase Snoopy's adventures in various fantasies. At the same time, Charlie Brown and his friends deal with their own issues, from Lucy's bossiness to Linus's security blanket.\n\nUltimately, the musical explores themes of identity, friendship, and the power of imagination. With its catchy music and lovable characters, 'Snoopy!!! The Musical' is a charming adaptation of the beloved Peanuts comic strip."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "111da4ab527ddc5d68d8dcfa86111dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 301.0 words or less.\n\n---\n\n**Title:**\n\nSnoopy!!! The Musical\n\n**Year:**\n\n",
+    "include_year": false
+}

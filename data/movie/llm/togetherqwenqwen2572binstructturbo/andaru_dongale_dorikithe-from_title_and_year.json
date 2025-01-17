@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Andaru Dongale Dorikithe",
+    "descriptions": [
+        "**Title:** Andaru Dongale Dorikithe  \n**Year:** 2023\n\n\"Andaru Dongale Dorikithe\" is a heartwarming Telugu drama that delves into the lives of two sisters, Chitti and Laxmi, living in a small village in Andhra Pradesh. The film, directed by Vasu Vasara, explores the sisters' struggles and aspirations as they navigate through societal norms and personal dreams.\n\nChitti, the younger sister, is a talented singer with a passion for music, while Laxmi, the elder, is a responsible and hardworking woman who dreams of providing a better life for her family. When their father falls ill, the sisters must work together to keep their family afloat, leading to a series of challenges that test their bond and resilience.\n\nThe story takes a twist when Chitti gets a chance to participate in a prestigious music competition in the city, but Laxmi must make a difficult decision to support her sister's dream. The film beautifully captures the sisters' journey, their sacrifices, and the strength of their relationship, set against the backdrop of a close-knit community.\n\n\"Andaru Dongale Dorikithe\" is a poignant tale of family, love, and the pursuit of dreams, resonating with audiences through its authentic portrayal of rural life and the universal themes of sisterhood and perseverance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "451e3856c0650d2bd0216a85d4cda75f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 255.0 words or less.\n\n---\n\n**Title:**\n\nAndaru Dongale Dorikithe\n\n**Year:**\n\n",
+    "include_year": false
+}

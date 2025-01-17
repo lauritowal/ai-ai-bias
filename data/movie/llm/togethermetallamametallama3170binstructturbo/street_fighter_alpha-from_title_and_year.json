@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Street Fighter Alpha",
+    "descriptions": [
+        "Street Fighter Alpha is an animated television film released in 2000, based on the popular Street Fighter video game series by Capcom. The film serves as a prequel to the original Street Fighter II: The World Warrior.\n\nThe story revolves around Ryu and Ken Masters, two young martial artists who share a long-standing rivalry and friendship. The plot begins with a glimpse of Ryu and Ken's past, showcasing their training under the tutelage of their sensei, Gouken. However, their peaceful lives are disrupted by the arrival of Akuma, a powerful and malevolent fighter who seeks to test Ryu's skills and claim the title of the strongest martial artist.\n\nAs the story unfolds, Ryu and Ken cross paths with a variety of characters, including Chun-Li, a skilled Interpol agent seeking to avenge her father's death; Guile, a hot-headed American pilot; and the mysterious and deadly assassin, Sagat. Along the way, Ryu and Ken must confront their own personal demons and struggle to maintain their friendships amidst the chaos of the martial arts world.\n\nThroughout the film, Ryu grapples with the dark hadou within him, a powerful energy that threatens to consume him and transform him into a destructive force. Akuma's presence and influence serve as a catalyst for Ryu's internal conflict, pushing him to the limits of his abilities and forcing him to confront the true nature of his martial arts.\n\nThe film culminates in a climactic showdown between Ryu and Akuma, with the fate of the martial arts world hanging in the balance. Alongside his friends and allies, Ryu must harness the power of his hadou and find a way to defeat the malevolent Akuma, while also coming to terms with his own destiny and the true meaning of being a warrior.\n\nStreet Fighter Alpha offers a rich and action-packed narrative that explores the complexities of the Street Fighter universe, delving into the backstories and motivations of its iconic characters. The film provides a thrilling and emotionally charged ride, blending stunning animation with intense martial arts sequences and heartfelt character development."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "40709e746f03a0e81ae0cd93895e8b3d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 975.0 words or less.\n\n---\n\n**Title:**\n\nStreet Fighter Alpha\n\n**Year:**\n\n2000",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ánimas Trujano",
+    "descriptions": [
+        "\"Ánimas Trujano,\" a 1962 Mexican drama film, is set in a remote village where the titular character, Ánimas Trujano, lives a humble life as a farmer. The story unfolds as Ánimas is faced with the harsh realities of poverty and the challenges of providing for his family. When a drought threatens their livelihood, Ánimas must make difficult choices that test his moral and physical strength. The film explores themes of perseverance, the human spirit, and the struggle against nature and societal constraints. Directed with a deep sense of realism, \"Ánimas Trujano\" offers a poignant portrayal of rural Mexican life and the resilience of its people."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "9196bc41892bc52f3ff255f25834ab57",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 206.0 words or less.\n\n---\n\n**Title:**\n\nÁnimas Trujano\n\n**Year:**\n\n1962",
+    "include_year": false
+}

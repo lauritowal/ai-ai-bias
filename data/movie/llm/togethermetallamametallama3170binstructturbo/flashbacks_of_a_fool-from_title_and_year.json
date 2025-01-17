@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Flashbacks of a Fool",
+    "descriptions": [
+        "\"Flashbacks of a Fool\" is a 2008 British drama film written and directed by Baillie Walsh. The movie follows the story of Joe Scott (played by Daniel Craig), a washed-up Hollywood actor in his late 30s. Joe's life is a mess; he's a self-centered, arrogant, and fading star who has lost his way in the glamorous world of Hollywood.\n\nAfter a tragic event, Joe returns to his hometown in England for a funeral. The trip serves as a catalyst for a series of flashbacks that take the audience back in time to Joe's childhood and teenage years. Through these flashbacks, we see a different side of Joe - a vulnerable, innocent, and idealistic young boy growing up in a small English town.\n\nIn the flashbacks, Joe (played by Harry Eden as a teenager) meets a young girl named Ruth (played by Eve as a teenager) with whom he shares a deep and unrequited love. As the story unfolds, we see how Joe's relationship with Ruth and his experiences during his formative years shaped him into the person he is today.\n\nThe film explores themes of love, loss, regret, and the disillusionment of adulthood. Through Joe's journey, the movie shows how the choices we make and the experiences we have can shape us into the people we become, and how it's never too late to confront our past and try to make amends.\n\nThe title \"Flashbacks of a Fool\" refers to Joe's reflections on his past, realizing that he has made mistakes and poor choices that have led him to where he is today. The movie is a poignant and thought-provoking exploration of the human condition, and Daniel Craig's performance as the complex and troubled Joe Scott is a highlight of the film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e230d609398ed8bc6a7f2017518e3533",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 786.0 words or less.\n\n---\n\n**Title:**\n\nFlashbacks of a Fool\n\n**Year:**\n\n2008",
+    "include_year": false
+}

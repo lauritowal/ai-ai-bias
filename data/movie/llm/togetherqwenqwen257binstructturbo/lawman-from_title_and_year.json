@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawman",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Lawman\" (1971) is a Western film that follows the story of Matt Earle, a former gunslinger turned lawman, played by Henry Fonda. Set in the rough and lawless town of Iron Creek, Wyoming, in the late 1800s, the film chronicles Earle's struggle to uphold the law and restore order amidst corruption and violence. Upon returning to his hometown after years of serving as a marshal in Texas, Earle finds the community he once knew transformed into a haven for outlaws, corrupt sheriffs, and ruthless cattle barons.\n\nEarle, now a man of principles and integrity, is torn between his role as a lawman and his deep-seated love for the town and its people. He faces numerous challenges, including the task of investigating the murder of his friend and former deputy, which leads him to uncover a conspiracy involving the local sheriff and a powerful cattle tycoon who seeks to exploit the town's resources for his own gain.\n\nAs Earle delves deeper into the case, he befriends the town's schoolteacher, Mary, played by Julie Christie, who becomes both a confidante and a romantic interest. Together, they work to expose the corrupt elements and bring justice to Iron Creek. However, their efforts are met with resistance, including attempts on their lives and the increasing danger they face from the town's violent inhabitants.\n\nThe climax of the film sees Earle and Mary standing up to the corrupt sheriff and his henchmen in a dramatic showdown at the town square, where Earle must confront his past as a gunslinger to fulfill his duty as a lawman. The film culminates in a tense and action-packed sequence that brings order back to Iron Creek and solidifies Earle's legacy as a true lawman.\n\n\"Lawman\" is a gripping tale that explores themes of justice, morality, and the personal cost of upholding the law in a tumultuous era. Henry Fonda's portrayal of Matt Earle captures both the strength and vulnerability required to be a true lawman in a world where the line between right and wrong is often blurred."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "0ba01482c8dfd5fba3c87d60f4330a1f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nLawman\n\n**Year:**\n\n1971",
+    "include_year": false
+}

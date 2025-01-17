@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spider Forest",
+    "descriptions": [
+        "\"Spider Forest\" is a 2004 South Korean horror film directed by Huh Jong-ho. The story revolves around a group of friends who are in their late 20s. They decide to spend a night in the woods near a secluded village, where a series of unexplained events and gruesome deaths have occurred.\n\nAs the night progresses, the friends experience strange occurrences, which they initially dismiss as mere paranoia. However, things take a dark turn when they stumble upon an old, abandoned house in the woods, rumored to be the site of a horrific tragedy.\n\nThe group soon discovers that the house has a dark history, and the locals believe it to be cursed. As they delve deeper into the mysteries of the house, they begin to realize that they are being stalked by a supernatural force.\n\nThe film builds up to a climactic and terrifying finale, where the friends are forced to confront the dark secrets of the house and the evil that lurks within. \"Spider Forest\" is a chilling and suspenseful horror film that explores themes of trauma, grief, and the supernatural.\n\nThroughout the movie, the atmosphere is tense and foreboding, with a sense of impending doom hanging over the characters. The film's use of camera angles, lighting, and sound design creates a sense of unease, drawing the viewer into the world of the story.\n\n\"Spider Forest\" received positive reviews from critics and audiences alike, praising its effective use of tension and suspense, as well as its exploration of dark themes. The film is a must-watch for horror fans, offering a unique and unsettling viewing experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7bc41809a75823e4ee0735b382cad28c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 376.0 words or less.\n\n---\n\n**Title:**\n\nSpider Forest\n\n**Year:**\n\n2004",
+    "include_year": false
+}

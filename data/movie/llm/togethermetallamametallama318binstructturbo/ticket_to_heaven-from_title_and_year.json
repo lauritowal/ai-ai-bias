@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ticket to Heaven",
+    "descriptions": [
+        "\"Ticket to Heaven\" is a 1981 Canadian drama film directed by Ralph L. Thomas. The story revolves around Father Michael, a charismatic and well-educated Catholic priest played by John Vernon, who is sent to a small town in Canada to assess the situation and possibly close down a certain church due to declining attendance.\n\nUpon his arrival, Father Michael meets Father Marcoux, a local priest played by Charles Berling, and they develop a close bond. However, it soon becomes clear that Father Marcoux is facing financial difficulties and is struggling to maintain the church's operations.\n\nAs Father Michael becomes immersed in the community, he meets a young woman named Sylvia, played by Valerie Bertinelli, who is a devout Catholic and is deeply involved in the local church. Father Michael and Sylvia develop a close relationship, which eventually blossoms into romance.\n\nMeanwhile, Father Michael uncovers a dark secret in the town: a number of young women have been tricked into traveling to the United States to work in brothels, and the local church is complicit in the scheme. Father Michael is torn between his duty to expose the truth and his growing feelings for Sylvia, who is unaware of the church's involvement in the scandal.\n\nAs the story unfolds, Father Michael is forced to confront the corruption and hypocrisy within the church, and he must decide whether to follow his conscience or maintain the status quo. The film explores themes of faith, morality, and the complexities of human relationships.\n\n\"Ticket to Heaven\" features a strong performance from John Vernon as the conflicted Father Michael, and it received critical acclaim for its thought-provoking storyline and nuanced characters. The film remains a powerful commentary on the darker aspects of human nature and the challenges of living a virtuous life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "e91334dc4ec76e5faf69be163bc1ea2b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1345.0 words or less.\n\n---\n\n**Title:**\n\nTicket to Heaven\n\n**Year:**\n\n1981",
+    "include_year": false
+}

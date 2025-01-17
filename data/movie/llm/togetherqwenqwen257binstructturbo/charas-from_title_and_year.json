@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Charas",
+    "descriptions": [
+        "**Plot Summary:**\n\nCharas, released in 1976, is a gripping Indian crime thriller that delves into the world of drug trafficking and the brutal underworld of Mumbai. The film, directed by Prakash Mehra, follows the story of two friends, Raj and Kunal, who become embroiled in the drug trade after being introduced to the dangerous world of charas (a form of cannabis) by a cunning smooth-talking dealer named Chhotu. Initially drawn in by the excitement and sense of adventure, the duo soon finds themselves entangled in a complex web of crime, betrayal, and violence.\n\nAs Raj and Kunal’s involvement in the drug trade deepens, they find themselves at odds with both rival gangs and corrupt police officers. The stakes grow higher when Chhotu, feeling betrayed by his new protégés, plots their downfall. Amidst betrayals and near-death experiences, Raj and Kunal must navigate a treacherous landscape, grappling with the moral implications of their actions and seeking redemption.\n\nThe film also explores themes of friendship, loyalty, and the corrupting influence of power and money. As Raj and Kunal face the consequences of their choices, they are forced to confront the harsh realities of their criminal lives and the cost of their ambitions. Charas, with its intense performances and raw storytelling, offers a compelling look at the darker side of human nature and the devastating allure of the drug trade."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "137e815ab187c9619f710421301cae6e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nCharas\n\n**Year:**\n\n1976",
+    "include_year": false
+}

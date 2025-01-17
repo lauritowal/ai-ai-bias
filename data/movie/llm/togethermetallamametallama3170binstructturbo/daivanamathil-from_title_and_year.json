@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daivanamathil",
+    "descriptions": [
+        "I couldn't find any information about a movie titled 'Daivanamathil' released in 2005. It seems the movie is relatively unknown or not widely documented. If you can provide more context or details about the movie, I can try to assist you in finding more information about it."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "632ce75844ddbfb9ea3530b771c305e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nDaivanamathil\n\n**Year:**\n\n2005",
+    "include_year": false
+}

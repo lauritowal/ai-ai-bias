@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tol'able David",
+    "descriptions": [
+        "\"Tol'able David,\" released in 1921, is a silent film based on the play by George Bernard Shaw. The story follows David Thomas, a young boy from a poor family in London, who aspires to be a musician. Despite facing numerous obstacles, including poverty and the disapproval of his father, David perseveres in his dream.\n\nDavid's journey is marked by a series of trials, from being forced to work in a factory to fend for his family, to seeking refuge in a music hall where he befriends a kindly performer. Along the way, he meets a girl named Alice, who becomes his first love. Their relationship is a source of both joy and heartache as David struggles to reconcile his feelings with his ambitions.\n\nThe film's plot thickens when David is discovered by a renowned conductor, who recognizes his extraordinary talent and offers to support his musical education. However, this opportunity comes with a price: David must leave his family and the girl he loves. The narrative culminates in a poignant scene where David must choose between his music and his heart, reflecting the harsh realities of chasing one's dreams.\n\n\"Tol'able David\" is a poignant exploration of youth, dreams, and the sacrifices one must make to fulfill them, set against the backdrop of early 20th-century London. The film captures the essence of Shaw's original work, blending elements of drama, romance, and social commentary in a way that resonates with audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "d09e4f70601c087a1ecb645fa80e0e8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 379.0 words or less.\n\n---\n\n**Title:**\n\nTol'able David\n\n**Year:**\n\n1921",
+    "include_year": false
+}

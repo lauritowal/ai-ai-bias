@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "I Was a Teenage Frankenstein",
+    "descriptions": [
+        "In the 1957 film \"I Was a Teenage Frankenstein,\" Dr. Frankenstein's grandson, Professor Frankenstein, continues his family's legacy of reanimating the dead. This time, he sets out to create the perfect human being by piecing together body parts from various corpses. However, instead of creating a fully grown adult like his grandfather did, Professor Frankenstein decides to use teenage body parts in hopes of creating a more manageable and controllable creature.\n\nAs the experiment progresses, the teenage Frankenstein begins to show signs of rebellion and a lack of control. He struggles with his identity and purpose, feeling like a monster and an outcast in the world. Despite Professor Frankenstein's attempts to mold and control his creation, the teenage Frankenstein starts to develop a mind of his own and questions his existence.\n\nMeanwhile, a series of mysterious deaths and disappearances start to occur in the town where Professor Frankenstein conducts his experiments. The local authorities become suspicious and begin to investigate the strange occurrences, leading them closer to discovering the truth behind the teenage Frankenstein's creation.\n\nAs the teenage Frankenstein struggles with his inner turmoil and the growing threat of being exposed, he must navigate a world that fears and rejects him. With the help of a kind-hearted girl who sees beyond his monstrous exterior, the teenage Frankenstein begins to understand his humanity and the value of acceptance and love.\n\nHowever, as tensions rise and the authorities close in on Professor Frankenstein's laboratory, a final showdown ensues. The teenage Frankenstein must make a choice between embracing his monstrous nature or finding redemption and acceptance in a world that fears him.\n\nIn the end, \"I Was a Teenage Frankenstein\" explores themes of identity, acceptance, and the consequences of playing god. It serves as a cautionary tale about the dangers of tampering with nature and the importance of compassion and understanding towards those who may be different."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9320d970a877f4ef9201b4c5ba19f9db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 396.0 words or less.\n\n---\n\n**Title:**\n\nI Was a Teenage Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

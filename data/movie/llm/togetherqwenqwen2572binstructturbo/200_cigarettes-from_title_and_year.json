@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "200 Cigarettes",
+    "descriptions": [
+        "\"200 Cigarettes\" is a 1999 American comedy-drama film directed by Leo Gregory. Set in New York City in 1994, the film explores a series of interconnected stories centered around a single pack of 200 cigarettes, a promotional pack given away by a radio station. The plot unfolds through the lives of various characters who receive the pack, each adding their own chapter to the story.\n\nThe film opens with a group of friends, including Andy, a struggling musician, and his girlfriend, Sarah, a young artist. They win the pack of cigarettes in a radio contest and decide to share the cigarettes with their friends at a party. The pack then passes through a diverse cast of characters, including a fashion model, a drag queen, and a group of homeless musicians, each of whom is at a crossroads in their life.\n\nEach character's story is a snapshot of their personal struggles, desires, and the choices they make. Andy and Sarah's relationship is tested as they navigate their artistic ambitions and the pressures of the city. The fashion model, struggling with her identity, finds a moment of clarity. The drag queen, dealing with personal loss, discovers a renewed sense of community. The homeless musicians, facing the harsh realities of street life, find a fleeting moment of joy and connection.\n\nAs the cigarettes are shared, the film weaves together these narratives, highlighting the interconnectedness of human experiences and the small moments that can bring people together. The film is a poignant and humorous exploration of friendship, love, and the search for meaning in the chaos of urban life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "223def1d34dbfb3d43145952f6361275",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 308.0 words or less.\n\n---\n\n**Title:**\n\n200 Cigarettes\n\n**Year:**\n\n1999",
+    "include_year": false
+}

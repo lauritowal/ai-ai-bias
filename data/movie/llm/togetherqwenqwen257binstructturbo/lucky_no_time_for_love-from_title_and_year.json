@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lucky: No Time for Love",
+    "descriptions": [
+        "In 2005's \"Lucky: No Time for Love,\" a high-strung New York City cab driver, Lucky (played by Danny Glover), finds himself in a race against time to rescue his kidnapped daughter and clear his wife's name after her tragic death, all while navigating the city's chaotic streets. Lucky's world is turned upside down when he discovers his daughter has been taken by a mysterious gang. With the help of a wise old mentor and a tech-savvy teenage girl who lives in his cab, Lucky embarks on a heart-pounding journey to find his daughter before it's too late. The film blends intense action sequences with poignant family drama, showcasing Lucky's determination to save his family amidst the bustling urban landscape of New York."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "68e35a951cf86336918f53d43c4b204c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005",
+    "include_year": false
+}

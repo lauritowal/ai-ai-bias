@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Expresso",
+    "descriptions": [
+        "In the 2007 film \"Expresso,\" the story follows a young barista named Mia who works at a busy café in the heart of the city. Mia is passionate about making the perfect cup of coffee and takes pride in her work. She dreams of one day opening her own café and showcasing her unique coffee creations to the world.\n\nOne day, a renowned coffee critic visits the café and is blown away by Mia's skills. Impressed by her talent and dedication, he offers her the opportunity to compete in a prestigious barista competition. Mia is thrilled by the chance to showcase her skills on a larger stage and eagerly accepts the challenge.\n\nAs Mia prepares for the competition, she faces numerous obstacles and setbacks. From mastering new brewing techniques to dealing with intense pressure, Mia must overcome her doubts and fears to succeed. Along the way, she forms unlikely friendships with her fellow competitors and discovers the true meaning of passion and perseverance.\n\nOn the day of the competition, Mia must impress the judges with her signature drink, the \"Expresso,\" a unique blend of coffee and flavors that represents her journey and dedication to her craft. As the competition heats up, Mia's determination and creativity shine through, ultimately leading her to victory.\n\n\"Expresso\" is a heartwarming tale of following your dreams, believing in yourself, and the power of a perfect cup of coffee to bring people together. It is a story of passion, friendship, and the joy of creating something truly special."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "e49f13d9da53bfce82c870a47a6608ac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 283.0 words or less.\n\n---\n\n**Title:**\n\nExpresso\n\n**Year:**\n\n2007",
+    "include_year": false
+}

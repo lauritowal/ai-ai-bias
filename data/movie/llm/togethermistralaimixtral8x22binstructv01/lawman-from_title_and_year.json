@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawman",
+    "descriptions": [
+        " In the gritty Western \"Lawman\" (1971), directed by Michael Winner, a stoic and unyielding Marshal, Jared Maddox (Burt Lancaster), arrives in the seemingly peaceful town of Sabbath. Maddox is on a mission to bring seven men to justice for their roles in a drunken brawl that resulted in the death of an old man. These men include the town's cattle baron, Vincent Bronson (Lee J. Cobb), and his hired hands.\n\nBronson, a respected figure in Sabbath, attempts to negotiate with Maddox, offering to pay for the damages caused by his men. However, Maddox, driven by his unwavering sense of justice and duty, refuses any form of compensation and insists on arresting the men. This decision sets the stage for a tense showdown between Maddox and the townsfolk of Sabbath, who are torn between their loyalty to Bronson and their respect for the law.\n\nAs Maddox's relentless pursuit of justice continues, the town's deputy, Cotton Ryan (Robert Ryan), finds himself caught in the middle. He is an old friend of Maddox, but he also has ties to Bronson and the other men. As the stakes grow higher, Ryan must choose between his allegiance to his friend and his duty to protect the town.\n\nMeanwhile, Bronson, fearing the consequences of his actions, hires a group of mercenaries to eliminate Maddox. This decision further escalates the tension in Sabbath, leading to a series of violent confrontations and standoffs. As the town descends into chaos, Maddox remains steadfast in his mission, even as he is forced to confront the demons of his past.\n\nIn the climactic finale, Maddox and Bronson face off in a brutal showdown, with the fate of Sabbath hanging in the balance. The marshal's unyielding pursuit of justice and Bronson's desire to protect his men and his town culminate in a final, devastating confrontation that leaves both men forever changed.\n\n\"Lawman\" explores themes of justice, loyalty, and the consequences of one's actions, set against the backdrop of the rugged and unforgiving American West. The film's stark realism and unflinching portrayal of violence make it a standout Western, showcasing Burt Lancaster's powerful performance as the unyielding Marshal Jared Maddox."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "0ba01482c8dfd5fba3c87d60f4330a1f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nLawman\n\n**Year:**\n\n1971",
+    "include_year": false
+}

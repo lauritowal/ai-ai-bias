@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Angaaray",
+    "descriptions": [
+        "Angaaray is a 1986 Indian drama film that follows the story of three friends - Kalidas, Ravi, and Vijay. The three of them grow up together in poverty but have big dreams of making it big someday. Their friendship is tested when they all fall in love with the same woman, Sunita, who is kind and caring but also ambitious. As the rivalry between the friends grows, they all end up taking different paths in life.\n\nKalidas becomes a successful businessman, using his intelligence and hard work to climb the social ladder. Ravi, on the other hand, gets involved in criminal activities to make quick money, leading to a downward spiral in his life. Vijay becomes a police officer, determined to bring justice to society and make a positive impact.\n\nAs their lives intersect over the years, the friends find themselves facing various challenges and conflicts that put their friendship to the test. Sunita, torn between her feelings for each of them, struggles to maintain peace and harmony among the three men.\n\nThe film delves into themes of friendship, love, loyalty, and betrayal, showcasing how circumstances and choices can shape the course of one's life. As the characters navigate through their individual struggles and dilemmas, they are forced to confront their own values and priorities, ultimately leading to a powerful climax that reveals the true nature of their relationships.\n\nAngaaray is a gripping tale of ambition, jealousy, and redemption, portraying the complexities of human emotions and the consequences of one's actions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "23099c93cbbc3279840e0011027600bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 300.0 words or less.\n\n---\n\n**Title:**\n\nAngaaray\n\n**Year:**\n\n1986",
+    "include_year": false
+}

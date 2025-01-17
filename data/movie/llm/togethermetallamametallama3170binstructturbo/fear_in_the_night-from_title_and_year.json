@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Fear in the Night",
+    "descriptions": [
+        "'Fear in the Night' is a 1947 American film noir directed by Maxwell Shane. The movie follows the story of Vince Grayson (played by Paul Kelly), a bank cashier, who is suffering from amnesia after a bank robbery in which his brother-in-law was murdered. Grayson becomes the prime suspect, but he has no recollection of the events due to the amnesia.\n\nAs Grayson tries to piece together the events of the night, he enlists the help of his psychiatrist, Dr. Grey (played by Kay Scott). With the doctor's assistance, Grayson starts to recover his memories through a process of hypnosis and attempted reconstruction of the crime scene.\n\nAs the investigation unfolds and Grayson's memories return, they begin to reveal a different version of the events, pointing to an alternative suspect. The film delves into the complex psychological dynamics of trauma, memory, and the blurred lines between reality and fantasy. Through the narrative, the movie keeps viewers guessing until the very end, when the truth is finally revealed."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5adaaea8a2cdc41dbd1dc4a0295bdbeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nFear in the Night\n\n**Year:**\n\n1947",
+    "include_year": false
+}

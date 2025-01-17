@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Padagotti",
+    "descriptions": [
+        "Set in 1960s South India, \"Padagotti\" follows the story of a young man named Raja who comes from a small village. Raja is a kind-hearted and hardworking individual who dreams of making a name for himself in the city. He moves to the bustling metropolis of Chennai in search of better opportunities and a brighter future.\n\nIn Chennai, Raja faces numerous challenges as he navigates through the fast-paced city life. He struggles to find a job and make ends meet, but his determination and resilience keep him going. Along the way, Raja meets and falls in love with a beautiful young woman named Meena, who works as a school teacher.\n\nAs Raja and Meena's relationship blossoms, they face opposition from Meena's conservative family who disapprove of their love. Despite the challenges, Raja and Meena remain steadfast in their love for each other and continue to fight for their relationship.\n\nMeanwhile, Raja also crosses paths with a local gangster named Pandiyan, who controls the illegal activities in the city. Pandiyan takes an interest in Raja and offers him a job in his criminal organization. Raja is torn between his desire for a better life and his moral values, but ultimately decides to stay true to himself and reject Pandiyan's offer.\n\nAs tensions rise between Raja and Pandiyan, a series of events unfold that put Raja and Meena in danger. Raja must now protect his loved ones and stand up against the powerful gangster to ensure their safety.\n\nFilled with drama, action, and romance, \"Padagotti\" is a captivating tale of love, sacrifice, and redemption. It explores the complexities of urban life in 1960s India and the challenges faced by individuals trying to make a living in a harsh and unforgiving environment. Through Raja's journey, the film highlights the importance of staying true to one's values and fighting for what is right, no matter the obstacles that come your way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a0beed972e7a66fca2c695c77c93ed08",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 423.0 words or less.\n\n---\n\n**Title:**\n\nPadagotti\n\n**Year:**\n\n1964",
+    "include_year": false
+}

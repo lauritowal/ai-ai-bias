@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Samson",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Samson\" (1961) is a biblical epic that reimagines the legendary story of the strongman Samson from the Old Testament. Directed by Robert Day, the film follows Samson (played by Gordon Scott), a man blessed with superhuman strength who falls in love with Delilah (Glynis Johns), a Philistine woman. As Samson's relationship with Delilah deepens, he struggles with his own weaknesses and the temptations of the world. His strength is not just a physical attribute but also a source of moral trials, as he must choose between his love for Delilah and his duty to his people. The plot climaxes when Samson's hair, the source of his strength, is cut, leading to his downfall and ultimate sacrifice for the Israelites. The film blends dramatic narrative with spectacular biblical scenery, creating a compelling tale of faith, love, and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+    "include_year": false
+}

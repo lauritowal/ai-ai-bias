@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Less Than Zero",
+    "descriptions": [
+        "\"Less Than Zero\" is a 1987 American drama film directed by Marek Kanievska. The movie takes place in Los Angeles and revolves around the life of Julian (played by Andrew McCarthy), a young college student struggling to cope with the loss of his best friend, Bentley (played by Robert Downey Jr.).\n\nJulian is forced to return home from college after his parents discover the extent of his friend's addiction and their involvement in his destructive behavior. Upon his return, Julian reconnects with his old friend Clay (played by Jami Gertz), who tries to get him back into the party scene.\n\nHowever, Julian soon discovers that Clay's involvement in the party lifestyle is deeply connected to Bentley's tragic fate. The film explores themes of addiction, loss, and the struggle to find one's identity in a morally corrupt and decadent society.\n\nThrough its gritty portrayal of 1980s excess, \"Less Than Zero\" provides a poignant commentary on the devastating consequences of substance abuse and the fleeting nature of youth culture. The film features powerful performances from its cast, particularly Robert Downey Jr. in one of his early leading roles."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "d260d34976214898d44d1d95eba9dc69",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 260.0 words or less.\n\n---\n\n**Title:**\n\nLess Than Zero\n\n**Year:**\n\n1987",
+    "include_year": false
+}

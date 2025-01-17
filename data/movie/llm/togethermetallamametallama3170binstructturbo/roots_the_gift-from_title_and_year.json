@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Roots: The Gift",
+    "descriptions": [
+        "I'm missing the year for the movie 'Roots: The Gift'. However, I found that 'Roots: The Gift' is a 1988 television film. \n\n'Roots: The Gift' is a Christmas television movie that takes place during the 1770s. The story revolves around Kunta Kinte's grandson, Kizzy, who helps a slave escape to freedom during Christmas time. This decision puts the entire plantation at risk. The film features LeVar Burton reprising his role as Kunta Kinte from the original 'Roots' miniseries."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d82e0dd9780746987a76ff05d44b0586",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n",
+    "include_year": false
+}

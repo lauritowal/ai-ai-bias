@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Devil's Diary",
+    "descriptions": [
+        "In the movie \"Devil's Diary\" (2007), two teenage girls, Dominique and Maya, find a mysterious diary belonging to a girl named Lisa who died by suicide. As they read the diary, they discover that Lisa had made a pact with the devil in exchange for revenge on those who had wronged her. \n\nDominique and Maya become increasingly obsessed with the diary and its dark contents, and soon they start experiencing strange occurrences and witnessing supernatural events. They realize that they have unwittingly unleashed a powerful evil force that is now haunting them.\n\nAs they delve deeper into the diary and its secrets, Dominique and Maya uncover a sinister plot that threatens not only their own lives but the lives of those around them. They must race against time to break the devil's hold on them and find a way to stop the evil before it consumes them completely.\n\nThroughout their journey, Dominique and Maya must confront their own inner demons and face the consequences of their actions. They learn the importance of forgiveness, redemption, and the power of friendship in overcoming even the darkest of forces.\n\nIn the end, Dominique and Maya must make a choice - to succumb to the devil's temptations or to find the strength within themselves to fight back and reclaim their lives. The movie culminates in a thrilling and suspenseful climax where the girls must confront the devil himself and make the ultimate sacrifice to save themselves and those they love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "e0949543564dd5f487d81d6d9cda282b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 2867.0 words or less.\n\n---\n\n**Title:**\n\nDevil's Diary\n\n**Year:**\n\n2007",
+    "include_year": false
+}

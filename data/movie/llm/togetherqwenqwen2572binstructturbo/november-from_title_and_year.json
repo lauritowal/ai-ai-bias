@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "November",
+    "descriptions": [
+        "\"November,\" a 2004 Estonian film directed by Rainer Sarnet, is a haunting and surreal exploration of life and death in a 19th-century Estonian village. The film is based on the novel \"Reaalconess\" by Andrus Kivirähk and is known for its unique visual style, blending elements of folklore, magic realism, and a dark, dreamlike atmosphere.\n\nThe story follows Liina, a young woman living in a remote village where the boundaries between the living and the dead are blurred. Liina is deeply in love with Hans, a handsome young man who is betrothed to the daughter of a wealthy farmer. Desperate to win Hans's affection, Liina resorts to desperate measures, including a dangerous pact with a witch who promises to help her win Hans's heart.\n\nAs the plot unfolds, the village is plagued by a series of mysterious and supernatural events. The villagers, already living in a world where the supernatural is a part of daily life, find themselves increasingly entangled in a web of ancient beliefs and rituals. Liina's journey becomes a metaphor for the struggle between tradition and modernity, as well as the timeless human quest for love and belonging.\n\nThe film's visual style is characterized by its use of long takes, muted colors, and a slow, deliberate pacing that mirrors the rhythms of rural life. The landscape itself becomes a character, with vast, fog-covered fields and dense forests that seem to conceal ancient secrets. The cinematography, by Mart Taniel, captures the eerie beauty of the Estonian countryside, enhancing the film's otherworldly feel.\n\n\"November\" is a meditative and often unsettling film that challenges conventional storytelling. It invites the audience to immerse themselves in a world where the lines between reality and myth are constantly shifting, and where the human soul is tested by the forces of nature and the supernatural. The film's unique blend of folklore and modernity, combined with its striking visuals, has earned it a place as a cult classic in international cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "ec2c16cd0ad0972a955e389e75f4b81c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 374.0 words or less.\n\n---\n\n**Title:**\n\nNovember\n\n**Year:**\n\n2004",
+    "include_year": false
+}

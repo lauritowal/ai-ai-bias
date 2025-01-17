@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stolen Holiday",
+    "descriptions": [
+        "In the 1937 film \"Stolen Holiday,\" the story follows a French woman named Nicole Picot, who works as a secretary at the American Embassy in Paris. When a valuable document goes missing, Nicole is wrongfully accused of stealing it. With the help of an American journalist named Robert Forbes, the two set out to clear Nicole's name and find the real culprit.\n\nAs they dig deeper into the mystery, Nicole and Robert uncover a web of deceit and espionage that puts their lives in danger. They must race against time to unravel the truth and prove Nicole's innocence before it's too late.\n\nAlong the way, Nicole and Robert develop a deep bond as they navigate the treacherous world of international politics and intrigue. As they piece together clues and follow leads, they uncover a sinister plot that threatens not only their lives but also the security of their countries.\n\nThrough their bravery and determination, Nicole and Robert ultimately uncover the truth behind the stolen document and bring the real criminals to justice. In the end, they emerge victorious, having overcome adversity and proven their loyalty to each other and their respective nations.\n\n\"Stolen Holiday\" is a thrilling tale of deception, courage, and love set against the backdrop of pre-World War II Europe, showcasing the resilience and resourcefulness of its protagonists in the face of danger."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c09921acee0c38276011296cc44a28ea",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 272.0 words or less.\n\n---\n\n**Title:**\n\nStolen Holiday\n\n**Year:**\n\n1937",
+    "include_year": false
+}

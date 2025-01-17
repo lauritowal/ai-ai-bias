@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Once Upon a Time in China II",
+    "descriptions": [
+        "**Plot Summary of Once Upon a Time in China II (1992):**\n\nSet in 18th century China, \"Once Upon a Time in China II\" continues the saga of the legendary martial artist and folk hero, Wong Fei-Hung, played by Jet Li. In this sequel, Wong reconciles with his estranged father, Wong Yat, who has returned to China after years of absence. Wong Yat reveals that he has been training a new generation of martial artists under the pseudonym \"Shaolin Immortal,\" aimed at countering the growing threat posed by the corrupt Qing government and evil warlords.\n\nWong Fei-Hung faces numerous challenges, including a vendetta against the ruthless and powerful Green Dragon Clan, who seek revenge for past defeats. The story also delves into the political intrigue of the time, with Wong leveraging his reputation and martial skills to protect innocent villagers and uphold justice. \n\nThroughout the film, Wong's disciples, led by his adopted son, Xiao Fa, prove their worth, engaging in various martial arts contests and confrontations. A pivotal moment in the film occurs when Wong and his allies face off against the Green Dragon Clan in a climactic battle at the Dragon Gate, where their skills, loyalty, and determination are tested to the limit.\n\n\"Once Upon a Time in China II\" is a blend of historical drama, martial arts action, and family values, emphasizing the importance of perseverance, honor, and the legacy of martial arts in Chinese culture. Jet Li's portrayal of Wong Fei-Hung is both powerful and nuanced, capturing the character's transformation from a respected martial artist to a leader ready to face formidable odds."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "fe654dd8c1082b175d665ddc9a41f1b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 467.0 words or less.\n\n---\n\n**Title:**\n\nOnce Upon a Time in China II\n\n**Year:**\n\n1992",
+    "include_year": false
+}

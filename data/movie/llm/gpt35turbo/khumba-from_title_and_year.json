@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Khumba",
+    "descriptions": [
+        "In the animated film \"Khumba\" (2013), we follow the story of a young zebra named Khumba who is born with only half of his stripes. This makes him an outcast in his herd and he is blamed for the drought that plagues the land. Determined to find the legendary waterhole that is rumored to have the power to bring rain, Khumba sets off on a journey to discover his true stripes and save his home.\n\nDuring his journey, Khumba encounters various colorful characters including a sassy ostrich and a quirky wildebeest who join him on his quest. Together, they face various challenges and obstacles, including a menacing leopard and a group of superstitious meerkats.\n\nAs Khumba gets closer to the waterhole, he begins to learn more about himself and the importance of embracing his differences. Along the way, he discovers that true strength comes from within and that he doesn't need to conform to society's expectations to be accepted.\n\nIn the end, Khumba must confront his fears and stand up to those who doubt him in order to bring rain back to the land and prove his worth to his herd. Through his journey, Khumba learns the value of friendship, perseverance, and self-acceptance, ultimately finding his place in the world and showing that being different is not a weakness, but a strength.\n\n\"Khumba\" is a heartwarming tale of self-discovery and acceptance that will inspire audiences of all ages to embrace their uniqueness and follow their own path, no matter how unconventional it may seem."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "ff47d5bb7ce7a87937dbd0529a81be8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 303.0 words or less.\n\n---\n\n**Title:**\n\nKhumba\n\n**Year:**\n\n2013",
+    "include_year": false
+}

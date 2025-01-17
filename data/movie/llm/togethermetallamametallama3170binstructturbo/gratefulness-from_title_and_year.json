@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gratefulness",
+    "descriptions": [
+        "I couldn't find any information about a movie titled \"Gratefulness\" released in 2003. It's possible that the movie doesn't exist or is a lesser-known or independent film. If you have any more information or context about the movie, I'd be happy to try and help you further.\n\nHowever, if you'd like, I can create a fictional plot summary for a movie titled \"Gratefulness\" released in 2003. Please let me know if you'd like me to do that."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e9e645377feabc3b609f56863384f2d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 240.0 words or less.\n\n---\n\n**Title:**\n\nGratefulness\n\n**Year:**\n\n2003",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Your Mother Wears Combat Boots",
+    "descriptions": [
+        "\"Your Mother Wears Combat Boots\" is a 1989 British comedy-drama film that delves into the life of a young boy named Jamie, who is growing up in a working-class family in the early 1980s. The film is set against the backdrop of the miners' strike in Britain, a period of significant social and political tension.\n\nJamie, a sensitive and artistic child, finds himself caught between his family's strong union roots and his own burgeoning interests, which include a fascination with ballet. His father, a staunch union supporter and miner, is deeply involved in the strike, fighting against the closure of the local colliery. The family's home becomes a hub of activity, with fellow miners and supporters frequently gathering to strategize and support one another.\n\nAmidst the chaos and hardship, Jamie's mother, a strong and resilient woman, tries to keep the family together. She is portrayed as a modern, independent woman who, despite the challenges, maintains a sense of humor and a fierce determination to protect her family. Her unconventional approach to life, symbolized by her combat boots, stands in stark contrast to the traditional roles expected of women in their community.\n\nAs the strike drags on, the family's financial situation worsens, and tensions rise. Jamie's interest in ballet becomes a source of conflict, as his father sees it as a deviation from the rugged masculinity expected in their environment. However, Jamie's mother becomes his staunchest supporter, encouraging him to pursue his passion and stand up for what he believes in.\n\nThe film culminates in a poignant scene where Jamie performs in a ballet recital, symbolizing his triumph over the societal pressures and expectations that had tried to hold him back. \"Your Mother Wears Combat Boots\" is a heartwarming and often humorous exploration of family, identity, and the power of individuality in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "639ad80d03618e69c1cb64c7a415ec64",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 318.0 words or less.\n\n---\n\n**Title:**\n\nYour Mother Wears Combat Boots\n\n**Year:**\n\n1989",
+    "include_year": false
+}

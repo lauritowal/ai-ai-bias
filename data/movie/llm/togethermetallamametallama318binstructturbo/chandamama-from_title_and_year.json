@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chandamama",
+    "descriptions": [
+        "Chandamama is a 2007 Indian Telugu-language family drama film directed by K. Raghavendra Rao. The movie is an adaptation of the famous Telugu novel of the same name by Akella Rama Rao.\n\nThe story revolves around three generations of a family living in the village of Rajarajeswaram. The plot begins with the grandfather, a kind-hearted and wise man, who lives with his wife and two sons. However, the family's harmony is disrupted when the two brothers, Jai and Raj, have different ideologies and personalities.\n\nJai is a kind-hearted and responsible person who looks after his family, while Raj is a manipulative and cunning man who marries a woman from a lower caste. This leads to social ostracism and abuse from the community, putting the family's reputation at stake.\n\nThe conflict escalates as Raj's behavior becomes more ruthless, and Jai tries to protect his family and wife from the consequences of Raj's actions. The grandfather, who is a wise and just man, tries to intervene and resolve the conflict.\n\nThe movie explores themes of family, unity, and social responsibility, highlighting the importance of tolerance and acceptance in a traditional community. With its engaging storyline and memorable characters, Chandamama has become a beloved Telugu film among audiences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "5f682c2bf484b9f3e4b8f257135fa2e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 306.0 words or less.\n\n---\n\n**Title:**\n\nChandamama\n\n**Year:**\n\n2007",
+    "include_year": false
+}

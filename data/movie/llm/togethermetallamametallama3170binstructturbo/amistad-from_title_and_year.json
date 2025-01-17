@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Amistad",
+    "descriptions": [
+        "'Amistad' is a historical drama film directed by Steven Spielberg. The movie is based on the true story of a slave uprising that took place on a Spanish schooner called La Amistad in 1839.\n\nThe film begins with a violent mutiny on La Amistad, where African slaves, led by a man named Cinqué (played by Djimon Hounsou), overpower their Spanish captors and take control of the ship. They demand to be taken back to Africa, but the crew tricks them and navigates the ship to the United States.\n\nUpon arrival in the United States, the Africans are arrested and put on trial for murder and piracy. The case gains national attention and attracts the involvement of former President John Quincy Adams (played by Anthony Hopkins), who agrees to represent the Africans in court.\n\nAs the trial progresses, the story unfolds through the testimonies of key characters, including Cinqué and a young abolitionist lawyer named Theodore Joadson (played by Morgan Freeman). Through their accounts, the film reveals the brutal treatment the Africans endured during their capture and transportation to the United States.\n\nThe trial ultimately reaches the Supreme Court, where Adams delivers a powerful speech arguing for the Africans' right to freedom, citing the principles of the American Declaration of Independence. In a landmark decision, the court rules in favor of the Africans, declaring them free men.\n\nThe film ends with Cinqué and many of his fellow Africans returning to their homeland, while others choose to remain in the United States. The movie concludes on a hopeful note, highlighting the importance of fighting for justice and human rights."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3cc2c11945d2c11e74232b7f3790a071",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1717.0 words or less.\n\n---\n\n**Title:**\n\nAmistad\n\n**Year:**\n\n1997",
+    "include_year": false
+}

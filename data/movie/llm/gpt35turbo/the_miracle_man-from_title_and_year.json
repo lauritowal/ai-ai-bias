@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Miracle Man",
+    "descriptions": [
+        "In the 1919 film \"The Miracle Man,\" the story follows a charismatic con artist named Paul who pretends to be a cripple to scam unsuspecting people out of their money. Along with his partner in crime, they travel from town to town, preying on the kindness and sympathy of strangers. However, their scheme takes an unexpected turn when Paul begins to genuinely believe in his own fake abilities to heal the sick.\n\nAs word spreads of Paul's supposed miracle-working powers, more and more people come to seek his help. Among them is a young woman named Mary who is desperate to find a cure for her terminally ill sister. With the pressure mounting and his own doubts growing, Paul must decide whether to continue the charade or come clean about his deception.\n\nThroughout the film, themes of redemption, faith, and the power of belief are explored as Paul grapples with his own moral compass. As he forms a genuine connection with Mary and her sister, Paul begins to question his own actions and the impact they have had on those around him.\n\nIn a climactic moment, Paul is faced with a choice that will ultimately define his character and determine the course of his future. Will he continue to deceive others for personal gain, or will he finally embrace the truth and seek redemption for his past misdeeds?\n\n\"The Miracle Man\" is a thought-provoking and emotional tale that challenges the audience to consider the consequences of their actions and the true meaning of faith and forgiveness."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "b59190dc96728848f2a5bf9c0b6ad920",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 316.0 words or less.\n\n---\n\n**Title:**\n\nThe Miracle Man\n\n**Year:**\n\n1919",
+    "include_year": false
+}

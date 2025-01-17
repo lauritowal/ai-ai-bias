@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rokkk",
+    "descriptions": [
+        "In the movie \"Rokkk\" from 2010, the story revolves around a young couple named Shubh and Swati who decide to spend a few days in a remote hill station. However, their peaceful getaway turns into a nightmare when they encounter supernatural occurrences in the old, abandoned house they are staying in.\n\nAs they try to unravel the mystery behind the strange happenings, they discover the dark history of the house and the tragic events that took place there years ago. The couple soon realizes that they are not alone in the house, as they begin to experience terrifying visions and encounters with malevolent spirits.\n\nAs the haunting intensifies, Shubh and Swati find themselves trapped in a dangerous game of survival, where they must confront their deepest fears and uncover the truth behind the supernatural presence in the house. With the help of a local priest and a paranormal investigator, they race against time to break the curse that has plagued the house and find a way to escape before it's too late.\n\nAs they delve deeper into the mystery, they uncover a dark secret that connects them to the spirits haunting the house, leading to a shocking revelation that changes everything they thought they knew. In a chilling climax, Shubh and Swati must confront the evil forces that threaten to consume them and find a way to escape the house before it claims their souls.\n\n\"Rokkk\" is a gripping supernatural thriller that keeps viewers on the edge of their seats with its eerie atmosphere, suspenseful plot, and unexpected twists. It explores themes of guilt, redemption, and the power of love in the face of darkness, making it a haunting and unforgettable cinematic experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "03e26709601c0002054b2ef0a6189ec9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 323.0 words or less.\n\n---\n\n**Title:**\n\nRokkk\n\n**Year:**\n\n2010",
+    "include_year": false
+}

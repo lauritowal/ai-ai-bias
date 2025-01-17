@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Azhagi",
+    "descriptions": [
+        "Azhagi is a 2002 Indian Tamil-language romance film written and directed by Thangar Bachan. The movie tells the story of Parthiban (played by Parthiban), a poor villager who falls in love with a beautiful girl named Azhagi (played by Nandita Das). Azhagi is from a wealthy family, and their social differences make their love impossible.\n\nDespite the odds, Parthiban and Azhagi continue to see each other in secret. However, their love is soon discovered by Azhagi's family, who strongly disapprove of their relationship. Azhagi's family tries to keep the lovers apart, but they find ways to be with each other.\n\nAs the story unfolds, it is revealed that Parthiban's love for Azhagi is not just a passing infatuation but a deep and abiding passion. He is willing to risk everything to be with her, even if it means facing opposition from her family and his own community.\n\nMeanwhile, a series of events forces Azhagi to re-evaluate her priorities and realize the true value of love. She must decide between her family's expectations and her own desires. Will she choose to follow her heart and be with Parthiban, or will she conform to societal norms and marry someone of her family's choice?\n\nThe movie explores themes of love, social class, and the struggle for individual freedom. Through the characters of Parthiban and Azhagi, the film shows that true love can conquer even the most daunting obstacles. The movie features stunning cinematography, memorable performances, and a poignant storyline that will leave viewers moved and inspired."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3ff1ae95bab7b9f051e07505e41f04af",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nAzhagi\n\n**Year:**\n\n2002",
+    "include_year": false
+}

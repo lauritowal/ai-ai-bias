@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Vulture",
+    "descriptions": [
+        " In the gripping 1937 crime drama \"The Vulture,\" the story revolves around the enigmatic and cunning master criminal known only as \"The Vulture.\" This elusive figure has evaded the police for years, leaving no trace behind except for a calling card featuring a vulture. The film opens with the notorious criminal executing a daring heist, further solidifying his reputation and leaving the authorities in a state of desperation.\n\nEnter Detective John Hayes, a hard-boiled and determined police officer who has made it his life's mission to bring The Vulture to justice. Hayes becomes obsessed with unmasking the criminal, embarking on a dangerous journey that takes him deep into the criminal underworld. Along the way, he encounters a cast of colorful characters, including informants, rival gangsters, and even a femme fatale who complicates his investigation.\n\nAs the cat-and-mouse game between Hayes and The Vulture intensifies, the detective begins to unravel the criminal's true identity and motives. The Vulture, however, proves to be a formidable adversary, always staying one step ahead of the law. The film reaches its thrilling climax when Hayes finally confronts The Vulture in a high-stakes showdown, putting his own life on the line in a desperate attempt to bring the criminal to justice.\n\n\"The Vulture\" is a tense and atmospheric crime drama, filled with suspense, intrigue, and unexpected twists. It showcases the classic struggle between good and evil, as well as the obsessive nature of a dedicated detective who will stop at nothing to bring a criminal to justice."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "3f2ad087bb1cac376822658c08cbe5e7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 232.0 words or less.\n\n---\n\n**Title:**\n\nThe Vulture\n\n**Year:**\n\n1937",
+    "include_year": false
+}

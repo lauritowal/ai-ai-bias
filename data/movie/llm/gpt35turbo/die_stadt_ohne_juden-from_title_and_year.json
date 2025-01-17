@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Die Stadt ohne Juden",
+    "descriptions": [
+        "In the film \"Die Stadt ohne Juden\" (The City Without Jews) from 1924, the story is set in a fictional city where a rise in antisemitism leads to the expulsion of all Jewish residents. The city council, under pressure from a nationalist movement, decides to enforce a new law that requires all Jewish people to leave the city. \n\nAs a result, chaos ensues as Jewish families are forced to leave their homes, businesses, and lives behind. The protagonist, a Jewish man named Leo, struggles to come to terms with the discrimination and hatred that has suddenly targeted him and his community. He tries to find ways to resist the expulsion and fight for justice, but the situation becomes increasingly dire as the city descends into further violence and intolerance.\n\nLeo's girlfriend, Elsa, who is not Jewish, stands by his side and tries to help him navigate the difficult circumstances. Together, they witness the devastating effects of the antisemitic policies on their friends and neighbors. The couple is faced with difficult decisions as they navigate the dangerous political climate and try to find a way to stay together despite the growing hostility towards Jews in the city.\n\nAs tensions reach a boiling point, Leo and Elsa realize that they must flee the city to escape the violence and persecution. They embark on a dangerous journey to find a new home where they can live without fear of discrimination. Along the way, they encounter other Jewish refugees who share their struggles and hopes for a better future.\n\nThe film serves as a powerful commentary on the dangers of antisemitism and the consequences of allowing hatred to dictate political decisions. It highlights the importance of standing up against discrimination and fighting for the rights of marginalized communities. Despite the bleak and heartbreaking events that unfold, the film also offers a message of hope and resilience as the characters strive to rebuild their lives in the face of adversity.\n\n\"Die Stadt ohne Juden\" is a poignant and thought-provoking film that resonates with audiences to this day, reminding us of the importance of unity, compassion, and acceptance in the face of bigotry and prejudice."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "b97e512b6eb31aafc07c91b723eb38e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 441.0 words or less.\n\n---\n\n**Title:**\n\nDie Stadt ohne Juden\n\n**Year:**\n\n1924",
+    "include_year": false
+}

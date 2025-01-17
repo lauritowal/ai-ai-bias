@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bad Blood",
+    "descriptions": [
+        "Bad Blood is a 2010 American drama film directed by David Milchard. The movie revolves around a young man named Tony (played by David Milchard), who returns to his hometown in Alberta, Canada, after serving time in prison. Upon his release, Tony tries to reconnect with his family, particularly his mother and his brother, Jared.\n\nHowever, the dynamics between the family members are strained, and tensions are high. Jared is now married and has a son, causing resentment in Tony. As Tony tries to fit back into his family's life, old conflicts and wounds resurface, leading to a deepening of the family's emotional turmoil.\n\nThrough a series of flashbacks, the film explores the events that led to Tony's imprisonment and the strained relationships within the family. The movie also touches on themes of redemption, forgiveness, and the complexities of family relationships.\n\nThe film's title, \"Bad Blood,\" refers to the deep-seated anger and resentment that exists between the family members. As the story unfolds, the characters are forced to confront their past mistakes and work towards healing and reconciliation.\n\nOverall, Bad Blood is a poignant and thought-provoking drama that examines the complexities of family dynamics and the power of forgiveness. The film features strong performances from the cast, particularly David Milchard in the lead role."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "fad8e49af36a1e504874a347d99bf4b4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nBad Blood\n\n**Year:**\n\n2010",
+    "include_year": false
+}

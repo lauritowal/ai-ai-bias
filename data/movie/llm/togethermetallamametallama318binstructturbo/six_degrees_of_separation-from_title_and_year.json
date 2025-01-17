@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Six Degrees of Separation",
+    "descriptions": [
+        "'Six Degrees of Separation' is a 1993 American comedy-drama film based on a 1990 play by John Guare. The story revolves around Ouisa Kittredge (played by Stockard Channing) and her husband, Flan (played by Donald Sutherland), a wealthy couple living in New York City.\n\nTheir lives are turned upside down when they are visited by a young man named Paul Poitier (played by Will Smith), who claims to be the son of actor Sidney Poitier. Paul's charismatic personality and impressive knowledge of art and culture immediately win over the Kittredges, who invite him to dinner with their friends, the Stockmans (played by Ian McKellen and Kristin Scott Thomas).\n\nAs the evening unfolds, Paul's true identity is called into question, and the Kittredges begin to suspect that he is an imposter. However, Paul's charm and wit continue to fascinate them, leaving them unsure of what to believe. The film explores themes of identity, class, and social status, raising questions about the connections between people and the nature of truth. Ultimately, the Kittredges are forced to confront their own biases and assumptions, leading to a deeper understanding of themselves and the world around them."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+    "include_year": false
+}

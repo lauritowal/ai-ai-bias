@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Merry Old Soul",
+    "descriptions": [
+        "I couldn't find information on a movie titled \"The Merry Old Soul\" released in 1933. It is possible that it's a lesser-known or lost film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a8243cc5afd5a2cdfaffd22052e03653",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 299.0 words or less.\n\n---\n\n**Title:**\n\nThe Merry Old Soul\n\n**Year:**\n\n1933",
+    "include_year": false
+}

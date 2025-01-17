@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Streets of Fire",
+    "descriptions": [
+        "Streets of Fire is a 1984 American science fiction action film directed by Walter Hill. The movie is set in a dystopian future where cities are dark, gritty, and crime-ridden. The story revolves around Tom Cody (Michael Paré), a tough-as-nails loner and drifter who returns to his hometown after being away for several years.\n\nUpon his return, Tom is hired by a wealthy music promoter, Billy Fish (Rick Moranis), to rescue his client, the famous rock singer Ellen Aim (Diane Lane), who has been kidnapped by a notorious gang leader, Raven Shaddock (Willem Dafoe) and his biker gang, The Bombers.\n\nAs Tom navigates the treacherous streets and confronts The Bombers, he crosses paths with his old flame, Ellen, who is struggling to break free from her captors. Tom's mission becomes more complicated when he discovers that Ellen is not just a damsel in distress but a strong-willed woman who is not afraid to take control of her own life.\n\nThroughout the film, Tom faces numerous challenges, from violent encounters with The Bombers to his own complicated feelings for Ellen. The movie's climax features an action-packed showdown between Tom and Raven, which ultimately determines the fate of Ellen and the city.\n\nStreets of Fire combines elements of science fiction, action, and romance, creating a unique blend of genres that sets it apart from other films of its time. The movie's visual style, with its dark and gritty urban landscape, adds to the overall atmosphere of tension and danger. Despite receiving mixed reviews at the time of its release, Streets of Fire has since become a cult classic, praised for its originality and its exploration of themes such as loyalty, redemption, and the power of human relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c9c8beb1fc3c8622f33b6a2360494b17",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 800.0 words or less.\n\n---\n\n**Title:**\n\nStreets of Fire\n\n**Year:**\n\n1984",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mereka Bilang, Saya Monyet!",
+    "descriptions": [
+        "**Plot Summary:**\n\nMereka Bilang, Saya Monyet! (They Say I Am a Monkey!) is a 2008 Indonesian film that delves into the complexities of human nature and societal norms through the eyes of its protagonist, Ika. Ika, a young woman from a conservative village, finds herself caught between tradition and modernity when she becomes pregnant outside of marriage. Her family, community, and even her own beliefs are challenged as she navigates this tumultuous period in her life.\n\nThe film opens with Ika, a shy and gentle young woman, who is suddenly faced with an unexpected pregnancy. Initially, she tries to keep her predicament a secret, but her secret is soon exposed by her nosy neighbors. Her family, deeply rooted in tradition, demands that she marry the father of her child, a man she barely knows and who is twice her age. However, Ika is determined to make her own choices, even if they go against her community's expectations.\n\nAs Ika tries to find her footing in this new and overwhelming situation, she befriends a group of young women who offer her support and understanding. Together, they explore life's complexities and the constraints placed upon them by societal norms. The film highlights the tension between Ika's desire for freedom and the rigid expectations of her village, especially as the wedding date looms closer.\n\nThe narrative takes several dramatic turns as Ika grapples with her identity and the choices she must make. She is torn between her love for the man who impregnated her and the fear of being ostracized by her community. Her journey is both a personal struggle and a broader commentary on the clash between tradition and modernity in Indonesian society.\n\nMereka Bilang, Saya Monyet! is a poignant exploration of a young woman's resilience and the challenges she faces in asserting her autonomy. The film ultimately poses questions about the role of women in society and the importance of individual choice over adherence to tradition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1288d2ae76fefccae71f2caf934a90c9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nMereka Bilang, Saya Monyet!\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Yellow Sky",
+    "descriptions": [
+        "\"Yellow Sky\" is a 1948 American Western film directed by William Wellman and starring Gregory Peck, Anne Baxter, and Richard Widmark. The film is a gripping tale of a gang of Texas outlaws who, after a botched bank robbery, seek refuge in a seemingly deserted ghost town named Yellow Sky.\n\nThe story begins with the gang, led by the ruthless and cunning Bill Bowdre (played by Richard Widmark), fleeing from the law with a significant amount of stolen gold. They stumble upon Yellow Sky, a town that appears abandoned, and decide to settle there temporarily. However, their plans are complicated when they discover that the town is not as deserted as it seems. A small group of residents, including the strong-willed and beautiful Jessie (Anne Baxter), live in the town, eking out a living from the surrounding land.\n\nInitially, the outlaws and the townspeople are wary of each other, but tensions rise as the gang's presence disrupts the peaceful life of the community. Jessie, who is the daughter of a former prospector, becomes a central figure in the conflict. She is torn between her loyalty to her father and the townspeople and her growing attraction to one of the outlaws, Zeke (Gregory Peck), who is more sympathetic to the plight of the townspeople.\n\nAs the outlaws settle in, Zeke begins to question the morality of their actions and the violence they inflict on others. His relationship with Jessie deepens, and he starts to see a life beyond the criminal path he has been on. This internal conflict leads to a rift within the gang, with Zeke and a few others considering a more peaceful future.\n\nThe film builds to a climax as the law catches up with the outlaws and a final confrontation ensues. Zeke must make a choice between his loyalty to the gang and his love for Jessie, setting the stage for a dramatic showdown that will determine the fate of both the outlaws and the residents of Yellow Sky.\n\n\"Yellow Sky\" is a classic Western that explores themes of redemption, the clash between civilization and the wild frontier, and the human capacity for change. The film's stunning desert landscapes and tense, well-crafted narrative make it a memorable entry in the Western genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "5616e27527314598c7128a214873edc0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 404.0 words or less.\n\n---\n\n**Title:**\n\nYellow Sky\n\n**Year:**\n\n1948",
+    "include_year": false
+}

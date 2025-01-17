@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Toh Baat Pakki",
+    "descriptions": [
+        "Toh Baat Pakki is a 2010 Indian romantic comedy film that follows the story of a young woman named Rajeshwari Saxena, also known as Rajjo, who is looking for a suitable husband for her younger sister, Nisha. Rajjo is very particular about finding the perfect match for Nisha and goes to great lengths to ensure her sister's happiness.\n\nHowever, things take a comedic turn when a series of misunderstandings, lies, and secrets start to unravel within the family. Rajjo finds herself caught in a web of deception as she tries to navigate through the chaos of finding a suitable groom for her sister.\n\nAs the story unfolds, Rajjo's own love life becomes entangled in the mess, leading to hilarious situations and heartwarming moments. Through a series of twists and turns, the movie explores themes of love, family, and the importance of honesty in relationships.\n\nToh Baat Pakki is a delightful romantic comedy that showcases the complexities of matchmaking in Indian society while also highlighting the power of love and the importance of communication in maintaining strong relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "98e6d68dfddcc8c727c5e3f56eeb076c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 221.0 words or less.\n\n---\n\n**Title:**\n\nToh Baat Pakki\n\n**Year:**\n\n2010",
+    "include_year": false
+}

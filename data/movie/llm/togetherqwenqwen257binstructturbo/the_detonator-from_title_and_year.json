@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Detonator",
+    "descriptions": [
+        "In 2006, \"The Detonator\" follows former Navy SEAL Jack Berg (Dwayne Johnson), who becomes a high-stakes armored car driver. When a notorious criminal syndicate attempts to rob his convoy, Jack uses his combat skills to protect his driver and thwart the heist. The criminals, led by the ruthless Victor Macklin (Vincent D'Onofrio), plan revenge, leading Jack on a perilous chase across the city. As tensions rise, Jack must outsmart his adversaries and uncover a larger conspiracy threatening the city. With time running out, Jack races against the clock to detonate his security device and save everyone in a heart-pounding climax."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "c32b501ee1d9a114e3121fb32c9a718a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nThe Detonator\n\n**Year:**\n\n2006",
+    "include_year": false
+}

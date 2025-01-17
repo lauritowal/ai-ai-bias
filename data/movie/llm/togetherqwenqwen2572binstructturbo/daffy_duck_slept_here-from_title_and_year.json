@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daffy Duck Slept Here",
+    "descriptions": [
+        "In \"Daffy Duck Slept Here\" (1948), a short animated film from the Looney Tunes series, Daffy Duck arrives at a dilapidated hotel, desperate for a place to sleep. The hotel, run by a grumpy and frazzled manager, is nearly empty and in dire need of guests. Daffy, known for his ego and antics, checks in and immediately starts causing chaos. He demands extravagant services and transforms his room into a mess, much to the manager’s frustration.\n\nMeanwhile, a wealthy and snobbish guest arrives, looking for a peaceful night’s stay. The manager, desperate to keep this valuable customer, tries to hide Daffy’s disruptive presence. However, Daffy’s loud and outlandish behavior, including a series of slapstick mishaps and comedic misunderstandings, inevitably leads to a clash between the two guests. The manager’s attempts to maintain order only add to the chaos, resulting in a hilarious and chaotic night at the hotel. By morning, the hotel is in shambles, but Daffy, ever the optimist, checks out with a cheeky grin, leaving the manager in a state of exasperation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "ca9af38b81c86a6bfd693a22a8cb7552",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948",
+    "include_year": false
+}

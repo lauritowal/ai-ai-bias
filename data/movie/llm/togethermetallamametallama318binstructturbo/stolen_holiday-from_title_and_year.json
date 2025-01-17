@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stolen Holiday",
+    "descriptions": [
+        "\"Stolen Holiday\" is a 1937 American romantic comedy film directed by Michael Curtiz. The movie stars Kay Francis as Leslie Gore, a wealthy and beautiful socialite. Leslie becomes engaged to marry a man from a wealthy and esteemed family, but she finds herself falling for a charming and charismatic film star, John Smith (played by Robert Ames).\n\nAs Leslie navigates her complicated love life, she must also contend with the pressures of her high-society family and the expectations that come with her engagement. The film follows Leslie's journey as she tries to balance her desire for romance and independence with the demands of her privileged lifestyle.\n\nAlong the way, Leslie discovers a sense of freedom and joy that she had previously been missing in her life. The film features a blend of comedy, romance, and drama, with a strong focus on the social conventions of the time. \"Stolen Holiday\" is a classic example of a pre-Code Hollywood film, with its frank depiction of relationships and its willingness to challenge societal norms.\n\nThe movie received widespread critical acclaim upon its release, with many praising Kay Francis's performance as the lead. \"Stolen Holiday\" remains a charming and entertaining film today, offering a glimpse into the glamorous world of 1930s Hollywood."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "c09921acee0c38276011296cc44a28ea",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 272.0 words or less.\n\n---\n\n**Title:**\n\nStolen Holiday\n\n**Year:**\n\n1937",
+    "include_year": false
+}

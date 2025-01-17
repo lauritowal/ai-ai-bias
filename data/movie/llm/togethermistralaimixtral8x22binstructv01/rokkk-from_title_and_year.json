@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rokkk",
+    "descriptions": [
+        " \"Rokkk\" is a 2010 Indian horror film directed by Rajesh Ranshinge. The story revolves around a haunted house and the chilling events that unfold within its walls.\n\nThe plot centers around Anushka (Tanushree Dutta), a young woman who moves into a new house with her family. The house, known as Rokkk Manor, has a dark history of supernatural occurrences. Despite the warnings from the locals, Anushka's family dismisses them as mere superstitions and settles in.\n\nStrange and eerie incidents begin to occur, with Anushka being the primary target. She starts experiencing terrifying visions and encounters with a vengeful spirit. The spirit is revealed to be that of a woman who was wronged in the past and is now seeking justice.\n\nAs the haunting intensifies, Anushka's family begins to fear for their lives. They seek the help of a paranormal investigator, who uncovers the shocking truth about the spirit and its connection to the house. The investigator reveals that the spirit is bound to the house due to a curse and can only be pacified by righting the wrong done to her.\n\nAnushka, along with her family and the investigator, embarks on a mission to uncover the truth about the spirit's past and find a way to put her soul to rest. Along the way, they encounter numerous obstacles and challenges, including the spirit's relentless attempts to thwart their efforts.\n\nAs the climax approaches, Anushka and her family must confront the spirit head-on and find a way to free themselves from its grasp. With time running out, they must use their courage and wit to overcome the spirit's power and put an end to the haunting once and for all.\n\n\"Rokkk\" is a chilling tale of supernatural horror that explores the themes of justice, redemption, and the power of the human spirit to overcome even the most terrifying of obstacles."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "03e26709601c0002054b2ef0a6189ec9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 323.0 words or less.\n\n---\n\n**Title:**\n\nRokkk\n\n**Year:**\n\n2010",
+    "include_year": false
+}

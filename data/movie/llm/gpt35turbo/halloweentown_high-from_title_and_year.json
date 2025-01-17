@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Halloweentown High",
+    "descriptions": [
+        "In \"Halloweentown High,\" we follow the story of Marnie Cromwell, a young witch who has been tasked with bringing humans and creatures from Halloweentown together in an effort to promote unity and understanding. The movie begins with Marnie convincing the Halloweentown Council to allow a group of students to attend a high school in the human world for the first time ever.\n\nMarnie, along with her siblings Dylan and Sophie, and their grandmother Aggie, set off to the human world to enroll the Halloweentown students in high school. However, they soon realize that things might not be as easy as they had hoped. The students from Halloweentown struggle to fit in and face discrimination from their human classmates.\n\nAs the tensions rise between the Halloweentown students and the humans, Marnie and her friends must find a way to bridge the divide and show everyone that they are not so different after all. Marnie comes up with a plan to host a Halloween party at the school to bring everyone together and showcase the talents and abilities of the Halloweentown students.\n\nHowever, things take a turn for the worse when the evil Knights of the Iron Dagger, a group of creatures who believe that humans and creatures should not mix, threaten to expose the Halloweentown students and cause chaos. Marnie and her friends must work together to stop the Knights and save the Halloween party.\n\nWith the help of her friends and family, Marnie is able to defeat the Knights and show everyone that unity and acceptance are possible. The Halloween party is a success, and the Halloweentown students are finally accepted by their human classmates.\n\nIn the end, Marnie learns an important lesson about the power of friendship, acceptance, and standing up for what is right. \"Halloweentown High\" is a heartwarming tale about overcoming differences and coming together as a community, no matter how different we may seem on the surface."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "10331d4d891a7037057fa48dbf08b5db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 701.0 words or less.\n\n---\n\n**Title:**\n\nHalloweentown High\n\n**Year:**\n\n2004",
+    "include_year": false
+}

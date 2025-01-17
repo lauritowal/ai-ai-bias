@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Das Experiment",
+    "descriptions": [
+        "'Das Experiment' is a 2001 German psychological thriller film directed by Oliver Hirschbiegel. The movie is based on a novel of the same name by Mario Giordano, which in turn was inspired by the 1971 Stanford prison experiment.\n\nThe story revolves around a group of 20 men who are recruited for a psychological experiment where they are divided into two groups: prisoners and guards. The participants are paid 4,000 marks to stay in a simulated prison environment for two weeks.\n\nTarek Fahd (played by Moritz Bleibtreu), a taxi driver, signs up for the experiment and is assigned the role of a prisoner. The other prisoners and guards are also assigned their roles, with some men taking their roles more seriously than others. As the experiment progresses, the initially mundane and harmless environment slowly descends into chaos.\n\nThe guards, led by the sadistic and power-hungry Berus (played by Justus von Dohnányi), start to abuse their authority and exert control over the prisoners. They enforce strict rules and punishments, which further escalate tensions. Meanwhile, Tarek Fahd, and some other prisoners resist the oppressive regime and try to maintain a sense of individuality and dignity.\n\nAs the experiment reaches its climax, the situation spirals out of control. The boundaries between reality and the experiment are blurred, and the participants' sanity begins to deteriorate. The film raises questions about human nature, power dynamics, and the effects of authority on individuals.\n\nThe experiment ultimately ends in a shocking and violent conclusion, highlighting the dangers of unchecked power and the darker aspects of human nature. The film is a thought-provoking commentary on the Stanford prison experiment and serves as a warning about the potential consequences of allowing individuals to wield too much power over others."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c9370315d71f7b08b33b260b2cbb236a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 860.0 words or less.\n\n---\n\n**Title:**\n\nDas Experiment\n\n**Year:**\n\n2001",
+    "include_year": false
+}

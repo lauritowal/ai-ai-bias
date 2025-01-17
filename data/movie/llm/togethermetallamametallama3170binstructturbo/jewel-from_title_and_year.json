@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Jewel",
+    "descriptions": [
+        "\"Jewel\" is a 2001 made-for-television drama film based on Brett Lott's novel of the same name. The story revolves around Jewel Hilburn, a mentally challenged mother living in 1940s Mississippi, played by Farrah Fawcett.\n\nThe film begins with Jewel giving birth to a child with Down syndrome, whom she names Brenda Kay. Despite the challenges she faces as a single, poor mother, Jewel's unconditional love and devotion to Brenda Kay help the child thrive. As the years pass, Jewel sacrifices everything for her daughter, working multiple jobs to provide for her and fighting against the societal stigma surrounding people with disabilities.\n\nThroughout the film, Jewel faces numerous obstacles, including poverty, prejudice, and her own limited understanding of her daughter's needs. However, she also finds support from her community, particularly in the local church, where she finds solace and acceptance.\n\nAs Brenda Kay grows up, Jewel must confront the harsh realities of her daughter's future and the limitations that come with her disability. Despite these challenges, Jewel remains determined to give Brenda Kay the best possible life, even if it means making difficult choices and sacrifices.\n\nThe film is a heartwarming and emotional portrayal of a mother's unwavering love and devotion to her child, despite the obstacles they face. Farrah Fawcett's powerful performance as Jewel brings depth and nuance to the character, making \"Jewel\" a compelling and uplifting drama."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "fc1c439ca582afa64b13ca1932ccb455",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1083.0 words or less.\n\n---\n\n**Title:**\n\nJewel\n\n**Year:**\n\n2001",
+    "include_year": false
+}

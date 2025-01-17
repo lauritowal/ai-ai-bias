@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ask A Policeman",
+    "descriptions": [
+        "In the 1939 film \"Ask A Policeman,\" a group of bumbling police officers in the small town of Turnbotham Round are faced with a dilemma when they realize that there has not been a crime committed in the town for over ten years. Concerned about the lack of work and the potential closure of their police station, the officers come up with a plan to stage a fake crime in order to boost their reputation and keep their jobs.\n\nThe officers, including Sergeant Dudfoot, Constable Harbottle, and Constable Benson, work together to create a complex scheme involving a stolen diamond necklace and a mysterious stranger who they plant in the town. As they set their plan in motion, they soon find themselves in over their heads as the fake crime spirals out of control.\n\nMeanwhile, a group of reporters from the big city catch wind of the supposed crime and descend upon Turnbotham Round to cover the story. The officers must now juggle their fake crime with trying to keep up appearances in front of the reporters, all while trying to maintain the illusion that they are competent police officers.\n\nAs the chaos unfolds, the officers find themselves caught in a web of lies and deception that threatens to unravel their entire plan. They must work together to outsmart the reporters, solve the fake crime, and somehow save their jobs before it's too late.\n\nIn the end, the officers learn valuable lessons about honesty, integrity, and the true meaning of being a police officer. They realize that they don't need to resort to deceit and trickery to prove their worth, and that sometimes the most important crimes to solve are the ones within themselves.\n\n\"Ask A Policeman\" is a comedic and heartwarming film that explores themes of friendship, loyalty, and the importance of doing the right thing. It serves as a reminder that sometimes, the greatest challenges we face are the ones we create for ourselves, and that true success comes from being true to who we are."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "427ec9c6d0157523f5db3cc61e71ddd4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 741.0 words or less.\n\n---\n\n**Title:**\n\nAsk A Policeman\n\n**Year:**\n\n1939",
+    "include_year": false
+}

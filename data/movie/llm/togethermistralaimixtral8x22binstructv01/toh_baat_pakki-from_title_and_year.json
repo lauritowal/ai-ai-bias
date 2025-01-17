@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Toh Baat Pakki",
+    "descriptions": [
+        " In the light-hearted Bollywood romantic comedy \"Toh Baat Pakki\" (2010), directed by Kedar Shinde, the plot revolves around the lives of two sisters, Rajeshwari and Nisha, and their respective love interests. Rajjo, played by Yuvika Chaudhary, is a traditional and family-oriented woman, while her younger sister, Nisha (Uvika Choudhary), is more modern and independent. Their lives take an unexpected turn when Rajjo's overbearing brother-in-law, Rahul (Sharman Joshi), becomes determined to find a suitable groom for Rajjo, fearing that her old-fashioned ways might make her unmarriageable.\n\nRahul sets his eyes on the handsome and wealthy Yuvraaj (Vatsal Sheth), unaware that Nisha and Yuvraaj are already in love. In an attempt to secure Yuvraaj as Rajjo's husband, Rahul begins plotting to bring the two together, causing a series of comedic misunderstandings and mishaps. As the situation spirals out of control, the family discovers the truth and must come to terms with their feelings for each other. \"Toh Baat Pakki\" is a charming and humorous exploration of love, family dynamics, and the complexities of arranged marriages in modern Indian society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "98e6d68dfddcc8c727c5e3f56eeb076c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 221.0 words or less.\n\n---\n\n**Title:**\n\nToh Baat Pakki\n\n**Year:**\n\n2010",
+    "include_year": false
+}

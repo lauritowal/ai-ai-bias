@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Detonator",
+    "descriptions": [
+        " In \"The Detonator\" (2006), a high-octane action thriller, Sonni Griffith (Wesley Snipes), a disillusioned CIA agent, is tasked with escorting a Russian crime boss' wife, Nadia (Silvia Colloca), to the US to testify against her husband. However, their journey is fraught with danger as they are pursued by ruthless assassins determined to prevent Nadia from reaching her destination.\n\nAfter a daring escape from a brutal prison in Bucharest, Sonni and Nadia find themselves on the run, with the assassins hot on their heels. As they race to make it to the US, Sonni discovers that Nadia is not just a witness, but also a deadly assassin herself, with a lethal secret that could change the course of his mission.\n\nAs the two fugitives form an unlikely alliance, they must navigate treacherous terrain, outwit their pursuers, and confront their own demons. With time running out and the stakes growing higher, Sonni and Nadia must use all their skills and cunning to stay alive and bring down the criminal empire that threatens to destroy them both.\n\nIn a thrilling climax, Sonni and Nadia face off against their enemies in a final showdown that will determine their fate and the fate of those they love. With non-stop action, heart-pounding suspense, and a surprising twist, \"The Detonator\" is a must-see for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "c32b501ee1d9a114e3121fb32c9a718a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nThe Detonator\n\n**Year:**\n\n2006",
+    "include_year": false
+}

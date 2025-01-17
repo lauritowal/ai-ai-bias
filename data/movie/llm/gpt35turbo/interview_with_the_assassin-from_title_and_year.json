@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Interview With the Assassin",
+    "descriptions": [
+        "In \"Interview With the Assassin\" (2002), a young filmmaker named Ron interviews his elderly neighbor Walter as he claims to have been involved in the assassination of President John F. Kennedy. Walter provides Ron with evidence supporting his claim, including photographs and documents, as he recounts his involvement in the conspiracy.\n\nAs Ron delves deeper into Walter's story, he becomes conflicted about whether to believe him or dismiss his claims as the ramblings of a delusional old man. Despite facing skepticism and opposition from others, Ron continues to investigate the truth behind Walter's story, determined to uncover the real motives behind the assassination.\n\nAs Ron uncovers more evidence and connects the dots, he begins to realize that Walter may indeed be telling the truth. However, his pursuit of the truth puts him in danger as he becomes entangled in a web of deceit and betrayal that leads to a shocking revelation about the true perpetrators behind the assassination.\n\nUltimately, \"Interview With the Assassin\" is a gripping thriller that explores themes of truth, deception, and the consequences of uncovering dark secrets that have been buried for years. It leaves the audience questioning the official narrative of historical events and the power of those who control the truth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1573aec6a37c7379f787e50e7132e5d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nInterview With the Assassin\n\n**Year:**\n\n2002",
+    "include_year": false
+}

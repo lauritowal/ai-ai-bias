@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arena",
+    "descriptions": [
+        "Set in a dystopian future, \"Arena\" (1989) follows a group of convicts and political prisoners who are forced into a brutal arena arena for a high-stakes reality TV show. The arena is a vast, treacherous landscape filled with deadly creatures and hidden dangers. As they fight for survival and a chance at redemption, alliances are formed and broken, and the line between hero and villain blurs. The prisoners must use their wits, strength, and survival skills to outmaneuver their opponents and navigate the ever-changing rules of the arena, all while facing the oppressive backdrop of their captors' sadistic games."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+    "include_year": false
+}

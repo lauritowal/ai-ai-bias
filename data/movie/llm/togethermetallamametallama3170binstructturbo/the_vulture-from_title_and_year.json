@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Vulture",
+    "descriptions": [
+        "I couldn't find any information about a 1937 film titled 'The Vulture.' It is possible that it's an obscure film or not well-documented. If you could provide more information or context about 'The Vulture,' I'll try to help you with a plot summary."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3f2ad087bb1cac376822658c08cbe5e7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 232.0 words or less.\n\n---\n\n**Title:**\n\nThe Vulture\n\n**Year:**\n\n1937",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Billy Two Hats",
+    "descriptions": [
+        "'Billy Two Hats' is a 1974 American Western comedy-drama film. It is directed by Monty Walden and stars Gregory Peck and Desi Arnaz Jr.\n\nThe story revolves around Billy McDonnan (played by Desi Arnaz Jr.), a young Apache Native American who is wrongly accused of murder and is sentenced to hang. The execution date draws near, and a sympathetic outlaw named Arthur 'Two Hats' Grimes (played by Gregory Peck) decides to rescue Billy.\n\nArthur, who has a unique habit of wearing two hats at once, is a charming and resourceful outlaw who has a soft spot for Billy. He agrees to rescue Billy from the gallows and the two men embark on a perilous journey through the American wilderness.\n\nAs they make their escape, Arthur and Billy develop an unlikely friendship, with Arthur teaching Billy about the ways of the white man. The two men must evade the authorities and a relentless bounty hunter, while also confronting their own personal demons.\n\nThroughout the film, the tone shifts between drama and comedy, adding a touch of humor to the narrative. 'Billy Two Hats' is a classic Western tale with a unique twist, exploring themes of friendship, redemption, and the complexities of the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "2d70d8da925ad0ef805759c56970e23e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 276.0 words or less.\n\n---\n\n**Title:**\n\nBilly Two Hats\n\n**Year:**\n\n1974",
+    "include_year": false
+}

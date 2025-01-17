@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Leatherheads",
+    "descriptions": [
+        "'Leatherheads' is a 2008 American sports romantic comedy film directed by George Clooney. The film is set in the 1920s and revolves around the early days of American football. \n\nThe story begins in 1925, with Dodge Lebowski (George Clooney), a former football player turned sports promoter, who has lost his touch since his college days. However, his fortunes change when he meets Carter 'The Dodge' Rutherford (John Krasinski), a talented young football player who becomes a sensation in the world of college football.\n\nDodge sees an opportunity to capitalize on Carter's fame and tries to recruit him for his team, the Duluth Bulldogs. However, things become complicated when Carter falls for Dorothy Lucey (Renee Zellweger), a female sports reporter, who is writing about Carter's rise to fame.\n\nAs Carter gains popularity, his relationship with Dorothy blossoms, but their romance is threatened by the rigid social norms of the time. Meanwhile, Dodge's intentions are called into question when he tries to manipulate Carter's image for personal gain. The situation becomes even more complicated when Carter is faced with the decision of whether to join the Bulldogs or to play for a better-paying team.\n\nThe film takes a turn as the characters navigate their relationships and confront the harsh realities of the sports world. 'Leatherheads' is a light-hearted take on the early days of American football, with a focus on the romance and drama that unfolds among the players and their loved ones.\n\nThe film features a star-studded cast, including George Clooney, Renée Zellweger, and John Krasinski, and is known for its witty dialogue and charming performances. 'Leatherheads' is a nostalgic look back at a bygone era, with a focus on the passion and excitement of the early days of American football."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "52281ee66c6c1c6bec0050272b36e0b9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 678.0 words or less.\n\n---\n\n**Title:**\n\nLeatherheads\n\n**Year:**\n\n2008",
+    "include_year": false
+}

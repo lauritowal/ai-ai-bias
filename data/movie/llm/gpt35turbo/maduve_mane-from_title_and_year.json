@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Maduve Mane",
+    "descriptions": [
+        "1986\n\n**Plot Summary:**\n\n\"Maduve Mane\" is a Kannada romantic drama film released in 1986. The story revolves around the lives of two individuals, Ramu and Shaila, who come from different backgrounds but are brought together by fate.\n\nRamu is a simple and hardworking man who lives in a small village. He works as a farmer and takes care of his elderly parents. Shaila, on the other hand, is a city girl who comes from a wealthy family. She is independent and modern, with dreams of pursuing a career in the city.\n\nThe two meet by chance when Shaila visits the village for a friend's wedding. Ramu is immediately smitten by her beauty and grace, while Shaila is intrigued by his simplicity and honesty. Despite their differences in social status, they form a strong connection and soon fall in love.\n\nHowever, their romance faces many obstacles. Shaila's family disapproves of her relationship with a village boy and tries to separate them. They arrange a marriage proposal for Shaila with a wealthy businessman, hoping to break her ties with Ramu.\n\nRamu, determined to be with the love of his life, sets out to win over Shaila's family. He proves his worth through his hard work and dedication, showing them that he is capable of providing for Shaila and making her happy. Despite facing numerous challenges and opposition, Ramu's love for Shaila remains unwavering.\n\nAs the story unfolds, Ramu and Shaila's love is put to the test. They must overcome societal norms, family expectations, and personal sacrifices to be together. The film explores themes of love, sacrifice, and the power of true connection.\n\nIn the end, Ramu and Shaila's love triumphs over all obstacles. They are able to overcome the differences in their backgrounds and find happiness in each other's arms. \"Maduve Mane\" is a heartwarming tale of love that transcends boundaries and challenges the norms of society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "23cce7a2669de698e50a741c9b981319",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 417.0 words or less.\n\n---\n\n**Title:**\n\nMaduve Mane\n\n**Year:**\n\n",
+    "include_year": false
+}

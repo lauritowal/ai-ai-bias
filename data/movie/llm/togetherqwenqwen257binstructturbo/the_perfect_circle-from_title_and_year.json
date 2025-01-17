@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Perfect Circle",
+    "descriptions": [
+        "In \"The Perfect Circle\" (1997), a seemingly idyllic suburban family's life takes a dark turn when a mysterious package containing a dead body is delivered to their doorstep. As the police investigation unfolds, it becomes clear that the family's seemingly perfect life is far from ideal, with hidden secrets and sinister forces at play. Tensions rise as the couple struggles to maintain their facade while their children are drawn into the growing danger. The narrative delves into themes of suburban decay, family dysfunction, and the thin line between appearance and reality."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

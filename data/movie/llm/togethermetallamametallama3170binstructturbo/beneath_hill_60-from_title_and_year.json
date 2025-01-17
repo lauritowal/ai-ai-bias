@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Beneath Hill 60",
+    "descriptions": [
+        "Beneath Hill 60 is a 2010 Australian war drama film directed by Jeremy Sims. The movie is based on the true story of the 1st Australian Tunnelling Company during World War I.\n\nThe film tells the story of Captain Oliver Woodward (played by Brendan Cowell), an Australian mining engineer who joins the army during WWI. Woodward is tasked with leading a group of Australian miners to the Western Front, where they will tunnel under the German trenches in an attempt to break the stalemate of trench warfare.\n\nThe Australian miners, led by Woodward, work tirelessly to dig a network of tunnels under the German lines, facing numerous challenges, including treacherous terrain, limited resources, and the ever-present threat of death. Their mission is to plant explosives under the German trenches, creating a massive explosion that will allow the Allied forces to break through the enemy lines.\n\nAs the story progresses, the Australian miners face increasing pressure and danger. They must navigate the complexities of military politics and bureaucracy, all while dealing with the psychological toll of war. Woodward's leadership is tested as he struggles to keep his men safe and focused on their mission.\n\nMeanwhile, the film also explores the personal costs of war, as Woodward's relationships with his men and his loved ones back home are put to the test. The film's climax features a dramatic and intense sequence, as the Australian miners execute their plan and the explosives are detonated, causing widespread destruction and chaos.\n\nBeneath Hill 60 is a gripping and intense drama that pays tribute to the bravery and sacrifice of the Australian miners who played a crucial role in the war effort. The film's attention to historical detail and its powerful performances make it a compelling and emotional watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "f4a8bccf0957199bae23ea3758f8ca32",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 585.0 words or less.\n\n---\n\n**Title:**\n\nBeneath Hill 60\n\n**Year:**\n\n2010",
+    "include_year": false
+}

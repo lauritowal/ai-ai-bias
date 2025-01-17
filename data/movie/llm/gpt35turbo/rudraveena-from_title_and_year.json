@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rudraveena",
+    "descriptions": [
+        "In the 1988 film \"Rudraveena,\" the story follows a young man named Shiva who is passionate about music and social justice. Shiva comes from a privileged background but chooses to use his music as a platform to address the injustices and inequalities in society. His music becomes a powerful tool for advocating for change and raising awareness about important issues.\n\nAs Shiva's popularity grows, he becomes a threat to those in power who are resistant to change. He faces opposition from both his own family and the government, who see his activism as a threat to their control. Despite the obstacles in his path, Shiva remains steadfast in his beliefs and continues to use his music to inspire others to join his cause.\n\nThe film explores themes of social activism, the power of music, and the struggle for justice in a society that is resistant to change. As Shiva's story unfolds, viewers are taken on a journey of passion, sacrifice, and ultimately, the triumph of the human spirit in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "540715a47fbcf755ac393c9609058246",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 213.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988",
+    "include_year": false
+}

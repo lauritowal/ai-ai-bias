@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rabbit Fire",
+    "descriptions": [
+        "In the animated short film \"Rabbit Fire\" from 1951, directed by Chuck Jones, audiences are introduced to the eternal rivalry between Bugs Bunny and Daffy Duck. The story follows the classic dynamic between these two iconic characters as they engage in a battle of wits and pranks.\n\nThe plot revolves around a clever twist where Bugs Bunny and Daffy Duck find themselves in a hunting situation, with Elmer Fudd as the hunter. However, the tables are turned when Bugs and Daffy realize that it is rabbit season and not duck season. This realization leads to a series of hilarious antics as they try to outsmart each other and trick Elmer Fudd into targeting the other.\n\nThroughout the film, Bugs Bunny and Daffy Duck engage in a game of manipulation and deception, with each character trying to come out on top. Bugs uses his quick wit and cunning to outsmart Daffy and Elmer, while Daffy relies on his brash personality and schemes to try and gain the upper hand. The back-and-forth banter between the characters provides plenty of comedic moments and clever wordplay that are sure to entertain audiences of all ages.\n\nAs the story progresses, the rivalry between Bugs and Daffy escalates, leading to a hilarious showdown filled with gags and slapstick humor. The characters' personalities shine through as Bugs Bunny remains cool and collected, while Daffy Duck becomes increasingly frustrated and desperate in his attempts to outsmart his rival.\n\nIn the end, Bugs Bunny manages to outsmart both Daffy Duck and Elmer Fudd, ultimately turning the tables on them and coming out victorious. The film concludes with a humorous twist that highlights the cleverness and resourcefulness of Bugs Bunny, solidifying his status as a beloved and iconic character in the world of animation.\n\n\"Rabbit Fire\" is a classic animated short that showcases the timeless humor and charm of Bugs Bunny and Daffy Duck. With its clever storytelling, witty dialogue, and iconic characters, the film continues to entertain audiences decades after its release. Chuck Jones' direction brings out the best in these beloved characters, creating a memorable and entertaining viewing experience for fans of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "4a750dd221f1ae450df8cca934917c7d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 486.0 words or less.\n\n---\n\n**Title:**\n\nRabbit Fire\n\n**Year:**\n\n1951",
+    "include_year": false
+}

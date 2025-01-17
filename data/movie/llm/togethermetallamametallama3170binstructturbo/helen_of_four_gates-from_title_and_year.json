@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Helen of Four Gates",
+    "descriptions": [
+        "'Helen of Four Gates' is a 1920 British silent drama film directed by Cecil Hepworth. The story revolves around a young woman, Helen (played by Alma Taylor), who lives a simple life in a remote moorland cottage called Four Gates. She is deeply in love with a local man, Abel, but their relationship is complicated by Helen's past.\n\nHelen is actually the illegitimate daughter of a wealthy landowner, Squire Fairfax, who had an affair with her mother. As a result, Helen has been shunned by the local community, leading to her isolated life at Four Gates. The arrival of a mysterious stranger sets off a chain of events that complicates Helen's life further.\n\nThe stranger is revealed to be a man seeking revenge against Squire Fairfax for wronging his sister. He blackmails Helen into helping him carry out his revenge, forcing her to choose between her loyalty to her family and her love for Abel. As the story unfolds, Helen's past is slowly revealed, and she must navigate the complex web of relationships and secrets that surround her.\n\nThroughout the film, the stunning moorland landscapes serve as a backdrop to Helen's emotional journey, adding to the sense of isolation and drama. 'Helen of Four Gates' is a poignant exploration of love, family, and redemption, set against the rugged beauty of the Yorkshire moors."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "4f8b0a692a063411a36a98db9a485868",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 390.0 words or less.\n\n---\n\n**Title:**\n\nHelen of Four Gates\n\n**Year:**\n\n1920",
+    "include_year": false
+}

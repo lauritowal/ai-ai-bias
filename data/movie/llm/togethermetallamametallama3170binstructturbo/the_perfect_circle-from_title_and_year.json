@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Perfect Circle",
+    "descriptions": [
+        "The Perfect Circle is a 1997 Bosnian drama film directed by Ademir Kenović. The movie revolves around two orphaned brothers, Hamza and Adis, who struggle to survive the harsh realities of war in Sarajevo during the Bosnian War. \n\nAfter their parents are killed, the brothers find themselves alone, navigating a city ravaged by conflict and destruction. They are taken in by a kind-hearted woman, a teacher, who tries to provide them with a sense of stability and normalcy amidst the chaos.\n\nHamza, the older brother, tries to assume the role of a guardian, while Adis struggles to cope with the loss of their family. As they navigate their new reality, they find comfort in the small joys of life, such as playing soccer and reading books.\n\nThe film explores the resilience of the human spirit, particularly in the face of war and loss. It offers a poignant portrayal of two young brothers' struggle to find hope and keep their sense of identity intact amidst the destruction of their city."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

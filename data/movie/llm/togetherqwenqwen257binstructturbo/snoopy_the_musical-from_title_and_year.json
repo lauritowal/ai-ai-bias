@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Snoopy!!! The Musical",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Snoopy!!! The Musical\" (2015) is an animated musical film that brings to life the beloved characters from Charles M. Schulz's Peanuts comic strip. The story centers around Snoopy, who dreams of being a famous Broadway star. To fulfill his dream, he enlists the help of his friends, Charlie Brown, Lucy, Linus, and Peppermint Patty, to put on a musical production at their school. As the cast prepares for the big performance, Snoopy faces challenges in both his acting and singing abilities. With the help of supportive friends and family, Snoopy learns the importance of hard work, resilience, and believing in oneself. The film is filled with catchy songs that bring to life various scenarios from the Peanuts gang's daily lives, including Snoopy's adventures as a dog who imagines himself as a World War I flying ace and a writer. Through humor, heartwarming moments, and musical numbers, \"Snoopy!!! The Musical\" celebrates the spirit of creativity and the joy of performing."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "111da4ab527ddc5d68d8dcfa86111dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 301.0 words or less.\n\n---\n\n**Title:**\n\nSnoopy!!! The Musical\n\n**Year:**\n\n",
+    "include_year": false
+}

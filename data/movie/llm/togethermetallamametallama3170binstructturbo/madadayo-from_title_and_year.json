@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Madadayo",
+    "descriptions": [
+        "Madadayo is a 1993 Japanese drama film directed by Akira Kurosawa. The film tells the story of Hyakken Uchida, a retired professor of German literature, as he navigates the changing world around him after World War II. The story is set in post-war Japan, where Uchida faces the loss of his home and struggles to adapt to the rapidly modernizing society.\n\nThe title 'Madadayo' roughly translates to 'Not Yet,' referring to Uchida's response when asked if he's ready to die. Throughout the film, Uchida reflects on his experiences and the changing world. He forms a bond with a young couple who help him through difficult times, teaching him about the importance of human relationships and resilience.\n\nThe film is a poignant reflection on the human condition, exploring themes of mortality, friendship, and the passage of time. Kurosawa masterfully weaves Uchida's story into a contemplative exploration of the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "f2014c8ca9859e48a197ddb21e04feeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMadadayo\n\n**Year:**\n\n1993",
+    "include_year": false
+}

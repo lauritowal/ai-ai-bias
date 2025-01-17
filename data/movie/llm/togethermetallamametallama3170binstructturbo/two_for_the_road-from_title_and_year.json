@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Two for the Road",
+    "descriptions": [
+        "'Two for the Road' is a 1967 British-American romantic comedy-drama film directed by Stanley Donen. The movie follows the story of Mark (Albert Finney) and Joanna Wallace (Audrey Hepburn), an English couple on their second European road trip. Through a series of flashbacks and non-linear storytelling, the film explores their relationship over the years, revealing the highs and lows they've experienced together.\n\nAs the story unfolds, it becomes clear that Mark and Joanna's relationship is complex and often tumultuous. During their initial meeting and first road trip, the couple exudes youthful enthusiasm and romance. However, over time, their bond is tested by Mark's growing ambition as an architect and Joanna's desire for stability and a family.\n\nAs Mark's career advances, Joanna struggles to find her place in the world, feeling lost and unfulfilled. The couple's relationship is put to the test as they face disagreements and infidelities. Despite their love for each other, they seem to be drifting apart.\n\nThroughout the film, Audrey Hepburn's character, Joanna, undergoes significant development, as she navigates her desires, ambitions, and sense of identity. Meanwhile, Albert Finney's portrayal of Mark adds depth to the story, showcasing the complexities of a modern marriage in the 1960s.\n\nThe film's use of non-linear storytelling and dual narratives allows the audience to piece together the couple's relationship over the years, adding a layer of complexity to the narrative. 'Two for the Road' ultimately presents a poignant and realistic portrayal of love and relationships, highlighting the challenges and compromises that come with long-term partnerships.\n\nThe film received critical acclaim upon its release, with many praising Audrey Hepburn's performance and the chemistry between the lead actors. 'Two for the Road' remains a timeless classic, offering a nuanced exploration of love, marriage, and the complexities of relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a2183ce3d9ea9bb8f91dbbf2f0f09b2f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 426.0 words or less.\n\n---\n\n**Title:**\n\nTwo for the Road\n\n**Year:**\n\n1967",
+    "include_year": false
+}

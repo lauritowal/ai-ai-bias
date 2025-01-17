@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Magic Riddle",
+    "descriptions": [
+        "Unfortunately, I couldn't find any information on a movie titled 'The Magic Riddle' released in 1991. It is possible that the movie may not be well-known or haven't been widely released.\n\nHowever, I can suggest a few possibilities:\n\n1. The movie might be a lesser-known or regional release, and therefore, doesn't have much information available.\n2. The movie title might be incorrect or misspelled.\n3. The movie might be a foreign or international release, and therefore, the information might not be readily available in English.\n\nIf you have any more information or clarification about the movie, I'll be happy to try and help you further."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1f36a19c458f75eef778c1e27b78f795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 748.0 words or less.\n\n---\n\n**Title:**\n\nThe Magic Riddle\n\n**Year:**\n\n1991",
+    "include_year": false
+}

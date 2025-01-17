@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Inspector Gadget",
+    "descriptions": [
+        "Inspector Gadget is a 1999 American family comedy film based on the 1983 animated television series of the same name. The film stars Matthew Broderick as the titular character, a bumbling police inspector, alongside Rupert Everett and Joely Fisher.\n\nThe story begins with John Brown (Matthew Broderick), a clumsy but lovable security guard, who lives with his clever niece, Penny (Michelle Trachtenberg), and her intelligent dog, Brain. John is chosen to be the test subject for a top-secret police project, which involves transforming him into a cyborg law enforcement officer called Inspector Gadget.\n\nThe project is headed by Dr. Brenda Bradford (Joely Fisher), who has created a range of gadgets that Inspector Gadget can use to fight crime. Unbeknownst to John, he is not the primary choice for the project. The villainous Dr. Claw (Rupert Everett), who is the main antagonist of the story, is the one who initially planned to use the project for his own evil purposes.\n\nAs Inspector Gadget, John sets out to stop Dr. Claw and his accomplices from stealing a valuable treasure. Along the way, he gets into various comedic misadventures, often relying on the help of Penny and Brain, who work behind the scenes to aid him.\n\nDespite his bumbling nature, Inspector Gadget eventually manages to thwart Dr. Claw's plans and save the day. The film ends with John returning to his normal life, but still holding onto the memories of his time as Inspector Gadget.\n\nThe movie combines elements of action, comedy, and family-friendly adventure, making it an entertaining film for both children and adults."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e3421b8d9af7c950bdc6edbae3bdb176",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 858.0 words or less.\n\n---\n\n**Title:**\n\nInspector Gadget\n\n**Year:**\n\n1999",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arena",
+    "descriptions": [
+        "In the 1989 science fiction film 'Arena,' an intergalactic gladiator tournament takes place on a distant planet. The story revolves around Steve Armstrong, a skilled and fierce fighter from Earth, who is captured by an alien spaceship and taken to the planet. Armstrong soon discovers that the planet is home to an arena where various alien warriors engage in brutal battles for the entertainment of the planet's inhabitants.\n\nArmstrong is forced to participate in the tournament, and he quickly adapts to the arena's unique challenges. As he progresses through the competition, Armstrong gains the respect of his fellow human prisoner, a woman named Quint. The two form an alliance and work together to survive the arena's deadly battles.\n\nThroughout the film, Armstrong faces numerous formidable opponents, showcasing his combat skills and determination to survive. As the tournament reaches its climax, Armstrong discovers the true purpose of the arena and the sinister intentions of its alien organizers. With the help of Quint, Armstrong devises a plan to escape the arena and overthrow the planet's ruthless leaders."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+    "include_year": false
+}

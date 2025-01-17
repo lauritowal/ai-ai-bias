@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Intent to Kill",
+    "descriptions": [
+        "\"Intent to Kill\" is a 1958 British drama film directed by Jack Cardiff. The movie revolves around the story of a young doctor, played by Jack Palance, who is an American doctor working in a small English village. \n\nThe doctor, Dr. Franklin, is a man with a troubled past. He has been involved in a scandalous affair and a violent fight with his wife's lover, which led to a tragic accident that resulted in the death of a young woman. \n\nDr. Franklin flees America to escape the consequences of his actions, hoping to start a new life in England. However, his past soon catches up with him, and he becomes the prime suspect in a series of mysterious and unexplained events that occur in the village.\n\nAs the investigation unfolds, the villagers begin to suspect that Dr. Franklin is responsible for the tragic occurrences. The doctor's troubled past and his dark intentions create an atmosphere of tension and suspense, making the viewers question his true intentions.\n\nThe movie explores themes of guilt, redemption, and the human capacity for violence. Dr. Franklin's character is complex, and his actions are driven by a mix of guilt, anger, and a desire for revenge. \n\nThe film features a blend of drama, suspense, and romance, making it a gripping and emotionally charged watch. The performances of the cast, particularly Jack Palance, are noteworthy, adding depth and nuance to the story.\n\nOverall, \"Intent to Kill\" is a thought-provoking and dark thriller that explores the complexities of the human psyche. With its gripping plot and strong performances, the movie keeps the viewers engaged and invested in the story until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "99d04d530279a98dc1c311859cd79a38",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 489.0 words or less.\n\n---\n\n**Title:**\n\nIntent to Kill\n\n**Year:**\n\n1958",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pierrot le fou",
+    "descriptions": [
+        "\"Pierrot le fou,\" directed by Jean-Luc Godard and released in 1965, is a vibrant and chaotic exploration of love, rebellion, and the disintegration of modern society. The film follows the titular character, Pierrot (played by Jean-Paul Belmondo), a disillusioned young man who abandons his bourgeois life to join his former lover, Marianne (Anna Karina), on a wild and erratic journey.\n\nPierrot, a former teacher and current family man, is trapped in a mundane existence. He meets Marianne, a beautiful and enigmatic young woman, at his sister's party. Despite their past, they reignite their passionate but troubled relationship. Marianne, driven by her own desires and secrets, leads Pierrot into a series of increasingly dangerous adventures.\n\nTheir escapade begins with a whimsical road trip, where they encounter a variety of eccentric characters and find themselves entangled in unexpected situations. However, the idyllic nature of their adventure quickly gives way to tension and conflict. Marianne's involvement with a group of criminals and her ambiguous loyalties strain their relationship, pushing Pierrot to the brink of despair.\n\nAs the narrative unfolds, Godard blends elements of crime, romance, and satire, using a striking visual style and non-linear storytelling. The film's vibrant colors, direct addresses to the camera, and abrupt cuts reflect the characters' internal turmoil and the fragmented nature of their experiences.\n\n\"Pierrot le fou\" ultimately serves as a critique of the hollow promises of the modern world and the impossibility of true escape. The film's conclusion, marked by a blend of tragedy and absurdity, leaves a lasting impression of the futility of their quest for freedom and the inevitable disillusionment that follows."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "3ed786d6b8ab64c1a8855b7b3f8031f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 294.0 words or less.\n\n---\n\n**Title:**\n\nPierrot le fou\n\n**Year:**\n\n1965",
+    "include_year": false
+}

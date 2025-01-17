@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Salt Water Tabby",
+    "descriptions": [
+        "You didn't provide the year for the movie \"Salt Water Tabby.\" If you provide the year, I can attempt to look up the information and provide a plot summary for you."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d36393ae1f8ef8c5a52971865fe59a8a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1023.0 words or less.\n\n---\n\n**Title:**\n\nSalt Water Tabby\n\n**Year:**\n\n",
+    "include_year": false
+}

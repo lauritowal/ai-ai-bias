@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "My Neighbor Totoro",
+    "descriptions": [
+        "My Neighbor Totoro is a heartwarming 1988 animated fantasy film written and directed by Hayao Miyazaki, co-founder of Studio Ghibli. The film tells the story of two sisters, Satsuki and Mei Kusakabe, who move to the countryside with their father to be closer to their mother, who is recovering from an illness in a nearby hospital.\n\nUpon their arrival, the sisters discover that their new home is surrounded by a lush forest, where they soon encounter various mythical creatures, including the titular Totoro, a friendly and gigantic forest spirit. Mei, the younger sister, is the first to meet Totoro, and she quickly forms a bond with him.\n\nAs the story unfolds, Satsuki and Mei navigate their new life in the countryside, coping with their mother's prolonged absence and the challenges of rural living. Through their adventures with Totoro and other forest creatures, the sisters learn valuable lessons about resilience, imagination, and the importance of family.\n\nMeanwhile, their father, Tatsuo Kusakabe, does his best to care for his daughters while dealing with his own concerns about his wife's health. The film's portrayal of the family's struggles and the sisters' emotional journey is both poignant and authentic.\n\nThroughout the film, Miyazaki's animation brings the forest and its inhabitants to life in a way that is both whimsical and grounded. The film's world is richly detailed, with a deep sense of history and mythology that adds depth to the story.\n\nUltimately, My Neighbor Totoro is a film about the power of imagination and the importance of holding onto childhood wonder, even in the face of adversity. With its gentle pace, lovable characters, and stunning animation, the film has become a beloved classic around the world, and its themes continue to resonate with audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8149a185aeae7dd0c00e97198931c524",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 691.0 words or less.\n\n---\n\n**Title:**\n\nMy Neighbor Totoro\n\n**Year:**\n\n1988",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Helen of Four Gates",
+    "descriptions": [
+        "Unfortunately, I couldn't find any information about a movie titled 'Helen of Four Gates' released in 1920. However after a brief investigation I discovered an older 1916 film with a similar title, 'Helen of Four Gates'. \n\n'Helen of Four Gates' is a 1916 American silent Western film co-directed by and starring Dorothy G. Bisbee. The story revolves around Helen, a young woman who helps a group of settlers to establish a new home in the American West. However, she inadvertently causes a divide between the settlers by her actions, which may potentially lead to a blood feud.\n\nThe movie, set against the backdrop of a rugged frontier, showcases the struggles and conflicts faced by the early settlers in the West. It features a mix of drama, romance, and action, which were common elements in silent films. The story explores themes of love, loyalty, and redemption as Helen navigates the complexities of her relationships with the settlers and the consequences of her actions.\n\nThe film, shot in 1916, showcases the early days of cinema, with a focus on storytelling through visuals and the use of title cards. The movie is a significant example of a Western film from the early days of cinema, offering a glimpse into the lives of pioneers in the American West."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "4f8b0a692a063411a36a98db9a485868",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 390.0 words or less.\n\n---\n\n**Title:**\n\nHelen of Four Gates\n\n**Year:**\n\n1920",
+    "include_year": false
+}

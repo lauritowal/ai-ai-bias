@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Traffic",
+    "descriptions": [
+        "However, I must correct the year. The movie \"Traffic\" was released in 2000, not 2011. Here's a plot summary:\n\n\"Traffic\" is a crime drama film directed by Steven Soderbergh. The film is presented in a non-linear narrative, interweaving multiple storylines that explore the complexities of the war on drugs.\n\nThe film begins with a scene where two U.S. Border Patrol agents, Javier Rodriguez (Benicio del Toro) and his partner, are shown intercepting a major shipment of cocaine on the U.S.-Mexico border. Meanwhile, a conservative judge, Robert Wakefield (Michael Douglas), is appointed by the President as the new U.S. drug czar. Unbeknownst to him, his own teenage daughter, Caroline (Erika Christensen), is struggling with addiction and becomes involved with a local dealer.\n\nAs the story unfolds, the film cuts to the story of the wife of a wealthy businessman, Barbara (Amy Irving), who becomes embroiled in a federal investigation after her husband is arrested for money laundering. Her lawyer, Edward Collier (Peter Riegert), tries to protect her while navigating the complex web of corruption and deceit.\n\nThe film also explores the story of General Salazar (Tomas Milian), a corrupt Mexican general who is secretly working with the Tijuana cartel. Meanwhile, Javier Rodriguez is recruited by the Mexican government to help take down the cartel, but his own moral code is tested when he is forced to confront the harsh realities of the war on drugs.\n\nThroughout the film, the characters' storylines intersect and collide, revealing the complex and often contradictory nature of the war on drugs. The film raises questions about the effectiveness of the war on drugs and the impact it has on individuals and communities.\n\n\"Traffic\" features an ensemble cast and received widespread critical acclaim for its direction, writing, and performances. The film won four Academy Awards, including Best Director, Best Supporting Actor for Benicio del Toro, Best Adapted Screenplay, and Best Film Editing."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "97715b165bc53cecbd7a4aa3fcaa268b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 401.0 words or less.\n\n---\n\n**Title:**\n\nTraffic\n\n**Year:**\n\n2011",
+    "include_year": false
+}

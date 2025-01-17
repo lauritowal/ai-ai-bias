@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Jungle Jingles",
+    "descriptions": [
+        "'Jungle Jingles' is a 1929 animated short film, likely a musical comedy. The plot revolves around a jungle setting where various animals gather to perform and participate in entertaining musical numbers.\n\nThe story starts with a lively jungle scene where monkeys, birds, and other creatures are seen going about their daily routines, all set to catchy jazz tunes. As the scene progresses, a group of animals, including a charming parrot, a tap-dancing monkey, and a singing elephant, come together to put on a spectacular musical show.\n\nThroughout the film, the animals showcase their talents in a series of comedic misadventures, hilarious mishaps, and entertaining performances. The jungle setting transforms into an elaborate stage, complete with colorful backdrops, exotic plants, and vibrant decorations.\n\nAs the musical numbers unfold, the animals' antics and comedic timing add to the film's lighthearted and carefree atmosphere. The film's climax features a grand finale performance, where all the animals come together to create an unforgettable jungle spectacle.\n\n'Jungle Jingles' is a classic example of early animation, blending music, comedy, and adventure to create an entertaining and charming film. The movie's use of jazz music and lively animation style reflects the spirit of the Roaring Twenties, making it a nostalgic and delightful watch for audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6b523bab4b0eee0b84d085b744b8440d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nJungle Jingles\n\n**Year:**\n\n1929",
+    "include_year": false
+}

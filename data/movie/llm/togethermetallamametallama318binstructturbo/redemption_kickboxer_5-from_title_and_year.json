@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Redemption: Kickboxer 5",
+    "descriptions": [
+        "Redemption: Kickboxer 5 is a martial arts film released in 1995. The movie is the fifth installment in the Kickboxer series and a direct sequel to the 1988 film Kickboxer. \n\nThe film takes place several years after the events of the first movie and follows Kurt Sloane (played by Sasha Mitchell), the American nephew of a renowned martial artist. Kurt seeks redemption for his past failures and becomes a professional kickboxer. His new quest begins when he is approached by a wealthy businessman with a lucrative offer: become the champion of a high-stakes kickboxing tournament in Paris.\n\nUpon accepting the challenge, Kurt finds himself in a high-pressure environment where he must confront his own demons and face off against ruthless opponents. As the tournament progresses, Kurt's skills are put to the test against formidable foes, and he must dig deep to find the strength and determination to emerge victorious.\n\nThe film blends action, drama, and martial arts, offering a thrilling ride for fans of the Kickboxer series. With its mix of intense fight scenes and Kurt's personal redemption arc, Redemption: Kickboxer 5 provides an engaging and entertaining experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1900de10cbc376a299345b56c4626863",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nRedemption: Kickboxer 5\n\n**Year:**\n\n1995",
+    "include_year": false
+}

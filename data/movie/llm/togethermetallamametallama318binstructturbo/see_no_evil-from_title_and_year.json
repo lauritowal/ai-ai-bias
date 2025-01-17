@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "See No Evil",
+    "descriptions": [
+        "\"See No Evil\" is a 1971 American thriller film directed by Richard Fleischer. The movie follows David Hoffmann (played by Mia Farrow's brother, John Milton, but credited under Mia Farrow's brother's name however  this movie was one of the very few he used a stage name in), a blind and deaf-mute bellhop at a luxurious hotel in New York City. David's exceptional skills of touch and his ability to sense the world through vibrations allow him to perform a range of tasks, including playing a musical instrument and detecting hidden objects.\n\nWhen a wealthy businessman, Steven Brooks, is found dead in his hotel room, David becomes involved in the investigation. As the police investigate the crime scene, they discover that David's exceptional senses have allowed him to uncover clues that they had previously missed. The police become increasingly suspicious of David's involvement in the murder, and he must navigate the complex web of relationships between the hotel staff and the wealthy guests to clear his name.\n\nThroughout the film, David uses his unique abilities to uncover the truth behind the murder, and the film builds towards a shocking climax. \"See No Evil\" is a suspenseful and intriguing thriller that explores the concept of perception and the limitations of the human senses."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "38af57b758f7cfdbfaf1e9c1580d897a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 265.0 words or less.\n\n---\n\n**Title:**\n\nSee No Evil\n\n**Year:**\n\n1971",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "When Were You Born",
+    "descriptions": [
+        "\"When Were You Born\" is a 1938 film that follows the story of a young woman named Doris, who possesses the ability to determine a person's character traits based on their astrological sign. Doris is known for her accuracy and is sought after by many who are curious about their own personal astrology.\n\nOne day, Doris is approached by a wealthy businessman named Frank, who asks her to help him solve the mysterious death of his business partner. Frank believes that Doris's astrological insights can provide valuable clues that will help him uncover the truth behind the murder. Doris reluctantly agrees to assist Frank and begins to use her skills to analyze the astrological charts of the suspects involved in the case.\n\nAs Doris delves deeper into the investigation, she discovers a tangled web of deceit, jealousy, and betrayal among the suspects. She uses her knowledge of astrology to identify key personality traits and motivations that ultimately lead her to uncover the identity of the killer. Along the way, Doris also learns valuable lessons about trust, loyalty, and the power of intuition.\n\nThroughout the film, Doris faces skepticism and doubt from those who do not believe in astrology. However, she remains steadfast in her beliefs and continues to use her unique talents to help others. As she navigates the complexities of the case, Doris also grapples with her own personal struggles and insecurities, ultimately finding strength and confidence in her abilities.\n\nIn the end, Doris's dedication and determination pay off as she successfully solves the murder mystery and brings the killer to justice. Her skills as an astrologer are validated, and she earns the respect and admiration of those who once doubted her. \"When Were You Born\" is a captivating tale of mystery, intrigue, and the power of astrology to uncover the truth hidden beneath the surface. It is a story of resilience, courage, and the enduring belief in the guiding influence of the stars."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "54bede93b3eba067e4d1dec5abcc385e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 498.0 words or less.\n\n---\n\n**Title:**\n\nWhen Were You Born\n\n**Year:**\n\n1938",
+    "include_year": false
+}

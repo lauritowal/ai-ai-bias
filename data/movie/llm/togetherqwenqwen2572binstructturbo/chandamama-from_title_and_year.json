@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chandamama",
+    "descriptions": [
+        "\"Chandamama\" is a 2007 Indian Telugu-language comedy-drama film directed by Puri Jagannadh. The film stars Mohan Babu and Genelia D'Souza in the lead roles, with an ensemble cast that includes Posani Krishna Murali, Suneil Shetty, and Raja Babu.\n\nThe story revolves around a wealthy but eccentric man named Chandrasekhar (played by Mohan Babu), who is known for his unpredictable behavior and love for chaos. Chandrasekhar's life takes an unexpected turn when he meets and falls in love with a young and vibrant woman named Anjali (played by Genelia D'Souza). Anjali, however, is not interested in Chandrasekhar's wealth but rather in his eccentric and genuine personality.\n\nAs their relationship develops, Chandrasekhar's family, who are more interested in his money than his happiness, try to sabotage their relationship. The family believes that Anjali is after Chandrasekhar's wealth and sets up various schemes to drive them apart. Despite the obstacles, Chandrasekhar and Anjali's love grows stronger, leading to a series of hilarious and touching moments.\n\nThe film also delves into the themes of family dynamics, the true meaning of love, and the importance of staying true to oneself. \"Chandamama\" combines elements of comedy, romance, and drama to create a heartwarming and entertaining story that resonates with audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "beb3b7dd023770eb76f17980778f5dec",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 301.0 words or less.\n\n---\n\n**Title:**\n\nChandamama\n\n**Year:**\n\n2007",
+    "include_year": false
+}

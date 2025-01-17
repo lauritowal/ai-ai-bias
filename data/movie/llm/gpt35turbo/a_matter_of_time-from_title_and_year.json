@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Matter of Time",
+    "descriptions": [
+        "In the film \"A Matter of Time\" from 1976, the story follows a young, aspiring actress named Nina who is determined to make it big in the entertainment industry. She is working as a chambermaid at a luxurious hotel in Rome when she encounters a mysterious elderly woman named Contessa Sanziani.\n\nThe Contessa takes an interest in Nina and decides to take her under her wing, offering her guidance and mentorship in navigating the cutthroat world of show business. As Nina spends more time with the Contessa, she learns about the woman's glamorous past as a famous actress and the tragic events that led to her current reclusive lifestyle.\n\nAs Nina's star begins to rise, she finds herself torn between her loyalty to the Contessa and her own ambitions. She must navigate the complexities of fame, fortune, and love while trying to uncover the secrets of the Contessa's past.\n\nThroughout the film, Nina is faced with difficult choices and moral dilemmas that force her to confront the true cost of success. She must decide whether to prioritize her own dreams or sacrifice them for the sake of someone she has come to care for deeply.\n\nAs the story unfolds, Nina's journey becomes a poignant exploration of the passage of time and the fleeting nature of fame. She grapples with the realization that success is not always what it seems and that sometimes the most important things in life are the relationships we forge along the way.\n\nIn the end, \"A Matter of Time\" is a timeless tale of love, loss, and the pursuit of one's dreams. It serves as a reminder that what truly matters is not the amount of time we have, but how we choose to spend it and the impact we have on the lives of those around us."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "5ceeaca338acd30b283329ad747d0b36",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 717.0 words or less.\n\n---\n\n**Title:**\n\nA Matter of Time\n\n**Year:**\n\n1976",
+    "include_year": false
+}

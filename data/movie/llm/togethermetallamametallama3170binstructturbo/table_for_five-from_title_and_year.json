@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Table for Five",
+    "descriptions": [
+        "Table for Five is a 1983 American drama film directed by Robert Lieberman. The story revolves around J.P. Tannen (played by Jon Voight), a middle-aged man who has been forced to reassess his life after his wife leaves him for another man.\n\nAs J.P. tries to navigate this difficult period, he is left to care for their three children: 12-year-old Tilde, 8-year-old Truman, and 6-year-old Casie. In an effort to spend quality time with them, J.P. plans a European vacation, hoping it will bring them closer together as a family.\n\nHowever, this trip proves challenging as J.P. struggles to connect with his children, who are dealing with their own emotional issues stemming from their parents' separation. Along the way, J.P. meets a single woman named Kathleen (played by Marie-Christine Barrault), who becomes a potential love interest.\n\nThroughout the journey, J.P. learns to come to terms with his personal failures and develop a deeper understanding of his children's needs. He also starts to rebuild his life and establish a stronger bond with his children, helping them to heal and move forward.\n\nTable for Five is a poignant exploration of family dynamics, love, and self-discovery, as J.P. navigates the complexities of single parenthood and the challenges of rebuilding relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "dd4652afa8d6479f901702a94181111f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 615.0 words or less.\n\n---\n\n**Title:**\n\nTable for Five\n\n**Year:**\n\n1983",
+    "include_year": false
+}

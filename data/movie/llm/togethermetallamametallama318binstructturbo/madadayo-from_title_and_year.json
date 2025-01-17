@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Madadayo",
+    "descriptions": [
+        "'Madadayo' is a 1993 Japanese drama film directed by Akira Kurosawa. The story revolves around an elderly professor, Shūichi Shingai, who has retired from his position at the University of Tokyo. Though he is enjoying his retirement, he is still deeply respected by his former students, who visit him regularly.\n\nOne of these students, a young doctor named Hiroshi, is particularly close to the professor and visits him frequently. The professor, feeling the weight of his mortality, begins to contemplate his own life and the meaning of 'madadayo,' a phrase that roughly translates to \"Not yet dead.\"\n\nAs the professor grapples with his own mortality, he reflects on the changing times and the people around him. Through his interactions with Hiroshi and other characters, the professor comes to terms with his own life and the fleeting nature of human existence.\n\nThe film is a poignant exploration of aging, mortality, and the passing of time, as seen through the eyes of a wise and compassionate professor."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "f2014c8ca9859e48a197ddb21e04feeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMadadayo\n\n**Year:**\n\n1993",
+    "include_year": false
+}

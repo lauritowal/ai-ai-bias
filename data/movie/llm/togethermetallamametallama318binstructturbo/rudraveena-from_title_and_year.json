@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rudraveena",
+    "descriptions": [
+        "'Rudraveena' is a 1988 Indian Malayalam-language musical drama film directed by Priyadarshan. The movie revolves around a young musician named Viju (Suresh Gopi) who is an expert in playing the violin. He aspires to become a renowned musician and prove himself by competing against a renowned character named Jayaram in a music competition. However, a series of unfortunate events and misunderstandings lead to Viju losing his violin and subsequent opportunities.\n\nIn an attempt to ensure his name is not associated with any of the unfortunate events, Viju decides to steal a valuable violin from a wealthy man's house. However, this violin belongs to a man named Ramachandran (Mohanlal), who plays it to maintain a sense of peace and connection with the deceased. \n\nA series of events unfolds as Viju tries to prove himself as a musician and clear his name, ultimately leading to an emotional climax. 'Rudraveena' is a character-driven drama that focuses on the musician's journey and explores themes of love, loss, and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "540715a47fbcf755ac393c9609058246",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 213.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988",
+    "include_year": false
+}

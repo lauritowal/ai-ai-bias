@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Roots: The Gift",
+    "descriptions": [
+        "1988\n\n**Plot Summary:**\n\nIn the movie \"Roots: The Gift,\" set in the 1760s, a young African man named Omoro is captured and sold into slavery in America. Despite facing the harsh reality of slavery, Omoro maintains his dignity and resilience. He befriends another slave, a young girl named Kizzy, and they form a bond that helps them survive the brutal conditions on the plantation.\n\nAs the years pass, Omoro and Kizzy endure unimaginable hardships, but their spirits remain unbroken. They pass down their stories and traditions to the next generation, instilling in them a sense of pride and resilience. When Kizzy gives birth to a son, he is taken away from her and sold to another plantation. Determined to find her son and reunite her family, Kizzy embarks on a dangerous journey that tests her courage and determination.\n\nThrough their struggles, Omoro and Kizzy's family learns the importance of resilience, perseverance, and the power of love and unity. \"Roots: The Gift\" is a powerful and moving story of one family's journey through slavery and their determination to overcome adversity and preserve their heritage. It serves as a reminder of the strength and resilience of the human spirit in the face of unimaginable challenges."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "d82e0dd9780746987a76ff05d44b0586",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n",
+    "include_year": false
+}

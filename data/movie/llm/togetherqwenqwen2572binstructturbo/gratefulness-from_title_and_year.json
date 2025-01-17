@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gratefulness",
+    "descriptions": [
+        "In the heartwarming 2003 film \"Gratefulness,\" the story revolves around Sarah, a successful but overworked corporate lawyer, who finds herself at a crossroads after a near-fatal accident. The incident leaves her with a newfound appreciation for life and a deep sense of gratitude. Seeking a change, Sarah decides to leave her high-pressure job and move to a small coastal town where she reconnects with her roots and the simple joys of life.\n\nThere, she befriends a diverse group of locals, including a wise old fisherman, a spirited young artist, and a kind-hearted single mother. Each of these relationships teaches Sarah valuable lessons about community, kindness, and the importance of living in the moment. As she helps them navigate their own challenges, Sarah discovers her true calling and finds a deeper sense of purpose and fulfillment.\n\nThe film culminates in a community event that brings everyone together, highlighting the transformative power of gratitude and the strength found in unity. \"Gratefulness\" is a touching tale that reminds viewers of the beauty in everyday moments and the impact of a grateful heart."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "7c6b1465b0894045999cc9b999514855",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 241.0 words or less.\n\n---\n\n**Title:**\n\nGratefulness\n\n**Year:**\n\n2003",
+    "include_year": false
+}

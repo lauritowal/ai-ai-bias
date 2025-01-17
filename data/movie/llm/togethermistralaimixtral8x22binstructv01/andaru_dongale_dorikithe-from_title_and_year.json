@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Andaru Dongale Dorikithe",
+    "descriptions": [
+        " In the 2004 Telugu comedy-drama film Andaru Dongale Dorikithe, three friends - Raju, Babu, and Bhaskar - find themselves in a series of comedic situations after they decide to create a fake police officer uniform for fun. The trio, played by Rajendra Prasad, Brahmanandam, and Kondavalasa Lakshmana Rao respectively, are known for their mischievous antics in their small village.\n\nOne day, they come across a police uniform and, in a moment of excitement, decide to create a replica. Raju, the most daring of the three, dons the uniform and starts acting as a police officer. At first, their prank is harmless, with Raju using his \"authority\" to help villagers and settle petty disputes. However, things take a turn when they cross paths with a dangerous gangster, Sivannarayana, played by Kota Srinivasa Rao.\n\nThe gangster mistakes Raju for a real police officer and involves him in a high-stakes mission. The three friends find themselves in a series of hilarious and dangerous situations, trying to maintain the illusion of Raju's police persona while avoiding the wrath of the gangster. Along the way, they learn valuable lessons about friendship, honesty, and the consequences of their actions.\n\nAndaru Dongale Dorikithe is a light-hearted comedy that uses a simple premise to deliver a range of humorous situations. The film's success lies in its ability to balance comedy with a touch of drama, making it a delightful watch for audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "9f7e1b1e1d613b6f29c6e00e964c38b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nAndaru Dongale Dorikithe\n\n**Year:**\n\n",
+    "include_year": false
+}

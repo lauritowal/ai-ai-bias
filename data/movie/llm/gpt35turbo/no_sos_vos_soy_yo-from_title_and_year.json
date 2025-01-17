@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "No sos vos, soy yo",
+    "descriptions": [
+        "\"No sos vos, soy yo\" is a 2004 Argentine romantic comedy film that follows the story of Javier, a young man who is dumped by his girlfriend, Maria. Convinced that he is the one at fault for the failed relationship, Javier decides to embark on a journey of self-discovery to figure out what went wrong.\n\nAs Javier navigates the highs and lows of single life, he begins to realize that the problem may not have been entirely his fault. Along the way, he meets a colorful cast of characters who help him see that relationships are a two-way street and that sometimes people simply grow apart.\n\nThroughout the film, Javier reflects on his past relationships and learns valuable lessons about love, communication, and self-acceptance. As he starts to come to terms with his own shortcomings, Javier begins to find closure and gains a renewed sense of confidence.\n\n\"No sos vos, soy yo\" is a heartwarming and humorous tale about the ups and downs of love, the importance of self-reflection, and the journey to finding happiness within oneself."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "132b7cce378c409c1225f6fb03b65e10",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 220.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004",
+    "include_year": false
+}

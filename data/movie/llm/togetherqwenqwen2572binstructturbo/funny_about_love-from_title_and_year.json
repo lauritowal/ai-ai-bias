@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Funny About Love",
+    "descriptions": [
+        "\"Funny About Love\" (1990) is a romantic comedy that follows the story of Kate Parker (played by Meg Ryan), a book editor in New York City who is pragmatic about her career but cynical about love. Her life takes an unexpected turn when she meets Michael Harris (played by Tim Robbins), a charming and successful architect who seems to be her perfect match. Despite their initial chemistry, Kate's fear of commitment and Michael's own reservations about relationships create a series of comedic misunderstandings and misadventures.\n\nAs Kate and Michael try to navigate their feelings for each other, they encounter a series of humorous obstacles, including meddling friends, awkward dates, and a series of coincidental run-ins that keep bringing them back together. The film explores the themes of modern relationships, the balance between career and love, and the sometimes absurd lengths people go to in the pursuit of happiness.\n\nUltimately, Kate and Michael must decide whether their differences are too great to overcome or if they can find a way to make their love work. The movie is a light-hearted and charming exploration of the quirks and complexities of modern romance, filled with witty dialogue and relatable moments."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "e0a74c3fdaa956061ec82dd0a43a87ca",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 256.0 words or less.\n\n---\n\n**Title:**\n\nFunny About Love\n\n**Year:**\n\n1990",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Summer Heat",
+    "descriptions": [
+        "\"Summer Heat,\" a 2008 film, is a romantic comedy-drama that follows the story of a successful businesswoman named Olivia. She is a driven and ambitious individual who has been focused on her career, often neglecting her personal life.\n\nOlivia's life is turned upside down when she meets Seth, a charming and laid-back local who is the owner of a small beachside restaurant. The two start a whirlwind romance, but their relationship is put to the test when Olivia's high-powered job requires her to relocate to the city.\n\nAs Olivia tries to balance her career and her growing feelings for Seth, she is forced to confront the emptiness of her high-society lifestyle. Meanwhile, Seth is dealing with his own struggles, including the threat of his restaurant being sold to a large corporation.\n\nThroughout the film, Olivia and Seth must navigate the challenges of their relationship and figure out what they truly want from life. Will Olivia choose the security and stability of her high-powered job, or will she take a chance on love and a simpler way of life?\n\n\"Summer Heat\" is a heartwarming and humorous exploration of love, identity, and the importance of following one's heart. The film features a talented cast, beautiful scenery, and a engaging storyline that will keep viewers invested in the characters' journeys. With its lighthearted tone and uplifting message, \"Summer Heat\" is a perfect summer movie that is sure to leave audiences feeling inspired and hopeful."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "76c9674bf3f7e006ed0fed3b5b7bf780",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 360.0 words or less.\n\n---\n\n**Title:**\n\nSummer Heat\n\n**Year:**\n\n2008",
+    "include_year": false
+}

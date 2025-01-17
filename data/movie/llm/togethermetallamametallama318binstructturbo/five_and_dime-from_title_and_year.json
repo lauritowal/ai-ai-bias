@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Five and Dime",
+    "descriptions": [
+        "Unfortunately, it appears that there is limited information available on a movie called \"Five and Dime\" released in 1933. However, I can suggest that it might be a lost film or a lesser-known title. \n\nIf you're looking for information about a different movie, such as \"Five and Ten\" (a 1933 film starring Carole Lombard), I can try to provide a plot summary for that title. \n\n\"Five and Ten\" is a romantic comedy film directed by Robert Z. Leonard. The story revolves around a small-town girl, Sarah Mifton, who goes to New York to seek her fortune and becomes involved in a series of misadventures. Along the way, she meets a handsome young man, Tom Riley, who tries to help her succeed in the big city. As they navigate their way through various challenges, Sarah and Tom develop feelings for each other, but their romance is threatened by Sarah's desire for independence and financial security."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "dac6f77a51fc9bc0a426f7844926f608",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 290.0 words or less.\n\n---\n\n**Title:**\n\nFive and Dime\n\n**Year:**\n\n1933",
+    "include_year": false
+}

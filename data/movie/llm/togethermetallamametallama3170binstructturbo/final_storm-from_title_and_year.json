@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Final Storm",
+    "descriptions": [
+        "\"Final Storm\" is a 2010 Canadian science fiction disaster film. The movie follows a family who prepares for a massive storm that is predicted to destroy their town. \n\nTom (Luke Perry) is a farmer who lives with his wife, Brenda (Lauren Holly), and their children. A long time ago, Tom had a dream of a massive storm destroying his town, and it has recurred throughout his life. Initially, everyone dismisses Tom's premonitions as mere dreams. However, the same dream starts to occur to Brenda, and she begins to share Tom's concerns.\n\nAs the predicted storm draws near, the family starts to prepare a storm shelter. But their neighbors and the local authorities dismiss their warnings and think they are overreacting. \n\nThe family then starts to experience strange and supernatural occurrences, which they think may be connected to the approaching storm. Eventually, a massive storm hits the town, and Tom's family and their neighbors must fight for survival.\n\nThe movie takes a mix of science fiction, supernatural elements, and disaster themes to create a thrilling narrative about a family's desperate attempt to save themselves from a potentially catastrophic event. Throughout the film, the line between reality and supernatural occurrences becomes increasingly blurred, making the audience question what's real and what's just a product of the characters' paranoia."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "23a4a99c202aedc6b0eb450363e21fc6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nFinal Storm\n\n**Year:**\n\n2010",
+    "include_year": false
+}

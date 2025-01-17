@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Satan's Little Helper",
+    "descriptions": [
+        "Satan's Little Helper is a 2004 American black comedy horror film written and directed by Jeff Lieberman. \n\nThe story revolves around a young boy named Douglas Whooly (Alexander Brickel), who is obsessed with a violent video game called \"Satan's Little Helper.\" In the game, the main character assists the devil in his evil deeds. \n\nOn Halloween night, Douglas meets a man (played by Joshua Annex) wearing a costume of the devil from his favorite game. The man offers to help Douglas trick-or-treat, claiming that he is indeed Satan. Unbeknownst to Douglas, this is actually a serial killer who is using the disguise to continue his killing spree.\n\nDouglas, misunderstanding the situation and thinking that the man is a participant in a live-action version of his favorite game, assists him in various crimes throughout the night, including murder. As the night progresses, Douglas's family and those around him begin to uncover the truth about the man's sinister intentions.\n\nThe film is a dark commentary on the effects of violent video games on children's perception of reality and their actions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1a612af0a460d6f91a8abc29685015a0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1400.0 words or less.\n\n---\n\n**Title:**\n\nSatan's Little Helper\n\n**Year:**\n\n2005",
+    "include_year": false
+}

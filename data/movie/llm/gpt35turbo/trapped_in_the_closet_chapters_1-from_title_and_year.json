@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trapped in the Closet Chapters 1–12",
+    "descriptions": [
+        "Trapped in the Closet Chapters 1-12 is a musical drama film released in 2005 that follows the story of a man named Sylvester who finds himself entangled in a web of deceit, infidelity, and drama after having a one-night stand with a married woman named Cathy. The film unfolds through a series of interconnected chapters, each revealing more shocking twists and turns in the characters' lives.\n\nAs Sylvester tries to navigate the fallout from his affair with Cathy, he discovers that she is not the only one keeping secrets. He soon learns that Cathy's husband, Rufus, is also hiding a scandalous affair of his own. The tangled web of relationships becomes even more complicated as Sylvester's own wife, Gwendolyn, becomes suspicious of his behavior and starts her own investigation into his actions.\n\nThroughout the film, the audience is introduced to a colorful cast of characters, including a nosy neighbor, a gun-toting midget, and a closeted gay pastor, all of whom play a role in the unfolding drama. As the truth slowly comes to light, Sylvester finds himself trapped in a dangerous and unpredictable situation that threatens to unravel his life and the lives of those around him.\n\nTrapped in the Closet Chapters 1-12 is a rollercoaster of emotions, filled with suspense, humor, and unexpected plot twists. The film explores themes of love, betrayal, and the consequences of our actions, leaving the audience on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "b0b9eb022ab4e3706915fe8549e7b985",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 2266.0 words or less.\n\n---\n\n**Title:**\n\nTrapped in the Closet Chapters 1–12\n\n**Year:**\n\n2005",
+    "include_year": false
+}

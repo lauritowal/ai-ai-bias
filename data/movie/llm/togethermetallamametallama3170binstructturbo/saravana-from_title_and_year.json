@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Saravana",
+    "descriptions": [
+        "Saravana is a 2006 Indian Tamil-language action film directed by K. S. Ravikumar. The film stars Silambarasan, Jyothika, Prabhu, and Vivek.\n\nThe movie revolves around Saravana (Silambarasan), a young man from a small village, who falls in love with Sadhana (Jyothika), the daughter of a wealthy businessman. However, their love is opposed by Sadhana's father, who wants her to marry a rich man.\n\nSaravana decides to leave his village and move to the city to make a name for himself and prove his worth to Sadhana's father. With the help of his friend, he starts working as a mechanic and eventually becomes a successful businessman.\n\nMeanwhile, a local goon and Sadhana's father's business partner, tries to destroy Saravana's reputation and business. Saravana, however, manages to outsmart him and emerges as a winner.\n\nAs Saravana's success grows, he and Sadhana's relationship also blossoms. The movie ends with Saravana and Sadhana getting married, and Saravana's triumph over his opponents.\n\nThroughout the movie, Silambarasan's performance as the protagonist is notable, and the film features a good mix of action, romance, and comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7579a431f3c938c147f193a3de074bc0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 697.0 words or less.\n\n---\n\n**Title:**\n\nSaravana\n\n**Year:**\n\n2006",
+    "include_year": false
+}

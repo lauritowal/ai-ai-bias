@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Where's Firuze?",
+    "descriptions": [
+        "\"Where's Firuze?\" is a 2004 Iranian drama film directed by Babak Kheradmand. The movie revolves around a young boy named Firuze, who gets lost in the streets of Tehran. \n\nThe story begins with Firuze, a three-year-old boy, who wanders away from his family in a crowded market. As the family searches for him, they start to realize the difficulties they face in a chaotic city. The mother of Firuze, struggling with the loss of her child, begins to question her relationship with her husband and their ability to care for their son. \n\nAs the search for Firuze intensifies, the family and the community come together to help find the lost child. Along the way, the family uncovers issues of class, social inequality, and the harsh realities of life in a big city.\n\nThroughout the film, the director explores themes of loss, parenthood, and the psychological effects of family separation. \"Where's Firuze?\" raises questions about the vulnerabilities of children in a busy, often unresponsive urban environment.\n\nThe movie ultimately becomes a poignant portrayal of the complexities of family relationships and the emotional toll of separation. The film's narrative is driven by the love and desperation of the family for Firuze, and the hope of finding him before it's too late."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1a9aaf1db5c550f6cdf2fb501638c19c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 329.0 words or less.\n\n---\n\n**Title:**\n\nWhere's Firuze?\n\n**Year:**\n\n2004",
+    "include_year": false
+}

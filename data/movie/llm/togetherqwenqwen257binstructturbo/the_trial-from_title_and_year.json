@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trial",
+    "descriptions": [
+        "In \"The Trial\" (2009), a mysterious and intense psychological thriller, the protagonist, Jonathan, is thrown into a surreal and terrifying ordeal when he is summoned to appear before a secretive, enigmatic tribunal. As Jonathan navigates through a labyrinth of confusing questions and bizarre procedures, he realizes that the fate of not only himself but also his loved ones hangs in the balance. The film delves into themes of justice, power, and the human psyche, as Jonathan struggles to uncover the true nature of the trial and the forces behind it. With its haunting atmosphere and thought-provoking narrative, \"The Trial\" is a gripping exploration of the human condition in the face of an inexplicable and malevolent system."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "5a03754bb22e9219f8eb42e2b0dd22d2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 274.0 words or less.\n\n---\n\n**Title:**\n\nThe Trial\n\n**Year:**\n\n2009",
+    "include_year": false
+}

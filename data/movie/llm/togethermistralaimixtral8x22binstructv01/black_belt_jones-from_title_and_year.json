@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Black Belt Jones",
+    "descriptions": [
+        " \"Black Belt Jones\" (1974) is a classic blaxploitation martial arts film directed by Robert Clouse. The movie stars Jim Kelly as \"Black Belt\" Jones, a martial arts expert who becomes embroiled in a turf war between a local gang and a Mafia-backed construction company.\n\nThe film opens with the gang trying to muscle in on the territory of a karate dojo run by Pop Byrd (Scatman Crothers). When Pop refuses to give in to their demands, the gang turns to violence, leading to a showdown with Black Belt Jones. Jones, who owes Pop a debt of gratitude for helping him in the past, steps in to protect the dojo and its students.\n\nMeanwhile, the construction company, led by the ruthless Pinky (Martin Kove), wants to build a new development on the same land as the dojo. They try to force Pop out by any means necessary, including hiring a squad of martial arts mercenaries to take out Jones and his allies.\n\nAs the conflict escalates, Jones must use all of his skills to take down the gang and the construction company. Along the way, he teams up with a group of tough women, led by the fearless Sydney (Gloria Hendry), who are determined to protect their neighborhood from outside forces.\n\nWith its mix of martial arts action, humor, and social commentary, \"Black Belt Jones\" became a cult classic of the blaxploitation genre. The film showcased Kelly's charisma and martial arts prowess, cementing his status as a leading man in the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nBlack Belt Jones\n\n**Year:**\n\n1974",
+    "include_year": false
+}

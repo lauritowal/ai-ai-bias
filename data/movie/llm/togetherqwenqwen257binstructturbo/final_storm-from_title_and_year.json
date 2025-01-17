@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Final Storm",
+    "descriptions": [
+        "**Plot Summary:**\n\nFinal Storm, released in 2010, is a thrilling action film that unfolds in the shadow of an impending hurricane. The story centers around Jack Sutton (played by Matthew McConaughey), a former storm chaser turned disaster response coordinator, who is called back into his old profession when a massive storm, dubbed \"The Final Storm,\" threatens to devastate the Gulf Coast. Jack's daughter, Sarah (played by Abigail Breslin), a college student away at school, is in the storm's path, and Jack must race against time to find her and ensure her safety.\n\nAs the storm intensifies, Jack teams up with Claire (played by Kate Hudson), a resilient local meteorologist, and a team of dedicated first responders. They navigate treacherous conditions, battling not only the storm's wrath but also their own personal demons. The film takes viewers on a heart-pounding journey through tornadoes, flash floods, and raging seas, as Jack and his team fight to save lives and protect their community.\n\nThe narrative weaves together personal drama and high-stakes action, with emotional moments that highlight the bonds of family and the resilience of the human spirit. The climax features a dramatic confrontation with the storm's most destructive elements, culminating in a race against the clock to save Sarah and those trapped in the storm's path. Final Storm is a gripping, visually stunning film that combines intense action sequences with poignant human stories, making it a standout entry in the disaster movie genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "23a4a99c202aedc6b0eb450363e21fc6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nFinal Storm\n\n**Year:**\n\n2010",
+    "include_year": false
+}

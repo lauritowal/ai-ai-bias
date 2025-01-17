@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arena",
+    "descriptions": [
+        "\"Arena,\" released in 1989, is a British television film directed by Mike Leigh and written by Roger Michell. The film explores the life and career of British actor Sir John Gielgud, focusing on his experiences and reflections as he prepares to perform in a one-man show celebrating his 80th birthday. The narrative weaves between Gielgud's current preparations and flashbacks to pivotal moments in his career, including his early days on the stage, his relationships with fellow actors, and his encounters with directors and playwrights. The film delves into Gielgud's deep connection to Shakespeare and his enduring passion for the theater, despite the challenges and personal struggles he faced. Through intimate conversations and monologues, \"Arena\" provides a poignant and insightful portrait of one of the most revered figures in British theater, celebrating his legacy and the timeless art of acting."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "b7b53bb9117d9c148c7a9d49a68fd5b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 241.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+    "include_year": false
+}

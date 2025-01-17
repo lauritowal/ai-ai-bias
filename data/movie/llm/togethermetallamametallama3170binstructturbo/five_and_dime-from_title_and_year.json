@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Five and Dime",
+    "descriptions": [
+        "Five and Dime is a 1933 American drama film. Unfortunately, I couldn't find any detailed information about this film. However, I can provide general information about the plot based on the title.\n\nThe title 'Five and Dime' likely refers to a five and dime store, which was a type of variety store that sold a wide range of inexpensive items. These stores were common in the United States during the early 20th century.\n\nAssuming the film is set in a similar time period, the plot may revolve around the lives of people associated with a five and dime store. The story could follow the owner of the store as they navigate the challenges of running a small business during the Great Depression. Alternatively, it might focus on the employees or regular customers of the store, exploring their personal struggles and relationships.\n\nWithout more specific information, it's difficult to provide a more detailed plot summary. However, it's likely that 'Five and Dime' is a character-driven drama that explores the lives of ordinary people during a time of economic hardship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "dac6f77a51fc9bc0a426f7844926f608",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 290.0 words or less.\n\n---\n\n**Title:**\n\nFive and Dime\n\n**Year:**\n\n1933",
+    "include_year": false
+}

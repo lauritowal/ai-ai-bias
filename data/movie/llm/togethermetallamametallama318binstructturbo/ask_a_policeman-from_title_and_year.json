@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ask A Policeman",
+    "descriptions": [
+        "\"Ask a Policeman\" is a 1939 British comedy film directed by Thornton Freeland. The movie is loosely based on the novel \"Ask a Policeman\" by P.G. Wodehouse, but only uses the names and some plot elements. The story revolves around a group of bumbling police officers in the small town of Bramley.\n\nThe film focuses on the misadventures of Inspector Grant and his team, particularly Sergeant Armstrong and Constable Barlow. The trio is sent to Bramley to investigate a series of petty crimes and to maintain order in the town. However, their ineptitude causes more problems than they solve, often leading to chaos and confusion.\n\nOne of the main plot points revolves around Inspector Grant, who is tasked with marrying a woman to improve his social standing and to gain a promotion. The woman, known as 'The Duchess', has a reputation for being difficult to manage and is not interested in Grant. As a result, Armstrong and Barlow concoct a series of schemes to help their boss win her over, but their efforts only lead to more complications.\n\nThe film is a lighthearted comedy with plenty of slapstick humor, witty one-liners, and comedic misunderstandings. The cast, which includes Gordon Harker, Fay Wray, and Jane Baxter, delivers solid performances that add to the film's humor and charm.\n\nThroughout the movie, the trio's antics create a series of comedic situations, including a sequence where they accidentally foist a fake 'escaped' prisoner on the local population, causing widespread panic. The film's climax involves Grant's attempt to marry 'The Duchess', which ends in a series of unexpected twists and turns.\n\nIn the end, \"Ask a Policeman\" is a lighthearted, entertaining comedy that showcases the talents of its cast and crew. Despite being loosely based on a P.G. Wodehouse novel, the film has a distinct tone and style that is reminiscent of British comedies of the time."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "427ec9c6d0157523f5db3cc61e71ddd4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 741.0 words or less.\n\n---\n\n**Title:**\n\nAsk A Policeman\n\n**Year:**\n\n1939",
+    "include_year": false
+}

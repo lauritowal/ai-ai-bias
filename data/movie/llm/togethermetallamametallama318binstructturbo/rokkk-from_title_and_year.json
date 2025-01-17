@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rokkk",
+    "descriptions": [
+        "There isn't much information available about the movie \"Rokkk\" released in 2010. However, I was able to find a bit about a low-budget film titled \"Rokkk\". It appears to be a horror film, with not much available about its plot.\n\nSome information from available sources does suggest it's a Malayalam-language film, which is a language spoken in India. It appears to be a low-budget horror film produced and directed by K Sreekuttan. The film premiered in 2010, though more information is limited.\n\nThe movie is often considered a B-movie, a low-budget film that received mixed reviews. It may not have gained much attention from mainstream audiences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "03e26709601c0002054b2ef0a6189ec9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 323.0 words or less.\n\n---\n\n**Title:**\n\nRokkk\n\n**Year:**\n\n2010",
+    "include_year": false
+}

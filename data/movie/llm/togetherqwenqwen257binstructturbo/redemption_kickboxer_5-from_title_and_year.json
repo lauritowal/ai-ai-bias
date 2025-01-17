@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Redemption: Kickboxer 5",
+    "descriptions": [
+        "In \"Redemption: Kickboxer 5\" (1995), former kickboxing champion Eric Lippitz, played by Jean-Claude Van Damme, returns to his hometown to find it in turmoil. A dangerous drug lord has taken over, and Eric must use his martial arts skills to take down the criminal organization and restore peace. Along the way, he reconnects with old friends and mentors, including his former trainer, who helps him hone his skills for the final confrontation. The film blends intense fight sequences with emotional drama as Eric grapples with his past and his place in the community."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1900de10cbc376a299345b56c4626863",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nRedemption: Kickboxer 5\n\n**Year:**\n\n1995",
+    "include_year": false
+}

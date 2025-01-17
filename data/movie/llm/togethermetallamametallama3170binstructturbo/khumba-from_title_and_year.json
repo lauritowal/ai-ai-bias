@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Khumba",
+    "descriptions": [
+        "Khumba is a 2013 computer-animated adventure comedy film. The story takes place in the Great Karoo, a semi-desert region in South Africa, and follows the life of a zebra named Khumba. Born with only half his stripes, Khumba is ostracized by his herd, who believe that he is the reason for the severe drought that has affected their land.\n\nTired of being an outcast, Khumba embarks on a journey to find the fabled 'Magic Waterholes,' which are said to bring rain to the land. Along the way, he meets a chatty and eccentric ostrich named Percy and a feisty, street-smart wildebeest named Tombi.\n\nAs they travel, Khumba and his new friends face various obstacles, including a group of vicious predators and a treacherous terrain. Through his experiences, Khumba discovers the true meaning of being different and what it means to belong.\n\nKhumba's journey ultimately takes him to the Magic Waterholes, where he discovers a hidden secret that will change his life and the fate of his herd forever. The film features a blend of stunning animation, engaging characters, and a heartwarming story that celebrates the importance of self-acceptance and perseverance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "ff47d5bb7ce7a87937dbd0529a81be8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 303.0 words or less.\n\n---\n\n**Title:**\n\nKhumba\n\n**Year:**\n\n2013",
+    "include_year": false
+}

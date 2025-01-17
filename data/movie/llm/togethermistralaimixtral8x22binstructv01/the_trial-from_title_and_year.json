@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trial",
+    "descriptions": [
+        " In the gripping 2009 drama \"The Trial,\" acclaimed director Gary Wheeler delves into the complexities of the human psyche amidst the backdrop of a high-stakes courtroom.\n\nThe story revolves around a renowned criminal defense attorney, Jim Gabriel (Matthew Modine), known for his exceptional skills and unwavering dedication to justice. His life takes a dramatic turn when he is assigned to defend a young man, Michael Henry (Randy Wayne), accused of murdering his father, a prominent local pastor. The case seems open-and-shut, with overwhelming evidence pointing to Michael's guilt.\n\nHowever, as Jim delves deeper into the case, he begins to question the truth of the investigation. The plot thickens as he uncovers a web of secrets and lies that implicate not only Michael but also the entire town. Jim's unrelenting pursuit of justice becomes a personal crusade, testing his loyalty, faith, and moral compass.\n\nMeanwhile, Jim's personal life is in shambles. His wife (Roba Ruzika) is struggling with her own demons, and their marriage is on the brink of collapse. As Jim becomes increasingly obsessed with the case, he risks losing everything he holds dear.\n\n\"The Trial\" is a compelling exploration of truth, justice, and redemption. It keeps the audience on the edge of their seats, questioning the nature of guilt and innocence until the very end. With its powerful performances and thought-provoking narrative, this film offers a unique perspective on the human condition and the lengths one will go to seek the truth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "5a03754bb22e9219f8eb42e2b0dd22d2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 274.0 words or less.\n\n---\n\n**Title:**\n\nThe Trial\n\n**Year:**\n\n2009",
+    "include_year": false
+}

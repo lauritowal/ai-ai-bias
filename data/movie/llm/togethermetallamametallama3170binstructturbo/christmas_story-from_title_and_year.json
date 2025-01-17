@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Christmas Story",
+    "descriptions": [
+        "I couldn't find a well-known movie titled \"Christmas Story\" released in 2007. However, there's a famous film titled \"A Christmas Story\" released in 1983. \n\n\"A Christmas Story\" is set in the 1940s in Indiana and revolves around 9-year-old Ralphie Parker, who desperately wants a Red Ryder BB gun for Christmas. Ralphie's desire for the gun is met with resistance from his parents, teachers, and even a department store Santa Claus, as they all say, \"You'll shoot your eye out.\"\n\nThroughout the film, Ralphie navigates the challenges of childhood, from bullies to awkward family gatherings, all while hoping to receive his coveted BB gun on Christmas morning. The film is a nostalgic and humorous portrayal of childhood in the 1940s, with a unique voice and perspective.\n\nSince I couldn't find the 2007 movie \"Christmas Story,\" it's possible that it's a lesser-known or foreign film. If you have more information, I'd be happy to try again."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "066626c149517f8e3bbaa8d94c7bbbb7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007",
+    "include_year": false
+}

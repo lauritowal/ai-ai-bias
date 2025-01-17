@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bartok the Magnificent",
+    "descriptions": [
+        "'Bartok the Magnificent' is a 1999 American animated musical fantasy-comedy film directed by Don Bluth and Gary Goldman. The film is a spin-off of the 1997 film 'Anastasia'. \n\nThe story revolves around Bartok, the talking bat and sidekick of the villainous Rasputin from 'Anastasia'. In this film, Bartok has decided to change his ways and become a hero. He lives in a small cave near Moscow with his sidekick, a bear named Zozi.\n\nBartok decides to make a living by putting on magic shows for the people of Moscow. However, he struggles to find success due to his lack of actual magical abilities. Meanwhile, Prince Ivan, the son of the Grand Duke, is kidnapped by the evil witch, Baba Yaga. \n\nBartok sees this as an opportunity to prove himself and sets out on a mission to rescue the prince. Along the way, he meets a beautiful girl named Ludmilla, who joins him on his quest. Together, they face various obstacles and challenges as they try to outsmart Baba Yaga and rescue Prince Ivan.\n\nThroughout the film, Bartok learns the value of being true to himself and using his unique skills to help others. In the end, he successfully rescues the prince and earns the respect and admiration of the people of Moscow, finally achieving his dream of becoming a hero."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2eb1ad77a0379f34ff2e1bef80546317",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 920.0 words or less.\n\n---\n\n**Title:**\n\nBartok the Magnificent\n\n**Year:**\n\n1999",
+    "include_year": false
+}

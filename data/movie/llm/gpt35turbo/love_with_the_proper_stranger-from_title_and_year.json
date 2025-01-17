@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love with the Proper Stranger",
+    "descriptions": [
+        "In the 1963 film \"Love with the Proper Stranger,\" the story follows Angie Rossini, a salesclerk in her 20s living in New York City. Angie finds herself pregnant after a one-night stand with musician Rocky Papasano. Unsure of what to do, Angie seeks Rocky out to inform him of her pregnancy. \n\nRocky, who is not looking to settle down, initially struggles with the news but eventually decides to take responsibility for his actions. The two characters navigate their newfound relationship and the challenges that come with an unexpected pregnancy. Angie is torn between her desire to keep the baby and her fear of raising a child alone, while Rocky grapples with his fear of commitment and the impact this situation will have on his life.\n\nAs Angie and Rocky spend more time together, they begin to form a deeper connection and realize that they may have more in common than they originally thought. The film explores themes of love, responsibility, and the complexities of relationships. In the end, Angie and Rocky must decide what is best for themselves and the future of their unborn child.\n\n\"Love with the Proper Stranger\" is a heartfelt and emotional tale of two individuals navigating the challenges of unexpected parenthood and discovering the true meaning of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9ad016a99671e1a6d75cf7772845abe6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLove with the Proper Stranger\n\n**Year:**\n\n1963",
+    "include_year": false
+}

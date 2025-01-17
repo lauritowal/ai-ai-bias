@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lucky: No Time for Love",
+    "descriptions": [
+        " \"Lucky: No Time for Love\" is a romantic drama set against the backdrop of the 2005 European floods. The story revolves around two unlikely lovers, Lucky, a carefree Indian teenager on a trip to Europe, and Madhu, a sophisticated Russian musician.\n\nWhen Lucky accidentally gets separated from his tour group, he spends his days wandering around Prague, trying to find his way back. During one of his escapades, he stumbles upon Madhu, who is fleeing from her abusive fiancé. Seeing her distress, Lucky offers her a place to stay, and they form an unlikely bond, finding comfort and solace in each other's company.\n\nHowever, their bliss is short-lived as Madhu's fiancé tracks her down, forcing them to flee once again. As they make their way through treacherous terrains, their bond deepens, and they fall in love. But their happiness is threatened as the 2005 floods hit, and they find themselves stranded in the middle of the disaster.\n\nIn a race against time, Lucky must find a way to save Madhu and himself, all while battling the forces of nature and the fury of Madhu's fiancé. With no time for love, Lucky must rise above his fears and emerge as a hero, proving that love knows no boundaries, not even time or distance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "68e35a951cf86336918f53d43c4b204c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005",
+    "include_year": false
+}

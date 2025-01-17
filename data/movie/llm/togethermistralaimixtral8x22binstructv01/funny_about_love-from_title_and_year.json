@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Funny About Love",
+    "descriptions": [
+        " In \"Funny About Love\" (1990), the story revolves around Duffy Bergman, a talented New York City cartoonist, and Meg Lloyd, a successful children's book author. The couple, played by Gene Wilder and Christine Lahti, navigate the ups and downs of their relationship as they grapple with the idea of starting a family.\n\nAfter years of dating, Duffy, who is in his mid-50s, has grown increasingly weary of his bachelor lifestyle and begins to long for a child. Meg, on the other hand, is hesitant about the idea, as she is focused on her career and worries about the impact of motherhood on her personal and professional life.\n\nTheir differing views on parenthood create tension in their relationship, and they eventually decide to part ways. Duffy moves to Los Angeles, where he meets and marries a free-spirited woman named Daphne. Meg, meanwhile, remains in New York and rekindles a romantic connection with her ex-husband, Geoffrey.\n\nAs Duffy and Meg try to move on with their new lives, they both realize that their love for each other remains strong. Despite their differences, they can't shake the idea that they may have made a mistake in separating.\n\nIn a twist of fate, Duffy and Meg find themselves reunited in New York, and they are forced to confront their feelings for each other. As they reevaluate their priorities and revisit the question of parenthood, they ultimately discover that love, in all its complexities, is truly the most important thing."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "ea05ec1ad63dbae0612e954bfcef03d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nFunny About Love\n\n**Year:**\n\n1990",
+    "include_year": false
+}

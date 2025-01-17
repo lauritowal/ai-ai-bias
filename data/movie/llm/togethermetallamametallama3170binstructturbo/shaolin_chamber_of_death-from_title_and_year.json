@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shaolin Chamber of Death",
+    "descriptions": [
+        "Shaolin Chamber of Death is a 1976 martial arts film directed by Chen Chang Ho. The movie follows an orphan who seeks refuge at the Shaolin Temple after his family is brutally murdered. At the temple, he is taken under the wing of the abbot and begins his training in the ways of Shaolin Kung Fu.\n\nAs the orphan grows in skill and strength, he becomes determined to avenge his family's death, which he believes was orchestrated by the ruthless warlord who controls the local region. The warlord, seeking to crush the Shaolin Temple and its opposition to his rule, sends his deadly henchmen to infiltrate and destroy the temple.\n\nThe orphan, now a skilled warrior, must use his newfound abilities to defend the temple and its inhabitants against the warlord's forces. Along the way, he uncovers dark secrets about the warlord's past and the true reason behind his family's murder.\n\nIn the climactic final battle, the orphan faces off against the warlord and his minions in a fierce and deadly showdown. With his Shaolin training and unwavering determination, the orphan is able to defeat the warlord and bring justice to his family's memory.\n\nShaolin Chamber of Death is a classic martial arts film that showcases the beauty and brutality of Shaolin Kung Fu. With its stunning fight choreography, gripping storyline, and memorable characters, this film is a must-see for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "cb0b927f6dcd6865a592dc2a7af26a84",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 639.0 words or less.\n\n---\n\n**Title:**\n\nShaolin Chamber of Death\n\n**Year:**\n\n1976",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "George of the Jungle",
+    "descriptions": [
+        "In the 1997 film \"George of the Jungle,\" we follow the story of George, a man who was raised in the jungle by a wise ape named Ape. As a child, George was saved from a plane crash by Ape and has since grown up in the wild, living among the animals and swinging through the trees like Tarzan. George is the epitome of a wild man, with his long hair, loincloth, and lack of knowledge about the world outside of the jungle.\n\nOne day, while swinging through the trees, George comes across a beautiful woman named Ursula Stanhope, who is on a safari with her wealthy fiance, Lyle. George is immediately smitten with Ursula and decides to follow her back to San Francisco, where she lives. However, George is not used to the ways of the modern world and hilarity ensues as he tries to navigate the city and win Ursula's heart.\n\nAs George tries to impress Ursula, he finds himself in a series of comical situations, from accidentally causing chaos at a fancy dinner party to getting caught in a net while trying to rescue Ursula from a lion. Despite his bumbling ways, George's pure heart and love for Ursula shine through, and she begins to see him in a new light.\n\nMeanwhile, Lyle is determined to win Ursula back and will stop at nothing to get rid of George. He hires two bumbling henchmen to capture George and take him back to the jungle, but George manages to escape with the help of his animal friends.\n\nIn the end, George must rescue Ursula from Lyle's clutches and prove that he is worthy of her love. With the help of Ape and his friends, George swings into action and saves Ursula from danger. Ursula realizes that she has fallen for George and decides to stay in the jungle with him, where they can live happily ever after.\n\n\"George of the Jungle\" is a heartwarming and hilarious tale of love, adventure, and the power of being true to oneself. It reminds us that sometimes the wildest hearts are the ones worth fighting for, and that love can truly conquer all. So swing through the trees with George and Ursula and get ready for a wild ride full of laughs and romance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9f494913cef5300bb41e0af2a29ea914",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 671.0 words or less.\n\n---\n\n**Title:**\n\nGeorge of the Jungle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

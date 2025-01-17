@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Mad Magician",
+    "descriptions": [
+        "\"The Mad Magician,\" released in 1954, is a classic comedy film directed by Gordon Douglas. The story revolves around a down-on-his-luck magician named Emory Bluff (played by Donald O'Connor), who finds himself in dire straits when his act fails and his fiancée, Clara (Betsy Blair), leaves him. Emory is offered a chance to redeem himself when he is hired by a wealthy socialite, Mrs. J.J. Hobart (Martha Raye), to put on a show for her daughter's birthday party. However, things take a wild turn when Emory discovers that the daughter, Tina (Shirley MacLaine), is a mischievous and unpredictable teenager with a knack for causing chaos.\n\nEmory's attempts to impress the guests and win back Clara are constantly thwarted by Tina's antics, leading to a series of hilarious mishaps. The situation becomes even more complicated when Emory is forced to perform a dangerous illusion involving a real lion, which he has never attempted before. Despite the challenges, Emory's creativity and quick thinking help him navigate the chaos, and he eventually wins the admiration of the guests and the heart of Clara. The film is a delightful blend of slapstick humor and charming romance, showcasing the talents of its cast in a series of comedic set pieces."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "64bab644e82d7ed21ce2433431f32d55",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 252.0 words or less.\n\n---\n\n**Title:**\n\nThe Mad Magician\n\n**Year:**\n\n1954",
+    "include_year": false
+}

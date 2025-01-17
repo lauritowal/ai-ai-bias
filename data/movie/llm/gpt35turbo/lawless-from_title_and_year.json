@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawless",
+    "descriptions": [
+        "Set in the Prohibition era of 1931, \"Lawless\" follows the Bondurant brothers – Forrest, Howard, and Jack – who run a successful moonshine business in Franklin County, Virginia. The eldest, Forrest, is the strong and silent leader of the trio, while Howard is the hot-headed and reckless middle brother. Jack, the youngest, is eager to prove himself and make a name for himself in the family business.\n\nTheir moonshine operation catches the attention of corrupt Special Deputy Charlie Rakes, who demands a cut of their profits in exchange for protection. The Bondurant brothers refuse to comply, leading to a tense stand-off between them and Rakes. Despite their defiance, Rakes begins to crack down on their operation, causing tensions to rise in the small town.\n\nMeanwhile, Jack falls in love with a preacher's daughter named Bertha, which further complicates the situation. As the pressure from Rakes intensifies, the brothers are forced to make difficult decisions to protect their livelihood and their loved ones.\n\nAs the violence escalates, Forrest is determined to maintain their independence and uphold their family's legacy, while Howard becomes increasingly reckless and volatile. Jack, caught in the middle, must navigate the dangerous world of bootlegging and corruption while trying to find his place within the family.\n\nThe conflict between the Bondurant brothers and Rakes comes to a head when Rakes orchestrates a brutal attack on the brothers, leaving them battered and bloodied. Despite their injuries, the Bondurant brothers refuse to back down, leading to a final showdown that will determine the fate of their moonshine empire.\n\nIn a climactic and bloody confrontation, the Bondurant brothers face off against Rakes and his men in a violent and chaotic battle. As bullets fly and blood is shed, the brothers must rely on their wits and their loyalty to each other to survive.\n\nIn the end, the Bondurant brothers emerge victorious, but at a great cost. The violence and corruption of their world have taken a toll on them, and they must come to terms with the consequences of their choices. \"Lawless\" is a gripping and intense drama that explores themes of family, loyalty, and the price of freedom in a lawless world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8eda5cf067f6b30f1e42ac5b5f693585",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 636.0 words or less.\n\n---\n\n**Title:**\n\nLawless\n\n**Year:**\n\n2012",
+    "include_year": false
+}

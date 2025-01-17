@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Mad Magician",
+    "descriptions": [
+        "In 1954's \"The Mad Magician,\" Vincent Price stars as a talented magician named Gallico the Great. Gallico creates intricate and impressive illusions, but his dreams of fame are thwarted when his employer, Ormond, steals his magic act and passes it off as his own. Fueled by anger and a desire for revenge, Gallico decides to take matters into his own hands.\n\nGallico begins a twisted scheme to seek vengeance against those who have wronged him. Using his skills in magic, he sets out to eliminate anyone who stands in his way, all while maintaining the facade of a harmless entertainer. As the bodies pile up around him, Gallico's madness and obsession with revenge begin to spiral out of control.\n\nAs the police close in on him, Gallico must use all of his cunning and magic abilities to evade capture and continue his deadly game. The tension builds as Gallico's true motives are slowly revealed, leading to a thrilling and suspenseful climax.\n\n\"The Mad Magician\" is a gripping tale of betrayal, revenge, and madness, with Vincent Price delivering a chilling and captivating performance as the titular character. The film explores themes of obsession and the destructive power of unchecked ambition, making for a compelling and unforgettable viewing experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "40819b90febcbfa30a2135d948e5c092",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nThe Mad Magician\n\n**Year:**\n\n1954",
+    "include_year": false
+}

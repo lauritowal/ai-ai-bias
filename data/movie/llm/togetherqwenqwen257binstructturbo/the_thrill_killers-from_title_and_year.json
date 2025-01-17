@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Thrill Killers",
+    "descriptions": [
+        "**Plot Summary of \"The Thrill Killers\" (1964)**\n\n\"The Thrill Killers\" (1964) is a provocative and controversial film that delves into the dark and twisted psyche of its main characters. Set in the swinging 1960s, the movie follows a group of sexually liberated young adults who revel in the thrill of their own personal hedonism, pushing the boundaries of morality and legality.\n\nThe story centers around four friends: James, the charismatic leader of the group; his girlfriend, Linda, a free-spirited artist; her ex-boyfriend, Mark, a disillusioned writer; and James's friend, Bob, a charismatic yet troubled individual. These four, along with a few other acquaintances, engage in a series of sexual encounters, from casual hookups to more elaborate and dangerous scenarios.\n\nAs the film progresses, the group's activities become increasingly dangerous and illegal, culminating in a series of shocking events that test the limits of their relationships and the very essence of their morality. The plot explores themes of power, control, and the dark side of human desire, all set against the backdrop of a society in the midst of significant cultural and social change.\n\nThe film's controversial nature stems from its explicit content and the way it pushes the boundaries of what was acceptable at the time. Despite its taboos, \"The Thrill Killers\" remains a notable piece of cinema for its unflinching look at the darker aspects of human behavior and its exploration of the psychological undertones of sexual liberation.\n\nWhile the movie's plot is intentionally gritty and provocative, its portrayal of its characters' actions raises questions about the nature of consent, the thin line between fun and danger, and the consequences of indulging in extreme behaviors. The film's enduring legacy lies in its ability to challenge viewers to confront uncomfortable truths about human nature, making it a significant entry in the counterculture cinema of the 1960s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "072836b242636eaa6fb77361b53fd618",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 556.0 words or less.\n\n---\n\n**Title:**\n\nThe Thrill Killers\n\n**Year:**\n\n1964",
+    "include_year": false
+}

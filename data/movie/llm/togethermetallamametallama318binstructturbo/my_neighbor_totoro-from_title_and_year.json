@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "My Neighbor Totoro",
+    "descriptions": [
+        "\"My Neighbor Totoro\" is a heartwarming and imaginative film directed by the renowned Japanese filmmaker Hayao Miyazaki. Released in 1988, the movie follows the story of two young sisters, Satsuki and Mei, who move to the countryside with their father to be closer to their mother, who is recovering from an illness in a nearby hospital.\n\nThe film takes place in post-war Japan, and the siblings are initially hesitant to leave their urban life behind. However, they soon discover the magic and wonder of their new surroundings, including a dense forest that is inhabited by various mythical creatures. The forest is home to a variety of spirits, including the titular Totoro, a giant and friendly forest spirit who becomes the sisters' companion and protector.\n\nSatsuki, who is 10 years old, is the older and more responsible sister. She tries to take care of her 4-year-old sister Mei and navigate their new life in the countryside. Mei, on the other hand, is a curious and adventurous child who is fascinated by the forest and its inhabitants. Throughout the movie, the sisters learn to cope with their mother's illness and come to terms with their new reality.\n\nThe film is a beautiful and poignant exploration of childhood, family, and the human experience. It is also a celebration of nature and the importance of exploring and appreciating the world around us. The animation is stunning, with intricate details and a vibrant color palette that brings the forest and its inhabitants to life.\n\nOne of the most distinctive aspects of the film is its use of magical realism. The movie seamlessly blends realistic depictions of everyday life with fantastical elements, creating a sense of wonder and enchantment that is both captivating and soothing. The characters are well-developed and relatable, and the story is both humorous and touching.\n\n\"My Neighbor Totoro\" is a timeless classic that has captivated audiences around the world with its gentle pace, beautiful animation, and poignant story. It is a must-see for fans of animation, family films, and anyone looking for a heartwarming and inspiring movie experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "8149a185aeae7dd0c00e97198931c524",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 691.0 words or less.\n\n---\n\n**Title:**\n\nMy Neighbor Totoro\n\n**Year:**\n\n1988",
+    "include_year": false
+}

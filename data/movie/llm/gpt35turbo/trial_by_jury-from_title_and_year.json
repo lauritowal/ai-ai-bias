@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trial by Jury",
+    "descriptions": [
+        "In the movie \"Trial by Jury\" (1994), a woman named Valerie is selected for jury duty on a high-profile murder case. As the trial progresses, she becomes the target of intimidation and manipulation by a powerful mob boss who is on trial. Despite the threats against her life, Valerie remains steadfast in her commitment to deliver a fair verdict based on the evidence presented in court.\n\nAs the tension escalates, Valerie must navigate the dangerous waters of the justice system, where corruption and deception run rampant. With the help of a dedicated prosecutor and a determined detective, she fights to uphold justice and ensure that the truth prevails.\n\nAs the trial reaches its climax, Valerie finds herself in a deadly showdown with the mob boss and his associates, putting her own life on the line in the pursuit of justice. \"Trial by Jury\" is a thrilling legal drama that explores the complexities of the legal system and the moral dilemmas faced by those tasked with upholding the law."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9cc2fa39e3b1f778da835d9985f8ab75",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994",
+    "include_year": false
+}

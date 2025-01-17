@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naseeb Apna Apna",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Naseeb Apna Apna\" (1986) directed by Rakesh Roshan, is a quintessential Indian romantic drama that explores the themes of love, destiny, and family. The story revolves around two brothers, Ramesh (played by Anil Kapoor) and Rajesh (played by Siddharth Malhotra), who share a close bond despite being very different from each other. Ramesh, a hardworking and ambitious young man, falls in love with a beautiful woman named Geeta (played by Hema Malini). Meanwhile, Rajesh, who is more carefree and likes to live life on his own terms, is smitten by a dance teacher named Meena (played by Madhu Sudan).\n\nThe plot thickens as fate brings these two women into Ramesh and Rajesh's lives, leading to a series of misunderstandings and complications. The brothers are torn between their love for Geeta and Meena, while the women find themselves in a dilemma, unable to choose between the two men who love them. As the story unfolds, it becomes evident that their lives are intertwined in a way that is beyond their control, highlighting the concept of destiny.\n\nThe film also delves into the dynamics of their family, particularly their relationship with their father, who is portrayed as a traditional and strict man. The father's expectations and his attitude towards modern values create a conflict within the family, adding a layer of complexity to the narrative.\n\n\"Naseeb Apna Apna\" is known for its memorable dialogues, memorable songs, and the portrayal of love in an era where tradition and modernity were often at odds. The film's exploration of sibling bonds, love, and the unpredictable nature of destiny resonates with audiences, making it a beloved classic in Indian cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "bc50ba909d2460df782a838550c57125",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nNaseeb Apna Apna\n\n**Year:**\n\n1986",
+    "include_year": false
+}

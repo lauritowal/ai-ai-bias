@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Helen of Four Gates",
+    "descriptions": [
+        "In the 1920 silent film \"Helen of Four Gates,\" the story follows the character of Helen, a young woman living in a small village in England. Helen is a kind and compassionate soul, known for her gentle nature and willingness to help others. However, her life takes a dramatic turn when she falls in love with a man from a wealthy family.\n\nDespite their difference in social status, Helen and her love interest embark on a passionate romance. However, their relationship faces many obstacles, including the disapproval of the man's family and the judgment of the villagers. Determined to prove her worth and win over her beloved's family, Helen decides to take matters into her own hands.\n\nHelen's journey takes her through the rugged landscape of the English countryside, where she encounters challenges and obstacles along the way. As she navigates through treacherous terrain and faces various trials, Helen's strength and resilience are put to the test. With unwavering determination and unwavering faith in her love, Helen proves that she is willing to do whatever it takes to be with the man she loves.\n\nAs the story unfolds, Helen's character is revealed to be a woman of great courage and integrity, willing to sacrifice her own happiness for the sake of love. Through her trials and tribulations, Helen emerges as a symbol of hope and perseverance, inspiring those around her to believe in the power of love and determination.\n\nIn the end, Helen's perseverance and unwavering love triumph over adversity, proving that true love knows no boundaries. \"Helen of Four Gates\" is a timeless tale of love, sacrifice, and the strength of the human spirit, reminding audiences of the enduring power of love in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "4f8b0a692a063411a36a98db9a485868",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 390.0 words or less.\n\n---\n\n**Title:**\n\nHelen of Four Gates\n\n**Year:**\n\n1920",
+    "include_year": false
+}

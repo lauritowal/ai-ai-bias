@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ticket to Heaven",
+    "descriptions": [
+        "\"Ticket to Heaven\" is a 1981 drama film that follows the story of a young man named David, who becomes involved with a cult known as the \"Centre for Feeling Therapy.\" David is initially drawn to the group by their promise of self-improvement and personal growth. However, as he becomes more deeply involved, he begins to realize that the group's teachings are actually manipulative and controlling.\n\nAs David spends more time with the cult, he becomes isolated from his family and friends, who become increasingly concerned about his well-being. The cult members use tactics such as sleep deprivation, isolation, and emotional manipulation to break down David's resistance and control his thoughts and actions.\n\nAs David's involvement in the cult deepens, he is pressured to cut ties with his past life and commit fully to the group's teachings. However, he begins to have doubts about the group's practices and beliefs, especially as he witnesses the harm they cause to their members.\n\nWith the help of a former cult member who has since left the group, David begins to see the truth behind the facade of the Centre for Feeling Therapy. He realizes that he has been brainwashed and manipulated by the cult, and he decides to escape before it's too late.\n\nIn a tense and suspenseful climax, David attempts to leave the cult and reclaim his life. He faces resistance from the cult leaders, who try to prevent him from leaving and threaten him with dire consequences if he does.\n\nUltimately, David manages to break free from the cult and reunite with his family and friends. He must now come to terms with the emotional and psychological damage he has suffered at the hands of the cult, and begin the long process of healing and recovery.\n\n\"Ticket to Heaven\" is a powerful and thought-provoking film that explores the dangers of cults and the importance of critical thinking and skepticism in the face of manipulative ideologies. It serves as a cautionary tale about the dangers of giving up one's autonomy and surrendering to the control of others in the pursuit of personal growth and enlightenment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "e91334dc4ec76e5faf69be163bc1ea2b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1345.0 words or less.\n\n---\n\n**Title:**\n\nTicket to Heaven\n\n**Year:**\n\n1981",
+    "include_year": false
+}

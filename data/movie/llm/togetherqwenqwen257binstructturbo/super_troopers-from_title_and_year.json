@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Super Troopers",
+    "descriptions": [
+        "**Plot Summary of Super Troopers (2001):**\n\nSuper Troopers is a 2001 comedy film that follows the misadventures of the Minnesota State Patrol. The movie humorously depicts the lives of four troopers—Rapeman (Scott Adsit), Meathead (Chris Elliott), Taffy (Craig Robinson), and Worm (David Koechner)—as they navigate a series of bizarre and often comical situations. The film begins with the arrival of new trooper Rapeman, whose lack of experience and unusual haircut (a mullet named \"Rapeman\") create immediate tension with the veteran officers.\n\nThe troopers are charged with patrolling a stretch of road known as \"America's Most Dangerous Road,\" which is not actually very dangerous but is a prime spot for traffic stops. Their duties quickly become chaotic and absurd, with Meathead, the dim-witted but well-meaning trooper, often getting into trouble. During a routine traffic stop, Meathead is knocked over by a dune buggy, leading to a series of events that involve a mistaken identity with a group of undercover police officers and a wild chase through the woods, complete with a malfunctioning helicopter and a misunderstanding involving a Native American woman and a stolen war bonnet.\n\nThe troopers' patrol is further complicated by their boss, Captain Kroll (Treat Williams), who is a scheming and corrupt officer who takes a liking to Meathead's girlfriend, Officer Nita (Tricia Helfer). Their attempts to impress Nita lead to more humorous and awkward situations. Meanwhile, Taffy and Worm are involved in a series of misguided attempts to improve their unit's image, which often backfire spectacularly.\n\nThe climax of the film involves a high-speed chase through the streets of Duluth, Minnesota, where the troopers find themselves on the wrong side of the law, pursued by a group of criminals. The film ends with a humorous and slightly bittersweet resolution, as the troopers are forced to confront the reality of their lives as troopers and the moral dilemmas that come with the job.\n\nSuper Troopers is a wildly entertaining comedy that combines slapstick humor, witty dialogue, and an array of bizarre situations, making it a cult classic in the world of comedy films."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "b059faced9d55d5f65dabfc700a5bb8e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nSuper Troopers\n\n**Year:**\n\n2001",
+    "include_year": false
+}

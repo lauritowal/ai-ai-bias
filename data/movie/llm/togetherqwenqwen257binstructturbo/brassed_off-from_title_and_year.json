@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Brassed Off",
+    "descriptions": [
+        "**Plot Summary of \"Brassed Off\" (1996):**\n\n\"Brassed Off\" is a British drama film released in 1996, directed by John Boorman. The movie is set in the small town of Grimley, a place heavily reliant on a local brass band as the community's primary source of pride and identity. The story unfolds in 1993 when Grimley's coal mine, the town's economic backbone, is set to close due to the government's decision to implement the \"Working Time Bill,\" a policy aimed at reducing mining operations.\n\nThe plot centers around the town's brass band, which serves as a metaphor for the community's resilience and spirit in the face of adversity. The band, led by the charismatic but increasingly eccentric Dan Hollingsworth, faces the dissolution of the mine and the potential disbandment of the band. The closure of the mine not only threatens the band's existence but also disrupts the social fabric of the town, leading to a series of conflicts and personal struggles among the townspeople.\n\nThe film explores the characters' attempts to adapt to a changing economic landscape, including the band members' efforts to find new ways to sustain their passion and the town's identity. It delves into themes of community, identity, and the human spirit's ability to persevere in the face of economic hardship. The story also touches on the political and social issues of the time, such as the impact of government policies on local communities and the challenges faced by workers in declining industries.\n\n\"Brassed Off\" is known for its authentic portrayal of the characters and their lives, often capturing the humor, warmth, and occasional bitterness of small-town British life. The film's narrative is enriched by the performances of the cast, particularly those of the band members, whose relationships and individual stories weave together to form a compelling and often poignant account of a community in transition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "74068cea740909ea0f30352f482ae36b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 721.0 words or less.\n\n---\n\n**Title:**\n\nBrassed Off\n\n**Year:**\n\n1996",
+    "include_year": false
+}

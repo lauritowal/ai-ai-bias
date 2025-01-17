@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Deadgirl",
+    "descriptions": [
+        "In the 2008 horror film \"Deadgirl,\" two high school friends, Rickie and JT, stumble upon a shocking discovery in an abandoned mental hospital. They find a naked woman tied to a table, who appears to be dead. However, to their horror, they soon realize that the woman is actually undead and seemingly immortal. \n\nJT, the more reckless and disturbed of the two friends, becomes obsessed with the dead girl and convinces Rickie to keep her existence a secret. They visit her regularly, with JT even resorting to sexual violence towards her. Rickie, on the other hand, is horrified by JT's actions but feels powerless to stop him. \n\nAs the two friends continue to visit the dead girl, their friendship begins to deteriorate. Rickie becomes increasingly disturbed by JT's behavior and struggles with his own conflicting emotions towards the dead girl. Meanwhile, JT's obsession with the dead girl grows more dangerous, leading to a series of violent and disturbing events.\n\nAs the film progresses, Rickie is forced to confront his own morality and make a decision about his involvement with the dead girl. He must also find a way to stop JT before he causes irreparable harm. The film explores themes of morality, friendship, and the dark side of human nature.\n\nUltimately, \"Deadgirl\" is a disturbing and thought-provoking exploration of the consequences of unchecked obsession and the lengths people will go to satisfy their darkest desires. The film leaves viewers with a chilling reminder of the thin line between life and death, and the dangers of crossing that line."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "28721906e3f056bf4f33f8129422c4a0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 569.0 words or less.\n\n---\n\n**Title:**\n\nDeadgirl\n\n**Year:**\n\n2008",
+    "include_year": false
+}

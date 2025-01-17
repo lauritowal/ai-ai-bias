@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Me and Orson Welles",
+    "descriptions": [
+        "\"Me and Orson Welles\" is a 2009 American drama film directed by Richard Linklater. The movie takes place in 1937, during the rehearsals of Orson Welles' stage production of William Shakespeare's \"Julius Caesar\". \n\nThe story follows Richard Samuels (played by Zac Efron), a high school student who lands an extra role in the production. Richard quickly becomes infatuated with the beautiful Vivian (played by Claire Danes), a member of the cast and a muse of Orson Welles. As rehearsals intensify, Richard finds himself drawn into the charismatic world of Orson Welles, who is determined to revolutionize theater with his unorthodox methods.\n\nAs rehearsals progress, Richard becomes increasingly disillusioned with the commercialism of the theater and the pressures of Orson's perfectionism. Meanwhile, his relationship with Vivian deepens, but their social differences threaten to tear them apart.\n\nThe film is a semi-fictionalized account of Orson Welles' life and the making of his groundbreaking production of \"Julius Caesar\". The movie explores themes of artistic obsession, youthful idealism, and the cutthroat world of theater. With its talented cast and meticulous attention to period detail, \"Me and Orson Welles\" offers a captivating glimpse into the world of 1930s theater."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nMe and Orson Welles\n\n**Year:**\n\n2009",
+    "include_year": false
+}

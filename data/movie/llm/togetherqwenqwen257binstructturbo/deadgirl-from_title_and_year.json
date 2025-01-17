@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Deadgirl",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Deadgirl\" (2008) is a dark and intense psychological thriller that delves into the complex relationships and dark secrets of a small town. The film is set in a remote community where a series of mysterious deaths of young women, all labeled as \"accidental overdoses,\" begin to unravel. The story revolves around Sarah, a seemingly ordinary high school student, who becomes the latest victim of these unexplained deaths. However, unlike her predecessors, Sarah's parents are determined to uncover the truth behind her death.\n\nAs the investigation unfolds, it becomes clear that the town's residents are hiding much more than just drug-related deaths. The community's dark past is slowly revealed, with long-buried secrets coming to light. Sarah's best friend, Emily, and her boyfriend, Jack, become entangled in their own web of lies and deceit, as they attempt to protect their own families and friends from the truth.\n\nThe film explores themes of guilt, redemption, and the price of silence. As the bodies pile up and the town's facade crumbles, the line between reality and fantasy becomes increasingly blurred. The protagonists find themselves questioning everything they thought they knew about their town, their families, and even themselves. The climax of the film is a shocking and emotionally charged reveal that challenges the audience's perceptions and leaves them questioning the nature of truth and justice.\n\n\"Deadgirl\" is a gripping tale that keeps viewers on the edge of their seats, with its relentless plot twists and the intense psychological tension that builds throughout. The film not only offers a thrilling mystery but also a deep dive into the human psyche, exposing the dark underbelly of small-town life and the devastating consequences of keeping secrets."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "28721906e3f056bf4f33f8129422c4a0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 569.0 words or less.\n\n---\n\n**Title:**\n\nDeadgirl\n\n**Year:**\n\n2008",
+    "include_year": false
+}

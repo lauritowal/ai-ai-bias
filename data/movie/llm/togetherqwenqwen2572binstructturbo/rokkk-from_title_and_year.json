@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rokkk",
+    "descriptions": [
+        "**Title: Rokkk**\n\n**Year: 2010**\n\n**Plot Summary:**\n\n\"Rokkk\" is a vibrant and energetic Indian dance film that blends traditional Bollywood elements with contemporary pop culture. Directed by debutant filmmaker Rajiv Menon, the movie follows the journey of Rokesh (played by Prabhu Deva), a passionate dancer from a small town in Tamil Nadu who dreams of making it big in the world of dance.\n\nRokesh, known for his exceptional talent and unique style, faces numerous challenges as he tries to break into the competitive dance scene in Mumbai. Despite the skepticism of those around him and the harsh realities of the industry, Rokesh remains determined and continues to hone his skills. His dedication and relentless pursuit of his dream eventually catch the attention of a renowned choreographer, who gives him a chance to participate in a high-stakes dance competition.\n\nThe competition brings together dancers from all over India, each with their own unique style and story. Rokesh forms a strong bond with a fellow contestant, Nisha (played by Shreya Ghoshal), a talented singer with a passion for dance. Together, they form a dynamic duo, combining their talents to create a performance that stands out from the rest.\n\nAs the competition progresses, Rokesh and Nisha face intense rivalry and personal setbacks, but their friendship and shared love for dance keep them going. The climax of the film features a spectacular dance-off, where Rokesh's innovative choreography and Nisha's soulful voice come together to create a performance that not only wins the competition but also captures the hearts of the audience.\n\n\"Rokkk\" is a celebration of the power of dance and the importance of chasing one's dreams, no matter the obstacles. With its colorful visuals, catchy music, and inspiring story, the film is a delightful and uplifting experience for audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "572416df9b075121f62b0bf4b86cff1b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 318.0 words or less.\n\n---\n\n**Title:**\n\nRokkk\n\n**Year:**\n\n2010",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ask A Policeman",
+    "descriptions": [
+        "'Ask a Policeman' is a 1939 British comedy film directed by Marcel Varnel, starring Will Hay, Graham Moffatt, and Moore Marriott. The movie follows the adventures of three bumbling police officers - Sergeant Dudfoot (Will Hay), PC Harbottle (Graham Moffatt), and PC Sam Small (Moore Marriott) - as they work to solve a mystery and save their jobs.\n\nThe film starts with the three officers working in the sleepy town of Turnbotham, where nothing much ever happens. However, they soon find themselves in trouble when the local police inspector threatens to close down the station unless they can solve a significant crime.\n\nThe trio concocts a plan to create a fictional crime in the hopes of getting a promotion and saving their jobs. They decide to fake the theft of a valuable treasure, which supposedly belongs to the local squire. However, things quickly spiral out of control as real-life thieves get involved, and the situation becomes increasingly complicated.\n\nThroughout the movie, the bumbling officers struggle to keep up with the real thieves and their own fabricated crime. Chaos ensues, and they find themselves in various comedic misadventures, including car chases and shootouts. The trio's ineptitude and hilarious antics lead to a thrilling conclusion as they inadvertently foil the real thieves' plans and recover the stolen treasure.\n\nUltimately, 'Ask a Policeman' is a classic comedy film with a lighthearted, entertaining storyline, showcasing the signature style of Will Hay and his on-screen companions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "427ec9c6d0157523f5db3cc61e71ddd4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 741.0 words or less.\n\n---\n\n**Title:**\n\nAsk A Policeman\n\n**Year:**\n\n1939",
+    "include_year": false
+}

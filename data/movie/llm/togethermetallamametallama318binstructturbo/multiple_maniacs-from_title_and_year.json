@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Multiple Maniacs",
+    "descriptions": [
+        "\"Multiple Maniacs\" is a 1970 American psychological horror film directed by John Waters. The film is a dark comedy that tells the story of Toby, a young woman who is raped by a group of men at a carnival.\n\nToby becomes pregnant and seeks to raise the child on her own. However, she soon turns to prostitution to make ends meet. The child, named Taffy, is born, and Toby's life spirals out of control. Desperate for money, Toby convinces a group of mentally unstable women to kidnap several men and rob them.\n\nThe group, led by Toby, embarks on a series of violent and sadistic crimes, targeting wealthy men. As the story unfolds, the film descends into chaos and anarchy, with the women becoming more and more depraved.\n\n\"Multiple Maniacs\" is a product of the 1970s underground film movement, and it reflects the era's fascination with transgression and societal taboo. The film's graphic content and themes of violence and exploitation have been the subject of controversy and debate.\n\nDespite its notorious reputation, \"Multiple Maniacs\" is also a commentary on the societal pressures that drive women to madness and desperation. The film's portrayal of its female characters, who are often reduced to mere objects of exploitation, is a powerful critique of the patriarchal society that enabled their downfall.\n\n\"Multiple Maniacs\" is a complex and thought-provoking film that challenges its viewers to confront the darker aspects of human nature. With its blend of horror, comedy, and social commentary, it remains a cult classic of American cinema.\n\nThe film's notoriety was further amplified when it was officially banned in several countries due to its graphic content. Despite this, \"Multiple Maniacs\" has maintained a loyal following among fans of underground cinema and those who appreciate its unflinching portrayal of the darker side of human nature."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cb26f58888eaa897ce87dba4e283a5b8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 451.0 words or less.\n\n---\n\n**Title:**\n\nMultiple Maniacs\n\n**Year:**\n\n1970",
+    "include_year": false
+}

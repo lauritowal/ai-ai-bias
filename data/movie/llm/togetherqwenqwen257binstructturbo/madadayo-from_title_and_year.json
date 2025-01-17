@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Madadayo",
+    "descriptions": [
+        "\"Madadayo\" (1993) is a poignant drama set in a rural Japanese school. The film centers around an elderly teacher, Madadayo, who dedicates his life to educating the children of the village, despite his declining health. As he prepares to retire at the age of 80, he is faced with the challenges of maintaining the school with fewer students and the pressures of modernization. Through his unwavering commitment, Madadayo inspires his students, instilling in them a sense of community and the value of education, even as he faces his own personal decline. The movie celebrates the enduring impact of a teacher's dedication and the profound effect it has on the lives of his students."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "f2014c8ca9859e48a197ddb21e04feeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMadadayo\n\n**Year:**\n\n1993",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daffy Duck Slept Here",
+    "descriptions": [
+        "'Daffy Duck Slept Here' is a 1948 animated short film starring Daffy Duck and Porky Pig. The movie is set in a hotel where Porky Pig is trying to get some sleep. However, his attempts at rest are disrupted by Daffy Duck, who is being pursued by a hotel detective and tries to sneak into Porky's room to hide.\n\nDaffy tries various disguises to evade the detective, but none of them work, and he keeps getting thrown out of Porky's room. As the chase continues, the two characters cause chaos throughout the hotel, with Daffy's antics becoming increasingly outrageous.\n\nEventually, the hotel detective catches up to Daffy, and he is forced to flee. In the end, Porky finally gets some sleep, but not before Daffy wakes him up one last time with a silly prank. The cartoon is a typical example of the banter and slapstick humor that characterized the Looney Tunes series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "571661f1877124420608f05794ed5740",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948",
+    "include_year": false
+}

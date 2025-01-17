@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hill",
+    "descriptions": [
+        "The Hill is a 1965 British drama film directed by Sidney Lumet, starring Sean Connery, Harry Andrews, Ian Bannen, Alfred Lynch, Ossie Davis, Roy Kinnear, Jack Watson, and Ian Hendry.\n\nThe story revolves around North Africa during World War II, where a British Army prison camp is established on a hill in the desert. The prisoners are subjected to harsh and inhumane conditions by the sadistic and ruthless commanding officer, Regimental Sergeant Major Wilson (Harry Andrews).\n\nThe film focuses on five new prisoners who arrive at the camp: Sergeant Joe Roberts (Sean Connery), a former British Army officer who was court-martialed for striking a superior officer; Sergeant Harris (Ian Hendry); Private George Stevens (Alfred Lynch), a timid and nervous soldier; Private Jacko King (Ossie Davis), an American soldier who was stationed in the UK and got into trouble for being drunk and disorderly; and Private Bartlett (Roy Kinnear), a young soldier who was caught smuggling.\n\nAs the prisoners try to survive the harsh conditions, tensions rise between them and the officers, particularly Sergeant Major Wilson. The prisoners face physical and mental torture, with Wilson constantly pushing them to their limits. The relationships between the prisoners and the officers are complex, with Sergeant Major Wilson's extreme behavior creating divisions among the prisoners and the officers.\n\nThe film explores themes of authority, power, and the effects of war on the human psyche. As the prisoners try to find ways to resist and survive, they must also confront their own moral boundaries and the consequences of their actions. The Hill is a gripping drama that examines the darker aspects of human nature and the consequences of unchecked power."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7e80f012a3e6d943a0b037234a342233",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 397.0 words or less.\n\n---\n\n**Title:**\n\nThe Hill\n\n**Year:**\n\n1965",
+    "include_year": false
+}

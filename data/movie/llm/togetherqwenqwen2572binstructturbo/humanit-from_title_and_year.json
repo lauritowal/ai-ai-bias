@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Humanité",
+    "descriptions": [
+        "\"Humanité,\" directed by Belgian filmmaker Chantal Akerman and released in 1999, is a profound and intimate exploration of human connection and the complexities of modern relationships. The film centers on the life of Danielle (Sylvie Testud), a middle-aged woman living in Brussels. Through a series of vignettes, the film delves into Danielle's interactions with her family, friends, and lovers, each encounter revealing layers of her emotional and psychological landscape.\n\nThe narrative is non-linear, focusing more on the subtle nuances of human behavior and the silent moments that often define relationships. Akerman's minimalist approach and long, static shots create a sense of stillness and introspection, allowing the audience to deeply engage with the characters' inner lives.\n\n\"Humanité\" is a meditation on loneliness, desire, and the search for meaning in everyday existence. It challenges the viewer to reflect on the human condition and the often unspoken bonds that connect us. Thefilm's poetic and contemplative nature has earned it a place as a significant work in European cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "cee360d137216979eee5658b9b321187",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 223.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Road to Singapore",
+    "descriptions": [
+        "\"Road to Singapore\" follows the story of two friends, Josh Mallon and Ace Lannigan, who decide to ditch their respective fiancées and go on an adventure together. Tired of the responsibilities and expectations of society, the two men set sail to Singapore in search of excitement and freedom.\n\nAs they embark on their journey, Josh and Ace find themselves in a series of comedic misadventures. They encounter a beautiful woman named Mima, who joins them on their travels and adds a new dynamic to their friendship. Mima brings a sense of romance and intrigue to their journey, leading to a love triangle that complicates their plans.\n\nAlong the way, Josh and Ace must navigate various challenges, including cultural differences, misunderstandings, and confrontations with Mima's jealous ex-boyfriend. Despite these obstacles, the trio manages to find moments of joy and camaraderie as they explore the exotic landscapes and vibrant cultures of Singapore.\n\nAs their friendship is tested and their feelings for Mima deepen, Josh and Ace must confront their own emotions and reevaluate their priorities. They realize that true happiness cannot be found by running away from their problems, but by facing them head-on and being true to themselves.\n\nIn the end, Josh and Ace come to understand the importance of loyalty, honesty, and forgiveness in their relationships. They learn that the road to Singapore may be filled with twists and turns, but it is ultimately the journey itself that matters most. With newfound wisdom and a renewed sense of purpose, the friends make peace with their pasts and look forward to a brighter future together.\n\n\"Road to Singapore\" is a heartwarming tale of friendship, love, and self-discovery set against the backdrop of a tropical paradise. With its charming humor, memorable characters, and beautiful scenery, the film captivates audiences and reminds them of the universal truths that connect us all."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8ef47e491f8baedb93ca18a4a8159dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 428.0 words or less.\n\n---\n\n**Title:**\n\nRoad to Singapore\n\n**Year:**\n\n1940",
+    "include_year": false
+}

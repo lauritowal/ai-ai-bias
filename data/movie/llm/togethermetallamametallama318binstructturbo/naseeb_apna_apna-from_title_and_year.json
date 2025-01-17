@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naseeb Apna Apna",
+    "descriptions": [
+        "Naseeb Apna Apna is a 1986 Indian Bollywood comedy-drama film directed by Amar Akbar Anthony's director Manmohan Desai. The movie follows the story of two brothers, Rajesh (Rishi Kapoor) and Vicky (Amrita Singh), who are orphans and are taken care of by their grandparents. The brothers are very close, but their lives take a dramatic turn when they meet their long-lost father, Ratanlal (Shashi Kapoor), who is a wealthy business magnate.\n\nRatanlal's wife, Durga (Hema Malini), is a caring and loving person, but she is also a strict disciplinarian who is against the brothers' close bond. As the story unfolds, Rajesh and Vicky get caught up in a series of hilarious situations, including a fake marriage scam and a series of misunderstandings that lead to chaos in their lives.\n\nMeanwhile, a young woman named Snehalata (Padmini Kolhapure) falls in love with Vicky, but he is unaware of her true identity as the daughter of a wealthy businessman. As the brothers navigate their way through the complexities of their relationships and family dynamics, they must also confront their own destiny and the truth about their family's past.\n\nNaseeb Apna Apna is a classic Bollywood film that is known for its melodramatic plot, colorful characters, and memorable songs. The movie features a talented ensemble cast, including Rishi Kapoor, Shashi Kapoor, Hema Malini, and Amrita Singh, among others. With its lighthearted and entertaining tone, Naseeb Apna Apna is a must-watch for fans of Bollywood comedy-drama films."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "bc50ba909d2460df782a838550c57125",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nNaseeb Apna Apna\n\n**Year:**\n\n1986",
+    "include_year": false
+}

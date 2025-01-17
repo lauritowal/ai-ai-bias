@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Interview With the Assassin",
+    "descriptions": [
+        "\"Interview With the Assassin\" is a psychological thriller film released in 2002. The movie revolves around Elias Kryger (played by Stephen Dorff), a mysterious and troubled assassin who is being pursued by U.S. Marshal Gustafson (played by Jeffrey Wright). \n\nAs Elias is driven by the marshal to a designated location, he recounts his life story through a series of flashbacks. The narrative delves into Elias's past, revealing his unstable childhood, abusive father, and subsequent adoption by a Jewish family. \n\nThroughout the journey, Elias's interviews with a local journalist, Kate (played by Connie Nielsen), raise questions about his true identity and the nature of his crimes. Elias's dialogue and actions blur the lines between reality and fiction, leaving the audience questioning his sincerity and the truth behind his story.\n\nAs the story unfolds, Elias's backstory is gradually exposed, and the secret to his identity is slowly revealed. The film's non-linear narrative and the complexities of Elias's character keep the viewer engaged and invested in the mystery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1573aec6a37c7379f787e50e7132e5d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nInterview With the Assassin\n\n**Year:**\n\n2002",
+    "include_year": false
+}

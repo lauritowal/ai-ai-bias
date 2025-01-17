@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mimic 2",
+    "descriptions": [
+        "**Mimic 2 (2001)**\n\nIn the aftermath of a devastating insect plague, New York City is still reeling from the release of genetically modified Judas bugs designed to combat the disease. However, the plan backfires as the bugs evolve into a more dangerous form, preying on humans. The sequel picks up with the city under siege, and a small group of survivors, including a scientist and a former soldier, must navigate the treacherous landscape to find a way to stop the creatures.\n\nThe team discovers that the bugs have developed a new, more lethal strategy, mimicking human behavior to blend in and attack unsuspecting victims. As they race against time, they uncover a hidden underground lair where the bugs are breeding. The group faces numerous close calls and losses, but their determination drives them to devise a plan to destroy the bugs' nest and save the city from total annihilation. The film is a pulse-pounding thriller that explores the consequences of genetic manipulation and the resilience of the human spirit in the face of an unforeseen threat."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "8244369841808458dc24a5941a7b2420",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 240.0 words or less.\n\n---\n\n**Title:**\n\nMimic 2\n\n**Year:**\n\n2001",
+    "include_year": false
+}

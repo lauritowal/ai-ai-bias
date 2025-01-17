@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rudraveena",
+    "descriptions": [
+        " In the 1988 Indian musical drama film, \"Rudraveena,\" directed by K. Balachander, the story revolves around the life of Suryam (Chiranjeevi), a talented musician who is the son of a strict, orthodox father, Ramachandraiah (Gemini Ganesan). Ramachandraiah is a respected man in their village who abides by the traditional caste system and societal norms. Suryam, however, is a free-spirited individual who believes in equality and social justice.\n\nAfter falling in love with a compassionate village girl named Shweta (Shobhana), Suryam becomes increasingly aware of the social injustices around him. With his music as his weapon, he begins to challenge the age-old customs and traditions that perpetuate inequality and discrimination.\n\nAs Suryam's popularity grows, he becomes a symbol of hope for the oppressed and marginalized communities. This causes a rift between him and his father, who disowns him for going against their family traditions. The rest of the movie follows Suryam's journey as he strives to bring about social change through his music and inspire others to break free from the shackles of the caste system. With a powerful message of equality and harmony, \"Rudraveena\" is a timeless classic that continues to inspire audiences today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "540715a47fbcf755ac393c9609058246",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 213.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988",
+    "include_year": false
+}

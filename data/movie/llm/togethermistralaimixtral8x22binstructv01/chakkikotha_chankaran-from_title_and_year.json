@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chakkikotha Chankaran",
+    "descriptions": [
+        " \"Chakkikotha Chankaran\" is a 1989 Malayalam comedy film directed by Kamal. The movie is a humorous take on the life of Chankaran, played by the legendary Indian actor Mammootty, who portrays a cunning, yet endearing con artist.\n\nChankaran, a witty and street-smart individual, has a unique ability to sell anything to anyone. He is a charmer, using his persuasive skills and quick wit to earn a living. His life takes an unexpected turn when he meets a wealthy and stubborn businessman, Narayana Pillai, who challenges Chankaran to sell him something he doesn't need or want. Intrigued by this challenge, Chankaran accepts it, seeing it as an opportunity to prove his skills and earn a significant amount of money.\n\nChankaran embarks on a mission to understand Narayana Pillai's needs and wants, only to discover that the businessman is a recluse who seemingly has everything he needs. Undeterred, Chankaran devises a plan to sell Narayana Pillai an ancient artifact, claiming it has mystical powers that can bring happiness and prosperity.\n\nAs Chankaran attempts to sell the artifact, he encounters various humorous situations and obstacles. He also forms an unlikely friendship with Narayana Pillai's daughter, who sees through his con artist persona and appreciates his genuine kindness. This friendship leads to a series of events that force Chankaran to question his life choices and consider a more honest way of living.\n\nThe film is a rollercoaster of laughter and emotions, with Mammootty delivering a stellar performance as Chankaran. His ability to switch between the roles of a cunning con artist and a genuine friend adds depth to the character. The film also explores themes of redemption and the true meaning of happiness, making it a heartwarming watch.\n\n\"Chakkikotha Chankaran\" is a classic Malayalam comedy that combines humor, emotion, and a touch of social commentary. It showcases the talent of Mammootty and the prowess of director Kamal, making it a must-watch for fans of Indian cinema. The film's unique plot and engaging narrative make it a standout in the genre, ensuring that audiences will be entertained from start to finish."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "03ff703b541931a4d705a19ae5542878",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nChakkikotha Chankaran\n\n**Year:**\n\n1989",
+    "include_year": false
+}

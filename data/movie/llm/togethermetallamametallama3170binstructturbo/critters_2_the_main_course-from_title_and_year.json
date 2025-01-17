@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Critters 2: The Main Course",
+    "descriptions": [
+        "In 'Critters 2: The Main Course,' the Crites, small, furry, and carnivorous alien creatures, return to Earth. Charlie McFadden (Scott Grimes), a young boy who previously encountered the Crites, teams up with his family and a bounty hunter, Brad Brown (Terrence Mann), to stop them.\n\nThe Crites, which have been growing in number, wreak havoc on the small town of Grover's Bend, where they begin to attack and eat the local residents. Charlie and Brad devise a plan to capture the Crites using a trap and a spaceship, but things don't go as smoothly as they hoped.\n\nAs the Crites' attacks escalate, Charlie, Brad, and the people of Grover's Bend must find a way to stop the creatures and save their town. Along the way, Charlie and his friends learn valuable lessons about teamwork, courage, and the importance of believing in oneself.\n\n'Critters 2: The Main Course' is an action-packed sci-fi comedy that offers plenty of laughs, excitement, and suspense. The film's blend of humor, adventure, and horror elements makes it an entertaining sequel to the original 'Critters' film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "45f0f2adff61eaeb90ca9b7c56539912",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 314.0 words or less.\n\n---\n\n**Title:**\n\nCritters 2: The Main Course\n\n**Year:**\n\n1988",
+    "include_year": false
+}

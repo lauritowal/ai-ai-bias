@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Khumba",
+    "descriptions": [
+        "\"Khumba\" is a 2013 South African animated adventure film that tells the story of a young half-striped zebra named Khumba. Born with only half the stripes of a typical zebra, Khumba is often bullied and ostracized by the other zebras in his community, who believe that his lack of stripes is a bad omen. Feeling out of place and desperate to be accepted, Khumba embarks on a dangerous journey to prove his worth.\n\nThe film is set in a unique and vibrant African savanna, where Khumba discovers a mystical watering hole that is said to grant wishes. Believing that if he can complete a challenging quest, he will earn his full stripes and the respect of his peers, Khumba sets out on his adventure. Along the way, he meets a variety of colorful and quirky characters, including a wise tortoise and a mischievous wildebeest, who help him on his journey.\n\nHowever, Khumba's quest is not just about gaining stripes; it's also about discovering his own identity and the true meaning of courage and bravery. As he faces numerous obstacles and learns important life lessons, Khumba realizes that his differences are what make him special and that true strength comes from within.\n\n\"Khumba\" is a heartwarming and visually stunning film that celebrates individuality and the power of self-acceptance. It teaches audiences of all ages that it's okay to be different and that sometimes, the greatest adventures are the ones we take to find ourselves."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "0d0e2118c0fde8f41cccc1635d8adbb9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 302.0 words or less.\n\n---\n\n**Title:**\n\nKhumba\n\n**Year:**\n\n2013",
+    "include_year": false
+}

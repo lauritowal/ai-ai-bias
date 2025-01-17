@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mysteries of a Barbershop",
+    "descriptions": [
+        "**Title:** Mysteries of a Barbershop  \n**Year:** 1918\n\nIn this silent comedy short from 1918, a series of hilarious and unexpected events unfold in a small barbershop. The film, directed by Charlie Chaplin, features his iconic character, the Tramp, as he enters the barbershop for a haircut and shave. The Tramp, clumsy and mischievous, causes chaos with the barber's tools and equipment. He accidentally shaves off his own moustache and must improvise to avoid detection. Meanwhile, a rival for the affections of the barber's daughter adds another layer of comedic conflict. The Tramp's attempts to win her heart lead to more misunderstandings and slapstick antics. The film is a classic example of Chaplin's genius for physical comedy and heartwarming storytelling, blending humor with a touch of romance and everyday struggles."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "f1157b7bc13940c8758a1a77640407b8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 199.0 words or less.\n\n---\n\n**Title:**\n\nMysteries of a Barbershop\n\n**Year:**\n\n",
+    "include_year": false
+}

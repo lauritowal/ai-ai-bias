@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ánimas Trujano",
+    "descriptions": [
+        "Ánimas Trujano is a 1962 Mexican drama film directed by Ismael Rodríguez. The movie is an adaptation of the novel by Rogelio Barriga Rivas 'El hombre sin rostro' (The Man Without a Face) and is not to be confused with the 1969 film of the same name by Ismael Rodríguez based on the novel 'Anima Trujano'  by Rogelio Barriga Rivas.\n\nThe story revolves around Anima Trujano, a musician who has a disfigured face. However, the movie focuses more on his life after being forced into marriage with a widow. The story develops into a drama as Trujano navigates the complexities of his life, ultimately trying to find acceptance and happiness despite the difficulties that life has presented him with.\n\nThe film received critical acclaim at the 1963 Cannes Film Festival."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8228f62331d6b3bb43b52d56cb1a3a00",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nÁnimas Trujano\n\n**Year:**\n\n1962",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spider Forest",
+    "descriptions": [
+        "The movie \"Spider Forest,\" released in 2004, follows the story of a man named Kang Min, who wakes up in a mysterious forest with no memory of how he got there. As Kang Min navigates through the eerie woods, he comes across a gruesome scene of a brutal murder. Haunted by the images, Kang Min embarks on a journey to uncover the truth behind the murder and his own lost memories.\n\nThroughout the film, Kang Min encounters various strange characters who may hold the key to his past. He meets a woman named Yeong-ju, who seems to have a connection to the murder victim. As Kang Min delves deeper into the investigation, he begins to question his own sanity as he experiences vivid hallucinations and unexplained phenomena in the forest.\n\nAs Kang Min pieces together fragments of his memory, he realizes that he may have been involved in the murder in some way. The lines between reality and delusion blur as Kang Min struggles to distinguish between his own memories and the twisted events unfolding around him.\n\nThe movie takes viewers on a suspenseful journey filled with twists and turns as Kang Min uncovers shocking revelations about his past and the dark secrets hidden in the Spider Forest. The film keeps audiences on the edge of their seats as Kang Min races against time to unravel the mystery before it consumes him completely.\n\n\"Spider Forest\" is a psychological thriller that explores themes of memory, guilt, and the blurred boundaries between dreams and reality. The film's haunting atmosphere, gripping storyline, and unexpected twists make it a compelling watch for fans of mystery and suspense. As Kang Min unravels the truth behind the murder and his own past, he must confront his inner demons and face the consequences of his actions in a chilling climax that will leave viewers questioning everything they thought they knew."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7bc41809a75823e4ee0735b382cad28c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 376.0 words or less.\n\n---\n\n**Title:**\n\nSpider Forest\n\n**Year:**\n\n2004",
+    "include_year": false
+}

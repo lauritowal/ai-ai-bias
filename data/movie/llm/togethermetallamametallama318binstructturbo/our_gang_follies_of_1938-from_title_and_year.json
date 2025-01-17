@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Our Gang Follies of 1938",
+    "descriptions": [
+        "\"Our Gang Follies of 1938\" seems to be a title from the popular \"Our Gang\" or \"Little Rascals\" series.  However, based on the year, I assume the correct title should be \"Our Gang Follies of 1938\" should be (Our Gang Follies of 1937).  Here's a plot summary of the movie:\n\n\"Our Gang Follies of 1937\" is a 1937 American comedy film directed by Gus Meins. The film is part of the \"Our Gang\" series and consists of a series of sketches featuring the popular child actors from the series.\n\nThe movie is a collection of shorts featuring the Our Gang kids. It includes a variety of comedic sketches, short films, and musical numbers. The main focus of the film is on the child actors, including Farina (Farina's real name was George McFarland), Butch (Tommy Bond), Buckwheat (William Thomas), Spanky (George McFarland, Farina's replacement), and others.\n\nThe film begins with a series of sketches set in a carnival or amusement park, which provide a backdrop for the various comedic vignettes. These sketches include scenes where the Our Gang kids engage in various forms of mischief and mayhem.\n\nThe film also features a number of musical numbers, including a memorable performance of \"Inka Dinka Doo,\" a popular song from the 1930s. The musical numbers are performed by the Our Gang kids, and they showcase the group's talents in singing and dancing.\n\nIn addition to the comedic sketches and musical numbers, the film also includes a number of short films featuring the Our Gang kids. These short films include a series of \"nursery rhyme\" sketches, where the kids perform various adaptations of classic fairy tales and children's stories.\n\nThroughout the film, the Our Gang kids showcase their talents in a variety of comedic and musical performances. The film is a lighthearted and entertaining collection of sketches, and it is sure to delight fans of the series.\n\nOverall, \"Our Gang Follies of 1937\" is a fun and entertaining film that showcases the talents of the Our Gang kids. It is a great representation of the series, and it is sure to delight fans of classic comedy and musicals."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1e4b85c7e20b37bcda8bd062b75fd2bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 709.0 words or less.\n\n---\n\n**Title:**\n\nOur Gang Follies of 1938\n\n**Year:**\n\n1937",
+    "include_year": false
+}

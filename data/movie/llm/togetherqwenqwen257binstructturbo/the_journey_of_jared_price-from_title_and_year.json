@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Journey of Jared Price",
+    "descriptions": [
+        "In 2000, \"The Journey of Jared Price\" follows Jared Price, a disillusioned middle school teacher in a small town. After a series of personal and professional setbacks, Jared embarks on a transformative journey to rediscover his passion for life and teaching. Along the way, he reconnects with his estranged daughter and learns valuable lessons from unexpected mentors. Through a series of adventures that challenge his beliefs and push him out of his comfort zone, Jared finds the courage to embrace change and rebuild his life. The film blends elements of drama, adventure, and family drama, culminating in a heartwarming resolution that emphasizes the power of second chances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "eb3da9459c305557c25fbcc2fd867cda",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 287.0 words or less.\n\n---\n\n**Title:**\n\nThe Journey of Jared Price\n\n**Year:**\n\n2000",
+    "include_year": false
+}

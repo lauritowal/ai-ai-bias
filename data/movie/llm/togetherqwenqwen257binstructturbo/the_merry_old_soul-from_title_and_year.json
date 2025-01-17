@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Merry Old Soul",
+    "descriptions": [
+        "In 1933, \"The Merry Old Soul\" follows the heartwarming story of an elderly man named Elias, a former minstrel show performer, who finds himself stranded in a small Midwestern town during the Great Depression. Despite his advancing years, Elias brings joy and laughter to the town with his infectious songs and lively performances. His resilience and乐观精神触动了镇上人们的内心，尤其是玛丽，一个年轻寡妇。在她的帮助下，Elias开设了一个小剧场，重新点燃了人们对生活的热情。然而，他的欢乐背后隐藏着一段悲伤的过去。当过去的阴影威胁到他在新家的幸福时，Elias必须面对自己的伤痛，最终以勇气和希望重新拥抱生活，成为镇上真正意义上的“快乐灵魂”。"
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a8243cc5afd5a2cdfaffd22052e03653",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 299.0 words or less.\n\n---\n\n**Title:**\n\nThe Merry Old Soul\n\n**Year:**\n\n1933",
+    "include_year": false
+}

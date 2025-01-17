@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stolen Holiday",
+    "descriptions": [
+        " In the glittering world of 1937 Paris, \"Stolen Holiday\" weaves a tale of ambition, seduction, and deception. The story revolves around Nicky Picot, a cunning and charismatic con artist, and Stefan Orloff, a charming yet enigmatic Russian aristocrat.\n\nNicky, a skilled forger and thief, infiltrates the high society under the guise of a wealthy American heiress. She captivates Stefan with her beauty and wit, but his true interest lies in her apparent fortune. Stefan, who runs a high-end fashion house, aims to use Nicky's wealth to save his failing business. Unbeknownst to him, Nicky has her own motives. She plans to steal the priceless Orloff pearls, a family heirloom that Stefan has pawned to keep his business afloat.\n\nAs Nicky and Stefan's relationship deepens, they find themselves entangled in a web of deceit. Stefan, discovering Nicky's true identity, decides to use her skills for his gain. Nicky, in turn, manipulates Stefan into revealing the location of the Orloff pearls. Their game of cat and mouse escalates, leading to a thrilling climax at the annual Paris Fashion Show.\n\n\"Stolen Holiday\" is a gripping drama that explores the blurred lines of right and wrong, love and deception. As the stakes rise, Nicky and Stefan must navigate their complex relationship while trying to outwit each other. The film showcases the glamour and intrigue of pre-war Paris, with a plot that keeps viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "c09921acee0c38276011296cc44a28ea",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 272.0 words or less.\n\n---\n\n**Title:**\n\nStolen Holiday\n\n**Year:**\n\n1937",
+    "include_year": false
+}

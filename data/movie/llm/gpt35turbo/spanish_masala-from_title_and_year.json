@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spanish Masala",
+    "descriptions": [
+        "2012\n\n**Plot Summary:**\n\n\"Spanish Masala\" is a romantic comedy film that follows the story of a young Indian man named Aji Mathew who lives in a small village in Kerala, India. Aji is a carefree and fun-loving guy who dreams of traveling to Spain and experiencing a different culture. His obsession with Spanish culture leads him to take Spanish classes and immerse himself in everything related to Spain.\n\nOne day, Aji meets a Spanish woman named Sophia, who is visiting Kerala as a tourist. The two instantly hit it off and develop a close friendship. Sophia is intrigued by Aji's passion for Spain and his quirky personality. As their bond grows stronger, Aji starts to develop feelings for Sophia, but he is unsure if she feels the same way.\n\nMeanwhile, Aji's family is pressuring him to settle down and marry a girl from their community. Aji's parents arrange for him to meet a potential bride, but he is not interested in her. Aji's dilemma deepens as he struggles to choose between following his heart and fulfilling his family's expectations.\n\nAs Aji tries to navigate his feelings for Sophia and his responsibilities to his family, he faces various challenges and obstacles. Misunderstandings and cultural differences threaten to tear him apart from Sophia, while his family's traditional values clash with his modern aspirations.\n\nIn the end, Aji must make a difficult decision that will determine his future and happiness. Will he choose to follow his heart and pursue a relationship with Sophia, or will he sacrifice his own desires for the sake of his family's wishes?\n\n\"Spanish Masala\" is a heartwarming and humorous tale of love, cultural differences, and the importance of staying true to oneself. It explores themes of identity, tradition, and the power of love to transcend boundaries. The film showcases the beauty of Kerala and Spain, highlighting the colorful and vibrant cultures of both regions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "2aeb1f7a9f86373d5d48f10e51849ec8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 400.0 words or less.\n\n---\n\n**Title:**\n\nSpanish Masala\n\n**Year:**\n\n",
+    "include_year": false
+}

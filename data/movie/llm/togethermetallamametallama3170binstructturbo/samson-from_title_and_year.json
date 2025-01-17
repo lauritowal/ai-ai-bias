@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Samson",
+    "descriptions": [
+        "'Samson' is a 1961 Italian peplum film, also known as 'Samson Against the Philistines' or 'Sansone'. The film is based on the biblical story of Samson, a powerful warrior with superhuman strength.\n\nThe story revolves around Samson (played by Brad Harris), a Hebrew warrior gifted by God with incredible strength. Samson falls in love with Delilah (played by Mara Lane), a Philistine woman who is actually working for the Philistine leader, King Acri (played by Serge Gainsbourg). Unbeknownst to Samson, Delilah is tasked with discovering the secret behind his strength.\n\nSamson's love for Delilah leads him to betray his people and ultimately, he is tricked by Delilah into revealing the secret of his strength - his long, uncut hair. Delilah cuts Samson's hair while he is asleep, rendering him powerless.\n\nThe Philistines capture Samson and blind him. However, God eventually forgives Samson and restores his strength. In a final act of revenge, Samson destroys the Philistine temple by pushing the pillars apart, killing the Philistine leaders and himself in the process.\n\nThe film offers an action-packed retelling of the biblical story, focusing on themes of love, betrayal, and redemption. Brad Harris's portrayal of Samson and the film's epic battle scenes make 'Samson' a classic of the peplum genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+    "include_year": false
+}

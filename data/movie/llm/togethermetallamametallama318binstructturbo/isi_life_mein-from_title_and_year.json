@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Isi Life Mein",
+    "descriptions": [
+        "However, it seems you haven't provided the year for the movie 'Isi Life Mein'. To provide an accurate plot summary, I would need the release year of the movie.\n\nThat being said, if you provide the year, I can give you a detailed plot summary of the movie 'Isi Life Mein' within the 567-word limit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a3f3fa62b6946b3dddb0b4ec870172cc",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 567.0 words or less.\n\n---\n\n**Title:**\n\nIsi Life Mein\n\n**Year:**\n\n",
+    "include_year": false
+}

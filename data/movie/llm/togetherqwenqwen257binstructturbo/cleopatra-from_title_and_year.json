@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cleopatra",
+    "descriptions": [
+        "**Plot Summary:**\n\nCleopatra, released in 1934, is a lavish and epic historical drama that brings ancient Egypt to life. The film centers on the enigmatic Queen Cleopatra VII, portrayed by Joan Crawford in an iconic performance. Set against the backdrop of the Roman conquest of Egypt and the shifting political landscape of the time, the movie delves into Cleopatra's complex relationships, political strategies, and romantic entanglements.\n\nThe plot opens with Cleopatra, the last Pharaoh of Egypt, vowing to protect her kingdom from the advances of the Roman Empire, led by Julius Caesar and Mark Antony. Cleopatra’s charm and intelligence are her primary weapons, and she employs them to maintain her power and thwart the Romans. Her relationship with Julius Caesar begins when she meets him after faking her own death, leading to a passionate affair and the birth of their son, Caesarion.\n\nYears later, as Cleopatra struggles to maintain control, she turns to the charming and ambitious Roman general, Marc Antony, forming a political alliance that also deepens into a love affair. This partnership is both a strategic move and a passionate romance, but it places Cleopatra in an increasingly precarious position.\n\nThe narrative reaches its climax during the Battle of Actium, where Cleopatra and Antony's forces are defeated by the Roman fleet led by Octavian (Augustus). The film climaxes with Cleopatra’s decision to end her life rather than be captured by the Romans, a poignant and tragic finale that encapsulates her fierce independence and the end of an era.\n\nCleopatra blends historical accuracy with dramatic license, capturing the grandeur of ancient Egypt and the political intrigue of the time. The film is a visual spectacle, featuring stunning costumes, sets, and cinematography that are reminiscent of the era's art deco style."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "cfd1e5ae003e6f8b2da4b8573e22f2c6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 478.0 words or less.\n\n---\n\n**Title:**\n\nCleopatra\n\n**Year:**\n\n1934",
+    "include_year": false
+}

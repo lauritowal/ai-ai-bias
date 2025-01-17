@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tamil Padam",
+    "descriptions": [
+        "\"Tamil Padam\" is a 2010 Indian Tamil-language parody film directed by Vijay Milton and written by S. R. Prabhakaran. The film is a comedy that pokes fun at the Tamil film industry and its clichés.\n\nThe movie follows the story of Balu (played by Shiva), a struggling filmmaker who is obsessed with making a Tamil film. He is convinced that his film will become a huge success and earn him a place in the Tamil film industry. However, his lack of experience and knowledge about filmmaking lead to a series of hilarious mishaps and misunderstandings.\n\nBalu's film is a comedy-thriller called \"Tamil Padam,\" which follows the story of a hero who falls in love with the daughter of a powerful gangster. However, the hero's life is put in danger when the gangster's men try to kill him. The film is a parody of Tamil films, with its over-the-top action sequences, melodramatic dialogue, and clichéd plot twists.\n\nThroughout the film, Balu's efforts to make \"Tamil Padam\" a success are constantly thwarted by his lack of expertise and the interference of his friends and family. However, despite the chaos and confusion that ensue, Balu remains determined to make his film a hit.\n\nThe film features a number of humorous references to Tamil films and their clichés, including the use of over-the-top dialogue, melodramatic music, and action sequences that are more absurd than exciting. The film also pokes fun at the Tamil film industry's tendency to rely on formulaic plots and characters.\n\nOverall, \"Tamil Padam\" is a hilarious parody of the Tamil film industry and its clichés. The film's humorous take on the industry's excesses and absurdities makes it a delight to watch, and its lighthearted tone and witty dialogue add to its comedic charm. If you're a fan of Tamil films or just looking for a funny comedy, \"Tamil Padam\" is a great choice."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a1480a707a248922d2d08899aad4168f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 566.0 words or less.\n\n---\n\n**Title:**\n\nTamil Padam\n\n**Year:**\n\n2010",
+    "include_year": false
+}

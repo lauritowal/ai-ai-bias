@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Chaser",
+    "descriptions": [
+        "The Chaser is a 2008 South Korean crime thriller film directed by Na Hong-jin. The movie is based on a novel of the same name by Gu Mina, and it explores the dark side of human nature and the consequences of addiction.\n\nThe story revolves around Kim Hyung-joo (played by Ha Jung-woo), a former police officer who now leads a team of private investigators specializing in tracking down missing persons. Kim's team consists of his brother, Kang (played by Kwon Yul), and his friend, Woo-jin (played by Jung Woo). However, their business is not legitimate, and they often engage in morally ambiguous and sometimes violent activities to find their clients' loved ones.\n\nThe plot thickens when a wealthy client, Mr. Jung (played by Song Jae-ho), hires Kim's team to locate his daughter, who has gone missing. The team discovers that the daughter, Hyo-jin, was involved in a sex trade and was last seen at a local brothel. As they dig deeper, they uncover a complex web of human trafficking and corruption that spans the city.\n\nMeanwhile, Jung's obsession with finding his daughter grows, and he begins to make demands on Kim's team. Jung's erratic behavior and increasing desperation put a strain on the team's dynamics, and Kim struggles to balance his business and personal relationships.\n\nAs the investigation unfolds, Kim's team encounters various obstacles, including rival detectives, corrupt officials, and the harsh realities of the sex trade. They also face their own personal demons, including addiction and a troubled past. Through their experiences, the characters are forced to confront the consequences of their actions and the true cost of their choices.\n\nThe film builds towards a tense and violent climax, as Kim's team faces off against their adversaries in a desperate bid to uncover the truth. Along the way, the movie raises important questions about the nature of morality, the consequences of addiction, and the resilience of the human spirit.\n\nThe Chaser is a gripping and thought-provoking thriller that explores the darker side of human nature. With its complex characters, intricate plot, and intense action sequences, the movie is a must-see for fans of the crime thriller genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1f954faa08091689109b8c997782cebe",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 981.0 words or less.\n\n---\n\n**Title:**\n\nThe Chaser\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "King",
+    "descriptions": [
+        " In the 2002 drama \"King,\" directed by David Russell, we follow the story of Elvis Valderez (Gael García Bernal), a young man who recently left the U.S. Navy and is on a quest to find his biological father. Elvis was adopted as a child, and his adoptive mother has recently passed away, sparking his desire to uncover his roots.\n\n**[57 words]**\n\nElvis travels to California, where he discovers his father, David Sandow (William Hurt), is a charismatic pastor and the head of a multicultural church in Venice Beach. David is unaware of Elvis' existence, as his birth resulted from a brief, passionate affair with Elvis' mother, a Mexican immigrant.\n\n**[88 words]**\n\nElvis decides to keep his true identity a secret and starts attending David's church. He becomes involved with the congregation and forms a close bond with David's daughter, Malerie (Pell James). Elvis' growing affection for Malerie creates a complex situation, as they are unknowingly half-siblings.\n\n**[132 words]**\n\nAs Elvis becomes more entangled in David's life, he struggles with revealing his true identity. He grapples with the fear of being rejected and the guilt of keeping the truth from his newfound father and sister. Meanwhile, his relationship with Malerie deepens, and they begin to develop romantic feelings for each other.\n\n**[182 words]**\n\nWhen the truth about Elvis' identity finally emerges, David and Malerie are shocked and struggle to accept the reality of their newfound family member. The revelation strains their relationships and tests their faith. Despite the initial turmoil, David, Elvis, and Malerie eventually learn to navigate their new family dynamic and find solace in their shared faith.\n\n**[234 words]**\n\nIn the end, \"King\" is a poignant exploration of family, faith, and identity, as Elvis' search for his biological father leads him to discover not just his roots, but also the power of love, acceptance, and forgiveness.\n\n**[285 words]**"
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "92a68e2cc05e4e2afc5b2a64cb960a93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 339.0 words or less.\n\n---\n\n**Title:**\n\nKing\n\n**Year:**\n\n2002",
+    "include_year": false
+}

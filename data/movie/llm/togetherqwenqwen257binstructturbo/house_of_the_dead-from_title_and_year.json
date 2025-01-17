@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "House of the Dead",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"House of the Dead\" (2003) is a horror film that is a loose adaptation of the popular video game series of the same name. The movie follows a group of friends who are unknowingly lured into a nightclub that has been turned into a hideous trap by an underground gang.\n\nThe story begins with a group of young adults, including Jake (as portrayed by Ben Foster), a former police officer turned bouncer, celebrating the release of his book at a local club. As the night progresses, the club's atmosphere becomes increasingly eerie and ominous. Jake notices strange occurrences and decides to investigate, only to find the club has been transformed into a battleground. The building is infested with zombies and other deadly creatures created from the club's patrons, who have been turned into monstrous beings by a vengeful drug lord.\n\nJake and his friends, including his ex-girlfriend, the club's DJ, and a tough ex-boxer, are forced to fight their way through the nightmarish club. They discover that the drug lord, named Dredd (played by Michael Clarke Duncan), is behind the transformation and seeks revenge on those who have wronged him. The survivors must find a way to escape the club and put an end to Dredd's twisted experiment.\n\nAs the survivors navigate the chaotic and dangerous club, they encounter various deadly traps, including an electrified maze and a collapsing dance floor. They also face off against Dredd's henchmen and the transformed club patrons, who are now zombies. The friends must work together, using their skills and wits to survive the night.\n\nIn a climactic scene, the group finally confronts Dredd and his henchmen in the club's basement, where they discover the horrifying truth about the zombies. They manage to defeat Dredd and his henchmen, but not before Dredd unleashes a final, deadly attack. The remaining survivors escape the club, only to find a city-wide zombie outbreak has begun.\n\n\"House of the Dead\" combines elements of horror, action, and dark humor, delivering a thrilling experience that pays homage to the video game series while offering its own unique take on the zombie genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "5b34f9d41912c2706add77ee3296d7df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 547.0 words or less.\n\n---\n\n**Title:**\n\nHouse of the Dead\n\n**Year:**\n\n2003",
+    "include_year": false
+}

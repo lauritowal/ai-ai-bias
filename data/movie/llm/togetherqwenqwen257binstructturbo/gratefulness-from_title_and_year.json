@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gratefulness",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Gratefulness\" (2003) is a poignant drama that explores the profound impact of gratitude on a community and its inhabitants. Set in a small coastal town, the film follows the lives of several characters, each grappling with their own challenges and seeking a deeper sense of thankfulness. As the town faces a series of unexpected events, including a devastating storm and personal setbacks, the characters are forced to confront their blessings and the interconnectedness of their lives. Through acts of kindness, forgiveness, and self-reflection, they learn to appreciate the simple joys and support of one another. The narrative culminates in a heartwarming celebration of gratitude that binds the community and transforms individual lives, reminding viewers of the power and importance of being thankful."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "e9e645377feabc3b609f56863384f2d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 240.0 words or less.\n\n---\n\n**Title:**\n\nGratefulness\n\n**Year:**\n\n2003",
+    "include_year": false
+}

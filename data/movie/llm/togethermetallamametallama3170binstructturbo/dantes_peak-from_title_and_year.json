@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dante's Peak",
+    "descriptions": [
+        "Dante's Peak is a 1997 American disaster film directed by Roger Donaldson. The movie stars Pierce Brosnan and Linda Hamilton. The story revolves around Dr. Harry Dalton (Pierce Brosnan), a volcanologist who has lost his wife in a volcanic eruption.\n\nDr. Dalton is sent to the small town of Dante's Peak, a picturesque mountain resort town with a volcano that has been dormant for years. Upon arrival, he meets the town's mayor, Rachel Wando (Linda Hamilton), who is also a single mother of two children.\n\nAs Dr. Dalton begins to study the volcano, he discovers signs of increased activity and warns the authorities of a potential eruption. However, the town's officials are more concerned with the economic impact of a volcanic eruption on the town's tourism industry, and they downplay Dr. Dalton's warnings.\n\nDr. Dalton and Rachel grow closer, and he becomes a father figure to her children. As the volcano's activity increases, Dr. Dalton's predictions become more urgent, but the town's officials refuse to take action. The volcano eventually erupts, and Dr. Dalton, Rachel, and her children must navigate the treacherous terrain to escape the danger.\n\nThe movie is a thrilling disaster film that explores the dangers of volcanic eruptions and the consequences of ignoring scientific warnings. The film's special effects and action sequences make it an exciting and suspenseful ride."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "993902b1e4fe1e36b3fdb665f603b4c5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1528.0 words or less.\n\n---\n\n**Title:**\n\nDante's Peak\n\n**Year:**\n\n1997",
+    "include_year": false
+}

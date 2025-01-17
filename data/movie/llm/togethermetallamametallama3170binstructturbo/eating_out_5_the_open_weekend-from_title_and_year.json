@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eating Out 5: The Open Weekend",
+    "descriptions": [
+        "Eating Out 5: The Open Weekend is a 2011 American comedy film and the fifth installment in the Eating Out film series. The movie revolves around Zack (Chris Salvatore), a young and attractive man who has just broken up with his boyfriend. \n\nZack and his gay friends, Casey (Daniel Skelton) and Benji (Aaron Milo), plan a weekend getaway to Palm Springs, where they can relax and possibly find new love. Upon their arrival, Zack meets a handsome and charming man, Randy (Michael Vitar), with whom he develops an instant attraction.\n\nAs the weekend unfolds, Zack navigates his feelings for Randy while exploring the complexities of his relationships with his friends. The film is known for its lighthearted and comedic portrayal of gay relationships, friendships, and self-discovery.\n\nThroughout the movie, the characters encounter various misadventures, including a wild party and unexpected romantic connections. Ultimately, Eating Out 5: The Open Weekend is a heartwarming and entertaining film that explores themes of love, friendship, and identity in the LGBTQ+ community."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "13400134e181445799c0d6432aa8911b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 234.0 words or less.\n\n---\n\n**Title:**\n\nEating Out 5: The Open Weekend\n\n**Year:**\n\n2011",
+    "include_year": false
+}

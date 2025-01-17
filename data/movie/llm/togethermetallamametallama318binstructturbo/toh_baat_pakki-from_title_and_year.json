@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Toh Baat Pakki",
+    "descriptions": [
+        "\"Toh Baat Pakki\" is a 2010 Indian romantic comedy film. The movie revolves around a young man named Jeetu (played by Randeep Hooda) who is in love with his childhood friend, Pooja (played by Taapsee Pannu). However, their relationship is complicated by the fact that they are from different castes and their families are opposed to their love.\n\nJeetu convinces Pooja to pretend to be his wife to secure a better job and a higher social status. However, things get complicated when Pooja starts to get into the role and even begins to fall in love with Jeetu. As they navigate their complicated relationship, they must also confront the societal pressures and expectations that are holding them back.\n\nThe movie explores themes of love, class, and identity, and features a mix of humor, drama, and romance. With its light-hearted tone and engaging storyline, \"Toh Baat Pakki\" is a fun and entertaining watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "98e6d68dfddcc8c727c5e3f56eeb076c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 221.0 words or less.\n\n---\n\n**Title:**\n\nToh Baat Pakki\n\n**Year:**\n\n2010",
+    "include_year": false
+}

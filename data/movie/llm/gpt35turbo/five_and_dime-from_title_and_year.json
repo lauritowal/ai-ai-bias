@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Five and Dime",
+    "descriptions": [
+        "In the midst of the Great Depression, a group of individuals from different walks of life find themselves drawn to a small five and dime store in a bustling city. The store, run by a kind-hearted owner struggling to keep his business afloat, becomes a sanctuary for those seeking refuge from their harsh realities. \n\nAmong the regular customers are a young aspiring actress looking for her big break, a retired war veteran haunted by his past, a single mother struggling to provide for her family, and a homeless man searching for a sense of belonging. As they interact with each other and the store's owner, they form unlikely bonds and find solace in each other's company.\n\nDespite their differences, the group comes together to support the store owner when a big corporation threatens to buy out the property and turn it into a chain store. Through their determination and unity, they embark on a mission to save the store and preserve the sense of community it has provided them.\n\nAs they face various challenges and setbacks, they discover the true value of friendship, kindness, and perseverance in the face of adversity. Through their shared experiences, they learn to appreciate the little things in life and find hope in the midst of despair.\n\nIn the end, the group's efforts pay off as they successfully save the store from being sold, solidifying their bond and creating a lasting legacy of resilience and unity in the face of hardship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "dac6f77a51fc9bc0a426f7844926f608",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 290.0 words or less.\n\n---\n\n**Title:**\n\nFive and Dime\n\n**Year:**\n\n1933",
+    "include_year": false
+}

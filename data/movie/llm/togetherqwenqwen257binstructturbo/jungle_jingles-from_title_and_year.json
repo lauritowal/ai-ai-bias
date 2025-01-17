@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Jungle Jingles",
+    "descriptions": [
+        "**Plot Summary of Jungle Jingles (1929):**\n\n\"Jungle Jingles,\" a 1929 silent film, is a delightful adventure set in the lush, exotic jungles of South America. The story follows young and spirited Ella, a spirited American girl who, along with her loyal dog, Buddy, embarks on a daring journey into the uncharted wilderness. Ella, longing for adventure, leaves behind her sheltered life to explore the untamed forests filled with mysterious creatures and breathtaking landscapes.\n\nUpon her arrival, Ella encounters a group of friendly indigenous tribes who are fascinated by her, taking her under their wing and teaching her the ways of the jungle. She learns to navigate through dense foliage, fish in crystal-clear streams, and hunts for food, all while bonding with Buddy. Ella's spirit and determination quickly earn her the respect and admiration of the tribe.\n\nAs Ella and Buddy continue their expedition, they stumble upon a hidden underground city, inhabited by a mysterious tribe of people who have been living in isolation for centuries. Intrigued and curious, Ella decides to help these people reconnect with the outside world. However, the journey home is fraught with danger, as they must navigate treacherous terrain, elude dangerous predators, and outsmart a ruthless mercenary who seeks to exploit the riches hidden within the jungle.\n\nThroughout the film, Ella's courage and resourcefulness are tested, but her unwavering spirit and friendship with Buddy guide her through every challenge. The movie culminates in a thrilling climax where Ella must use her newly acquired skills to save the hidden city from destruction and ensure that these people can live in harmony with the outside world. \"Jungle Jingles\" is a heartwarming tale of adventure, friendship, and the discovery of one's own inner strength."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "6b523bab4b0eee0b84d085b744b8440d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nJungle Jingles\n\n**Year:**\n\n1929",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Interview With the Assassin",
+    "descriptions": [
+        "Interview with the Assassin is a 2002 American satirical drama film. The story follows a young news reporter, Walter Ohlinger (played by Dylan Haggerty), who wants to make a name for himself in the world of journalism. He discovers that his neighbor, Michael Foster (played by Raymond J. Barry), is actually an aging hitman claiming to be involved in the assassination of President John F. Kennedy.\n\nWalter sees this as the perfect opportunity to create his breakthrough story and decides to secretly film an interview with Michael. As the interview progresses, Walter becomes increasingly drawn into Michael's world and starts questioning his own identity. Meanwhile, a mysterious government agent is tracking Michael, putting both their lives in danger.\n\nThe film takes a satirical look at the American media and society, as well as their obsession with violent and sensationalized stories. It explores themes of truth, identity, and the blurred lines between reality and fiction. Interview with the Assassin received positive reviews from critics, who praised its original storytelling and thought-provoking themes."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1573aec6a37c7379f787e50e7132e5d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nInterview With the Assassin\n\n**Year:**\n\n2002",
+    "include_year": false
+}

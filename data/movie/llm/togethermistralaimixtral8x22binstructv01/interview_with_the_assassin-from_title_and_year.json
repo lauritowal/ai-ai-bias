@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Interview With the Assassin",
+    "descriptions": [
+        " In \"Interview With the Assassin\" (2002), a thought-provoking mockumentary-style film, a struggling freelance TV cameraman, Ron (Dylan Haggerty), discovers that his elderly neighbor, Walter Ohlinger (Raymond J. Barry), claims to be the infamous second gunman in the assassination of President John F. Kennedy. Desperate for a breakthrough story, Ron seizes the opportunity and begins recording Walter's confession.\n\nAs Walter narrates his tale, Ron finds himself entangled in a web of conspiracy theories, cover-ups, and danger. Walter, a former Marine and CIA operative, recounts his role in the assassination, explaining how he was recruited, trained, and eventually manipulated by shadowy figures within the government.\n\nThe story takes a dark turn when Walter reveals that he's been diagnosed with terminal cancer and seeks to set the record straight before his death. As Ron becomes increasingly invested in Walter's story, he begins to question the true motives behind the confession. Is Walter genuinely seeking redemption, or is he using Ron for his own enigmatic purposes?\n\nAs Walter's health deteriorates, Ron races against time to uncover the truth and expose the conspiracy. The film culminates in a shocking twist, leaving viewers questioning the nature of truth, memory, and the lengths people will go to protect their secrets. \"Interview With the Assassin\" is a gripping exploration of power, manipulation, and the elusive quest for the truth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "1573aec6a37c7379f787e50e7132e5d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nInterview With the Assassin\n\n**Year:**\n\n2002",
+    "include_year": false
+}

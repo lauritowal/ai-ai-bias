@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Billy Two Hats",
+    "descriptions": [
+        "\"Billy Two Hats\" is a 1974 Western film directed by J. Lee Thompson and starring Gregory Peck in a dual role. The story is set in the late 1800s in a small Western town where the protagonist, Billy Two Hats, is a mysterious figure who wears two hats to symbolize his dual identity. One hat represents his life as a peaceful, law-abiding citizen, while the other signifies his alter ego as a skilled and deadly gunslinger.\n\nThe plot revolves around a town plagued by a ruthless gang of outlaws led by a dangerous and cunning man named Caine. The townspeople are terrorized and have no means to defend themselves. Billy, who has recently arrived in town, is initially seen as a quiet and unassuming man. However, as the gang's oppression grows, Billy reveals his true nature and takes on the role of the town's protector.\n\nThe climax of the film features a tense showdown between Billy and Caine, where Billy must use his exceptional skills to save the town and bring peace. The film explores themes of duality, the nature of violence, and the moral complexities of justice in the Wild West. \"Billy Two Hats\" is a classic Western that combines action, drama, and a touch of psychological depth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "42e31755847381dba2f59cb9cd3207ac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 277.0 words or less.\n\n---\n\n**Title:**\n\nBilly Two Hats\n\n**Year:**\n\n1974",
+    "include_year": false
+}

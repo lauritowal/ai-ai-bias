@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Akira",
+    "descriptions": [
+        "In the year 1988, Tokyo is a sprawling metropolis plagued by corruption, violence, and civil unrest. A secret government project known as Akira, which sought to harness the power of psychic children, resulted in a catastrophic explosion that destroyed the city. In the aftermath, Tokyo was rebuilt into Neo-Tokyo, a dystopian society where motorcycle gangs roam the streets and political tensions run high.\n\nThe story follows Kaneda, the leader of a biker gang, as he becomes embroiled in a conspiracy involving a mysterious young boy named Tetsuo. After a skirmish with a rival gang, Kaneda and his friends encounter Tetsuo, who exhibits strange psychic abilities. Tetsuo is captured by the government and subjected to experiments, which only serve to enhance his powers and drive him mad.\n\nAs Tetsuo's powers grow out of control, he becomes a threat to Neo-Tokyo itself. Kaneda, along with a group of resistance fighters, must race against time to stop Tetsuo before he unleashes a cataclysmic event that could destroy the city once again. Along the way, Kaneda uncovers the truth behind the Akira project and the dark secrets that have been buried for years.\n\nThe film explores themes of power, corruption, and the consequences of unchecked ambition. It delves into the nature of human potential and the ethical implications of scientific experimentation. Through stunning animation and intense action sequences, Akira paints a vivid and harrowing portrait of a society on the brink of collapse.\n\nIn the climactic final battle, Kaneda confronts Tetsuo in a showdown that will determine the fate of Neo-Tokyo. As the city crumbles around them, Kaneda must find a way to reach out to his friend and show him the path to redemption. In the end, Tetsuo sacrifices himself to prevent further destruction, leaving Kaneda to contemplate the lessons learned from their shared journey.\n\nAkira is a groundbreaking film that has become a cult classic, known for its stunning visuals, complex characters, and thought-provoking themes. It remains a timeless masterpiece that continues to inspire and captivate audiences around the world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "aa8e638a3de018879d529f0f9c821ba0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 805.0 words or less.\n\n---\n\n**Title:**\n\nAkira\n\n**Year:**\n\n1988",
+    "include_year": false
+}

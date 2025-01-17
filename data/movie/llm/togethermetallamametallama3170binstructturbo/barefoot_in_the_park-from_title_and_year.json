@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Barefoot in the Park",
+    "descriptions": [
+        "'Barefoot in the Park' is a 1967 American romantic comedy film directed by Gene Saks. The movie is based on the 1963 play of the same name by Neil Simon.\n\nThe story follows Paul Bratter (played by Robert Redford), a young and conservative lawyer, who falls in love with Corie Bratter (played by Jane Fonda), a free-spirited and eccentric young woman they meet at a blind date. Despite their contrasting personalities, they get married after a brief courtship.\n\nThe newlywed couple moves into a fifth-floor walk-up apartment in a Greenwich Village brownstone. As they begin their life together, their opposing views on life become apparent. Corie is a hopeless romantic who longs for a life full of excitement and adventure, while Paul is a practical and cautious person who values stability and security.\n\nThe couple's differences lead to comedic misunderstandings and clashes, especially when Corie tries to loosen up Paul and encourage him to be more spontaneous. She convinces him to take off his shoes and walk barefoot in Central Park, which becomes a turning point in their relationship.\n\nAs the story unfolds, Corie becomes increasingly frustrated with Paul's inability to let go of his inhibitions and be more spontaneous. She also becomes concerned about the state of their relationship and fears that they might be growing apart.\n\nMeanwhile, Corie's mother, Ethel Banks (played by Mildred Natwick), provides a witty and humorous commentary on the couple's marriage. She often offers her own opinions and advice, which sometimes helps and sometimes hinders the couple's progress.\n\nIn the end, Paul and Corie must confront their differences and learn to appreciate each other's unique qualities. They come to realize that their love for each other is strong enough to overcome their differences, and they find a way to balance their opposing views and build a happy life together.\n\n'Barefoot in the Park' is a charming and witty romantic comedy that explores the ups and downs of marriage and relationships. With its talented cast, clever dialogue, and lighthearted tone, the movie is a delightful watch that continues to entertain audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c7b8156f5c4f3b19bf1138bb95f6e5f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 715.0 words or less.\n\n---\n\n**Title:**\n\nBarefoot in the Park\n\n**Year:**\n\n1967",
+    "include_year": false
+}

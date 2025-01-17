@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gratefulness",
+    "descriptions": [
+        " In the heartwarming 2003 film \"Gratefulness,\" we meet Sarah, a middle-aged woman struggling with the weight of a life filled with regrets. After a series of unfortunate events, Sarah finds herself alone and disconnected from the world. One day, she stumbles upon an old diary from her childhood, filled with entries expressing gratitude for the simple pleasures in life.\n\nInspired by her younger self's optimism, Sarah embarks on a transformative journey to rediscover gratitude. She starts writing daily entries in a new gratitude journal, focusing on the small blessings often overlooked. As she writes, Sarah begins to see her life through a new lens, appreciating the beauty of each moment.\n\nSarah's newfound outlook attracts positivity and warmth from those around her, leading to new friendships and unexpected opportunities. She forms a particularly special bond with her elderly neighbor, Martha, who shares invaluable wisdom about the power of gratitude. Together, they help one another heal from past wounds and learn to embrace a grateful heart.\n\n\"Gratefulness\" is a poignant exploration of the human capacity for gratitude and the profound impact it can have on our lives. This touching film reminds us that even in our darkest moments, there is always something to be thankful for."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "e9e645377feabc3b609f56863384f2d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 240.0 words or less.\n\n---\n\n**Title:**\n\nGratefulness\n\n**Year:**\n\n2003",
+    "include_year": false
+}

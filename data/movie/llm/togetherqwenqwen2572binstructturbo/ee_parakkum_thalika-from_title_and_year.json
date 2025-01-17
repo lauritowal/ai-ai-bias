@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ee Parakkum Thalika",
+    "descriptions": [
+        "\"Ee Parakkum Thalika\" (2001) is a Malayalam romantic comedy directed by Sibi Malayil. The film stars Mohanlal and Manju Warrier in the lead roles. The story revolves around Ravi (Mohanlal), a charming and carefree young man who works in a software company. Ravi is known for his playful and mischievous nature, which often lands him in humorous situations.\n\nOne day, Ravi meets Gayatri (Manju Warrier), a beautiful and intelligent woman who is a librarian. Despite their initial differences, they are drawn to each other's unique personalities. Ravi's relentless pursuit of Gayatri, filled with witty banter and comedic misunderstandings, eventually leads to a blossoming romance.\n\nHowever, their relationship faces several challenges, including family pressures and societal expectations. Ravi's mischievous antics also sometimes put their relationship to the test. Despite these obstacles, the couple's deep love and understanding for each other help them navigate through the difficulties.\n\nThe film is known for its light-hearted humor, romantic moments, and the chemistry between Mohanlal and Manju Warrier. It also touches on themes of modern love, personal growth, and the importance of communication in relationships. \"Ee Parakkum Thalika\" is a delightful watch that resonates with audiences for its relatable characters and heartwarming story."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "6686bf036eb160295d275bfa1bc99486",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 260.0 words or less.\n\n---\n\n**Title:**\n\nEe Parakkum Thalika\n\n**Year:**\n\n2001",
+    "include_year": false
+}

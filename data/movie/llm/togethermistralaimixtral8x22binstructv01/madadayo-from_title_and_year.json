@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Madadayo",
+    "descriptions": [
+        " \"Madadayo\" (1993) is a Japanese drama film directed by Akira Kurosawa, his final work before his death. The film follows the life of Hyakken Uchida, a renowned professor and author, during his post-retirement years in the aftermath of World War II. The title \"Madadayo\" translates to \"Not Yet,\" a phrase used in a children's game, but in the context of the film, it signifies Uchida's refusal to accept old age and death.\n\nThe narrative unfolds through a series of annual reunions with Uchida's former students, who hold their professor in high regard and affectionately call him \"Sensei.\" Each reunion is marked by the students' tradition of asking, \"Mādadayo?\" to which Uchida responds with a resounding \"No,\" symbolizing his determination to continue living life to the fullest.\n\nThe film explores themes of aging, friendship, and the pursuit of knowledge. It delves into Uchida's relationships with his wife, his cat, and his students, as well as his struggle to find meaning and purpose in his later years. Despite its focus on the challenges of aging, \"Madadayo\" is infused with a sense of humor and warmth, ultimately conveying a message of resilience and the importance of human connections."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "f2014c8ca9859e48a197ddb21e04feeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMadadayo\n\n**Year:**\n\n1993",
+    "include_year": false
+}

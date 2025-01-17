@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Funny About Love",
+    "descriptions": [
+        "Funny About Love is a 1990 American romantic comedy film. The movie revolves around Duffy Bergman (Gene Wilder), a children's book author and illustrator who struggles with writer's block. While working at a diner, he meets a young waitress named Daphne (Christine Lahti). They begin dating, and Duffy eventually marries her.\n\nHowever, Duffy's inability to have children complicates their relationship. They undergo various fertility treatments, but none of them work. As a result, Duffy starts questioning his masculinity and feels inadequate as a partner. His feelings of inadequacy further strain their relationship.\n\nAs Duffy navigates his struggles with infertility, he starts reevaluating his priorities and perspective on life. In the process, he learns to appreciate the love and companionship he shares with Daphne, regardless of their inability to have children. The film explores themes of love, relationships, and the challenges that couples face.\n\nWith its blend of humor and heart, Funny About Love offers a unique and endearing portrayal of a couple's journey through the ups and downs of life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "ea05ec1ad63dbae0612e954bfcef03d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nFunny About Love\n\n**Year:**\n\n1990",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Mad Magician",
+    "descriptions": [
+        "In 1954, \"The Mad Magician\" tells the story of a brilliant but mentally unstable magician named Victor Marlow, played by a renowned actor of the era. Marlow performs his mesmerizing illusions in a gritty, urban setting, captivating audiences with his daring and sometimes deadly tricks. However, his obsession with pushing the boundaries of magic leads him down a dark path. As he struggles with mental health issues, Marlow’s performances become increasingly risky, blurring the lines between magic and murder. When a young woman becomes his latest assistant, she finds herself caught in a web of psychological manipulation and violence. The film explores themes of creativity, obsession, and the fine line between art and madness, culminating in a shocking finale that leaves audiences questioning reality and illusion."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "40819b90febcbfa30a2135d948e5c092",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nThe Mad Magician\n\n**Year:**\n\n1954",
+    "include_year": false
+}

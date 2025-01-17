@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "No sos vos, soy yo",
+    "descriptions": [
+        "Unfortunately, I couldn't find much information about the 2004 movie \"No sos vos, soy yo\". However, based on my knowledge, it appears to be a Spanish film directed by Adrián Caetano.\n\n\"No sos vos, soy yo\" is a psychological thriller that revolves around a mysterious plot. The main character, a woman with amnesia, is being stalked by someone claiming to be her twin sister. As the story unfolds, it becomes clear that nothing is as it seems.\n\nThe movie explores themes of identity, family secrets, and the blurred lines between reality and fantasy. The protagonist's memory loss and the enigmatic figure of the twin sister create a sense of unease and uncertainty, keeping the audience engaged and curious about the truth.\n\nAs the plot thickens, the woman's memories start to resurface, revealing a complex web of relationships and a dark family history. The film's climax is a shocking revelation that challenges the protagonist's perceptions of her identity and the world around her."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "132b7cce378c409c1225f6fb03b65e10",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 220.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004",
+    "include_year": false
+}

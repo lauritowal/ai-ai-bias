@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tirangaa",
+    "descriptions": [
+        "\"Tirangaa,\" released in 1992, is a captivating Indian drama directed by Rama Gopalam, known for his emotionally charged storytelling. The film stars Mohanlal and Mammootty, two of the most prominent actors in Malayalam cinema, and it delves into the complex dynamics of brotherhood, loyalty, and the struggle for identity in a rapidly changing society.\n\nSet in a small village in Kerala, the story revolves around two brothers, Ravi and Raju, played by Mohanlal and Mammootty, respectively. Ravi is a principled and traditional man, deeply rooted in the values of his community, while Raju is a more modern and ambitious individual, eager to break free from the constraints of his rural life. Their differing worldviews lead to a series of conflicts, testing the bond they share.\n\nThe plot thickens when Raju decides to move to the city to pursue his dreams, leaving behind his family and the life he knows. Ravi, feeling betrayed, remains in the village, trying to uphold the family's honor and traditions. As the years pass, Raju becomes successful but begins to lose touch with his roots, while Ravi struggles to maintain his way of life in the face of societal changes.\n\nThe film reaches its climax when a crisis forces the brothers to confront their differences and the sacrifices they have made. \"Tirangaa\" is a poignant exploration of the tensions between tradition and modernity, and the enduring power of family ties. It is a thought-provoking and emotionally resonant film that has left a lasting impact on Malayalam cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "ea66cc52b8f70dbcec8d83d321887586",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 289.0 words or less.\n\n---\n\n**Title:**\n\nTirangaa\n\n**Year:**\n\n1992",
+    "include_year": false
+}

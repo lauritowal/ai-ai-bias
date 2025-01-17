@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Yellow Sky",
+    "descriptions": [
+        "\"Yellow Sky\" is a 1948 American Western film directed by William A. Wellman. The movie takes place in California's deserts during the late 1800s, following two men, Mike \"Lance\" McCoy (Gregory Peck) and Dude (Richard Widmark), who have just been released from prison after serving time for bank robbery.\n\nTheir plan is to head to Mexico, where they can start fresh and leave their past behind. However, their journey is complicated when they meet a young woman, Chungo (Helen Gahagan), who joins them on their travels. The trio eventually stumbles upon a small, isolated gold mining town called Yellow Sky, where they hope to find work and start a new life.\n\nHowever, their arrival coincides with a severe sandstorm that forces the town's residents to take shelter. In the chaos, the group discovers a hidden stash of gold and a fierce outlaw, Brother, who is also a former associate of Mike. Brother has been seeking revenge against Mike and has disguised himself as a preacher in the town.\n\nAs tensions rise, Dude starts to form a bond with the local sheriff's daughter, while Mike finds himself amidst a complicated situation with Brother and a group of outlaws. Eventually, Mike must confront his past and decide whether to abandon his loyalty to Dude in order to protect himself and those around him.\n\n\"Yellow Sky\" is a gripping Western drama that explores themes of loyalty, redemption, and the complexities of human relationships. With stunning cinematography and a gripping storyline, the film features standout performances from its lead actors, particularly Gregory Peck and Richard Widmark."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7f25b68064ee0fc036e936a24856221c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 412.0 words or less.\n\n---\n\n**Title:**\n\nYellow Sky\n\n**Year:**\n\n1948",
+    "include_year": false
+}

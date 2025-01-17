@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shaolin Chamber of Death",
+    "descriptions": [
+        "\"Shaolin Chamber of Death\" is a 1976 Hong Kong martial arts film directed by Joseph Kuo. The movie is a sequel to the 1974 film \"The Seven Masters,\" and it continues the story of the Shaolin monks.\n\nThe film begins with the introduction of two of the main characters: Shaolin monk, Wong Fei-Hung, and the evil monk, General Hsuan, who seeks revenge against the Shaolin school. General Hsuan was once a respected member of the Shaolin community but turned to the dark side after being betrayed by his former allies.\n\nWong Fei-Hung is tasked with leading a group of young monks on a mission to protect the Shaolin Chamber, which contains a powerful ancient artifact that could grant immense power to its possessor. However, General Hsuan has other plans and sends his army of ruthless warriors to capture the artifact and destroy the Shaolin school.\n\nAs the battle between the Shaolin monks and General Hsuan's army unfolds, Wong Fei-Hung and his companions must use their unique martial arts skills to defend themselves against the enemy. Along the way, they encounter a group of seductive female assassins who are working for General Hsuan.\n\nThroughout the film, the action-packed scenes showcase the impressive martial arts skills of the actors, including Lo Meng, Fei Meng, and Hsiao Ho. The movie's plot is a classic tale of good vs. evil, with the Shaolin monks fighting for justice and righteousness against the forces of darkness.\n\nThe film's title, \"Shaolin Chamber of Death,\" refers to the deadly consequences of the battle between the Shaolin monks and General Hsuan's army. The movie is known for its over-the-top action sequences, which include a memorable showdown between Wong Fei-Hung and General Hsuan.\n\nOverall, \"Shaolin Chamber of Death\" is a classic martial arts film that showcases the impressive skills of the actors and the unique culture of the Shaolin monks. While the plot may seem simple, the movie's action-packed sequences and memorable characters make it a must-see for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cb0b927f6dcd6865a592dc2a7af26a84",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 639.0 words or less.\n\n---\n\n**Title:**\n\nShaolin Chamber of Death\n\n**Year:**\n\n1976",
+    "include_year": false
+}

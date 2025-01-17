@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Me and Orson Welles",
+    "descriptions": [
+        "In \"Me and Orson Welles,\" set in 1937, a young aspiring actor named Richard Samuels lands a role in Orson Welles' iconic Mercury Theatre production of Julius Caesar. As Richard becomes involved in the chaotic world of the theater, he quickly realizes just how unpredictable and demanding Welles can be as a director. Despite this, Richard finds himself drawn to the charismatic and enigmatic Welles, learning valuable lessons about the price of ambition and the sacrifices required for success in the cutthroat world of show business.\n\nAs Richard navigates the challenges of working with Welles and the talented cast of actors, he also finds himself falling for Sonja Jones, a beautiful and talented production assistant. Their budding romance adds a layer of complexity to Richard's already tumultuous experiences in the theater.\n\nThroughout the film, viewers are treated to a behind-the-scenes look at the creative process behind one of Welles' most famous productions. As tensions rise and egos clash, Richard must navigate the politics and drama of the theater world while trying to make a name for himself as an actor.\n\n\"Me and Orson Welles\" is a captivating and entertaining look at the struggles and triumphs of a young artist trying to find his place in a world of larger-than-life personalities and high-stakes performances. It is a story of ambition, love, and the power of art to both inspire and destroy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nMe and Orson Welles\n\n**Year:**\n\n2009",
+    "include_year": false
+}

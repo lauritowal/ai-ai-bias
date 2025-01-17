@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Ringer",
+    "descriptions": [
+        "In the 1964 film \"Dead Ringer,\" Edith Parcher (played by Bette Davis) is a lonely and bitter woman who lives with her sister Margaret (also played by Bette Davis). Margaret is a strong and energetic woman, while Edith is frail and dependent on her sister. After Margaret dies, Edith assumes her identity and begins to live her sister's life. \n\nAs Edith becomes more confident in her new role, she starts to attract the attention of men, including Dr. Trent (played by Cameron Mitchell). However, Edith's fragile mental state and obsession with her sister's life threaten to expose her true identity. The film is a psychological thriller that explores themes of identity, loneliness, and the complexities of human relationships. The dual performance by Bette Davis adds to the film's tension and emotional depth, making \"Dead Ringer\" a gripping and intense watch. The movie was a commercial success and received positive reviews from critics."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "e7a5935e21717fc8edca0d81974a4762",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "November",
+    "descriptions": [
+        "**Plot Summary:**\n\nNovember, released in 2004, is a psychological thriller that delves into the life of Sarah (played by Lili Taylor), a successful lawyer in her late 30s. The film opens on a November evening, and Sarah receives a mysterious note that seems to know intimate details about her life. This note sends her into a spiral of paranoia as she starts to question her own sanity and the security of her life.\n\nSarah's world becomes increasingly chaotic as she experiences a series of unsettling events, including the break-in of her home, the theft of her diary, and the appearance of more cryptic notes. As she investigates, she discovers that the notes are linked to her past, particularly to a case she handled years ago involving a missing girl.\n\nThe film explores Sarah's descent into a state of anxiety and fear, as she struggles to distinguish between reality and her own delusions. Her relationship with her husband, David (played by Chris Cooper), becomes strained as he tries to support her while also trying to understand what is happening to her.\n\nAs the tension builds, Sarah finds herself questioning the integrity of those around her, including her colleagues and even her closest friends. The climax of the film reveals a shocking twist that ties together the events of her past and present, challenging her understanding of truth and reality.\n\nNovember is a gripping psychological thriller that combines elements of mystery and suspense, with a central performance by Lili Taylor that captures the intensity and vulnerability of Sarah's deteriorating mental state. The film is a haunting exploration of the mind's capacity for paranoia and the dark recesses of one's past that can resurface to haunt the present."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "5aa0e0bd99d5549bdccb188219f8b9bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 380.0 words or less.\n\n---\n\n**Title:**\n\nNovember\n\n**Year:**\n\n2004",
+    "include_year": false
+}

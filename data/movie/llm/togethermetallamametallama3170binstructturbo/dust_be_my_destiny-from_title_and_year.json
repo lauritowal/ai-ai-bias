@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dust Be My Destiny",
+    "descriptions": [
+        "'Dust Be My Destiny' is a 1939 American drama film starring John Garfield and Priscilla Lane. The story revolves around Joe Bell, a young man wrongly accused of a crime he didn't commit. After being sentenced to prison, Joe befriends a fellow inmate, 'Doc,' who becomes a mentor and helps him survive the harsh conditions.\n\nUpon his release, Joe is unable to find employment due to his prison record. He meets Mabel, a kind-hearted woman who offers him a place to stay and tries to help him turn his life around. As Joe and Mabel grow closer, he starts working as a migrant worker, but his past continues to haunt him.\n\nAs Joe struggles to rebuild his life and earn a decent living, he becomes embroiled in a labor dispute between the migrant workers and their exploitative employer. Joe's past and his desire for justice threaten to destroy his newfound happiness with Mabel, leading him to make difficult choices that will impact their future together. The film explores themes of social injustice, redemption, and the American Dream, providing a powerful commentary on the struggles of the working class during the Great Depression."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7503a80b36448cbcc6b19ce17a99e3dd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 231.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939",
+    "include_year": false
+}

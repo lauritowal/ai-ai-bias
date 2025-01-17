@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hollow Triumph",
+    "descriptions": [
+        "'Hollow Triumph' is a 1948 American film noir directed by Steve Sekely. The movie stars Paul Henreid and Joan Bennett. \n\nThe story revolves around John Muller (played by Paul Henreid), a former medical student turned small-time crook who gets involved in a jewel heist. However, the heist goes wrong, and Muller is forced to flee. \n\nWhile on the run, he stumbles upon a lookalike named Dr. Victor Bartok, a psychiatrist who has an identical appearance to Muller. Muller comes up with a plan to impersonate the psychiatrist. \n\nAs Muller assumes Bartok's identity, he gets entangled in his complicated life, which includes a romantic interest, Evelyn Hahn (played by Joan Bennett), who is a patient and secretary of the real Dr. Bartok. \n\nAs Muller navigates through his new life, he becomes increasingly entangled in a web of deception, which puts him at risk of being discovered. The movie explores themes of identity, deception, and the blurred lines between reality and fiction. \n\nThroughout the film, Muller's attempts to assume a new identity serve as a commentary on the darker aspects of human nature and the consequences of one's actions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "57f0ff69486808c116a59673c7a08aae",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 516.0 words or less.\n\n---\n\n**Title:**\n\nHollow Triumph\n\n**Year:**\n\n1948",
+    "include_year": false
+}

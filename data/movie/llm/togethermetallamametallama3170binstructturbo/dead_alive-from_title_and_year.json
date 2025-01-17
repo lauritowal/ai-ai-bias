@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Alive",
+    "descriptions": [
+        "Dead Alive, released in 1993, is a New Zealand horror-comedy film directed by Peter Jackson. The film follows the story of Lionel Cosgrove (played by Timothy Balme), a shy and awkward young man who lives with his controlling and overbearing mother, Vera (played by Elizabeth Moody), in a suburban Wellington neighborhood.\n\nWhen Vera is bitten by a rare and venomous Sumatran rat-monkey at the local zoo, she begins to exhibit strange and terrifying symptoms. As the days pass, Vera's behavior becomes increasingly erratic, and she eventually dies. However, she does not stay dead for long, as she rises from the grave and begins to terrorize Lionel and the rest of the neighborhood.\n\nAs the situation spirals out of control, Lionel teams up with a new love interest, Paquita (played by Diana Peñalver), and a bumbling uncle, Les (played by Ian Watkin), to try and stop Vera and the growing horde of zombies she has created.\n\nThe film descends into chaos as the zombie outbreak spreads, with Lionel and his friends fighting for survival against hordes of undead. Along the way, the film showcases Jackson's signature blend of dark humor, over-the-top gore, and inventive special effects.\n\nThroughout the film, Jackson pays homage to classic zombie movies while also adding his own unique twist to the genre. The result is a hilarious and action-packed ride that has become a cult classic among horror fans.\n\nDespite its low budget, Dead Alive has gained a reputation as one of the most entertaining and inventive horror-comedies of the 1990s. The film's success helped establish Peter Jackson as a rising star in the world of horror cinema, paving the way for his future projects, including the Lord of the Rings trilogy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "851da07c93371c5f2c600b1580e0d4f2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 631.0 words or less.\n\n---\n\n**Title:**\n\nDead Alive\n\n**Year:**\n\n1993",
+    "include_year": false
+}

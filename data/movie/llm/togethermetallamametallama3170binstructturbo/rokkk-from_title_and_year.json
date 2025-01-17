@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rokkk",
+    "descriptions": [
+        "Rokkk is a 2010 Indian horror film directed by Rajesh Ranshinge. The movie revolves around a film crew who arrive at a remote location to shoot a film, but things take a dark turn when they realize that the place is haunted.\n\nThe crew consists of the film's lead actress, Anushka (Tanushree Dutta), the director, and other technicians. As they start filming, strange and supernatural events begin to occur. Equipment goes missing, strange noises are heard, and some crew members are attacked by an unseen force.\n\nAs the events escalate, the crew discovers that the location they are shooting at has a dark history. A woman was brutally murdered there by her husband, and her spirit is said to haunt the place. The spirit begins to possess Anushka, causing her to behave erratically and putting the entire crew in danger.\n\nThe crew tries to find a way to escape the location, but they are trapped by the spirit. The movie builds up to a thrilling climax as the crew fights for survival against the vengeful spirit. Rokkk is a classic horror movie with plenty of jump scares, creepy atmosphere, and a gripping storyline that keeps the audience on the edge of their seats."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "03e26709601c0002054b2ef0a6189ec9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 323.0 words or less.\n\n---\n\n**Title:**\n\nRokkk\n\n**Year:**\n\n2010",
+    "include_year": false
+}

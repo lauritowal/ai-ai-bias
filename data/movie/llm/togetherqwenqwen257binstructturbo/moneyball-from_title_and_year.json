@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Moneyball",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Moneyball\" (2011) is a gripping drama that explores the innovative approach to building a winning baseball team through advanced statistical analysis. The film is set in the 2002 season when the Oakland Athletics, led by general manager Billy Beane (Brad Pitt), face significant financial constraints in a league dominated by wealthier teams. Despite a small budget and limited resources, Beane aspires to compete with the best.\n\nBeane, along with his new assistant, Peter Brand (Jonah Hill), a Yale-educated economist with a deep understanding of sabermetrics (the use of statistics to evaluate a player's performance), challenges the traditional baseball scouting methods. They focus on undervalued players with strong on-field statistics and potential, rather than relying on expensive, highly visible stars. Their unconventional approach draws criticism from the baseball establishment, including the team's owner, Ray Schriner (Philip Seymour Hoffman), who is resistant to change.\n\nThe story follows the team's journey through the 2002 season, highlighting the tension between tradition and modernity in baseball. Beane and Brand navigate personal and professional challenges, including skepticism from players, coaches, and fans. Despite the financial limitations, the team's strategic acquisitions and innovative tactics lead to unexpected success. The athletes, including Scott Hatteberg (Amy Adams) and Johnny Podisi (Ewan McGregor), embrace the new approach and find unexpected opportunities.\n\nThe film culminates in the playoffs, where the Athletics face off against the Texas Rangers. The narrative reflects on the broader implications of their strategy, illustrating how the use of data and analytics can challenge long-standing practices in sports and beyond. \"Moneyball\" ultimately celebrates the power of innovation and the importance of questioning conventional wisdom to achieve extraordinary results."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a6265033a086f69aa87df4ed8c8d2b7b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 689.0 words or less.\n\n---\n\n**Title:**\n\nMoneyball\n\n**Year:**\n\n2011",
+    "include_year": false
+}

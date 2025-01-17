@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Where's Firuze?",
+    "descriptions": [
+        "\"Where's Firuze?\" is a 2004 Turkish drama film directed by Handan İpekçi. The film is a poignant exploration of the life of Firuze, a young girl from a conservative family in a small Turkish village, and her journey towards self-discovery and independence.\n\nThe story begins with Firuze, a bright and curious 12-year-old, living in a tightly knit community where traditions and customs dictate the lives of its inhabitants. Despite the restrictive environment, Firuze dreams of a life beyond the confines of her village. Her world is turned upside down when her father decides to arrange her marriage to a much older man, a common practice in the village. Firuze, unwilling to accept this fate, makes a daring decision to run away to Istanbul, the bustling metropolis that represents freedom and opportunity to her.\n\nIn Istanbul, Firuze faces numerous challenges as she navigates the complexities of urban life. She finds shelter with a kind-hearted woman named Ayşe, who takes her in and helps her adjust to her new surroundings. Firuze begins to work in a small bakery, where she forms a bond with her coworkers and starts to build a new life for herself. However, the threat of being found by her family looms over her, and she must constantly look over her shoulder.\n\nThe film delves into themes of tradition versus modernity, the struggle for personal freedom, and the resilience of the human spirit. \"Where's Firuze?\" is a touching and thought-provoking story that highlights the universal desire for self-determination and the courage it takes to break free from the constraints of societal expectations."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "1a9aaf1db5c550f6cdf2fb501638c19c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 329.0 words or less.\n\n---\n\n**Title:**\n\nWhere's Firuze?\n\n**Year:**\n\n2004",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daddy Cool",
+    "descriptions": [
+        "\"Daddy Cool\" (2009) is a British romantic comedy that follows the story of Gary, a middle-aged bachelor and successful DJ who is the life of the party, but whose personal life is a mess. When his ex-wife drops off his 14-year-old daughter, Libby, for a summer visit, Gary's world is turned upside down. Struggling to balance his carefree lifestyle with the responsibilities of fatherhood, Gary finds himself in a series of hilarious and heartwarming situations. With the help of his best friend and a few unexpected allies, he learns to navigate the challenges of raising a teenager and reconnects with his daughter in the process. The film explores themes of growth, redemption, and the importance of family, all set to a lively soundtrack that captures the spirit of Gary's radio career. \"Daddy Cool\" is a charming and relatable tale about the unexpected joys and trials of becoming a better parent and person."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "34a33d481041b2381b8dc03533db65bd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009",
+    "include_year": false
+}
