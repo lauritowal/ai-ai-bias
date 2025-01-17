@@ -1,4 +1,0 @@
-title,description_type,class_prob_human,class_prob_ai,class_prob_mixed,confidence_score_ai,confidence_score_human,confidence_score_mixed,confidence_score,predicted_class
-kitchedaid_5_more_then_20_color_,human_description,0.9886619548292076,0.011338045170792403,0.0,0.011338045170792403,0.9886619548292076,0.0,0.9886619548292076,human
-kitchedaid_5_more_then_20_color_,llm_description,0.0,1.0,0.0,1.0,0.0,0.0,1.0,ai
-matein_17_inch_laptop_backpack_t,human_description,0.9610148666808178,0.03894066352106645,4.446979811567727e-05,0.03894066352106645,0.9610148666808178,4.446979811567727e-05,0.9610148666808178,human
