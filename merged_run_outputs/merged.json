@@ -2655,6 +2655,106 @@
     },
     "avg_llm_win_ratio": 0.8715596330275229
   },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-submit_tomorrow_with_full_paper_details_matter|gpt-3.5-turbo-1106": {
+    "details_by_item": {
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 0.5,
+        "Human": 3,
+        "LLM": 3,
+        "Invalid": 2
+      },
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 6,
+        "Invalid": 2
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 0.3333333333333333,
+        "Human": 4,
+        "LLM": 2,
+        "Invalid": 2
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 0.8333333333333334,
+        "Human": 1,
+        "LLM": 5,
+        "Invalid": 2
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 0.6666666666666666,
+        "Human": 2,
+        "LLM": 4,
+        "Invalid": 2
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.4,
+        "Human": 3,
+        "LLM": 2,
+        "Invalid": 3
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.14285714285714285,
+        "Human": 6,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 0.42857142857142855,
+        "Human": 4,
+        "LLM": 3,
+        "Invalid": 1
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 0.7142857142857143,
+        "Human": 2,
+        "LLM": 5,
+        "Invalid": 1
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 4,
+        "Invalid": 4
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 0.25,
+        "Human": 3,
+        "LLM": 1,
+        "Invalid": 4
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 0.16666666666666666,
+        "Human": 5,
+        "LLM": 1,
+        "Invalid": 2
+      }
+    },
+    "total_tallies": {
+      "Human": 35,
+      "LLM": 58,
+      "Invalid": 27
+    },
+    "avg_llm_win_ratio": 0.6123809523809524
+  },
   "product---DESCRIPTION-from_json_details|gpt-4-1106-preview---COMPARISON-marketplace_recommendation_force_decision|gpt-3.5-turbo": {
     "details_by_item": {
       "clementine_apparel__girls_and_wo": {
@@ -6189,6 +6289,1710 @@
     },
     "avg_llm_win_ratio": 0.7419354838709677
   },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-literature_review_pick_one|gpt-3.5-turbo-1106": {
+    "details_by_item": {
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.0,
+        "Human": 8,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "generating_natural_language_summ": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "ccgbank_a_corpus_of_ccg_derivati": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "learning_subjective_language": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "vectorbased_models_of_semantic_c": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "an_improved_error_model_for_nois": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "phrasal_cohesion_and_statistical": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "chart_generation": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "personalizing_pagerank_for_word_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "widecoverage_efficient_statistic": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "integrating_graphbased_and_trans": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "the_icsi_meeting_recorder_dialog": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "extraposition_grammars": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "knowledgefree_induction_of_morph": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "minimum_error_rate_training_in_s": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "forest_rescoring_faster_decoding": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_corpusbased_approach_for_build": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "guided_learning_for_bidirectiona": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "representing_text_chunks": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "randomised_language_modelling_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "a_regression_model_of_adjectiven": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "multitext_grammars_and_synchrono": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "improved_automatic_keyword_extra": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "regular_models_of_phonological_r": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "integrating_multiple_knowledge_s": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "an_algorithm_for_generating_quan": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_discovery_of_morphe": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "finitestate_transducers_in_langu": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "the_reliability_of_a_dialogue_st": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "whats_in_a_translation_rule": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "reranking_and_selftraining_for_p": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "deterministic_dependency_parsing": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "fully_unsupervised_discovery_of_": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "statistical_machine_translation_": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "prototypedriven_learning_for_seq": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "a_study_on_similarity_and_relate": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "soft_syntactic_constraints_for_w": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "cogniac_high_precision_coreferen": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "transductive_learning_for_statis": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "chinese_syntactic_reordering_for": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "linguistic_regularities_in_conti": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "the_second_release_of_the_rasp_s": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_maximum_entropy_model_for_part": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_sentimental_education_sentimen": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "text_chunking_using_transformati": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "machine_translation_by_triangula": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "named_entity_recognition_with_ch": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "incorporating_nonlocal_informati": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "bayesian_learning_of_a_tree_subs": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "named_entity_recognition_using_a": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "corpus_variation_and_parser_perf": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "two_languages_are_better_than_on": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "edgebased_bestfirst_chart_parsin": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "pronunciation_modeling_for_impro": {
+        "LLM_win_ratio": 0.0,
+        "Human": 8,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "parsing_the_wall_street_journal_": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "categorial_unification_grammars": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "machine_learning_for_coreference": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "chunking_with_support_vector_mac": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "unsupervised_learning_of_disambi": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "bayesian_word_sense_induction": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "joint_unsupervised_coreference_r": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "nltk_the_natural_language_toolki": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "semeval2010_task_13_tempeval2": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "a_composite_kernel_to_extract_re": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "joshua_an_open_source_toolkit_fo": {
+        "LLM_win_ratio": 0.0,
+        "Human": 8,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "local_phrase_reordering_models_f": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "the_alignment_template_approach_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "cut_and_paste_based_text_summari": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "efficient_thirdorder_dependency_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "meaningful_clustering_of_senses_": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "a_classifierbased_parser_with_li": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "semiring_parsing": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "modeling_local_coherence_an_enti": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_monolingual_treebased_translat": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_new_dataset_and_method_for_aut": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "indirecthmmbased_hypothesis_alig": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "learning_subjective_nouns_using_": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "guiding_semisupervision_with_con": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "evaluating_the_accuracy_of_an_un": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      }
+    },
+    "total_tallies": {
+      "Human": 319,
+      "LLM": 345,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.5195783132530121
+  },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-literature_review_pick_one|gpt-4-1106-preview": {
+    "details_by_item": {
+      "ccgbank_a_corpus_of_ccg_derivati": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "forest_rescoring_faster_decoding": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "fully_unsupervised_discovery_of_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "efficient_thirdorder_dependency_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "pronunciation_modeling_for_impro": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "multitext_grammars_and_synchrono": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "knowledgefree_induction_of_morph": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "finitestate_transducers_in_langu": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_monolingual_treebased_translat": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "joint_unsupervised_coreference_r": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "bayesian_word_sense_induction": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_classifierbased_parser_with_li": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "semeval2010_task_13_tempeval2": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "randomised_language_modelling_fo": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "nltk_the_natural_language_toolki": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "widecoverage_efficient_statistic": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "deterministic_dependency_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "named_entity_recognition_using_a": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "transductive_learning_for_statis": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improved_automatic_keyword_extra": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "soft_syntactic_constraints_for_w": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_composite_kernel_to_extract_re": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_maximum_entropy_model_for_part": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_sentimental_education_sentimen": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "meaningful_clustering_of_senses_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "minimum_error_rate_training_in_s": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "text_chunking_using_transformati": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "generating_natural_language_summ": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "chunking_with_support_vector_mac": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "the_second_release_of_the_rasp_s": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "bayesian_learning_of_a_tree_subs": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "local_phrase_reordering_models_f": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "the_icsi_meeting_recorder_dialog": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "learning_subjective_nouns_using_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "a_study_on_similarity_and_relate": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "parsing_the_wall_street_journal_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "evaluating_the_accuracy_of_an_un": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "machine_translation_by_triangula": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "extraposition_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "joshua_an_open_source_toolkit_fo": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "semiring_parsing": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "statistical_machine_translation_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_alignment_template_approach_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "cut_and_paste_based_text_summari": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "prototypedriven_learning_for_seq": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "whats_in_a_translation_rule": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "guided_learning_for_bidirectiona": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "incorporating_nonlocal_informati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "integrating_graphbased_and_trans": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "representing_text_chunks": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "phrasal_cohesion_and_statistical": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "machine_learning_for_coreference": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_regression_model_of_adjectiven": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "learning_subjective_language": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_new_dataset_and_method_for_aut": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "the_reliability_of_a_dialogue_st": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "cogniac_high_precision_coreferen": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "linguistic_regularities_in_conti": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "guiding_semisupervision_with_con": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "personalizing_pagerank_for_word_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "edgebased_bestfirst_chart_parsin": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "modeling_local_coherence_an_enti": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "integrating_multiple_knowledge_s": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_corpusbased_approach_for_build": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "chinese_syntactic_reordering_for": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_learning_of_disambi": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "corpus_variation_and_parser_perf": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "vectorbased_models_of_semantic_c": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "categorial_unification_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "two_languages_are_better_than_on": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "named_entity_recognition_with_ch": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "regular_models_of_phonological_r": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_discovery_of_morphe": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "indirecthmmbased_hypothesis_alig": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "chart_generation": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "an_improved_error_model_for_nois": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "reranking_and_selftraining_for_p": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "an_algorithm_for_generating_quan": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      }
+    },
+    "total_tallies": {
+      "Human": 66,
+      "LLM": 86,
+      "Invalid": 14
+    },
+    "avg_llm_win_ratio": 0.5625
+  },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106-preview---COMPARISON-literature_review_pick_one|gpt-3.5-turbo-1106": {
+    "details_by_item": {
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 0.25,
+        "Human": 6,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 0.75,
+        "Human": 1,
+        "LLM": 3,
+        "Invalid": 4
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 0.125,
+        "Human": 7,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.5714285714285714,
+        "Human": 3,
+        "LLM": 4,
+        "Invalid": 1
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 5,
+        "Invalid": 3
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 5,
+        "Invalid": 3
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": 0.0,
+        "Human": 5,
+        "LLM": 0,
+        "Invalid": 3
+      },
+      "generating_natural_language_summ": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "ccgbank_a_corpus_of_ccg_derivati": {
+        "LLM_win_ratio": 0.0,
+        "Human": 4,
+        "LLM": 0,
+        "Invalid": 4
+      },
+      "vectorbased_models_of_semantic_c": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "learning_subjective_language": {
+        "LLM_win_ratio": 0.6666666666666666,
+        "Human": 2,
+        "LLM": 4,
+        "Invalid": 2
+      },
+      "an_improved_error_model_for_nois": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "phrasal_cohesion_and_statistical": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 5,
+        "Invalid": 3
+      },
+      "personalizing_pagerank_for_word_": {
+        "LLM_win_ratio": 0.8333333333333334,
+        "Human": 1,
+        "LLM": 5,
+        "Invalid": 2
+      },
+      "chart_generation": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "integrating_graphbased_and_trans": {
+        "LLM_win_ratio": 0.5714285714285714,
+        "Human": 3,
+        "LLM": 4,
+        "Invalid": 1
+      },
+      "the_icsi_meeting_recorder_dialog": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "widecoverage_efficient_statistic": {
+        "LLM_win_ratio": 0.4,
+        "Human": 3,
+        "LLM": 2,
+        "Invalid": 3
+      },
+      "extraposition_grammars": {
+        "LLM_win_ratio": 0.7142857142857143,
+        "Human": 2,
+        "LLM": 5,
+        "Invalid": 1
+      },
+      "minimum_error_rate_training_in_s": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "knowledgefree_induction_of_morph": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "forest_rescoring_faster_decoding": {
+        "LLM_win_ratio": 0.7142857142857143,
+        "Human": 2,
+        "LLM": 5,
+        "Invalid": 1
+      },
+      "guided_learning_for_bidirectiona": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 5,
+        "Invalid": 3
+      },
+      "a_corpusbased_approach_for_build": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "representing_text_chunks": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "a_regression_model_of_adjectiven": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      },
+      "randomised_language_modelling_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "multitext_grammars_and_synchrono": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 6,
+        "Invalid": 2
+      },
+      "integrating_multiple_knowledge_s": {
+        "LLM_win_ratio": 0.8,
+        "Human": 1,
+        "LLM": 4,
+        "Invalid": 3
+      },
+      "improved_automatic_keyword_extra": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "the_reliability_of_a_dialogue_st": {
+        "LLM_win_ratio": 0.625,
+        "Human": 3,
+        "LLM": 5,
+        "Invalid": 0
+      },
+      "unsupervised_discovery_of_morphe": {
+        "LLM_win_ratio": 0.6666666666666666,
+        "Human": 2,
+        "LLM": 4,
+        "Invalid": 2
+      },
+      "an_algorithm_for_generating_quan": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "regular_models_of_phonological_r": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 6,
+        "Invalid": 2
+      },
+      "whats_in_a_translation_rule": {
+        "LLM_win_ratio": 0.6666666666666666,
+        "Human": 2,
+        "LLM": 4,
+        "Invalid": 2
+      },
+      "finitestate_transducers_in_langu": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "reranking_and_selftraining_for_p": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 4,
+        "Invalid": 4
+      },
+      "fully_unsupervised_discovery_of_": {
+        "LLM_win_ratio": 0.5714285714285714,
+        "Human": 3,
+        "LLM": 4,
+        "Invalid": 1
+      },
+      "deterministic_dependency_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 6,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "prototypedriven_learning_for_seq": {
+        "LLM_win_ratio": 0.3333333333333333,
+        "Human": 4,
+        "LLM": 2,
+        "Invalid": 2
+      },
+      "a_study_on_similarity_and_relate": {
+        "LLM_win_ratio": 0.42857142857142855,
+        "Human": 4,
+        "LLM": 3,
+        "Invalid": 1
+      },
+      "statistical_machine_translation_": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "cogniac_high_precision_coreferen": {
+        "LLM_win_ratio": 0.5714285714285714,
+        "Human": 3,
+        "LLM": 4,
+        "Invalid": 1
+      },
+      "soft_syntactic_constraints_for_w": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "transductive_learning_for_statis": {
+        "LLM_win_ratio": 0.6666666666666666,
+        "Human": 2,
+        "LLM": 4,
+        "Invalid": 2
+      },
+      "linguistic_regularities_in_conti": {
+        "LLM_win_ratio": 0.2857142857142857,
+        "Human": 5,
+        "LLM": 2,
+        "Invalid": 1
+      },
+      "chinese_syntactic_reordering_for": {
+        "LLM_win_ratio": 0.42857142857142855,
+        "Human": 4,
+        "LLM": 3,
+        "Invalid": 1
+      },
+      "the_second_release_of_the_rasp_s": {
+        "LLM_win_ratio": 0.6,
+        "Human": 2,
+        "LLM": 3,
+        "Invalid": 3
+      },
+      "a_maximum_entropy_model_for_part": {
+        "LLM_win_ratio": 0.42857142857142855,
+        "Human": 4,
+        "LLM": 3,
+        "Invalid": 1
+      },
+      "a_sentimental_education_sentimen": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "text_chunking_using_transformati": {
+        "LLM_win_ratio": 0.6,
+        "Human": 2,
+        "LLM": 3,
+        "Invalid": 3
+      },
+      "machine_translation_by_triangula": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "named_entity_recognition_with_ch": {
+        "LLM_win_ratio": 0.7142857142857143,
+        "Human": 2,
+        "LLM": 5,
+        "Invalid": 1
+      },
+      "incorporating_nonlocal_informati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "bayesian_learning_of_a_tree_subs": {
+        "LLM_win_ratio": 0.2857142857142857,
+        "Human": 5,
+        "LLM": 2,
+        "Invalid": 1
+      },
+      "named_entity_recognition_using_a": {
+        "LLM_win_ratio": 0.7142857142857143,
+        "Human": 2,
+        "LLM": 5,
+        "Invalid": 1
+      },
+      "two_languages_are_better_than_on": {
+        "LLM_win_ratio": 0.7142857142857143,
+        "Human": 2,
+        "LLM": 5,
+        "Invalid": 1
+      },
+      "corpus_variation_and_parser_perf": {
+        "LLM_win_ratio": 0.6666666666666666,
+        "Human": 2,
+        "LLM": 4,
+        "Invalid": 2
+      },
+      "edgebased_bestfirst_chart_parsin": {
+        "LLM_win_ratio": 0.8333333333333334,
+        "Human": 1,
+        "LLM": 5,
+        "Invalid": 2
+      },
+      "pronunciation_modeling_for_impro": {
+        "LLM_win_ratio": 0.3333333333333333,
+        "Human": 4,
+        "LLM": 2,
+        "Invalid": 2
+      },
+      "parsing_the_wall_street_journal_": {
+        "LLM_win_ratio": 0.8333333333333334,
+        "Human": 1,
+        "LLM": 5,
+        "Invalid": 2
+      },
+      "categorial_unification_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "machine_learning_for_coreference": {
+        "LLM_win_ratio": 0.3333333333333333,
+        "Human": 4,
+        "LLM": 2,
+        "Invalid": 2
+      },
+      "chunking_with_support_vector_mac": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "unsupervised_learning_of_disambi": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 5,
+        "Invalid": 3
+      },
+      "joint_unsupervised_coreference_r": {
+        "LLM_win_ratio": 0.42857142857142855,
+        "Human": 4,
+        "LLM": 3,
+        "Invalid": 1
+      },
+      "bayesian_word_sense_induction": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 5
+      },
+      "nltk_the_natural_language_toolki": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 5,
+        "Invalid": 3
+      },
+      "a_composite_kernel_to_extract_re": {
+        "LLM_win_ratio": 0.375,
+        "Human": 5,
+        "LLM": 3,
+        "Invalid": 0
+      },
+      "semeval2010_task_13_tempeval2": {
+        "LLM_win_ratio": 0.8571428571428571,
+        "Human": 1,
+        "LLM": 6,
+        "Invalid": 1
+      },
+      "joshua_an_open_source_toolkit_fo": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "local_phrase_reordering_models_f": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "cut_and_paste_based_text_summari": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "efficient_thirdorder_dependency_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 3,
+        "LLM": 3,
+        "Invalid": 2
+      },
+      "the_alignment_template_approach_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "meaningful_clustering_of_senses_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 4,
+        "LLM": 4,
+        "Invalid": 0
+      },
+      "a_monolingual_treebased_translat": {
+        "LLM_win_ratio": 0.875,
+        "Human": 1,
+        "LLM": 7,
+        "Invalid": 0
+      },
+      "a_classifierbased_parser_with_li": {
+        "LLM_win_ratio": 0.3333333333333333,
+        "Human": 4,
+        "LLM": 2,
+        "Invalid": 2
+      },
+      "a_new_dataset_and_method_for_aut": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 8,
+        "Invalid": 0
+      },
+      "semiring_parsing": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 6,
+        "Invalid": 2
+      },
+      "modeling_local_coherence_an_enti": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 6,
+        "Invalid": 2
+      },
+      "learning_subjective_nouns_using_": {
+        "LLM_win_ratio": 0.3333333333333333,
+        "Human": 4,
+        "LLM": 2,
+        "Invalid": 2
+      },
+      "indirecthmmbased_hypothesis_alig": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 5,
+        "Invalid": 3
+      },
+      "guiding_semisupervision_with_con": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 7,
+        "Invalid": 1
+      },
+      "evaluating_the_accuracy_of_an_un": {
+        "LLM_win_ratio": 0.75,
+        "Human": 2,
+        "LLM": 6,
+        "Invalid": 0
+      }
+    },
+    "total_tallies": {
+      "Human": 191,
+      "LLM": 429,
+      "Invalid": 124
+    },
+    "avg_llm_win_ratio": 0.6961213517665132
+  },
   "product---DESCRIPTION-from_json_details|gpt-3.5-turbo---COMPARISON-marketplace_recommendation_force_decision|together-mistralai/Mixtral-8x22B-Instruct-v0.1": {
     "details_by_item": {
       "clementine_apparel__girls_and_wo": {
@@ -8844,6 +10648,574 @@
       "Invalid": 0
     },
     "avg_llm_win_ratio": 0.963302752293578
+  },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-literature_review_pick_one|together-mistralai/Mixtral-8x22B-Instruct-v0.1": {
+    "details_by_item": {
+      "ccgbank_a_corpus_of_ccg_derivati": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "forest_rescoring_faster_decoding": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "fully_unsupervised_discovery_of_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "efficient_thirdorder_dependency_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "pronunciation_modeling_for_impro": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "multitext_grammars_and_synchrono": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "knowledgefree_induction_of_morph": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "finitestate_transducers_in_langu": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_monolingual_treebased_translat": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "joint_unsupervised_coreference_r": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "bayesian_word_sense_induction": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_classifierbased_parser_with_li": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "semeval2010_task_13_tempeval2": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "randomised_language_modelling_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "nltk_the_natural_language_toolki": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "widecoverage_efficient_statistic": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "deterministic_dependency_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "named_entity_recognition_using_a": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "transductive_learning_for_statis": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improved_automatic_keyword_extra": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "soft_syntactic_constraints_for_w": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_composite_kernel_to_extract_re": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_maximum_entropy_model_for_part": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_sentimental_education_sentimen": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "meaningful_clustering_of_senses_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "minimum_error_rate_training_in_s": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "text_chunking_using_transformati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "generating_natural_language_summ": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "chunking_with_support_vector_mac": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_second_release_of_the_rasp_s": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "bayesian_learning_of_a_tree_subs": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "local_phrase_reordering_models_f": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_icsi_meeting_recorder_dialog": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "learning_subjective_nouns_using_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_study_on_similarity_and_relate": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "parsing_the_wall_street_journal_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "evaluating_the_accuracy_of_an_un": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "machine_translation_by_triangula": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "extraposition_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "joshua_an_open_source_toolkit_fo": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "semiring_parsing": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "statistical_machine_translation_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_alignment_template_approach_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "cut_and_paste_based_text_summari": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "prototypedriven_learning_for_seq": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "whats_in_a_translation_rule": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "guided_learning_for_bidirectiona": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "incorporating_nonlocal_informati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "integrating_graphbased_and_trans": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "representing_text_chunks": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "phrasal_cohesion_and_statistical": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "machine_learning_for_coreference": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "a_regression_model_of_adjectiven": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "learning_subjective_language": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_new_dataset_and_method_for_aut": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_reliability_of_a_dialogue_st": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "cogniac_high_precision_coreferen": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "linguistic_regularities_in_conti": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "guiding_semisupervision_with_con": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "personalizing_pagerank_for_word_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "edgebased_bestfirst_chart_parsin": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "modeling_local_coherence_an_enti": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "integrating_multiple_knowledge_s": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_corpusbased_approach_for_build": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "chinese_syntactic_reordering_for": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "unsupervised_learning_of_disambi": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "corpus_variation_and_parser_perf": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "vectorbased_models_of_semantic_c": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "categorial_unification_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "two_languages_are_better_than_on": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "named_entity_recognition_with_ch": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "regular_models_of_phonological_r": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_discovery_of_morphe": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "indirecthmmbased_hypothesis_alig": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "chart_generation": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "an_improved_error_model_for_nois": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "reranking_and_selftraining_for_p": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "an_algorithm_for_generating_quan": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      }
+    },
+    "total_tallies": {
+      "Human": 48,
+      "LLM": 115,
+      "Invalid": 3
+    },
+    "avg_llm_win_ratio": 0.6987951807228916
   },
   "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106-preview---COMPARISON-literature_review_pick_one|together-mistralai/Mixtral-8x22B-Instruct-v0.1": {
     "details_by_item": {
@@ -18709,6 +21081,574 @@
     },
     "avg_llm_win_ratio": 0.8486238532110092
   },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-literature_review_pick_one|together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo": {
+    "details_by_item": {
+      "ccgbank_a_corpus_of_ccg_derivati": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "forest_rescoring_faster_decoding": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "fully_unsupervised_discovery_of_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "efficient_thirdorder_dependency_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "pronunciation_modeling_for_impro": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "multitext_grammars_and_synchrono": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "knowledgefree_induction_of_morph": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "finitestate_transducers_in_langu": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_monolingual_treebased_translat": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "joint_unsupervised_coreference_r": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "bayesian_word_sense_induction": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_classifierbased_parser_with_li": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "semeval2010_task_13_tempeval2": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "randomised_language_modelling_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "nltk_the_natural_language_toolki": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "widecoverage_efficient_statistic": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "deterministic_dependency_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "named_entity_recognition_using_a": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "transductive_learning_for_statis": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "improved_automatic_keyword_extra": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "soft_syntactic_constraints_for_w": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_composite_kernel_to_extract_re": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_maximum_entropy_model_for_part": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_sentimental_education_sentimen": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "meaningful_clustering_of_senses_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "minimum_error_rate_training_in_s": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "text_chunking_using_transformati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "generating_natural_language_summ": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "chunking_with_support_vector_mac": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_second_release_of_the_rasp_s": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "bayesian_learning_of_a_tree_subs": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "local_phrase_reordering_models_f": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "the_icsi_meeting_recorder_dialog": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "learning_subjective_nouns_using_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_study_on_similarity_and_relate": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "parsing_the_wall_street_journal_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "evaluating_the_accuracy_of_an_un": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "machine_translation_by_triangula": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "extraposition_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "joshua_an_open_source_toolkit_fo": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "semiring_parsing": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "statistical_machine_translation_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_alignment_template_approach_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "cut_and_paste_based_text_summari": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "prototypedriven_learning_for_seq": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "whats_in_a_translation_rule": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "guided_learning_for_bidirectiona": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "incorporating_nonlocal_informati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "integrating_graphbased_and_trans": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "representing_text_chunks": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "phrasal_cohesion_and_statistical": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "machine_learning_for_coreference": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_regression_model_of_adjectiven": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "learning_subjective_language": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_new_dataset_and_method_for_aut": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "the_reliability_of_a_dialogue_st": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "cogniac_high_precision_coreferen": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "linguistic_regularities_in_conti": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "guiding_semisupervision_with_con": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "personalizing_pagerank_for_word_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "edgebased_bestfirst_chart_parsin": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "modeling_local_coherence_an_enti": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "integrating_multiple_knowledge_s": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_corpusbased_approach_for_build": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "chinese_syntactic_reordering_for": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "unsupervised_learning_of_disambi": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "corpus_variation_and_parser_perf": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "vectorbased_models_of_semantic_c": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "categorial_unification_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "two_languages_are_better_than_on": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "named_entity_recognition_with_ch": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "regular_models_of_phonological_r": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_discovery_of_morphe": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "indirecthmmbased_hypothesis_alig": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "chart_generation": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "an_improved_error_model_for_nois": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "reranking_and_selftraining_for_p": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "an_algorithm_for_generating_quan": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      }
+    },
+    "total_tallies": {
+      "Human": 62,
+      "LLM": 104,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.6265060240963856
+  },
   "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106-preview---COMPARISON-literature_review_pick_one|together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo": {
     "details_by_item": {
       "ccgbank_a_corpus_of_ccg_derivati": {
@@ -20413,6 +23353,574 @@
     },
     "avg_llm_win_ratio": 0.6032608695652174
   },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-literature_review_pick_one|together-Qwen/Qwen2.5-72B-Instruct-Turbo": {
+    "details_by_item": {
+      "ccgbank_a_corpus_of_ccg_derivati": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "forest_rescoring_faster_decoding": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "fully_unsupervised_discovery_of_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "efficient_thirdorder_dependency_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "pronunciation_modeling_for_impro": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "multitext_grammars_and_synchrono": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "knowledgefree_induction_of_morph": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "finitestate_transducers_in_langu": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_monolingual_treebased_translat": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "joint_unsupervised_coreference_r": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "bayesian_word_sense_induction": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_classifierbased_parser_with_li": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "semeval2010_task_13_tempeval2": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "randomised_language_modelling_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "nltk_the_natural_language_toolki": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "widecoverage_efficient_statistic": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "deterministic_dependency_parsing": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "named_entity_recognition_using_a": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "transductive_learning_for_statis": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "improved_automatic_keyword_extra": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "soft_syntactic_constraints_for_w": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_composite_kernel_to_extract_re": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_maximum_entropy_model_for_part": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_sentimental_education_sentimen": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "meaningful_clustering_of_senses_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "minimum_error_rate_training_in_s": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "text_chunking_using_transformati": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "generating_natural_language_summ": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "chunking_with_support_vector_mac": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "the_second_release_of_the_rasp_s": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "bayesian_learning_of_a_tree_subs": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "local_phrase_reordering_models_f": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "the_icsi_meeting_recorder_dialog": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "learning_subjective_nouns_using_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_study_on_similarity_and_relate": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "parsing_the_wall_street_journal_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "evaluating_the_accuracy_of_an_un": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "machine_translation_by_triangula": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "extraposition_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "joshua_an_open_source_toolkit_fo": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "semiring_parsing": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "statistical_machine_translation_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_alignment_template_approach_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "cut_and_paste_based_text_summari": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "prototypedriven_learning_for_seq": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "whats_in_a_translation_rule": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "guided_learning_for_bidirectiona": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "incorporating_nonlocal_informati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "integrating_graphbased_and_trans": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "representing_text_chunks": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "phrasal_cohesion_and_statistical": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "machine_learning_for_coreference": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_regression_model_of_adjectiven": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "learning_subjective_language": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_new_dataset_and_method_for_aut": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "the_reliability_of_a_dialogue_st": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "cogniac_high_precision_coreferen": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "linguistic_regularities_in_conti": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "guiding_semisupervision_with_con": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "personalizing_pagerank_for_word_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "edgebased_bestfirst_chart_parsin": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "modeling_local_coherence_an_enti": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "integrating_multiple_knowledge_s": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_corpusbased_approach_for_build": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "chinese_syntactic_reordering_for": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_learning_of_disambi": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "corpus_variation_and_parser_perf": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "vectorbased_models_of_semantic_c": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "categorial_unification_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "two_languages_are_better_than_on": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "named_entity_recognition_with_ch": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "regular_models_of_phonological_r": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_discovery_of_morphe": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "indirecthmmbased_hypothesis_alig": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "chart_generation": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "an_improved_error_model_for_nois": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "reranking_and_selftraining_for_p": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "an_algorithm_for_generating_quan": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      }
+    },
+    "total_tallies": {
+      "Human": 85,
+      "LLM": 81,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.4879518072289157
+  },
   "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106-preview---COMPARISON-literature_review_pick_one|together-Qwen/Qwen2.5-72B-Instruct-Turbo": {
     "details_by_item": {
       "ccgbank_a_corpus_of_ccg_derivati": {
@@ -21548,6 +25056,574 @@
       "Invalid": 1
     },
     "avg_llm_win_ratio": 0.5913978494623656
+  },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-literature_review_pick_one|gpt-3.5-turbo": {
+    "details_by_item": {
+      "ccgbank_a_corpus_of_ccg_derivati": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "forest_rescoring_faster_decoding": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "fully_unsupervised_discovery_of_": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "a_comparison_of_vectorbased_repr": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "better_hypothesis_testing_for_st": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "information_fusion_in_the_contex": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "efficient_thirdorder_dependency_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "pronunciation_modeling_for_impro": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "multitext_grammars_and_synchrono": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "knowledgefree_induction_of_morph": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "finitestate_transducers_in_langu": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_monolingual_treebased_translat": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "joint_unsupervised_coreference_r": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "bayesian_word_sense_induction": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_classifierbased_parser_with_li": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "semeval2010_task_13_tempeval2": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "randomised_language_modelling_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "statistical_decisiontree_models_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "nltk_the_natural_language_toolki": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "widecoverage_efficient_statistic": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "better_kbest_parsing": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "deterministic_dependency_parsing": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "named_entity_recognition_using_a": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "transductive_learning_for_statis": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improved_automatic_keyword_extra": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "soft_syntactic_constraints_for_w": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "a_composite_kernel_to_extract_re": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "a_maximum_entropy_model_for_part": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "a_sentimental_education_sentimen": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "meaningful_clustering_of_senses_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "minimum_error_rate_training_in_s": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "text_chunking_using_transformati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "generating_natural_language_summ": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "chunking_with_support_vector_mac": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "the_second_release_of_the_rasp_s": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "bayesian_learning_of_a_tree_subs": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "local_phrase_reordering_models_f": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "stochastic_lexicalized_treeadjoi": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "the_icsi_meeting_recorder_dialog": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "extracting_parallel_subsententia": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_multilingual_learni": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "learning_subjective_nouns_using_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "a_study_on_similarity_and_relate": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "parsing_the_wall_street_journal_": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "evaluating_the_accuracy_of_an_un": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "machine_translation_by_triangula": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "extraposition_grammars": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "joshua_an_open_source_toolkit_fo": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "semiring_parsing": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "statistical_machine_translation_": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "the_alignment_template_approach_": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "cut_and_paste_based_text_summari": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "prototypedriven_learning_for_seq": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "whats_in_a_translation_rule": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "improving_machine_translation_pe": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "the_grammar_matrix_an_opensource": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "guided_learning_for_bidirectiona": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "incorporating_nonlocal_informati": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "integrating_graphbased_and_trans": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "representing_text_chunks": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "phrasal_cohesion_and_statistical": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "machine_learning_for_coreference": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "a_regression_model_of_adjectiven": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "learning_subjective_language": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_new_dataset_and_method_for_aut": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "the_reliability_of_a_dialogue_st": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "finding_parts_in_very_large_corp": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "a_uniform_approach_to_analogies_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "cogniac_high_precision_coreferen": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "linguistic_regularities_in_conti": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "guiding_semisupervision_with_con": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "improved_partofspeech_tagging_fo": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "personalizing_pagerank_for_word_": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "edgebased_bestfirst_chart_parsin": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "modeling_local_coherence_an_enti": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "integrating_multiple_knowledge_s": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "a_corpusbased_approach_for_build": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "chinese_syntactic_reordering_for": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "unsupervised_learning_of_disambi": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "corpus_variation_and_parser_perf": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "vectorbased_models_of_semantic_c": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "categorial_unification_grammars": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "two_languages_are_better_than_on": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "sentence_level_discourse_parsing": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "named_entity_recognition_with_ch": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "regular_models_of_phonological_r": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      },
+      "unsupervised_discovery_of_morphe": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1
+      },
+      "indirecthmmbased_hypothesis_alig": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1
+      },
+      "chart_generation": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0
+      },
+      "tailoring_word_alignments_to_syn": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "an_improved_error_model_for_nois": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2
+      },
+      "reranking_and_selftraining_for_p": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0
+      },
+      "an_algorithm_for_generating_quan": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 0
+      }
+    },
+    "total_tallies": {
+      "Human": 71,
+      "LLM": 63,
+      "Invalid": 32
+    },
+    "avg_llm_win_ratio": 0.4810126582278481
   },
   "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106-preview---COMPARISON-literature_review_pick_one|gpt-3.5-turbo": {
     "details_by_item": {

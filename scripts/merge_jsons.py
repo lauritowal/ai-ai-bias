@@ -27,7 +27,6 @@ experiment_filters = [
     "from_json_old_person",
     "short_and_pointed",
     "from_json_avg_human",
-    "gpt-3.5-turbo-1106",
     "old_person_confused_2"
 ]
 
@@ -48,6 +47,10 @@ def is_unwanted_key(key):
     # Check for unwanted experiment types
     if any(experiment in key for experiment in experiment_filters):
         return True
+
+    if "gpt-3.5-turbo-1106" in key and "product" in key:
+        return True
+
     # Special case: exclude 'write_xml_paper_abstract' but keep 'write_xml_paper_abstract_control_word_count'
     if "write_xml_paper_abstract" in key and "control_word_count" not in key:
         return True
