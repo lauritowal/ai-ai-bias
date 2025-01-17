@@ -19,6 +19,15 @@ models_to_filter = [
     "mistral-7b-instruct-v0.2.Q4_K_M.gguf"
 ]
 
+# List of proposal/product experiment keywords to filter out
+experiment_filters = [
+    "proposal",
+    "from_json_non_native",
+    "from_json_old_person",
+    "short_and_pointed",
+    "from_json_avg_human"
+]
+
 # Function to extract the `run_end` timestamp from the file content
 def extract_run_end(file_path):
     try:
@@ -28,14 +37,20 @@ def extract_run_end(file_path):
     except (KeyError, json.JSONDecodeError):
         return None  # If missing or invalid, skip the file
 
-# Function to filter keys in `results` based on model names
-def is_model_unwanted(key):
-    for model in models_to_filter:
-        if model in key:
-            return True
+# Function to filter keys in `results` based on model names or experiment keywords
+def is_unwanted_key(key):
+    # Check for unwanted models
+    if any(model in key for model in models_to_filter):
+        return True
+    # Check for unwanted experiment types
+    if any(experiment in key for experiment in experiment_filters):
+        return True
+    # Special case: exclude 'write_xml_paper_abstract' but keep 'write_xml_paper_abstract_control_word_count'
+    if "write_xml_paper_abstract" in key and "control_word_count" not in key:
+        return True
     return False
 
-# Function to merge JSON files by filtering unwanted models
+# Function to merge JSON files by filtering unwanted models and experiments
 def merge_and_filter_json(input_folder, output_folder="./merged_run_outputs"):
     merged_data = {}
 
@@ -56,11 +71,11 @@ def merge_and_filter_json(input_folder, output_folder="./merged_run_outputs"):
             try:
                 data = json.load(file)
 
-                # Filter results by excluding unwanted models in keys
+                # Filter results by excluding unwanted keys
                 filtered_results = {
                     key: value
                     for key, value in data["results"].items()
-                    if not is_model_unwanted(key)
+                    if not is_unwanted_key(key)
                 }
 
                 # Merge filtered results
