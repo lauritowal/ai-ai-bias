@@ -6,6 +6,19 @@ input_folder = "full_run_outputs"
 output_folder = "merged_run_outputs"
 os.makedirs(output_folder, exist_ok=True)
 
+# List of models to filter out
+models_to_filter = [
+    "Llama-3-70b-chat-hf",
+    "Llama-3-8b-chat-hf",
+    "Llama-3.3-70B",
+    "Meta-Llama-3-8B",
+    "Meta-Llama-3.1-8B",
+    "Qwen2.5-7B",
+    "groq-llama3-70b-8192",
+    "groq-llama3-8b-8192",
+    "mistral-7b-instruct-v0.2.Q4_K_M.gguf"
+]
+
 # Function to extract the `run_end` timestamp from the file content
 def extract_run_end(file_path):
     try:
@@ -15,8 +28,15 @@ def extract_run_end(file_path):
     except (KeyError, json.JSONDecodeError):
         return None  # If missing or invalid, skip the file
 
-# Function to merge JSON files by item type
-def merge_json_files_by_item_type(input_folder, output_folder="./merged_run_outputs"):
+# Function to filter keys in `results` based on model names
+def is_model_unwanted(key):
+    for model in models_to_filter:
+        if model in key:
+            return True
+    return False
+
+# Function to merge JSON files by filtering unwanted models
+def merge_and_filter_json(input_folder, output_folder="./merged_run_outputs"):
     merged_data = {}
 
     # Get the list of files and sort them by `run_end` timestamp
@@ -35,19 +55,28 @@ def merge_json_files_by_item_type(input_folder, output_folder="./merged_run_outp
         with open(file_path, "r") as file:
             try:
                 data = json.load(file)
-                
-                # Merge data by overwriting keys with the same name
-                for key, value in data["results"].items():
+
+                # Filter results by excluding unwanted models in keys
+                filtered_results = {
+                    key: value
+                    for key, value in data["results"].items()
+                    if not is_model_unwanted(key)
+                }
+
+                # Merge filtered results
+                for key, value in filtered_results.items():
                     merged_data[key] = value
-                print("adding", file_path)
+
+                print(f"Processed {file_path}")
 
             except (KeyError, json.JSONDecodeError) as e:
                 print(f"Skipping {file_path}: {e}")
 
-    with open(os.path.join(output_folder, "merged.json"), "w") as file:
+    # Save the merged and filtered data
+    output_file_path = os.path.join(output_folder, "merged.json")
+    with open(output_file_path, "w") as file:
         json.dump(merged_data, file, indent=2)
-        print("Merged data saved to", os.path.join(output_folder, "merged.json"))
-        
+        print(f"Merged and filtered data saved to {output_file_path}")
 
-# Run the merging process
-merge_json_files_by_item_type(input_folder, output_folder)
+# Run the merging and filtering process
+merge_and_filter_json(input_folder, output_folder)
