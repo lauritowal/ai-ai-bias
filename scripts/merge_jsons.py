@@ -26,7 +26,8 @@ experiment_filters = [
     "from_json_non_native",
     "from_json_old_person",
     "short_and_pointed",
-    "from_json_avg_human"
+    "from_json_avg_human",
+    "gpt-3.5-turbo-1106"
 ]
 
 # Function to extract the `run_end` timestamp from the file content
