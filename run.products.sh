@@ -12,23 +12,29 @@ COMPARISON_MODELS="\
   together-Qwen/Qwen2.5-7B-Instruct-Turbo\
 "
 
+DESCRIPTION_ENGINES="
+  gpt-4-1106-preview \
+"
+
 echo "COMPARISON_MODELS: $COMPARISON_MODELS"
 
-for REPEAT in `seq 1`; do # Repetition to handle errors and crashes, everything is cached so it's fast
-    for M in $COMPARISON_MODELS; do
-       echo "###################### Comparison Model: $M"
-       sleep 65
-        poetry run python scripts/generate_and_compare_descriptions.py \
-            --item-type=product \
-            --comparison-prompt-key=marketplace_recommendation_force_decision \
-            --comparison-engine="$M" \
-            --description-prompt-key=from_json_details \
-            --description-prompt-key=from_json_product_listing \
-            --description-engine='together-mistralai/Mixtral-8x22B-Instruct-v0.1' \
-            --description-engine='together-Qwen/Qwen2.5-7B-Instruct-Turbo' \
-            --description-engine='together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo' \
-            --max-comparison-concurrent-workers="$WORKERS" \
-            --redo-invalid-results \
-            --min-description-generation-count=1
-    done
+for M in $COMPARISON_MODELS; do
+  echo "###################### Comparison Model: $M"
+  poetry run python scripts/generate_and_compare_descriptions.py \
+        --item-type=product \
+        --comparison-prompt-key=marketplace_recommendation_force_decision \
+        --comparison-engine="$M" \
+        --description-prompt-key=from_json_details \
+        --description-prompt-key=from_json_product_listing \
+        --description-engine='together-mistralai/Mixtral-8x22B-Instruct-v0.1' \
+        --description-engine='together-Qwen/Qwen2.5-7B-Instruct-Turbo' \
+        --description-engine='together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo' \
+        --max-comparison-concurrent-workers="$WORKERS" \
+        --redo-invalid-results \
+        --min-description-generation-count=1
+  # wait for 60 sec to make sure all concurrent workers are done
+  sleep 60
+  # move to context_cache_DATE
+  mv "context_cache" "context_cache_$(date +%Y-%m-%d_%H-%M-%S)"
+  echo "###################### Done Comparison Model: $M"
 done
