@@ -191,16 +191,19 @@ def generate_and_compare_descriptions(
                     "LLM_win_ratio": compute_llm_win_ratio(tally),
                     "Human": tally.get(str(Origin.Human), 0),
                     "LLM": tally.get(str(Origin.LLM), 0), 
-                    "Invalid": tally.get("Invalid", 0)
+                    "Invalid": tally.get("Invalid", 0),
+                    "is_first": tally.get("is_first", 0),
                 }
                 for (title, tally) in tallies_by_item_title.items()
             }
             total_tallies = total_tally
             avg_llm_win_ratio = compute_avg_llm_win_ratio(list(tallies_by_item_title.values()))
+
             results_data[label] = {
                 "details_by_item": details_by_item,
                 "total_tallies": total_tallies,
                 "avg_llm_win_ratio": avg_llm_win_ratio,
+                "first_item_bias": total_tallies.get("is_first", 0) / (total_tallies.get("Human", 1) + total_tallies.get("LLM", 1)),
             }
             charts[label] = capture_figure(make_chart(label, tallies_by_item_title))
             if not item_names:

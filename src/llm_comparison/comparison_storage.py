@@ -151,7 +151,7 @@ def db_set_comparison(
     winner: Description | None,
 ):
     assert (
-        winner is None or winner == description_1 or winner == description_2
+        winner is None or winner.uid == description_1.uid or winner.uid == description_2.uid
     ), f"Cached result must be None or one of the two descriptions being compared, got {winner} vs {description_1} vs {description_2}."
     
     winner_index = 0 if winner is None else (1 if winner == description_1 else 2)

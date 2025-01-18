@@ -45,8 +45,9 @@ class Description:
     origin: Origin
     engine: t.Optional[Engine] = None
     prompt_key: t.Optional[str] = None
+    is_first: t.Optional[bool] = None
 
-DescriptionBattleTally = dict[t.Union[Origin, t.Literal["Invalid"]], int]
+DescriptionBattleTally = dict[t.Union[Origin, t.Literal["Invalid"], t.Literal["is_first"]], int]
 
 def search_storage_contexts(
     tags_match: list[str],
@@ -159,6 +160,7 @@ def compare_descriptions(
             logging.debug(f"Invalid result found in cache, re-running due to REDO_INVALID_RESULTS.")
             skip_context_search = True
         else:
+            description_1.is_first = True if stored_winner == 1 else False
             return description_1 if stored_winner == 1 else description_2
 
     # NOTE: returns None if LLM gives invalid response or declares a tie
@@ -171,7 +173,7 @@ def compare_descriptions(
         )
         if cached_result is not None:
             logging.info(f"Found cached result in older Context: {_make_description_comparison_tags(llm_engine, description_1.uid, description_2.uid, comparison_prompt_config.prompt_key)}")
-            assert cached_result == description_1 or cached_result == description_2, "Cached result must be None or one of the two descriptions being compared."
+            assert cached_result.uid == description_1.uid or cached_result.uid == description_2.uid, "Cached result must be None or one of the two descriptions being compared."
             comparison_storage.db_set_comparison(
                 comparison_storage_db,
                 llm_engine,
@@ -306,6 +308,8 @@ def compare_descriptions(
             descriptions_by_int_id.get(chosen_id, None)
             if chosen_id is not None else None
         )
+        if chosen_description is not None:
+            chosen_description.is_first = True if chosen_description.uid == description_1.uid else False
 
         ctx.set_result(chosen_description)
 
@@ -352,6 +356,7 @@ def compare_description_lists_for_one_item(
             str(Origin.Human): 0,
             str(Origin.LLM): 0,
             "Invalid": 0,
+            "is_first": 0,
         }
         ordered_combos = (
             [(d1, d2) for d1 in description_list_1 for d2 in description_list_2]
@@ -374,6 +379,8 @@ def compare_description_lists_for_one_item(
                 battle_tally["Invalid"] += 1
             else:
                 battle_tally[str(winner.origin)] += 1
+                if winner.is_first:
+                    battle_tally["is_first"] += 1
             comparison_counter += 1
         
         ctx.set_result((winning_descriptions, battle_tally))
@@ -470,7 +477,7 @@ def compare_saved_description_batches(
         ],
         directory=True,
     ) as ctx:
-
+        
         human_description_batches = load_all_human_description_batches(
             item_type=item_type,
             item_title_like=item_title_like,
@@ -482,6 +489,7 @@ def compare_saved_description_batches(
             str(Origin.Human): 0,
             str(Origin.LLM): 0,
             "Invalid": 0,
+            "is_first": 0,
         }
 
         def run_comparisons_for_human_description_batch(
@@ -563,7 +571,7 @@ def compare_saved_description_batches(
                     
                     tallies_by_item_title[filesafe_title] = battle_tally
                     
-                    for key in [str(Origin.Human), str(Origin.LLM), "Invalid"]:
+                    for key in [str(Origin.Human), str(Origin.LLM), "Invalid", "is_first"]:
                         default = 0
                         total_tally[key] += battle_tally.get(key, default)
                         # total_tally[str(Origin.Human)] += battle_tally[str(Origin.Human)]
