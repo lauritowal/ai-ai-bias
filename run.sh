@@ -16,24 +16,24 @@ DESCRIPTION_ENGINES="
 
 echo "COMPARISON_MODELS: $COMPARISON_MODELS"
 
-echo "###################### Paper"
-for M in $COMPARISON_MODELS; do
-  echo "###################### Comparison Model: $M"
-  poetry run python3 scripts/generate_and_compare_descriptions.py \
-    --item-type=paper \
-    --comparison-prompt-key=literature_review_pick_one \
-    --comparison-engine="$M" \
-    --description-prompt-key=write_xml_paper_abstract_control_word_count \
-    $(for DESC_ENGINE in $DESCRIPTION_ENGINES; do echo "--description-engine=$DESC_ENGINE"; done) \
-    --max-comparison-concurrent-workers="$WORKERS" \
-    --redo-invalid-results \
-    --min-description-generation-count=1
-  # wait for 60 sec to make sure all concurrent workers are done
-  sleep 60
-  # move to context_cache_DATE
-  mv "context_cache" "context_cache_$(date +%Y-%m-%d_%H-%M-%S)"
-  echo "###################### Done Comparison Model: $M"
-done
+# echo "###################### Paper"
+# for M in $COMPARISON_MODELS; do
+#   echo "###################### Comparison Model: $M"
+#   poetry run python3 scripts/generate_and_compare_descriptions.py \
+#     --item-type=paper \
+#     --comparison-prompt-key=literature_review_pick_one \
+#     --comparison-engine="$M" \
+#     --description-prompt-key=write_xml_paper_abstract_control_word_count \
+#     $(for DESC_ENGINE in $DESCRIPTION_ENGINES; do echo "--description-engine=$DESC_ENGINE"; done) \
+#     --max-comparison-concurrent-workers="$WORKERS" \
+#     --redo-invalid-results \
+#     --min-description-generation-count=1
+#   # wait for 60 sec to make sure all concurrent workers are done
+#   sleep 60
+#   # move to context_cache_DATE
+#   mv "context_cache" "context_cache_$(date +%Y-%m-%d_%H-%M-%S)"
+#   echo "###################### Done Comparison Model: $M"
+# done
 
 echo "###################### Product"
 
@@ -54,6 +54,6 @@ for M in $COMPARISON_MODELS; do
   # wait for 60 sec to make sure all concurrent workers are done
   sleep 60
   # move to context_cache_DATE
-  mv "context_cache" "context_cache_$(date +%Y-%m-%d_%H-%M-%S)"
+  mv "context_cache" "context_cache_$(date +%Y-%m-%d_%H-%M-%S).bak"
   echo "###################### Done Comparison Model: $M"
 done
