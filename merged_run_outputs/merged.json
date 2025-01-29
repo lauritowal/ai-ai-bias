@@ -2655,106 +2655,6 @@
     },
     "avg_llm_win_ratio": 0.8715596330275229
   },
-  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-submit_tomorrow_with_full_paper_details_matter|gpt-3.5-turbo-1106": {
-    "details_by_item": {
-      "better_hypothesis_testing_for_st": {
-        "LLM_win_ratio": 0.5,
-        "Human": 3,
-        "LLM": 3,
-        "Invalid": 2
-      },
-      "a_comparison_of_vectorbased_repr": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 6,
-        "Invalid": 2
-      },
-      "information_fusion_in_the_contex": {
-        "LLM_win_ratio": 0.3333333333333333,
-        "Human": 4,
-        "LLM": 2,
-        "Invalid": 2
-      },
-      "statistical_decisiontree_models_": {
-        "LLM_win_ratio": 0.8333333333333334,
-        "Human": 1,
-        "LLM": 5,
-        "Invalid": 2
-      },
-      "better_kbest_parsing": {
-        "LLM_win_ratio": 0.6666666666666666,
-        "Human": 2,
-        "LLM": 4,
-        "Invalid": 2
-      },
-      "stochastic_lexicalized_treeadjoi": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "extracting_parallel_subsententia": {
-        "LLM_win_ratio": 0.4,
-        "Human": 3,
-        "LLM": 2,
-        "Invalid": 3
-      },
-      "unsupervised_multilingual_learni": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 7,
-        "Invalid": 1
-      },
-      "improving_machine_translation_pe": {
-        "LLM_win_ratio": 0.14285714285714285,
-        "Human": 6,
-        "LLM": 1,
-        "Invalid": 1
-      },
-      "the_grammar_matrix_an_opensource": {
-        "LLM_win_ratio": 0.42857142857142855,
-        "Human": 4,
-        "LLM": 3,
-        "Invalid": 1
-      },
-      "finding_parts_in_very_large_corp": {
-        "LLM_win_ratio": 0.7142857142857143,
-        "Human": 2,
-        "LLM": 5,
-        "Invalid": 1
-      },
-      "a_uniform_approach_to_analogies_": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 4,
-        "Invalid": 4
-      },
-      "improved_partofspeech_tagging_fo": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "sentence_level_discourse_parsing": {
-        "LLM_win_ratio": 0.25,
-        "Human": 3,
-        "LLM": 1,
-        "Invalid": 4
-      },
-      "tailoring_word_alignments_to_syn": {
-        "LLM_win_ratio": 0.16666666666666666,
-        "Human": 5,
-        "LLM": 1,
-        "Invalid": 2
-      }
-    },
-    "total_tallies": {
-      "Human": 35,
-      "LLM": 58,
-      "Invalid": 27
-    },
-    "avg_llm_win_ratio": 0.6123809523809524
-  },
   "product---DESCRIPTION-from_json_details|gpt-4-1106-preview---COMPARISON-marketplace_recommendation_force_decision|gpt-3.5-turbo": {
     "details_by_item": {
       "clementine_apparel__girls_and_wo": {
@@ -4082,316 +3982,6 @@
       "Invalid": 42
     },
     "avg_llm_win_ratio": 0.8737864077669902
-  },
-  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106-preview---COMPARISON-submit_tomorrow_with_full_paper_details_matter|gpt-4-1106-preview": {
-    "details_by_item": {
-      "ccgbank_a_corpus_of_ccg_derivati": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "fully_unsupervised_discovery_of_": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "forest_rescoring_faster_decoding": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "better_hypothesis_testing_for_st": {
-        "LLM_win_ratio": 0.375,
-        "Human": 5,
-        "LLM": 3,
-        "Invalid": 0
-      },
-      "information_fusion_in_the_contex": {
-        "LLM_win_ratio": 0.625,
-        "Human": 3,
-        "LLM": 5,
-        "Invalid": 0
-      },
-      "a_comparison_of_vectorbased_repr": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "pronunciation_modeling_for_impro": {
-        "LLM_win_ratio": 0.375,
-        "Human": 5,
-        "LLM": 3,
-        "Invalid": 0
-      },
-      "efficient_thirdorder_dependency_": {
-        "LLM_win_ratio": 0.5,
-        "Human": 4,
-        "LLM": 4,
-        "Invalid": 0
-      },
-      "multitext_grammars_and_synchrono": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "finitestate_transducers_in_langu": {
-        "LLM_win_ratio": 0.875,
-        "Human": 1,
-        "LLM": 7,
-        "Invalid": 0
-      },
-      "a_monolingual_treebased_translat": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "knowledgefree_induction_of_morph": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "a_classifierbased_parser_with_li": {
-        "LLM_win_ratio": 0.5,
-        "Human": 4,
-        "LLM": 4,
-        "Invalid": 0
-      },
-      "joint_unsupervised_coreference_r": {
-        "LLM_win_ratio": 0.375,
-        "Human": 5,
-        "LLM": 3,
-        "Invalid": 0
-      },
-      "bayesian_word_sense_induction": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "randomised_language_modelling_fo": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "statistical_decisiontree_models_": {
-        "LLM_win_ratio": 0.375,
-        "Human": 5,
-        "LLM": 3,
-        "Invalid": 0
-      },
-      "semeval2010_task_13_tempeval2": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "better_kbest_parsing": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "nltk_the_natural_language_toolki": {
-        "LLM_win_ratio": 0.625,
-        "Human": 3,
-        "LLM": 5,
-        "Invalid": 0
-      },
-      "deterministic_dependency_parsing": {
-        "LLM_win_ratio": 0.25,
-        "Human": 6,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "named_entity_recognition_using_a": {
-        "LLM_win_ratio": 0.5,
-        "Human": 4,
-        "LLM": 4,
-        "Invalid": 0
-      },
-      "improved_automatic_keyword_extra": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "transductive_learning_for_statis": {
-        "LLM_win_ratio": 0.625,
-        "Human": 3,
-        "LLM": 5,
-        "Invalid": 0
-      },
-      "widecoverage_efficient_statistic": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "soft_syntactic_constraints_for_w": {
-        "LLM_win_ratio": 0.875,
-        "Human": 1,
-        "LLM": 7,
-        "Invalid": 0
-      },
-      "a_composite_kernel_to_extract_re": {
-        "LLM_win_ratio": 0.5,
-        "Human": 4,
-        "LLM": 4,
-        "Invalid": 0
-      },
-      "a_maximum_entropy_model_for_part": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "a_sentimental_education_sentimen": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "meaningful_clustering_of_senses_": {
-        "LLM_win_ratio": 0.5,
-        "Human": 4,
-        "LLM": 4,
-        "Invalid": 0
-      },
-      "minimum_error_rate_training_in_s": {
-        "LLM_win_ratio": 0.5,
-        "Human": 4,
-        "LLM": 4,
-        "Invalid": 0
-      },
-      "text_chunking_using_transformati": {
-        "LLM_win_ratio": 0.875,
-        "Human": 1,
-        "LLM": 7,
-        "Invalid": 0
-      },
-      "generating_natural_language_summ": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 5,
-        "Invalid": 3
-      },
-      "the_second_release_of_the_rasp_s": {
-        "LLM_win_ratio": 0.625,
-        "Human": 3,
-        "LLM": 5,
-        "Invalid": 0
-      },
-      "chunking_with_support_vector_mac": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "bayesian_learning_of_a_tree_subs": {
-        "LLM_win_ratio": 0.625,
-        "Human": 3,
-        "LLM": 5,
-        "Invalid": 0
-      },
-      "stochastic_lexicalized_treeadjoi": {
-        "LLM_win_ratio": 0.0,
-        "Human": 6,
-        "LLM": 0,
-        "Invalid": 2
-      },
-      "local_phrase_reordering_models_f": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 7,
-        "Invalid": 1
-      },
-      "the_icsi_meeting_recorder_dialog": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "unsupervised_multilingual_learni": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "extracting_parallel_subsententia": {
-        "LLM_win_ratio": 0.875,
-        "Human": 1,
-        "LLM": 7,
-        "Invalid": 0
-      },
-      "learning_subjective_nouns_using_": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "a_study_on_similarity_and_relate": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "parsing_the_wall_street_journal_": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 8,
-        "Invalid": 0
-      },
-      "extraposition_grammars": {
-        "LLM_win_ratio": 0.625,
-        "Human": 3,
-        "LLM": 5,
-        "Invalid": 0
-      },
-      "evaluating_the_accuracy_of_an_un": {
-        "LLM_win_ratio": 0.375,
-        "Human": 5,
-        "LLM": 3,
-        "Invalid": 0
-      },
-      "machine_translation_by_triangula": {
-        "LLM_win_ratio": 0.875,
-        "Human": 1,
-        "LLM": 7,
-        "Invalid": 0
-      },
-      "joshua_an_open_source_toolkit_fo": {
-        "LLM_win_ratio": 0.5,
-        "Human": 4,
-        "LLM": 4,
-        "Invalid": 0
-      },
-      "semiring_parsing": {
-        "LLM_win_ratio": 0.75,
-        "Human": 2,
-        "LLM": 6,
-        "Invalid": 0
-      },
-      "statistical_machine_translation_": {
-        "LLM_win_ratio": 0.875,
-        "Human": 1,
-        "LLM": 7,
-        "Invalid": 0
-      }
-    },
-    "total_tallies": {
-      "Human": 111,
-      "LLM": 283,
-      "Invalid": 6
-    },
-    "avg_llm_win_ratio": 0.7175
   },
   "product---DESCRIPTION-from_json_details|gpt-3.5-turbo---COMPARISON-marketplace_recommendation_force_decision|gpt-4-1106-preview": {
     "details_by_item": {
@@ -55365,1509 +54955,1761 @@
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_bone_snatcher": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "on_the_edge_of_innocence": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "tangled": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "streets_of_fire": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "children_of_the_corn_iii_urban_h": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "winchester_73": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "children_of_the_corn_iii_urban_h": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "winchester_73": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "flashbacks_of_a_fool": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "pepi_luci_bom_and_other_girls_on": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "cursed": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "seven_men_from_now": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "daivanamathil": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "aayirathil_oruvan": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "devils_diary": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "goofs_and_saddles": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_damned_thing": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "totally_spies_the_movie": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "arthur_christmas": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "see_no_evil": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "eves_bayou": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
       },
       "the_fairhaired_hare": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "deadgirl": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_trap": {
         "LLM_win_ratio": 0.0,
         "Human": 2,
         "LLM": 0,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_lincoln_lawyer": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "tolable_david": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "samson": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "samson": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "ticket_to_heaven": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "king": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "the_hill": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
+      },
+      "til_there_was_you": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "doomsday": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
-      },
-      "til_there_was_you": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "doomsday": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "operation_rabbit": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "gattaca": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "stardust": {
-        "LLM_win_ratio": 1.0,
+        "LLM_win_ratio": null,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
       },
       "satan_in_high_heels": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "is_first": 1
       },
       "small_town_story": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "the_magic_riddle": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 0
       },
       "a_matter_of_time": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "knights_of_the_city": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "the_hasty_hare": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "rokkk": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "billy_two_hats": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 0
       },
       "the_detonator": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_miracle_man": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "white_wedding": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "high_on_crack_street_lost_lives_": {
-        "LLM_win_ratio": 0.5,
+        "LLM_win_ratio": 0.0,
         "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 0
       },
       "rudraveena": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "no_sos_vos_soy_yo": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "mogambo": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "eating_out_5_the_open_weekend": {
         "LLM_win_ratio": 0.0,
-        "Human": 2,
+        "Human": 1,
         "LLM": 0,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 0
       },
       "the_thrill_killers": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "black_belt_jones": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
-      },
-      "night_of_the_demons_2": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 0
+      },
+      "night_of_the_demons_2": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "breezy": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "satans_little_helper": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "november": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "kingdom_of_the_spiders": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "love_exposure": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_journey_of_jared_price": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 0
       },
       "spanish_masala": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "george_of_the_jungle": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "funny_about_love": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 0
       },
       "moneyball": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "going_under": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "the_super_dimension_fortress_mac": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "the_chaser": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
+      },
+      "the_chaser": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
       },
       "hot_blood": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
       },
       "critters_2_the_main_course": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_trial": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "tower_of_london": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "traffic": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "dead_ringer": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "wheres_firuze": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "chandamama": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "rescue_dawn": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "lawless": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 1
       },
       "catwoman": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "maduve_mane": {
         "LLM_win_ratio": 0.0,
         "Human": 2,
         "LLM": 0,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "stolen_holiday": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 0
       },
       "the_merry_old_soul": {
         "LLM_win_ratio": 0.0,
         "Human": 2,
         "LLM": 0,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "naseeb_apna_apna": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "julai": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "less_than_zero": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "gratefulness": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "leatherheads": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
-      "hollow_triumph": {
+      "leatherheads": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "hollow_triumph": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "bad_blood": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "a_better_tomorrow_2": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "brassed_off": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "halloweentown_high": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "the_hit": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "mimic_2": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "gigi": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 0
       },
       "christmas_story": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "there_they_gogogo": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "isi_life_mein": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 0
       },
       "the_vulture": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "the_belles_of_st_trinians": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "mera_naam_joker": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
-      "the_arrogant": {
+      "the_belles_of_st_trinians": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "mera_naam_joker": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "the_arrogant": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "dantes_peak": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "the_addams_family": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "ask_a_policeman": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "homam": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "madadayo": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_infidel": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "helen_of_four_gates": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "two_for_the_road": {
-        "LLM_win_ratio": 0.5,
+        "LLM_win_ratio": 0.0,
         "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
       },
       "wing_and_a_prayer": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 0
       },
       "attack_of_the_killer_tomatoes": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "teen_thay_bhai": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "mysteries_of_a_barbershop": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_mad_magician": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "duet": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "up_in_the_air": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "shakalaka_boom_boom": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "street_fighter_alpha": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 1
       },
       "fear_in_the_night": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_joneses": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 0
       },
       "anantana_avantara": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "is_first": 1
       },
       "transit": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "camerons_closet": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
+      },
+      "corporate": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
-      },
-      "corporate": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "sebastian_star_bear_first_missio": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "multiple_maniacs": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "summer_heat": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "our_gang_follies_of_1938": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "lucky_no_time_for_love": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
       },
       "the_gendarme_in_new_york": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "bartok_the_magnificent": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "salt_water_tabby": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "bitter_moon": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "bartok_the_magnificent": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "salt_water_tabby": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "bitter_moon": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
       },
       "my_girl_and_i": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "inspector_gadget": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "andaru_dongale_dorikithe": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "trapped_in_the_closet_chapters_1": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "yellow_sky": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "yellow_sky": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
       },
       "dust_be_my_destiny": {
         "LLM_win_ratio": 0.0,
-        "Human": 2,
+        "Human": 1,
         "LLM": 0,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 0
       },
       "blood_reign_curse_of_the_yoma": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 0
       },
       "humanit": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "a_case_of_rape": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
-      },
-      "mereka_bilang_saya_monyet": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "road_to_singapore": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "aage_se_right": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "mereka_bilang_saya_monyet": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
+      },
+      "road_to_singapore": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "aage_se_right": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "lawman": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "polladhavan": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "tango": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "trial_by_jury": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "six_degrees_of_separation": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
       },
       "amistad": {
-        "LLM_win_ratio": 0.5,
+        "LLM_win_ratio": 0.0,
         "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
       },
       "once_upon_a_time_in_china_ii": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "run_fat_boy_run": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "khumba": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 0
       },
       "more_than_a_secretary": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "la_religieuse": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 0
       },
       "house_of_the_dead": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "final_storm": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "arena": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "the_hot_chick": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "by_dawns_early_light": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 0
+      },
+      "final_storm": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "arena": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "the_hot_chick": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "by_dawns_early_light": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 0
       },
       "pyaar_ke_side_effects": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "table_for_five": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 1
       },
       "kung_pow_enter_the_fist": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "intent_to_kill": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "severance": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 0
       },
       "gamera_vs_viras": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "luna_de_miel": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 0
       },
       "interview_with_the_assassin": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_whistle_blower": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "die_stadt_ohne_juden": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "dead_alive": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "redemption_kickboxer_5": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "the_damned": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "redemption_kickboxer_5": {
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "the_damned": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
       },
       "daffy_duck_slept_here": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "poochakkoru_mookkuthi": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "rabbit_fire": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
-      "sakigake_otokojuku": {
+      "rabbit_fire": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "sakigake_otokojuku": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_perfect_circle": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 0
       },
       "colors": {
         "LLM_win_ratio": 0.0,
         "Human": 2,
         "LLM": 0,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "peewees_big_adventure": {
-        "LLM_win_ratio": 0.0,
-        "Human": 1,
-        "LLM": 0,
-        "Invalid": 1
-      },
-      "beneath_hill_60": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 0
+      },
+      "beneath_hill_60": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "shaolin_chamber_of_death": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "roots_the_gift": {
         "LLM_win_ratio": 0.0,
-        "Human": 1,
+        "Human": 2,
         "LLM": 0,
-        "Invalid": 1
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_goofy_gophers": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "gifted_hands_the_ben_carson_stor": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
-      },
-      "gifted_hands_the_ben_carson_stor": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "baran": {
-        "LLM_win_ratio": 1.0,
+        "LLM_win_ratio": null,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
       },
       "pierrot_le_fou": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
         "LLM": 1,
-        "Invalid": 1
+        "Invalid": 0,
+        "is_first": 2
       },
       "five_and_dime": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "hitman": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "mice_follies": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 1
       },
       "the_killing_jar": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 1
       },
       "igby_goes_down": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 1
       },
       "chakkikotha_chankaran": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "girl_interrupted": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "barefoot_in_the_park": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "snow_falling_on_cedars": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 1,
-        "Invalid": 1
+        "Invalid": 1,
+        "is_first": 1
       },
       "azhagi": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "me_and_orson_welles": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "love_with_the_proper_stranger": {
+        "LLM_win_ratio": null,
+        "Human": 0,
+        "LLM": 0,
+        "Invalid": 2,
+        "is_first": 0
+      },
+      "majunu": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
-      },
-      "majunu": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "saravana": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "back_to_the_woods": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 0.0,
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "is_first": 1
       },
       "angaaray": {
         "LLM_win_ratio": 0.0,
         "Human": 2,
         "LLM": 0,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "cats__dogs": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "snoopy_the_musical": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "dont_look_now": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "daddy_cool": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "murder_he_says": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "papillon": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "meet_joe_black": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 1,
-        "Invalid": 1
+        "Invalid": 1,
+        "is_first": 1
       },
       "akira": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "das_experiment": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 1,
+        "is_first": 1
       },
       "charas": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "nimas_trujano": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "expresso": {
         "LLM_win_ratio": 0.0,
-        "Human": 1,
+        "Human": 2,
         "LLM": 0,
-        "Invalid": 1
+        "Invalid": 0,
+        "is_first": 1
       },
       "jewel": {
-        "LLM_win_ratio": 0.5,
+        "LLM_win_ratio": 0.0,
         "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
       },
       "kadhalukku_mariyadhai": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "the_smashing_bird_i_used_to_know": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "quality_street": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 1,
-        "Invalid": 1
+        "Invalid": 1,
+        "is_first": 0
       },
       "conrack": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "condorman": {
-        "LLM_win_ratio": null,
+        "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 0,
-        "Invalid": 2
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "spacecamp": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "cleopatra": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "cleopatra": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "naalu_pennungal": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "viva_max": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "tamil_padam": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "law_of_desire": {
-        "LLM_win_ratio": null,
-        "Human": 0,
-        "LLM": 0,
-        "Invalid": 2
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 0
       },
       "the_curse_of_frankenstein": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
       },
       "the_blot": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
-      },
-      "click": {
-        "LLM_win_ratio": 0.0,
-        "Human": 1,
-        "LLM": 0,
-        "Invalid": 1
-      },
-      "i_was_a_teenage_frankenstein": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "click": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "i_was_a_teenage_frankenstein": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "captivity": {
-        "LLM_win_ratio": 0.0,
-        "Human": 2,
-        "LLM": 0,
-        "Invalid": 0
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "up_up_and_away": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "super_troopers": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "my_neighbor_totoro": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "tirangaa": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
-      },
-      "lost_in_america": {
         "LLM_win_ratio": 0.5,
         "Human": 1,
         "LLM": 1,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "my_neighbor_totoro": {
+        "LLM_win_ratio": 0.0,
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "is_first": 1
+      },
+      "tirangaa": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "lost_in_america": {
+        "LLM_win_ratio": 1.0,
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 1
       },
       "when_were_you_born": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "don_the_chase_begins_again": {
-        "LLM_win_ratio": 0.5,
-        "Human": 1,
-        "LLM": 1,
-        "Invalid": 0
-      },
-      "little_quacker": {
-        "LLM_win_ratio": 0.0,
-        "Human": 1,
-        "LLM": 0,
-        "Invalid": 1
-      },
-      "spun": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
+      },
+      "little_quacker": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
+      },
+      "spun": {
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "spider_forest": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "the_elementary_school": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "ee_parakkum_thalika": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "padagotti": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "200_cigarettes": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       },
       "mad_hot_ballroom": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM": 1,
+        "Invalid": 1,
+        "is_first": 0
       },
       "your_mother_wears_combat_boots": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
-        "LLM": 1,
-        "Invalid": 1
+        "LLM": 2,
+        "Invalid": 0,
+        "is_first": 1
       },
       "marked_woman": {
-        "LLM_win_ratio": 1.0,
-        "Human": 0,
-        "LLM": 2,
-        "Invalid": 0
+        "LLM_win_ratio": 0.5,
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "is_first": 2
       },
       "jungle_jingles": {
         "LLM_win_ratio": 1.0,
         "Human": 0,
         "LLM": 2,
-        "Invalid": 0
+        "Invalid": 0,
+        "is_first": 1
       }
     },
     "total_tallies": {
       "Human": 120,
-      "LLM": 354,
-      "Invalid": 26
+      "LLM": 315,
+      "Invalid": 65,
+      "is_first": 285
     },
-    "avg_llm_win_ratio": 0.7479838709677419
+    "avg_llm_win_ratio": 0.7219917012448133,
+    "first_item_bias": 0.6551724137931034
   },
   "movie---DESCRIPTION-from_title_and_year|gpt-3.5-turbo---COMPARISON-movie_pick_one|together-mistralai/Mixtral-8x22B-Instruct-v0.1": {
     "details_by_item": {

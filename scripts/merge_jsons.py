@@ -27,7 +27,9 @@ experiment_filters = [
     "from_json_old_person",
     "short_and_pointed",
     "from_json_avg_human",
-    "old_person_confused_2"
+    "old_person_confused_2",
+    "submit_tomorrow_with_full_paper_details_matter"  
+
 ]
 
 # Function to extract the `run_end` timestamp from the file content
