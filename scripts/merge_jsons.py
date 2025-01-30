@@ -52,7 +52,10 @@ def is_unwanted_key(key):
 
     if "gpt-3.5-turbo-1106" in key and "product" in key:
         return True
-
+    
+    if "1106" not in key and "---COMPARISON-literature_review_pick_one|gpt-3.5-turbo" in key and "paper" in key:
+        return True
+        
     # Special case: exclude 'write_xml_paper_abstract' but keep 'write_xml_paper_abstract_control_word_count'
     if "write_xml_paper_abstract" in key and "control_word_count" not in key:
         return True
