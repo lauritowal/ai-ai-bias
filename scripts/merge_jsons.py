@@ -28,8 +28,7 @@ experiment_filters = [
     "short_and_pointed",
     "from_json_avg_human",
     "old_person_confused_2",
-    "submit_tomorrow_with_full_paper_details_matter"  
-
+    "submit_tomorrow_with_full_paper_details_matter"
 ]
 
 # Function to extract the `run_end` timestamp from the file content
@@ -50,15 +49,22 @@ def is_unwanted_key(key):
     if any(experiment in key for experiment in experiment_filters):
         return True
 
-    if "gpt-3.5-turbo-1106" in key and "product" in key:
+
+    if "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo---" in key:
         return True
     
+    if "---COMPARISON-literature_review_pick_one|gpt-3.5-turbo" and not "---COMPARISON-literature_review_pick_one|gpt-3.5-turbo-1106":
+        return True
+
+
+    # Exclude comparisons involving 'gpt-3.5-turbo' unless it is 'gpt-3.5-turbo-1106'
     if "1106" not in key and "---COMPARISON-literature_review_pick_one|gpt-3.5-turbo" in key and "paper" in key:
         return True
-        
+
     # Special case: exclude 'write_xml_paper_abstract' but keep 'write_xml_paper_abstract_control_word_count'
     if "write_xml_paper_abstract" in key and "control_word_count" not in key:
         return True
+
     return False
 
 # Function to merge JSON files by filtering unwanted models and experiments
