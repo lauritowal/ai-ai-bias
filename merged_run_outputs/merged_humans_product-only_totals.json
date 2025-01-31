@@ -2,7 +2,7 @@
   "product---DESCRIPTION-from_json_details|gpt-4-1106---COMPARISON-pick_one|humans": {
     "details_by_item": {},
     "total_tallies": {
-      "Human": 214,
+      "Human": 152,
       "LLM": 62,
       "Invalid": 0
     },
@@ -11,7 +11,7 @@
   "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106---COMPARISON-pick_one|humans": {
     "details_by_item": {},
     "total_tallies": {
-      "Human": 321,
+      "Human": 128,
       "LLM": 193,
       "Invalid": 0
     },
@@ -20,7 +20,7 @@
   "product---DESCRIPTION-from_json_details|gpt-3.5-turbo---COMPARISON-pick_one|humans": {
     "details_by_item": {},
     "total_tallies": {
-      "Human": 428,
+      "Human": 308,
       "LLM": 120,
       "Invalid": 0
     },
@@ -29,7 +29,7 @@
   "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo---COMPARISON-pick_one|humans": {
     "details_by_item": {},
     "total_tallies": {
-      "Human": 249,
+      "Human": 134,
       "LLM": 115,
       "Invalid": 0
     },
