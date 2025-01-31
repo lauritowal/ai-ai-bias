@@ -1,0 +1,454 @@
+{
+  "movie---DESCRIPTION-from_title_and_year|gpt3_5---COMPARISON-pick_one|humans": {
+    "details_by_item": {
+      "redemption_kickboxer_5-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "naalu_pennungal-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "our_gang_follies_of_1938-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "tangled-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "camerons_closet-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "less_than_zero-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "gamera_vs-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "attack_of_the_killer_tomatoes-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "the_whistle_blower-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "ask_a_policeman-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "streets_of_fire-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "aayirathil_oruvan-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "arthur_christmas-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "maduve_mane-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "my_neighbor_totoro-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "inspector_gadget-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "roots_the_gift-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "duet-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "condorman-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "ticket_to_heaven-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "the_trap-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "marked_woman-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "mera_naam_joker-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "the_curse_of_frankenstein-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "dantes_peak-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "amistad-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "winchester_73-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "snow_falling_on_cedars-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "the_belles_of_st_trinians-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "luna_de_miel-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "stardust-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "king-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "law_of_desire-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "humanit-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "the_journey_of_jared_price-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "andaru_dongale_dorikithe-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "colors-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "the_hasty_hare-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "a_matter_of_time-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "hitman-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "white_wedding-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "jungle_jingles-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "til_there_was_you-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "gratefulness-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "the_lincoln_lawyer-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "gattaca-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "spacecamp-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      }
+    },
+    "total_tallies": {
+      "Human": 39,
+      "LLM": 36,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.46808510638297873
+  },
+  "movie---DESCRIPTION-from_title_and_year|gpt4---COMPARISON-pick_one|humans": {
+    "details_by_item": {
+      "redemption_kickboxer_5-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "naalu_pennungal-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "our_gang_follies_of_1938-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "tangled-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "camerons_closet-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "less_than_zero-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "gamera_vs-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "attack_of_the_killer_tomatoes-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "the_whistle_blower-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "ask_a_policeman-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "streets_of_fire-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "aayirathil_oruvan-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "arthur_christmas-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "my_neighbor_totoro-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "inspector_gadget-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "roots_the_gift-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "duet-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "condorman-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "ticket_to_heaven-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "the_trap-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "marked_woman-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "mera_naam_joker-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "the_curse_of_frankenstein-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "dantes_peak-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "shakalaka_boom_boom-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      }
+    },
+    "total_tallies": {
+      "Human": 52,
+      "LLM": 23,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.3066666666666667
+  }
+}
