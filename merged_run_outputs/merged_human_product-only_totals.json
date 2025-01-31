@@ -1,0 +1,38 @@
+{
+  "product---DESCRIPTION-from_json_details|gpt-4-1106---COMPARISON-pick_one|humans": {
+    "details_by_item": {},
+    "total_tallies": {
+      "Human": 214,
+      "LLM": 62,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.29
+  },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-4-1106---COMPARISON-pick_one|humans": {
+    "details_by_item": {},
+    "total_tallies": {
+      "Human": 321,
+      "LLM": 193,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.60
+  },
+  "product---DESCRIPTION-from_json_details|gpt-3.5-turbo---COMPARISON-pick_one|humans": {
+    "details_by_item": {},
+    "total_tallies": {
+      "Human": 428,
+      "LLM": 120,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.28
+  },
+  "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo---COMPARISON-pick_one|humans": {
+    "details_by_item": {},
+    "total_tallies": {
+      "Human": 249,
+      "LLM": 115,
+      "Invalid": 0
+    },
+    "avg_llm_win_ratio": 0.46
+  }
+}
