@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load JSON data
-file_path = "/home/wombat_share/laurito/ai-ai-bias/merged_run_outputs/merged.json"  # Change this to your actual file  path
+file_path = "/home/wombat_share/laurito/ai-ai-bias/merged_run_outputs/merged.json"  # Change this to your actual file path
 with open(file_path, "r") as file:
     data = json.load(file)
 
@@ -53,4 +53,43 @@ df_results_by_item_type["LLM_Preference_Ratio"] = df_results_by_item_type["Total
 )
 
 # Calculate variability statistics for each item type
-df_item_variability = df_results_by_item_type.groupby("Item Type")
+df_item_variability = df_results_by_item_type.groupby("Item Type")["LLM_Preference_Ratio"].agg(["mean", "std", "var", "skew"]).reset_index()
+
+# Rename columns for clarity
+df_item_variability.columns = ["Item Type", "Mean LLM Preference Ratio", "Standard Deviation", "Variance", "Skewness"]
+
+# Display the aggregated table
+print("\n### Aggregated Counts with LLM Preference Ratios ###")
+print(df_results_by_item_type.head())
+
+print("\n### LLM Preference Variability by Item Type ###")
+print(df_item_variability)
+
+# Create a boxplot showing the distribution of LLM Preference Ratios by item type
+plt.figure(figsize=(12, 6))
+sns.boxplot(x="Item Type", y="LLM_Preference_Ratio", data=df_results_by_item_type)
+plt.title("Distribution of LLM Preference Ratios by Item Type")
+plt.xlabel("Item Type")
+plt.ylabel("LLM Preference Ratio")
+plt.grid(True)
+# save to file
+plt.savefig("llm_preference_ratio_boxplot.png")
+
+# Create separate histograms for each item type
+item_types = df_results_by_item_type["Item Type"].unique()
+
+for item_type in item_types:
+    plt.figure(figsize=(10, 5))
+    sns.histplot(
+        df_results_by_item_type[df_results_by_item_type["Item Type"] == item_type]["LLM_Preference_Ratio"],
+        bins=20, kde=True
+    )
+    plt.title(f"Distribution of LLM Preference Ratios for {item_type.capitalize()}")
+    plt.xlabel("LLM Preference Ratio")
+    plt.ylabel("Count of Items")
+    plt.grid(True)  
+    # save to file
+    plt.savefig(f"llm_preference_ratio_{item_type}.png")
+
+df_results_by_item_type.to_csv("results_by_item_type.csv", index=False)
+

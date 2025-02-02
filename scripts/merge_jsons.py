@@ -49,16 +49,20 @@ def is_unwanted_key(key):
     if any(experiment in key for experiment in experiment_filters):
         return True
 
-
     if "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo---" in key:
         return True
     
     if "---COMPARISON-literature_review_pick_one|gpt-3.5-turbo" and not "---COMPARISON-literature_review_pick_one|gpt-3.5-turbo-1106":
         return True
 
+    if "product_listing" in key:
+        return True
 
     # Exclude comparisons involving 'gpt-3.5-turbo' unless it is 'gpt-3.5-turbo-1106'
     if "1106" not in key and "---COMPARISON-literature_review_pick_one|gpt-3.5-turbo" in key and "paper" in key:
+        return True
+    
+    if "---COMPARISON-marketplace_recommendation_force_decision|gpt-3.5-turbo-1106":
         return True
 
     # Special case: exclude 'write_xml_paper_abstract' but keep 'write_xml_paper_abstract_control_word_count'

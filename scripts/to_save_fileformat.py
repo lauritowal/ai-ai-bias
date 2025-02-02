@@ -10,6 +10,7 @@ def to_safe_filename(
     file_extension: Optional[str] = None,
     prompt_key: Optional[str] = None,
     max_title_characters: Optional[int] = 32,
+    is_file=True
 ) -> str:
     # Remove the file extension before cleaning
     base_name = os.path.splitext(title_text)[0]
@@ -19,5 +20,6 @@ def to_safe_filename(
     if prompt_key:
         filename += f"-{prompt_key}"
     # Add .json extension
-    filename += ".json"
+    if is_file:
+        filename += ".json"
     return filename
