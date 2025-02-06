@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+fimport React, { useEffect, useState } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import axios from 'axios';
 import { Card, CardContent, Typography, Button, Grid, Box, LinearProgress } from '@mui/material';
@@ -145,7 +145,7 @@ const Comparisons = () => {
                                     Select B (right)
                                 </Button>
                             </Grid>
-                            {/* <Grid item xs={12} sm={4}>
+                            <Grid item xs={12} sm={4}>
                                 <Button
                                     fullWidth
                                     onClick={() => handleUserChoice('none', false)}
@@ -153,7 +153,7 @@ const Comparisons = () => {
                                 >
                                     No Preference
                                 </Button>
-                            </Grid> */}
+                            </Grid>
                         </Grid>
                         <Grid item xs={12} md={6}>
                             <Card variant='outlined'>

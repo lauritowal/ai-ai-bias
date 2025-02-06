@@ -155,7 +155,7 @@ def save_results():
         'category': request.json.get('category'),
         'totalLLMChoices': request.json.get("totalLLMChoices"),
         'totalHumanChoices': request.json.get("totalHumanChoices"),
-        # 'totalNoPreference': request.json.get("totalNoPreference"),
+        'totalNoPreference': request.json.get("totalNoPreference"),
         'userChoices': request.json.get("userChoices"),
     }
     with open(results_path, 'w', encoding='utf-8') as file:
