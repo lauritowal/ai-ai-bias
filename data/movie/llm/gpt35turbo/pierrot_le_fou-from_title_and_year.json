@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pierrot le fou",
+    "descriptions": [
+        "\"Pierrot le fou\" follows the story of Ferdinand, a bored and disillusioned man who decides to leave his wife and children to go on an adventure with his former lover, Marianne. As they flee Paris, the two find themselves embroiled in a series of criminal activities and dangerous situations. Despite their tumultuous relationship, Ferdinand and Marianne are drawn to each other, forging a deep connection as they navigate the chaotic world around them.\n\nTheir journey takes them across France, where they encounter a variety of eccentric characters and engage in reckless behavior. As the authorities close in on them, Ferdinand and Marianne find themselves running out of options. Their escapades become increasingly erratic and violent, leading to a tragic and explosive climax.\n\nThroughout the film, themes of love, freedom, and existentialism are explored, as Ferdinand and Marianne grapple with their own identities and desires. The vibrant cinematography and avant-garde style of the film help to convey the characters' sense of restlessness and ennui.\n\n\"Pierrot le fou\" is a visually stunning and emotionally complex film that captures the spirit of the 1960s French New Wave movement. Through its unconventional narrative and striking imagery, the movie delves into the complexities of human relationships and the search for meaning in a chaotic world. Ferdinand and Marianne's tumultuous journey serves as a reflection of the tumultuous era in which the film was made, offering a poignant and thought-provoking exploration of love, passion, and self-discovery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "cf41356f93713cb5788cb0c31df63cad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 297.0 words or less.\n\n---\n\n**Title:**\n\nPierrot le fou\n\n**Year:**\n\n1965",
+    "include_year": false
+}

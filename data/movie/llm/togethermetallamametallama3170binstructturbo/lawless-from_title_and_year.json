@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawless",
+    "descriptions": [
+        "Lawless is a 2012 American crime drama film written by Nick Cave and directed by John Hillcoat. The film is set in Virginia during the Prohibition era in the United States.\n\nThe story revolves around the Bondurant brothers, Jack (Shia LaBeouf), Forrest (Tom Hardy), and Howard (Jason Clarke), who run a successful moonshine operation in the mountains. They are known for their ruthless tactics and fearless attitude, which earn them a legendary status in the local community.\n\nTheir operation is put to the test when the new and ambitious Special Deputy Charlie Rakes (Guy Pearce) is assigned to take down the Bondurants. Rakes is determined to dismantle their operation and arrest them, but the brothers refuse to back down.\n\nMeanwhile, Jack falls for a beautiful and mysterious woman named Bertha Minnix (Mia Wasikowska), who has recently moved to the area. The relationship blossoms, despite Bertha's initial reluctance, and Jack becomes more involved in the family business.\n\nAs the conflict between the Bondurants and Rakes escalates, the brothers are forced to confront their own demons and weaknesses. Forrest, the eldest brother, is a fierce and intimidating figure who will stop at nothing to protect his family. Howard is the middle brother, who is often the voice of reason and tries to keep the peace. Jack, the youngest, is impulsive and reckless, but also fiercely loyal to his family.\n\nThe film builds up to a violent confrontation between the Bondurants and Rakes, resulting in a tragic and devastating outcome. In the end, the brothers are forced to confront the consequences of their actions and the true cost of their lawless ways.\n\nLawless is a gritty and intense film that explores themes of family, loyalty, and the American Dream. The film features strong performances from the cast, particularly Tom Hardy, who brings a depth and nuance to his portrayal of Forrest Bondurant. The film's cinematography is also noteworthy, capturing the rugged beauty of the Virginia landscape and the harsh realities of the Prohibition era."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8eda5cf067f6b30f1e42ac5b5f693585",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 636.0 words or less.\n\n---\n\n**Title:**\n\nLawless\n\n**Year:**\n\n2012",
+    "include_year": false
+}

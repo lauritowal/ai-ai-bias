@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kung Pow! Enter the Fist",
+    "descriptions": [
+        "In the 2002 comedy film \"Kung Pow! Enter the Fist,\" directed by Steve Oedekerk, the story follows a young martial artist named The Chosen One on his journey to avenge his parents' deaths at the hands of the evil warlord, Master Pain (also known as Betty). The Chosen One, played by Oedekerk himself, is a skilled fighter with a unique style that combines kung fu and slapstick comedy.\n\nThe film begins with a baby being found by a group of martial artists after his parents are killed by Master Pain. The baby is taken in and raised by the group, who teach him the ways of martial arts. As he grows up, The Chosen One becomes a skilled fighter and sets out on his quest for revenge against Master Pain.\n\nAlong the way, The Chosen One encounters a variety of eccentric characters, including a cow named Mu Shu Fasa who speaks through subtitles, a martial arts master named Wimp Lo who is more concerned with his hair than his fighting skills, and a wise sage named Master Tang who helps train The Chosen One for his final battle.\n\nThe Chosen One's journey to defeat Master Pain is filled with over-the-top fight scenes, outrageous humor, and an abundance of visual gags. The film is known for its use of green screen technology to insert Oedekerk into existing martial arts footage, creating a surreal and comedic effect.\n\nAs The Chosen One gets closer to facing Master Pain, he must confront his own fears and doubts, as well as the challenges presented by his quirky companions. With the help of his friends and his own unique fighting style, The Chosen One ultimately emerges victorious in a climactic battle against Master Pain, bringing justice to his parents and restoring peace to the land.\n\n\"Kung Pow! Enter the Fist\" is a parody of martial arts films, blending elements of action, comedy, and satire to create a one-of-a-kind cinematic experience. The film's offbeat humor, zany characters, and inventive use of special effects make it a cult classic that continues to entertain audiences with its absurd take on the martial arts genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "f211ac5b001a2c8c384c3c01db81eeb8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 860.0 words or less.\n\n---\n\n**Title:**\n\nKung Pow! Enter the Fist\n\n**Year:**\n\n2002",
+    "include_year": false
+}

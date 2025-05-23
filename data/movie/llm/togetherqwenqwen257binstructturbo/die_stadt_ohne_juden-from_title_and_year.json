@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Die Stadt ohne Juden",
+    "descriptions": [
+        "**Plot Summary:**\n\nDie Stadt ohne Juden (The City Without Jews), released in 1924, is a silent film that delves into the anti-Semitic sentiments and social dynamics prevalent in Europe during the early 20th century. Set in a fictional German city, the film is narrated through the perspective of a young Jewish man named Max, who observes the escalating hostility towards his community. As anti-Semitic rhetoric gains momentum, the city's mayor, Dr. Leibmann, emerges as a charismatic and influential figure, advocating for the expulsion of Jews from the city. Max, along with his family and friends, faces increasing discrimination and harassment. The film climaxes with a dramatic scene where a pogrom is narrowly averted, showcasing the resilience of the Jewish community and their fight against oppression. Die Stadt ohne Juden is not only a cautionary tale about the dangers of extremism but also a poignant exploration of identity, belonging, and the human capacity for both cruelty and compassion in the face of societal upheaval."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "b97e512b6eb31aafc07c91b723eb38e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 441.0 words or less.\n\n---\n\n**Title:**\n\nDie Stadt ohne Juden\n\n**Year:**\n\n1924",
+    "include_year": false
+}

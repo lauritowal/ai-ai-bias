@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spider Forest",
+    "descriptions": [
+        "**Plot Summary of Spider Forest (2004):**\n\nSet in a dense, eerie forest, \"Spider Forest\" is a psychological thriller that explores the dark underbelly of human nature and the blurring lines between reality and delusion. In 2004, a group of young adults, led by the charismatic but troubled Alex, venture into an ancient forest rumored to be infested with spiders. As the group becomes increasingly isolated, the boundaries of their sanity begin to dissolve. Strange occurrences and unexplained phenomena soon turn peaceful exploration into a harrowing nightmare. Alex, driven by a mysterious past and a desire to uncover the forest's darkest secrets, begins to exhibit erratic behavior, blurring the lines between his delusions and the reality of their perilous situation. Tensions rise as the group confronts not only the forest's enigmatic dangers but also their own inner demons. As the night deepens, the lines between friend and foe become indistinguishable, and one by one, the group members fall victim to the forest's malevolent forces or their own deteriorating psyches. \"Spider Forest\" is a tense, atmospheric exploration of fear, paranoia, and the thin veneer of civilization that separates humanity from the primal chaos of the wild."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "7bc41809a75823e4ee0735b382cad28c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 376.0 words or less.\n\n---\n\n**Title:**\n\nSpider Forest\n\n**Year:**\n\n2004",
+    "include_year": false
+}

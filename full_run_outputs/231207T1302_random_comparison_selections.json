@@ -1,0 +1,116 @@
+{
+    "item_type": "paper",
+    "run_name": "231207T1302",
+    "run_permutations": [
+        {
+            "config": {
+                "comparison_engine": "gpt-4-1106-preview",
+                "comparison_prompt_key": "submit_tomorrow_with_full_paper_details_matter",
+                "description_engine": "gpt-4-1106-preview",
+                "description_prompt_key": "write_xml_paper_abstract_control_word_count"
+            },
+            "description_comparison_selections": [
+                {
+                    "title": "joint_unsupervised_coreference_r",
+                    "human_description": "Joint Unsupervised Coreference Resolution with Markov Logic\n\nMachine learning approaches to coreference resolution are typically supervised, and require expensive labeled data. Some unsupervised approaches have been proposed (e.g., Haghighi and Klein (2007)), but they are less accurate. In this paper, we present the first unsupervised approach that is competitive with supervised ones. This is made possible by performing joint inference across mentions, in contrast to the pairwise classification typically used in supervised methods, and by using Markov logic as a representation language, which enables us to easily express relations like apposition and predicate nominals. On MUC and ACE datasets, our model outperforms Haghigi and Klein’s one using only a fraction of the training data, and often matches or exceeds the accuracy of state-of-the-art supervised models.",
+                    "llm_description": "This paper presents an unsupervised coreference resolution system using Markov logic, a framework that combines probabilistic graphical models and first-order logic. The proposed method leverages joint inference to handle the absence of labeled data, utilizing linguistic relations such as apposition and predicate nominals to improve coreference decisions. The system was tested on the MUC and ACE datasets and demonstrated superior performance compared to state-of-the-art unsupervised methods, achieving accuracy comparable to supervised systems. The paper also introduces the first general-purpose unsupervised learning algorithm for Markov logic and explores potential improvements, such as incorporating additional linguistic knowledge and integrating coreference resolution with other NLP tasks.",
+                    "llm_comparison_tally": {
+                        "Human": 1,
+                        "LLM": 1,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "efficient_thirdorder_dependency_",
+                    "human_description": "Efficient Third-Order Dependency Parsers\n\nWe present algorithms for higher-order dependency parsing that are “third-order” in the sense that they can evaluate substructures containing three dependencies, and “efficient” in the sense that they reonly Importantly, our new parsers can utilize both sibling-style and grandchild-style interactions. We evaluate our parsers on the Penn Treebank and Prague Dependency Treebank, achieving unlabeled attachment scores of 93.04% and 87.38%, respectively.",
+                    "llm_description": "This paper introduces new third-order dependency parsing algorithms that enhance the size and variety of parts used in factorization without increasing computational costs, maintaining O(n^4) time and O(n^3) space. The parsers are evaluated on the Penn WSJ Treebank and Prague Dependency Treebank, achieving high unlabeled attachment scores. The paper contributes efficient parsing techniques for more expressive syntactic formalisms, balancing expressiveness with computational feasibility.",
+                    "llm_comparison_tally": {
+                        "Human": 1,
+                        "LLM": 1,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "information_fusion_in_the_contex",
+                    "human_description": "Information Fusion In The Context Of Multi-Document Summarization\n\nWe present a method to automatically generate a concise summary by identifying and synthesizing similar elements across related text from a set of multiple documents. Our approach is unique in its usage of language generation to reformulate the wording of the summary.",
+                    "llm_description": "This paper presents an algorithm for multi-document summarization by identifying common phrases across documents, using language generation to create coherent summaries, and handling the challenges of redundancy, paraphrasing, and temporal sequencing.",
+                    "llm_comparison_tally": {
+                        "Human": 0,
+                        "LLM": 2,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "the_second_release_of_the_rasp_s",
+                    "human_description": "The Second Release Of The RASP System\n\nWe describe the new release of the RASP (robust accurate statistical parsing) system, designed for syntactic annotation of free text. The new version includes a revised and more semantically-motivated output representation, an enhanced grammar and part-of-speech tagger lexicon, and a more flexible and semi-supervised training method for the structural parse ranking model. We evaluate the released version on the WSJ using a relational evaluation scheme, and describe how the new release allows users to enhance performance using (in-domain) lexical information.",
+                    "llm_description": "This paper describes the second release of the RASP (Robust Accurate Statistical Parsing) system, detailing its improved components and enhanced performance. The updates include better text coverage, a refined part-of-speech tagger, user customization options, a redesigned output for grammatical relations, and a more flexible parse ranking model. The system shows competitive performance across various NLP tasks and demonstrates a micro-averaged F1 score of 76.3% on the reannotated DepBank data set, highlighting its accuracy and efficiency in natural language processing applications.",
+                    "llm_comparison_tally": {
+                        "Human": 0,
+                        "LLM": 2,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "semeval2010_task_13_tempeval2",
+                    "human_description": "SemEval-2010 Task 13: TempEval-2\n\nTempeval-2 comprises evaluation tasks for time expressions, events and temporal relations, the latter of which was split up in four sub tasks, motivated by the notion that smaller subtasks would make both data preparation and temporal relation extraction easier. Manually annotated data were",
+                    "llm_description": "TempEval-2, part of SemEval-2010, expanded on TempEval-1 by introducing a multilingual challenge with six subtasks to identify temporal relations and expressions in text, using a simplified TimeML annotation language across six languages, evaluating system performance, and aiming for a broad metadata markup standard.",
+                    "llm_comparison_tally": {
+                        "Human": 1,
+                        "LLM": 1,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "unsupervised_multilingual_learni",
+                    "human_description": "Unsupervised Multilingual Learning for Morphological Segmentation\n\nFor centuries, the deep connection between languages has brought about major discoveries about human communication. In this paper we investigate how this powerful source of information can be exploited for unsupervised language learning. In particular, we study the task of morphological segmentation of multiple languages. We present a nonparametric Bayesian model that jointly induces morpheme segmentations of each language under consideration and at the same time identifies cross-lingual morpheme pator We apply our model to three Semitic languages: Arabic, Hebrew, Aramaic, as well as to English. Our results demonstrate that learning morphological models in tandem reduces error by up to 24% relative to monolingual models. Furthermore, we provide evidence that our joint model achieves better performance when applied to languages from the same family.",
+                    "llm_description": "This paper presents a study on unsupervised multilingual learning for morphological segmentation, exploring the use of cross-lingual correspondences to enhance language analysis. The authors propose a hierarchical Bayesian model capable of inducing morpheme segmentation and alignment across languages by leveraging similarities and differences in linguistic structures. The model performs joint bilingual analysis, aligning morphemes that share common semantic or syntactic functions, while also accounting for language-specific morphemes. Tested on a multilingual corpus of short parallel phrases from the Hebrew Bible and its Arabic, Aramaic, and English translations, the results show that the model reduces segmentation errors by up to 24%, demonstrating the benefits of multilingual learning for both related and unrelated language pairs. The research confirms that exploiting cross-lingual patterns can improve unsupervised morphological segmentation, especially when related languages and their shared structures are modeled explicitly.",
+                    "llm_comparison_tally": {
+                        "Human": 1,
+                        "LLM": 1,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "semiring_parsing",
+                    "human_description": "Semiring Parsing\n\nWe synthesize work on parsing algorithms, deductive parsing, and the theory of algebra applied to formal languages into a general system for describing parsers. Each parser performs abstract computations using the operations of a semiring. The system allows a single, simple representation to be used for describing parsers that compute recognition, derivation forests, Viterbi, n-best, inside values, and other values, simply by substituting the operations of different semirings. We also show how to use the same representation, interpreted differently, to compute outside values. The system can be used to describe a wide variety of parsers, including Earley's algorithm, tree adjoining grammar parsing, Graham Harrison Ruzzo parsing, and prefix value computation.",
+                    "llm_description": "**Abstract:**\n\nThis paper presents a unified framework for describing parsers using semiring parsing, integrating parsing algorithms, deductive parsing, and algebraic theory applied to formal languages. The framework utilizes semirings to perform abstract computations, enabling a single representation to describe various parsers that compute different values such as recognition, Viterbi scores, and inside and outside probabilities. The system is applicable to a wide range of parsers, including Earley's algorithm and tree adjoining grammar parsing. Additionally, it simplifies the development of new parsers, the specification of parsers across tasks by changing semirings, and the computation of complex values like outside probabilities. The paper also demonstrates the use of item-based descriptions for parsing and grammar transformations in any ω-continuous semiring, offering practical advantages such as mechanical computation of outside values, verification for arbitrary semirings, and separation of infinite sum computations from the parsing process.",
+                    "llm_comparison_tally": {
+                        "Human": 0,
+                        "LLM": 2,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "knowledgefree_induction_of_morph",
+                    "human_description": "Knowledge-Free Induction Of Morphology Using Latent Semantic Analysis\n\nMorphology induction is a subproblem of important tasks like automatic learning of machine-readable dictionaries and grammar induction. Previous morphology induction approaches have relied solely on statistics of hypothesized stems and affixes to choose which affixes to consider legitimate. Relying on stemand-affix statistics rather than semantic knowledge leads to a number of problems, such as the inappropriate use of valid affixes (&quot;ally&quot; stemming to &quot;all&quot;). We introduce a semantic-based algorithm for learning morphology which only proposes affixes when the stem and stem-plusaffix are sufficiently similar semantically. We implement our approach using Latent Semantic Analysis and show that our semantics-only approach provides morphology induction results that rival a current state-of-the-art system.",
+                    "llm_description": "This study presents a knowledge-free algorithm for inducing morphology by leveraging Latent Semantic Analysis (LSA) to identify semantic relationships between words. Traditional computational morphological analyzers rely heavily on human intervention and stem-and-affix statistics, which can lead to inaccuracies and omissions in morphological parsing. The proposed algorithm circumvents these issues by automatically generating potential affixes from a corpus, identifying word pairs with related semantics, and validating morphological relations without prior linguistic information. When compared to the state-of-the-art system Linguistica, the algorithm demonstrates comparable or superior performance, indicating that semantics alone can effectively contribute to automatic morphology induction.",
+                    "llm_comparison_tally": {
+                        "Human": 0,
+                        "LLM": 2,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "improved_automatic_keyword_extra",
+                    "human_description": "Improved Automatic Keyword Extraction Given More Linguistic Knowledge\n\nIn this paper, experiments on automatic extraction of keywords from abstracts using a supervised machine learning algorithm are discussed. The main point of this paper is that by adding linguistic knowledge to the representation (such as syntactic features), rather than relying only on (such as term frequency and grams), a better result is obtained as measured by keywords previously assigned by professional indexers. In more detail, exgives a better precithan and by adding the tag(s) assigned to the term as a feature, a dramatic improvement of the results is obtained, independent of the term selection approach applied.",
+                    "llm_description": "This paper explores the improvement of automatic keyword extraction using a supervised machine learning approach. The study examines three term selection methods (n-grams, noun phrase chunks, and part-of-speech tag sequences) and four features (term frequency, collection frequency, relative position of the first occurrence, and part-of-speech tags) to identify discriminative characteristics of keywords. By incorporating more linguistic knowledge, specifically part-of-speech tags, the research demonstrates enhanced performance in keyword assignment. The methodology is tested on a corpus of 2,000 English abstracts, leading to a more effective and linguistically informed system for automatic keyword extraction.",
+                    "llm_comparison_tally": {
+                        "Human": 0,
+                        "LLM": 2,
+                        "Invalid": 0
+                    }
+                },
+                {
+                    "title": "the_icsi_meeting_recorder_dialog",
+                    "human_description": "The ICSI Meeting Recorder Dialog Act (MRDA) Corpus\n\n2 Data We describe a new corpus of over 180,000 handannotated dialog act tags and accompanying adjacency pair annotations for roughly 72 hours of speech from 75 naturally-occurring meetings. We provide a brief summary of the annotation system and labeling procedure, inter-annotator reliability statistics, overall distributional statistics, a description of auxiliary files distributed with the corpus, and information on how to obtain the data.",
+                    "llm_description": "This paper presents the ICSI Meeting Recorder Dialog Act Corpus, which includes over 180,000 hand-annotated dialog act tags and adjacency pair annotations for approximately 72 hours of naturally occurring meetings. The paper describes the annotation system, reliability statistics, distributional statistics, and how to access the data. It contributes to the study of discourse phenomena in spontaneous multi-party meetings.",
+                    "llm_comparison_tally": {
+                        "Human": 0,
+                        "LLM": 2,
+                        "Invalid": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

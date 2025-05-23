@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Sakigake!! Otokojuku",
+    "descriptions": [
+        "Sakigake!! Otokojuku is a Japanese anime film released in 2008. The movie is based on the manga of the same name created by Tsukasa Hojo, who is also known for his work on the manga series \"Slam Dunk.\"\n\nThe story takes place in the late 19th century and revolves around a unique school called Otokojuku, which is an all-male boarding school that trains boys to become strong and disciplined individuals. The school is headed by a strict and demanding principal named Mataemon Matsumae, who believes in instilling the values of martial arts, self-discipline, and loyalty in his students.\n\nThe main character of the movie is a young boy named Kintarou Toi, who is a hot-headed and impulsive individual. Kintarou is a transfer student from a different school and is initially struggling to adapt to the strict rules and harsh environment of Otokojuku. However, under the guidance of Principal Matsumae and the school's instructors, Kintarou begins to learn the value of hard work, discipline, and teamwork.\n\nAs Kintarou progresses through the school, he faces various challenges and obstacles, including fierce rivalries with other students, physical and mental hardships, and difficult decisions that test his character. Along the way, he also forms close bonds with his fellow students, including a group of friends who share similar values and aspirations.\n\nThroughout the movie, the themes of camaraderie, perseverance, and self-discovery are emphasized, as Kintarou and his friends navigate the challenges of school life and learn valuable lessons about the importance of working together and supporting one another.\n\nThe animation and action sequences in Sakigake!! Otokojuku are impressive and well-choreographed, with a focus on martial arts and physical combat. The soundtrack is also noteworthy, with a rousing score that complements the movie's energetic and inspiring tone.\n\nOverall, Sakigake!! Otokojuku is a compelling and entertaining anime film that explores themes of friendship, growth, and self-improvement. With its engaging characters, exciting action sequences, and inspiring story, it is a movie that will appeal to fans of anime and martial arts alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "6b4ecb75b471a58fa4d2e6a1a6486423",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 891.0 words or less.\n\n---\n\n**Title:**\n\nSakigake!! Otokojuku\n\n**Year:**\n\n2008",
+    "include_year": false
+}

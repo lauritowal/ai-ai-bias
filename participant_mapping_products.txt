@@ -1,0 +1,8 @@
+Participant ID mapping for Products:
+Omitting 1: Autochthon
+Omitting 2: Mateusz
+Omitting 3: Ola Hadrian
+Omitting 4: Verča
+Omitting 5: aknah
+Omitting 6: janpro
+Omitting 7: marta_st

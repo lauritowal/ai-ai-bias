@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Julai",
+    "descriptions": [
+        "\"Julai\" is a 2012 Indian Telugu action comedy film directed by Trivikram Srinivas. The movie follows the story of a man named Ravindra (played by Allu Arjun), who is an expert in stealing cars. He is known for his skills and is sought after by many for his ability to get any car. One day, Ravindra is approached by a wealthy businessman named Bittu (played by Sonu Sood) to steal a luxurious car for him. Ravindra agrees to the job, but things take a turn for the worse when he realizes that the car belongs to a powerful politician named Pappi (played by Rajendra Prasad).\n\nAs Ravindra tries to escape with the car, he is chased by Pappi's goons and the police. In a series of thrilling car chases and action-packed sequences, Ravindra manages to outsmart his pursuers and evade capture. Along the way, he meets a woman named Madhu (played by Ileana D'Cruz), who is also on the run from Pappi's men. Together, they form an unlikely alliance and work together to outwit their enemies.\n\nAs the story unfolds, it is revealed that Bittu has a personal vendetta against Pappi and is using Ravindra to exact his revenge. Ravindra finds himself caught in the middle of a dangerous game of cat and mouse, where his skills are put to the ultimate test. With the help of Madhu and his quick thinking, Ravindra must navigate the dangerous world of crime and corruption to come out on top.\n\nAs the stakes get higher and the danger increases, Ravindra must use all of his cunning and resourcefulness to stay one step ahead of his enemies. With thrilling action sequences, witty dialogues, and a touch of comedy, \"Julai\" is a rollercoaster ride of excitement and entertainment. In the end, Ravindra must confront his past and make a choice that will change his life forever.\n\n\"Julai\" is a gripping tale of redemption, revenge, and the power of friendship. With its fast-paced plot, dynamic characters, and heart-pounding action, the movie keeps viewers on the edge of their seats until the very end. It is a must-watch for fans of action movies and thrillers, as it delivers on all fronts and leaves a lasting impression on its audience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7f66f6a76caab484f24662d5e2d3afd4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 785.0 words or less.\n\n---\n\n**Title:**\n\nJulai\n\n**Year:**\n\n2012",
+    "include_year": false
+}

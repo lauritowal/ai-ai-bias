@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "White Wedding",
+    "descriptions": [
+        " In the 1989 romantic comedy \"White Wedding,\" Elizabeth, a successful fashion designer, is about to marry her wealthy fiancé, Hugh, in a lavish ceremony. However, Elizabeth's past love, Nick, a charming but penniless musician, unexpectedly returns to town. As Elizabeth and Nick reconnect, old feelings resurface, causing Elizabeth to question her impending nuptials.\n\nMeanwhile, Hugh becomes increasingly suspicious of Elizabeth's past with Nick, leading to a series of comedic misunderstandings and confrontations. Elizabeth's flamboyant mother, a socialite who values appearances over genuine happiness, pressures her to go through with the wedding, fearing the scandal that would ensue if the marriage fell apart.\n\nAs the wedding day approaches, Elizabeth must decide whether to follow her heart or bow to societal expectations. In the end, she chooses love over wealth, leaving Hugh at the altar to reunite with Nick. The film ends on a hopeful note, with Elizabeth and Nick embracing and the promise of a life filled with love and music.\n\n\"White Wedding\" is a lighthearted exploration of the choices we make in the name of love and the importance of following one's heart."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "73007e000a4ba5fce2c777252f0a7cf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 226.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989",
+    "include_year": false
+}

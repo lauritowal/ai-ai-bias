@@ -1,0 +1,51 @@
+{
+    "item_type": "proposal",
+    "title": "Developing and delivering neurocomputational models to bridge between brain and mind.",
+    "descriptions": [
+        {
+            "proposal_name": "Developing and delivering neurocomputational models to bridge between brain and mind",
+            "proposal_details": {
+                "field_of_study": "Cognitive Neuroscience",
+                "aims": [
+                    "Understand the nature of mental processes",
+                    "Understand how mental processes arise from neural machinery",
+                    "Establish the basis of neurological patients' impairments",
+                    "Improve clinical management and treatment of neurological patients"
+                ],
+                "components": [
+                    "Investigating complex mental behaviours and underlying cognitive processes",
+                    "Mapping neural systems and their function",
+                    "Developing methods and tools to bridge brain and mental behaviour"
+                ],
+                "main_activities": [
+                    "Convergence of methods",
+                    "Development of a new type of neurocomputational model"
+                ],
+                "methods": [
+                    "Experimental psychology",
+                    "Behavioural neurology",
+                    "In vivo neuroimaging",
+                    "Allied technologies"
+                ],
+                "goals": [
+                    "Secure methods and tools for systematic bridging between cognitive science and systems neuroscience",
+                    "Plan and execute neuroscience and cognitive methods simultaneously",
+                    "Force a convergence of results",
+                    "Provide a novel formalism for bridging between brain and cognition"
+                ],
+                "utilization_of_computational_models": [
+                    "Mimic normal and impaired behaviour",
+                    "Connect neuroanatomy and cognition"
+                ],
+                "descriptions": [
+                    "The project aims to create neurocomputational models that reflect systems-level neuroanatomy and function, retaining the ability to simulate detailed cognitive behaviour."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9c220b5787ce1aed4e5ffe5a52f8d717",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nDeveloping and delivering neurocomputational models to bridge between brain and mind.\n\n**Description:**\n\nThe promise of cognitive neuroscience is truly exciting – to link mind and brain in order to reveal the neural basis of higher cognitive functions. This is crucial, scientifically, if we are to understand the nature of mental processes and how they arise from neural machinery but also, clinically, if we are to establish the basis of neurological patients’ impairments, their clinical management and treatment. Cognitive-clinical neuroscience depends on three ingredients: (a) investigating complex mental behaviours and the underlying cognitive processes; (b) mapping neural systems and their function; and (c) methods and tools that can bridge the gap between brain and mental behaviour. Experimental psychology and behavioural neurology has delivered the first component. In vivo neuroimaging and other allied technologies allow us to probe and map neural systems, their connectivity and neurobiological responses. The principal aim of this ERC Advanced grant is to secure, for the first time, the crucial third ingredient – the methods and tools for bridging systematically between cognitive science and systems neuroscience. The grant will be based on two main activities: (i) convergence of methods – instead of employing each neuroscience and cognitive method independently, they will be planned and executed simultaneously to force a convergence of results; and (ii) development of a new type of neurocomputational model - to provide a novel formalism for bridging between brain and cognition. Computational models are used in cognitive science to mimic normal and impaired behaviour. Such models also have an as-yet untapped potential to connect neuroanatomy and cognition: latent in every model is a kind of brain-mind duality – each model is based on a computational architecture which generates behaviour. We will retain the ability to simulate detailed cognitive behaviour but simultaneously make the models’ architecture reflect systems-level neuroanatomy and function."
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Belles of St Trinian's",
+    "descriptions": [
+        "**Plot Summary for \"The Belles of St. Trinian's\" (1954):**\n\nIn the 1950s, St. Trinian’s, an all-girls' boarding school in England, is known for its unconventional and rebellious students. The story centers around a group of spirited and mischievous girls who are determined to throw an unforgettable party, despite their strict headmistress, Miss Travers, and the school’s rules.\n\nWhen the girls get their hands on a large sum of money, they plan an extravagant celebration, but their scheme is interrupted by an unexpected visit from a group of lecherous men who take a keen interest in the girls. The headmistress, Miss Travers, is unaware of the girls' plans and warns them about the dangers that come with such a party. However, the girls, led by the charismatic and clever Nelly, decide to proceed with their plans despite the warnings.\n\nAs the party unfolds, the girls’ antics attract the unwanted attention of the men, leading to a series of humorous and chaotic events. Miss Travers, who has been observing the party from a distance, is forced to intervene to save the girls from the men’s advances and the potentially disastrous consequences of their party. In the end, the girls manage to outsmart the men, and Miss Travers, impressed by their bravery, decides to allow them a bit more freedom. The movie concludes with a bonding moment among the girls as they reflect on their adventure and the lessons they’ve learned about friendship and independence.\n\nThis film is a classic example of 1950s British comedy, blending humor with a touch of charm and featuring the iconic cast of the time, including Hermione Baddeley and Margaret Lockwood."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "4f55ff012326071023fbadcbb0fa1382",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 432.0 words or less.\n\n---\n\n**Title:**\n\nThe Belles of St Trinian's\n\n**Year:**\n\n1954",
+    "include_year": false
+}

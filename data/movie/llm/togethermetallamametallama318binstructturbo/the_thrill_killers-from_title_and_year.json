@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Thrill Killers",
+    "descriptions": [
+        "The Thrill Killers is a 1964 American crime comedy film directed by Jerry Paris. The film is a lighthearted take on a serious topic, focusing on a group of young people who get caught up in a murder plot.\n\nThe story begins with a group of friends who are bored and looking for thrills in their mundane lives. They stumble upon a wealthy and eccentric businessman, Mr. Smith (played by Milton Parsons), who is being blackmailed by a former lover. The group sees an opportunity to make some money and get their thrills by helping Mr. Smith to get rid of his blackmailer.\n\nHowever, things quickly go awry as the group becomes embroiled in a complex web of deceit and murder. They are aided by a bumbling detective, Captain O'Hara (played by Jack Weston), who is more interested in solving a coffee shop robbery than a murder plot.\n\nAs the body count rises, the group begins to turn on each other, and the detective starts to get closer to the truth. Despite the chaos and mayhem, the film maintains a lighthearted and comedic tone, poking fun at the excesses of the wealthy and the absurdity of the situation.\n\nThe cast includes a talented group of young actors, including Stefanie Powers, Robert Morse, and Ron Howard, who was just starting his career at the time. The film's witty dialogue and comedic performances make it a charming and entertaining watch, despite its somewhat dated and far-fetched plot.\n\nOverall, The Thrill Killers is a fun and lighthearted film that explores the consequences of playing with fire and the dangers of getting caught up in a murder plot. With its talented cast and witty dialogue, it's a great example of a 1960s comedy that still holds up today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "072836b242636eaa6fb77361b53fd618",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 556.0 words or less.\n\n---\n\n**Title:**\n\nThe Thrill Killers\n\n**Year:**\n\n1964",
+    "include_year": false
+}

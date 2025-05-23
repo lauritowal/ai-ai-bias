@@ -1,0 +1,112 @@
+{
+    "item_type": "product",
+    "title": "Legendary Whitetails Men's Buck Camp Flannel, Long Sleeve Plaid Button Down Casual Shirt, Corduroy Cuffs",
+    "descriptions": [
+        {
+            "product_name": "Legendary Whitetails Men's Buck Camp Flannel",
+            "product_details": {
+                "sleeve_length": "Long Sleeve",
+                "pattern": "Plaid",
+                "closure_type": "Button Down",
+                "collar_style": "Corduroy Lined Collar",
+                "cuff_style": "Corduroy Cuffs",
+                "material": "100% Cotton",
+                "origin": "Imported",
+                "fit": "Relaxed Fit",
+                "size_chart": "Refer to size chart",
+                "back_style": "Double-pleated",
+                "movement": "Ease of movement without pulling or tugging",
+                "care_instructions": "Follow for optimal shrinkage management",
+                "fabric_weight": "5.1 ounce",
+                "suitability": "Layering or standalone wear",
+                "settings": "Indoors and out",
+                "durability": "Pill-resistant",
+                "maintenance": "Fade-resistant",
+                "design_feature": "Classic single pocket with pencil slot"
+            }
+        },
+        {
+            "product_name": "Legendary Whitetails Men's Buck Camp Flannel, Long Sleeve Plaid Button Down Casual Shirt, Corduroy Cuffs",
+            "product_details": {
+                "material": "100% Cotton",
+                "imported": true,
+                "fit": "Relaxed",
+                "size_chart_reference": true,
+                "design": {
+                    "double_pleated_back": true,
+                    "chest_waist_highlight": true
+                },
+                "care_instructions": "Follow for optimal shrinkage management",
+                "quality": {
+                    "fabric_type": "soft brushed cotton flannel",
+                    "weight": "5.1 ounces",
+                    "layering_suitable": true,
+                    "pill_resistant": true,
+                    "fade_resistant": true
+                },
+                "style": {
+                    "plaid": true,
+                    "pocket_design": "single",
+                    "pencil_slot": true
+                },
+                "cuffs_collar": {
+                    "material": "corduroy",
+                    "lined": true
+                }
+            }
+        },
+        {
+            "product_name": "Legendary Whitetails Men's Buck Camp Flannel",
+            "product_details": {
+                "sleeve_length": "Long Sleeve",
+                "pattern": "Plaid",
+                "closure_type": "Button Down",
+                "shirt_type": "Casual Shirt",
+                "material": "100% Cotton",
+                "origin": "Imported",
+                "fit": "Relaxed Fit",
+                "features": {
+                    "size_chart_reference": true,
+                    "double_pleated_back": true,
+                    "ease_of_movement": true,
+                    "care_instructions": "Optimal shrinkage management"
+                },
+                "quality": {
+                    "fabric_type": "Soft brushed cotton flannel",
+                    "weight": "5.1 ounces",
+                    "layering_suitability": "Ideal for layering or standalone wear",
+                    "indoor_outdoor_use": true,
+                    "pill_resistance": true,
+                    "consistency": "Sharp look and lasting comfort"
+                },
+                "design": {
+                    "authenticity": "True to images",
+                    "comfort": "Immediate out of box comfort",
+                    "break_in_period": "None required",
+                    "fade_resistance": true
+                },
+                "style": {
+                    "pocket_design": "Classic single pocket",
+                    "storage_options": [
+                        "Pencil slot",
+                        "Safeguarding sunglasses"
+                    ]
+                },
+                "additional_details": {
+                    "corduroy_lined": {
+                        "cuffs": true,
+                        "collar": true
+                    },
+                    "durability": "Enhanced by corduroy lining",
+                    "shape_maintenance": true
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f67bc40d724653dbe03bef7dcce8dc34",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Legendary Whitetails Men's Buck Camp Flannel, Long Sleeve Plaid Button Down Casual Shirt, Corduroy Cuffs\n\nDescription: 100% Cotton\n\nImported\n\n[Relaxed Fit]: Refer to our size chart for the ideal fit; The Buck Camp Flannel is designed to highlight the chest and waist, offering a comfortable yet stylish shape; Its double-pleated back ensures ease of movement without any pulling or tugging; Adhere to care instructions for optimal shrinkage management\n\n[Quality of Material]: Legendary Whitetails flannel shirt for men, recognized for its top-tier quality, is crafted from 100% soft brushed cotton flannel and promises warmth and breathability; This 5.1 ounce Buck Camp Flannel Shirt is ideally weighted for layering or standalone wear, indoors and out; Beyond its softness, its pill-resistant premium fabric quality ensures a consistently sharp look and lasting comfort\n\n[Authentic Designs]: Our plaid shirt men's designs stay true to their images, ensuring you get exactly what you see; immediate out of box comfort with no need for a \"break-in\" period; Its fade-resistant fabric ensures your men's flannel long sleeve shirt looks as vibrant as day one, wash after wash\n\n[Traditional Style]: The classic single pocket design gives you a clean look while providing an option for storage; use the pencil slot to hold your pencil when scoring on the range or safeguarding your sunglasses\n\n[Corduroy Lined Cuffs & Collar]: Experience the classic touch of quintessential corduroy lining in our flannel shirt for men; not only does it enhance durability, but it also ensures the collar and cuffs maintain their shape",
+    "__pydantic_initialised__": true
+}

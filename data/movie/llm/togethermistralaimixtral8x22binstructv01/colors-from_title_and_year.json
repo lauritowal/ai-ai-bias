@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Colors",
+    "descriptions": [
+        " In the 2009 film \"Colors,\" director and writer K. Rajeshwar takes us on a thrilling journey through the lives of two brothers, Kannan and Thamizh, who are as different as night and day. Set in the vibrant city of Chennai, the story revolves around the brothers' tumultuous relationship and their involvement in the criminal underworld.\n\nKannan, the older brother, is a ruthless gangster with a heart of gold, while Thamizh is an idealistic police officer determined to bring his brother to justice. Despite their conflicting loyalties, the brothers share an unbreakable bond and a deep sense of duty towards their family.\n\nThe plot thickens when Kannan's gang becomes embroiled in a turf war with a rival syndicate, and Thamizh is assigned to investigate the escalating violence. As tensions rise and loyalties are tested, the brothers find themselves on a collision course that could tear their family apart.\n\n\"Colors\" is a gripping tale of brotherhood, loyalty, and the blurred lines between right and wrong. As the story unfolds, we see how the vibrant hues of Chennai's streets serve as a backdrop for the brothers' complex lives, with the city's diverse cultures and traditions adding depth and richness to the narrative.\n\nWith its powerful performances, intense action sequences, and poignant emotional moments, \"Colors\" is a cinematic tour de force that will leave viewers spellbound. As the brothers navigate their way through a world of violence, betrayal, and redemption, they must ultimately decide where their true loyalties lie and what it means to be a man of honor in a city ruled by chaos."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "9300432e31407304ee60f2088835aefd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nColors\n\n**Year:**\n\n2009",
+    "include_year": false
+}

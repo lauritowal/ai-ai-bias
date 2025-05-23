@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rudraveena",
+    "descriptions": [
+        "Rudraveena is a 1988 Indian Telugu-language film. The movie revolves around Suryam (Chiranjeevi), a young man who returns to his village after completing his education. He witnesses the suffering of the people in his village due to the corrupt and oppressive practices of the local landlord. \n\nSuryam decides to take a stand against the landlord and begins a movement to unite the villagers against him. Along the way, he forms a close bond with a local woman, Lakshmi. The film takes its title from the Rudraveena, an ancient Indian stringed instrument, which plays a crucial role in Suryam's journey.\n\nAs Suryam's movement gains momentum, he and the villagers face numerous challenges and obstacles. Through his struggles, Suryam comes to realize the importance of fighting for what is right and the power of unity in bringing about change. The film features a mix of action, drama, and romance, and showcases Chiranjeevi's signature style and charm."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "540715a47fbcf755ac393c9609058246",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 213.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988",
+    "include_year": false
+}

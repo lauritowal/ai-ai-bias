@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stolen Holiday",
+    "descriptions": [
+        "'Stolen Holiday' is a 1937 American drama film directed by Michael Curtiz. The movie is about a woman named Stella Delaney (Kay Francis), who is an international fashion designer and owner of a successful fashion house in Paris. Stella meets a charming and handsome playboy named Anthony 'Tony' Gates (Claude Rains). Despite the warnings from her friends and colleagues, Stella falls for Tony, and the two eventually get married.\n\nHowever, things take a turn when Stella discovers Tony's true intentions. It turns out that Tony is deeply in debt and plans to use Stella's wealth to pay off his creditors. As the relationship progresses, Stella becomes increasingly disillusioned with Tony's manipulative behavior and his lack of genuine love for her.\n\nStella decides to take drastic measures to protect her business and her heart from Tony's schemes. She devises a plan to keep her assets safe and, at the same time, teach Tony a lesson about his unfaithfulness and lack of integrity. In the process, Stella finds a new love interest and ultimately gains a sense of independence and self-worth.\n\n'Stolen Holiday' is a classic tale of love, betrayal, and self-discovery, set against the backdrop of the glamorous world of high fashion in 1930s Paris."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c09921acee0c38276011296cc44a28ea",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 272.0 words or less.\n\n---\n\n**Title:**\n\nStolen Holiday\n\n**Year:**\n\n1937",
+    "include_year": false
+}

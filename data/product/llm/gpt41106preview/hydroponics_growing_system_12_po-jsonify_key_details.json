@@ -1,0 +1,116 @@
+{
+    "item_type": "product",
+    "title": "Hydroponics Growing System, 12 Pods Hydroponics Growing System Indoor Garden with LED Grow Light, Height Adjustable Indoor Gardening System, Hydroponic Growing System Built-in Timer Function",
+    "descriptions": [
+        {
+            "product_name": "Hydroponics Growing System, 12 Pods Hydroponics Growing System Indoor Garden with LED Grow Light",
+            "product_details": {
+                "LED_Grow_Light": {
+                    "Technology": "SMD LED",
+                    "Power": "25W",
+                    "Feature": "Full-spectrum",
+                    "Benefit": "30% more luminous flux than traditional, speeds up growth by 5x"
+                },
+                "Water_Circulation_System": {
+                    "Technique": "Advanced Deep Flow",
+                    "Cycle": "Every 30 minutes",
+                    "Noise_Level": "Low"
+                },
+                "Water_Tank": {
+                    "Capacity": "4L",
+                    "Feature": "Self-sufficient growth for 18 days",
+                    "Water_Level_Gauge": true
+                },
+                "Adjustable_Height": {
+                    "Maximum_Extension": "17.78 inches"
+                },
+                "Package_Contents": {
+                    "Hydroponics_System": 1,
+                    "Plant_Food_A_and_B": 1,
+                    "Planting_Hat": 12,
+                    "Planting_Basket": 12,
+                    "Biochar_Mud": 12,
+                    "Adapter": 1,
+                    "Manual": 1
+                },
+                "Warranty_and_Support": {
+                    "Warranty_Period": "360 days",
+                    "After_Sales_Service": "Available"
+                }
+            }
+        },
+        {
+            "product_name": "Hydroponics Growing System, 12 Pods Hydroponics Growing System Indoor Garden with LED Grow Light",
+            "product_details": {
+                "lighting": {
+                    "technology": "SMD LED",
+                    "power": "25W",
+                    "features": "full-spectrum, 30% more luminous flux than traditional lights",
+                    "growth_acceleration": "speed up growth by 5x"
+                },
+                "water_system": {
+                    "technique": "Advanced Deep Flow",
+                    "cycle": "every 30 minutes",
+                    "water_pump_features": "low noise, keeps water fresh and clean"
+                },
+                "water_tank": {
+                    "capacity": "4L",
+                    "self-sufficiency": "18 days",
+                    "features": "larger space for roots, water level gauge"
+                },
+                "grow_capacity": {
+                    "extendable_rod_height": "17.78 inches",
+                    "variety": "supports various plant types"
+                },
+                "package_includes": {
+                    "hydroponics_system": 1,
+                    "plant_food": 1,
+                    "planting_hat": 12,
+                    "planting_basket": 12,
+                    "biochar_mud": 12,
+                    "adapter": 1,
+                    "manual": 1
+                },
+                "warranty_and_support": {
+                    "warranty_period": "360 days",
+                    "after_sales_service": "available"
+                }
+            }
+        },
+        {
+            "product_name": "Hydroponics Growing System, 12 Pods",
+            "product_details": {
+                "light_technology": "SMD LED",
+                "light_power": "25W",
+                "light_spectrum": "Full-spectrum",
+                "growth_speed_increase": "5x",
+                "auto_water_circulation": {
+                    "technique": "Advanced Deep Flow Technique",
+                    "cycle": "Every 30 minutes",
+                    "noise_level": "Low"
+                },
+                "water_tank_capacity": "4L",
+                "self_sufficient_growth_period": "18 days",
+                "height_adjustable": true,
+                "height_adjustment_range": "Up to 17.78 inches",
+                "built_in_timer": true,
+                "included_items": {
+                    "hydroponics_system": 1,
+                    "plant_food_a_b": 1,
+                    "planting_hat": 12,
+                    "planting_basket": 12,
+                    "biochar_mud": 12,
+                    "adapter": 1,
+                    "manual": 1
+                },
+                "warranty_period_days": 360
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2e406d2f7396a3f2968ebc114a83fe01",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Hydroponics Growing System, 12 Pods Hydroponics Growing System Indoor Garden with LED Grow Light, Height Adjustable Indoor Gardening System, Hydroponic Growing System Built-in Timer Function\n\nDescription: Better Light, Faster Growth: Adapting the newest SMD LED technology with full-spectrum light technique, hydroponics growing system 64 LED 25W grow light delivers all the wavelengths needed for plant growth. The indoor garden SMD LED grow light delivers 30% more luminous flux than traditional grow light for plants to maximize photosynthesis and speed up growth by 5x, while it also creates a perfect temperature, allowing plants to germinate and grow quickly, even in winter.\n\nQuiet Auto Water Circulation System: Advanced Deep Flow Technique is applied for the hydroponic garden, professional water pump runs every 30 minutes to generate a regular water flow, creating a perfect ecosystem for roots. In this technique, oxygen and nutrients are better delivered to the roots, allowing plants to grow faster and healthier. The water pump also keeps the water fresh and clean while operating with extremely low noise.\n\nFree from Constant Watering: Surprise yourself with 18 days of self-sufficient growth in just 1 watering, guaranteed by Indoor Garden's 4L ultra-large water tank and exclusive formula nutrients. Its unique deeper tank provides larger space for roots to develop and breath, while the escalated plant foods provide all the nutrients plants need and improve the water quality to keep plants fresh. With its water level gauge, you can know at a glance when to add water.\n\nGrow All You Want: Don't just stop at strawberry, with the 17.78inch extendable rod. Grow ANYTHING you love with our indoor garden even in bitterly cold winter and in apartments without ample sunlight.\n\nWhat You Will Get：Hydroponics System x1, Plant Food A&B x1, Pianting Hat x12, Planting Basket x12, Biochar Mud x12, Adapter x1, Manual x1. We will provide you with 360 days warranty and after-sales service. If you have any questions about hydroponic gardens, you can consult us at any time.",
+    "__pydantic_initialised__": true
+}

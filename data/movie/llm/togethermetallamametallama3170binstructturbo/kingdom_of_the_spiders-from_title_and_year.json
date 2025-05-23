@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kingdom of the Spiders",
+    "descriptions": [
+        "Kingdom of the Spiders is a 1977 American science fiction horror film directed by John 'Bud' Cardos. The movie takes place in a small Arizona town, where a mysterious and deadly spider infestation begins to wreak havoc.\n\nThe story revolves around Dr. Robert \"Rack\" Hansen (played by William Shatner), an entomologist who specializes in arachnids. He is called to investigate the strange occurrence of aggressive and deadly tarantulas appearing in the area. Hansen teams up with a local veterinarian, Diane Ashley (played by Tiffany Bolling), to uncover the cause of the sudden spider infestation.\n\nAs they delve deeper into the mystery, they discover that the spiders have been affected by the use of pesticides, which has caused them to become more aggressive and deadly. The situation escalates, and the town is overrun by the spiders, forcing the residents to take drastic measures to survive.\n\nThe movie takes a turn for the worse when the spiders begin to gather in a massive swarm, threatening to engulf the entire town. In a desperate attempt to stop the spiders, Hansen and Ashley develop a plan to use a flamethrower to destroy the spiders.\n\nKingdom of the Spiders is an entertaining and suspenseful horror film that features impressive practical effects and a gripping storyline. The film's tension builds steadily throughout, culminating in a thrilling climax that showcases the deadly and terrifying power of the tarantulas. The movie has become a cult classic among fans of science fiction and horror, and its blend of science and horror elements has made it a staple of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c4990eaf203538c639735f738f012eaa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 806.0 words or less.\n\n---\n\n**Title:**\n\nKingdom of the Spiders\n\n**Year:**\n\n1977",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "'Til There Was You",
+    "descriptions": [
+        " 'Til There Was You (1997) is a romantic comedy-drama that intertwines the lives of two individuals, Gwen and Nick, who were seemingly destined to be together. The film explores their journey towards finding each other, despite the numerous obstacles and missed connections that life throws their way.\n\nGwen, played by Jeanne Tripplehorn, is an architect who becomes disillusioned with her career when she discovers that one of her designs, a supposedly eco-friendly housing development, has contributed to the destruction of a much-loved community garden. Meanwhile, Nick (Dylan McDermott) is a successful architect who, after suffering a near-death experience, begins to question his own happiness and the choices he has made in life.\n\nAs viewers are taken through the parallel lives of Gwen and Nick, they witness a series of near-misses and fleeting encounters that hint at a deeper connection between the two. At the heart of their stories lies a mysterious red envelope, which contains a letter that Gwen wrote to an unknown recipient years ago. The letter, filled with her hopes and dreams, ultimately serves as a catalyst that brings the pair together.\n\nThroughout the film, Gwen and Nick cross paths with a diverse cast of characters, including Gwen's ex-boyfriend and fellow architect, Francis (John Plumpis), who is responsible for the demolition of the community garden; Nick's free-spirited sister, Debbie (Jennifer Aniston); and a charming, yet enigmatic taxi driver named Jon Haas (Sarah Jessica Parker), who becomes involved in the search for the letter's recipient.\n\nAs the narrative unfolds, Gwen and Nick's lives become increasingly intertwined, with each character's personal growth and self-discovery playing a significant role in their eventual union. By the film's end, the audience is left with a heartwarming tale of love and serendipity, reminding them that sometimes, fate has a way of bringing people together, even when it seems like all hope is lost."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "3486bd9a5a391ebc5aa27b63f8f61c91",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 340.0 words or less.\n\n---\n\n**Title:**\n\n'Til There Was You\n\n**Year:**\n\n1997",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Breezy",
+    "descriptions": [
+        "\"Breezy\" is a 1973 romantic drama film directed by Clint Eastwood. The story follows the unconventional romance between an older man, Frank Harmon, and a young, free-spirited woman named Edith Alice Breezerman, known as Breezy. \n\nThe film begins with Breezy hitchhiking her way through Los Angeles, exuding a carefree and adventurous spirit. She catches the eye of Frank, a middle-aged real estate agent who is going through a divorce and feeling disillusioned with his life. Despite their age difference, Frank is drawn to Breezy's youthful energy and zest for life.\n\nAs Frank and Breezy spend more time together, a deep connection forms between them. Frank begins to see the world through Breezy's eyes, rediscovering the beauty and joy in simple pleasures. Breezy, in turn, finds in Frank a stability and wisdom that she has been missing in her life.\n\nTheir relationship faces challenges as they navigate societal judgment and personal insecurities. Frank's friends and family disapprove of his relationship with Breezy, seeing her as an immature and irresponsible young woman. Breezy, on the other hand, struggles with her own feelings of inadequacy and fear of commitment.\n\nDespite these obstacles, Frank and Breezy's love continues to grow. They find solace in each other's company, sharing intimate moments and deep conversations. Frank learns to let go of his preconceived notions of age and maturity, realizing that love knows no boundaries. Breezy, in turn, discovers a sense of belonging and acceptance in Frank's arms.\n\nAs their bond deepens, Frank and Breezy are forced to confront their own fears and insecurities. Frank must confront his own mortality and the judgments of society, while Breezy must overcome her fear of settling down and facing the realities of adult life.\n\nIn the end, Frank and Breezy's love transcends societal norms and personal doubts. They find happiness in each other's arms, embracing the freedom and joy that their relationship brings. \"Breezy\" is a poignant and heartfelt exploration of love, acceptance, and the beauty of human connection, reminding us that age is just a number when it comes to matters of the heart."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "d92445e4eadf3a00aeecd65cb4c8bc44",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 973.0 words or less.\n\n---\n\n**Title:**\n\nBreezy\n\n**Year:**\n\n1973",
+    "include_year": false
+}

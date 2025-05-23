@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daddy Cool",
+    "descriptions": [
+        "In the 2009 film \"Daddy Cool,\" we follow the story of a widower named Steven who struggles to connect with his teenage daughter, Sherry. Despite his best efforts, their relationship is strained as Sherry rebels against his strict rules and attempts to navigate her own path in life. Things take a turn for the worse when Steven discovers that Sherry is dating a much older man named Jack, who he strongly disapproves of.\n\nAs tensions rise between father and daughter, Steven decides to take matters into his own hands and goes to extreme lengths to break up Sherry's relationship with Jack. However, his meddling only pushes Sherry further away and causes a rift between them. It is only when Steven realizes the error of his ways and learns to listen to Sherry's perspective that they are able to mend their fractured relationship.\n\nThrough humor and heartwarming moments, \"Daddy Cool\" explores the complexities of parent-child relationships and the importance of communication and understanding. The film ultimately delivers a message of love, forgiveness, and the unbreakable bond between a father and his daughter."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "0a1b41ca8b850243987cd2bca5649dd9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 219.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Billy Two Hats",
+    "descriptions": [
+        "\"Billy Two Hats\" is a western film from 1974 directed by Ted Kotcheff. The plot centers on an aging Scottish outlaw named Arch Deans (played by Gregory Peck) and his young half-Indian protégé, Billy Two Hats (played by Desi Arnaz Jr.), as they attempt to evade the law after a bank robbery goes awry.\n\nThe story begins with Deans and Billy participating in a bank robbery that results in the death of a man. Shortly after the heist, their accomplice is killed by a posse, and Deans is captured. Billy manages to escape, but instead of fleeing, he circles back to rescue Deans. The pair succeed in eluding their pursuers led by the relentless Sheriff Henry Gifford (played by Jack Warden), who is determined to bring them to justice.\n\nAs they navigate the rugged terrain, the outlaws encounter Spencer (played by John Pearce), a mean-spirited homesteader who has taken a young Native American woman, Esther (played by Dawn Little Sky), as his wife. A conflict arises when Spencer tries to claim a horse that Deans and Billy have taken. This confrontation adds another layer of danger to their journey.\n\nThroughout their escape, Deans and Billy develop a deep bond, with Deans taking on a fatherly role. The film explores themes of friendship, loyalty, and the clash of cultures in the Old West. Their relationship is tested as they must confront not only the external challenges of their situation but also their personal morals and the future they envision for themselves.\n\nUltimately, \"Billy Two Hats\" is a story of redemption and survival, offering a unique take on the Western genre by highlighting the dynamic between an unlikely pair of outlaws as they face the consequences of their criminal lives."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2d70d8da925ad0ef805759c56970e23e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 276.0 words or less.\n\n---\n\n**Title:**\n\nBilly Two Hats\n\n**Year:**\n\n1974",
+    "include_year": false
+}

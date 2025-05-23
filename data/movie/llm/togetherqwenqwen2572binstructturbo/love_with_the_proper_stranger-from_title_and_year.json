@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love with the Proper Stranger",
+    "descriptions": [
+        "\"Love with the Proper Stranger\" (1963) is a romantic drama directed by Robert Mulligan, starring Natalie Wood and Steve McQueen. The film follows Angela Rossini (Wood), a Catholic Italian-American woman, and Mike Polednik (McQueen), a Polish-American with no fixed address, who meet and form a relationship in New York City.\n\nAngela, a factory worker, is pregnant but unsure of the father, complicating her relationship with her disapproving family. Mike, a free-spirited jazz musician, is initially reluctant to settle down. Despite their differences, they develop a deep connection and face the challenges of their situation together. The film explores themes of love, commitment, and the struggles of young adults in the early 1960s. Their relationship is tested by societal pressures and personal doubts, but ultimately, they find a way to navigate their future."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "e7498e1b6d4bdc94e97e91796de867e4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 236.0 words or less.\n\n---\n\n**Title:**\n\nLove with the Proper Stranger\n\n**Year:**\n\n1963",
+    "include_year": false
+}

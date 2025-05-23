@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shaolin Chamber of Death",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Shaolin Chamber of Death,\" released in 1976, is a martial arts film that showcases the intense training and deadly combats of Shaolin monks. Directed by the legendary Chang Cheh, the movie features a gripping narrative filled with action, intrigue, and spiritual conflict.\n\nThe story revolves around three Shaolin monks—Master Wu, Master Chen, and Brother Wei—who are tasked with protecting a secret within the Shaolin Temple that could change the course of Chinese history. This secret, known as the \"Chamber of Death,\" is a hidden chamber filled with deadly traps and puzzles that only the most skilled and pure-hearted martial artists can navigate.\n\nMaster Wu, the oldest and most experienced monk, leads the group. However, as they delve deeper into the temple, they encounter a rival faction seeking to seize the chamber's power for themselves. This faction, led by the villainous and ruthless Master Li, uses deceit and betrayal to turn the monks against each other, exploiting their fears and weaknesses.\n\nAs tensions rise, Brother Wei, driven by his personal vendetta against Master Li, begins to question the other monks' loyalty. Master Chen, meanwhile, struggles with his own inner demons, torn between his duty to protect the secret and his desire to uncover the chamber's deadly truths.\n\nThe climax of the film unfolds in the Chamber of Death itself, where the monks must face their fears and test their martial arts skills against the chamber's traps and the rival faction. In a heart-pounding sequence, Brother Wei confronts Master Li in a final showdown, while Master Wu and Master Chen must find a way to work together despite their doubts and suspicions.\n\nThe movie culminates in a tense and dramatic battle within the chamber, where the true test of a Shaolin monk's character and skill is revealed. \"Shaolin Chamber of Death\" is not only a thrilling martial arts spectacle but also a tale of brotherhood, loyalty, and the pursuit of truth, set against the backdrop of one of China's most revered martial arts traditions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "cb0b927f6dcd6865a592dc2a7af26a84",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 639.0 words or less.\n\n---\n\n**Title:**\n\nShaolin Chamber of Death\n\n**Year:**\n\n1976",
+    "include_year": false
+}

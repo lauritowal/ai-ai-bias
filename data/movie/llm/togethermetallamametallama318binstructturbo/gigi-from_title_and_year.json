@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gigi",
+    "descriptions": [
+        "Released in 1958, 'Gigi' is a classic American romantic comedy film based on the 1944 novel by Colette. The movie, directed by Vincente Minnelli, is an adaptation of the original novel that focuses on the story of a young woman named Gigi.\n\nThe film takes place in Paris in the late 18th century and revolves around the life of Gigi, a free-spirited and charming young woman who lives with her grandmother, Madame Alvarez, and her aunt, Madame Boniface. Gigi's family has a long tradition of introducing young women to men, in a process known as 'finishing' them, where the girls learn the art of seduction.\n\nGigi is training to become a courtesan, but she dreams of a different life, one that is more innocent and pure. Her grandmother and aunt have big plans for her, and they intend to introduce her to Gaston Lachaille, a charming but arrogant and somewhat older man. However, Gigi is not interested in Gaston and instead falls for his nephew, Gaston's son, Gaston Lachaille Jr.\n\nAs Gigi navigates her complicated feelings, she must also deal with the societal expectations placed upon her. Her family and society expect her to become a courtesan, but Gigi longs for love and a genuine connection. The film's central theme is the struggle between tradition and individuality, as Gigi tries to find her own path in life.\n\nThe film features a talented cast, including Leslie Caron as Gigi, Maurice Chevalier as Honoré Lachaille, and Louis Jourdan as Gaston Lachaille Jr. The movie's screenplay was written by Alan Jay Lerner, and the music was composed by Frederick Loewe. The film's soundtrack features several iconic songs, including 'Thank Heavens for Little Girls' and 'I Remember It Well.'\n\nOverall, 'Gigi' is a charming and delightful film that explores themes of love, family, and identity. The movie's beautiful cinematography, memorable performances, and catchy soundtrack make it a timeless classic that continues to captivate audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a4ea1e7cca614e532cfc601845591f74",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 643.0 words or less.\n\n---\n\n**Title:**\n\nGigi\n\n**Year:**\n\n1958",
+    "include_year": false
+}

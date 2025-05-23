@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hasty Hare",
+    "descriptions": [
+        "I'm missing a year for \"The Hasty Hare\". However, I can provide a plot summary for the 1942 American animated short film \"The Hasty Hare\" directed by Chuck Jones.\n\nThe Hasty Hare is a cartoon short film set during World War II, part of the Looney Tunes series. The film follows the story of Bugs Bunny, who is being pursued by a German-accented, eccentric, and persistent Nazi agent named Elmer Fudd, or rather, 'Elmer V. Fudd, Fifth Columnist'.\n\nThe story begins with Bugs Bunny misleading a group of Allied soldiers in the desert, by giving them false directions. Meanwhile, the Nazi agent Elmer V. Fudd is tasked with catching Bugs Bunny, as he has been stealing Axis documents and disrupting their plans.\n\nThe chase begins, and Bugs, employing his cunning and quick wit, consistently outsmarts Elmer, while also insulting and taunting him. Throughout the cartoon, Bugs uses various disguises and tricks, including dressing up as a female dancer and a British officer.\n\nThe chase eventually leads the duo to an airplane, where Bugs and Elmer engage in a series of comedic battles and stunts. The cartoon ends with Bugs escaping, and Elmer getting left behind, covered in a mess of oil and feathers, shouting 'I'll get that wascally wabbit!'\n\nThe Hasty Hare is a classic example of Chuck Jones' direction and storytelling style, blending slapstick humor and satire, showcasing Bugs Bunny as a clever and likable anti-hero."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a930ab977b305831783c94684dfc68ba",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 491.0 words or less.\n\n---\n\n**Title:**\n\nThe Hasty Hare\n\n**Year:**\n\n",
+    "include_year": false
+}

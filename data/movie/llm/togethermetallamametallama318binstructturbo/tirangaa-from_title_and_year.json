@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tirangaa",
+    "descriptions": [
+        "Tirangaa is a 1992 Indian romantic drama film directed by M. Satyamurthy. The movie revolves around the life of a young woman, Geeta (played by Sridevi), and her struggles in her marriage.\n\nGeeta's husband, Ravi (played by Anil Kapoor), is a politician who is often away from home due to his work. He is torn between his duty and his love for his wife. Geeta, on the other hand, is a simple and honest woman who is deeply in love with Ravi.\n\nAs Ravi's political career advances, he becomes increasingly distant from Geeta. She is left to deal with the challenges of being a politician's wife, including the constant scrutiny and pressure. Despite her struggles, Geeta remains devoted to Ravi and hopes to rebuild their relationship.\n\nThe movie explores themes of love, sacrifice, and the challenges of married life. Through the characters of Geeta and Ravi, the film showcases the complexities and nuances of relationships in the face of societal expectations and personal aspirations.\n\nTirangaa features a strong performance from Sridevi, who brings depth and emotion to her portrayal of Geeta. The movie is a poignant and thought-provoking exploration of the human experience, and it continues to be a beloved classic in Indian cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "e29bdb8658ec308e3ca0d6c7947ebc09",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 293.0 words or less.\n\n---\n\n**Title:**\n\nTirangaa\n\n**Year:**\n\n1992",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Attack of the Killer Tomatoes",
+    "descriptions": [
+        "\"Attack of the Killer Tomatoes\" is a 1978 American science fiction comedy film directed by John De Bello and Steve Peace. The movie is a parody of popular disaster films, particularly those of the 1950s and 1960s.\n\nThe story begins with a series of bizarre and unexplained events in the small town of San Pedro, California. Tomatoes from a local vineyard begin to ripen and turn into flesh-eating monsters. The first reported victim is a farmer who is attacked and killed by one of the killer tomatoes.\n\nAs the tomatoes start to wreak havoc on the town, the government is informed and a team of scientists, led by Dr. Winton C. Goodfrey (played by David Miller), is assembled to figure out what is happening. The team discovers that the tomatoes have been genetically altered and are now capable of moving on their own, growing at an alarming rate, and killing anyone who gets in their way.\n\nMeanwhile, a small group of civilians, including Clete Roberts (played by Harvey Medler), a TV reporter, and Wilbur Finletter (played by J. Patrick McNamara), a government agent, team up to stop the killer tomatoes. They soon realize that the tomatoes are not just a natural disaster, but a government experiment gone wrong.\n\nAs the body count rises, the team of scientists and the civilians must work together to stop the killer tomatoes before they spread to other parts of the country. Along the way, they encounter a series of wacky characters, including a bumbling scientist who thinks he can tame the tomatoes with a combination of rock music and a harmonica.\n\nThe movie's climax features a showdown between the team and the killer tomatoes in a tomato-themed amusement park. In the end, the team manages to defeat the tomatoes, but not before they have caused widespread destruction and chaos.\n\n\"Attack of the Killer Tomatoes\" is a campy and entertaining movie that pokes fun at disaster films and government bureaucracy. With its over-the-top performances, silly plot twists, and humorous special effects, it has become a cult classic and a staple of 1970s B-movie nostalgia."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "04947c30c3620c8cd08d7e6f1a4b28e8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 677.0 words or less.\n\n---\n\n**Title:**\n\nAttack of the Killer Tomatoes\n\n**Year:**\n\n1978",
+    "include_year": false
+}

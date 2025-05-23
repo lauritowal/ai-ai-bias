@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Bone Snatcher",
+    "descriptions": [
+        "**The Bone Snatcher (2003)**\n\nIn a secluded, fog-shrouded village, a series of gruesome murders has left the inhabitants in a state of fear and confusion. The killer, known as \"The Bone Snatcher,\" is a mysterious figure who targets individuals with a dark past, extracting their bones as trophies. The film follows Detective Sarah Chen, a determined and skilled investigator, who is called to the village to solve the case. As she delves deeper into the community, she uncovers a web of secrets and hidden sins that connect the victims to a tragic event from years ago. The Bone Snatcher's motives become increasingly clear as Sarah discovers that the killer is seeking revenge for a long-buried injustice. With the help of a local historian and a troubled young man who may hold the key to the killer's identity, Sarah races against time to stop the Bone Snatcher before more lives are claimed. The film climaxes in a tense confrontation where the truth is revealed, and Sarah must face her own demons to bring the killer to justice."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "317777189e7492d869164b943acd2c90",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 247.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+    "include_year": false
+}

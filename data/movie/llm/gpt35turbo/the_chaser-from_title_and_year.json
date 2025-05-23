@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Chaser",
+    "descriptions": [
+        "\"The Chaser\" is a South Korean thriller film that follows the story of Joong-ho, a former detective turned pimp, who becomes desperate when his girls start mysteriously disappearing. As he investigates the disappearances, he begins to suspect that a client named Young-min is responsible. Joong-ho discovers that Young-min is a sadistic serial killer who has been murdering his girls. \n\nDetermined to catch Young-min and save his remaining girls, Joong-ho sets out on a dangerous mission to track him down. With the help of an ex-colleague and a determined young prostitute named Mi-jin, Joong-ho races against time to find Young-min before it's too late.\n\nAs Joong-ho gets closer to capturing Young-min, he discovers that the killer has been trafficking his victims to China. With the clock ticking, Joong-ho must navigate the dangerous underworld of human trafficking and confront his own dark past in order to bring Young-min to justice.\n\nThe film is a tense and gripping thriller that explores themes of redemption, justice, and the lengths one will go to protect those they care about. With intense action sequences, unexpected twists, and a powerful central performance from Kim Yoon-seok as Joong-ho, \"The Chaser\" is a thrilling and thought-provoking film that will leave viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1f954faa08091689109b8c997782cebe",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 981.0 words or less.\n\n---\n\n**Title:**\n\nThe Chaser\n\n**Year:**\n\n2008",
+    "include_year": false
+}

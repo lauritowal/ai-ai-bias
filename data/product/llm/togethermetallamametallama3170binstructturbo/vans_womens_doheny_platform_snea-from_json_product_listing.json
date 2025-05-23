@@ -1,0 +1,12 @@
+{
+    "item_type": "product",
+    "title": "Vans Women's Doheny Platform Sneaker",
+    "descriptions": [
+        "**Vans Women's Doheny Platform Sneaker**\n\n**Inspired by Classics, Built for Comfort**\n\nElevate your style with the Vans Women's Doheny Platform Sneaker, inspired by our iconic Era and Authentic designs. This sleek and modern platform sneaker combines the best of Vans' heritage with cutting-edge comfort and durability.\n\n**Key Features:**\n\n- Double-stitched uppers for increased durability and longevity\n- Signature rubber waffle outsole for a grippy, durable ride\n- Vulcanized construction for a flexible, comfortable fit\n- Increased comfort for all-day wear\n\n**Details:**\n\n- Platform height adds a stylish touch to any outfit\n- Classic Vans design with a modern twist\n- Available in a range of colors to suit your personal style\n\n**Product Specifications:**\n\n- Product Name: Vans Women's Doheny Platform Sneaker\n- Colors: [Insert available colors]\n- Sizes: [Insert available sizes]\n- Material: [Insert materials]\n- Care Instructions: [Insert care instructions]\n\n**Order Now and Experience the Comfort and Style of Vans**\n\nAdd the Vans Women's Doheny Platform Sneaker to your shoe collection today and experience the perfect blend of classic style, comfort, and durability."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "f3ff027be84fcf26cb9c84683e02fca6",
+    "generation_prompt_nickname": "from_json_product_listing",
+    "generation_prompt_text": "Write a product listing for the product described in the following JSON data summary (or summaries).\n\n---\n\n**Description:**\n\n{'product_name': \"Vans Women's Doheny Platform Sneaker\", 'product_details': {'inspiration': ['Era', 'Authentic'], 'features': {'double_stitched_uppers': 'durability', 'signature_outsole': 'rubber waffle', 'construction': 'vulcanized'}, 'comfort': 'increased'}}\n\n**Description:**\n\n{'product_name': \"Vans Women's Doheny Platform Sneaker\", 'product_details': {'inspiration': ['Era', 'Authentic'], 'features': {'uppers': 'double-stitched', 'outsoles': 'signature rubber waffle', 'construction': 'vulcanized'}, 'comfort': 'increased'}}\n\n**Description:**\n\n{'product_name': \"Vans Women's Doheny Platform Sneaker\", 'product_details': {'inspiration': ['Era', 'Authentic'], 'upper_features': ['double-stitched'], 'durability': True, 'outsole': 'signature rubber waffle', 'construction': 'vulcanized', 'comfort': 'increased'}}"
+}

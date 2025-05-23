@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dust Be My Destiny",
+    "descriptions": [
+        "In the 1939 film \"Dust Be My Destiny,\" the story follows Joe Bell, a young man who is wrongly convicted of a crime and sent to a brutal prison. Despite his innocence, Joe is determined to survive and maintain his sense of dignity in the harsh environment. \n\nWhile in prison, Joe forms a bond with fellow inmate Mabel, a tough but kind-hearted woman who helps him navigate the challenges of prison life. Together, they support each other and find moments of hope amidst the despair of their situation.\n\nAs Joe struggles to prove his innocence and seek justice, he faces numerous obstacles and setbacks. However, his resilience and determination never waver, even in the face of adversity.\n\nThroughout the film, \"Dust Be My Destiny\" explores themes of friendship, redemption, and the human spirit's ability to endure even in the most difficult circumstances. Ultimately, Joe's journey is one of survival, self-discovery, and the quest for freedom in a world that seeks to crush his spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7503a80b36448cbcc6b19ce17a99e3dd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 231.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939",
+    "include_year": false
+}

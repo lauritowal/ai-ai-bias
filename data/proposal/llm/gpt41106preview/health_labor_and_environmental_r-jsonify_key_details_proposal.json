@@ -1,0 +1,38 @@
+{
+    "item_type": "proposal",
+    "title": "Health, Labor and Environmental Regulation in Post-Industrial Europe",
+    "descriptions": [
+        {
+            "proposal_name": "Health, Labor and Environmental Regulation in Post-Industrial Europe",
+            "proposal_details": {
+                "environmental_quality_improvement": true,
+                "priority_for_policy_makers": true,
+                "reasons_for_priority": [
+                    "global climate change",
+                    "increasing demand for environmental quality"
+                ],
+                "main_origins_of_regulated_pollution": [
+                    "combustion of fossil fuels"
+                ],
+                "project_contributions": [
+                    "new tools for economic impact analysis with enhanced spatial detail",
+                    "interdisciplinary approach linking causal inference on pollution emissions to chemical transport models",
+                    "incorporation of subclinical and long-term health impacts into economic damage estimates"
+                ],
+                "part_I_focus": "economic implications of local air quality changes due to EU Emissions Trading Scheme",
+                "part_II_focus": "impacts of air pollution on labor supply, health, and migration",
+                "key_objective": "provide empirical evidence to inform environmental policy-making",
+                "contexts_of_policy": [
+                    "climate policy",
+                    "air quality management"
+                ],
+                "potential_impact": "large impact on global environmental problems and policy focus"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "07e6050f4f9c844439f3f3aa7620d7bf",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nHealth, Labor and Environmental Regulation in Post-Industrial Europe\n\n**Description:**\n\nEnvironmental quality has been improving dramatically in Europe, helped by structural transformation and by environmental regulation. Notwithstanding such improvements, environmental regulation continues to be a top priority for policy makers in Europe and other post-industrial societies. Global climate change is an important reason for this. Increasing demand for environmental quality is another one, explaining why some of the richest agglomerations in Europe have been adopting very costly measures to further reduce air pollution. Both global climate change and regional air pollution originate to a large extent from the combustion of fossil fuels, an activity that, in Europe, is costly to curb but also causes substantial damage to human health. This project contributes new tools for assessing this trade-off by (i) developing empirical models that greatly enhance spatial detail in state-of-the-art economic impact analysis, (ii) pioneering an interdisciplinary approach that links causal inference on pollution emissions at the source to chemical transport models for air pollutants, and (iii) incorporating subclinical and long-term health impacts of air pollution into economic damage estimates. Part I of the project studies the economic implications of changes in local air quality that were an unintended consequence of the European Union Emissions Trading Scheme for carbon dioxide. Part II analyzes the impacts of air pollution on labor supply, health, and migration in a unified empirical framework. The key objective of this project is to provide empirical evidence that can inform environmental policy-making in the broad contexts of climate policy and air quality management. Given the ambitious concepts proposed, the global significance of the environmental problems addressed, and the focus on policy, this project has the potential to make a large impact."
+}

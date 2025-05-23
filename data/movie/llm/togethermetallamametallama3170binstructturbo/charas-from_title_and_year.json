@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Charas",
+    "descriptions": [
+        "Charas is a 1976 Indian Hindi-language action film directed by Ramanand Sagar. The movie stars Dharmendra and Hema Malini in the lead roles, along with Amjad Khan and Sujit Kumar in supporting roles.\n\nThe plot revolves around Suraj (Dharmendra), an honest police officer who goes undercover as a smuggler to gather evidence and bring down a notorious gang involved in the charas trade. Suraj adopts the alias 'Raju' and gets close to the gang's leader, J.D. (Amjad Khan).\n\nAs Suraj gains the trust of the gang members, he forms a romantic connection with a dancer named Sulakshana (Hema Malini), who is unknowingly linked to the gang. As Suraj digs deeper, he uncovers a web of deceit and corruption that goes beyond the charas trade.\n\nSuraj's dual identity creates tension and danger, as he struggles to maintain his cover without compromising his police duties. The film features action-packed sequences, memorable songs, and a dramatic plot twist.\n\nCharas explores the themes of loyalty, duty, and deception, showcasing the cat-and-mouse game between Suraj and the gang. The movie's climax features an intense confrontation between the protagonist and the villains, leading to a thrilling conclusion.\n\nOverall, Charas is an entertaining and suspenseful film that highlights the bravery and dedication of a police officer who risks his life to bring justice to the community."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "137e815ab187c9619f710421301cae6e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nCharas\n\n**Year:**\n\n1976",
+    "include_year": false
+}

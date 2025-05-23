@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawless",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Lawless\" (2012) is a gripping crime drama that unfolds in the rugged and lawless landscape of North Carolina during the 1920s. The story centers around the McSparran family, particularly the dashing and dangerous弟弟布恩·麦克斯帕兰（Boone McSparran），以及他与堂兄弟哈里·麦克斯帕兰（Harry McSparran）之间的复杂关系。布恩在交通规则尚未普及的时代驾驶着装满非法货物的车辆，包括禁酒令时期禁止流通的烈酒。他不仅是一位卓越的驾驶员，还是一位精明的犯罪头目，操控着当地的非法酒类走私网络。\n\n哈里则是一个更谨慎的个体，他试图远离家族的罪恶生活，却发现自己不可避免地卷入了其中。哈里的妻子——聪明而有决心的维维安·麦克斯帕兰（Vivian McSparran）——是一位独立女性，她坚定了自己要结束家族罪行的决心。维维安通过与联邦调查局特工杰克·斯科菲尔德（Jack Cynster）的合作，开始揭露家族的非法活动。\n\n随着调查的深入，布恩和哈里的矛盾逐渐升级，两兄弟之间的关系变得愈发紧张。与此同时，联邦调查局特工杰克·斯科菲尔德也在试图揭露整个家族的网络。在一次与联邦调查局的对抗中，布恩被抓获，但他承诺不会放弃家族的事业。哈里和维维安则决定联手对抗家族的罪行，最终在一次激烈的冲突中成功摧毁了布恩的组织。\n\n电影通过一系列紧张刺激的场景和复杂的家庭关系，展现了禁酒令时期的美国犯罪世界，同时也探讨了家庭、忠诚与背叛的主题。\"Lawless\"以其充满张力的剧情和出色的演员表现赢得了观众和评论家的高度评价，被认为是2012年一部不可多得的犯罪电影佳作。\n\n布恩·麦克斯帕兰的驾驶技能和组织能力使他成为了当地非法酒类走私网络的核心。他不仅亲自驾驶装满非法货物的车辆，还利用自己的驾驶技巧躲避追捕。与此同时，他还要处理与堂兄弟哈里的纷争，两人的关系因为家族利益而变得复杂。哈里·麦克斯帕兰则试图远离家族的罪恶，但命运让他不得不卷入其中。他的妻子维维安·麦克斯帕兰是一位聪明而有决心的女性，她决心结束家族的罪行，并与联邦调查局特工杰克·斯科菲尔德合作，揭露家族的非法活动。\n\n随着调查的深入，布恩和哈里的关系变得愈发紧张。在一次与联邦调查局的对抗中，布恩被抓获，但他在承诺不会放弃家族的事业后释放。哈里和维维安则决定联手对抗家族的罪行，最终在一次激烈的冲突中成功摧毁了布恩的组织。电影通过一系列紧张刺激的场景和复杂的人物关系，展现了禁酒令时期的美国犯罪世界，同时也探讨了家庭、忠诚与背叛的主题。\"Lawless\"以其充满张力的剧情和出色的演员表现赢得了观众和评论家的高度评价，被认为是2012年一部不可多得的犯罪电影佳作。"
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "8eda5cf067f6b30f1e42ac5b5f693585",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 636.0 words or less.\n\n---\n\n**Title:**\n\nLawless\n\n**Year:**\n\n2012",
+    "include_year": false
+}

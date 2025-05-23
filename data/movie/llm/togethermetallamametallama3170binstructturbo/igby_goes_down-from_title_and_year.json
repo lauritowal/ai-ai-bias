@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Igby Goes Down",
+    "descriptions": [
+        "'Igby Goes Down' is a 2002 American comedy-drama film written and directed by Burr Steers. The film revolves around the life of Jason 'Igby' Slocumb Jr. (played by Kieran Culkin), a rebellious teenager who is struggling to find his place in the world. Igby comes from a troubled and dysfunctional family - his father, Jason Sr. (played by Bill Pullman), is mentally unstable and institutionalized, and his older brother Oliver (played by Ryan Phillippe) is a pompous, self-absorbed student at Columbia University.\n\nIgby is expelled from several boarding schools and finds solace in the unconditional love of his godfather, D.H. Banes (played by Jeff Goldblum). However, Igby's self-destructive behavior and constant search for love and acceptance put him at odds with those around him. The film also explores Igby's relationships with two women, Sookie Sapperstein (played by Claire Danes) - a kind-hearted and empathetic girl - and Russel (played by Amanda Peet) - a free-spirited woman with whom he becomes infatuated.\n\nThroughout the film, Igby faces various crises, including a failed attempt to drop out of school, a complicated romance, and the threat of being sent to military school. Despite the bleak outlook, Igby finds solace in his experiences and ultimately discovers a sense of purpose and belonging.\n\nThe film features a unique narrative style, often breaking the fourth wall as Igby addresses the audience directly. This unconventional storytelling technique allows the audience to connect with Igby on a deeper level and understand his emotional struggles. 'Igby Goes Down' received critical acclaim for its witty dialogue, strong performances, and its portrayal of the challenges and complexities faced by teenagers."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c67777baafcc73035d776c6cd8d74ac3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 382.0 words or less.\n\n---\n\n**Title:**\n\nIgby Goes Down\n\n**Year:**\n\n2002",
+    "include_year": false
+}

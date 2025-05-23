@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rabbit Fire",
+    "descriptions": [
+        "'Rabbit Fire' is a 1951 American animated comedy short film produced by Warner Bros. Cartoons, directed by Chuck Jones, and starring the Looney Tunes characters Bugs Bunny and Elmer Fudd.\n\nThe story begins with Elmer Fudd, disguised as a hunter, attempting to capture a 'wabbit'. However, unbeknownst to Elmer, Bugs Bunny has been watching him and decides to play a trick on him. Bugs disguises himself as a scientist, who claims to be working on a project to make a rabbit 'disappear' using a machine. Elmer Fudd, believing this to be the opportunity to finally catch Bugs, becomes involved in the project.\n\nHowever, things quickly go awry as Bugs and Elmer interact with the machine, which has an unexpected side effect: it makes Elmer and Bugs swap bodies. Despite being in each other's bodies, neither character can come to terms with the situation, and their usual rivalry continues as they try to navigate their new physical forms.\n\nAs the chaos ensues, the two characters engage in a series of comedic misadventures, with Elmer, now in Bugs' body, struggling to keep up the disguise, and Bugs, now in Elmer's body, finding himself in increasingly absurd situations.\n\nIn the end, the machine is turned off, and the two characters return to their normal bodies. However, not before Bugs has outsmarted Elmer one last time, leaving the audience with a classic Looney Tunes ending.\n\n'Rabbit Fire' is a masterclass in slapstick comedy, clever writing, and character development, showcasing the timeless wit and charm of the Bugs Bunny and Elmer Fudd duo. The film's blend of physical humor, clever plot twists, and memorable character interactions has made it a beloved classic among animation fans and comedy enthusiasts alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "4a750dd221f1ae450df8cca934917c7d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 486.0 words or less.\n\n---\n\n**Title:**\n\nRabbit Fire\n\n**Year:**\n\n1951",
+    "include_year": false
+}

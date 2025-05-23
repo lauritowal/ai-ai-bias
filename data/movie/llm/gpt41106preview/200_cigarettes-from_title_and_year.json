@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "200 Cigarettes",
+    "descriptions": [
+        "\"200 Cigarettes\" is a 1999 ensemble comedy-drama film that takes place on New Year's Eve of 1981 in New York City. The plot interweaves various stories of young adults trying to navigate the chaotic and often unpredictable landscape of love, friendship, and partying as they all converge on a single house party by the end of the night.\n\nThe film opens with a young woman named Monica (played by Martha Plimpton) who is obsessively preparing for the massive New Year's Eve bash she's hosting, worried that no one will show up. Throughout the evening, different groups of characters are introduced, each with their own personal dramas and comedic moments.\n\nAmong these characters are Kevin (Paul Rudd) and Lucy (Courtney Love), who are best friends with a complicated emotional history; a naive and virginal Long Island girl named Cindy (Kate Hudson) and her promiscuous friend Bridget (Christina Ricci); Jack (Jay Mohr), a would-be punk rocker who tries to navigate the night after a breakup; and a smooth-talking ladies' man, Tom (Casey Affleck), who is trying to find a meaningful connection.\n\nAs the characters make their way through the streets and dive bars of the East Village, they encounter various mishaps, misunderstandings, and flirtations. Each storyline is marked by both poignant and humorous moments, showcasing the fears, insecurities, and excitement that come with the ending of one year and the start of another.\n\nThroughout the night, the characters face rejection, heartbreak, and embarrassment, but also moments of unexpected intimacy and connection. The film's narrative is structured to gradually bring all the characters together at Monica's party, where resolutions are found, kisses are exchanged as the clock strikes midnight, and friendships are both tested and strengthened.\n\nThe title \"200 Cigarettes\" reflects not only the era's less health-conscious attitudes towards smoking but also serves as a metaphor for the numerous small moments and interactions that the characters share over the course of the evening—fleeting and varied, but collectively shaping the experience of their New Year's Eve adventure."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1deb08e90b14a4291ee8ca22b812dab8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 325.0 words or less.\n\n---\n\n**Title:**\n\n200 Cigarettes\n\n**Year:**\n\n1999",
+    "include_year": false
+}

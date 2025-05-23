@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eating Out 5: The Open Weekend",
+    "descriptions": [
+        "In \"Eating Out 5: The Open Weekend\" (2011), a group of friends in their 30s decide to take a spontaneous road trip across China for a long weekend. Guided by their shared love for food and adventure, they navigate through various cities, sampling local cuisine and facing humorous situations. The trip tests their friendships and pushes them to confront personal issues. Along the way, they encounter quirky characters, hilarious misunderstandings, and unexpected twists, culminating in a memorable journey that brings them closer together."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "13400134e181445799c0d6432aa8911b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 234.0 words or less.\n\n---\n\n**Title:**\n\nEating Out 5: The Open Weekend\n\n**Year:**\n\n2011",
+    "include_year": false
+}

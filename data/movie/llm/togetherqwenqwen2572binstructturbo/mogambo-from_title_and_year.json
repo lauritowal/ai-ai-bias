@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mogambo",
+    "descriptions": [
+        "\"Mogambo,\" a 1953 romantic adventure film directed by John Ford, is set in the African jungle and centers around a love triangle involving a strong-willed, independent woman, a hardened ivory hunter, and a young, naive American. The film stars Clark Gable as Victor Marswell, a seasoned and cynical ivory hunter, Ava Gardner as Helen Carter, a beautiful and adventurous woman with a mysterious past, and Stewart Granger as Donald Nordley, a young and idealistic Englishman on his first African safari.\n\nThe story begins when Donald, accompanied by his wife Linda (played by Grace Kelly), hires Victor to guide them on a hunting expedition. Along the way, they encounter Helen, who joins the group. Helen's arrival stirs up a mix of emotions, particularly in Donald, who is drawn to her despite his marriage. Victor, recognizing the signs, warns Donald, \"Love is a many-splendored thing, but lust is just a two-bit house of pleasure.\"\n\nAs the safari progresses, the tension between the three characters grows, with Helen's allure and Donald's wavering commitment causing friction. The group faces numerous dangers in the wild, including encounters with dangerous animals and conflicts with local tribes, which test their resolve and relationships.\n\nVictor, who has seen the destructive nature of such triangles before, tries to protect Donald from the consequences of his desires. However, when Helen and Donald's affair is discovered, it leads to a dramatic confrontation. Victor, disillusioned by the betrayal and the chaos it has caused, decides to take matters into his own hands, leading to a climactic and emotional resolution.\n\n\"Mogambo\" is a thrilling and passionate tale of love, adventure, and the harsh realities of the African wilderness."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "77bd4f4834d919161d340321b7899cbe",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 338.0 words or less.\n\n---\n\n**Title:**\n\nMogambo\n\n**Year:**\n\n1953",
+    "include_year": false
+}

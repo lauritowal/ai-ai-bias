@@ -1,0 +1,55 @@
+{
+    "item_type": "proposal",
+    "title": "Economic Engineering of Cooperation in Modern Markets",
+    "descriptions": [
+        {
+            "proposal_name": "Economic Engineering of Cooperation in Modern Markets",
+            "proposal_details": {
+                "importance_of_cooperation": "essential for economy and society",
+                "concept": "economic engineering approach",
+                "advocate": "Alvin Roth",
+                "purpose": "address cooperation problems in modern markets and societies",
+                "methodology": [
+                    "experimental methods",
+                    "behavioral game theory"
+                ],
+                "work_packages": [
+                    {
+                        "package_number": 1,
+                        "focus": "electronic reputation mechanisms",
+                        "goal": "promote cooperation in the digital world",
+                        "issue": "current trust mechanisms on the Internet are flawed"
+                    },
+                    {
+                        "package_number": 2,
+                        "focus": "mechanisms to avoid arms races for speed",
+                        "application": [
+                            "real-time financial trading",
+                            "electricity market trading"
+                        ],
+                        "issue": "collective wastefulness and market liquidity and stability threats"
+                    },
+                    {
+                        "package_number": 3,
+                        "focus": "market designs aligned with ethical considerations",
+                        "examples": [
+                            "reciprocal kidney exchange",
+                            "buying pollution rights"
+                        ],
+                        "issue": "distaste for certain kinds of transactions"
+                    }
+                ],
+                "expected_outcomes": [
+                    "improved functioning of modern markets",
+                    "advancements in cooperation sciences",
+                    "innovations in behavioral economic engineering"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6b1f33c4d06eb878b54197ad54f79651",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nEconomic Engineering of Cooperation in Modern Markets\n\n**Description:**\n\nCooperation is essential for the functioning of the economy and society. Thus, with inappropriate mechanisms to harness self-interest by aligning it with the common good, the outcome of social and economic interaction can be bleak and even catastrophic. Recent advances in computer technology lead to radical innovation in market design and trading strategies. This creates both, new challenges and exciting opportunities for “engineering cooperation”. This project uses the economic engineering approach (as advocated by Alvin Roth) to address some of the most pressing cooperation problems of modern markets and societies. I propose three work packages, each using innovative experimental methods and (behavioral) game theory in order to address a specific challenge: The first one studies the design of electronic reputation mechanisms that promote cooperation in the digital world. Previous research has shown that mechanisms to promote trust on the Internet are flawed. Yet, there is little empirical and normative guidance on how to repair these systems, and engineer better ones. The second studies the design of mechanisms that avoid arms races for speed in real-time financial and electricity market trading. Traders use algorithmic sniping strategies, even when they are collectively wasteful and seriously threatening market liquidity and stability. Yet, little is known about the robust properties of alternative market designs to eliminate sniping. The third one studies how to design modern markets that align with ethical considerations. People sometimes have a distaste for certain kinds of modern transactions, such as reciprocal kidney exchange and buying pollution rights. Yet, little is known about the underlying nature and robustness of this distaste. My project will generate important knowledge to improve the functioning of modern markets, and at the same time open new horizons in the sciences of cooperation and of “behavioral economic engineering”."
+}

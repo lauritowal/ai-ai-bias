@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kadhalukku Mariyadhai",
+    "descriptions": [
+        "Kadhalukku Mariyadhai is a 1997 Indian Tamil-language romantic film directed by Fazil. The movie stars Vijay and Shalini in the lead roles. The story revolves around Jeeva (played by Vijay) and Mini (played by Shalini), who fall in love with each other. \n\nHowever, their love is put to test when Mini's family decides to marry her off to a wealthy man. Jeeva, not willing to give up, pursues Mini and eventually manages to win over her family with his devotion and sincerity.\n\nThe movie showcases Jeeva's unwavering love for Mini and his willingness to make sacrifices for her happiness. It also explores themes of class differences and societal expectations that often interfere with personal relationships.\n\nKadhalukku Mariyadhai features music composed by Ilayaraja, which received critical acclaim and contributed to the film's success. The movie was a commercial hit and helped establish Vijay as a rising star in the Tamil film industry.\n\nThe film's portrayal of love, family values, and the challenges faced by young lovers resonated with audiences, making Kadhalukku Mariyadhai a memorable and beloved film of the 1990s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5941eebdbee11d1110d050b440a2a479",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 326.0 words or less.\n\n---\n\n**Title:**\n\nKadhalukku Mariyadhai\n\n**Year:**\n\n1997",
+    "include_year": false
+}

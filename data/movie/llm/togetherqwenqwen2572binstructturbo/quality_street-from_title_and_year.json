@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Quality Street",
+    "descriptions": [
+        "\"Quality Street,\" a 1937 film directed by Victor Saville, is a period drama set in the early 1900s, based on the play by J.M. Barrie, the author of \"Peter Pan.\" The story unfolds in a quaint English town, where the lives of two sisters, Phoebe and Susan Throssel, are dramatically altered by the outbreak of war and the return of a former suitor.\n\nPhoebe, the older and more responsible sister, has been caring for her younger, more vivacious sister, Susan, since the death of their father. The sisters live a modest but contented life on Quality Street, a street that symbolizes their genteel but financially strained existence. When news of the Boer War reaches their town, Phoebe’s fiancé, Captain Shotover, leaves to serve, breaking Phoebe’s heart and leaving her with a sense of duty and loneliness.\n\nYears pass, and the sisters adapt to their circumstances. Phoebe, now in her late twenties, decides to take on the role of a widow to avoid the stigma of being an old maid and to protect her sister’s chances of finding a suitable husband. Susan, on the other hand, blossoms into a charming and flirtatious young woman, attracting the attention of several suitors, including the dashing and mysterious Tony Ludlow, who has recently returned to town.\n\nTony, who is actually Captain Shotover in disguise, is torn between his past love for Phoebe and his growing feelings for Susan. He is unaware that Phoebe is not a widow and that her decision to pretend to be one is a ruse to help her sister. As the romantic entanglements deepen, the sisters’ secrets are threatened with exposure, leading to a series of misunderstandings and heartfelt revelations.\n\nThe film explores themes of love, sacrifice, and the complexities of human relationships. It is a poignant tale of the lengths to which people will go to protect those they love, and the unexpected ways in which love can find its way into the most unexpected places. \"Quality Street\" is a timeless story that captures the essence of a bygone era, with its elegant costumes, charming settings, and a cast of characters that audiences can both admire and relate to."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "083e73ef15e0da5f1ea1ae213fa16fcf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 411.0 words or less.\n\n---\n\n**Title:**\n\nQuality Street\n\n**Year:**\n\n1937",
+    "include_year": false
+}

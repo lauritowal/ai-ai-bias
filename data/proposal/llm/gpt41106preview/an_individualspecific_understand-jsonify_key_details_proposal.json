@@ -1,0 +1,36 @@
+{
+    "item_type": "proposal",
+    "title": "An individual-specific understanding of how synchrony becomes curative",
+    "descriptions": [
+        {
+            "proposal_name": "An individual-specific understanding of how synchrony becomes curative",
+            "proposal_details": {
+                "descriptions": [
+                    "SynSig aims to understand how interpersonal synchrony affects mental health on an individual level, challenging the generic 'higher synchrony equals better' assumption."
+                ],
+                "objectives": [
+                    "Investigate individual-specific synchrony signatures",
+                    "Explore individual-tailored correction of synchrony signatures",
+                    "Analyze the transformation of relationships into curative ones through synchrony adjustments"
+                ],
+                "methods": [
+                    "Implement multimodal markers (motion, acoustic, physiological, facial expression)",
+                    "Study individuals in dyadic interactions with humans and virtual humans",
+                    "Develop the first multimodal feedback system for momentary deviations from synchrony signatures",
+                    "Facilitate individual-tailored changes in synchrony",
+                    "Draw causal inferences between synchrony changes and mental health outcomes"
+                ],
+                "expected_outcomes": [
+                    "Evidence of individual-specific synchrony signatures",
+                    "Insights into the multi-layered individual-specific nature of synchrony",
+                    "Understanding of the connection between human interactions and mental health"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "70e30ab33b67ce8aa130d96e0e5a0541",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nAn individual-specific understanding of how synchrony becomes curative\n\n**Description:**\n\nHuman beings constantly go in and out interpersonal interactions in their daily lives; these interactions are assumed to have critical effects on mental health. But how such interactions affect mental health is poorly understood. SynSig suggests that interpersonal synchrony is an individual-specific mechanism underlying curative relationships. It seeks to go beyond the one-size-fits-all “the higher the synchrony the better” theoretical assumption underlying the state of the art research. It is the first to propose that individuals have their own individual-specific trait-like synchrony signature as manifests across interacting partners. It further proposes that to make interactions curative, it is necessary to induce an individual-tailored correction to such a signature. That is, the amount and direction of the changes in synchrony must be guided by the individual’s synchrony signature. To develop an individual-specific understanding of synchrony, SynSig focuses on curative interactions encapsulated in time and space: the therapeutic relationship between the client and therapist. It will investigate the existence of individual-specific synchrony signature and how individual-tailored correction of the signature serves as the mechanism transforming relationships into curative ones. It will implement multimodal markers (motion, acoustic, physiological, facial expression) for disentangling the trait-like synchrony signature and state-like deviations from it, of individuals participating in multiple dyadic interactions with humans and virtual humans. The first multimodal feedback system on momentary deviations from the signature will be developed and used to facilitate individual-tailored changes in synchrony and draw causal inferences between such changes and mental health outcomes. The findings will provide new insights into the multi-layered individual-specific nature of synchrony, and bring us closer to understanding how human connections affect our mental health."
+}

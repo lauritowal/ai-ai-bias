@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Khumba",
+    "descriptions": [
+        "**Plot Summary of Khumba (2013):**\n\nKhumba, a young wildebeest with big dreams, lives in the vast and wild Serengeti. Though he is destined to join his herd and live a simple life, Khumba yearns for adventure and the spotlight. When a mysterious illness strikes the herd, Khumba is accused of causing it by the leader, his father. Heartbroken and ostracized, Khumba flees the herd and embarks on a daring journey to prove his innocence and find a cure for the illness. Along his journey, he befriends a wise old elephant who becomes his guide and mentor. Together, they face numerous challenges, from crossing treacherous rivers to evading hungry predators. As Khumba grows stronger and wiser, he learns the true value of family and the importance of standing up for what is right. Ultimately, he returns to the herd, ready to face his destiny and help save his family. The movie is a heartwarming adventure about self-discovery, courage, and the unbreakable bond of family."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "ff47d5bb7ce7a87937dbd0529a81be8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 303.0 words or less.\n\n---\n\n**Title:**\n\nKhumba\n\n**Year:**\n\n2013",
+    "include_year": false
+}

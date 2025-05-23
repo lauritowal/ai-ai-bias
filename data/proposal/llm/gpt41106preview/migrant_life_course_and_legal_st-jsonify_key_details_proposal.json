@@ -1,0 +1,37 @@
+{
+    "item_type": "proposal",
+    "title": "Migrant Life Course and Legal Status Transition",
+    "descriptions": [
+        {
+            "proposal_name": "Migrant Life Course and Legal Status Transition",
+            "proposal_details": {
+                "descriptions": [
+                    "The project investigates the timing and impact of citizenship on migrant integration, considering how policy variations influence legal status transitions and integration outcomes."
+                ],
+                "objectives": [
+                    "Model migrants' legal status transitions as life course events",
+                    "Analyze the relevance of citizenship for work and income, living conditions, health status, out-migration, and educational attainment",
+                    "Develop methodologies to analyze step-to-citizenship trajectories and policy impact",
+                    "Test models with longitudinal and survey-based micro-data in 8 countries",
+                    "Inform targeted citizenship policies to maximize settlement success"
+                ],
+                "target_population": [
+                    "Immigrants",
+                    "Their children"
+                ],
+                "data_sources": [
+                    "Longitudinal register-based micro-data",
+                    "Survey-based micro-data"
+                ],
+                "study_countries": [
+                    "8 European and North American countries"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "080580810080198782a1f9dba6d5673a",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMigrant Life Course and Legal Status Transition\n\n**Description:**\n\nWhen does citizenship provide a boost to migrant integration? A fast-track to citizenship can maximise the potential for settlement success, though too short a pathway can disincentivise integration. Not all migrants have an equal interest in naturalising and some are discouraged by restrictive policies. Yet little is known about why, how and for whom legal status transition matters and, especially, how policy variation impacts on this relation. Which migrants are most discouraged by stricter requirements for naturalisation? For whom carries citizenship the largest pay-off? Does it still matter if a migrant acquires citizenship after a long waiting period? This project combines for the first time the ideas that a) migrants have different motivations to naturalise; b) legal status transitions are conditioned by the institutional and socioeconomic contexts in origin and destination countries and c) the potential ‘integration premium’ associated with naturalisation is conditioned by the trajectory into citizenship. The innovative project contributions are: 1. modelling migrants’ legal status transitions as life course events, which are shaped by migrants’ origin, their family context and societal structures and institutions; 2. analysing the relevance of citizenship for work and income, living conditions, health status and out-migration among immigrants and for educational attainment among their descendants; 3. developing novel methodologies to analyse step-to-citizenship trajectories and the impact of policy changes on status transitions and related outcomes among migrant groups and cohorts; 4. testing models on the basis of a unique combination of longitudinal register-based and survey-based micro-data in 8 European and North American countries, which provide the comparative context to analyse the impact of institutional variation; 5. yielding information for targeted citizenship policies to maximise settlement success for immigrants and their children."
+}

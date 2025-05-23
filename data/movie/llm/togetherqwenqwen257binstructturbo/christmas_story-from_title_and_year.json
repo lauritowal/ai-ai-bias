@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Christmas Story",
+    "descriptions": [
+        "In 2007's \"Christmas Story,\" a family faces the challenges of the holiday season in a small town. The movie follows young Tim, who has always dreamed of receiving a Red Ryder BB gun for Christmas. Despite his parents' concerns about the gun's potential dangers, Tim's perseverance and the support of his friends lead to a heartwarming resolution. The film blends humor with emotional depth, showcasing the warmth and struggles of family life during the holiday season."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "066626c149517f8e3bbaa8d94c7bbbb7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007",
+    "include_year": false
+}

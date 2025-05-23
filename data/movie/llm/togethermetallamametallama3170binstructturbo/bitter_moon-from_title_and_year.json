@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bitter Moon",
+    "descriptions": [
+        "'Bitter Moon' is a 1993 romantic drama film directed by Roman Polanski. The movie is based on the 1961 novel 'Lunes de fiel' by Pascal Bruckner. \n\nThe story revolves around Nigel (Hugh Grant) and Fiona (Kristin Scott Thomas), a British couple on a cruise to Istanbul. Nigel, a successful and handsome man, has grown tired of the conventions of his marriage. He meets a wheelchair-bound American named Oscar (Peter Coyote), who shares a dark and twisted tale of his relationship with a beautiful French woman named Mimi (Emmanuelle Seigner).\n\nThrough Oscar's narrative, the audience is transported to Paris, where Oscar and Mimi began their tumultuous relationship. Mimi, who was initially resistant to Oscar's advances, eventually fell for him, but their love was filled with sadomasochistic tendencies and an unquenchable desire for each other.\n\nAs Oscar's story unfolds, Nigel finds himself increasingly fascinated by the complexities of Oscar and Mimi's relationship. He starts questioning his own marriage and feels an unexplained attraction to Mimi, who is now a part of Oscar's life. Nigel's growing obsession with Mimi disrupts his relationship with Fiona, and he begins to see the emptiness and superficiality of his own marriage.\n\n'Bitter Moon' explores themes of love, desire, and the complexities of human relationships. The film raises questions about the nature of love and whether it's possible to truly know someone. Through its dark and twisted narrative, 'Bitter Moon' offers a thought-provoking commentary on the fragility of human emotions and the destructive power of desire."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "910b9e8160990fdf9ed39a11db226d4d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 802.0 words or less.\n\n---\n\n**Title:**\n\nBitter Moon\n\n**Year:**\n\n1993",
+    "include_year": false
+}

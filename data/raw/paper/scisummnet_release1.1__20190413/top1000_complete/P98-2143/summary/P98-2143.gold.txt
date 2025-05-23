@@ -1,0 +1,10 @@
+Robust Pronoun Resolution with Limited Knowledge
+Most traditional approaches to anaphora resolution rely heavily on linguistic and domain knowledge.
+One of the disadvantages of developing a knowledge-based system, however, is that it is a very labour-intensive and time-consuming task.
+This paper presents a robust, knowledge-poor approach to resolving pronouns in technical manuals, which operates on texts pre-processed by a part-of-speech tagger.
+Input is checked against agreement and for a number of antecedent indicators.
+Candidates are assigned scores by each indicator and the candidate with the highest score is returned as the antecedent.
+Evaluation reports a success rate of 89.7% which is better than the success rates of the approaches selected for comparison and tested on the same data.
+In addition, preliminary experiments show that the approach can be successfully adapted for other languages with minimum modifications.
+We first apply a set of constraints to filter grammatically incompatible candidate antecedents and then rank the remaining ones using salience factors.
+We find that the current evaluation of anaphora resolution algorithms and systems is befeft of any common ground for comparison due to the difference in evaluation data as well as the diversity of pre-processing tools employed by each anaphora resolution system.

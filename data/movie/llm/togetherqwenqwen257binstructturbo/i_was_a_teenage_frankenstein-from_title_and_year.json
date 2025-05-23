@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "I Was a Teenage Frankenstein",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"I Was a Teenage Frankenstein\" is a 1957 science fiction horror film that blends elements of the coming-of-age genre with classic horror. Set in a small American town, the movie follows the story of a young man named Victor Frankenstein, played by John Agar. Victor, who is fascinated by his grandfather's old laboratory, decides to reanimate a creature he has assembled from various body parts. Unbeknownst to him, the creature he brings to life is not the noble, well-meaning being envisioned in Mary Shelley's novel, but a monstrous, uncontrollable entity.\n\nThe film explores the consequences of Victor's hasty and ill-informed experiment. The creature, which is a combination of a human and various animal parts, wreaks havoc on the town, causing terror and panic among the residents. Victor, realizing the error of his ways, attempts to find a way to control or destroy the creature, facing both external threats and internal conflict as he grapples with guilt and responsibility.\n\nThe movie also delves into the lives of other teenagers in the town, who become both allies and adversaries to Victor as they navigate the strange and terrifying events unfolding around them. Through their experiences, the film touches on themes of the dangers of unchecked scientific ambition, the responsibilities of creation, and the challenges of adolescence.\n\nThe plot is a mix of horror and drama, with elements of social commentary embedded within the genre conventions. \"I Was a Teenage Frankenstein\" is notable for its campy atmosphere, colorful visuals, and a blend of science fiction and horror that predates the \"B-movie\" subgenre often associated with these themes."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9320d970a877f4ef9201b4c5ba19f9db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 396.0 words or less.\n\n---\n\n**Title:**\n\nI Was a Teenage Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

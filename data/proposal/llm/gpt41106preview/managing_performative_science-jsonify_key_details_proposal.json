@@ -1,0 +1,36 @@
+{
+    "item_type": "proposal",
+    "title": "Managing Performative Science",
+    "descriptions": [
+        {
+            "proposal_name": "Managing Performative Science",
+            "proposal_details": {
+                "focus_areas": [
+                    "performativity in science",
+                    "scientific prediction and explanation",
+                    "ethical questions in science",
+                    "philosophy of science",
+                    "performativity management"
+                ],
+                "subjects": [
+                    "economics",
+                    "epidemiology",
+                    "machine learning"
+                ],
+                "aims": [
+                    "develop a novel understanding of performativity",
+                    "assess the ethical risks of performativity",
+                    "provide orientation for assessment and management of performative science"
+                ],
+                "descriptions": [
+                    "MAPS will close the lacuna in philosophical guidance on performative science."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "32d645d9d25ba5c287b7a0370e557803",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nManaging Performative Science\n\n**Description:**\n\nScientific models often do more than predict or explain. Especially in the social realm, they can also influence their targets – a capacity that is called “performativity”. By influencing policy making and individual behavior, models from economics, epidemiology, or machine learning increasingly perform the social world in significant ways. This development should be of utmost importance to philosophers, for two reasons: First, performativity can impair scientific prediction and explanation. If, for instance, a model of the spread of COVID-19 predicts many deaths, people might reduce their social contacts in response, which may in turn lead to the predicted events not coming about! How should we evaluate such a prediction, and how should scientists deal with these effects? Second, the development raises difficult ethical questions about the legitimacy of science guiding human affairs, and the values that are implicit in this process. Should we welcome science’s increasingly practical role in shaping policy-making and individual behavior? Or should we regard such influence as manipulative, potentially undermining democratic decision making? These are difficult philosophical questions, but they also have significant practical import. Yet the philosophy of science hasn’t so far provided guidance on how performative science might be evaluated and managed. MAPS will close this lacuna. The core aims of the project are: (1) to develop a novel understanding of what performativity is and can do, by closely following scientific practice; (2) to understand the intricate relationship between science’s epistemic and performative roles, and to assess the ethical risks of performativity; and (3) to provide orientation to philosophers and practitioners for how to assess and manage performative science. By integrating insights from scientific practice with philosophical assessment, the project will establish performativity management as a central theme of philosophical inquiry."
+}

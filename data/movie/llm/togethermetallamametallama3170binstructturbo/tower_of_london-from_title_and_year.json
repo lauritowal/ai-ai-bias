@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tower of London",
+    "descriptions": [
+        "The 1962 film 'Tower of London' is a historical drama directed by Roger Corman. The movie is loosely based on the historical account of the rise and fall of Richard III, the last king of the House of York, but with some creative liberty taken.\n\nThe story revolves around Richard, Duke of Gloucester (played by Vincent Price), a Machiavellian and cunning nobleman who seeks the English throne. Richard is determined to eliminate anyone who stands in his way, including his own family members, in order to claim the throne.\n\nUpon the death of his brother, King Edward IV, Richard begins his ascent to power by manipulating the situation and ultimately having Edward's children declared illegitimate, thus clearing the way for him to claim the throne. As Richard's power grows, he orders the deaths of his nephews, the two sons of Edward IV, and eventually has himself crowned King Richard III.\n\nHowever, his reign is marked by bloodshed, tyranny, and betrayal, as those around him begin to suspect that he was responsible for the murders of his family members. In the end, Richard's downfall is brought about by his own hubris and the combined forces of his enemies, who ultimately defeat and kill him in the Battle of Bosworth Field.\n\nThroughout the film, Vincent Price's portrayal of Richard III brings the character's ruthless ambition to life, making him a compelling and formidable villain. The movie's dark atmosphere and the use of shadows and lighting add to the sense of foreboding and doom that surrounds Richard's character.\n\nThe 1962 'Tower of London' film is an adaptation of the same-titled 1939 film, also starring Vincent Price, but in a more minor role. The 1962 version offers a more in-depth exploration of Richard's character and his rise to power, making it a notable take on the historical figure."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3955d3d3df6df2938d93c77b3351e772",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 586.0 words or less.\n\n---\n\n**Title:**\n\nTower of London\n\n**Year:**\n\n1962",
+    "include_year": false
+}

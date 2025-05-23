@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gratefulness",
+    "descriptions": [
+        "In \"Gratefulness\" (2003), the story follows a young woman named Sarah who is struggling to find gratitude in her life. After facing a series of setbacks and disappointments, Sarah becomes bitter and resentful towards the world around her. However, everything changes when she meets a wise old man who teaches her the importance of being grateful for even the smallest things in life.\n\nThrough a series of lessons and experiences, Sarah begins to see the world in a new light and starts to appreciate the beauty and blessings that surround her every day. As she learns to express gratitude for the people and things she once took for granted, Sarah's outlook on life transforms, leading to personal growth and newfound happiness.\n\nAlong the way, Sarah also discovers the power of kindness and compassion, as she realizes that showing gratitude towards others can have a profound impact on both herself and those around her. \"Gratefulness\" is a heartwarming tale of self-discovery and the importance of finding joy in the present moment, no matter what challenges may come your way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "e9e645377feabc3b609f56863384f2d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 240.0 words or less.\n\n---\n\n**Title:**\n\nGratefulness\n\n**Year:**\n\n2003",
+    "include_year": false
+}

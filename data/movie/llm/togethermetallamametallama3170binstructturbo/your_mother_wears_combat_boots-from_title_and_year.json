@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Your Mother Wears Combat Boots",
+    "descriptions": [
+        "Your Mother Wears Combat Boots is a 1989 American comedy film directed by Annett Wolf. The plot revolves around Jessica, a suburban housewife, whose life is turned upside down when her estranged daughter, Max, returns after years of living a free-spirited lifestyle. Max, who has been a part of an anti-nuclear activist group, gets arrested during a protest and is sentenced to serve in the US Army's Green Berets as an alternative to prison.\n\nDetermined to understand her daughter's motivations and connect with her, Jessica decides to join the army as well. As Jessica navigates the rigorous training and strict military environment, she undergoes a transformation, discovering her own strength, courage, and independence. Through this experience, Jessica and Max grow closer, and their complicated mother-daughter relationship is mended.\n\nAs they face the challenges of military life together, Jessica and Max develop a newfound appreciation for each other's perspectives and begin to understand the choices they've made. The film explores themes of self-discovery, family, and personal growth, with a touch of humor and wit. With its heartwarming and empowering message, Your Mother Wears Combat Boots offers an entertaining and thought-provoking experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "bf16a593ede557c9b33894d843d9511b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 321.0 words or less.\n\n---\n\n**Title:**\n\nYour Mother Wears Combat Boots\n\n**Year:**\n\n1989",
+    "include_year": false
+}

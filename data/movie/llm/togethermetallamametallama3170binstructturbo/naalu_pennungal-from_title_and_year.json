@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naalu Pennungal",
+    "descriptions": [
+        "Naalu Pennungal is a 2007 Indian Malayalam drama film directed by Adoor Gopalakrishnan. The film is based on four short stories by Thakazhi Sivasankara Pillai, namely 'Oru Koottukaran', 'Defeat', 'The Morning', and 'The Kites' are not included as they were not part of the four stories in this film. However, 'The Promise' is part of the original stories. The stories revolve around four women and their struggles.\n\nThe film weaves the four narratives together, focusing on the lives of four women in different time periods. Each story is set in a different era and highlights the social and cultural struggles faced by women during those times.\n\nThe first story, 'The Promise', revolves around a young girl who is forced to marry an older man, while the second story 'The Kariyasthan' is about a woman who is separated from her husband due to his greed for wealth. In 'The Defeat', the third story, a woman's relationship with her husband deteriorates due to her husband's ego and pride. The final story, 'The Promise' is replaced with 'Oru Koottukaran' (The Matchmaker) and is about the life of a poor widow who struggles to raise her children and make ends meet by working as a matchmaker.\n\nThroughout the film, director Adoor Gopalakrishnan portrays the struggles of women in different eras, shedding light on the societal norms and expectations that restrict their lives. The title 'Naalu Pennungal' translates to 'Four Women' in English, and the film effectively brings to life the stories of these four women, highlighting their struggles and resilience in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5048c87dffe4aab3cc19016a2e259ce9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 609.0 words or less.\n\n---\n\n**Title:**\n\nNaalu Pennungal\n\n**Year:**\n\n2007",
+    "include_year": false
+}

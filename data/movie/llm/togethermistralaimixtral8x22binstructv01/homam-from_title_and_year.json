@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Homam",
+    "descriptions": [
+        " In the heart-pounding action thriller \"Homam\" (2008), we follow the life of Aakaash (Mohanlal), a brave police officer who is unapologetic in his pursuit of justice. As the story unfolds, Aakaash is assigned to a special task force aimed at dismantling a powerful international crime syndicate, led by the ruthless criminal Khais Khanna (Biju Menon). The syndicate is notorious for its involvement in drug trafficking, human smuggling, and other illicit activities.\n\nDetermined to bring down the syndicate and put an end to their criminal empire, Aakaash goes deep undercover into the dangerous world of organized crime. He gains the trust of Khais Khanna's associates, working his way up the ranks to get closer to the elusive crime lord. However, Aakaash's new life puts him at odds with his own morals and endangers his loved ones, including his wife, Maya (Kanika).\n\nAs Aakaash delves deeper into the criminal underworld, he uncovers a shocking conspiracy that threatens to shake the very foundations of the police force. With corruption and betrayal lurking at every corner, Aakaash must navigate a treacherous path to expose the truth and bring justice to those who deserve it.\n\nAs the lines between right and wrong, good and evil, blur, Aakaash finds himself questioning his own allegiances and grappling with the consequences of his decisions. With time running out and the stakes higher than ever, Aakaash must summon all his courage and cunning to outwit Khais Khanna and bring down the criminal empire once and for all.\n\n\"Homam\" is a gripping tale of courage, sacrifice, and redemption, showcasing Mohanlal's exceptional acting skills and Biju Menon's chilling portrayal of a ruthless crime lord. With its fast-paced action sequences, intricate plot twists, and a strong emotional core, \"Homam\" is a must-watch for fans of crime thrillers and action movies alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "19ac69ea77b4f2a00b33a61ec0f0edf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nHomam\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pyaar Ke Side Effects",
+    "descriptions": [
+        "Pyaar Ke Side Effects is a 2006 Indian romantic comedy film. The movie revolves around the life of Dr. Tanmay Joglekar (played by Rahul Bose), a psychologist who is an expert in the field of love and relationships. He has a unique theory that love can be quantified and explained through various parameters, which he calls \"side effects.\"\n\nThe story takes a turn when Dr. Tanmay falls in love with a beautiful woman named Shikha (played by Mallika Sherawat). As their relationship progresses, Tanmay tries to apply his theory to their relationship, leading to comedic and sometimes disturbing situations.\n\nHowever, things take a serious turn when Shikha gets pregnant, and Tanmay starts to realize the complexities of love and relationships. He begins to question his theory and his own feelings for Shikha. The movie explores the ups and downs of their relationship, as well as the challenges that come with being in love.\n\nThroughout the movie, Tanmay's friends and colleagues try to help him navigate his relationship with Shikha, but his rigid adherence to his theory often hinders their efforts. The movie features a mix of humor, drama, and romance, as Tanmay and Shikha try to make their relationship work despite the challenges they face.\n\nUltimately, the movie is a heartwarming and thought-provoking exploration of the complexities of love and relationships. It raises questions about the nature of love, the importance of communication, and the need to be flexible and adaptable in relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "945de2a97984919b6ffe7fed2110f877",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 356.0 words or less.\n\n---\n\n**Title:**\n\nPyaar Ke Side Effects\n\n**Year:**\n\n2006",
+    "include_year": false
+}

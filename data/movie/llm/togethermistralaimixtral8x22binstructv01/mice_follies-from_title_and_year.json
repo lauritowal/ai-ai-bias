@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mice Follies",
+    "descriptions": [
+        " In \"Mice Follies\" (1954), a delightful animated short from the Merrie Melodies series, we are introduced to a lively group of mice living inside a refrigerator in a bachelor's apartment. The mice have a well-organized community, complete with a mayor and various amenities, all powered by a tiny windmill. However, their harmonious existence is disrupted when their human roommate, a burly hockey player named Claude, comes home after a game.\n\nFed up with the mice's mischief, Claude attempts to evict them using various methods, including a cat and a mousetrap. The mice, however, outsmart him at every turn, using their quick wit and teamwork to thwart his plans. In a humorous twist, they even manage to turn Claude's own hockey skills against him, causing him to inadvertently score a goal for the mice.\n\nIn the end, the mice prove that they are more than just pests; they are clever, resourceful, and capable of standing up for themselves. Claude, realizing he can't win against such formidable opponents, decides to coexist peacefully with the mice, marking a triumphant victory for the tiny community. This charming tale of wit and resilience serves as a reminder that even the smallest creatures can have a significant impact."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "6a1ba1350a9fdb91bf811c6abe13b795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMice Follies\n\n**Year:**\n\n1954",
+    "include_year": false
+}

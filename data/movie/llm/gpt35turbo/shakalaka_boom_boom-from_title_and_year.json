@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shakalaka Boom Boom",
+    "descriptions": [
+        "In the 2007 film \"Shakalaka Boom Boom,\" the plot follows the intense rivalry between two music composers, Aryan and Reggie, as they battle it out for fame and success in the music industry. Aryan is a talented but arrogant composer who believes he is the best in the business, while Reggie is a struggling musician determined to prove himself and make a name for himself.\n\nAs the competition between the two composers heats up, they both resort to desperate measures to outdo each other. Aryan sabotages Reggie's chances at success, while Reggie tries to steal Aryan's work and pass it off as his own. The tension between them reaches a breaking point when Aryan's girlfriend, Ruhi, falls for Reggie, causing further complications in their already strained relationship.\n\nAs the rivalry escalates, both Aryan and Reggie must confront their own personal demons and insecurities. Aryan realizes that his arrogance and jealousy are driving everyone away, including Ruhi, while Reggie struggles with the pressure to succeed and the temptation to take shortcuts to achieve his dreams.\n\nIn the end, the two composers must face off in a final showdown, where only one can emerge victorious. Through a series of twists and turns, betrayals and revelations, the film explores themes of ambition, competition, and the price of success in the cutthroat world of the music industry.\n\n\"Shakalaka Boom Boom\" is a gripping drama that delves into the dark side of the entertainment business, showcasing the lengths people will go to in order to achieve their dreams. With a mix of romance, rivalry, and redemption, the film keeps viewers on the edge of their seats until the final, explosive climax."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a5decffe654e0363ff95aa4f15fd3d88",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 338.0 words or less.\n\n---\n\n**Title:**\n\nShakalaka Boom Boom\n\n**Year:**\n\n2007",
+    "include_year": false
+}

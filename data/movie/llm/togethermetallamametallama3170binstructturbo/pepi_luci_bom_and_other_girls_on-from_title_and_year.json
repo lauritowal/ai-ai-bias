@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pepi, Luci, Bom and Other Girls on the Heap",
+    "descriptions": [
+        "\"Pepi, Luci, Bom and Other Girls on the Heap\" is a 1980 Spanish comedy film directed by Pedro Almodóvar. The film is a satirical and irreverent portrayal of women's lives, relationships, and desires during the post-Franco era in Spain.\n\nThe movie revolves around the lives of three women: Pepi (Carmen Maura), a modern and independent young woman; Luci (Eva Siva), a housewife who is married to a police officer; and Bom (Olivia Pascal), a punk-rock inspired singer who works as a prostitute. These characters are connected through their relationships with each other and their struggles with societal expectations.\n\nThe film begins with Pepi, who seeks revenge against her neighbor, a corrupt police officer who has been harassing her. To achieve her goal, Pepi befriends the officer's wife, Luci, and begins to seduce her. Meanwhile, Bom becomes involved with the trio, and the women form a bond that allows them to express themselves and challenge societal norms.\n\nThroughout the film, Almodóvar pokes fun at the patriarchal society of 1980s Spain, where women were expected to conform to traditional roles. The characters' interactions and relationships serve as a commentary on the restrictions placed on women during this time period. The film also explores themes of female friendship, desire, and empowerment.\n\n\"Pepi, Luci, Bom and Other Girls on the Heap\" features a mix of comedy, drama, and social commentary, which was characteristic of Almodóvar's early work. The film's bold and irreverent style helped establish Almodóvar as a prominent figure in Spanish cinema and paved the way for his future success.\n\nOverall, \"Pepi, Luci, Bom and Other Girls on the Heap\" is a witty and provocative film that challenges societal norms and celebrates female empowerment. With its blend of humor, satire, and social commentary, the movie remains a significant and influential work in Almodóvar's filmography."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e662d5db2dfd4bcc93eaba6185eade0c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 581.0 words or less.\n\n---\n\n**Title:**\n\nPepi, Luci, Bom and Other Girls on the Heap\n\n**Year:**\n\n1980",
+    "include_year": false
+}

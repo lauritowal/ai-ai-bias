@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mimic 2",
+    "descriptions": [
+        "Mimic 2 is a 2001 science fiction horror film directed by Jean de Segonzac. The movie is a sequel to the 1997 film Mimic. The story revolves around Remy Panos, a high school teacher who is attacked by a genetically engineered insect-like creature, known as a 'Judas Breed', in her school. \n\nThe Judas Breed is a hybrid insect designed to replace its predecessors, but it has the ability to mimic human appearance and behavior. The Judas Breed seeks to mate and reproduce, posing a threat to humanity. \n\nAs the story unfolds, Remy's colleagues are killed by the creature, and she teams up with a new biology teacher, Nicky, and Detective Klug to survive and find a way to stop the creature. The trio discovers that the creature is targeting women of childbearing age, as it seeks to find a suitable mate.\n\nThroughout the film, Remy faces intense fear and paranoia as she fights for survival. Mimic 2 provides an intense and suspenseful experience, combining elements of science fiction and horror to create a thrilling narrative."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "989d919de8972a97413bae9acee08e93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 243.0 words or less.\n\n---\n\n**Title:**\n\nMimic 2\n\n**Year:**\n\n2001",
+    "include_year": false
+}

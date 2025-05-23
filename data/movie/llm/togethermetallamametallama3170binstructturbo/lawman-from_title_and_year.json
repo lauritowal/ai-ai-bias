@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawman",
+    "descriptions": [
+        "\"Lawman\" is a 1971 American Western film directed by Michael Winner. The movie stars Burt Lancaster as Jered Maddox, a tough, no-nonsense marshal from the town of Sabbath, who is determined to bring justice to a small town called Bannock, where a group of outlaws have taken refuge.\n\nMaddox is tasked with arresting seven men who were involved in a shootout that killed a Sabbath townsperson. He rides into Bannock, a rough and tumble town filled with gamblers, gunslingers, and outlaws. The man in charge of Bannock, Vincent Bronson (Lee J. Cobb), is a wealthy rancher who seems to have a lot of influence over the town and its people.\n\nAs Maddox begins his search for the seven outlaws, he faces stiff resistance from the townspeople, who are either intimidated or loyal to Bronson. Despite the odds against him, Maddox remains resolute in his pursuit of justice. However, he also begins to question the true nature of justice and the morality of his actions.\n\nThe film features a strong performance from Lancaster, who brings his signature toughness and charisma to the role of Maddox. The movie also explores themes of justice, morality, and the complexities of human nature. The cinematography is also noteworthy, capturing the stark beauty of the American West.\n\nThroughout the film, Maddox's character is put to the test, and he is forced to confront the harsh realities of the world he lives in. In the end, he must make a choice between upholding the law and doing what he believes is right. \"Lawman\" is a thought-provoking Western that challenges the traditional notions of the genre, and it remains a compelling watch to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "0ba01482c8dfd5fba3c87d60f4330a1f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nLawman\n\n**Year:**\n\n1971",
+    "include_year": false
+}

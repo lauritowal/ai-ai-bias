@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "King",
+    "descriptions": [
+        "\"King\" (2002) is a gripping and intense psychological thriller directed by Tetsuaki Matsushige, based on the manga of the same name by Kyōichi Katayama. The film delves into the dark and twisted world of Shinichi Kira, a seemingly ordinary high school student who harbors a deep obsession with power and control. Living in a small Japanese town, Shinichi's life takes a dramatic turn when he becomes involved in a series of violent and manipulative acts.\n\nThe story begins with Shinichi's fascination with a local delinquent, Rikiya, who is known for his brutal and fearless nature. Shinichi's admiration for Rikiya's strength and dominance leads him to form a dangerous alliance with the delinquent, despite the risks. As their friendship deepens, Shinichi's hidden desires and dark impulses begin to surface, leading him to orchestrate a series of events that spiral out of control.\n\nThe film explores themes of manipulation, power, and the psychological impact of violence on young individuals. It delves into the complex dynamics of peer relationships and the pressures of adolescence, highlighting how easily impressionable minds can be led astray. As Shinichi's actions become more extreme, the lines between right and wrong blur, and the consequences of his choices begin to unfold, affecting not only his own life but also those around him.\n\n\"King\" is a stark and uncompromising look at the darker aspects of human nature, showcasing the thin line between innocence and corruption. The film's intense and often disturbing visuals, combined with its compelling narrative, make it a powerful and thought-provoking exploration of the human psyche."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "1234a19451c9271281dafaa67e814446",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 337.0 words or less.\n\n---\n\n**Title:**\n\nKing\n\n**Year:**\n\n2002",
+    "include_year": false
+}

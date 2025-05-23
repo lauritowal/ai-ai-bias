@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Once Upon a Time in China II",
+    "descriptions": [
+        "Once Upon a Time in China II is a martial arts film sequel to the original movie released in 1991. The film is set in the late 19th century in China, during a time of political unrest and foreign influence. The story follows the legendary martial artist and Chinese folk hero, Wong Fei-hung, as he navigates the challenges of his time.\n\nWong Fei-hung is a respected martial artist and healer who runs a martial arts school in Foshan. In this sequel, Wong finds himself facing new threats as a group of Westerners, led by a British consul named Kent, come to China with the intention of spreading Christianity and exploiting the Chinese people. Kent is also in cahoots with a local gang leader, Lo Wen, who is causing chaos in the city.\n\nAs tensions rise between the Chinese and Westerners, Wong Fei-hung must step in to protect his community and uphold traditional Chinese values. Wong's skills are put to the test as he faces off against Kent and his mercenaries in a series of intense martial arts battles. Alongside his loyal disciples, including his love interest Aunt Yee, Wong fights to protect his people and preserve their way of life.\n\nThe film explores themes of cultural identity, tradition, and the clash between East and West. Wong Fei-hung serves as a symbol of Chinese resilience and strength in the face of foreign threats. Through his actions, Wong inspires others to stand up for their beliefs and fight against injustice.\n\nOne of the standout moments in the film is a climactic battle between Wong Fei-hung and Kent in a burning building. The fight is intense and visually stunning, showcasing the martial arts skills of the characters. Wong's determination and skill are put to the test as he faces off against a formidable opponent, but ultimately emerges victorious.\n\nOnce Upon a Time in China II is a thrilling martial arts film that combines action, drama, and historical elements. The film's stunning fight choreography and compelling characters make it a standout in the genre. As Wong Fei-hung continues to defend his homeland and uphold his values, audiences are taken on a journey of bravery, honor, and the enduring spirit of the Chinese people."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "fe654dd8c1082b175d665ddc9a41f1b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 467.0 words or less.\n\n---\n\n**Title:**\n\nOnce Upon a Time in China II\n\n**Year:**\n\n1992",
+    "include_year": false
+}

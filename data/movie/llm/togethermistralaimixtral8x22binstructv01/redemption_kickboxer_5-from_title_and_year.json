@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Redemption: Kickboxer 5",
+    "descriptions": [
+        " In \"Redemption: Kickboxer 5\" (1995), the fifth installment of the Kickboxer franchise, the story follows Matt Reeves (Mark Dacascos), a skilled kickboxer and martial artist, as he embarks on a quest for justice and revenge. After the brutal murder of his mentor and friend, kickboxing champion David Sloane, Matt becomes the target of the ruthless mobster behind the crime, Mr. Negaal (James Ryan).\n\nNegaal, a sadistic businessman, runs an underground fight circuit where he pits the best fighters against each other in brutal, no-holds-barred matches. Determined to avenge Sloane's death, Matt travels to South Africa, where Negaal's operation is based, to infiltrate the organization and bring it down from within.\n\nAs Matt navigates the treacherous world of illegal fighting, he forges alliances with other fighters who share his desire for justice. Together, they uncover the extent of Negaal's corruption and the atrocities he has committed in the name of profit. With the odds stacked against them, Matt and his newfound allies must use their martial arts skills and unyielding determination to take down Negaal and his criminal empire.\n\n\"Redemption: Kickboxer 5\" is a thrilling martial arts action film filled with high-octane fight sequences, intense drama, and a captivating story of vengeance and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "1900de10cbc376a299345b56c4626863",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nRedemption: Kickboxer 5\n\n**Year:**\n\n1995",
+    "include_year": false
+}

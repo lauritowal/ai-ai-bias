@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Seven Men from Now",
+    "descriptions": [
+        "\"Seven Men from Now\" is a 1956 American Western film directed by Budd Boetticher. The movie stars Randolph Scott as Ben Stride, a former sheriff seeking revenge against the seven men who killed his wife. \n\nThe story begins with Ben Stride, a man consumed by his desire for revenge, who encounters a young couple, Annie Greer (Gail Russell) and John Greer (Walter Reed), on their way to California. As they travel together, Ben becomes a temporary protector of the couple, and Annie develops a romantic interest in him. \n\nHowever, Ben's ultimate goal is to track down the seven men responsible for his wife's death, including the notorious Bill Masters (Lee Marvin). Along the way, Ben shares bits and pieces of his past, revealing the tragic event that drives his quest for revenge.\n\nAs the story unfolds, Ben faces numerous challenges, including treacherous terrain, hostile bandits, and internal conflicts. Meanwhile, Annie's affection for Ben grows stronger, but she struggles with the moral implications of his actions. John, on the other hand, becomes increasingly uncomfortable with Ben's company, sensing the turmoil brewing within him.\n\nAs the group nears their destination, Ben finally confronts the men responsible for his wife's death, leading to a violent showdown. In the end, Ben's pursuit of revenge ultimately leads to a bittersweet resolution that forces him to confront the true cost of his actions.\n\n\"Seven Men from Now\" is a classic Western film that explores themes of revenge, redemption, and the complexities of human nature. Randolph Scott's performance as the troubled Ben Stride is particularly noteworthy, bringing depth and nuance to the character."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "f5593c4ada4b91a03d1abfccd25d3f3a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 844.0 words or less.\n\n---\n\n**Title:**\n\nSeven Men from Now\n\n**Year:**\n\n1956",
+    "include_year": false
+}

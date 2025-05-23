@@ -1,0 +1,44 @@
+{
+    "item_type": "proposal",
+    "title": "Beyond Enemy Lines: Literature and Film in the British and American Zones of Occupied Germany, 1945-1949",
+    "descriptions": [
+        {
+            "proposal_name": "Beyond Enemy Lines: Literature and Film in the British and American Zones of Occupied Germany, 1945-1949",
+            "proposal_details": {
+                "descriptions": [
+                    "First detailed survey of cultural landscape in British and American zones of Occupied Germany"
+                ],
+                "objectives": [
+                    "Investigate cross-fertilisation of Anglo/American and German literature and film",
+                    "Provide new interpretative framework for postwar culture",
+                    "Contribute to history of Allied Occupation of Germany",
+                    "Examine intertwining of postwar Anglophone and Germanophone literature",
+                    "Explore relationship between postwar culture and Cold War"
+                ],
+                "approach": [
+                    "Combining literature and film history",
+                    "Critical analysis",
+                    "Cultural history",
+                    "Life-writing"
+                ],
+                "ambition": [
+                    "Multidisciplinary study",
+                    "Open up a major new field of research"
+                ],
+                "timeframe": {
+                    "start_year": 1945,
+                    "end_year": 1949
+                },
+                "geographical_focus": [
+                    "British zone of Occupied Germany",
+                    "American zone of Occupied Germany"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c615b1d9512960d50adf59f0029aec11",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nBeyond Enemy Lines: Literature and Film in the British and American Zones of Occupied Germany, 1945-1949\n\n**Description:**\n\nThis project investigates the cross-fertilisation of Anglo/American and German literature and film during the Allied Occupation of Germany. It will be the first study to survey the cultural landscape of the British and American zones of Occupied Germany in any detail. By doing so it will offer a new interpretative framework for postwar culture, in particular in three areas: the history of the Allied Occupation of Germany; the history of postwar Anglophone and Germanophone literature (arguing the two were more intertwined than has previously been suggested); and the history of the relationship between postwar and Cold War. Combining Anglo-American and German literature and film history with critical analysis, cultural history and life-writing, this is a necessarily ambitious, multidisciplinary study which will open up a major new field of research."
+}

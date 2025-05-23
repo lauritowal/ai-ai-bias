@@ -1,0 +1,43 @@
+{
+    "item_type": "proposal",
+    "title": "Fluidity in the Medieval Aristotle. Readers and Readings of the Greek-Latin Translations",
+    "descriptions": [
+        {
+            "proposal_name": "Fluidity in the Medieval Aristotle. Readers and Readings of the Greek-Latin Translations",
+            "proposal_details": {
+                "impact_areas": [
+                    "philosophy",
+                    "science",
+                    "theology"
+                ],
+                "period_focus": [
+                    "late medieval",
+                    "early modern"
+                ],
+                "manuscript_count": "hundreds",
+                "latin_translation_centuries": [
+                    12,
+                    13
+                ],
+                "main_goal": "comprehensive investigation into new ways to read the Latin Aristotle",
+                "focus": "textual variance in handwritten books preserving translations",
+                "critical_editions_treatises": [
+                    "De anima",
+                    "De generatione et corruptione",
+                    "De caelo"
+                ],
+                "research_method": "document variant readings in manuscript witnesses",
+                "importance": "textual fluidity in manuscripts",
+                "innovation": "developing an innovative model of interpretation for medieval translations of philosophy and science",
+                "descriptions": [
+                    "The study of textual fluidity provides evidence of how readers were exposed to recently available translations, differing fundamentally from the Greek originals."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "bea4f0927df654cc9d97aa7b29828fbc",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nFluidity in the Medieval Aristotle. Readers and Readings of the Greek-Latin Translations\n\n**Description:**\n\nAristotle’s impact on philosophy, science, and theology has been overwhelming, especially in the late medieval and early modern periods: hundreds of Aristotelian manuscripts survive to attest how strongly his works belong to the written culture of the pre-modern intellectual world. The understanding of Aristotle’s thought was decisively shaped by Latin translations from the 12th and 13th centuries. Translators’ efforts to preserve the exact phrasing of the texts and readers’ struggles to determine the disturbingly novel meaning lie hidden in modifications and notes in the manuscripts. These have however not received the attention they deserve, leading to a significant gap in our knowledge of the medieval reception of Aristotle. FitMA aims to fill this gap through a comprehensive investigation into the new ways to read the Latin Aristotle, with a ground-breaking focus on the textual variance in the handwritten books that preserve the translations. To realize that goal, FitMA will produce state-of-the-art critical editions of Greek-Latin translations of three of Aristotle’s most influential treatises on natural philosophy: De anima, De generatione et corruptione, and De caelo. Critical editions are the established scholarly means to document the variant readings in all manuscript witnesses of an ancient or medieval text. The study of that variance across versions or textual fluidity provides first-hand evidence how readers were exposed to the recently available translations, which are fundamentally different from their Greek originals. Because every manuscript copy of the Latin Aristotle generates a different state for its medieval reception, which cannot be adequately studied from the Greek text or a modern translation, FitMA will advance the state of the art by uncovering the importance of textual fluidity in the manuscripts of these translations and developing an innovative model of interpretation applicable to other medieval translations of philosophy and science."
+}

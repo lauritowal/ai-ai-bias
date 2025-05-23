@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dante's Peak",
+    "descriptions": [
+        "In the 1997 film \"Dante's Peak,\" the plot centers around the small town of Dante's Peak, located in the Pacific Northwest. The town's mayor, Rachel Wando, played by Linda Hamilton, is concerned when a series of small earthquakes begin to shake the area. She seeks the help of a volcanologist named Harry Dalton, played by Pierce Brosnan, who is an expert in predicting volcanic eruptions.\n\nHarry arrives in Dante's Peak and begins to analyze the data, realizing that the earthquakes are signs of an impending volcanic eruption. He warns the town council and urges them to evacuate the town, but they are hesitant to do so as it would mean losing their homes and businesses. Despite their reluctance, Rachel and Harry work together to prepare the town for the potential disaster.\n\nAs the situation worsens, Harry's predictions are proven right when Dante's Peak erupts in a violent explosion. The town is engulfed in ash and lava, causing widespread destruction and chaos. Harry, Rachel, and a small group of survivors must now navigate the dangerous aftermath of the eruption, facing collapsing buildings, ash clouds, and deadly pyroclastic flows.\n\nAmidst the chaos, Harry and Rachel develop a strong bond as they work together to lead the survivors to safety. They must overcome numerous obstacles, including treacherous terrain, limited resources, and the threat of further eruptions. Throughout their journey, they face personal challenges and confront their own fears, but their determination and resilience keep them going.\n\nAs the survivors struggle to reach safety, they face heartbreaking losses and moments of triumph. The town of Dante's Peak is left in ruins, but the strength and courage of its residents shine through in the face of adversity. In the end, Harry, Rachel, and the survivors emerge from the disaster with a newfound appreciation for life and a deep sense of community.\n\n\"Dante's Peak\" is a thrilling disaster film that highlights the power of nature and the resilience of the human spirit. It is a story of survival, sacrifice, and redemption, with breathtaking action sequences and powerful performances that keep viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "993902b1e4fe1e36b3fdb665f603b4c5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1528.0 words or less.\n\n---\n\n**Title:**\n\nDante's Peak\n\n**Year:**\n\n1997",
+    "include_year": false
+}

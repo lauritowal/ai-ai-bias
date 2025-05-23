@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "No sos vos, soy yo",
+    "descriptions": [
+        " In the 2004 Argentine romantic comedy \"No sos vos, soy yo\" (It's Not You, It's Me), we follow the story of Javier, a young and successful dentist in Buenos Aires, as he navigates the complexities of love and relationships. The film begins with Javier being unexpectedly dumped by his girlfriend, Maria, on their wedding day, leaving him devastated and confused.\n\nIn an attempt to understand what went wrong and win Maria back, Javier embarks on a journey of self-discovery. He revisits his past relationships and seeks advice from various friends and family members, leading to a series of humorous and heartwarming encounters. Throughout this process, Javier begins to realize that he might be the common denominator in his failed relationships, and that his own flaws and insecurities are what have been pushing people away.\n\nAs Javier opens himself up to personal growth and self-improvement, he starts to find new love in unexpected places. However, in the end, he must decide whether he truly wants to change for the better or continue with his old ways. With its witty dialogue, relatable characters, and charming depiction of Buenos Aires, \"No sos vos, soy yo\" is a delightful exploration of love, loss, and personal growth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "132b7cce378c409c1225f6fb03b65e10",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 220.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Fair-Haired Hare",
+    "descriptions": [
+        "The Fair-Haired Hare is a 1951 American animated short film produced by Warner Bros. and directed by Chuck Jones. The cartoon features Bugs Bunny as the main character.\n\nThe story begins with Bugs Bunny trying to outsmart Yosemite Sam, who is determined to catch him. Bugs is distracted by a beautiful female rabbit and gets caught up in her charm. However, this female rabbit is actually a disguised Elmer Fudd, who is working with Yosemite Sam to capture Bugs.\n\nAs the chase begins, Bugs uses his wit and cunning to evade capture, often leading Yosemite Sam and Elmer Fudd (in disguise) into various comedic misadventures. Bugs also uses his charm to manipulate the disguised Elmer Fudd, making her think he is genuinely interested in her.\n\nAs the cartoon progresses, Bugs' plan becomes clear, and he successfully exposes Elmer Fudd's disguise. Yosemite Sam and Elmer Fudd are left frustrated and defeated once again, while Bugs escapes unscathed.\n\nThe Fair-Haired Hare is a classic example of the Looney Tunes formula, featuring witty dialogue, clever plot twists, and hilarious slapstick comedy. The cartoon showcases Chuck Jones' mastery of animation and his ability to create memorable characters and storylines."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5face4747b7cf78320ae5f11f8e34d1a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 487.0 words or less.\n\n---\n\n**Title:**\n\nThe Fair-Haired Hare\n\n**Year:**\n\n1951",
+    "include_year": false
+}

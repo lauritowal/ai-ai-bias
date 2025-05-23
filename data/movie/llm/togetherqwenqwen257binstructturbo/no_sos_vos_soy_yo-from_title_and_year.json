@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "No sos vos, soy yo",
+    "descriptions": [
+        "\"No sos vos, soy yo\" (You Are Not Me, I Am) is a 2004 Argentine drama that explores the complexities of identity and relationships. The film follows Adrián (played by Leonardo Sbaraglia), a successful lawyer who suddenly starts believing he is someone else: Leo Sbaraglia, a famous actor. As Adrián continues to act and behave like Leo, his wife and friends become increasingly confused and worried. The story delves into themes of self-identity, the pressures of success, and the impact of one's actions on those around them. Through a series of events and revelations, Adrián must navigate the fine line between reality and delusion, ultimately facing the consequences of his confusing behavior and the truth about his identity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "132b7cce378c409c1225f6fb03b65e10",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 220.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004",
+    "include_year": false
+}

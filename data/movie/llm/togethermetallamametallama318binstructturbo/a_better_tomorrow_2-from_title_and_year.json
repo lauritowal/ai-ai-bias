@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Better Tomorrow 2",
+    "descriptions": [
+        "'A Better Tomorrow 2' is a 1987 Hong Kong action film directed by John Woo. The movie is a sequel to Woo's 1986 film 'A Better Tomorrow,' which starred Leslie Cheung and Ti Lung as two brothers from different walks of life.\n\nThe plot revolves around Ken Li (played by Leslie Cheung), the younger brother who was initially portrayed as a criminal in the first film. However, in 'A Better Tomorrow 2,' Ken is now a police officer and a key figure in the Hong Kong Police Force's Special Operations Unit.\n\nThe story begins with Ken facing off against his former brother-in-crime, Mark Gordon (played by Kent Cheng), who is involved in a major heroin smuggling operation. As Ken delves deeper into the investigation, he encounters a complex web of corruption and deceit that threatens the very fabric of the Hong Kong Police Force.\n\nMeanwhile, Ken's brother, Triad boss Ho (played by Ti Lung), is facing his own set of problems as his organization is being dismantled by the police. Ho is desperate to clear his name and restore his reputation, and he sees Ken as his only hope.\n\nAs Ken navigates the treacherous underworld of Hong Kong's crime scene, he must also confront his own demons and make a choice between his loyalty to his brother and his duty as a police officer. The film's action-packed climax features a dramatic showdown between Ken and Mark's henchmen, as well as a tense confrontation between Ken and his brother.\n\nThe movie explores themes of loyalty, honor, and redemption, and it features the same blend of action, suspense, and drama that made the original 'A Better Tomorrow' a critical and commercial success. The film's performances, particularly those of Leslie Cheung and Ti Lung, are outstanding, and the direction by John Woo is masterful.\n\nOverall, 'A Better Tomorrow 2' is a gripping and intense thriller that explores the complexities of the human condition and the blurred lines between good and evil. It is a must-see for fans of action movies and Hong Kong cinema, and it cements John Woo's reputation as one of the greatest action directors of all time."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "19be7e9f32d12571a23ade9d376163c4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 521.0 words or less.\n\n---\n\n**Title:**\n\nA Better Tomorrow 2\n\n**Year:**\n\n1987",
+    "include_year": false
+}

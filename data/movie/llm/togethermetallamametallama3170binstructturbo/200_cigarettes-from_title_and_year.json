@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "200 Cigarettes",
+    "descriptions": [
+        "'200 Cigarettes' is a 1999 American romantic comedy-drama film. The movie is set in New York City on New Year's Eve in 1981. It follows the interconnected lives of a group of young people, all in their early twenties, as they navigate love, heartbreak, and self-discovery.\n\nThe film weaves together multiple storylines, featuring a diverse ensemble cast, including Ben Affleck, Casey Affleck, Dave Chappelle, Kate Hudson, and Christina Ricci. Each character is trying to find their place in the world, whether it's through music, art, or relationships.\n\nThe story jumps between the characters' experiences, often intersecting and overlapping as they attend parties, go to clubs, and try to make sense of their lives. Along the way, they face rejection, disappointment, and uncertainty, but also discover new connections and possibilities.\n\nThroughout the film, the characters struggle to define themselves and find their identities, all while navigating the challenges of young adulthood. The movie's nostalgic portrayal of 1980s New York City adds to its charm, capturing the spirit of a bygone era.\n\nUltimately, '200 Cigarettes' is a poignant and humorous coming-of-age story that explores the complexities and uncertainties of youth. With its talented cast, engaging storyline, and nostalgic setting, the film offers a relatable and entertaining portrayal of the struggles and triumphs of growing up."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1deb08e90b14a4291ee8ca22b812dab8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 325.0 words or less.\n\n---\n\n**Title:**\n\n200 Cigarettes\n\n**Year:**\n\n1999",
+    "include_year": false
+}

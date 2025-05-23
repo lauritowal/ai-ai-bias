@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "No sos vos, soy yo",
+    "descriptions": [
+        "\"No sos vos, soy yo\" is an Argentine romantic comedy-drama film released in 2004, directed by Juan Taratuto. The movie's title translates to \"It's Not You, It's Me,\" and it explores themes of love, heartbreak, and self-discovery.\n\nThe plot revolves around the character Javier, a man who is eagerly looking forward to starting a new life in Miami with his wife, María. However, his dreams are shattered when María suddenly leaves him, stating that she has found someone else. Devastated by the breakup, Javier finds himself unable to move on and is forced to reassess his life.\n\nStruggling to cope with his new reality, Javier turns to his friends and family for support but often finds their advice either unhelpful or comically misguided. Throughout the film, Javier goes on a journey of self-reflection, encountering a series of humorous and touching incidents that eventually lead him to understand that he must let go of the past and his dependent relationship if he is ever to move forward and find happiness again.\n\nThrough this process, Javier learns to rediscover himself and the possibility of new love, conveying the message that sometimes one has to lose everything to find oneself. The film's blend of humor and heartache offers a poignant look at the complexities of love and the resilience of the human spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "132b7cce378c409c1225f6fb03b65e10",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 220.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Summer Heat",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Summer Heat\" (2008) is a crime thriller that unfolds during the sweltering summer months in a bustling Asian city. The story centers around Detective Kim, a seasoned officer whose life takes an unexpected turn when he is tasked with investigating a series of high-profile gangland assassinations. As the heat outside matches the rising tension within the criminal underworld, Detective Kim finds himself entangled in a web of deceit and corruption.\n\nKim's investigation leads him to uncover a deeper, more sinister conspiracy involving influential figures in the police force and the local government. His relentless pursuit of justice puts him at odds with both the criminals and his own colleagues. Along the way, he befriends a young, ambitious journalist, Lee, who is also looking into the murders. Together, they navigate the dangerous streets of the city, facing numerous obstacles and life-threatening situations.\n\nAs the summer progresses, so does the intensity of the plot. Detective Kim and Lee's collaboration brings them closer to the truth, but it also puts their lives in grave danger. The film culminates in a heart-pounding climax where Kim must make a choice that will either redeem his career or lead to his downfall. \"Summer Heat\" is a gripping tale of loyalty, corruption, and the unyielding pursuit of justice in a climate of fear and desperation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "76c9674bf3f7e006ed0fed3b5b7bf780",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 360.0 words or less.\n\n---\n\n**Title:**\n\nSummer Heat\n\n**Year:**\n\n2008",
+    "include_year": false
+}

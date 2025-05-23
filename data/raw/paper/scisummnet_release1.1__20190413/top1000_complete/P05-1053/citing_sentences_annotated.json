@@ -1,0 +1,182 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "W06-1667", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Jinxiu, Chen | Ji, Donghong | Chew Lim, Tan | Zhengyu, Niu", 
+    "raw_text": "Relation Dectection Relation Classification on Types on Subtypes Method P R F P R F P R FCulotta and Soresen (2004) Tree kernel based 81.2 51.8 63.2 67.1 35.0 45.8- Kambhatla (2004) Feature based, Maxi mum Entropy--- 63.5 45.2 52.8 Zhou et al (2005) Feature based, SVM 84.8 66.7 74.7 77.2 60.7 68.0 63.1 49.5 55.5 the cluster number as the number of ground truth classes. We also approached the relation extraction problem using the standard clustering technique, Kmeans, where we adopted the same feature set defined in our proposed method to cluster the con text vectors of entity mention pairs and pre-specified the cluster number as the number of ground truth classes. Table 5 reports the performance of our proposed method comparing with SVM-based supervised method and the other two unsupervised methods", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "W06-1667", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Jinxiu, Chen | Ji, Donghong | Chew Lim, Tan | Zhengyu, Niu", 
+    "raw_text": "Zhou et al (2005) reported the best result as 63.1% /49.5% /55.5% in Precision/Recall/F-measure on the extraction of ACE relation subtypes using feature based method, which outperforms tree kernel based method byCulotta and Soresen (2004)", 
+    "clean_text": "Zhou et al (2005) reported the best result as 63.1% / 49.5% / 55.5% in Precision / Recall / F-measure on the extraction of ACE relation subtypes using feature based method, which outperforms tree kernel based method by Culotta and Soresen (2004).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "C08-1088", 
+    "citing_paper_authority": 18, 
+    "citing_paper_authors": "Longhua, Qian | Guodong, Zhou | Fang, Kong | Qiao-ming, Zhu | Peide, Qian", 
+    "raw_text": "How ever, detailed research (Zhou et al, 2005) shows that it? s difficult to extract new effective features to further improve the extraction accuracy", 
+    "clean_text": "However, detailed research (Zhou et al, 2005) shows that it is difficult to extract new effective features to further improve the extraction accuracy.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "C08-1088", 
+    "citing_paper_authority": 18, 
+    "citing_paper_authors": "Longhua, Qian | Guodong, Zhou | Fang, Kong | Qiao-ming, Zhu | Peide, Qian", 
+    "raw_text": "For those interested in feature-based methods, please refer to Zhou et al (2005) for more details", 
+    "clean_text": "For those interested in feature-based methods, please refer to Zhou et al (2005) for more details.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "C08-1088", 
+    "citing_paper_authority": 18, 
+    "citing_paper_authors": "Longhua, Qian | Guodong, Zhou | Fang, Kong | Qiao-ming, Zhu | Peide, Qian", 
+    "raw_text": "Furthermore, when the UPST (FPT) kernel is combined with a linear state-of-the-state feature based kernel (Zhou et al, 2005) into a composite one via polynomial interpolation in a setting similar to Zhou et al (2007) (i.e. polynomial degree d=2 and coefficient? =0.3), we get the so far best performance of 77.1 in F-measure for 7relation types on the ACE RDC 2004 data set", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "P08-2023", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Wenjie, Li | Peng, Zhang | Furu, Wei | Yuexian, Hou | Qin, Lu", 
+    "raw_text": "Based on his work, Zhou et al (2005) 89 further incorporated the base phrase chunking information and semi-automatically collected country name list and personal relative trigger word list", 
+    "clean_text": "Based on his work, Zhou et al (2005) further incorporated the base phrase chunking information and semi-automatically collected country name list and personal relative trigger word list.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "N07-1015", 
+    "citing_paper_authority": 21, 
+    "citing_paper_authors": "Jing, Jiang | ChengXiang, Zhai", 
+    "raw_text": "Zhao and Grishman (2005) and Zhou et al (2005) explored a large set of features that are potentially useful for relation extraction", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "P09-1114", 
+    "citing_paper_authority": 11, 
+    "citing_paper_authors": "Jing, Jiang", 
+    "raw_text": "Zhou et al (2005 )andZhao and Grishman (2005) studied various features and feature combinations for relation extraction", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "W06-1634", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Akane, Yakushiji | Yusuke, Miyao | Tomoko, Ohta | Yuka, Tateisi | Jun'ichi, Tsujii", 
+    "raw_text": "However, their claims that shallow parsers are sufficient, or that full parsers do not contribute to application tasks, have not been fully proved by experimental results. Zhou et al (2005) argued that most information useful for IE derived from full parsing was shallow", 
+    "clean_text": "Zhou et al (2005) argued that most information useful for IE derived from full parsing was shallow.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "W06-1634", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Akane, Yakushiji | Yusuke, Miyao | Tomoko, Ohta | Yuka, Tateisi | Jun'ichi, Tsujii", 
+    "raw_text": "291 distance like the work of Zhou et al (2005)", 
+    "clean_text": "This approach is also applicable to IE in other domains, where related entities are in a short distance like the work of Zhou et al (2005).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "W08-0602", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Angus, Roberts | Robert J., Gaizauskas | Mark, Hepple", 
+    "raw_text": "This follows on from the success of these methods in general NLP (see for example Zhou et al (2005))", 
+    "clean_text": "This follows on from the success of these methods in general NLP (see for example Zhou et al (2005)).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "W08-0602", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Angus, Roberts | Robert J., Gaizauskas | Mark, Hepple", 
+    "raw_text": "We use features developed in part from those described in Zhou et al (2005) and Wang et al (2006)", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "D07-1076", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Guodong, Zhou | Min, Zhang | Ji, Donghong | Qiao-ming, Zhu", 
+    "raw_text": "However, it is difficult for them to effectively capture structured parse tree information (Zhou et al2005), which is critical for further performance improvement in relation extraction", 
+    "clean_text": "However, it is difficult for them to effectively capture structured parse tree information (Zhou et al 2005), which is critical for further performance improvement in relation extraction.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "D07-1076", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Guodong, Zhou | Min, Zhang | Ji, Donghong | Qiao-ming, Zhu", 
+    "raw_text": "As the state-of-the-art, Zhang et al (2006) applied the convolution tree kernel (Collins and Duffy 2001) and achieved comparable performance with a state-of-the art linear kernel (Zhou et al2005) on the 5 relation types in the ACE RDC 2003 corpus", 
+    "clean_text": "As the state-of-the-art, Zhang et al (2006) applied the convolution tree kernel (Collins and Duffy 2001) and achieved comparable performance with a state-of-the art linear kernel (Zhou et al\u30002005) on the 5 relation types in the ACE RDC 2003 corpus.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 15, 
+    "citing_paper_id": "D07-1076", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Guodong, Zhou | Min, Zhang | Ji, Donghong | Qiao-ming, Zhu", 
+    "raw_text": "Zhou et al (2005) further systematically explored diverse features through a linear kernel and Support Vector Machines, and achieved the F measures of 68.0 and 55.5 on the 5 relation types and the 24 relation subtypes in the ACE RDC 2003cor pus respectively", 
+    "clean_text": "Zhou et al (2005) further systematically explored diverse features through a linear kernel and Support Vector Machines, and achieved the F measures of 68.0 and 55.5 on the 5 relation types and the 24 relation subtypes in the ACE RDC 2003 corpus respectively.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 16, 
+    "citing_paper_id": "D07-1076", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Guodong, Zhou | Min, Zhang | Ji, Donghong | Qiao-ming, Zhu", 
+    "raw_text": "Another problem is that, although they can explore some structured information in the parse tree (e.g. Kambhatla (2004) used the non-terminal path connecting the given two entities in a parse tree while Zhou et al (2005) introduced additional chunking features to enhance the performance), it is found difficult to well preserve structured information in the parse trees using the feature-based methods", 
+    "clean_text": "Another problem is that, although they can explore some structured information in the parse tree (e.g. Kambhatla (2004) used the non-terminal path connecting the given two entities in a parse tree while Zhou et al (2005) introduced additional chunking features to enhance the performance), it is found difficult to well preserve structured information in the parse trees using the feature-based methods.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 17, 
+    "citing_paper_id": "D07-1076", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Guodong, Zhou | Min, Zhang | Ji, Donghong | Qiao-ming, Zhu", 
+    "raw_text": "entity type, mention level, overlap, base phrase chunking, dependency tree, parse tree and semantic information) as Zhou et al (2005)", 
+    "clean_text": "Here, we use the same set of flat features (i.e. word, entity type, mention level, overlap, base phrase chunking, dependency tree, parse tree and semantic information) as Zhou et al (2005).", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 18, 
+    "citing_paper_id": "D07-1076", 
+    "citing_paper_authority": 26, 
+    "citing_paper_authors": "Guodong, Zhou | Min, Zhang | Ji, Donghong | Qiao-ming, Zhu", 
+    "raw_text": "System P (%) R (%) F Linear Kernel 78.2 (77.2) 63.4 (60.7) 70.1 (68.0) Context-Sensitive Convolution Tree Kernel 81.1 (80.1) 66.7 (63.8) 73.2 (71.0) Composite Kernel 82.2 (80.8) 70.2 (68.4) 75.8 (74.1) Table 3: Performance of the composite kernel via polynomial interpolation on the major relation types of the ACE RDC 2003 (inside the parentheses) and 2004 (outside the parentheses) corpora Comparison with Other Systems ACE RDC 2003 P (%) R (%) F Ours: composite kernel 80.8 (65.2) 68.4 (54.9) 74.1 (59.6) Zhang et al (2006): composite kernel 77.3 (64.9) 65.6 (51.2) 70.9 (57.2) Ours: context-sensitive convolution tree kernel 80.1 (63.4) 63.8 (51.9) 71.0 (57.1) Zhang et al (2006): convolution tree kernel 76.1 (62.4) 62.6 (48.5) 68.7 (54.6) Bunescu et al (2005): shortest path dependency kernel 65.5 () 43.8 () 52.5 () Culotta et al (2004): dependency kernel 67.1 () 35.0 () 45.8 () Zhou et al (2005): feature-based 77.2 (63.1) 60.7 (49.5) 68.0 (55.5) Kambhatla (2004): feature-based (63.5) (45.2) (52.8) Table 4: Comparison of difference systems on the ACE RDC 2003 corpus over both 5 types (outside the parentheses) and 24 subtypes (inside the parentheses) ACE RDC 2004 P (%) R (%) F Ours: composite kernel 82.2 (70.3) 70.2 (62.2) 75.8 (66.0) Zhang et al (2006): composite kernel 76.1 (68.6) 68.4 (59.3) 72.1 (63.6) Zhao et al (2005) :8 composite kernel 69.2 () 70.5 () 70.4 () Ours: context-sensitive convolution tree kernel 81.1 (68.8) 66.7 (60.3) 73.2 (64.3) Zhang et al (2006): convolution tree kernel 72.5 () 56.7 () 63.6 () Table 5: Comparison of difference systems on the ACE RDC 2004 corpus over both 7 types (outside the parentheses) and 23 subtypes (inside the parentheses) Finally, Tables 4 and 5 compare our system with other state-of-the-art systems9 on the ACE RDC 2003 and 2004 corpora, respectively", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 19, 
+    "citing_paper_id": "E06-2012", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Conrad, Chang | Lisa, Ferro | John, Gibson | Janet, Hitzeman | Suzi, Lubar | Justin, Palmer | Sean, Munson | Marc B., Vilain | Benjamin, Wellner", 
+    "raw_text": "Recent work has begun to address relation and event extraction through trainable means, chiefly SVM classification (Zelenko et al 2003, Zhou et al2005)", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 20, 
+    "citing_paper_id": "E12-1020", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Bonan, Min | Ralph, Grishman", 
+    "raw_text": "For the choice of features, we use the full set of features from Zhou et al (2005) since it is reported to have a state-of-the-art performance (Sun et al 2011)", 
+    "clean_text": "For the choice of features, we use the full set of features from Zhou et al (2005) since it is reported to have a state-of-the-art performance (Sun et al 2011).", 
+    "keep_for_gold": 0
+  }
+]

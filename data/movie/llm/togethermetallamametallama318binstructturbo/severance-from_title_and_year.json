@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Severance",
+    "descriptions": [
+        "\"Severance\" is a 2006 British science fiction horror film directed by Chris Cullinane. The movie follows Mark Holloway, a former soldier who suffers from severe nightmares and flashbacks due to a traumatic event in his past. Mark's life takes a turn when he is offered a job at a mysterious corporation called Lumon, which promises a stable and secure work environment.\n\nMark is required to undergo a procedure called \"The Severance,\" which involves implanting a device in his brain that separates his work memories from his personal memories. This allows him to work without any emotional attachment or stress, making him more efficient in his job.\n\nMark is assigned to work in a team of \"severed\" employees, who are tasked with operating machinery in a remote location. Their job involves cutting through a dense jungle to reveal a hidden underground cave system. The team is led by Horry Graham, a seasoned employee who has undergone the Severance procedure multiple times.\n\nAs Mark becomes more comfortable in his new role, he begins to experience strange and unsettling occurrences. He starts to question the true nature of the Severance procedure and the motivations of the corporation. Mark's memories start to resurface, and he begins to remember his traumatic past.\n\nThe team discovers a hidden underground cave system, but things take a dark turn when they are forced to confront the consequences of their actions. Mark realizes that the Severance procedure is not just a simple memory separation but a way to control and manipulate the employees.\n\nThe movie takes a turn into horror as Mark and his team are forced to confront the true nature of the corporation and the Severance procedure. Mark must navigate his way through the jungle and the cave system to uncover the truth and escape the clutches of the corporation.\n\n\"Severance\" is a thought-provoking and unsettling film that explores the themes of memory, identity, and control. The movie's slow-burning tension and eerie atmosphere create a sense of unease, making it a must-watch for fans of science fiction and horror."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "21dbe032954b36bb5e5f40ecb6c75505",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 999.0 words or less.\n\n---\n\n**Title:**\n\nSeverance\n\n**Year:**\n\n2006",
+    "include_year": false
+}

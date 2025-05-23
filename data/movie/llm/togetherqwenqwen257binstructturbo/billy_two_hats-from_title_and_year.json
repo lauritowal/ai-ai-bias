@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Billy Two Hats",
+    "descriptions": [
+        "\"Billy Two Hats\" (1974) is a Western film that follows the story of Billy, a young man in his late teens, who roams the wild American frontier in search of identity and purpose. After inheriting two hats from his deceased father, each representing a different path in life, Billy must choose between a life of lawlessness and one of righteousness. The narrative weaves through various towns and landscapes, where Billy encounters a diverse cast of characters, including a wise old prospector, a scheming land baron, and a mysterious woman. Each encounter brings Billy closer to understanding the true meaning of his double heritage and the responsibilities that come with it. As Billy navigates the treacherous moral landscape of the Old West, he learns to reconcile his conflicting desires and ultimately chooses a path that aligns with his heart and conscience. The film culminates in a climactic showdown that tests Billy's resolve and marks his journey from a lost youth to a man of honor."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "2d70d8da925ad0ef805759c56970e23e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 276.0 words or less.\n\n---\n\n**Title:**\n\nBilly Two Hats\n\n**Year:**\n\n1974",
+    "include_year": false
+}

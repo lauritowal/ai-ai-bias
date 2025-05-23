@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hill",
+    "descriptions": [
+        "**The Hill (1965)**\n\n**Plot Summary:**\n\n\"The Hill,\" directed by Sidney Lumet, is a British drama film set in a harsh military prison in North Africa during World War II. The film delves into the brutal and dehumanizing conditions endured by British soldiers who are incarcerated for various offenses, ranging from insubordination to desertion.\n\nThe story primarily revolves around a group of prisoners, including the stoic and resilient Joe Roberts (played by Sean Connery), who is sent to the prison for striking a superior officer. The prison is run with a strict and often sadistic regime, overseen by the stern and uncompromising Captain Wilson (played by Jack Hawkins). The film opens with a new prisoner, Atkins (played by Ian Bannen), arriving at the prison and quickly learning the harsh realities of life there, including the infamous punishment known as \"the hill,\" where prisoners are forced to climb a steep, rocky hill carrying heavy stones, a task designed to break their spirits and physical strength.\n\nThe film explores the relationships and dynamics among the prisoners, who form a tight-knit community to survive the brutality of their environment. Joe Roberts, in particular, stands out for his resilience and leadership, often standing up to the guards and advocating for the rights of his fellow inmates. His actions sometimes lead to further punishment, but they also inspire others to maintain their dignity and hope.\n\nAs the story progresses, tensions between the prisoners and the guards escalate, leading to a series of confrontations that test the limits of human endurance and the moral fiber of those involved. The film also touches on the broader themes of power, authority, and the psychological impact of war on soldiers, both those in the field and those who have been punished and isolated from it.\n\n\"The Hill\" is a powerful and unflinching look at the darker aspects of military discipline and the human spirit's capacity to resist and endure in the face of extreme adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "891962f3edcf486d7fa98bf9c9c9f9b4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 390.0 words or less.\n\n---\n\n**Title:**\n\nThe Hill\n\n**Year:**\n\n1965",
+    "include_year": false
+}

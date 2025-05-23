@@ -1,0 +1,45 @@
+{
+    "item_type": "proposal",
+    "title": "The Politics and Practice of Social Media in Conflict",
+    "descriptions": [
+        {
+            "proposal_name": "The Politics and Practice of Social Media in Conflict",
+            "proposal_details": {
+                "duration": "5 years",
+                "initiatives_goal": "extend Internet reach to remote regions",
+                "focus_areas": [
+                    "non-urban areas",
+                    "affordable access",
+                    "world's poorest",
+                    "regions with weak state",
+                    "protracted violent conflict"
+                ],
+                "target_population": [
+                    "Africa",
+                    "conflict-affected communities"
+                ],
+                "key_puzzle": "Impact of social media access on peace-building vs. perpetuating violence",
+                "specific_focus": "Africa, particularly Eastern Africa",
+                "research_questions": [
+                    "How does social media alter transnational dimensions of conflict and peacebuilding?",
+                    "How do public authorities use social media to encourage violence or promote peace?",
+                    "How is social media changing people's experiences with violent conflict?"
+                ],
+                "examination_contexts": [
+                    "dangerous speech online",
+                    "exit and entry of individuals from/into conflict",
+                    "actors' tactics to shape the Internet",
+                    "governance actors' use of social media"
+                ],
+                "descriptions": [
+                    "Examining the interplay between social media and conflict in Africa with an emphasis on religious and political violence in Eastern Africa."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "777c1d0874fa7930f62d3f9b8f65d8c7",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Politics and Practice of Social Media in Conflict\n\n**Description:**\n\nOver the next five years an unprecedented number of initiatives will coalesce, contributing to an extension of the reach of the Internet to the world’s most remote regions. While previous efforts to expand Internet access have focused on urban areas, current initiatives are leveraging new technologies from drones to satellites to provide affordable access to the worlds poorest, many of whom are in Africa and live in regions where the state is weak and there is protracted violent conflict. Current debates have largely focused on technical issues of improving access, or assumed ways that technology will help ‘liberate’ populations or improve governance. This project focuses on a key puzzle that is often overlooked: How does increased access to social media affect the balance between peace-building efforts and attempts perpetuate violence in conflict-affected communities? With a focus on Africa (and particularly on religious and political violence in Eastern Africa), this project will investigate the relationship between social media and conflict through three research questions at the macro, meso and micro level: how are social media altering the transnational dimensions of conflict and peacebuilding? How are public authorities reacting to, and appropriating, social media to either encourage violence or promote peace? And in what ways are social media changing the way people experience, participate in, or respond to violent conflict? It will examine these questions in the context of dangerous speech online; the exit and entry of individuals away from, and into, conflict; the tactics and strategies actors adopt to shape the Internet; and how governance actors are leveraging social media in conflict-affected communities."
+}

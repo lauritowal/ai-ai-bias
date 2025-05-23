@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spun",
+    "descriptions": [
+        "'Spun' is a dark comedy-crime film released in 2003, directed by Jonas Åkerlund and written by Jacob Estes and Bryan Elizabeth Ellis. The movie takes place in the 1990s, in the midst of the California crack epidemic.\n\nThe film revolves around the character of Ross Whitworth, played by Jason Schwartzman, a young and relatively successful dealer who is part of a wealthy family. He is often accompanied by his friend and fellow dealer, Sean (Mickey Rourke), who is portrayed as a somewhat reckless and unstable individual. Sean is in a deep financial crisis and is on the verge of losing everything.\n\nRoss's girlfriend, Candy (Mena Suvari), is a desperate and struggling addict who is deeply involved in the crack business with Sean. The two of them are constantly looking for ways to turn their lives around and escape the destructive cycle of addiction. However, their struggles are compounded when Sean's debt to the local crime lord, played by Peter Facinelli, grows.\n\nAs the story unfolds, Ross becomes increasingly disillusioned with the crack business and begins to question his involvement in it. He also starts to develop feelings for Nikki (Brittany Murphy), a young and troubled woman who is part of their social circle.\n\nHowever, Sean's desperation and addiction lead him to make a series of reckless decisions, which ultimately puts Ross and the others in grave danger. The film culminates in a series of intense and chaotic events that expose the dark underbelly of the crack business and the devastating consequences of addiction.\n\nThrough its dark and often humorous tone, 'Spun' offers a gritty and unflinching portrayal of the crack epidemic and its effects on those who are caught up in it. The film features a talented cast, including Jason Schwartzman, Mickey Rourke, Mena Suvari, and Brittany Murphy, who deliver strong performances that bring the characters to life.\n\nOverall, 'Spun' is a thought-provoking and intense film that offers a searing critique of the destructive nature of addiction and the devastating consequences of the crack epidemic."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "4df379a449eaf8f426a0186d19c6a745",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 765.0 words or less.\n\n---\n\n**Title:**\n\nSpun\n\n**Year:**\n\n2003",
+    "include_year": false
+}

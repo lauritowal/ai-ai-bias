@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Roots: The Gift",
+    "descriptions": [
+        "I'm not aware of a movie titled \"Roots: The Gift\" with a specific release year. However, I can provide information on the 1977 miniseries \"Roots\" and its 1979 sequel \"Roots: The Next Generations,\" as well as the 1996 miniseries \"Roots\" and its 2016 remake.\n\nIf you're referring to a movie from one of these, please provide the year, and I can give you a plot summary."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "d82e0dd9780746987a76ff05d44b0586",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n",
+    "include_year": false
+}

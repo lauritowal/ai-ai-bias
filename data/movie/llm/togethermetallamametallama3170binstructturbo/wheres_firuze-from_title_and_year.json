@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Where's Firuze?",
+    "descriptions": [
+        "I couldn't find any information about a movie titled \"Where's Firuze?\" released in 2004. It's possible that the movie is lesser-known or a foreign film with limited international recognition.\n\nIf you have more information or context about the movie, such as the country of origin, director, or genre, I can try to help you find more information. Alternatively, you can also check online databases like IMDb or Wikipedia to see if they have any information about the movie."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1a9aaf1db5c550f6cdf2fb501638c19c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 329.0 words or less.\n\n---\n\n**Title:**\n\nWhere's Firuze?\n\n**Year:**\n\n2004",
+    "include_year": false
+}

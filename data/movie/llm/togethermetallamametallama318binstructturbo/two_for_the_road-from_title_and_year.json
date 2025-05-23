@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Two for the Road",
+    "descriptions": [
+        "\"Two for the Road\" is a 1967 romantic comedy-drama directed by Stanley Donen. The film follows the story of Mark and Joanna Wallace, a middle-class couple in their mid-30s, played by Albert Finney and Audrey Hepburn. \n\nThe movie is presented in a non-linear fashion, with the narrative unfolding through a series of vignettes and flashbacks. The story begins on the day of their wedding, but it soon becomes clear that the film is not a traditional romance. \n\nInstead, the audience is taken on a journey through the couple's marriage, which spans several years. The scenes seamlessly transition from one moment to the next, often blurring the lines between past and present. \n\nThroughout the film, Mark and Joanna's relationship is portrayed as complex and multi-faceted. They are shown to be deeply in love, but also to have their share of disagreements and arguments. The couple's interactions are often humorous, but also poignant and emotionally charged.\n\nAs the story unfolds, the audience is given a glimpse into the couple's daily life, their conversations, and their interactions with others. The film is also notable for its use of location shooting, which adds to the sense of realism and immediacy.\n\nThroughout the film, the relationship between Mark and Joanna is the central focus. The couple's love for each other is palpable, but it is also clear that their relationship is not without its challenges. The film raises questions about the nature of marriage and relationships, and whether it is possible for two people to truly be happy together.\n\n\"Two for the Road\" is a thought-provoking and visually stunning film that explores the complexities of marriage and relationships. With its non-linear narrative and witty dialogue, the film is both entertaining and emotionally resonant."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a2183ce3d9ea9bb8f91dbbf2f0f09b2f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 426.0 words or less.\n\n---\n\n**Title:**\n\nTwo for the Road\n\n**Year:**\n\n1967",
+    "include_year": false
+}

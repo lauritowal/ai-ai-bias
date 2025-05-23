@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aage se right",
+    "descriptions": [
+        "\"Aage Se Right\" is a 2009 Bollywood comedy film directed by Indrajit Nattoji. The title is a play on the Hindi phrase \"aage se left,\" which means \"turn left ahead,\" but with a twist that suggests things going awry or not as planned.\n\nThe plot of \"Aage Se Right\" revolves around a series of comedic and chaotic events that unfold over the course of five days. The story begins with a bumbling Mumbai police officer, Dinkar Waghmare, played by Shreyas Talpade, who accidentally loses his gun on his very first day of police duty. Dinkar is the son of a policeman and is expected to live up to his father's legacy, but his clumsiness stands in the way.\n\nAs Dinkar desperately searches for his lost gun, it ends up in the hands of two terrorists, adding to the mayhem. Meanwhile, the gun keeps changing hands, leading to a series of humorous and unpredictable situations.\n\nParallel to this, a love story unfolds between a television journalist, Pearl, portrayed by Mahie Gill, and a rockstar named Sunny, played by Shiv Panditt. Their paths cross with Dinkar’s as they all get entangled in the chaos surrounding the missing gun.\n\nThe film is a mix of comedy and action, with slapstick humor and satirical takes on terrorism and media. The characters' lives intertwine, leading to a climax where they must work together to resolve their problems and retrieve the gun before it causes any real damage. \"Aage Se Right\" is about the right things happening in the wrong way and finding the silver lining in the chaos of everyday life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "594bc742e5d347d8cff7785cb9a832b5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 262.0 words or less.\n\n---\n\n**Title:**\n\nAage se right\n\n**Year:**\n\n2009",
+    "include_year": false
+}

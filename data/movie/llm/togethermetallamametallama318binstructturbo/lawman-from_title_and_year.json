@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lawman",
+    "descriptions": [
+        "\"Lawman\" is a 1971 Western film directed by Michael Winner, starring Burt Lancaster and Robert Ryan. The movie is set in the 1870s in a small town in Arizona. \n\nThe plot revolves around Burt Lancaster's character, Deputy Marshal Curley Wyatt, who is tasked with bringing in a notorious outlaw, Bill Pickett, played by Robert Ryan. Wyatt is a tough, no-nonsense lawman who has been hired by the people of the town to bring in Pickett and restore order. \n\nUpon his arrival, Wyatt discovers that Pickett has been terrorizing the town and its people. Wyatt sets out to track down Pickett and his gang, which consists of ruthless and skilled outlaws.\n\nAs Wyatt closes in on Pickett, he encounters various obstacles, including the town's corrupt sheriff and a group of deadly outlaws who are determined to prevent Wyatt from capturing Pickett. \n\nThroughout the film, Wyatt's character is portrayed as a man of principle who is driven by a strong sense of justice. He is willing to take risks and face danger head-on in order to bring Pickett to justice. \n\nThe film's climax features a tense showdown between Wyatt and Pickett, which culminates in a violent and intense confrontation. \n\nThe movie also explores themes of loyalty, honor, and the complexities of the human condition. The cast delivers strong performances, with Lancaster and Ryan delivering particularly memorable portrayals. \n\n\"Lawman\" is a classic Western film that features a gripping storyline, memorable characters, and stunning cinematography. The film's themes and atmosphere are reminiscent of classic Westerns, and it is a must-see for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "0ba01482c8dfd5fba3c87d60f4330a1f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 425.0 words or less.\n\n---\n\n**Title:**\n\nLawman\n\n**Year:**\n\n1971",
+    "include_year": false
+}

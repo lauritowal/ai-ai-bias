@@ -1,0 +1,56 @@
+{
+    "item_type": "proposal",
+    "title": "Causes and Consequences of Labor Market Flexibility",
+    "descriptions": [
+        {
+            "proposal_name": "Causes and Consequences of Labor Market Flexibility",
+            "proposal_details": {
+                "focus": [
+                    "Globalization",
+                    "Technological change",
+                    "Workplace transformation",
+                    "Organization of labor",
+                    "Labor market flexibility"
+                ],
+                "developments": [
+                    "Outsourcing",
+                    "Sub-contracting",
+                    "Flexible scheduling",
+                    "Flexible pay jobs"
+                ],
+                "concerns": [
+                    "Wage inequality",
+                    "Division of resources in society"
+                ],
+                "project_name": "LABFLEX",
+                "objectives": [
+                    "Investigate causes and consequences of labor market flexibility"
+                ],
+                "questions": [
+                    "Do job contract differences reflect worker preferences or technology advances?",
+                    "What are the impacts of job contract flexibility on wage inequality and gender wage gaps?",
+                    "Are workers compensated for adverse work conditions or higher income risks?",
+                    "Do job contract changes reflect shifts in rent sharing between workers and firms?",
+                    "How do labor market institutions affect flexibility?",
+                    "What is the role of labor market policies?"
+                ],
+                "methods": [
+                    "Linking register data to experimental evidence on worker preferences",
+                    "Analysis of full-text corpus of vacancies with job attribute information",
+                    "Combining experimental and structural methods"
+                ],
+                "outcomes": [
+                    "New evidence on the causes and consequences of labor market flexibility"
+                ],
+                "descriptions": [
+                    "LABFLEX will draw a detailed picture of supply and demand sides of the labor market, facilitating a study of flexibility in job contracts."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4cf4622c859f7a9bf7d1c89680ded61b",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nCauses and Consequences of Labor Market Flexibility\n\n**Description:**\n\nGlobalization and technological change have transformed the workplace and the organization of labor. At the core of these major developments is the degree of flexibility in the labor market. Alternative work arrangements, e.g., outsourcing, sub-contracting, flexible scheduling, and flexible pay jobs have become a common feature of labor markets across the globe. While most economists would argue that labor market flexibility facilitates reaping the benefits of globalization and technology growth, these developments can have far reaching consequences for the division of resources in society. Indeed, the recent decades have witnessed a sharp rise in wage inequality. LABFLEX is motivated by these developments and seeks to investigate the causes and consequences of labor market flexibility. LABFLEX raises a series of questions: Do differences in job contracts reflect shifts in worker preferences, or do they mirror advances in technology that facilitate gains from organizing job tasks differently? What are the impacts of flexibility in job contracts on wage inequality and gender wage gaps? Are workers being compensated for the adverse work conditions or the higher income risks, or do changes in job contracts reflect changes in the sharing of rents between workers and firms? How do labor market institutions affect flexibility? And what is the role of labor market policies? To answer these questions, LABFLEX will for the first-time link register data to large-scale experimental evidence on workers’ stated preferences for a wide array of work and pay arrangements, and an exhaustive full-text corpus of vacancies with information on job attributes. This will allow drawing a very detailed picture of both the supply and the demand side of the labor market, facilitating a study of flexibility in job contracts. Combining these data with experimental and structural methods, LABFLEX will provide new evidence on the causes and consequences of labor market flexibility."
+}

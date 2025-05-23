@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lost in America",
+    "descriptions": [
+        "\"Lost in America\" is a 1985 American comedy film directed by and starring Albert Brooks, alongside Julie Hagerty. The movie follows David Howard (Brooks), a neurotic advertising executive, and his free-spirited girlfriend, Linda (Hagerty), as they decide to abandon their comfortable lives in Los Angeles to embark on an impromptu cross-country trip. Their goal is to start a restaurant in Montana, driven by a desire for a simpler, more meaningful existence.\n\nHowever, their journey quickly spirals into a series of misadventures. After a series of mishaps, including losing their savings in a craps game in Las Vegas, David and Linda find themselves penniless and forced to hitchhike. Their travels take them through various parts of the country, encountering a colorful cast of characters, including a hitchhiker who steals their belongings and a pair of eccentric old ladies who take them in.\n\nAs their situation becomes increasingly dire, the couple's relationship is tested. David's anxiety and Linda's carefree attitude clash, leading to arguments and moments of deep introspection. Despite the challenges, they learn valuable lessons about themselves and each other, ultimately finding a way to reconnect and redefine their dreams. The film is a humorous and poignant exploration of the American road trip, the pursuit of happiness, and the unpredictable nature of life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "e5ee5db6712c45592228c168752e0373",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 283.0 words or less.\n\n---\n\n**Title:**\n\nLost in America\n\n**Year:**\n\n1985",
+    "include_year": false
+}

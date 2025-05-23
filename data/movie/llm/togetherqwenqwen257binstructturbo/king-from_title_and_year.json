@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "King",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"King\" (2002) is a psychological drama that delves into the tumultuous life of a young man named David, who is estranged from his family and struggling with his identity. Set in a small coastal town, the film explores David's journey as he grapples with his past and his desire to become a king, not in the traditional sense, but in a way that signifies his ultimate triumph over personal and familial hardships. David's relationship with his father, a wealthy and influential local businessman, is strained, leading David to question his place in the world. As he navigates the complexities of love, loss, and self-discovery, David finds solace in the arms of a fellow outcast, further complicating his already fragile existence. The film is a poignant exploration of redemption, the struggle for acceptance, and the quest for meaning in a world that often feels indifferent to individual struggles."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "92a68e2cc05e4e2afc5b2a64cb960a93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 339.0 words or less.\n\n---\n\n**Title:**\n\nKing\n\n**Year:**\n\n2002",
+    "include_year": false
+}

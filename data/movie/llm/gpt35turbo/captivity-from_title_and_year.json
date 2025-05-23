@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Captivity",
+    "descriptions": [
+        "After a successful fashion model, Jennifer Tree (played by Elisha Cuthbert), is abducted and wakes up in a soundproof room, she finds herself trapped and at the mercy of a sadistic captor. As the days go on, Jennifer is subjected to various forms of torture and psychological manipulation, all while being watched through hidden cameras by her captor.\n\nAs Jennifer struggles to survive in captivity, she forms a bond with another captive, Gary (played by Pruitt Taylor Vince), who has also been taken by the same person. Together, they try to come up with a plan to escape their captor's clutches.\n\nThroughout the film, Jennifer is put through a series of horrifying ordeals, including being forced to watch as another captive is tortured and killed. The psychological toll of her captivity begins to take its toll on Jennifer, as she struggles to maintain her sanity in the face of such extreme cruelty.\n\nAs Jennifer and Gary work together to find a way out, they uncover clues that lead them to believe their captor is someone they know. The tension and suspense build as they race against time to escape before their captor returns to finish them off.\n\nIn a climactic final showdown, Jennifer and Gary confront their captor and fight for their lives. In the end, they manage to outsmart their captor and escape, but not without enduring physical and emotional scars that will stay with them forever.\n\nAs they finally taste freedom, Jennifer and Gary are faced with the challenge of rebuilding their lives and coming to terms with the trauma they have endured. Captivity explores the horrors of being held against one's will and the resilience of the human spirit in the face of unimaginable suffering."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3ae197d3fe7eb9ff46d4426ae64785e4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 889.0 words or less.\n\n---\n\n**Title:**\n\nCaptivity\n\n**Year:**\n\n2007",
+    "include_year": false
+}

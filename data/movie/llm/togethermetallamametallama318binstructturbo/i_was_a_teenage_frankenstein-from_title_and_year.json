@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "I Was a Teenage Frankenstein",
+    "descriptions": [
+        "\"I Was a Teenage Frankenstein\" is a 1957 American science fiction horror comedy film directed by Stuart Heisler. The movie follows the story of Jimmy (played by George Lazenby's predecessor in the role, Michael Ansara), a high school student who creates a female robot named 'Francesca' using stolen parts from a mad scientist's laboratory. \n\nHowever, things take a turn when Jimmy decides to add a brain to his creation, and it turns out to be the brain of the deceased Frankenstein monster. As a result, 'Francesca' starts to develop the characteristics of the monster, including superhuman strength and a limited capacity for speech.\n\nJimmy's creation quickly escapes and wreaks havoc on the town, leading to a series of events that result in chaos and destruction. The authorities, led by a determined police chief, are hot on the trail of the escaped robot, and they eventually track her down to Jimmy's hideout.\n\nAs the story unfolds, Jimmy and his friends are forced to confront the consequences of their actions and try to find a way to stop 'Francesca' before she causes any more harm. Along the way, Jimmy develops feelings for a girl named Lili, who helps him in his quest to stop his creation and restore order to the town.\n\nThe movie \"I Was a Teenage Frankenstein\" is a lighthearted and campy take on the classic Frankenstein monster character, with a focus on teenage themes and a comedic tone. It was released in 1957, during a time when science fiction and horror movies were becoming increasingly popular, and it remains a cult classic to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "9320d970a877f4ef9201b4c5ba19f9db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 396.0 words or less.\n\n---\n\n**Title:**\n\nI Was a Teenage Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

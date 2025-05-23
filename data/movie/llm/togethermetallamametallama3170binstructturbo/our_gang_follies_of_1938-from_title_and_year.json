@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Our Gang Follies of 1938",
+    "descriptions": [
+        "Our Gang Follies of 1938 is a 1937 American musical comedy short film and the 151st episode of the Our Gang series. The movie features a group of young friends as they try to put on a stage show to raise funds.\n\nThe story begins with Alfalfa, the leader of the group, promising the gang that they will be the stars of a big show. As preparations begin, the children work hard to perfect their acts. However, their rehearsal is interrupted by Spanky, who is trying to sell tickets to the event. \n\nMeanwhile, a series of mishaps and accidents hinder their progress, including a wild goose chase with a loose animal backstage. As the day of the performance approaches, the gang must find a way to overcome their obstacles and put on a successful show.\n\nOn the night of the show, Alfalfa's opening number, 'I'm Looking Over a Four-Leaf Clover,' is met with laughter and applause from the audience. The rest of the gang also performs well, with Butch and Woim providing comedic relief. The show ends with a rousing finale, showcasing the children's talents.\n\nThroughout the film, the Our Gang series' signature blend of comedy and music is on display, making Our Gang Follies of 1938 a classic and entertaining addition to the series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1e4b85c7e20b37bcda8bd062b75fd2bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 709.0 words or less.\n\n---\n\n**Title:**\n\nOur Gang Follies of 1938\n\n**Year:**\n\n1937",
+    "include_year": false
+}

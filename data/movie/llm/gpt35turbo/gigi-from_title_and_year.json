@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gigi",
+    "descriptions": [
+        "In 1958's \"Gigi,\" set in Paris in the early 1900s, we follow the story of a young girl named Gigi who is being groomed by her grandmother and great aunt to become a courtesan. Gigi has been raised in a family where becoming a high-class escort is seen as a desirable career path, and she is being taught all the skills necessary to attract wealthy suitors. Despite her upbringing, Gigi is a carefree and independent spirit who dreams of finding true love and happiness.\n\nOne day, Gigi meets Gaston, a wealthy playboy and family friend who is known for his string of affairs with beautiful women. Gaston is immediately taken with Gigi's charm and innocence, and he begins to spend more time with her, much to the disapproval of his friends and family. As their relationship develops, Gaston starts to see Gigi in a different light and realizes that he may be falling in love with her.\n\nAs Gaston and Gigi's feelings for each other deepen, they face many challenges, including societal expectations and their own personal doubts. Gigi struggles with the idea of becoming a courtesan like her relatives, while Gaston grapples with his reputation as a ladies' man and the expectations placed on him by his family. Despite these obstacles, they both come to realize that what they have is real and worth fighting for.\n\nIn a climactic scene, Gaston proposes to Gigi, but she initially turns him down, fearing that their relationship will not be accepted by society. However, after some soul-searching and encouragement from her grandmother, Gigi realizes that she cannot deny her love for Gaston and accepts his proposal. The film ends with Gaston and Gigi driving off into the sunset, ready to face whatever challenges come their way.\n\n\"Gigi\" is a charming and romantic film that explores themes of love, identity, and societal expectations. It challenges the idea that love should conform to traditional norms and shows that true happiness can only be found by following one's heart. With its beautiful Parisian setting, dazzling costumes, and memorable musical numbers, \"Gigi\" is a timeless classic that continues to captivate audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a4ea1e7cca614e532cfc601845591f74",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 643.0 words or less.\n\n---\n\n**Title:**\n\nGigi\n\n**Year:**\n\n1958",
+    "include_year": false
+}

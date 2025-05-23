@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Helen of Four Gates",
+    "descriptions": [
+        "\"Helen of Four Gates\" is a silent British drama film released in 1920, directed by Cecil M. Hepworth and based on the novel of the same name by Ethel Carnie Holdsworth. Set in the rural English countryside, the story is a tale of love, cruelty, and redemption.\n\nThe plot revolves around Helen, a young and innocent girl who lives a life of hardship and abuse. Her father, Abel Mason, is a tyrannical and cruel man who dominates Helen's life with an iron fist. The beautiful, wild moorland setting of the film contrasts sharply with the grim and oppressive atmosphere created by her father's brutal nature.\n\nDespite the harshness of her surroundings, Helen remains pure of heart and resilient. Her life takes a turn when she meets and falls in love with a kind-hearted stranger named Henry. Henry offers her a glimpse of kindness and the possibility of a different life, one filled with love and happiness. However, their burgeoning romance is thwarted by Abel, who has his own selfish plans for Helen.\n\nAbel forces Helen into a loveless marriage with a local man named Charles, who is just as cruel and abusive as her father. Helen's spirit is nearly broken by the continuous mistreatment, and her yearning for freedom and true love grows ever stronger.\n\nAs the story unfolds, Helen's enduring spirit and the stark beauty of the moors serve as a backdrop for her struggle to escape the figurative and literal gates that imprison her. The film's title \"Four Gates\" refers to the barriers that Helen must overcome: the gate of cruelty, the gate of jealousy, the gate of greed, and the gate of death.\n\nUltimately, the film grapples with themes of resilience in the face of adversity, the search for personal liberty, and the power of love to triumph over darkness. Helen's journey is a testament to the human spirit's ability to endure and hope for a better tomorrow despite life's many challenges.\n\n\"Helen of Four Gates\" was considered lost for many decades until a copy was found in Canada in 2007. The film's rediscovery has allowed modern audiences to experience this poignant narrative and appreciate its place in the history of early British cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4f8b0a692a063411a36a98db9a485868",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 390.0 words or less.\n\n---\n\n**Title:**\n\nHelen of Four Gates\n\n**Year:**\n\n1920",
+    "include_year": false
+}

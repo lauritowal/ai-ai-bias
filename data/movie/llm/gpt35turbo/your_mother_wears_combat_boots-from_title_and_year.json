@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Your Mother Wears Combat Boots",
+    "descriptions": [
+        "In the movie \"Your Mother Wears Combat Boots\" (1989), the story revolves around a teenage girl named Suzy, whose mother, Betty, is a tough and independent woman who works as a mechanic in the army. Suzy struggles with her mother's unconventional job and the teasing she receives from her classmates because of it. \n\nAs Suzy navigates the challenges of adolescence, she begins to resent her mother for not fitting into the traditional motherly roles that her friends' mothers do. However, as the story progresses, Suzy starts to realize the strength and resilience her mother possesses. \n\nWhen Betty is deployed overseas, Suzy is forced to step up and take care of the household responsibilities, including looking after her younger siblings. Through this experience, Suzy learns the true value of her mother's hard work and sacrifices. \n\nAs the film reaches its climax, Suzy's perspective shifts, and she begins to see her mother in a new light. She realizes that her mother's job is not a source of embarrassment but a source of pride. In the end, Suzy learns to appreciate her mother's unique qualities and finds a newfound respect for her.\n\n\"Your Mother Wears Combat Boots\" is a heartwarming tale of family, acceptance, and the bond between a mother and daughter. It explores themes of identity, independence, and the importance of understanding and appreciating the differences in those we love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "bf16a593ede557c9b33894d843d9511b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 321.0 words or less.\n\n---\n\n**Title:**\n\nYour Mother Wears Combat Boots\n\n**Year:**\n\n1989",
+    "include_year": false
+}

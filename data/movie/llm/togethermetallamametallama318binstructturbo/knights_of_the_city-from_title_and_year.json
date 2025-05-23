@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Knights of the City",
+    "descriptions": [
+        "\"Knights of the City\" is an American martial arts film released in 1986. The movie follows the story of a former martial arts champion, Tommy Lee, who returns to his hometown in Los Angeles after a long time abroad.\n\nUpon his return, Tommy Lee discovers that a local gang has been terrorizing the city and the police are struggling to control them. Feeling responsible for the community and eager to make a difference, Tommy Lee decides to take matters into his own hands.\n\nHe begins training a group of young martial artists, who are initially a group of misfits and delinquents. However, with Tommy Lee's guidance and mentorship, they transform into a tight-knit team known as the \"Knights of the City.\"\n\nThe team's mission is to protect their community from the local gang, known as the \"Black Angels.\" The Black Angels are ruthless, violent, and well-armed, making them a formidable opponent for the Knights of the City.\n\nAs the battles between the Knights of the City and the Black Angels escalate, tensions rise in the community. The police are caught in the middle, struggling to keep the peace and maintain order.\n\nTommy Lee and his team face numerous challenges, including personal conflicts, injuries, and the constant threat of the Black Angels. Despite the odds against them, the Knights of the City persevere, driven by their determination to protect their community and bring justice to those who have been wronged.\n\nThe movie features a mix of martial arts action, drama, and social commentary, highlighting the struggles faced by urban communities and the importance of community empowerment. The film's title, \"Knights of the City,\" reflects the team's status as modern-day heroes, fighting to defend their city and its people.\n\n\"Knights of the City\" is a classic martial arts film that combines action, drama, and social commentary, offering a compelling story and memorable characters. While it may not be as well-known as some of the more popular martial arts films of the 1980s, \"Knights of the City\" remains a hidden gem for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7b1a5ded30013ad458daffe0609dbf25",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 684.0 words or less.\n\n---\n\n**Title:**\n\nKnights of the City\n\n**Year:**\n\n1986",
+    "include_year": false
+}

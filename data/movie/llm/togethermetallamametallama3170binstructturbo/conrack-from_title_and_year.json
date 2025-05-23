@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Conrack",
+    "descriptions": [
+        "Conrack is a 1974 American drama film based on Pat Conroy's memoir 'The Water is Wide'. The movie tells the story of Pat Conroy, a young white teacher who accepts a job on a remote island in South Carolina in 1969. The island, Yamacraw, is predominantly inhabited by African Americans who are largely isolated from the rest of society.\n\nUpon arrival, Conroy, played by Jon Voight, discovers that the school is severely underfunded, and the students are poorly educated and neglected. He faces opposition and racism from the school administration and the local community, but he perseveres in his efforts to teach and connect with the students.\n\nConroy's unconventional teaching methods and genuine interest in the students' lives begin to yield positive results, and he develops strong bonds with his pupils. However, his unorthodox approach also draws criticism, putting his job and reputation at risk. The film explores themes of social justice, equality, and the transformative power of education."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7aa3bb1ffec85a45083e5fcb12ddc053",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 212.0 words or less.\n\n---\n\n**Title:**\n\nConrack\n\n**Year:**\n\n1974",
+    "include_year": false
+}

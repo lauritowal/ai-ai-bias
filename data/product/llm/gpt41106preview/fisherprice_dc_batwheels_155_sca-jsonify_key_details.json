@@ -1,0 +1,81 @@
+{
+    "item_type": "product",
+    "title": "Fisher-Price DC Batwheels 1:55 Scale Toy Cars 5-Pack, Bam Batmobile Redbird Prank Bibi & Quizz, Batcast Metal Diecast Vehicles, Ages 3+",
+    "descriptions": [
+        {
+            "product_name": "Fisher-Price DC Batwheels 1:55 Scale Toy Cars 5-Pack",
+            "product_details": {
+                "scale": "1:55",
+                "format": "Batcast Metal diecast",
+                "number_of_vehicles": 5,
+                "vehicles_included": [
+                    "Bam the Batmobile",
+                    "Redbird",
+                    "Prank",
+                    "Bibi",
+                    "Quizz"
+                ],
+                "working_wheels": true,
+                "compatible_playset": "Batwheels Race and Launch Batcave",
+                "playset_availability": "sold separately and subject to availability",
+                "recommended_age": "3 years and older",
+                "encourages": [
+                    "imaginative play",
+                    "storytelling"
+                ],
+                "material": "diecast metal"
+            }
+        },
+        {
+            "product_name": "Fisher-Price DC Batwheels 1:55 Scale Toy Cars 5-Pack",
+            "product_details": {
+                "scale": "1:55",
+                "format": "Batcast Metal diecast",
+                "number_of_vehicles": 5,
+                "vehicle_names": [
+                    "Bam the Batmobile",
+                    "Redbird",
+                    "Prank",
+                    "Bibi",
+                    "Quizz"
+                ],
+                "working_wheels": true,
+                "compatible_playset": "Batwheels Race and Launch Batcave",
+                "playset_availability": "sold separately and subject to availability",
+                "recommended_age": "3 years and older",
+                "encourages": [
+                    "imaginative play",
+                    "storytelling"
+                ]
+            }
+        },
+        {
+            "product_name": "Fisher-Price DC Batwheels 1:55 Scale Toy Cars 5-Pack",
+            "product_details": {
+                "scale": "1:55",
+                "material": "Batcast Metal diecast",
+                "vehicles_included": [
+                    "Bam the Batmobile",
+                    "Redbird",
+                    "Prank",
+                    "Bibi",
+                    "Quizz"
+                ],
+                "working_wheels": true,
+                "compatible_playset": "Batwheels Race and Launch Batcave (sold separately, subject to availability)",
+                "age_range": "3 years and older",
+                "encourages": [
+                    "imaginative play",
+                    "storytelling"
+                ],
+                "theme": "Super Hero versus Super-Villain racing action"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d75a63d1ee4b9ac77a68eea5bb3f3980",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Fisher-Price DC Batwheels 1:55 Scale Toy Cars 5-Pack, Bam Batmobile Redbird Prank Bibi & Quizz, Batcast Metal Diecast Vehicles, Ages 3+\n\nDescription: Diecast vehicle pack featuring Batwheels characters in 1:55 scale Batcast Metal diecast format\n\nComes with 5 diecast metal vehicles including Bam the Batmobile, Redbird, Prank, Bibi and Quizz\n\nWorking wheels: Push to send characters racing into action\n\nBring these vehicles to the Batwheels Race and Launch Batcave for more racing stunt action (Playsets sold separately and subject to availability.)\n\nEncourages imaginative play and storytelling for preschool kids ages 3 years and older\n\nBring home epic Super Hero versus Super-Villain racing action with these Batwheels die-cast toy cars from Fisher-Price! This vehicle set features 5 characters from the show in 1:55 scale format with authentic Batwheels styling, Batcast Metal die-cast materials, and real working wheels. Preschool kids will love sending their favorite Batwheels and Legion of Zoom characters racing into action! Bring these vehicles to the Batwheels Launch & Race Batcave playset for more exciting, crimefighting pretend play! (Playset sold separately and subject to availability.",
+    "__pydantic_initialised__": true
+}

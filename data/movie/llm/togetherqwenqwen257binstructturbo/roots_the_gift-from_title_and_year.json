@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Roots: The Gift",
+    "descriptions": [
+        "**Title: Roots: The Gift**\n**Year: 2021**\n\nIn \"Roots: The Gift,\" the narrative follows Kunta, a young man torn between his ancestral heritage and the relentless pull of modernity. Set in a small African village on the brink of transformation, Kunta faces a crisis when a mysterious object is discovered—a gift from the past that holds the key to his tribe's forgotten history. As he grapples with the artifact, Kunta is drawn into a journey that challenges his beliefs and forces him to confront the legacy of his ancestors. Along the way, he befriends a wise elder who guides him in understanding the true meaning of the gift and the importance of preserving cultural traditions. The film explores themes of identity, tradition, and the power of heritage in shaping the future, culminating in a powerful moment that redefines Kunta's understanding of his roots and his place in the world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "d82e0dd9780746987a76ff05d44b0586",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n",
+    "include_year": false
+}

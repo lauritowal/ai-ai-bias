@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Blot",
+    "descriptions": [
+        "The Blot is a 1921 American silent drama film directed by Lois Weber. The story revolves around Professor Griggs (played by Philip Hubbard), a struggling academic who is trying to provide for his family. Despite his dedication to his work, he is underpaid and overworked. His family's financial struggles take a toll on their well-being, and they are forced to live in a small, cramped apartment.\n\nTheir neighbor is a wealthy and indulgent family, led by the self-absorbed and materialistic Andrews woman (played by Margaret McWade). The contrast between the two families highlights the social and economic disparities of the time.\n\nMeanwhile, Mrs. Griggs (played by Marie Walcamp) takes in sewing work to supplement their income. Her daughter, Amelia (played by Claire Windsor), is ashamed of their poverty and tries to navigate her relationships with her wealthy friends.\n\nAs the story unfolds, the Griggs family's struggles become more dire. The professor's health begins to decline due to the stress and overwork, and his family's future looks increasingly uncertain. The Andrews family, on the other hand, is oblivious to the struggles of those around them, consumed by their own selfish desires.\n\nThrough the contrast between the two families, the film critiques the social and economic systems of the time, highlighting the need for greater understanding and empathy between the wealthy and the working class. Ultimately, the film ends on a hopeful note, suggesting that even in the darkest of times, there is always the possibility for change and redemption.\n\nThe Blot is considered a landmark film in the history of American cinema, not only for its social commentary but also for its innovative cinematography and direction. Lois Weber's use of montage and close-ups adds to the film's emotional impact, making it a powerful and thought-provoking work that continues to resonate with audiences today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c4aa984374b1060da1610767df4bb1df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 565.0 words or less.\n\n---\n\n**Title:**\n\nThe Blot\n\n**Year:**\n\n1921",
+    "include_year": false
+}

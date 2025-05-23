@@ -1,0 +1,85 @@
+{
+    "item_type": "product",
+    "title": "Clementine Apparel - Girls and Women Dance Bra with Clear Detachable Straps Unpadded & Seamless",
+    "descriptions": [
+        {
+            "product_name": "Clementine Apparel - Girls and Women Dance Bra with Clear Detachable Straps Unpadded & Seamless",
+            "product_details": {
+                "intended_use": [
+                    "dance competition",
+                    "practice",
+                    "active pursuits"
+                ],
+                "design_features": {
+                    "strap_type": "clear, detachable",
+                    "visibility": "virtually invisible under outfits",
+                    "adjustability": "adjustable straps for fit"
+                },
+                "construction": "seamless",
+                "color": "nude",
+                "suitable_for": [
+                    "ballet",
+                    "other dance forms"
+                ],
+                "additional_attributes": {
+                    "backless_support": true,
+                    "no_show": true
+                }
+            }
+        },
+        {
+            "product_name": "Clementine Apparel - Girls and Women Dance Bra with Clear Detachable Straps Unpadded & Seamless",
+            "product_details": {
+                "intended_use": [
+                    "dance competition",
+                    "dance practice",
+                    "active pursuits"
+                ],
+                "design": {
+                    "strap_type": "clear, detachable",
+                    "visibility": "virtually invisible under outfits",
+                    "seamless": true
+                },
+                "strap_features": {
+                    "adjustable": true
+                },
+                "color": "nude",
+                "suitability": [
+                    "ballet",
+                    "other dance forms"
+                ],
+                "type": "no-show bra"
+            }
+        },
+        {
+            "product_name": "Clementine Apparel - Girls and Women Dance Bra with Clear Detachable Straps Unpadded & Seamless",
+            "product_details": {
+                "intended_use": [
+                    "dance competition",
+                    "dance practice",
+                    "active pursuits"
+                ],
+                "design": "clear detachable straps",
+                "visibility": "virtually invisible under outfits",
+                "adjustability": "adjustable straps for perfect fit",
+                "seamless": true,
+                "color": "nude",
+                "suitable_for": [
+                    "ballet",
+                    "other dance forms"
+                ],
+                "attributes": [
+                    "comfortable",
+                    "secure",
+                    "no-show"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "db4fa7534de5f12b923e8fb8e2a704a6",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Clementine Apparel - Girls and Women Dance Bra with Clear Detachable Straps Unpadded & Seamless\n\nDescription: Introducing the Girl Clear Detachable Straps Dance Bra, a must-have for any dancer or athlete looking for seamless and backless support. This bra is perfect for any dance competition or practice, as well as any other active pursuit where a regular bra just won't do. With its clear strap design, this bra is virtually invisible under any outfit, giving you the confidence to move freely without any distractions. The clear straps are adjustable, so you can find the perfect fit for your body, while the seamless design means that there are no awkward lines or bumps to worry about. This bra is available in a nude shade, making it perfect for wearing under light or sheer fabrics. This bra is perfect for ballet or any other dance form that requires a comfortable and secure bra. If you're looking for a no-show bra that won't detract from your outfit or performance, then the Girl Clear Detachable Straps Dance Bra is the perfect choice.",
+    "__pydantic_initialised__": true
+}

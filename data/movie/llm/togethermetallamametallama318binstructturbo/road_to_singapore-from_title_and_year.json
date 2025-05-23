@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Road to Singapore",
+    "descriptions": [
+        "\"Road to Singapore\" is a 1940 musical comedy film starring Bing Crosby and Bob Hope. The movie follows two friends, American James J. Drew (Bing Crosby) and British Malcolm 'Mac' Thompson (Bob Hope), who become embroiled in a series of misadventures while traveling to Singapore.\n\nUpon arriving in Singapore, the two men meet a young woman named Princess Lala (Dorothy Lamour), who is being pursued by a group of ruthless bandits. James and Mac decide to join forces with Lala to help her protect her island and her people from the bandits. Along the way, they engage in a series of comedic misadventures, including a series of musical numbers.\n\nAs the story unfolds, James becomes smitten with Lala, but Mac is not keen on the idea of his friend getting involved with the princess. The two men's differing opinions lead to a series of comedic misunderstandings and clashes.\n\nHowever, as the bandits close in on the island, James, Mac, and Lala must put aside their differences and work together to defend the island. In the end, they successfully defeat the bandits and James wins Lala's heart.\n\n\"Road to Singapore\" is a lighthearted and entertaining film that features the signature comedic style of Bing Crosby and Bob Hope. The movie's musical numbers, including the catchy \"Two Sleepy People,\" add to the film's lighthearted and upbeat tone. The movie's success can be attributed to the chemistry between the two leads, as well as the beautiful scenery and exotic locations that add to the film's sense of adventure.\n\nOverall, \"Road to Singapore\" is a fun and entertaining film that is sure to appeal to fans of musical comedies and classic Hollywood films."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "8ef47e491f8baedb93ca18a4a8159dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 428.0 words or less.\n\n---\n\n**Title:**\n\nRoad to Singapore\n\n**Year:**\n\n1940",
+    "include_year": false
+}

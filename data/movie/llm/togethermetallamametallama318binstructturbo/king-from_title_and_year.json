@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "King",
+    "descriptions": [
+        "\"King\" is a 2002 American drama film directed by Wayne Wang. The movie is based on the life of Larry King, the famous television and radio host. The film stars Jamie Foxx as Larry King, and is a biographical drama that explores his life, from his early days as a small-time DJ to becoming one of the most well-known media personalities in the world.\n\nThe movie follows Larry King's journey as he starts his career in radio, working on small stations and eventually landing a job at a major network. He becomes a successful host, known for his interviews with celebrities and his charismatic on-air personality. However, his personal life is marked by struggles, including a difficult childhood and a tumultuous marriage.\n\nThe film also explores King's rise to fame, including his move to television and the launch of his own talk show. Along the way, he faces challenges and setbacks, but ultimately becomes one of the most popular and respected figures in the media industry.\n\nThe movie features a strong performance from Jamie Foxx, who captures the spirit and energy of Larry King. The film also features a talented supporting cast, including Alicia Witt and Scott Bairstow. Through its engaging storyline and memorable performances, \"King\" offers a compelling look at the life and career of a media legend."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "92a68e2cc05e4e2afc5b2a64cb960a93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 339.0 words or less.\n\n---\n\n**Title:**\n\nKing\n\n**Year:**\n\n2002",
+    "include_year": false
+}

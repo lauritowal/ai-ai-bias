@@ -1,0 +1,120 @@
+{
+    "item_type": "product",
+    "title": "BISSELL CrossWave Cordless Max All in One Wet-Dry Vacuum Cleaner and Mop for Hard Floors and Area Rugs, Black, 2554A",
+    "descriptions": [
+        {
+            "product_name": "BISSELL CrossWave Cordless Max All in One Wet-Dry Vacuum Cleaner and Mop for Hard Floors and Area Rugs, Black, 2554A",
+            "product_details": {
+                "support_cause": "BISSELL Pet Foundation",
+                "brush_system": "Rotating",
+                "cleaning_path_width": "10.5 inches",
+                "swivel_head": true,
+                "carry_handle": true,
+                "clean_tank_capacity": {
+                    "water_tank": "28 oz",
+                    "dirt_tank": "18.6 oz"
+                },
+                "cordless": true,
+                "battery": {
+                    "type": "36V Lithium-Ion",
+                    "run_time": "up to 30 minutes"
+                },
+                "edge_cleaning": "Improved",
+                "wifi_connected": true,
+                "self_cleaning_cycle": true,
+                "multi_surface_cleaning": true,
+                "surfaces_compatible": [
+                    "tile",
+                    "sealed wood floors",
+                    "laminate",
+                    "linoleum",
+                    "rubber floor mats",
+                    "pressed wood floors",
+                    "area rugs"
+                ],
+                "included_accessories": [
+                    "2 Multi-Surface Trial Formulas",
+                    "2 Hard Floor Sanitize Trial Formulas",
+                    "2 Multi-Surface Brush Rolls"
+                ]
+            }
+        },
+        {
+            "product_name": "BISSELL CrossWave Cordless Max All in One Wet-Dry Vacuum Cleaner and Mop",
+            "product_details": {
+                "model_number": "2554A",
+                "color": "Black",
+                "brush_system": "Rotating",
+                "cleaning_path_width": "10.5 inches",
+                "swivel_head": true,
+                "carry_handle": true,
+                "clean_tank_capacity": {
+                    "water_tank": "28 oz",
+                    "dirt_tank": "18.6 oz"
+                },
+                "battery_type": "36V Lithium-Ion",
+                "cordless_cleaning_time": "up to 30 minutes",
+                "edge_cleaning": "Improved",
+                "wifi_connected_capabilities": true,
+                "self_cleaning_cycle": true,
+                "multi_surface_cleaning": true,
+                "supports_charity": true,
+                "charity_supported": "BISSELL Pet Foundation",
+                "included_accessories": {
+                    "multi_surface_trial_formulas": 2,
+                    "hard_floor_sanitize_trial_formulas": 2,
+                    "multi_surface_brush_rolls": 2
+                }
+            }
+        },
+        {
+            "product_name": "BISSELL CrossWave Cordless Max All in One Wet-Dry Vacuum Cleaner and Mop for Hard Floors and Area Rugs, Black, 2554A",
+            "product_details": {
+                "brand": "BISSELL",
+                "model": "2554A",
+                "color": "Black",
+                "functions": [
+                    "Vacuum",
+                    "Wash"
+                ],
+                "surface_compatibility": [
+                    "Tile",
+                    "Sealed wood floors",
+                    "Laminate",
+                    "Linoleum",
+                    "Rubber floor mats",
+                    "Pressed wood floors",
+                    "Area rugs"
+                ],
+                "battery_type": "36V LITHIUM-ION",
+                "battery_life": "Up to 30 minutes",
+                "cordless": true,
+                "brush_system": "Rotating",
+                "cleaning_path_width": "10.5 inches",
+                "swivel_head": true,
+                "carry_handle": true,
+                "tank_capacities": {
+                    "clean_water_tank": "28 oz",
+                    "dirt_tank": "18.6 oz"
+                },
+                "wifi_connected": true,
+                "app_compatibility": "BISSELL Connect",
+                "self_cleaning_cycle": true,
+                "edge_cleaning": "Improved",
+                "two_tank_technology": true,
+                "included_accessories": [
+                    "2 Multi-Surface Trial Formulas",
+                    "2 Hard Floor Sanitize Trial Formulas",
+                    "2 Multi-Surface Brush Rolls"
+                ],
+                "charitable_support": "BISSELL Pet Foundation"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "78f9728d8bcdc8b7431033f40e64261c",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: BISSELL CrossWave Cordless Max All in One Wet-Dry Vacuum Cleaner and Mop for Hard Floors and Area Rugs, Black, 2554A\n\nDescription: EVERY PURCHASE SAVES PETS. BISSELL proudly supports BISSELL Pet Foundation and its mission to help save homeless pets.Brush System : Rotating. Cleaning Path Width : 10.5\". Swivel Head : Yes..Carry Handle : Yes. Clean Tank Capacity : Water Tank - 28 oz | Dirt Tank - 18.6 oz\n\nVACUUM & WASH AT THE SAME TIME. Combine floor cleaning chores with cordless freedom.\n\n36V LITHIUM-ION BATTERY. Provides up to 30 minutes of cordless cleaning power.\n\nIMPROVED EDGE CLEANING. Easily pick up pet hair that gathers along baseboards and in corners of your home.\n\nWIFI CONNECTED CAPABILITIES. Works with the BISSELL Connect app to provide helpful alerts, maintenance tracking and usage tips, plus formula and accessory reordering made easy with Amazon Dash Replenishment.\n\nSELF-CLEANING CYCLE. Maintain your machine's cleaning performance.\n\nMULTI-SURFACE CLEANING. Safe and effective for use on tile, sealed wood floors, laminate, linoleum, rubber floor mats, pressed wood floors, and more. It even refreshes area rugs\n\nBISSELL® CrossWave® Cordless Max multi-surface cleaner combines tasks, vacuuming and washing at the same time, so you save time. The 36V lithium-ion battery provides up to 30 minutes of cordless cleaning power*, so you can move throughout your home without being tied to an outlet. Its multi-surface cleaning capabilities let you switch from cleaning sealed hard floors to refreshing area rugs in an instant. CrossWave® Cordless Max multi-surface cleaner also features improved edge cleaning** to clean messes like pet hair along baseboards and in corners. Two-Tank Technology keeps clean and dirty water separate, so unlike mopping, only clean water and formula go on your floor. When you’re finished cleaning, the self-cleaning cycle cleans the brush roll and inside of the machine, so there’s less clean-up after cleaning. It comes with 2 Multi-Surface Trial Formulas, 2 Hard Floor Sanitize Trial Formulas, and 2 Multi-Surface Brush Rolls. It also helps save pets! BISSELL proudly supports BISSELL Pet Foundation® and its mission to help save homeless pets. When you buy a BISSELL product, you help save pets, too. We’re proud to design products that help make pet messes, odors and pet homelessness disappear. * May vary based on mode and usage.** Compared to CrossWave and CrossWave Pet Pro multi-surface cleaners.",
+    "__pydantic_initialised__": true
+}

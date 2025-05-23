@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Vulture",
+    "descriptions": [
+        "In 1937's \"The Vulture,\" the story follows a daring reporter named Tim Daly who is hot on the trail of a notorious gang of criminals led by the elusive mastermind known only as \"The Vulture.\" As Daly uncovers more about the gang's illegal activities, he becomes a target for their wrath.\n\nWith the help of his resourceful girlfriend, a streetwise informant, and a tough police detective, Daly races against time to bring The Vulture and his gang to justice. As the stakes get higher and the danger increases, Daly must use all his wits and courage to outsmart the criminals and stay one step ahead of them.\n\nThe film is a thrilling mix of action, suspense, and intrigue as Daly and his allies navigate the dangerous world of organized crime in 1930s America. With twists and turns at every corner, \"The Vulture\" keeps viewers on the edge of their seats as they follow the gripping cat-and-mouse game between the determined reporter and the ruthless criminals.\n\nIn the end, Daly must confront The Vulture in a final showdown that will test his skills, his courage, and his resolve to bring justice to the city and put an end to the criminal empire once and for all."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3f2ad087bb1cac376822658c08cbe5e7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 232.0 words or less.\n\n---\n\n**Title:**\n\nThe Vulture\n\n**Year:**\n\n1937",
+    "include_year": false
+}

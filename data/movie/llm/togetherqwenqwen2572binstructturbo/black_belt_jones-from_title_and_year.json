@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Black Belt Jones",
+    "descriptions": [
+        "\"Black Belt Jones,\" released in 1974, is a blaxploitation action comedy film directed by Robert Clouse and starring Jim Kelly as the titular character, Jonie Jones. Set in Los Angeles, the film follows Jones, a skilled martial artist and private investigator, as he navigates the city's underworld to avenge the murder of his brother, who was killed by a powerful crime syndicate.\n\nWhen Jones discovers that his brother’s death is linked to a large-scale drug operation, he decides to take matters into his own hands. Using his expertise in martial arts and his wits, Jones infiltrates the criminal network, facing off against a variety of adversaries, including corrupt cops and ruthless mobsters. Along the way, he meets a beautiful and resourceful woman, played by Sheila Frazier, who becomes his ally and love interest.\n\nThe film is known for its blend of martial arts action, humor, and the vibrant 1970s aesthetic, featuring a memorable soundtrack that captures the era's funk and soul music. Despite its campy elements and over-the-top action sequences, \"Black Belt Jones\" remains a cult classic, showcasing Jim Kelly's charisma and physical prowess. The movie's blend of action and comedy, coupled with its social commentary on urban crime and racial dynamics, makes it a noteworthy entry in the blaxploitation genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nBlack Belt Jones\n\n**Year:**\n\n1974",
+    "include_year": false
+}

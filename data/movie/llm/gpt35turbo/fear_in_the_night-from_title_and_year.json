@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Fear in the Night",
+    "descriptions": [
+        "In the 1947 film \"Fear in the Night,\" the story follows a man named Vince Grayson who wakes up in the middle of the night with no memory of how he got there. He soon realizes that he is in a strange building, standing over the dead body of a man. Panicked and confused, Vince must figure out what happened and clear his name before he is accused of murder.\n\nAs Vince tries to piece together the events of the night, he uncovers a web of deceit and betrayal. He discovers that the man he is accused of killing was actually his tormentor from a previous job, and that he had been framed for the murder. With the help of his wife and a detective, Vince sets out to find the real killer and prove his innocence.\n\nThroughout the film, Vince experiences moments of intense fear and paranoia as he navigates through a series of twists and turns. As he delves deeper into the mystery, he begins to question his own sanity and whether he can trust anyone around him.\n\nIn a climactic showdown, Vince confronts the true killer and reveals the shocking truth behind the murder. With his name cleared and justice served, Vince can finally put his fear in the night to rest and move on with his life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "5adaaea8a2cdc41dbd1dc4a0295bdbeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nFear in the Night\n\n**Year:**\n\n1947",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Critters 2: The Main Course",
+    "descriptions": [
+        "In \"Critters 2: The Main Course\" (1988), the small, carnivorous aliens known as Critters return to Earth for another feeding frenzy. This time, the Critters have evolved and grown even more dangerous, causing havoc in a small town. The plot follows the residents of the town as they realize that the Critters have returned and are once again on the hunt for human prey.\n\nAs the town becomes overrun by the Critters, a group of brave individuals bands together to try to stop the alien creatures. Among them are former bounty hunters who have experience dealing with the Critters and are determined to protect the town. As they fight to survive and protect the townspeople, they must come up with a plan to defeat the Critters once and for all.\n\nThe stakes are raised as the Critters' numbers increase and they become more aggressive in their attacks. The townspeople must use their wits and resourcefulness to outsmart the creatures and prevent further destruction. Along the way, they uncover the aliens' true intentions and the reason for their return to Earth.\n\nWith a combination of action, humor, and suspense, \"Critters 2: The Main Course\" is a thrilling sci-fi horror film that keeps viewers on the edge of their seats. As the residents of the town face off against the relentless Critters, they must confront their fears and find the courage to stand up against the alien threat. Will they be able to defeat the Critters and save their town, or will they fall victim to the creatures' insatiable hunger?"
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "45f0f2adff61eaeb90ca9b7c56539912",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 314.0 words or less.\n\n---\n\n**Title:**\n\nCritters 2: The Main Course\n\n**Year:**\n\n1988",
+    "include_year": false
+}

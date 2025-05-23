@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Multinationals, Institutions and Innovation in Europe",
+    "descriptions": [
+        "Title: Multinationals, Institutions and Innovation in Europe\n\nAbstract:\nThis grant proposal seeks to investigate the location strategies of Multinational Enterprises (MNEs) and their territorial impacts in Europe. With MNEs contributing over a quarter of global GDP, equivalent to US$16 trillion in value added, understanding their role in shaping regional development is crucial. The significant increase in Foreign Direct Investment (FDI) outflows from developing economies, rising from 16% in 2007 to 31% in 2012, with a total of $426 billion in 2012, underscores the need for research in this area. This project aims to address existing gaps in literature and provide policy-making tools to support informed decision-making. By examining the complex relationships between MNEs, institutions, and innovation, this study will shed light on the spatial implications of MNE activities and contribute to the development of effective regional development policies in Europe. The expected outcomes will inform policymakers and stakeholders, ultimately enhancing the competitiveness and sustainability of European regions."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "generation_prompt_uid": "4029cf6d398da6a3f35e69b64509cdca",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 264 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Multinationals, Institutions and Innovation in Europe', 'proposal_details': {'multinational_enterprises_value_added': 'US$16 trillion', 'multinational_enterprises_world_GDP_percentage': 'more than a quarter', 'FDI_outflows_from_developing_economies_2012': '$426 billion', 'global_outflows_percentage_2012': '31%', 'global_outflows_percentage_2007': '16%', 'descriptions': ['Investigation of the location strategies of MNEs and their territorial impacts, addressing gaps in literature and providing policy-making tools.']}}"
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gamera vs. Viras",
+    "descriptions": [
+        "**Gamera vs. Viras (1968)**\n\nIn this sequel to the 1965 film \"Gamera,\" the giant turtle Gamera continues to protect Earth from extraterrestrial threats. This time, a malevolent alien race known as the Virasians invades Earth, seeking to drain the planet's resources and enslave humanity. The Virasians use their advanced technology to create a giant, tentacled monster called Viras, which they control to wreak havoc on major cities.\n\nA group of young friends, including a boy named Shoutaro, discovers the Virasians' plan and alerts the Japanese Self-Defense Forces. Shoutaro and his friends work together to uncover the aliens' hidden base, which is disguised as an ordinary building. Meanwhile, Gamera, who has been summoned by a mystical force, arrives to confront Viras.\n\nThe battle between Gamera and Viras is intense, with both monsters causing widespread destruction. Gamera, known for his protective nature, uses his powerful jaws, claws, and fiery breath to fight off the tentacled menace. The Japanese military also joins the fray, using their technology to support Gamera in his battle against the invaders.\n\nUltimately, Gamera defeats Viras, and the Virasians are forced to retreat. Shoutaro and his friends are hailed as heroes for their role in saving the world, while Gamera returns to the ocean, ready to defend Earth from future threats. The film ends with a message of hope and the importance of unity in the face of danger."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "d2f57f3aac903c548bde178b7c53cffa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nGamera vs. Viras\n\n**Year:**\n\n1968",
+    "include_year": false
+}

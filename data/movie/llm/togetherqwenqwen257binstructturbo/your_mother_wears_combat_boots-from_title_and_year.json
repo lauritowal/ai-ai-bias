@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Your Mother Wears Combat Boots",
+    "descriptions": [
+        "\"Your Mother Wears Combat Boots\" (1989) is a dark comedy that follows the life of Daniel, a rebellious teenager living in a small, conservative town. Daniel’s mother, Karen, is a free-spirited woman who dresses provocatively and lives life on her own terms, often wearing combat boots as a symbol of her independence. This clashes with the conservative norms of their community, causing tension and conflict.\n\nKaren’s unconventional behavior leads to her being ostracized by the town, with many viewing her as a threat to the community’s values. Daniel, torn between his love for his mother and the pressure to conform to his community's expectations, struggles with his identity and the expectations placed upon him.\n\nAs the story unfolds, Daniel’s relationships with his friends and his girlfriend are strained due to his mother’s actions, and he must navigate the complexities of growing up in a judgmental society. The film's humor and satire revolve around the absurdity of small-town values and the struggle for individuality in a conformist environment. Ultimately, the movie explores themes of family, freedom, and the challenges of adolescence in a rigid social milieu."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "bf16a593ede557c9b33894d843d9511b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 321.0 words or less.\n\n---\n\n**Title:**\n\nYour Mother Wears Combat Boots\n\n**Year:**\n\n1989",
+    "include_year": false
+}

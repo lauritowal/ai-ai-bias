@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "By Dawn's Early Light",
+    "descriptions": [
+        "'By Dawn's Early Light' is a 1990 American television film. The film is a post-apocalyptic thriller, based on the 1983 novel 'Trinity's Child' by William Prochnau.\n\nThe story revolves around a nuclear war that erupts between the United States and the Soviet Union after a series of misunderstandings and miscalculations. As the world descends into chaos, a lone B-52 bomber crew is sent on a mission to deliver a nuclear payload against the Soviet Union.\n\nThe crew, led by Major John McGowan (played by Powers Boothe), finds themselves struggling to come to terms with their mission and the devastating consequences that await if they succeed. However, they soon learn that their missile's guidance system has been damaged, and they must find an alternative target.\n\nMeanwhile, the President of the United States (played by Martin Landau) is desperately trying to establish communication with the Soviet Union to prevent further escalation and a full-blown nuclear war. As time ticks away, the tension builds up, and the crew of the B-52 must make a decision that will decide the fate of humanity.\n\n'By Dawn's Early Light' explores themes of nuclear war, the consequences of military action, and the human cost of conflict. The film received critical acclaim for its thought-provoking storyline, strong performances, and realistic portrayal of the events leading up to a nuclear war."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2e109f0fecc1840205d9bd020961550d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 829.0 words or less.\n\n---\n\n**Title:**\n\nBy Dawn's Early Light\n\n**Year:**\n\n1990",
+    "include_year": false
+}

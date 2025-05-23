@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Black Belt Jones",
+    "descriptions": [
+        "\"Black Belt Jones\" is a 1974 martial arts action film that follows the story of a skilled martial artist named Black Belt Jones. When a local karate school is threatened by a group of mobsters who want to take over the property, Black Belt Jones steps in to protect the school and its students. With his impressive martial arts skills and determination to fight for justice, Black Belt Jones takes on the mobsters in a series of intense and action-packed fight scenes.\n\nAs Black Belt Jones battles the mobsters, he forms a bond with the students at the karate school, teaching them his fighting techniques and guiding them in their own quest for justice. Along the way, Black Belt Jones uncovers a larger conspiracy involving corruption and organized crime in the city, making his mission even more dangerous and challenging.\n\nThroughout the film, Black Belt Jones faces numerous obstacles and enemies, but his determination and fighting abilities never waver. As he fights to protect the karate school and bring down the mobsters, Black Belt Jones proves himself to be a true hero and a force to be reckoned with.\n\n\"Black Belt Jones\" is a thrilling and action-packed film that showcases the skills of its lead actor and the excitement of martial arts combat. With its fast-paced fight scenes and compelling storyline, the movie is sure to entertain fans of martial arts and action films alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nBlack Belt Jones\n\n**Year:**\n\n1974",
+    "include_year": false
+}

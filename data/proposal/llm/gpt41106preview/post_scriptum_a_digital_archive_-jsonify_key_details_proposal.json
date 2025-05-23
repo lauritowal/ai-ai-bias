@@ -1,0 +1,66 @@
+{
+    "item_type": "proposal",
+    "title": "Post Scriptum: A Digital Archive of Ordinary Writings (Early Modern Portugal and Spain)",
+    "descriptions": [
+        {
+            "proposal_name": "Post Scriptum: A Digital Archive of Ordinary Writings (Early Modern Portugal and Spain)",
+            "proposal_details": {
+                "time_period": "17th to early 19th century",
+                "countries": [
+                    "Portugal",
+                    "Spain"
+                ],
+                "document_type": "personal letters",
+                "authors": [
+                    "servants",
+                    "children",
+                    "wives",
+                    "lovers",
+                    "thieves",
+                    "soldiers",
+                    "artisans",
+                    "priests",
+                    "political fighters"
+                ],
+                "institutions_involved": [
+                    "Inquisition",
+                    "civil courts"
+                ],
+                "research_features": [
+                    "systematic collection",
+                    "edition",
+                    "historical-linguistic study"
+                ],
+                "additional_sources": [
+                    "sociological interviews"
+                ],
+                "study_focus": [
+                    "well-contextualized study",
+                    "inter-personal modes of relation",
+                    "traditional communities"
+                ],
+                "content_characteristics": [
+                    "oral rhetoric",
+                    "expression of emotions",
+                    "commonsense statements",
+                    "confession of non-orthodox beliefs",
+                    "narration of trivial incidents"
+                ],
+                "project_output": [
+                    "large collection assembly",
+                    "online digital edition",
+                    "philological treatment",
+                    "cultural and linguistic study"
+                ],
+                "editing_standards": [
+                    "Textual Criticism"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "4c6d95eff106b5834ab8a4a5e5f7df65",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPost Scriptum: A Digital Archive of Ordinary Writings (Early Modern Portugal and Spain)\n\n**Description:**\n\nThe project P.S. proposes to build up a campaign of systematic collection, edition and historical-linguistic study of personal letters written in the Early Modern Ages (17th to early 19th century) in Portugal and Spain. The documents in question are original epistolary writings made by servants, children, wives, lovers, thieves, soldiers, artisans, priests, political fighters, and many other types of social agents whose paths were crossed by the prosecuting ways of the Inquisition and the civil courts, two institutions that used to seize personal correspondence as instrumental proof. Since the documents are accompanied by the ‘sociological interviews’ carried out by inquisitors and judges, they allow researchers a well-contextualized study of traditional communities in their inter-personal modes of relation. The sources’ texts contain very frequently an (almost) oral rhetoric through which emotions were expressed, commonsense was stated, non-orthodox beliefs were confessed and trivial incidents were narrated. Until now, it has been difficult to discover more than thin samples of this Early Modern ‘popular’ discourse. The P.S. project will not only assemble a large collection of it, but it will also match its philological treatment – an online digital edition following Textual Criticism standards – with the cultural and linguistic study of its contents."
+}

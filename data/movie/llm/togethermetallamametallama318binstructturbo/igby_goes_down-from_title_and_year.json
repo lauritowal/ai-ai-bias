@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Igby Goes Down",
+    "descriptions": [
+        "\"Igby Goes Down\" is a 2002 American comedy-drama film directed by Burr Steers. The movie revolves around Igby Slocow (played by Kieran Culkin), a rebellious and troubled teenager growing up in a dysfunctional family in New York City.\n\nIgby's life is turned upside down when his father (played by Bill Pullman) kicks him out of the house after discovering his infidelity. Forced to live with his wealthy and emotionally distant mother (played by Susan Sarandon) and her new husband, Igby feels like an outsider in his own family.\n\nAs Igby navigates his complicated family dynamics, he also struggles with his own identity and sense of belonging. He falls for a beautiful and charming classmate named Sookie (played by Claire Danes), but their relationship is complicated by Igby's family problems and his own emotional baggage.\n\nThroughout the film, Igby's character evolves as he learns to confront his demons and find his own path in life. With the help of Sookie and a few other unlikely allies, Igby eventually finds a sense of purpose and belonging, and begins to make amends with his family.\n\nThe film features a strong cast, including Matthew Broderick as Igby's eccentric and slightly unhinged uncle, Jason. The movie's tone is both humorous and poignant, offering a nuanced and insightful look at the complexities of family relationships and the challenges of growing up.\n\nOverall, \"Igby Goes Down\" is a critically acclaimed film that explores themes of identity, family, and self-discovery. With its witty dialogue, memorable characters, and nuanced performances, it's a must-see for anyone who's ever struggled to find their place in the world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "c67777baafcc73035d776c6cd8d74ac3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 382.0 words or less.\n\n---\n\n**Title:**\n\nIgby Goes Down\n\n**Year:**\n\n2002",
+    "include_year": false
+}

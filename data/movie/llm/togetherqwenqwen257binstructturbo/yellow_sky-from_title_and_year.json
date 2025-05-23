@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Yellow Sky",
+    "descriptions": [
+        "**Plot Summary of Yellow Sky (1948)**\n\nYellow Sky is a film that takes place in the dusty, sun-baked landscapes of the American West during the late 19th century. The movie follows the journey of a lawless gunslinger, John \"Black Jack\" McQueen, portrayed by a gritty and brooding actor, as he navigates the treacherous terrain of Texas. McQueen is on the run from a relentless bounty hunter, Sheriff Elias Adams, who is determined to capture the infamous outlaw.\n\nUpon entering the small town of Yellow Sky, McQueen befriends a local rancher, Tom Reynolds, and his daughter, Sarah. The town, however, is under the control of a corrupt businessman, Jack Thorpe, who is in league with a group of ruthless bandits. McQueen finds himself caught in a web of revenge, loyalty, and the struggle for justice in a community where the line between right and wrong is blurred.\n\nAs tensions rise and alliances shift, McQueen must use his cunning and deadly skills to protect Sarah and the innocent townsfolk from Thorpe's men. Meanwhile, Sheriff Adams closes in, threatening to bring McQueen to justice or face the consequences of his pursuit. The climax of the film features a tense showdown in the heart of Yellow Sky, where McQueen must make a choice between his past and his future, and between life and death.\n\nYellow Sky blends elements of the Western genre with a noir-like atmosphere, exploring themes of redemption, the moral ambiguity of the American frontier, and the cost of violence. The film's stark cinematography and the raw performances of its cast create a vivid and compelling narrative that keeps the audience engaged until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "7f25b68064ee0fc036e936a24856221c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 412.0 words or less.\n\n---\n\n**Title:**\n\nYellow Sky\n\n**Year:**\n\n1948",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love Exposure",
+    "descriptions": [
+        "Love Exposure is a 2008 Japanese romantic drama film written and directed by Sion Sono. The film follows the story of Tetsu, a 17-year-old high school student who lives with his single mother and younger sister. Tetsu's mother, non-ironically, practices \"shudo,\" a form of Japanese spirituality that emphasizes the importance of temptation and moral purification.\n\nAs Tetsu enters adulthood, he becomes increasingly fascinated with the concept of shudo and begins to explore its teachings. He soon discovers that his mother's teachings are rooted in a complex web of relationships and experiences that have shaped her life. Tetsu's curiosity leads him to meet several women who are involved in his mother's spiritual circle, including Sonoko, a kind-hearted but troubled woman who becomes a central figure in Tetsu's life.\n\nAs Tetsu's relationships with these women deepen, he finds himself caught in a complex web of emotions and experiences that blur the lines between good and evil. Through his relationships, Tetsu begins to question the morality and validity of his mother's teachings, and he starts to forge his own path in the world.\n\nThe film is a poignant exploration of the complexities of human relationships and the search for meaning in a chaotic world. Through Tetsu's journey, Love Exposure offers a nuanced and thought-provoking portrayal of the human experience, one that challenges viewers to confront their own assumptions and biases.\n\nLove Exposure features a talented ensemble cast, including Takako Matsu, Sakurai Sho, and Kitano Takeo. The film's cinematography is striking, capturing the vibrant colors and textures of Tokyo's urban landscape. The film's score is equally effective, incorporating a range of musical styles to create a sense of mood and atmosphere.\n\nOverall, Love Exposure is a thought-provoking and emotionally resonant film that offers a unique and compelling portrayal of the human experience. With its complex characters, nuanced themes, and striking visuals, the film is a must-see for anyone interested in Japanese cinema or the work of Sion Sono."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b3cdb8a0833993acab5c60fe65755f9e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 546.0 words or less.\n\n---\n\n**Title:**\n\nLove Exposure\n\n**Year:**\n\n2008",
+    "include_year": false
+}

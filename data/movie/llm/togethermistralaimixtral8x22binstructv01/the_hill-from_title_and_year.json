@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hill",
+    "descriptions": [
+        " In the sweltering heat of a North African military prison during World War II, \"The Hill\" (1965) is a gripping tale of brutality, defiance, and survival. Directed by Sidney Lumet, the film explores the psychological and physical torment endured by five British soldiers interned for various crimes.\n\nThe protagonist, Staff Sergeant Roberts (Sean Connery), is a rebellious officer convicted of black-market dealings. Upon arrival, he and four other prisoners are subjected to the merciless regime of the camp's commandant, Wilson (Harry Andrews), and his vindictive second-in-command, Sergeant Major Bert East (Ian Bannen). The prisoners' punishment consists of endless climbing up and down a man-made hill, carrying heavy bags of sand under the scorching sun.\n\nThe Hill serves as a metaphor for the soldiers' struggle to maintain their dignity and sanity amidst their oppressive captors. Each prisoner represents a unique response to the relentless abuse. Roberts, despite his defiant nature, remains resilient, while others crumble under the pressure. The soldiers' interactions reveal their desperation and camaraderie, as they grapple with their bleak circumstances.\n\nThe film reaches its climax when a fellow prisoner, King (Ossie Davis), dies from the torturous punishment. This tragedy forces Roberts to confront the sadistic Sergeant Major East, who is ultimately held accountable for the unjust treatment of the prisoners. In the end, Roberts emerges as a symbol of resistance and perseverance, having conquered the Hill and the tyrannical forces that sought to break him.\n\nWith its powerful performances, stark black-and-white cinematography, and unflinching portrayal of military brutality, \"The Hill\" is a poignant commentary on the dehumanizing effects of war and the indomitable spirit of those who refuse to be broken. Lumet's masterful direction and Ray Rigby's Academy Award-nominated screenplay ensure that \"The Hill\" remains a haunting and thought-provoking cinematic experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "7e80f012a3e6d943a0b037234a342233",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 397.0 words or less.\n\n---\n\n**Title:**\n\nThe Hill\n\n**Year:**\n\n1965",
+    "include_year": false
+}

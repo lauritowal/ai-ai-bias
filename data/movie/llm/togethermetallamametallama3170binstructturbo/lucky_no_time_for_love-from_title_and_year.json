@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lucky: No Time for Love",
+    "descriptions": [
+        "'Lucky: No Time for Love' is a 2005 Indian romantic drama film directed by Radhika Rao and Vinay Sapru. The film stars Salman Khan and Sneha Ullal in the lead roles.\n\nThe story revolves around Lucky (played by Salman Khan), a young man who is bound by a promise to his mother to look after his younger sister. Lucky lives in Russia with his sister, where he works as a taxi driver. \n\nAditya Sekhri (also played by Salman Khan), a wealthy businessman, is the spitting image of Lucky, and their lives intersect when Aditya decides to fake his own death to get away from his responsibilities. He asks Lucky to impersonate him and take his place in his life.\n\nAs Lucky navigates his new life as Aditya, he falls in love with Aditya's fiancée, but their love is complicated due to the circumstances of their meeting. The film explores themes of love, family, and identity as Lucky struggles to find his place in the world and keep the truth hidden."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "68e35a951cf86336918f53d43c4b204c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005",
+    "include_year": false
+}

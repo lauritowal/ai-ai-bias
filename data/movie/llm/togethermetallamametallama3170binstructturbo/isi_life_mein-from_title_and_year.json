@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Isi Life Mein",
+    "descriptions": [
+        "Isi Life Mein is a 2010 Indian Hindi-language coming-of-age drama film. The movie revolves around Akshay Oberoi (played by Akshay Oberoi), a young man who moves to Mumbai to pursue his MBA. However, he feels suffocated by the conventional expectations placed upon him by his family.\n\nAkshay's life takes a turn when he meets a free-spirited young woman named Mohnish (played by Sandeepa Dhar). Mohnish is from a small town and is eager to explore Mumbai and its culture. As Akshay and Mohnish become close friends, they start to influence each other's lives, and Akshay finds himself questioning his life choices.\n\nAkshay and Mohnish join a theater group, and Akshay starts to find a sense of belonging and discovers his passion for acting. However, this newfound passion creates tension between Akshay and his family, who expect him to focus on his studies and secure a stable job.\n\nAs Akshay navigates his relationships and pursues his passion for acting, he must also confront the societal expectations that surround him. The movie explores themes of self-discovery, friendship, and the challenges of finding one's true identity in a society with traditional values.\n\nUltimately, Isi Life Mein is a heartwarming and relatable film that explores the complexities of young adulthood and the importance of following one's dreams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a3f3fa62b6946b3dddb0b4ec870172cc",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 567.0 words or less.\n\n---\n\n**Title:**\n\nIsi Life Mein\n\n**Year:**\n\n",
+    "include_year": false
+}

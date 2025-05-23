@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chandamama",
+    "descriptions": [
+        "Chandamama is a 2007 Indian Telugu-language drama film directed by Krishna Vamsi. The movie revolves around a young boy named Viswa (played by Varun Sandesh), who lives with his grandmother, Chandamama (played by Lakshmi), in a small village. \n\nViswa, a talented singer, is torn between his grandmother's wishes for him to pursue a career in music and his own desire to attend college. Viswa decides to travel to the city for education, where he falls in love with a girl named Mahalakshmi (played by Kajal Aggarwal). However, their social differences pose a significant obstacle to their relationship.\n\nViswa struggles to balance his love for music and his love for Mahalakshmi. In the process, he also has to deal with the societal pressures and challenges of living in the city. The movie takes the audience on a journey of love, music, and self-discovery, as Viswa navigates through various difficulties and learns to stay true to himself and his roots.\n\nThe title 'Chandamama' refers to the affectionate term used to address the grandmother in the story, emphasizing the strong bond between Viswa and his grandmother. The film explores themes of family, love, and following one's dreams, making it a heartwarming and engaging watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5f682c2bf484b9f3e4b8f257135fa2e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 306.0 words or less.\n\n---\n\n**Title:**\n\nChandamama\n\n**Year:**\n\n2007",
+    "include_year": false
+}

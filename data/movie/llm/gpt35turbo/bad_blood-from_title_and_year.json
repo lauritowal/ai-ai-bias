@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bad Blood",
+    "descriptions": [
+        "In \"Bad Blood\" (2010), the story follows two estranged brothers, Jack and Mike, who are forced to reunite after their father's sudden death. As they come together to settle their father's affairs, they uncover a dark family secret that threatens to tear them apart once again.\n\nThe brothers soon discover that their father had ties to a notorious crime syndicate, and they find themselves caught in the middle of a dangerous underworld power struggle. As they delve deeper into their father's past, they realize that they may not have known him as well as they thought.\n\nJack, the older brother, is a former cop who is determined to get to the bottom of their father's secrets, while Mike, the younger brother, is a reckless troublemaker who is more interested in getting his hands on their father's hidden fortune.\n\nAs tensions rise between the brothers and the criminal underworld closes in, Jack and Mike must put aside their differences and work together to survive. Along the way, they must confront their own demons and come to terms with the truth about their family's dark legacy.\n\n\"Bad Blood\" is a gripping thriller that explores themes of family, betrayal, and redemption as the brothers fight to uncover the truth and ultimately find a way to move forward together."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "fad8e49af36a1e504874a347d99bf4b4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nBad Blood\n\n**Year:**\n\n2010",
+    "include_year": false
+}

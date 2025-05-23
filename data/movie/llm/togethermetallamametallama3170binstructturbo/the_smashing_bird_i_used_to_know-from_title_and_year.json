@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Smashing Bird I Used to Know",
+    "descriptions": [
+        "I couldn't find any information on a 1969 movie titled 'The Smashing Bird I Used to Know.' It is possible that this movie does not exist or is a lesser-known or obscure film. If you have any more information or clarification about the movie, I would be happy to try and assist you further.\n\nHowever, I can suggest that 'The Smashing Bird I Used to Know' might be an alternate or working title of a film, or it could be a mistaken title. If you have any additional details, such as director or cast, I might be able to provide a more accurate response.\n\nIn the meantime, I can offer some general information about the film industry in 1969. This was a significant year for cinema, with the release of influential films such as 'Easy Rider,' 'Midnight Cowboy,' and '2001: A Space Odyssey.' These movies showcased the evolving landscape of filmmaking and paved the way for future generations of filmmakers.\n\nIf you have any more information about 'The Smashing Bird I Used to Know,' I would be happy to try and assist you in finding a plot summary."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d5e7a5b66f7f34e922be871554b9b28f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 493.0 words or less.\n\n---\n\n**Title:**\n\nThe Smashing Bird I Used to Know\n\n**Year:**\n\n1969",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Samson",
+    "descriptions": [
+        "**Title: Samson (1961)**\n\n\"Samson,\" a 1961 biblical epic, is a dramatic retelling of the story of the legendary Israelite hero Samson, known for his extraordinary strength, which is tied to his uncut hair. Directed by Daniele Costantini and featuring Steve Reeves in the titular role, the film brings to life the tumultuous times of ancient Israel and the Philistines.\n\nSet in the 12th century BCE, the story begins with Samson, a man blessed by God with immense physical power, living among his people, the Israelites, who are oppressed by the Philistines. Samson's life takes a dramatic turn when he falls in love with Delilah, a woman of Philistine origin. Despite the tensions between their peoples, Delilah is initially captivated by Samson's strength and charm.\n\nAs the relationship deepens, the Philistines, aware of Samson's power, plot to exploit his weakness. Delilah, seduced by the promise of wealth and power from the Philistines, betrays Samson by discovering the secret of his strength—his uncut hair. She cuts his hair while he sleeps, rendering him vulnerable and powerless.\n\nCaptured and blinded by the Philistines, Samson is forced into servitude. However, his faith in God remains unshaken. In a climactic scene, Samson's hair begins to grow back, symbolizing the return of his divine strength. During a grand celebration in the Philistine temple, Samson, with his strength restored, pushes apart the pillars of the temple, causing it to collapse, killing himself and many Philistines, including their leaders.\n\nThe film emphasizes themes of faith, betrayal, and redemption, showcasing the complexities of human nature and the power of divine intervention. \"Samson\" is a visually stunning and emotionally charged portrayal of one of the most iconic stories from the Bible."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+    "include_year": false
+}

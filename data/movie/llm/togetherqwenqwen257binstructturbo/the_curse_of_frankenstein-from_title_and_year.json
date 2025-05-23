@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Curse of Frankenstein",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"The Curse of Frankenstein,\" released in 1957, is a classic horror film directed by Terence Fisher and produced by Halliwell Miller Productions and Gainsborough Pictures. The movie is a prequel to James Whale's 1931 \"Frankenstein\" and delves into the origins of the creature. Dr. Henry Frankenstein (Peter Cushing), an ambitious and brilliant scientist, returns to his family's castle after a long absence. He seeks to create life through his experiments, using the services of the local gravedigger, Victor Godalmen (Brett Halsey), to provide body parts for his illicit creations.\n\nUpon his return, Frankenstein is met with disapproval from his father, Baron Frankenstein (Robert Rohmer), who disapproves of his son's new focus. The baron is concerned about the ethical implications of Frankenstein's work and the potential danger it poses to society. Despite his father's warnings, Frankenstein continues his experiments, believing he can create the perfect human being.\n\nAs the experiments progress, the creature (played by Peter Cushing, in a dual role) comes to life, but is grotesque and fearsome. This leads to a series of misadventures, with the creature causing havoc and terrorizing the villagers. Frankenstein, torn between his scientific ambition and his moral conscience, struggles to control his creation. The film culminates in a climactic confrontation where Frankenstein attempts to destroy the creature once and for all, leading to a haunting and memorable conclusion that sets the stage for the future adventures of this famous monster."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "8692f6b0605433225a3a2298ec4ec951",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 426.0 words or less.\n\n---\n\n**Title:**\n\nThe Curse of Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

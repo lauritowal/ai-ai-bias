@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "No sos vos, soy yo",
+    "descriptions": [
+        "\"No sos vos, soy yo\" (2004) is an Argentine romantic comedy directed by Diego Kaplan. The film follows the story of Tomás, a successful but emotionally detached architect, who finds himself in a series of comedic and confusing situations that force him to re-evaluate his life and relationships. After a sudden breakup with his girlfriend, Tomás embarks on a journey of self-discovery, encountering a variety of eccentric characters along the way. Each encounter pushes him to confront his own flaws and the reasons behind his relationship failures. Through a mix of humor and heartfelt moments, Tomás learns valuable lessons about love, communication, and personal growth. The film explores the complexities of modern relationships and the importance of being true to oneself."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "ce4acd7bf5728a3977c309ea5cbdb644",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nNo sos vos, soy yo\n\n**Year:**\n\n2004",
+    "include_year": false
+}

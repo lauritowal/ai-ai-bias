@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Fair-Haired Hare",
+    "descriptions": [
+        "In the 1951 Looney Tunes cartoon, \"The Fair-Haired Hare\", Bugs Bunny, a wisecracking and clever rabbit, is on the run from Elmer Fudd, his persistent and hapless nemesis. The story revolves around a rivalry between two con artists - Elmer and Bugs - vying for the attention of a beautiful female character named Penelope Pussycat, who's being targeted by Elmer for her supposed wealth.\n\nThe cartoon begins with Bugs attempting to woo Penelope, but Elmer discovers them and, in an attempt to steal her away, offers her a 'marriage proposal'. However, Bugs, who has grown tired of Elmer's antics and is in love with Penelope, decides to outsmart him. \n\nIn the course of the cartoon, Bugs utilizes his quick wit and cunning to evade Elmer and to win Penelope's heart. The rivalry between the two characters leads to various comedic situations, with Elmer initially appearing to be a suitor for Penelope before realizing he's been outsmarted by Bugs.\n\nThroughout the cartoon, the tone is humorous and satirical, poking fun at classic romantic comedies, with Elmer's numerous failures serving as the source of comedic value. The cartoon showcases Bugs' resourcefulness and cleverness as he consistently outwits Elmer and wins over Penelope.\n\nThe cartoon's climax features Bugs and Elmer in a comical showdown, with the rabbit successfully outsmarting his pursuer once more. Ultimately, Bugs and Penelope win over the audience, and the cartoon ends with the two sharing a romantic moment, while Elmer Fudd remains the lovable but hapless foil to their love story.\n\n\"The Fair-Haired Hare\" is a classic example of the Looney Tunes style of humor, blending witty one-liners with slapstick comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "5face4747b7cf78320ae5f11f8e34d1a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 487.0 words or less.\n\n---\n\n**Title:**\n\nThe Fair-Haired Hare\n\n**Year:**\n\n1951",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pyaar Ke Side Effects",
+    "descriptions": [
+        "Pyaar Ke Side Effects is a romantic comedy film that follows the story of Sid and Trisha, a couple in a long-term relationship. Sid, a commitment-phobic musician, loves his carefree lifestyle and is hesitant to take the next step with Trisha. On the other hand, Trisha, a successful career woman, is ready to settle down and start a family.\n\nAs their differences become increasingly apparent, they begin to experience the side effects of being in love. Trisha starts to question whether Sid is truly committed to their relationship, while Sid struggles with the idea of settling down and giving up his independence. The couple faces various challenges as they navigate their relationship, from misunderstandings to jealousy and trust issues.\n\nThings come to a head when Trisha discovers that she is pregnant, forcing both Sid and Trisha to confront their fears and insecurities. Sid is terrified of becoming a father and worries about losing his freedom, while Trisha is unsure if Sid will step up and be a responsible partner and father.\n\nThroughout the film, the couple seeks advice from friends and family members, each offering their own perspective on love and relationships. As they try to figure out their feelings for each other, Sid and Trisha must decide if their love is strong enough to overcome the side effects of their differences.\n\nIn the end, Sid and Trisha realize that love is not always easy, but it is worth fighting for. They come to understand that relationships require compromise, communication, and trust. The film ends on a hopeful note, with Sid and Trisha embracing their future together, ready to face whatever challenges may come their way. Pyaar Ke Side Effects is a heartwarming and relatable story about the ups and downs of love and the importance of open and honest communication in a relationship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "945de2a97984919b6ffe7fed2110f877",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 356.0 words or less.\n\n---\n\n**Title:**\n\nPyaar Ke Side Effects\n\n**Year:**\n\n2006",
+    "include_year": false
+}

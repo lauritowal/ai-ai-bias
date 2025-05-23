@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mysteries of a Barbershop",
+    "descriptions": [
+        "1923\n\n**Plot Summary:**\n\n\"Mysteries of a Barbershop\" is a silent short film directed by Erich von Stroheim and Bertolt Brecht. Set in the early 1920s, the film unfolds within the quirky confines of a small-town barbershop run by a whimsical barber named Mr. Schnipp. The barbershop serves as a gathering place for an eclectic mix of characters, each with their own peculiarities and secrets.\n\nOne day, a mysterious stranger arrives, setting off a series of comedic and bizarre events. The stranger is revealed to be a fugitive on the run, hiding a valuable secret. Mr. Schnipp and his customers become unwittingly entangled in the stranger's affairs, leading to a wild chase involving mistaken identities, slapstick mishaps, and a relentless detective determined to crack the case.\n\nAs the characters interact, the barbershop is transformed into a stage for absurdity and intrigue. The film's silent nature amplifies the physical comedy and visual gags, paying homage to the silent film era's unique storytelling style. \"Mysteries of a Barbershop\" is a delightful romp that showcases the humor and social commentary characteristic of early 20th-century cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c3a73040dc46186b8543a8a8a85cd9df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nMysteries of a Barbershop\n\n**Year:**\n\n",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tol'able David",
+    "descriptions": [
+        "Tol'able David is a 1921 American silent drama film directed by Henry King. The movie is based on a 1917 short story of the same name by Joseph Hergesheimer. The story takes place in a rural West Virginia valley and revolves around the life of David Kinemon, a kind-hearted and gentle young man.\n\nDavid is portrayed as the youngest son of a family of farmers. He is nicknamed 'Tol'able' (meaning 'tolerable' in the local dialect) because of his easygoing nature. David lives with his family, consisting of his mother, his older brother, and his sister. However, their peaceful life is disrupted by the arrival of the Hatburn brothers, who are notorious troublemakers in the area.\n\nThe story takes a turn when David's brother is severely injured in an altercation with the Hatburns. Feeling responsible for defending his family, David decides to confront the Hatburns. In the process, he faces numerous challenges and discovers his own strength and courage. Along the way, David also finds romance with a kind-hearted schoolteacher.\n\nThroughout the film, David undergoes significant personal growth, transforming from a timid young man into a brave and determined individual. The movie showcases the themes of courage, family loyalty, and love, set against the picturesque backdrop of rural West Virginia.\n\nAs a silent film, Tol'able David relies heavily on visual storytelling and the performances of its cast, particularly Richard Barthelmess, who portrays the title character. Despite being released over a century ago, the movie remains a classic of American cinema, showcasing the beauty of rural life and the power of human resilience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d09e4f70601c087a1ecb645fa80e0e8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 379.0 words or less.\n\n---\n\n**Title:**\n\nTol'able David\n\n**Year:**\n\n1921",
+    "include_year": false
+}

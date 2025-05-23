@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Humanité",
+    "descriptions": [
+        "\"Humanité\" (1999) is a French documentary that delves into the daily lives of various individuals from diverse backgrounds. Directed by Agnès Varda and JR, the film showcases a series of vignettes featuring people from different corners of the world, each facing unique challenges and joys. Through intimate conversations and candid moments captured on camera, the film explores themes of identity, community, and the human condition. The narrative weaves together stories from a taxi driver in Iraq, a couple struggling with infidelity, and a family dealing with the aftermath of a car accident. \"Humanité\" captures the essence of humanity in its raw and unfiltered form, highlighting the common threads that connect us all despite our differences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "30441b301a481382dff20b122f946029",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999",
+    "include_year": false
+}

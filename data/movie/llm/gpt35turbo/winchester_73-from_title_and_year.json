@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Winchester '73",
+    "descriptions": [
+        "In the movie \"Winchester '73\" set in 1876, a man named Lin McAdam (played by James Stewart) is on a quest to find the man who killed his father. The story begins with a shooting contest where the prize is a rare and highly coveted Winchester '73 rifle. Lin wins the rifle, but it is stolen by a man named Dutch Henry Brown (played by Stephen McNally). \n\nLin is determined to track down Dutch Henry and retrieve his father’s rifle, which he believes will lead him to the man who murdered his father. Along the way, Lin encounters a variety of characters, each with their own agenda and connection to the rifle. \n\nAs Lin pursues Dutch Henry, he crosses paths with a young man named Young Bull (played by Rock Hudson) who also has his eyes set on the rifle. The two men engage in a tense rivalry as they both seek to claim the prized Winchester '73 for themselves. \n\nThroughout his journey, Lin faces numerous challenges and dangers, including a run-in with an outlaw named Waco Johnny Dean (played by Dan Duryea) and his gang. Lin also finds himself caught in the middle of a conflict between two Native American tribes, further complicating his quest for vengeance. \n\nAs the story unfolds, secrets are revealed, alliances are tested, and loyalties are questioned. Lin’s pursuit of Dutch Henry becomes more personal as he learns the truth about his father’s death and the role the Winchester '73 rifle played in the tragic event. \n\nIn the climactic final showdown, Lin finally confronts Dutch Henry, leading to a dramatic and intense shootout that will determine the fate of both men. The Winchester '73 rifle becomes a symbol of power, revenge, and redemption as the characters’ fates are sealed in a final, fateful showdown. \n\n\"Winchester '73\" is a classic Western film that explores themes of justice, revenge, and the power of a single weapon to change the course of a man’s life. The film is a gripping tale of one man’s quest for vengeance and the sacrifices he must make along the way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "b9339ec785ad6762bb1301ec20e956d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 939.0 words or less.\n\n---\n\n**Title:**\n\nWinchester '73\n\n**Year:**\n\n1950",
+    "include_year": false
+}

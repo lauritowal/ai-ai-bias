@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Super Troopers",
+    "descriptions": [
+        "\"Super Troopers\" is a 2001 comedy film that follows the antics of five quirky and mischievous Vermont state troopers. The troopers, Thorny, Mac, Foster, Rabbit, and Farva, are not your typical law enforcement officers. They spend their days pulling pranks on each other and the public, rather than focusing on their actual job of patrolling the highways.\n\nHowever, when their department is threatened with closure due to budget cuts, the troopers must step up their game and prove their worth to their superiors. As a last-ditch effort to save their jobs, they set out to solve a series of crimes that have been occurring in their jurisdiction.\n\nAs the troopers investigate the crimes, they uncover a smuggling operation being run by a group of corrupt local police officers. The troopers must use their unorthodox methods and quick wit to take down the corrupt cops and save their department from being shut down.\n\nThroughout the film, the troopers find themselves in a series of hilarious and outrageous situations, from pulling over speeders in ridiculous costumes to engaging in a heated rivalry with a group of local firefighters. Their antics not only entertain audiences but also endear them to the local community, who rally behind the troopers in their fight to save their jobs.\n\nDespite their unorthodox methods, the troopers ultimately prove themselves to be competent and dedicated law enforcement officers. With their jobs saved and the corrupt cops behind bars, the troopers celebrate their victory and toast to their continued success as the \"Super Troopers\" of Vermont.\n\n\"Super Troopers\" is a comedy that blends slapstick humor with heartwarming moments, as the troopers learn valuable lessons about friendship, teamwork, and the importance of taking their jobs seriously. The film's quirky characters and absurd situations make it a cult classic that continues to entertain audiences years after its release."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "b059faced9d55d5f65dabfc700a5bb8e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nSuper Troopers\n\n**Year:**\n\n2001",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Conrack",
+    "descriptions": [
+        "\"Conrack,\" released in 1974, is a poignant drama based on the autobiographical novel by Pat Conroy. The film stars Jon Voight as Pat Conroy, a young and idealistic teacher who takes a job on Yamacraw Island, a remote and impoverished community off the coast of South Carolina. Conroy's students are primarily African American children who have been largely neglected by the educational system. Despite the challenges, including resistance from the island's white superintendent and the locals' skepticism, Conroy dedicates himself to his students, inspiring them to dream beyond their current circumstances. His unyielding commitment leads to conflicts with the school board, which threatens his job. As the school year progresses, Conroy faces the harsh realities of systemic racism and poverty but also experiences profound personal growth and a deep connection with his students. The film highlights the transformative power of education and the courage it takes to challenge the status quo."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "5b64514d3ad6b98404c41904deb27259",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nConrack\n\n**Year:**\n\n1974",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Marked Woman",
+    "descriptions": [
+        "In the 1937 film \"Marked Woman,\" starring Bette Davis, a group of nightclub hostesses are caught up in a dangerous world of crime and corruption. When one of the women, Mary Dwight, witnesses a murder committed by a notorious gangster, she decides to cooperate with the district attorney to bring him to justice. However, as the trial progresses, Mary and her fellow hostesses face threats and intimidation from the gangster's ruthless associates.\n\nAs tensions escalate, Mary and her friends must navigate a treacherous path to seek justice while also protecting themselves from the dangerous criminals who will stop at nothing to silence them. With the help of the district attorney, the women must find the courage to stand up against the powerful forces that seek to control their lives.\n\n\"Marked Woman\" is a gripping tale of courage, loyalty, and resilience in the face of adversity. The film showcases the strength of women who refuse to be silenced and who fight for justice in a world dominated by corruption and violence."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "055a1d7c3bd762b867f5f764a86dab9a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937",
+    "include_year": false
+}

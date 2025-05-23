@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Samson",
+    "descriptions": [
+        "In the movie \"Samson\" released in 1961, the plot follows the story of the biblical character Samson, known for his incredible strength. The film depicts Samson's journey from his birth, where his mother is visited by an angel who foretells his destiny, to his rise as a powerful leader of the Israelites. \n\nSamson's strength comes from his long hair, which he vows to never cut as a sign of his devotion to God. However, his enemies, the Philistines, are determined to uncover the source of his power and use it against him. Delilah, a beautiful woman who Samson falls in love with, is bribed by the Philistines to discover the secret of his strength.\n\nDespite his love for Delilah, Samson refuses to reveal the truth to her. But eventually, Delilah's persistence and manipulation lead Samson to reveal the secret of his hair. Betrayed by Delilah, Samson is captured by the Philistines, who cut off his hair and blind him. \n\nHowever, even in his weakened state, Samson's faith in God remains strong. He prays for strength one last time and is granted the ability to bring down the temple of the Philistines, killing both himself and his enemies in a final act of sacrifice and redemption.\n\nThe film \"Samson\" is a classic tale of betrayal, redemption, and the power of faith. It explores themes of love, loyalty, and the consequences of succumbing to temptation. Through Samson's story, viewers are reminded of the importance of staying true to one's beliefs, even in the face of adversity. The film's powerful message resonates with audiences of all ages, making it a timeless story that continues to captivate audiences over half a century after its release."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+    "include_year": false
+}

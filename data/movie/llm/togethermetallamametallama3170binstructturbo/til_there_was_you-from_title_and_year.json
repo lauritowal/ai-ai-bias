@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "'Til There Was You",
+    "descriptions": [
+        "'Til There Was You is a 1997 American romantic comedy film directed by Scott Winant. The movie revolves around Gwen Moss (Jeanne Tripplehorn) and Nick Dawkan (Dylan McDermott), two people who have been intertwined since childhood.\n\nThe film begins with the story of Gwen and Nick's first encounter as children in 1966, when Nick accidentally destroys Gwen's birthday cake. As they grow up, their paths continue to cross, but their interactions are often strained and awkward. The narrative jumps forward in time, exploring their relationships and personal struggles as adults.\n\nGwen, an architect, is struggling to find love and balance in her life. Nick, on the other hand, is a charming but aimless drifter who has returned to Los Angeles after traveling the world. The two reconnect, and despite their tumultuous past, they start to develop feelings for each other.\n\nAs Gwen and Nick navigate their blossoming romance, they must confront their past mistakes and unresolved emotions. The film explores themes of first love, friendship, and the power of second chances.\n\nThroughout the movie, the supporting characters, including Gwen's eccentric family and Nick's quirky friends, add humor and depth to the story. The film's nostalgic tone, coupled with its witty dialogue and relatable characters, make 'Til There Was You a charming and engaging romantic comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3486bd9a5a391ebc5aa27b63f8f61c91",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 340.0 words or less.\n\n---\n\n**Title:**\n\n'Til There Was You\n\n**Year:**\n\n1997",
+    "include_year": false
+}

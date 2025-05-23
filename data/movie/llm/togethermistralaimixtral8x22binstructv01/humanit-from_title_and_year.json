@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Humanité",
+    "descriptions": [
+        " In the provincial French town of Villeneuve, \"Humanité\" (1999) weaves a haunting tale of mystery and human connection. Directed by Bruno Dumont, the film revolves around schoolteacher and police officer Pharaon De Winter, who embarks on an investigation into the brutal rape and murder of an 11-year-old girl. The victim is a close acquaintance of Pharaon, and he becomes deeply affected by the tragedy.\n\nPharaon's unconventional and seemingly detached investigative methods raise suspicion amongst the townsfolk. He forms an unlikely bond with the victim's mother, who seeks solace in his presence. Simultaneously, Pharaon develops an uneasy romantic relationship with his neighbor, Domino, a woman with a troubled past.\n\nAs the investigation unfolds, Pharaon's personal life becomes increasingly complex, revealing his own emotional fragility. The film explores the human condition, focusing on themes of empathy, isolation, and the search for meaning in life after experiencing profound loss.\n\nThe film's provocative subject matter and minimalist style garnered critical acclaim, with Dumont winning the Grand Jury Prize at the Cannes Film Festival. \"Humanité\" is a profound examination of the human experience, delving into the depths of sorrow, love, and the struggle for redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "30441b301a481382dff20b122f946029",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999",
+    "include_year": false
+}

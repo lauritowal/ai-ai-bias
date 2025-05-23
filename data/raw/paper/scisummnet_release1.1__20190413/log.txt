@@ -1,0 +1,1 @@
+release1.1__20190413:  fixed xml files that are empty or only containing titles. Used AAN text and then converted to xml.

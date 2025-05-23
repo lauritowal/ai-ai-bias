@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Corporate",
+    "descriptions": [
+        "Corporate is a gripping drama that follows the story of a young and ambitious business executive named Nisha. She is determined to climb the corporate ladder and make a name for herself in the competitive world of a multinational corporation. Nisha is willing to do whatever it takes to succeed, even if it means sacrificing her personal life and values along the way.\n\nAs Nisha rises through the ranks, she faces numerous challenges and obstacles. She must navigate office politics, deal with cutthroat colleagues, and make difficult decisions that test her ethical boundaries. Despite the pressures and temptations that come with her job, Nisha remains focused on her goal of reaching the top.\n\nHowever, as Nisha's career progresses, she begins to question the cost of her success. She starts to see the negative impact of her actions on those around her, including her family and friends. Nisha is forced to confront the consequences of her ruthless ambition, leading her to reevaluate her priorities and values.\n\nThroughout the film, Nisha struggles to find a balance between her professional aspirations and personal relationships. She faces moral dilemmas and must decide whether the pursuit of power and prestige is worth sacrificing her integrity and happiness. As Nisha grapples with these conflicting desires, she is forced to confront the true meaning of success and fulfillment.\n\nCorporate explores the dark side of corporate culture and the toll it can take on individuals who are willing to do whatever it takes to get ahead. The film shines a light on the cutthroat world of business, where ambition and greed often overshadow compassion and integrity. Through Nisha's journey, viewers are given a glimpse into the high-stakes world of big business and the personal sacrifices that come with chasing success.\n\nIn the end, Nisha must make a choice: continue down the path of ruthless ambition or find a way to reconcile her professional goals with her personal values. Corporate is a thought-provoking and compelling film that challenges viewers to consider the true cost of success and the importance of staying true to oneself in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "39e1085821db9c600d1615eb3aa621c2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 524.0 words or less.\n\n---\n\n**Title:**\n\nCorporate\n\n**Year:**\n\n2006",
+    "include_year": false
+}

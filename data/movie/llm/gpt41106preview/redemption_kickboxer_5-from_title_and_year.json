@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Redemption: Kickboxer 5",
+    "descriptions": [
+        "In \"Redemption: Kickboxer 5,\" released in 1995, the story follows Matt Reeves, a skilled martial artist and former kickboxing champion, who is seeking justice for the murder of his friend Johnny, who was killed by a ruthless promoter named Negaal.\n\nNegaal is determined to monopolize the world of kickboxing, recruiting the best fighters by any means necessary, including violence and murder. When fighters refuse to join his new kickboxing association, they end up severely harmed or, like Johnny, dead. Reeves, motivated by vengeance and a desire for justice, decides to take down Negaal and his corrupt organization.\n\nReeves travels to South Africa, where Negaal's operation is based, and aligns himself with other fighters who have also been wronged by Negaal. Together, they form a bond and train intensively to challenge Negaal's fighters and ultimately confront the man himself.\n\nAs Reeves gets closer to Negaal, he fights his way through a series of brutal matches and faces numerous obstacles. The film culminates in a climactic battle where Reeves must use all his skill, courage, and the spirit of kickboxing to defeat Negaal and dismantle his corrupt empire, avenging his friend's death and bringing redemption to those who have suffered under Negaal's tyranny."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1900de10cbc376a299345b56c4626863",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nRedemption: Kickboxer 5\n\n**Year:**\n\n1995",
+    "include_year": false
+}

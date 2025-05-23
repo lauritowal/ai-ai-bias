@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arena",
+    "descriptions": [
+        "In the 1989 film \"Arena,\" an intergalactic sports competition draws fighters from different planets to compete in no-holds-barred combat for fame, fortune, and glory. The story centers around Steve Armstrong, a human who works as a short-order cook on a space station. Steve dreams of proving himself as a combatant in the Arena, which is the premier fighting tournament in the galaxy.\n\nSteve gets his chance when he intervenes in a fight to defend his friend, and his skills attract the attention of a seasoned manager named Quinn. Despite humans not having won the competition in over 50 years, Quinn believes Steve has what it takes to be a champion. As Steve trains and enters the tournament, he faces off against a diverse array of alien fighters, each with unique abilities, in a series of brutal matches.\n\nHowever, as Steve advances in the ranks, he uncovers a conspiracy orchestrated by the corrupt Arena owner, Rogor, who has been fixing fights to ensure the lucrative betting business remains under his control. Rogor attempts to sabotage Steve's chances, but Steve persists, determined to win the tournament fair and square.\n\nIn the climactic battle, Steve faces the reigning champion, an imposing and almost invincible alien. Using his wits, agility, and the fighting skills he has honed, Steve manages to overcome the odds and win the championship, proving that with determination and honor, even the underdog can triumph in the Arena."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+    "include_year": false
+}

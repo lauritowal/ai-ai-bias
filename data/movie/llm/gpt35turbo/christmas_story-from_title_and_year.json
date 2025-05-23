@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Christmas Story",
+    "descriptions": [
+        "In the movie \"Christmas Story\" (2007), a young girl named Emily is eagerly anticipating the holiday season. However, her excitement is dampened when her family falls on hard times and struggles to make ends meet. Despite their financial difficulties, Emily's parents try to create a joyful Christmas for their daughter.\n\nAs Christmas approaches, Emily's belief in the magic of the holiday season is put to the test. She encounters challenges and obstacles along the way, but she remains determined to make the best of the situation. With the help of her friends and family, Emily learns the true meaning of Christmas and discovers that the spirit of the season is about love, kindness, and togetherness.\n\nThrough heartwarming moments and unexpected surprises, Emily's Christmas story unfolds in a way that touches the hearts of everyone around her. The movie showcases the importance of resilience, gratitude, and the power of community during the holiday season. Ultimately, \"Christmas Story\" is a tale of hope, faith, and the magic of Christmas that reminds viewers of the joy that can be found in even the most challenging times."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "066626c149517f8e3bbaa8d94c7bbbb7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007",
+    "include_year": false
+}

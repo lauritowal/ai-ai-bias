@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Ringer",
+    "descriptions": [
+        "Bette Davis stars in this 1964 thriller as twin sisters Edith and Margaret DeLorca. Edith is a wealthy widow while Margaret is struggling financially. When Edith kills herself, Margaret sees an opportunity to take over her sister's life and inherit her wealth. Margaret successfully impersonates Edith, fooling everyone around her including Edith's lover. However, as Margaret delves deeper into Edith's life, she discovers dark secrets and dangerous enemies that threaten to expose her true identity. The tension escalates as Margaret tries to maintain the facade while navigating the treacherous world her sister left behind. As the truth unravels, Margaret must confront her own demons and face the consequences of her actions. Dead Ringer is a gripping tale of deception, betrayal, and the lengths one will go to in order to secure their own fate."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "e7a5935e21717fc8edca0d81974a4762",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964",
+    "include_year": false
+}

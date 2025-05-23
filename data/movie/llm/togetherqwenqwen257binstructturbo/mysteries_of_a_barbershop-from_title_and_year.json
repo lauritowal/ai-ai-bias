@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mysteries of a Barbershop",
+    "descriptions": [
+        "In \"Mysteries of a Barbershop\" (2018), a small town's barbershop becomes the center of community life and supernatural occurrences. As the town's secrets are unveiled through the conversations of regular customers, a young barber uncovers a dark past linked to the shop. Tensions rise as the town's residents are forced to confront long-buried truths, leading to a climactic reveal that changes everything."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "c3a73040dc46186b8543a8a8a85cd9df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nMysteries of a Barbershop\n\n**Year:**\n\n",
+    "include_year": false
+}

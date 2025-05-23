@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bad Blood",
+    "descriptions": [
+        "\"Bad Blood\" (2010) is a suspenseful thriller that revolves around a family torn apart by deceit and a quest for vengeance. The film opens with the return of a family member who had been estranged for many years. The prodigal son, Michael, comes back to the family's remote estate upon hearing of his father's mysterious illness. The family, which has a history of harboring dark secrets and grudges, is thrown into disarray with his arrival.\n\nAs Michael reconnects with his siblings, old conflicts resurface, and the family's seemingly peaceful facade begins to crumble. Tensions escalate when it's revealed that the family's wealth is tied to criminal activities, and each member has a different plan for the future of their empire. Trust is further eroded when a series of betrayals and accidents suggest that someone is trying to eliminate potential heirs to seize control.\n\nMichael finds himself at the center of a deadly game, as he uncovers layers of deception involving his parents, siblings, and the family's loyal but mysterious servants. The estate becomes a claustrophobic battleground where nobody is safe, and alliances shift with every revelation. With the family's legacy at stake, Michael must navigate a labyrinth of lies and confront his own dark past to uncover the truth.\n\nAs the story unfolds, \"Bad Blood\" examines themes of familial loyalty, revenge, and the corrosive nature of greed. The climax brings shocking twists that leave both the characters and the audience questioning the true meaning of family and the lengths one will go to protect it or tear it down."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "fad8e49af36a1e504874a347d99bf4b4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nBad Blood\n\n**Year:**\n\n2010",
+    "include_year": false
+}

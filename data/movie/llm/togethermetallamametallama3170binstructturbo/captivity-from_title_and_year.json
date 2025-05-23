@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Captivity",
+    "descriptions": [
+        "Captivity is a 2007 American psychological thriller film directed by Roland Joffé and starring Elisha Cuthbert, Daniel Gillies, and Pruitt Taylor Vince. \n\nThe story revolves around Jennifer Tree (Elisha Cuthbert), a beautiful and successful model who appears to have the perfect life. However, her world is turned upside down when she is kidnapped and imprisoned by a mysterious figure known as The Man (Pruitt Taylor Vince) in a basement dungeon.\n\nJennifer soon discovers that she is not alone, as she meets another captive, Gary (Daniel Gillies), a man who has been imprisoned for years. The Man subjects them to various forms of physical and psychological torture, forcing them to endure gruesome and inhumane conditions.\n\nAs the story unfolds, Jennifer and Gary form a bond as they work together to try and escape from their captor. Along the way, they uncover clues about The Man's identity and his motives for kidnapping them.\n\nThe film's twist comes when it is revealed that Jennifer and Gary were not randomly chosen victims but rather were specifically selected by The Man for his twisted games. The Man's true intentions and the fate of Jennifer and Gary are left to the viewer's imagination, leaving the film with an unsettling and haunting conclusion.\n\nCaptivity explores themes of captivity, survival, and the human psyche, raising questions about the limits of human endurance and the effects of trauma on the human mind."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3ae197d3fe7eb9ff46d4426ae64785e4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 889.0 words or less.\n\n---\n\n**Title:**\n\nCaptivity\n\n**Year:**\n\n2007",
+    "include_year": false
+}

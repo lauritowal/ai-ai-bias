@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Flashbacks of a Fool",
+    "descriptions": [
+        "\"Flashbacks of a Fool\" follows the story of Joe Scott, a washed-up Hollywood actor who is forced to confront his past when he receives news of the death of his childhood best friend. As Joe grapples with his grief, he finds himself haunted by memories of his youth in a small seaside town in England.\n\nThe movie unfolds through a series of flashbacks, as Joe revisits key moments from his past that shaped the person he has become. We see a young Joe, played by Harry Eden, as he navigates the complexities of adolescence, friendship, and first love. Through these flashbacks, we come to understand the deep bond that existed between Joe and his friend, and the impact that their relationship had on both of their lives.\n\nAs Joe delves deeper into his memories, he is forced to confront the mistakes he has made and the regrets he carries with him. He grapples with the choices he has made in his career, his relationships, and his personal life, and begins to question the path he has chosen for himself. Through his journey of self-discovery, Joe is forced to confront the demons of his past and come to terms with the person he has become.\n\nIn the present day, Joe struggles to come to terms with his friend's death and the impact it has had on him. As he mourns the loss of his childhood companion, he begins to see the ways in which his past continues to shape his present. Through his grief, Joe is able to find a sense of closure and acceptance, and ultimately begins to heal from the wounds of his past.\n\n\"Flashbacks of a Fool\" is a poignant and introspective exploration of memory, regret, and redemption. Through its powerful storytelling and compelling performances, the film invites viewers to reflect on their own pasts and consider the ways in which our choices and experiences shape who we are. In the end, Joe Scott's journey serves as a reminder that it is never too late to confront our pasts, make amends for our mistakes, and find peace within ourselves."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "e230d609398ed8bc6a7f2017518e3533",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 786.0 words or less.\n\n---\n\n**Title:**\n\nFlashbacks of a Fool\n\n**Year:**\n\n2008",
+    "include_year": false
+}

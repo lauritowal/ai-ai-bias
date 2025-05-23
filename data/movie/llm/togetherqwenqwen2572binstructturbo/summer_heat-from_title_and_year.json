@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Summer Heat",
+    "descriptions": [
+        "\"Summer Heat\" is a 2008 American comedy film directed by David Dobkin and starring John Travolta, Robin Williams, and Bob Saget. The movie is a light-hearted, family-friendly tale that revolves around a group of friends who find themselves in a series of hilarious misadventures during a scorching summer in a small Florida town.\n\nThe story begins with Mike (Travolta), a retired firefighter, who is trying to enjoy his quiet life with his wife, Maggie (Kathy Bates). Their peaceful existence is disrupted when Mike's best friend, Lou (Williams), a former weatherman, moves into the neighborhood. Lou is a quirky and eccentric character who can't help but stir things up wherever he goes.\n\nAs the temperature rises, so does the town's energy. Mike and Lou, along with their friend Eddie (Saget), a lovable but somewhat bumbling local mechanic, decide to take on a summer job as ice cream truck drivers. Their goal is to bring a little joy to the community while also earning some extra cash. However, their lack of experience and Lou's unpredictable behavior lead to a series of comical mishaps, including a runaway ice cream truck and a series of misunderstandings with the local authorities.\n\nThe film also introduces a subplot involving Mike's teenage daughter, Jo (Jessica Stroup), who is navigating the challenges of high school and a budding romance. Her experiences add a layer of teen drama to the otherwise lighthearted narrative.\n\nAs the summer progresses, the friends learn valuable lessons about friendship, family, and the importance of embracing the unexpected. \"Summer Heat\" is a feel-good movie that celebrates the simple pleasures of life and the power of laughter to bring people together."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "171bce6bfee6d5528fe279772787fa39",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 356.0 words or less.\n\n---\n\n**Title:**\n\nSummer Heat\n\n**Year:**\n\n2008",
+    "include_year": false
+}

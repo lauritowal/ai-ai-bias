@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tango",
+    "descriptions": [
+        "\"Tango,\" a 1998 Argentine drama directed by Carlos Saura, is a cinematic exploration of the passionate and complex world of Argentine tango. Set in a Buenos Aires dance studio, the film follows a group of dancers and musicians as they prepare for a performance, intertwining their personal stories with the intense, emotional rehearsals. Each character brings their own history and conflicts to the stage, blending the boundaries between rehearsal and reality. The narrative is structured in a series of vignettes, showcasing the rigorous practice sessions and the emotional entanglements that arise among the performers. As the preparation for the show progresses, the dancers' personal lives become increasingly entangled with their art, leading to moments of both conflict and profound connection. The film is a visually striking and emotionally resonant tribute to the power of tango, capturing the essence of this iconic dance form and the lives it touches."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "6d8481f5b2978e83569dfeae6fea9b4e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998",
+    "include_year": false
+}

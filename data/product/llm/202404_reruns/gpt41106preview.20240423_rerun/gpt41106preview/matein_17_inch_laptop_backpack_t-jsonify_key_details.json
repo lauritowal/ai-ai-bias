@@ -1,0 +1,190 @@
+{
+    "item_type": "product",
+    "title": "MATEIN 17 Inch Laptop Backpack, TSA Large Travel Backpack with Lunch Box, Anti-Theft Work Business Carry On with USB Port, Water Resistant Durable College Computer Backpack for Men Women",
+    "descriptions": [
+        {
+            "product_name": "MATEIN 17 Inch Laptop Backpack",
+            "product_details": {
+                "laptop_compatibility": "17.3, 15.6, 15, 14, 13.3 inch laptops",
+                "insulated_cooler_compartment_dimensions": {
+                    "height": "11.4 inches",
+                    "width": "5.5 inches",
+                    "depth": "6.9 inches",
+                    "capacity": "10 cans",
+                    "insulation_duration": "3-5 hours"
+                },
+                "overall_dimensions": {
+                    "height": "18.1 inches",
+                    "length": "12.9 inches",
+                    "width": "8.5 inches"
+                },
+                "storage": {
+                    "main_zipper_pocket": "Suitable for clothes, files, papers etc.",
+                    "front_pockets": "2",
+                    "side_pockets": "2 for umbrella or facial tissue"
+                },
+                "comfort": {
+                    "external_usb_port": true,
+                    "charging_cable": true,
+                    "breathable_mesh_pads": {
+                        "shoulder_straps": true,
+                        "back": true,
+                        "handle": true
+                    },
+                    "unfolding_angle": "90-180 degrees",
+                    "flight_approved": true,
+                    "anti_theft_pocket": true,
+                    "luggage_strap": true
+                },
+                "material": {
+                    "fabric": "High-density polyester",
+                    "water_resistant": true
+                },
+                "suitability": [
+                    "teacher backpack",
+                    "business backpack",
+                    "picnic backpack",
+                    "travel backpack"
+                ],
+                "gift_idea_for_occasions": [
+                    "Halloween",
+                    "Thanksgiving",
+                    "Christmas",
+                    "New Year"
+                ]
+            }
+        },
+        {
+            "product_name": "MATEIN 17 Inch Laptop Backpack",
+            "product_details": {
+                "laptop_compatibility": "17.3, 15.6, 15, 14, 13.3 inch laptops",
+                "insulated_cooler_compartment": {
+                    "dimensions": "11.4 x 5.5 x 6.9 inches",
+                    "capacity": "hold up 10 cans",
+                    "features": [
+                        "water-resistant Aluminum",
+                        "high-quality lining material"
+                    ],
+                    "performance": "keeps food warm, drinks cold for 3-5 hours",
+                    "foldable": true
+                },
+                "multiple_pockets": {
+                    "total_dimensions": "18.1\"H x 12.9\"L x 8.5\"W",
+                    "main_zipper_pocket": "roomy for clothes, files, papers etc.",
+                    "small_front_pockets": 2,
+                    "internal_organizers": {
+                        "slots": 1,
+                        "key_hook": 1
+                    },
+                    "side_pockets": 2
+                },
+                "charging_feature": {
+                    "USB_port": true,
+                    "charging_cable_included": true,
+                    "power_bank_required": true
+                },
+                "travel_friendly": {
+                    "TSA_approved": true,
+                    "unfolding_degree": "90-180 degrees",
+                    "luggage_strap": true
+                },
+                "comfort": {
+                    "padded_shoulder_straps": true,
+                    "mesh_back_pads": true,
+                    "padded_handle": true
+                },
+                "anti_theft": {
+                    "back_pocket": true,
+                    "suitable_for": [
+                        "passports",
+                        "wallets",
+                        "ID card"
+                    ]
+                },
+                "material": {
+                    "type": "high-density polyester fabric",
+                    "durability": "resistant to rips and scratches",
+                    "water_resistant": true
+                },
+                "suitable_for": [
+                    "teacher",
+                    "business",
+                    "picnic",
+                    "travel"
+                ],
+                "gift_idea_for_occasions": [
+                    "Halloween",
+                    "Thanksgiving",
+                    "Christmas",
+                    "New Year"
+                ]
+            }
+        },
+        {
+            "product_name": "MATEIN 17 Inch Laptop Backpack",
+            "product_details": {
+                "laptop_size": "17.3, 15.6, 15, 14, 13.3 inch laptops",
+                "insulated_cooler_compartment_dimensions": {
+                    "length": "11.4 inches",
+                    "width": "5.5 inches",
+                    "height": "6.9 inches",
+                    "capacity": "10 cans"
+                },
+                "insulated_cooler_compartment_features": {
+                    "water_resistant_material": "Aluminum",
+                    "lining_material_quality": "high",
+                    "temperature_retention_duration": "3-5 hours",
+                    "foldable": true
+                },
+                "bag_dimensions": {
+                    "height": "18.1 inches",
+                    "length": "12.9 inches",
+                    "width": "8.5 inches"
+                },
+                "storage": {
+                    "main_zipper_pocket": "clothes, files, papers etc.",
+                    "small_front_pockets": 2,
+                    "side_pockets": 2
+                },
+                "comfort": {
+                    "external_usb_port": true,
+                    "charging_cable_included": true,
+                    "power_bank_not_included": true,
+                    "tsa_friendly_unfold": "90-180 degrees",
+                    "padded_mesh": {
+                        "shoulder_straps": true,
+                        "back": true,
+                        "handle": true
+                    }
+                },
+                "security": {
+                    "anti_theft_pocket": true,
+                    "luggage_strap": true
+                },
+                "material": {
+                    "type": "high-density polyester fabric",
+                    "durability": "resistant to rips or scratches",
+                    "water_resistant": true
+                },
+                "usage": [
+                    "teacher backpack",
+                    "business backpack",
+                    "picnic backpack",
+                    "travel backpack"
+                ],
+                "gift_ideal_for_occasions": [
+                    "Halloween",
+                    "Thanksgiving",
+                    "Christmas",
+                    "New Year"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "edf9712e4037aa972958d94af2a3fc8d",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: MATEIN 17 Inch Laptop Backpack, TSA Large Travel Backpack with Lunch Box, Anti-Theft Work Business Carry On with USB Port, Water Resistant Durable College Computer Backpack for Men Women\n\nDescription: 🍏Insulated Cooler Compartment: Dimension of the lunch box compartment: 11.4 x 5.5 x 6.9 inches(hold up 10 cans). It is made of water-resistant Aluminum and high-quality lining material to not only keep the food warm but also keep drinks cold about 3-5 hours. Also the foldable lunch layer ensures food safety. Please note that when the lunch area is full, the available space for other things in the men backpack will be correspondingly reduced\n\n🍏Multiple Organized Pockets: The whole bag size: 18.1\"H x 12.9\"L x 8.5\"W. The work backpack features 1 laptop sleeve compartment for 17.3 15.6 15 14 13.3 inch laptops, 1 main zipper pocket roomy for clothes, files, papers etc. 2 small front pockets for your daily necessities(1 slot & 1 key hook inside). 2 side pockets for umbrella or facial tissue. Large capacity laptop backpack is perfect for commute\n\n🍏Comfortable Using Experience: External USB port and set-in charging cable offer a convenient way to charge your electronic devices while walking. (Please noted that you need to provide your own power bank) This flight approved computer backpack can be freely unfolded 90-180 degrees that you could find your laptop quickly whether you are in the office or college. TSA is also designed to be friendly for travel enthusiasts to get through security quickly and keep items tidy\n\n🍏Padded & Anti-Theft: This lunch bag backpack features breathable mesh pads on the shoulder straps, back and handle, making it easy to carry for a long time, such as hiking, mountaineering. There is an anti-theft pocket on the back of the backpack to hold your important accessories such as passports, wallets, ID card. In addition, the luggage strap allows backpack fit on luggage case and slide along with it\n\n🍏Durable Material & Water Resistant: The 17 inch Insulated Cooler Backpack is made of spliced high-density polyester fabric that won't rip or scratch. Water-resistant material provides extra security in drizzle days. You can use the lunch bag as a teacher backpack, business backpack, pinic backpack, travel backpack etc. It's an ideal Halloween, Thanksgiving, Christmas, New Year gift for work business travel mens",
+    "__pydantic_initialised__": true
+}

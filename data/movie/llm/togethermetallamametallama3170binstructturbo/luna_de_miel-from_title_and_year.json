@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Luna de Miel",
+    "descriptions": [
+        "'Luna de Miel' (1959) is a Spanish drama film directed by Michael Powell. The story revolves around a newlywed couple, Catherine (Ludmilla Tchérina) and her husband (Anthony Steel), who embark on a romantic honeymoon in Spain."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "09698174dfa85564bea8e9e8c0c1893d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 791.0 words or less.\n\n---\n\n**Title:**\n\nLuna de Miel\n\n**Year:**\n\n1959",
+    "include_year": false
+}

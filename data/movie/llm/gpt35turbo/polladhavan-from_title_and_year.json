@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Polladhavan",
+    "descriptions": [
+        "Polladhavan is a 2007 Indian Tamil-language action drama film directed by Vetrimaran. The film follows the story of Prabhu, a young man living in Chennai who is struggling to make ends meet. He works as a mechanic in a garage and lives with his mother and younger sister. Despite his best efforts, Prabhu faces constant financial difficulties and is unable to provide a comfortable life for his family.\n\nOne day, Prabhu's life takes a dramatic turn when he becomes involved in a conflict with a local gangster named Selvam. Selvam is a ruthless criminal who controls the drug trade in the area and is feared by everyone in the neighborhood. When Prabhu accidentally crosses paths with Selvam, he finds himself in the middle of a dangerous game of cat and mouse.\n\nAs Prabhu tries to navigate his way through the dangerous world of crime and violence, he is forced to make difficult choices that will have far-reaching consequences. He must decide whether to stand up to Selvam and risk his own life, or to back down and live in fear of the gangster's wrath.\n\nThroughout the film, Prabhu is faced with numerous challenges and obstacles that test his strength and character. He must confront his own fears and insecurities, as well as the harsh realities of life in a crime-ridden city. Along the way, Prabhu forms unexpected alliances and discovers hidden strengths within himself that he never knew he possessed.\n\nAs the tension between Prabhu and Selvam reaches its breaking point, the two men find themselves locked in a deadly battle for survival. The stakes are high, and the outcome is uncertain. Will Prabhu be able to overcome the odds and emerge victorious, or will he be consumed by the darkness that threatens to engulf him?\n\nPolladhavan is a gripping and intense film that explores themes of loyalty, courage, and redemption. It is a powerful story of one man's struggle to find his place in a world that is filled with violence and corruption. With its compelling storyline, dynamic characters, and thrilling action sequences, Polladhavan is a must-see film for fans of Indian cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c9e6c5d9dde9c2c7869474f8b642baba",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1073.0 words or less.\n\n---\n\n**Title:**\n\nPolladhavan\n\n**Year:**\n\n2007",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Isi Life Mein",
+    "descriptions": [
+        "**Title: Isi Life Mein**\n**Year: 2018**\n\nIsi Life Mein, an Indian drama, delves into the complexities of human relationships and the pursuit of happiness amidst life's challenges. The film follows the protagonist, Aarav, a successful but emotionally detached architect living in Mumbai, who finds himself at a crossroads. Aarav’s world is thrown into chaos when he unexpectedly inherits a dilapidated ancestral home in a small village in Rajasthan. This inheritance becomes the catalyst for a series of life-changing events.\n\nUpon visiting the home, Aarav reconnects with his estranged grandmother, Nani, and her vibrant community. He is introduced to the colorful characters of the village, including a spirited young girl, Meera, whose infectious laughter and zest for life begin to stir emotions in Aarav that he has long suppressed. As Aarav helps the villagers with their daily struggles, he learns about the true meaning of love, family, and community.\n\nThe film also explores Aarav’s strained relationship with his overbearing father, who is resentful of Aarav’s success and sees the village home as a distraction from his son’s lucrative career in the city. Aarav’s father’s jealousy and control over Aarav’s life create a tension that threatens to pull them apart.\n\nAmidst these challenges, Aarav and Meera develop a deep bond, sharing stories of their past and dreams for the future. However, Aarav’s reluctance to fully embrace his roots and the life he has left behind creates conflicts between them. As the village faces its own trials, Aarav must decide whether to stay and make a new life in the village or return to the city and the life he knows.\n\nIsi Life Mein is a poignant exploration of personal growth, the power of forgiveness, and the enduring strength of human connections. The film beautifully captures the essence of finding happiness in life’s imperfections and the importance of embracing one’s true self."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a3f3fa62b6946b3dddb0b4ec870172cc",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 567.0 words or less.\n\n---\n\n**Title:**\n\nIsi Life Mein\n\n**Year:**\n\n",
+    "include_year": false
+}

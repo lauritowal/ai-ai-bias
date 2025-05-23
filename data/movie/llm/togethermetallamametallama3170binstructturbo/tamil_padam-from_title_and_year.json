@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tamil Padam",
+    "descriptions": [
+        "Tamil Padam is a 2010 Indian Tamil-language parody film written and directed by C. S. Amudhan. The movie is a satirical take on popular Tamil cinema clichés, conventions, and stereotypes.\n\nThe story follows the character of Shiva, played by Shiva, who is a wanted gangster with a large bounty on his head. The police are desperate to catch him, but they are no match for his cunning and intelligence.\n\nAs the story unfolds, it becomes apparent that the movie is actually a parody of various Tamil films, with each scene and character referencing a different movie or genre. The film pokes fun at common Tamil cinema tropes, such as the over-the-top action sequences, melodramatic dialogue, and predictable plot twists.\n\nThroughout the movie, Shiva's character finds himself in various absurd situations, including a romantic subplot with a character named Priya, played by Disha Pandey. The film also features a series of humorous parodies of popular Tamil songs and dance numbers.\n\nOne of the notable aspects of Tamil Padam is its self-aware humor, with the characters frequently breaking the fourth wall and addressing the audience directly. This adds to the film's lighthearted and comedic tone, making it a humorous commentary on the conventions of Tamil cinema.\n\nOverall, Tamil Padam is a clever and entertaining parody that lovingly pokes fun at the conventions of Tamil cinema. With its witty humor and clever references, the movie is a must-watch for fans of Tamil cinema and comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a1480a707a248922d2d08899aad4168f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 566.0 words or less.\n\n---\n\n**Title:**\n\nTamil Padam\n\n**Year:**\n\n2010",
+    "include_year": false
+}

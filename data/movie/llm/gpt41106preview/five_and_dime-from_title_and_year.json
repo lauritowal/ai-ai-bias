@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Five and Dime",
+    "descriptions": [
+        "\"Five and Dime\" is a fictional black-and-white short film from 1933, set during the Great Depression in the United States. Given the era and the title, the film likely revolves around the day-to-day happenings of a small, struggling five-and-dime store—a type of discount store that sold various items for five or ten cents.\n\nIn this imagined plot summary, the central character is Eddie, a kind-hearted and optimistic store owner who is doing his best to keep his business afloat amidst the economic hardships of the time. His store is a gathering place for the neighborhood, where locals come for both the affordable goods and the sense of community. The store is filled with a variety of items from household goods to penny candies, and Eddie knows every customer by name.\n\nThe film delves into the lives of various characters who frequent the store: a young boy who dreams of buying a toy he's been saving his pennies for, a mother who carefully counts her change to buy essentials, and an elderly man who simply comes in to chat and reminisce about better times.\n\nAs the plot unfolds, Eddie faces the threat of closure due to increasing debts and the pressure from larger chain stores. In a heartwarming turn of events, the community rallies together to save the beloved five-and-dime. They organize a fundraiser, reminding everyone of the store's importance to their lives and the neighborhood's spirit.\n\n\"Five and Dime\" serves as a snapshot of the era, showcasing the resilience of the human spirit during times of struggle and the importance of community support. The film ends on a hopeful note, with Eddie managing to keep the doors open and the customers leaving with more than just their purchases—carrying with them a renewed sense of solidarity and hope for the future."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "dac6f77a51fc9bc0a426f7844926f608",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 290.0 words or less.\n\n---\n\n**Title:**\n\nFive and Dime\n\n**Year:**\n\n1933",
+    "include_year": false
+}

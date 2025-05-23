@@ -1,0 +1,191 @@
+{
+    "item_type": "product",
+    "title": "AVAPOW Car Jump Starter, 4000A Peak 27800mAh Battery Jump Starter (for All Gas or Up to 10L Diesel), Battery Booster Power Pack, 12V Auto Jump Box with LED Light, USB Quick Charge 3.0, 4000A peak current, includes 88Wh portable battery charger",
+    "descriptions": [
+        {
+            "product_name": "AVAPOW Car Jump Starter",
+            "product_details": {
+                "peak_current": 4000,
+                "battery_capacity_mAh": 27800,
+                "battery_capacity_Wh": 88,
+                "engine_compatibility": {
+                    "gasoline": "All",
+                    "diesel": "Up to 10L"
+                },
+                "battery_booster_type": "12V Auto Jump Box",
+                "features": {
+                    "led_light": true,
+                    "usb_quick_charge": "3.0",
+                    "type_c_input_output": true,
+                    "intelligent_protection_systems": [
+                        "short circuit",
+                        "low battery",
+                        "high temperature",
+                        "reverse connection"
+                    ],
+                    "portable": true
+                },
+                "charging_ports": {
+                    "usb_1": {
+                        "voltage": 5,
+                        "current_A": [
+                            3,
+                            2,
+                            1.5
+                        ]
+                    },
+                    "usb_2": {
+                        "voltage": 5,
+                        "current_A": 2.4
+                    }
+                },
+                "led_modes": [
+                    "flashlight",
+                    "SOS",
+                    "strobe"
+                ],
+                "package_contents": [
+                    "Portable Battery Starter",
+                    "Jumper Cables",
+                    "USB-C Cable",
+                    "Cigarette Lighter Converter",
+                    "Carry Case",
+                    "User Manual"
+                ],
+                "after_sales_support": "24-hour online after-sales team",
+                "adapter_included": false
+            }
+        },
+        {
+            "product_name": "AVAPOW Car Jump Starter",
+            "product_details": {
+                "peak_current": 4000,
+                "capacity_mAh": 27800,
+                "battery_capacity_Wh": 88,
+                "engine_compatibility": {
+                    "gas": "All",
+                    "diesel_up_to_L": 10
+                },
+                "features": {
+                    "USB_quick_charge": "3.0",
+                    "LED_light_modes": [
+                        "flashlight",
+                        "SOS",
+                        "strobe"
+                    ],
+                    "intelligent_protection_systems": [
+                        "short circuit",
+                        "low battery",
+                        "high temperature",
+                        "reverse connection"
+                    ],
+                    "charging_ports": {
+                        "type_C_input_output": true,
+                        "USB_ports": [
+                            {
+                                "USB_1": {
+                                    "5V_3A": true,
+                                    "9V_2A": true,
+                                    "12V_1.5A": true
+                                }
+                            },
+                            {
+                                "USB_2": {
+                                    "5V_2.4A": true
+                                }
+                            }
+                        ]
+                    },
+                    "portable": true,
+                    "rugged_design": true,
+                    "metal_clamps": true
+                },
+                "charging_speed": "75% faster than ordinary power banks",
+                "use_cases": [
+                    "cars",
+                    "motorcycles",
+                    "ATV",
+                    "UTV",
+                    "lawn mowers",
+                    "snowmobiles"
+                ],
+                "start_times": 40,
+                "accessories_included": [
+                    "Portable Battery Starter",
+                    "Jumper Cables",
+                    "USB-C Cable",
+                    "Cigarette Lighter Converter",
+                    "Carry Case",
+                    "User Manual"
+                ],
+                "after_sales_support": "24-hour online team",
+                "adapter_included": false
+            }
+        },
+        {
+            "product_name": "AVAPOW Car Jump Starter",
+            "product_details": {
+                "peak_current": 4000,
+                "capacity_mAh": 27800,
+                "battery_capacity_Wh": 88,
+                "engine_compatibility": {
+                    "gas": "All",
+                    "diesel": "Up to 10L"
+                },
+                "suitable_for": [
+                    "12V cars",
+                    "motorcycles",
+                    "ATV",
+                    "UTV",
+                    "lawn mowers",
+                    "snowmobiles"
+                ],
+                "start_times_on_full_charge": 40,
+                "protection_systems": [
+                    "short circuit",
+                    "low battery",
+                    "high temperature",
+                    "reverse connection"
+                ],
+                "charging_ports": {
+                    "USB": [
+                        {
+                            "port": 1,
+                            "output": "5V/3A, 9V/2A, 12V/1.5A"
+                        },
+                        {
+                            "port": 2,
+                            "output": "5V/2.4A"
+                        }
+                    ],
+                    "type_C": {
+                        "input": true,
+                        "output": true
+                    }
+                },
+                "charging_speed": "75% faster than ordinary power banks",
+                "LED_light_modes": [
+                    "flashlight",
+                    "SOS",
+                    "strobe"
+                ],
+                "accessories": [
+                    "Portable Battery Starter",
+                    "Jumper Cables",
+                    "USB-C Cable",
+                    "Cigarette Lighter Converter",
+                    "Carry Case",
+                    "User Manual"
+                ],
+                "after_sales_support": "24-hour online after-sales team",
+                "adapter_included": false
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ea1faf0f83104ea217b4e4d568aae8fb",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: AVAPOW Car Jump Starter, 4000A Peak 27800mAh Battery Jump Starter (for All Gas or Up to 10L Diesel), Battery Booster Power Pack, 12V Auto Jump Box with LED Light, USB Quick Charge 3.0, 4000A peak current, includes 88Wh portable battery charger\n\nDescription: Our AVAPOW 4000A Jump Starter is a Supersafe and reliable automotive jump starter offering the users maximum power. This jump box has a 4000A peak current. You can use it to start 10.0L diesel engine and any gasoline engines in a few minutes. The 4000A Peak 12V car battery pack jumper booster comes with 88Wh high capacity and portable battery charger.It designed with 27800mAh and two USB charge ports. This automotive battery jumper pack can be used anywhere for its compact body.It is equipped with type-C input and output, which enables it to supports type-C charging USB. The other outstanding thing about this best battery jump starter for the large engine is its ruggedness and super security. This jump starter cables are all made of metal clamps to prevent them from breaking in the long run.\n\nPOWERFUL & LARGE CAPACITY - AVAPOW car jump starter provides up to 4000 peak current, 27800mAh capacity can start all 12V cars (Including hybrid power), motorcycles, ATV, UTV, lawn mowers, snowmobiles, etc. easily in just a few minutes. (for All Gas or Up to 10L Diesel) - up to 40 times on a full charge.\n\nINTELLIGENT PROTECTION - With intelligent protection systems such as short circuit, low battery, high temperature and reverse connection. The jumper clamp is designed to be sturdy and durable, and the cable of sufficient length is more convenient to use. The jumper box has a prompt indicator and a buzzer to indicate correct operation.\n\nUPGRADED FAST CHARGING - Not only a lithium car starter, but also a portable car power supply with a high capacity of 27800mAh. It uses dual USB 3.0 output ports (USB 1: 5V /3A 9V /2A 12V /1.5A; USB 2: 5V / 2.4A and the Charging speed is 75% faster than ordinary mobile power. Compatible with almost all USB charging devices, including mobile phones and tablets, cameras, kindle, etc.\n\nMULTIFUNCTIONAL LED LIGHT - This car battery jump starter features three working modes of built-in light (flashlight/SOS/strobe), which can be used as an emergency tool. Super bright LED lights provide more convenience for night use. This multifunctional flashlight is perfect for camping, outdoor, emergency, travel, etc.\n\nWHAT YOU GET - 1 X Portable Battery Starter,1 X Jumper Cables,1 X USB-C Cable, 1 X Cigarette Lighter Converter, 1 X Carry Case,1 X User Manual, and professional 24-hour online after-sales team for any issue. Tips: No adapter included (All your cell phone USB type charger could be used to charge the jump starter.).",
+    "__pydantic_initialised__": true
+}

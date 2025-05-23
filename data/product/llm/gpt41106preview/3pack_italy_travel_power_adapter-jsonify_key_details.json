@@ -1,0 +1,145 @@
+{
+    "item_type": "product",
+    "title": "[3-Pack] Italy Travel Power Adapter, VINTAR 3 Prong Grounded Plug with 2 USB and 2 American Outlets, 4 in 1 Outlet Adaptor Dual USB, AC Outlet Adaptor for USA to Italy Uruguay Chile (Type L)",
+    "descriptions": [
+        {
+            "product_name": "[3-Pack] Italy Travel Power Adapter, VINTAR 3 Prong Grounded Plug with 2 USB and 2 American Outlets, 4 in 1 Outlet Adaptor Dual USB, AC Outlet Adaptor for USA to Italy Uruguay Chile (Type L)",
+            "product_details": {
+                "input_compatibility": "Standard N American 2 or 3 prong flat pin plug",
+                "max_capacity": 2500,
+                "max_voltage": 250,
+                "max_current": 10,
+                "usb_output": 2.4,
+                "plug_type": "Grounded 3 prong plug",
+                "compatible_countries": [
+                    "Italy",
+                    "Chile",
+                    "Cuba",
+                    "Eritrea",
+                    "Ethiopia",
+                    "Lybia",
+                    "San Marino",
+                    "Syria",
+                    "Uruguay",
+                    "Vatican City"
+                ],
+                "design": "Ultra light and compact",
+                "dimensions": {
+                    "length": 2.8,
+                    "width": 2.6,
+                    "height": 2.3
+                },
+                "unit": "in",
+                "certifications": [
+                    "CE",
+                    "FCC"
+                ],
+                "warranty_period_months": 12,
+                "customer_service_availability": "friendly",
+                "voltage_compatibility": "100V-250V wide voltage device",
+                "converter": "Not a converter",
+                "dual_voltage_support_requirement": true
+            }
+        },
+        {
+            "product_name": "[3-Pack] Italy Travel Power Adapter, VINTAR 3 Prong Grounded Plug with 2 USB and 2 American Outlets, 4 in 1 Outlet Adaptor Dual USB, AC Outlet Adaptor for USA to Italy Uruguay Chile (Type L)",
+            "product_details": {
+                "inputs": "4 in 1",
+                "accepts_standard_pins": {
+                    "N_American": [
+                        "2 prong flat pin",
+                        "3 prong flat pin"
+                    ]
+                },
+                "max_capacity": {
+                    "watt": 2500,
+                    "volt": 250,
+                    "ampere": 10
+                },
+                "dual_USB": {
+                    "output": "up to 2.4A"
+                },
+                "grounded": true,
+                "ideal_for": [
+                    "Cell phone",
+                    "Tablet",
+                    "Power Bank"
+                ],
+                "compatible_countries": [
+                    "Italy",
+                    "Chile",
+                    "Cuba",
+                    "Eritrea",
+                    "Ethiopia",
+                    "Lybia",
+                    "San Marino",
+                    "Syria",
+                    "Uruguay",
+                    "Vatican City"
+                ],
+                "size": {
+                    "length": 2.8,
+                    "width": 2.6,
+                    "height": 2.3,
+                    "unit": "in"
+                },
+                "quality_certifications": [
+                    "CE",
+                    "FCC"
+                ],
+                "warranty": "12-month",
+                "customer_service": "friendly",
+                "converter": false,
+                "voltage_compatibility": {
+                    "min": 100,
+                    "max": 250,
+                    "type": "Dual Voltage"
+                }
+            }
+        },
+        {
+            "product_name": "[3-Pack] Italy Travel Power Adapter, VINTAR 3 Prong Grounded Plug with 2 USB and 2 American Outlets, 4 in 1 Outlet Adaptor Dual USB, AC Outlet Adaptor for USA to Italy Uruguay Chile (Type L)",
+            "product_details": {
+                "type": "Wall Outlet Adapter",
+                "input_compatibility": "Standard N American 2 or 3 prong flat pin Plug",
+                "max_capacity": "2500 Watt (max 250 Volt, 10 A)",
+                "USB_ports": "Dual USB charges up to 2.4A",
+                "prong_type": "Safe Grounded 3 prong plug",
+                "suitable_devices": [
+                    "Cell phone",
+                    "Tablet",
+                    "Power Bank",
+                    "Other electric products"
+                ],
+                "compatible_countries": [
+                    "Italy",
+                    "Chile",
+                    "Cuba",
+                    "Eritrea",
+                    "Ethiopia",
+                    "Lybia",
+                    "San Marino",
+                    "Syria",
+                    "Uruguay",
+                    "Vatican City"
+                ],
+                "design": "Ultra light and compact",
+                "dimensions": "2.8*2.6*2.3 in",
+                "quality_assurance": [
+                    "CE certified",
+                    "FCC certified"
+                ],
+                "warranty": "12-month",
+                "customer_service": "Friendly",
+                "voltage_compatibility": "100V-250V wide voltage device",
+                "additional_notes": "NOT A CONVERTER, devices must support 100V-250V Dual Voltage if not for low power electronics"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2ee9cf20c38773c6cbda093b389b1bee",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: [3-Pack] Italy Travel Power Adapter, VINTAR 3 Prong Grounded Plug with 2 USB and 2 American Outlets, 4 in 1 Outlet Adaptor Dual USB, AC Outlet Adaptor for USA to Italy Uruguay Chile (Type L)\n\nDescription: 4 in 1 inputs Wall Outlet Adapter- This Italy power adapter accepts the standard N American 2 or 3 prong flat pin Plug, Max Capacity Up to 2500 Watt (max 250 Volt, 10 A); Dual USB charges up to 2.4A; Safe Grounded 3 prong plug is ideal to charge electric product like Cell phone, Tablet, Power Bank ect;\n\nItalian Adapter Type L Plug - This Italy plug adapter is compatible in overseas countries such as Italy, Chile, Cuba, Eritrea, Ethiopia, Lybia, San Marino, Syria, Uruguay, Vatican City (Note: Some hotel may need 2 Prong TYPE C European travel plug adapter, please check before travel).\n\nULTRA LIGHT and COMPACT DESIGN-- This international power adapter is mini size: 2.8*2.6*2.3 in. It will be a great travel companion during EU trips and easy to use. Enjoy your travel time.\n\nQUALITY ASSURANCE-- Certified by CE and FCC to ensure the quality, high quality Internal metal interfaces offer good conductivity and this european power adapter have 12-month warranty and friendly customer service. Any problem with it, please contact us.\n\nIMPORTANT NOTES-- This is NOT A CONVERTER. This plug adapter is only compatible for 100V-250V wide voltage device, If you want to use your hair dryer, straightener, electric toothbrush or razor, they MUST support 100V-250V Dual Voltage, otherwise you may need a power voltage converter.",
+    "__pydantic_initialised__": true
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Curse of Frankenstein",
+    "descriptions": [
+        "The Curse of Frankenstein is a 1957 British horror film directed by Terence Fisher and produced by Hammer Films. The film is an adaptation of Mary Shelley's 1818 novel Frankenstein; or, The Modern Prometheus, but it deviates significantly from the original story.\n\nThe film follows the story of Baron Victor Frankenstein (Peter Cushing), a brilliant and ambitious scientist who is obsessed with unlocking the secrets of life and death. Victor becomes infatuated with the idea of creating life from dead body parts and begins to assemble a creature from various cadavers.\n\nAs Victor's experiment progresses, he becomes increasingly unstable and obsessed with his creation. He finally succeeds in bringing the creature to life, but the being is grotesque and inhuman, with a flat head, bulging eyes, and a lumbering gait.\n\nThe creature, who is never given a name in the film, is a monstrous and violent being that is shunned by society. Victor's creation ultimately leads to the death of his family and the destruction of his castle.\n\nThe film features a strong performance from Peter Cushing as the Baron, and Christopher Lee makes his Hammer debut as the creature. The film's sets, costumes, and special effects are all notable for their time, and the film's atmosphere is dark and foreboding.\n\nThe Curse of Frankenstein is a landmark film in the horror genre, and it helped to establish Hammer Films as a major player in the industry. The film's success also spawned a number of sequels and prequels, cementing Frankenstein's place as one of the most enduring and iconic monsters in cinema history.\n\nOverall, The Curse of Frankenstein is a classic horror film that is still widely regarded as one of the best adaptations of Mary Shelley's novel. Its blend of horror, drama, and suspense makes it a must-see for fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "8692f6b0605433225a3a2298ec4ec951",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 426.0 words or less.\n\n---\n\n**Title:**\n\nThe Curse of Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

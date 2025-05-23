@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Murder, He Says",
+    "descriptions": [
+        "Murder, He Says is a 1945 American comedy film directed by George Marshall. The movie stars Fred MacMurray and Veronica Lake. \n\nThe story revolves around a shy, awkward accountant named Teddy Dyke (Fred MacMurray) who gets caught up in a murder mystery. Teddy's life changes when he befriends a traveling carnival, which his sister, Honey, joins. One night, a murder takes place at the carnival, and Teddy becomes the prime suspect.\n\nTeddy's innocence is not immediately apparent to the police, and he is forced to go on the run. As he tries to clear his name, he teams up with a pretty carnival worker, Lorelei (Veronica Lake). Together, they embark on a series of comedic misadventures to uncover the truth behind the murder.\n\nThroughout the film, Teddy and Lorelei's relationship blossoms, and they find themselves in a series of humorous situations as they try to evade the authorities. Along the way, they discover that the murder is not as straightforward as it initially seems, and the killer is hidden within the carnival itself.\n\nMurder, He Says is a lighthearted, comedic mystery that showcases the chemistry between MacMurray and Lake. The movie features a mix of slapstick humor, witty one-liners, and romantic tension, making it an entertaining watch for audiences. The film's tone is playful and fun, with a resolution that ties up loose ends and provides a satisfying conclusion to the mystery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "ad53995dcf23d3b943187cce5f22a45a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 350.0 words or less.\n\n---\n\n**Title:**\n\nMurder, He Says\n\n**Year:**\n\n1945",
+    "include_year": false
+}

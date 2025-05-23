@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Curse of Frankenstein",
+    "descriptions": [
+        "In 1957's \"The Curse of Frankenstein,\" the story follows the ambitious young scientist Victor Frankenstein as he becomes obsessed with creating life from dead tissue. Despite warnings from his mentor, Professor Paul Krempe, Victor continues his experiments in secret. He recruits a young man named Paul as his assistant and together they begin to assemble the pieces needed for their creation.\n\nAs Victor's experiments progress, he becomes increasingly reckless and willing to do whatever it takes to achieve his goal. He steals body parts from graves and even murders a former colleague to obtain a brain for his creation. Paul, horrified by Victor's actions, tries to intervene but is ultimately unable to stop him.\n\nFinally, after weeks of work, Victor is ready to bring his creation to life. With a violent storm raging outside, he flips the switch and the creature awakens. However, instead of the perfect being Victor envisioned, the creature is a grotesque and monstrous abomination. It lashes out in confusion and fear, causing chaos in the laboratory.\n\nAs the creature rampages through the town, Victor realizes the grave mistake he has made. He must now confront the consequences of his actions and find a way to stop the creature before it causes more harm. With the help of Paul and Professor Krempe, Victor sets out to track down the creature and put an end to its reign of terror.\n\nIn a climactic showdown, Victor confronts the creature in a final battle. As they struggle, Victor begins to see the humanity in the creature and realizes that it is not inherently evil, but a victim of his own ambition. In a moment of redemption, Victor sacrifices himself to save the town and destroy the creature once and for all.\n\n\"The Curse of Frankenstein\" is a cautionary tale about the dangers of playing god and the consequences of unchecked ambition. It explores themes of morality, responsibility, and the limits of scientific knowledge. Through the character of Victor Frankenstein, the film asks important questions about the nature of life and the ethical implications of manipulating it for our own purposes."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8692f6b0605433225a3a2298ec4ec951",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 426.0 words or less.\n\n---\n\n**Title:**\n\nThe Curse of Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Salt Water Tabby",
+    "descriptions": [
+        "1947\n\nPlot Summary:\n\nIn \"Salt Water Tabby,\" the mischievous and clever cat Tom sets out on a seaside adventure to prove his worthiness to his beloved owner, Jerry. The story begins with Tom and Jerry enjoying a peaceful day at their beachside home until a rival cat, Butch, challenges Tom to a surfing competition. Determined to show his skills and impress Jerry, Tom eagerly accepts the challenge.\n\nAs the competition approaches, Tom enlists the help of his friends, including a group of seagulls and a wise old fisherman named Captain Kiddie. Together, they train rigorously to prepare for the big surfing showdown. Meanwhile, Jerry grows concerned for Tom's safety and tries to discourage him from participating in the dangerous competition.\n\nOn the day of the competition, tensions run high as Tom and Butch face off in a series of thrilling surfing challenges. Despite Butch's attempts to sabotage Tom, the determined cat manages to outsmart his rival and emerge victorious. Jerry watches in awe as Tom performs daring stunts and displays incredible skill on the waves.\n\nHowever, just as Tom celebrates his win, a sudden storm rolls in, putting everyone in danger. With the help of his friends, Tom must navigate the treacherous waters and rescue his fellow competitors from the raging sea. In a heart-pounding climax, Tom demonstrates bravery and selflessness as he saves the day and earns the admiration of Jerry and his friends.\n\nAs the storm subsides and the sun sets on the beach, Tom and Jerry share a tender moment of friendship and gratitude. Tom realizes that true worthiness comes from acts of courage and kindness, rather than just winning competitions. With a newfound sense of pride and humility, Tom returns home with Jerry, ready to face whatever challenges come their way.\n\n\"Salt Water Tabby\" is a heartwarming tale of friendship, bravery, and the power of perseverance. Through Tom's exciting adventure, audiences are reminded of the importance of loyalty, determination, and the bonds that unite us in times of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "d36393ae1f8ef8c5a52971865fe59a8a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1023.0 words or less.\n\n---\n\n**Title:**\n\nSalt Water Tabby\n\n**Year:**\n\n",
+    "include_year": false
+}

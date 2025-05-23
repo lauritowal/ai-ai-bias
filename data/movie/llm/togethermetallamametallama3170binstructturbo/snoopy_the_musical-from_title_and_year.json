@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Snoopy!!! The Musical",
+    "descriptions": [
+        "I need the year to provide a plot summary. However, I can tell you that 'Snoopy!!! The Musical' is a musical based on the popular Peanuts comic strip by Charles M. Schulz. The musical features Snoopy, Charlie Brown's pet beagle, as the main character. \n\nThe story revolves around Snoopy's various personas and fantasies, including being a World War I Flying Ace, Joe Cool, and other characters. The musical numbers explore Snoopy's imagination, showcasing his adventurous spirit and providing comedic relief.\n\nIf you provide the year, I can provide more information."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "111da4ab527ddc5d68d8dcfa86111dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 301.0 words or less.\n\n---\n\n**Title:**\n\nSnoopy!!! The Musical\n\n**Year:**\n\n",
+    "include_year": false
+}

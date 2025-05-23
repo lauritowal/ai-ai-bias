@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Miracle Man",
+    "descriptions": [
+        "\"The Miracle Man\" (1919) is a silent film directed by Rex Ingram, known for its innovative special effects and compelling narrative. The story centers around a group of con artists led by the charismatic and manipulative Dr. Higgins, who orchestrates a scheme to exploit the gullibility of the public for financial gain. The team includes a fake mute, known as the \"miracle man,\" who appears to regain his ability to speak through the doctor's supposed healing powers, drawing large crowds and donations.\n\nThe con is initially successful, but the arrival of a cynical young man, played by Lon Chaney, complicates matters. He becomes entangled in the lives of the con artists and discovers the truth behind the miracle. Torn between exposing the fraud and his growing empathy for the people involved, he ultimately decides to intervene, leading to a dramatic confrontation.\n\nThe film's climax reveals the elaborate ruse, challenging the characters' moral compasses and testing the limits of human compassion and deceit. \"The Miracle Man\" is celebrated for its early use of special effects to create the illusion of the miraculous, which enhances the tension and believability of the plot. The film is a poignant exploration of faith, deception, and the redemptive power of truth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "578560c26290f4e0c9ccc3e8368fb712",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 311.0 words or less.\n\n---\n\n**Title:**\n\nThe Miracle Man\n\n**Year:**\n\n1919",
+    "include_year": false
+}

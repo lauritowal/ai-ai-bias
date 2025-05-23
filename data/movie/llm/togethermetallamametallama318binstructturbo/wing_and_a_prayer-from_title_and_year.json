@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Wing and a Prayer",
+    "descriptions": [
+        "\"Wing and a Prayer\" is a 1944 American drama film directed by George Nazaroff, starring Dana Andrews, Don Ameche, and Charles Stedman.\n\nThe film takes place during World War II, focusing on the lives of the crew of the B-17 bomber aircraft \"Hell's Angels.\" The crew consists of a diverse group of individuals, including seasoned pilots, young and ambitious airmen, and even a celebrity who sees joining the military as a publicity stunt.\n\nAs the crew embarks on their perilous missions, they face numerous challenges and threats to their survival. The film captures the emotional and psychological toll of war on the individuals involved, particularly the camaraderie and bonds that form between the crew members.\n\nThe story follows the journey of the \"Hell's Angels\" crew as they participate in various missions, including raids on enemy airfields and factories. Along the way, they encounter unexpected difficulties and unexpected losses, forcing them to rely on their skills and teamwork to survive.\n\nThe title \"Wing and a Prayer\" refers to the phrase used by the crew to express their hopes for a successful mission. Despite the odds against them, the crew remains determined to complete their tasks and return home safely.\n\nThrough its portrayal of the lives and struggles of the \"Hell's Angels\" crew, \"Wing and a Prayer\" offers a poignant and thought-provoking look at the human side of war. The film highlights the bravery, sacrifice, and resilience of those who serve in the military, providing a powerful tribute to their service and dedication.\n\nOverall, \"Wing and a Prayer\" is a gripping and emotionally charged drama that explores the complexities of war and the bonds that form between individuals in the face of adversity. The film's portrayal of the \"Hell's Angels\" crew and their experiences during World War II offers a poignant reminder of the sacrifices made by those who serve in the military."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "9412756760b66483092bdd4129e65259",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 532.0 words or less.\n\n---\n\n**Title:**\n\nWing and a Prayer\n\n**Year:**\n\n1944",
+    "include_year": false
+}

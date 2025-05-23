@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "See No Evil",
+    "descriptions": [
+        " In the 1971 psychological thriller \"See No Evil,\" Sarah, a young woman who recently lost her sight in a horse-riding accident, finds herself trapped in a sinister scheme. After undergoing treatment in a rehabilitation center, Sarah is invited to stay at her uncle's secluded countryside mansion to continue her recovery.\n\nUpon arrival, Sarah meets the mysterious Jack, the housekeeper's son, who offers to assist her during her stay. However, when a series of mysterious and eerie occurrences begin to unfold, Sarah becomes increasingly suspicious of her surroundings. Despite her blindness, Sarah's heightened senses and intuition lead her to the chilling realization that something sinister is happening in her uncle's mansion.\n\nAs Sarah delves deeper into the mystery, she discovers that Jack and his mother are harboring a dark secret. Desperate to uncover the truth, Sarah must use her wits and resourcefulness to outmaneuver the dangerous duo and expose their nefarious intentions.\n\n\"See No Evil\" is a suspenseful and tense thriller that explores the vulnerability and resilience of its blind protagonist, as she navigates a treacherous world filled with danger and deceit. As Sarah struggles to regain her independence and overcome her fears, the film delves into the themes of trust, survival, and the power of human intuition in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "38af57b758f7cfdbfaf1e9c1580d897a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 265.0 words or less.\n\n---\n\n**Title:**\n\nSee No Evil\n\n**Year:**\n\n1971",
+    "include_year": false
+}

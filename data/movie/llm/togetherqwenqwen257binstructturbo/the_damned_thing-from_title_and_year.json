@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned Thing",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"The Damned Thing\" (2006) is a psychological thriller that delves into the mysterious and terrifying nature of an unknown creature. The film tells the story of a small, tight-knit mining town in the American West, where a strange and terrifying beast begins to terrorize the community. No one in the town has seen the creature, and only its tracks and the sounds of its movements are left as evidence of its existence.\n\nThe story unfolds through the eyes of a group of characters, each struggling to come to terms with the inexplicable and horrific phenomenon. The town’s sheriff, a grizzled and skeptical man, is initially dismissive of the creature's existence, viewing it as a pretext for chaos. However, as the townspeople begin to disappear, one by one, his doubts are shattered, and he becomes determined to uncover the truth.\n\nThe creature itself remains elusive, its true nature veiled in an almost supernatural fog. The townspeople become obsessed with capturing or understanding this thing, leading to a series of tense and often violent encounters. As the creature continues to kill, it leaves behind a trail of psychological and emotional scars, fracturing the community and driving its members to the brink of madness.\n\nThe film explores themes of fear, survival, and the human condition, as the characters are forced to confront their deepest fears and darkest impulses. The creature, a metaphor for the unknown and the uncontrollable, becomes a symbol of the town's collective trauma and the breakdown of their sense of security.\n\nIn the end, the creature is never fully explained, leaving the audience with a sense of unease and a lingering question about the nature of the unknown. The film culminates in a climactic confrontation, where the sheriff and a few others face the creature in a desperate bid to survive, leading to a shocking and memorable conclusion that leaves the true nature of the beast and its intentions shrouded in mystery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "31c2868a37d5b8d6257d261efb59ee65",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 310.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned Thing\n\n**Year:**\n\n2006",
+    "include_year": false
+}

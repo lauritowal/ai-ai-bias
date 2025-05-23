@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Don: The Chase Begins Again",
+    "descriptions": [
+        "'Don: The Chase Begins Again' is a 2006 Indian action thriller film directed by Farah Khan, a renowned Indian choreographer and filmmaker. The movie is a prequel to the 2006 film 'Om Shanti Om' and serves as a backstory for the character Don, played by Shah Rukh Khan.\n\nThe film begins with Roma (Priyanka Chopra), the daughter of a wealthy and influential businessman, being kidnapped by a group of armed men. Don, a notorious con artist, is hired by the kidnappers to impersonate Roma's fiancé, Vijay, and rescue her from her captors. Unbeknownst to Don, the kidnapping is staged by Roma's father to extort money from the kidnappers.\n\nAs Don gains the trust of the kidnappers, he concocts a plan to escape and rescue Roma. However, things take a complicated turn when he falls in love with Roma, and his loyalties are put to the test. Don's cleverness and charisma help him outwit the kidnappers and their employers, leading to a thrilling cat-and-mouse chase.\n\nThe film's plot revolves around Don's cunning and his ability to adapt to any situation. With the help of his loyal friend, Pinky (Kunal Khemu), Don navigates the complexities of his mission while keeping his true identity hidden from the kidnappers.\n\nAs the story unfolds, Don's character is revealed to be a con artist with a troubled past. His backstory is slowly exposed through a series of flashbacks, showcasing his early days as a small-time thief and his rise to becoming a master con artist.\n\nThe movie features a blend of action, drama, and romance, with Shah Rukh Khan delivering a memorable performance as the charismatic Don. The film's climax features a thrilling chase sequence, where Don and the kidnappers engage in a high-stakes game of cat and mouse.\n\nOverall, 'Don: The Chase Begins Again' is a gripping action thriller that explores the backstory of the iconic character Don. With its engaging plot, memorable performances, and impressive action sequences, the film is a must-watch for fans of Shah Rukh Khan and action movies in general."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1e1085e3a400ae4567a67f45291afc1a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 728.0 words or less.\n\n---\n\n**Title:**\n\nDon: The Chase Begins Again\n\n**Year:**\n\n2006",
+    "include_year": false
+}

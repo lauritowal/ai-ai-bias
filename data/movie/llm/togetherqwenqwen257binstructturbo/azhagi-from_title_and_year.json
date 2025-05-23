@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Azhagi",
+    "descriptions": [
+        "**Plot Summary:**\n\nAzhagi (2002) is a psychological thriller that delves into the life of a man named Arun, played by Narayanan Kutty. Set in a small town in Kerala, the film explores Arun’s descent into madness after he is accused of a crime he didn’t commit. The story begins with Arun being falsely implicated in a murder, leading to a series of traumatic events including public humiliation and a wrongful conviction. As he grapples with the injustice, Arun starts experiencing vivid hallucinations and delusions, blurring the lines between reality and his deteriorating mental state.\n\nThe film is a poignant exploration of the impact of societal judgment and the fragility of the human mind. Through a series of flashbacks and present-day sequences, we see Arun’s relationships with his family and friends crumble, as he is ostracized by society. His wife, played by Shobana, stands by him, supporting him through his mental turmoil, but even she is eventually driven to the brink of collapse.\n\nAs Arun’s sanity wavers, the film raises questions about the nature of truth, justice, and the psychological toll of incarceration. The narrative culminates in a heart-wrenching confrontation that challenges the audience to question their perceptions of reality and the consequences of a flawed judicial system. \"Azhagi\" is a powerful and thought-provoking film that leaves a lasting impact, highlighting the devastating effects of societal injustice on an individual’s mental well-being."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "3ff1ae95bab7b9f051e07505e41f04af",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nAzhagi\n\n**Year:**\n\n2002",
+    "include_year": false
+}

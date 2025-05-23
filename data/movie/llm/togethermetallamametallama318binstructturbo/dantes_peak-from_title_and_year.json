@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dante's Peak",
+    "descriptions": [
+        "\"Dante's Peak\" is a 1997 American disaster film directed by Roger Donaldson. The film stars Pierce Brosnan and Linda Hamilton as a couple who must navigate a catastrophic volcanic eruption in a small town.\n\nThe story revolves around Dr. Harry Dalton (Pierce Brosnan), a volcanologist who is called in to investigate unusual seismic activity near the town of Dante's Peak, which is located near the eponymous volcano. Upon his arrival, Harry meets his estranged wife, Rachel (Linda Hamilton), who is a high school science teacher and a single mother to their two children, Erin and Dr. Kelly.\n\nAs Harry begins to study the volcano, he realizes that it is on the verge of a catastrophic eruption, which could potentially destroy the town and its inhabitants. However, his warnings are initially met with skepticism by the town's residents, who are more concerned with the potential economic impact of the eruption than the danger it poses.\n\nAs the volcano's activity increases, Harry and Rachel must navigate their complicated past and work together to protect their children and the townspeople. Meanwhile, a group of tourists becomes trapped in the town, and Harry must use his knowledge of volcanology to rescue them.\n\nAs the eruption draws near, the town descends into chaos, and Harry and Rachel must make a desperate bid to escape with their lives. The film's climax features a heart-pumping sequence of events as the family flees the town, narrowly avoiding the devastating effects of the eruption.\n\nThroughout the film, Pierce Brosnan delivers a strong performance as the rugged and resourceful Dr. Harry Dalton, while Linda Hamilton brings depth and emotion to her portrayal of Rachel. The film's visual effects and action sequences are also noteworthy, capturing the intense power and destruction of a volcanic eruption.\n\nOverall, \"Dante's Peak\" is a thrilling and action-packed disaster film that explores the complexities of relationships and the dangers of underestimating the power of nature."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "993902b1e4fe1e36b3fdb665f603b4c5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1528.0 words or less.\n\n---\n\n**Title:**\n\nDante's Peak\n\n**Year:**\n\n1997",
+    "include_year": false
+}

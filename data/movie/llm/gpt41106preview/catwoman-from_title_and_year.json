@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Catwoman",
+    "descriptions": [
+        "\"Catwoman,\" released in 2004, is a superhero film loosely based on the DC Comics character of the same name. Directed by Pitof and starring Halle Berry, the film presents a new character, Patience Phillips, who is distinct from the Catwoman of the Batman mythology.\n\nThe plot revolves around Patience Phillips, a meek and timid graphic designer working for a cosmetics company called Hedare Beauty, which is run by the ruthless CEO, George Hedare, and his cold, ambitious wife, Laurel. Patience stumbles upon a dark secret about a new anti-aging product that the company is about to launch. The product is set to revolutionize the skincare world but has dangerous side effects that are being concealed.\n\nUpon discovering the truth, Patience is killed by corporate henchmen to keep the secret safe. However, she is mysteriously brought back to life by an Egyptian Mau cat endowed with mystical powers. Patience is resurrected with heightened agility, senses, and strength, alongside a newfound confidence and a fierce desire for independence and justice.\n\nTransformed into Catwoman, Patience sets out to investigate and stop the conspiracy behind the hazardous cosmetic product. Her journey of self-discovery is punctuated by her grappling with her dual identity and her run-ins with the law, particularly with a police detective named Tom Lone, with whom she forms a romantic connection.\n\nWhile seeking vengeance against those who wronged her, Catwoman must navigate a perilous path between her vigilante actions and the seductive power that her new alter ego wields. As the conflict with the Hedare's escalates, Catwoman uncovers Laurel's involvement in the conspiracy and the extent of her villainy.\n\nIn the climactic showdown, Catwoman faces off against Laurel, ultimately bringing down the corrupt Hedare Beauty empire and avenging her own death. Despite her victory, she realizes that her life as Patience Phillips can never be the same, and she fully embraces her new identity as Catwoman, a figure of the night, balancing between being a hero and an outlaw."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "80a857bf39597b277bb973a114b056d7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 349.0 words or less.\n\n---\n\n**Title:**\n\nCatwoman\n\n**Year:**\n\n2004",
+    "include_year": false
+}

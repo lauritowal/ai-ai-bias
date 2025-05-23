@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Bone Snatcher",
+    "descriptions": [
+        "In the movie \"The Bone Snatcher\" (2003), a group of scientists and miners working in the Namibian desert stumble upon a mysterious creature that is able to dissolve bones at an alarming rate. As the team investigates further, they realize that this creature is a deadly force that poses a threat to their lives.\n\nWith no way to communicate with the outside world due to a sandstorm, the group must band together to find a way to stop the creature before it picks them off one by one. As they struggle to understand the creature's origin and behavior, tensions rise among the team members, leading to paranoia and betrayal.\n\nAs the creature continues to wreak havoc, the group discovers that it is actually a mutated form of a prehistoric creature that has been unleashed due to mining activities in the area. With time running out and the creature growing stronger with each kill, the survivors must find a way to destroy it before it devours them all.\n\nFilled with suspense, horror, and thrilling chase scenes, \"The Bone Snatcher\" is a heart-pounding sci-fi thriller that keeps viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "651b1a8f68930e564bc152b1f54f5e3d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+    "include_year": false
+}

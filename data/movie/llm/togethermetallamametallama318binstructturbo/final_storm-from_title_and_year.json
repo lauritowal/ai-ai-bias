@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Final Storm",
+    "descriptions": [
+        "\"Final Storm\" is an American disaster film directed by David L. Cunningham. The movie, released in 2010, is set in the Pacific Northwest and follows the story of a massive storm that threatens to destroy a small coastal town.\n\nThe film begins with the introduction of a brilliant but reclusive meteorologist, Dr. Carl Ruckner (played by Randy Quaid), who has predicted a massive storm that will hit the coast of the Pacific Northwest. Despite his warnings, the town's residents are skeptical, and the local authorities are more concerned with the approaching holiday season.\n\nAs the storm begins to form, the town's residents are initially unaware of the danger that is approaching. However, as the storm gains strength, the residents begin to realize that Dr. Ruckner's warnings were not just a wild prediction, but a genuine threat to their lives.\n\nThe movie follows the residents of the town as they try to prepare for the storm and evacuate the area. However, the storm's intensity and unpredictability make it difficult for them to escape. The film's climax features a dramatic showdown between the residents and the storm, with many of them fighting for their lives.\n\nThroughout the movie, the director highlights the importance of preparedness and the dangers of underestimating the power of nature. The film's visuals are stunning, capturing the fury and intensity of the storm.\n\nWhile \"Final Storm\" may not be a groundbreaking film, it effectively captures the fear and chaos that comes with a natural disaster. The movie's performances are decent, and the script is engaging, making it a passable disaster movie."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "23a4a99c202aedc6b0eb450363e21fc6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nFinal Storm\n\n**Year:**\n\n2010",
+    "include_year": false
+}

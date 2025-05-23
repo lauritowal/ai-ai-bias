@@ -1,0 +1,65 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "E99-1025", 
+    "citing_paper_authority": 6, 
+    "citing_paper_authors": "John, Chen | Srinivas, Bangalore", 
+    "raw_text": "We consider three voting strategies uggested by van Halteren et al (1998): equal vote, where each classifier &apos; s vote is weighted equally, overall accuracy, where the weight depends on the overall accuracy of a classifier, and pair &apos; wise voting", 
+    "clean_text": "We consider three voting strategies suggested by van Halteren et al (1998): equal vote, where each classifier's vote is weighted equally, overall accuracy, where the weight depends on the overall accuracy of a classifier, and pair-wise voting.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "P06-2013", 
+    "citing_paper_authority": 5, 
+    "citing_paper_authors": "Wenliang, Chen | Yujie, Zhang | Hitoshi, Isahara", 
+    "raw_text": "In the weighted voting method, we can assign different weights to the results of the individual system (van Halteren et al, 1998)", 
+    "clean_text": "In the weighted voting method, we can assign different weights to the results of the individual system (van Halteren et al, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "W03-1728", 
+    "citing_paper_authority": 29, 
+    "citing_paper_authors": "Nianwen, Xue | Libin, Shen", 
+    "raw_text": "In that paper, pairwise voting (van Halteren et al, 1998) has been used to combine the results of two super taggers that scan the input in the opposite directions. The pairwise voting is not suitable in this application because we must make sure that the LMR tags assigned to consecutive words are compatible", 
+    "clean_text": "In that paper, pairwise voting (van Halteren et al, 1998) has been used to combine the results of two super taggers that scan the input in the opposite directions.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "W02-1004", 
+    "citing_paper_authority": 11, 
+    "citing_paper_authors": "Radu, Florian | David, Yarowsky", 
+    "raw_text": "In the experiments presented in van Halteren et al (1998), this method was the best performer among the presented methods", 
+    "clean_text": "In the experiments presented in van Halteren et al (1998), this method was the best performer among the presented methods.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "W01-0712", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "John, Nerbonne | Anja, Belz | Nicola, Cancedda | Herve, Dejean | James, Hammerton | Rob, Koeling | Stasinos, Konstantopoulos | Miles, Osborne | Franck, Thollard | Erik F., Tjong Kim Sang", 
+    "raw_text": "And finally, TAGPAIR uses classification pair weights based on the probability of a classification for some predicted classification pair (van Halteren et al, 1998)", 
+    "clean_text": "And finally, TAGPAIR uses classification pair weights based on the probability of a classification for some predicted classification pair (van Halteren et al, 1998).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "W05-1518", 
+    "citing_paper_authority": 11, 
+    "citing_paper_authors": "Daniel, Zeman | Zden&#x11B;k, &#x17D;abokrtsk&yacute;", 
+    "raw_text": "Parallel to (van Halteren et al, 1998), we ran experiments with two stacked classifiers, Memory-Based, and Decision-Tree-Based", 
+    "clean_text": "Parallel to (van Halteren et al, 1998), we ran experiments with two stacked classifiers, Memory-Based, and Decision-Tree-Based.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "W05-1518", 
+    "citing_paper_authority": 11, 
+    "citing_paper_authors": "Daniel, Zeman | Zden&#x11B;k, &#x17D;abokrtsk&yacute;", 
+    "raw_text": "In all experiments, the TotPrecision voting scheme of (van Halteren et al, 1998) has been used", 
+    "clean_text": "In all experiments, the TotPrecision voting scheme of (van Halteren et al, 1998) has been used.", 
+    "keep_for_gold": 0
+  }
+]

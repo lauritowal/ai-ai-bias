@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Where's Firuze?",
+    "descriptions": [
+        "\"Where's Firuze?\" is a 2004 Turkish comedy film that follows the story of a man named Cemal who is desperately searching for his missing fiancée, Firuze. The movie begins with Cemal's elaborate wedding plans being put on hold as Firuze suddenly disappears without a trace. As Cemal frantically tries to locate his beloved, he enlists the help of his friends and family members in a wild and comedic adventure.\n\nThroughout the film, Cemal encounters various eccentric characters and gets involved in absurd situations as he follows leads and clues to find Firuze. Along the way, he discovers shocking truths about his fiancée and uncovers a web of deceit and betrayal that he never could have imagined. As the search intensifies, Cemal's determination to find Firuze only grows stronger, despite the obstacles in his path.\n\nAs Cemal delves deeper into the mystery of Firuze's disappearance, he realizes that there is more to her vanishing act than meets the eye. He must navigate through a series of misunderstandings, miscommunications, and mistaken identities to unravel the truth behind Firuze's whereabouts. Along the way, Cemal learns valuable lessons about love, trust, and the importance of communication in relationships.\n\nUltimately, \"Where's Firuze?\" is a heartwarming and humorous tale of love and perseverance, as Cemal goes to great lengths to find his missing fiancée and restore their relationship. The film is a rollercoaster of emotions, filled with laughter, suspense, and unexpected twists that keep viewers on the edge of their seats until the very end. In the end, Cemal's search for Firuze leads to a resolution that is both satisfying and heartwarming, leaving audiences with a message of hope and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1a9aaf1db5c550f6cdf2fb501638c19c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 329.0 words or less.\n\n---\n\n**Title:**\n\nWhere's Firuze?\n\n**Year:**\n\n2004",
+    "include_year": false
+}

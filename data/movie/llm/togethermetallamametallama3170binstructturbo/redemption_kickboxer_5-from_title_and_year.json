@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Redemption: Kickboxer 5",
+    "descriptions": [
+        "Redemption: Kickboxer 5 is a 1995 American martial arts film and the fifth installment in the Kickboxer film series. The movie takes place after the events of the previous film, with Matt Reeves (played by Mark Dacascos) taking the place of the original Kickboxer, Kurt Sloane.\n\nMatt Reeves, an American martial artist, is framed for murder by a crime lord named Negaal (played by James Ryan) and is sent to prison in South Africa. In prison, Matt is forced to participate in a brutal fighting tournament against other inmates. \n\nMatt eventually teams up with a fellow inmate named Victor (played by Geoff Meed) to take down Negaal, who had framed him. The two devise a plan to infiltrate Negaal's operation and gather evidence to clear Matt's name.\n\nAs the story unfolds, Matt faces numerous challenges and intense battles against Negaal's henchmen. He ultimately confronts Negaal in an epic showdown to prove his innocence and redeem himself."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1900de10cbc376a299345b56c4626863",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nRedemption: Kickboxer 5\n\n**Year:**\n\n1995",
+    "include_year": false
+}

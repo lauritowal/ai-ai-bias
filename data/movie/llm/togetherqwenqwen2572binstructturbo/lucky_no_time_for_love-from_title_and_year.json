@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lucky: No Time for Love",
+    "descriptions": [
+        "In \"Lucky: No Time for Love\" (2005), Lucky (played by Lucy Liu) is a skilled and no-nonsense detective in a bustling metropolis. Her life is a relentless pursuit of justice, leaving little room for personal relationships. When a series of high-profile robberies shakes the city, Lucky finds herself at the center of the investigation. The thief, known only as \"The Phantom,\" leaves behind a trail of sophisticated heists and cryptic messages, challenging Lucky's abilities and resolve.\n\nAs Lucky delves deeper into the case, she uncovers a web of corruption that extends to the highest levels of the city's elite. Her determination to bring down The Phantom puts her at odds with her superiors and places her life in grave danger. Along the way, she meets Jack (played by a charismatic actor), a charming and enigmatic newcomer who seems to know more than he lets on. Despite her initial resistance, Lucky starts to develop feelings for Jack, complicating her mission.\n\nWith time running out, Lucky must balance her growing attraction to Jack with her duty to solve the case and protect the city. The film culminates in a thrilling confrontation where Lucky must choose between her heart and her badge."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "25de16096b27e3b1d5b0d9c56afd432c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 237.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005",
+    "include_year": false
+}

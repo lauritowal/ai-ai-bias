@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daffy Duck Slept Here",
+    "descriptions": [
+        "However, I couldn't find any information about a 1948 movie titled 'Daffy Duck Slept Here'. \n\nHowever,  'Daffy Duck Slept Here' is a 1948 cartoon short film directed by Chuck Jones. The plot revolves around Daffy Duck as a hotel clerk who tries to trick guests into believing he has booked them into the 'Duck Inn', a fictional hotel. \n\nDaffy's antics lead to a series of misadventures as he tries to convince the guests that they are indeed at the 'Duck Inn', and that they should be happy with the accommodations. \n\nThe cartoon features Daffy's signature style of over-the-top performances and witty one-liners, showcasing his unique brand of humor and zany antics. \n\nOverall, 'Daffy Duck Slept Here' is a classic Looney Tunes cartoon that showcases Daffy's hilarious personality and Chuck Jones's masterful direction."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "571661f1877124420608f05794ed5740",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nDaffy Duck Slept Here\n\n**Year:**\n\n1948",
+    "include_year": false
+}

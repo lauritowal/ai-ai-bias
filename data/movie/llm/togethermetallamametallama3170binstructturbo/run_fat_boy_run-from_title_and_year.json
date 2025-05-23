@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Run, Fat Boy, Run",
+    "descriptions": [
+        "\"Run, Fat Boy, Run\" is a 2007 British comedy film directed by David Schwimmer, starring Simon Pegg, Thandie Newton, and Hank Azaria. The story revolves around Dennis Doyle (played by Simon Pegg), an overweight, underachieving slacker who works as a security guard in London.\n\nThe film begins with Dennis's wedding day, where he unexpectedly abandons his fiancée, Libby (played by Thandie Newton), at the altar. Years later, Dennis discovers that Libby has started dating Whit (played by Hank Azaria), a wealthy, arrogant, and self-centered American who challenges Dennis to a marathon.\n\nDesperate to win Libby back and prove himself, Dennis decides to train for the London Marathon, despite being severely overweight and out of shape. He seeks the help of his eccentric and unorthodox friend, Gordon (played by Dylan Moran), who serves as his coach and confidant.\n\nThroughout his training, Dennis faces numerous obstacles, including his own lack of motivation and the ridicule he receives from those around him. However, as he progresses in his training, he starts to gain confidence and discover a newfound sense of purpose.\n\nMeanwhile, Whit is portrayed as a shallow and arrogant character who is more concerned with his appearance and social status than genuinely caring for Libby. As the story unfolds, Libby begins to see Whit's true nature and starts to question her relationship with him.\n\nAs the marathon approaches, Dennis must confront his own demons and push himself to the limit in order to complete the grueling 26.2-mile course. In a heartwarming and hilarious climax, Dennis's determination and perseverance pay off, and he manages to finish the marathon, ultimately winning back Libby's heart.\n\n\"Run, Fat Boy, Run\" is a feel-good comedy that explores themes of love, friendship, and self-discovery, with a healthy dose of humor and wit. The film showcases Simon Pegg's signature blend of humor and charm, making it a delightful and entertaining watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e214bf26bd66d0d73bc69f4a4ba73686",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 696.0 words or less.\n\n---\n\n**Title:**\n\nRun, Fat Boy, Run\n\n**Year:**\n\n2007",
+    "include_year": false
+}

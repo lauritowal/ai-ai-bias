@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Samson",
+    "descriptions": [
+        "\"Samson\" (1961) is a historical drama film that delves into the biblical story of Samson, a legendary figure known for his superhuman strength granted by God as long as he abstains from cutting his hair. The movie is set in ancient Israel during a time when it was oppressed by the Philistines, a neighboring people who dominate the Israelites.\n\nThe film follows Samson, an Israelite with extraordinary physical prowess, who is chosen by God to deliver his people from Philistine tyranny. His journey begins with personal motives of love and revenge but evolves into a larger mission of liberation for his nation.\n\nSamson's life takes a tumultuous turn when he falls in love with a Philistine woman named Semadar. However, their love is ill-fated as political and cultural tensions lead to Semadar's death, which fills Samson with a thirst for vengeance. Samson's acts of retaliation are both awe-inspiring and destructive, as he uses his divine strength to confront the Philistine oppressors, including their warriors and leaders.\n\nAs the story progresses, Samson encounters Delilah, a beautiful and seductive woman. The Philistine rulers, aware of Samson's weakness for women, bribe Delilah to discover the secret of his strength. After several attempts, she finally coaxes the secret from him: his power resides in his uncut hair. While Samson sleeps, Delilah cuts his hair, and he is captured by the Philistines, now powerless and blind.\n\nIn captivity, Samson is humiliated and forced to grind grain in a Philistine prison. During this time of suffering, his hair begins to grow back, and with it, his strength slowly returns. The film culminates in a dramatic finale where Samson is brought to the temple of the Philistine god Dagon to entertain the Philistine nobles. In a final act of defiance and faith, Samson prays to God for strength one last time and pushes down the temple pillars, bringing the structure down upon himself and his captors, achieving his ultimate victory through self-sacrifice.\n\nThe movie \"Samson\" combines elements of romance, action, and drama to portray the biblical hero's tragic and heroic life, highlighting themes of faith, betrayal, and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kadhalukku Mariyadhai",
+    "descriptions": [
+        "**Plot Summary:**\n\nKadhalukku Mariyadhai, released in 1997, is a Tamil romantic drama that explores the complexities of love and societal expectations. The film centers around Srinivasan (played by Vijay), a doctor eager to settle down, and his relationship with his childhood friend, Narmatha (played by Saritha). Despite their deep bond and shared history, Narmatha marries another man, Rajan, out of duty and family pressure. The film delves into the emotional turmoil Srinivasan faces as he contends with his unrequited love and the challenges of pursuing his own happiness. As the story unfolds, Srinivasan's journey of self-discovery and the theme of destiny versus choice are masterfully intertwined. The narrative is a poignant exploration of youthful dreams, adult reality, and the enduring power of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "5941eebdbee11d1110d050b440a2a479",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 326.0 words or less.\n\n---\n\n**Title:**\n\nKadhalukku Mariyadhai\n\n**Year:**\n\n1997",
+    "include_year": false
+}

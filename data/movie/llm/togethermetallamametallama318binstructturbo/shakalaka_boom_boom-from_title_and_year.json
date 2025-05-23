@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shakalaka Boom Boom",
+    "descriptions": [
+        "Shakalaka Boom Boom is a 2007 Indian romantic comedy film directed by Suneel Darshan. The movie features Bobby Deol, Katrina Kaif, and Celina Jaitley in the lead roles.\n\nThe story revolves around Aryan (Bobby Deol), a young man who is initially portrayed as a carefree and charming person. However, it is later revealed that he has a split personality, with a darker and more aggressive side. Aryan falls in love with Priya (Katrina Kaif), but their relationship is put to the test when his darker personality starts to resurface.\n\nAs Aryan struggles to balance his dual personalities, he also becomes involved in a complicated love triangle with Shikha (Celina Jaitley), a woman who is already engaged to be married. The movie explores themes of love, identity, and the complexities of human relationships.\n\nThroughout the film, Aryan's dual personalities create tension and conflict in his relationships with Priya and Shikha. The movie takes a dramatic turn when Aryan's darker personality is revealed to be a result of his traumatic past.\n\nUltimately, the movie concludes on a hopeful note, with Aryan learning to accept and reconcile his dual personalities. The film features a mix of romance, drama, and comedy, making it an entertaining watch for audiences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a5decffe654e0363ff95aa4f15fd3d88",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 338.0 words or less.\n\n---\n\n**Title:**\n\nShakalaka Boom Boom\n\n**Year:**\n\n2007",
+    "include_year": false
+}

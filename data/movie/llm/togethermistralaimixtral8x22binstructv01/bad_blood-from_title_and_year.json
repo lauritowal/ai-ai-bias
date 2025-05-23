@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bad Blood",
+    "descriptions": [
+        " In the gripping 2010 thriller \"Bad Blood,\" the lives of two estranged brothers, Vincent (Vinnie) and Frankie Kane, collide in a deadly game of cat and mouse. The film is set against the backdrop of a small, economically struggling town in the Northeastern United States.\n\nVinnie, a hardworking and honest family man, struggles to make ends meet and provide for his wife and young daughter. Meanwhile, Frankie, his charismatic but troubled younger brother, returns to town after years of absence, following a stint in prison for armed robbery. Frankie seeks redemption and a chance to start over, but old wounds and resentments simmer just beneath the surface.\n\nWhen a local businessman is brutally murdered, suspicion falls on Frankie, who is immediately implicated due to his criminal past. Desperate to clear his brother's name and protect his family, Vinnie takes matters into his own hands, launching a dangerous investigation that unearths long-buried secrets and puts him at odds with the town's corrupt powers-that-be.\n\nAs the brothers navigate the treacherous landscape of their hometown, they are forced to confront their own demons and the toxic legacy of their upbringing. \"Bad Blood\" is a tense exploration of family loyalty, redemption, and the lengths to which one will go to protect those they love. With its atmospheric setting and tightly wound narrative, the film leaves audiences on the edge of their seats, questioning the true meaning of justice and the cost of unresolved anger."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "fad8e49af36a1e504874a347d99bf4b4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nBad Blood\n\n**Year:**\n\n2010",
+    "include_year": false
+}

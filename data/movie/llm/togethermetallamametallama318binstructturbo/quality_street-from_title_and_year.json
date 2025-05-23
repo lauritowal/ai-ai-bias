@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Quality Street",
+    "descriptions": [
+        "\"Quality Street\" is a 1937 British comedy film directed by Alexander Korda, based on the novel by J.M. Barrie. The story revolves around the lives of the three lovely Miss Muffet sisters, Margaret, Laura, and Phoebe, who are all vying for the attention of the charming Captain Milson.\n\nThe eldest sister, Margaret (played by Anna Neagle), has recently returned from a trip to India and is determined to secure a husband. Laura, the middle sister, is a romantic and sweet but naive young woman who falls deeply in love with Captain Milson. Phoebe, the youngest, is a lively and flirty young woman who often finds herself in complicated situations.\n\nAs the story unfolds, Captain Milson becomes the object of affection for all three sisters, creating a complex love triangle. Margaret tries to throw Laura and Captain Milson together, but her efforts ultimately backfire. Meanwhile, Phoebe becomes entangled in a series of comedic misadventures, providing much of the film's humor.\n\nThroughout the film, the Muffet sisters navigate the challenges of love, relationships, and social status in the early 20th century. The movie features plenty of wit, charm, and humor, making it a delightful and entertaining watch.\n\nThe film also stars Richard Greene as Captain Milson and Mary Clare as the sisters' mother. The movie is a lighthearted and engaging take on the classic romantic comedy genre, with beautiful cinematography and costumes. \"Quality Street\" is a charming film that will leave audiences smiling and entertained."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3553135b3835bea4a10ab264661ed9e3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 413.0 words or less.\n\n---\n\n**Title:**\n\nQuality Street\n\n**Year:**\n\n1937",
+    "include_year": false
+}

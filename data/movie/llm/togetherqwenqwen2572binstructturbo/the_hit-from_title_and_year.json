@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hit",
+    "descriptions": [
+        "**The Hit** (1979) is a gripping British crime drama directed by Nigel Finch, though often misattributed to Terence Young, who was involved in the production. The film stars Terence Stamp and John Hurt, two of Britain’s most acclaimed actors, in a tale of betrayal, revenge, and the relentless pursuit of a hitman.\n\nThe story begins with Myra (Beryl Reid), a wealthy and manipulative woman who hires a professional assassin, known only as \"The Hitman\" (John Hurt), to kill her unfaithful husband, Frank (Leo McKern). The Hitman, a calm and methodical killer, accepts the job and begins to plan the execution. However, things take a dark turn when he discovers that Myra has also betrayed him, setting him up to be killed by another hitman, \"The Clean-Up\" (Terence Stamp), who is known for his brutal efficiency.\n\nThe Clean-Up, a man of few words and even fewer emotions, is tasked with eliminating both Frank and the Hitman, ensuring that no loose ends are left. As the Hitman realizes the depth of Myra’s betrayal, he must use all his skills to stay alive and outmaneuver the relentless Clean-Up. The film unfolds as a tense cat-and-mouse game, with the two hitmen matching wits and force in a series of intense confrontations.\n\nSet against the backdrop of the English countryside, **The Hit** is a masterclass in suspense, featuring standout performances from its lead actors. The film explores themes of loyalty, the nature of violence, and the psychological toll of a life lived in the shadows of the criminal underworld. Despite its relatively low profile, **The Hit** is a cult classic that has garnered a dedicated following for its tight script, atmospheric direction, and the compelling dynamic between its two lead characters."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "1d20d64ed8187fb5f3b442ceb87b7c71",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 318.0 words or less.\n\n---\n\n**Title:**\n\nThe Hit\n\n**Year:**\n\n1979",
+    "include_year": false
+}

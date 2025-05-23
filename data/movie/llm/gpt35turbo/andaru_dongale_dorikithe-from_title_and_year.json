@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Andaru Dongale Dorikithe",
+    "descriptions": [
+        "2004\n\n**Plot Summary:**\n\n\"Andaru Dongale Dorikithe\" is a 2004 Indian Telugu-language action comedy film directed by Puri Jagannadh. The story follows four friends - Ravi, Rambabu, Rajesh, and Rahul - who are small-time crooks trying to make a living in the city. One day, they come across a briefcase filled with money and decide to keep it for themselves.\n\nUnbeknownst to them, the briefcase belongs to a notorious gangster who will stop at nothing to get it back. As the friends indulge in their newfound wealth, they soon find themselves in a dangerous game of cat and mouse with the gangster and his henchmen.\n\nAs the gangster closes in on them, the friends must use all their cunning and resourcefulness to outsmart their pursuers and keep the money. Along the way, they face numerous challenges and obstacles that test the strength of their friendship and their loyalty to each other.\n\nWith a mix of comedy, action, and suspense, \"Andaru Dongale Dorikithe\" takes the audience on a thrilling ride as the friends navigate the dangerous underworld and try to come out on top. Will they be able to keep the money and escape the clutches of the gangster, or will their greed and misadventures lead to their downfall?"
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9f7e1b1e1d613b6f29c6e00e964c38b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nAndaru Dongale Dorikithe\n\n**Year:**\n\n",
+    "include_year": false
+}

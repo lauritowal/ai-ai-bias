@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Murder, He Says",
+    "descriptions": [
+        " \"Murder, He Says\" is a 1945 comedy-mystery film directed by George Marshall. The plot revolves around an unlikely hero, Pete Marshall (Tom Conway), a poll-taker who finds himself entangled in a sinister web of deception and murder in the rural town of Frazer's End.\n\nPete is sent to Frazer's End to collect data for an opinion poll, but his simple assignment takes a dark turn when he stumbles upon the infamous Fleagle family. The Fleagles are known for their peculiar eccentricities and the mysterious disappearance of Mr. Fleagle. Pete learns that the family patriarch, Bonnie Fleagle, has supposedly died and left a large sum of money to each of his family members, but the money is hidden somewhere in the house.\n\nIntrigued and seeing an opportunity to escape his mundane life, Pete pretends to be Bonnie's long-lost grandson, arriving at the Fleagle residence to claim his supposed inheritance. He soon discovers that the Fleagles are far from ordinary. The family consists of Bonnie's widow, Mert Fleagle, her two daughters, Elany and Claire, and their husbands, who all seem to be hiding something.\n\nAs Pete navigates the treacherous landscape of the Fleagle household, he uncovers a series of clues leading to the hidden treasure. Meanwhile, the body count starts to rise, with each family member suspiciously meeting their demise.\n\nPete becomes increasingly desperate to solve the mystery and unmask the true murderer before he becomes the next victim. Along the way, he encounters various quirky characters, including a local sheriff who is more interested in courting than solving crimes, and an oddball handyman who has a penchant for dynamite.\n\nIn a thrilling finale, Pete manages to uncover the truth about the Fleagle family, revealing a shocking secret that ties everything together. With his quick wit and resourcefulness, Pete not only solves the mystery but also secures his own happily ever after.\n\n\"Murder, He Says\" is a delightful blend of humor and suspense, offering a unique take on the classic murder mystery genre. With its memorable characters and unexpected twists, the film remains a beloved classic in the annals of Hollywood cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "ad53995dcf23d3b943187cce5f22a45a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 350.0 words or less.\n\n---\n\n**Title:**\n\nMurder, He Says\n\n**Year:**\n\n1945",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trial",
+    "descriptions": [
+        "**Title: The Trial  \nYear: 2009**\n\nIn a dystopian future where the justice system is a Kafkaesque labyrinth, an ordinary bank clerk named Michael Stolorow is wrongly accused of a crime he did not commit. The film opens with Michael's arrest in the middle of the night, and he is swiftly thrown into a perplexing and nightmarish legal process. Confused and terrified, Michael struggles to understand the charges against him and the convoluted procedures of the court.\n\nAs Michael navigates through a series of bizarre and often absurd courtroom sessions, he encounters a cast of eccentric characters, including a cynical defense attorney, a mysterious prosecutor, and a judge who seems more interested in the ritual of the trial than in the truth. Each encounter leaves Michael more bewildered and isolated, as the system appears designed to manipulate and crush the spirit of the accused.\n\nDesperate for help, Michael seeks out an underground network of former defendants who warn him of the futility of his fight. But Michael refuses to give up, driven by a growing sense of injustice and a belief in his own innocence. As the trial progresses, Michael's life is turned upside down, and he must confront the possibility that the real crime might be the trial itself.\n\nIn the end, \"The Trial\" is a chilling allegory about the loss of individual rights and the terrifying power of a corrupt system, leaving the audience to ponder the nature of justice and the human condition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "92eb846096a731b983cad5f0b398e96a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 275.0 words or less.\n\n---\n\n**Title:**\n\nThe Trial\n\n**Year:**\n\n2009",
+    "include_year": false
+}

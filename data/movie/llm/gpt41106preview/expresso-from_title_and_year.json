@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Expresso",
+    "descriptions": [
+        "\"Expresso\" is a short British comedy film released in 2007. Though details about the plot are limited without more context, a general summary based on the title and the year can be surmised.\n\nSet in a quaint, bustling British café known for its exceptional espresso, the film's plot revolves around a series of interconnected vignettes that involve the café's patrons and staff over the course of a single day. The café, named 'Expresso,' becomes a microcosm of modern life, where a variety of characters from different walks of life converge, interact, and share moments both comedic and poignant.\n\nEach vignette is likely to focus on different aspects of human experience, such as love, ambition, friendship, and the everyday struggles and joys that come with them. The central element of coffee and the café setting serves as the binding motif for the characters' stories. We can imagine scenarios such as an overworked barista dealing with the morning rush, a businessman experiencing an unexpected encounter that could change his life, two old friends rekindling their relationship over a cup of coffee, or perhaps a writer finding inspiration from the diverse clientele.\n\nThe film probably uses the espresso as a metaphor for the quick pace of modern life, where moments of connection can be as fleeting as the caffeine rush from a shot of coffee, but also as invigorating and essential. The light-hearted and comedic tone suggested by the title, \"Expresso,\" implies a film that aims to uplift and entertain, providing a warm look at the small yet significant moments that make up everyday existence."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e49f13d9da53bfce82c870a47a6608ac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 283.0 words or less.\n\n---\n\n**Title:**\n\nExpresso\n\n**Year:**\n\n2007",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Billy Two Hats",
+    "descriptions": [
+        "In the 1974 film \"Billy Two Hats,\" the audience follows the story of a Scottish outlaw named Arch Deans, played by Gregory Peck, who is on the run from the law in the American West. Arch is accompanied by his young Native American partner, Billy Two Hats, played by Desi Arnaz Jr. The two of them form an unlikely duo as they navigate the harsh terrain and evade capture.\n\nAs they struggle to survive in the wilderness, Arch and Billy develop a close bond and friendship. However, their peaceful existence is soon disrupted when they encounter a group of ruthless bank robbers led by the menacing Sheriff of the town, played by Jack Warden. The robbers want to take advantage of Arch's knowledge of the land to escape with their stolen loot, and they will stop at nothing to get what they want.\n\nAs tensions rise and the danger mounts, Arch and Billy must rely on each other to outwit the criminals and find a way to escape the clutches of the Sheriff. Along the way, they face numerous challenges and obstacles that test their courage and resilience.\n\nIn a thrilling climax, Arch and Billy must confront their enemies head-on and fight for their freedom. The film explores themes of friendship, loyalty, and survival as the two protagonists come to realize the true value of their partnership in the face of adversity. \"Billy Two Hats\" is a gripping Western drama that showcases the strength of the human spirit in the most trying circumstances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "2d70d8da925ad0ef805759c56970e23e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 276.0 words or less.\n\n---\n\n**Title:**\n\nBilly Two Hats\n\n**Year:**\n\n1974",
+    "include_year": false
+}

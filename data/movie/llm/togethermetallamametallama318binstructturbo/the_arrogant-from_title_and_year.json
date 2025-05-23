@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Arrogant",
+    "descriptions": [
+        "Unfortunately, it appears that \"The Arrogant\" is not a well-known film, and I couldn't find any information on a movie with this title released in 1987. However, I can suggest some possible alternatives based on the title and year:\n\nIf \"The Arrogant\" is a lesser-known film or a direct-to-video release, there might not be much information available about it. Alternatively, the film could be a foreign release, a low-budget production, or a title that hasn't been widely recognized.\n\nIf you could provide more context or information about the movie, such as the director, cast, or genre, I may be able to help you better."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "c821b0996c5406519b89950db21a01bc",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 807.0 words or less.\n\n---\n\n**Title:**\n\nThe Arrogant\n\n**Year:**\n\n1987",
+    "include_year": false
+}

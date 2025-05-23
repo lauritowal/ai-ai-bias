@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hasty Hare",
+    "descriptions": [
+        "I couldn't find any information on a movie titled \"The Hasty Hare\" from a specific year. However, I found a Looney Tunes cartoon titled \"A Hasty Hare\" which was released in 1949.\n\nHere's a plot summary of that movie:\n\n\"A Hasty Hare\" is a 1949 animated short film directed by Robert McKimson. The movie features Bugs Bunny and Elmer Fudd.\n\nThe story begins with Bugs Bunny enjoying a winter sports competition on the slopes. Elmer Fudd, disguised as a mountain guide, tries to catch Bugs, but his plans are constantly foiled by the quick-witted rabbit. Elmer sets up various traps, including a waterfall, a slide, and a cliff, but each time, Bugs manages to outsmart him.\n\nThroughout the cartoon, Bugs' humor and wit shine as he continuously evades Elmer's attempts to catch him. The cartoon is filled with comedic moments, including Bugs' banter with Elmer and his clever escapes.\n\nIn the end, Elmer's plans are thwarted once again, and Bugs escapes without getting caught. The cartoon ends with Elmer getting frustrated and sliding down the mountain on his belly, while Bugs laughs at his misfortune.\n\n\"A Hasty Hare\" is a classic Looney Tunes cartoon that showcases the timeless comedy of Bugs Bunny and the never-ending rivalry between him and Elmer Fudd. The cartoon's humor and wit continue to entertain audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a930ab977b305831783c94684dfc68ba",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 491.0 words or less.\n\n---\n\n**Title:**\n\nThe Hasty Hare\n\n**Year:**\n\n",
+    "include_year": false
+}

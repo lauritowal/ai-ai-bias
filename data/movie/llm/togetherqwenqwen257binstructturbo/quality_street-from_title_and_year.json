@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Quality Street",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Quality Street,\" released in 1937, is a classic romantic comedy that follows the story of Margaret (played by Myrna Loy), a down-to-earth woman from a working-class background who falls in love with Henry Sheffield (played by Cary Grant), a wealthy and sophisticated man. Margaret works as a saleswoman at a department store in San Francisco, where she attracts the attention of a jealous colleague, Sarah (played by Marjorie Rambeau). Margaret's life takes an unexpected turn when she is invited to a party by Sarah, who hopes to flirt with Henry. Upon meeting Henry, Margaret is charmed by his charm and wealth, but she is also aware of the social divide between them.\n\nThe romantic tension escalates when Margaret is invited to Henry's home, where she meets his wealthy and critical family. Despite her reservations, Margaret's genuine affection for Henry and her desire to improve her lot in life lead her to accept his marriage proposal. However, Margaret's aspirations clash with the Sheffield family's high standards and expectations, leading to comedic misunderstandings and conflicts.\n\nAs Margaret navigates her new social status and the judgments of her friends and family, she faces challenges from Sarah, who resents Margaret's rise. Margaret's pragmatic nature and determination to maintain her integrity in the face of social pressure provide the heart of the story. The film culminates in a series of misunderstandings and revelations that test the couple's relationship and ultimately lead to a resolution that affirms Margaret's worth and the value of genuine character over superficial status.\n\n\"Quality Street\" is a delightful exploration of love, class, and the importance of personal integrity, with a touch of humor that keeps the audience engaged throughout. The film's central theme of a working-class woman finding her place in a world of privilege resonates with audiences and highlights the enduring appeal of the story."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "3553135b3835bea4a10ab264661ed9e3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 413.0 words or less.\n\n---\n\n**Title:**\n\nQuality Street\n\n**Year:**\n\n1937",
+    "include_year": false
+}

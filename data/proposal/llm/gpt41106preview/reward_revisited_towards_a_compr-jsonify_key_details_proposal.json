@@ -1,0 +1,45 @@
+{
+    "item_type": "proposal",
+    "title": "Reward revisited: Towards a comprehensive understanding of motivational influences on human cognition",
+    "descriptions": [
+        {
+            "proposal_name": "Reward revisited: Towards a comprehensive understanding of motivational influences on human cognition",
+            "proposal_details": {
+                "descriptions": [
+                    "The proposal aims to develop a novel unifying conceptual and neural framework of how reward influences human cognition."
+                ],
+                "related_concepts": [
+                    "motivation",
+                    "cognitive operations",
+                    "conflict resolution",
+                    "inhibitory control",
+                    "memory formation"
+                ],
+                "related_conditions": [
+                    "attention-deficit hyperactivity disorder",
+                    "addiction",
+                    "Parkinson’s disease"
+                ],
+                "related_neural_systems": [
+                    "dopaminergic (DA)",
+                    "noradrenergic (NA)"
+                ],
+                "goals": [
+                    "Extend conceptual understanding of reward effects",
+                    "Integrate factors like stimulus saliency, cognitive-control modes, response modes, influence of irrelevant information",
+                    "Employ optimized neuroimaging methods for investigation of neural activity"
+                ],
+                "significance": [
+                    "Provide insights for basic and applied psychological and neuroscientific research",
+                    "Address the cognitive benefits of reward in the healthy mind",
+                    "Explore disturbances in DA and NA systems in neurological and psychiatric disorders"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "47c0e9d325134b48a62ac3cd13423d9c",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nReward revisited: Towards a comprehensive understanding of motivational influences on human cognition\n\n**Description:**\n\nMotivation is a central topic in psychology, not least because of its strong interrelation with other psychological concepts, as well as with various clinical conditions. Beyond globally energizing behavior, recent studies have begun to describe effects of extrinsic reward on various specific cognitive operations like conflict resolution, inhibitory control, and memory formation. Intriguingly, these functions appear to be disturbed in a number of neurological and psychiatric disorders, like attention-deficit hyperactivity disorder, addiction, and Parkinson’s disease. On the neural level, these disorders have been related to disturbances in the dopaminergic (DA) and/or the noradrenergic (NA) system, which are the very same systems that are also thought to be vital for the cognitive benefits of reward observed in the healthy mind. Despite this central, probably interrelated, role in the healthy and the diseased mind, our understanding of how exactly reward impacts specific cognitive operations is still rudimentary, both on the level of psychological theory as well as concerning the underlying neural mechanisms. The aim of this proposal is to develop a novel unifying conceptual and neural framework of how reward influences human cognition. To achieve this goal, it is essential to extend our conceptual understanding of the nature of such reward effects by integrating additional interrelated factors, such as stimulus saliency, different cognitive-control and response modes, and the influence of irrelevant information. In order to match this conceptual progress at the neuromechanistic level, it is critical to employ optimized neuroimaging methods that allow for a reliable, yet non-invasive investigation of neural activity in the source and target regions of the DA and NA system. Given the critical role of motivation in the healthy and the diseased mind, the results will provide new valuable insights for both basic and applied psychological and neuroscientific research."
+}

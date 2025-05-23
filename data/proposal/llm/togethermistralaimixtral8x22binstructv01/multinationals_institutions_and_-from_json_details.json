@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Multinationals, Institutions and Innovation in Europe",
+    "descriptions": [
+        " This grant proposal, titled \"Multinationals, Institutions and Innovation in Europe,\" aims to explore the significant role of multinational enterprises (MNEs) in the global economy, where they contribute more than a quarter of the world's GDP, amounting to US$16 trillion in value added. The project will delve into the evolving landscape of foreign direct investment (FDI) outflows, which have seen a remarkable increase from developing economies, rising to $426 billion in 2012, representing 31% of global outflows compared to 16% in 2007.\n\nThe research will focus on investigating the location strategies of MNEs and their territorial impacts, addressing crucial gaps in the existing literature. The project will provide valuable insights into the complex dynamics of multinational corporations, their interactions with local institutions, and their role in driving innovation in Europe. This investigation will not only enrich our understanding of the global economic landscape but also offer practical policy-making tools to harness the potential of MNEs for sustainable development and regional growth. By bridging the gap between theory and practice, this project seeks to contribute to the discourse on MNEs and their impact on the global economy, with a particular focus on Europe."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "4029cf6d398da6a3f35e69b64509cdca",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 264 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Multinationals, Institutions and Innovation in Europe', 'proposal_details': {'multinational_enterprises_value_added': 'US$16 trillion', 'multinational_enterprises_world_GDP_percentage': 'more than a quarter', 'FDI_outflows_from_developing_economies_2012': '$426 billion', 'global_outflows_percentage_2012': '31%', 'global_outflows_percentage_2007': '16%', 'descriptions': ['Investigation of the location strategies of MNEs and their territorial impacts, addressing gaps in literature and providing policy-making tools.']}}"
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tol'able David",
+    "descriptions": [
+        "\"Tol'able David\" is a silent film released in 1921, directed by Henry King and William C. deMille. The film is based on the short story of the same name by John Fox Jr. and is set in the Appalachian Mountains of Virginia during the late 19th century. The story revolves around David Hazlett, a young man who is innocent and naive, living in a close-knit, rural community.\n\nDavid's life changes dramatically when his older brother, John, is killed in a duel. The duel is the result of a long-standing feud between the Hazlett and Carver families, rooted in political differences and personal animosities. David, who has always been sheltered and protected by his family, is thrust into a position of responsibility and must confront the harsh realities of his world.\n\nThe film explores David's journey as he navigates the complexities of revenge, justice, and personal growth. He is torn between his desire to avenge his brother's death and his inherent sense of morality. David's character is further developed through his interactions with his family, particularly his mother, who is a strong and principled woman, and his love interest, Julie Carver, the daughter of his family's enemy.\n\nAs David grapples with his emotions and the expectations of his community, he must also face the consequences of his actions. His decisions test the bonds of family, challenge the norms of his society, and ultimately lead to a profound transformation in his character. The film culminates in a powerful and emotional resolution that reflects the themes of forgiveness, redemption, and the enduring strength of the human spirit.\n\n\"Tol'able David\" is celebrated for its authentic portrayal of mountain life, its strong performances, and its exploration of moral and ethical dilemmas. It remains a significant work in early American cinema, capturing the essence of a bygone era and the timeless struggles of the human condition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "04413c4e404958790624c76236d13bab",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 378.0 words or less.\n\n---\n\n**Title:**\n\nTol'able David\n\n**Year:**\n\n1921",
+    "include_year": false
+}

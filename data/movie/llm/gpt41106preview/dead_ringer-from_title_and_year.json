@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Ringer",
+    "descriptions": [
+        "\"Dead Ringer,\" a 1964 film, is a thrilling tale of deception, identity theft, and murder. The movie centers on twin sisters Edith Phillips and Margaret DeLorca, both played by Bette Davis. Living vastly different lives, Edith is the downtrodden twin, running a seedy cocktail bar, while Margaret leads a life of luxury, married to a wealthy man whom Edith once loved.\n\nAfter the funeral of Margaret's husband, the long-estranged sisters reunite. Edith discovers that Margaret's opulent lifestyle was built on deceit and betrayal, which included marrying Edith's beau. Enraged by the injustice and longing for the life she believes was stolen from her, Edith hatches a sinister plan.\n\nEdith murders Margaret and assumes her identity, carefully covering her tracks. However, impersonating her sister proves more complicated than Edith anticipated. She must navigate a web of relationships, including the suspicious housekeeper and Margaret's lover, without exposing her true identity.\n\nAs Edith becomes entangled in the consequences of her actions, the tension mounts. She must outwit those who grow increasingly suspicious while grappling with her own guilt and the fear of being found out. The film twists and turns towards an unexpected conclusion, keeping the audience on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e7a5935e21717fc8edca0d81974a4762",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964",
+    "include_year": false
+}

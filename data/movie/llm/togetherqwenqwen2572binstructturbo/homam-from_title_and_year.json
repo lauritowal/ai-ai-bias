@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Homam",
+    "descriptions": [
+        "**Homam (2008)**\n\n\"Homam,\" directed by Nader Talebzadeh, is an Iranian drama that delves into the lives of a group of Afghan refugees living in Iran. The film focuses on Homam, a young Afghan boy who has been separated from his family and now lives on the streets of Tehran. Despite the harsh conditions and the constant threat of deportation, Homam remains resilient and determined to find his family.\n\nThe story unfolds through Homam's daily struggles, which include scavenging for food, sleeping in abandoned buildings, and evading the authorities. Along the way, he forms a bond with a group of other street children, each with their own tragic backstory. These children, though facing dire circumstances, support each other and share a sense of camaraderie that provides a glimmer of hope in their difficult lives.\n\nHomam's journey is not just a physical one but also an emotional and spiritual quest for identity and belonging. The film explores themes of displacement, the impact of war on innocent lives, and the strength of the human spirit in the face of adversity.\n\nAs the story progresses, Homam's determination leads him to cross paths with a kind-hearted Iranian woman who offers him a temporary refuge. This encounter provides a moment of respite and a chance for Homam to reflect on his past and his future. However, the reality of his situation is never far away, and the film ultimately highlights the complex and often heartbreaking challenges faced by refugees.\n\n\"Homam\" is a poignant and thought-provoking film that sheds light on a critical issue, offering a humanizing perspective on the lives of those displaced by conflict."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "0a05e08b8b64480e98f39143f4cde3d2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 330.0 words or less.\n\n---\n\n**Title:**\n\nHomam\n\n**Year:**\n\n2008",
+    "include_year": false
+}

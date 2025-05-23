@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rudraveena",
+    "descriptions": [
+        "\"Rudraveena,\" released in 1988, is a poignant Indian musical drama directed by K. Viswanath. The film revolves around a gifted musician named Annapoorna, played by Sridevi, who is dedicated to the art of Carnatic music. Despite her talent, she faces numerous challenges, including societal pressures and personal sacrifices. Annapoorna marries a wealthy man who does not share her passion for music, leading to a strained relationship. She continues to pursue her art, finding solace and purpose in her music.\n\nThe story also delves into the life of her son, who is born with a talent for music but is discouraged from pursuing it due to his father's disapproval. Annapoorna's unwavering commitment to her art and her desire to pass on her legacy to her son form the emotional core of the film. \"Rudraveena\" is a celebration of the power of music and the strength of a woman's spirit in the face of adversity. The film is known for its beautiful musical compositions and Sridevi's powerful performance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "a34306deb63723d95fe7b4cf1cbb5101",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988",
+    "include_year": false
+}

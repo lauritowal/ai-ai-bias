@@ -1,0 +1,45 @@
+{
+    "item_type": "proposal",
+    "title": "Towards a Systematic Theory of Aristotelian Diagrams in Logical Geometry",
+    "descriptions": [
+        {
+            "proposal_name": "Towards a Systematic Theory of Aristotelian Diagrams in Logical Geometry",
+            "proposal_details": {
+                "descriptions": [
+                    "Development of a unified theory of Aristotelian diagrams"
+                ],
+                "applications": [
+                    "philosophy",
+                    "logic",
+                    "psychology",
+                    "linguistics",
+                    "computer science"
+                ],
+                "problems_addressed": [
+                    "lack of understanding of logical properties",
+                    "unappreciated heuristic potential"
+                ],
+                "research_strategy": [
+                    "systematic typology of Aristotelian diagrams",
+                    "comprehensive diagram database"
+                ],
+                "expected_outcomes": [
+                    "clarify and solve current issues",
+                    "accurate understanding of methodological importance",
+                    "study diagrams as objects of independent interest"
+                ],
+                "impact": [
+                    "breakthrough in logical geometry",
+                    "relevance for philosophical logicians",
+                    "applications in various disciplines"
+                ],
+                "project_name": "STARTDIALOG"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "acdd985932c94f5d699678ab4bd4b154",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTowards a Systematic Theory of Aristotelian Diagrams in Logical Geometry\n\n**Description:**\n\nAristotelian diagrams, such as the square of opposition, have been widely used throughout the history of philosophy and logic. Nowadays, they also have several applications in other disciplines that are concerned with logical reasoning, such as psychology, linguistics and computer science. However, many of the applications of Aristotelian diagrams suffer from substantial problems, often due to a lack of understanding of the intricate logical properties of these diagrams. Consequently, the tremendous heuristic potential of Aristotelian diagrams has remained vastly underappreciated thus far. The overarching goal of the STARTDIALOG project is to develop a unified theory of Aristotelian diagrams. We will use a radically new research strategy to accomplish this goal, viz. developing a systematic typology of Aristotelian diagrams in close interplay with a comprehensive diagram database. This empirically informed typology will systematically organize all our (existing and new) knowledge about Aristotelian diagrams, similarly to the role of Mendeleev's periodic table of the elements in chemistry. This will enable us to clarify and solve many of the issues that currently surround the applications of these diagrams, and thereby lead to a more accurate understanding of their methodological importance. This unified theory will allow us to move beyond the specific details of any given application, and to study Aristotelian diagrams as objects of independent interest. This will constitute a major breakthrough in logical geometry, i.e. the theoretical investigation of Aristotelian diagrams. However, because of the widely interdisciplinary use of these diagrams, the scientific impact of the STARTDIALOG project will reach far beyond the boundaries of logical geometry: its results will be relevant for other philosophical logicians as well, for philosophers in general, and ultimately, for all researchers who make use of Aristotelian diagrams in their research on logical reasoning."
+}

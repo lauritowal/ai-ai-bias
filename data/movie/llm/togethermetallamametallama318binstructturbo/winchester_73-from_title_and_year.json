@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Winchester '73",
+    "descriptions": [
+        "\"Winchester '73\" is a 1950 American Western film directed by Gordon Douglas. The movie follows the story of Lin McAdam (played by James Stewart), a young and ambitious gunsmith who travels to the small town of Cheyenne, Wyoming, to participate in a national rifle competition. The competition is centered around the Winchester '73, a new rifle that has gained popularity among hunters and marksmen.\n\nUpon his arrival, Lin meets a mysterious stranger named Winton \"Wincapoo\" Hoyt (played by Stephen McNally), who also seeks to win the Winchester '73. The two men quickly develop a rivalry, with Lin determined to prove himself as the best shot in the competition.\n\nAs the competition begins, Lin and Wincapoo engage in a series of challenges and duels, each trying to outdo the other. However, their rivalry is not just about winning the rifle but also about the prize money and the prestige that comes with it.\n\nMeanwhile, Lin's sister, Lily (played by Shelley Winters), and her husband, Oliver (played by Dan Duryea), are also in Cheyenne, seeking to win the Winchester '73 for themselves. Lily has a complicated past with Wincapoo, and their presence in the town creates tension between the two men.\n\nAs the competition heats up, Lin and Wincapoo engage in a series of tense and violent confrontations, each pushing the other to his limits. The rivalry between the two men becomes increasingly personal, with each trying to outdo the other in a bid to win the Winchester '73 and the respect of the other participants.\n\nIn the end, Lin emerges victorious, but not without scars. The Winchester '73 is more than just a prize; it's a symbol of the American West and the values that come with it. The movie ends with Lin reflecting on the true meaning of the competition and the lessons he has learned along the way.\n\n\"Winchester '73\" is a classic Western film that explores themes of competition, rivalry, and the American spirit. The movie features stunning cinematography, memorable characters, and a gripping storyline that keeps viewers engaged from start to finish."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b9339ec785ad6762bb1301ec20e956d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 939.0 words or less.\n\n---\n\n**Title:**\n\nWinchester '73\n\n**Year:**\n\n1950",
+    "include_year": false
+}

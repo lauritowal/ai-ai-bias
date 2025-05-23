@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Charas",
+    "descriptions": [
+        "Charas is a 1976 Indian Hindi-language crime drama film directed by K. Shankar and starring Jeetendra and Reena Roy. The movie revolves around the story of a man named Rajesh (played by Jeetendra), a smuggler of hashish, who is a close friend of the local police officer, Kumar (played by Pinchoo Kapoor).\n\nRajesh and Kumar have a long-standing friendship, with Kumar often turning a blind eye to Rajesh's smuggling activities. However, this changes when Kumar's sister, Hemlata (played by Reena Roy), falls in love with Rajesh. Kumar, who disapproves of Rajesh's profession, tries to keep them apart.\n\nAs Hemlata and Rajesh's relationship deepens, their love becomes a major source of tension between the two friends. Kumar's disapproval leads to a rift between him and Rajesh, causing Rajesh to become bitter and resentful towards his friend.\n\nThe movie takes a dramatic turn when Rajesh's smuggling business is threatened by a rival gang. Kumar, who is now duty-bound to uphold the law, is forced to choose between his friendship and his duty. The climax of the movie sees Kumar making a difficult decision that changes the course of his life and his relationship with Rajesh.\n\nCharas is a classic tale of friendship, love, and loyalty, set against the backdrop of a tumultuous era in India. The movie explores themes of morality, duty, and the complexities of human relationships, making it a gripping watch even today.\n\nThe movie features memorable performances from Jeetendra and Reena Roy, who bring depth and nuance to their characters. The film's direction, by K. Shankar, adds to the tension and drama, making Charas a compelling watch for audiences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "137e815ab187c9619f710421301cae6e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nCharas\n\n**Year:**\n\n1976",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Better Tomorrow 2",
+    "descriptions": [
+        "\"A Better Tomorrow 2\" picks up where the first film left off, following the story of two brothers, Ho and Kit, who are both involved in the criminal underworld in Hong Kong. Ho, a former gangster, is now living a quiet life as a restaurant owner, while Kit is a police officer determined to bring down the crime syndicate that his brother used to be a part of.\n\nWhen Ho's old enemy, Lung, resurfaces and seeks revenge for their past conflicts, Ho is forced back into the world of crime to protect his family. Lung kidnaps Ho's father and demands that Ho help him with a major arms deal. Ho agrees to the deal in order to save his father, but is betrayed by Lung, leading to a violent confrontation that leaves Ho severely injured.\n\nMeanwhile, Kit is also dealing with his own struggles within the police force. He is torn between his loyalty to his brother and his duty as a police officer. As the arms deal goes wrong and violence escalates between the rival gangs, Kit finds himself caught in the middle of the chaos, forced to make difficult decisions that will test his loyalty and morality.\n\nAs Ho fights for his life and Kit tries to navigate the dangerous world of crime and corruption, the two brothers must confront their own demons and come to terms with their past in order to secure a better future for themselves and their loved ones.\n\nWith intense action sequences, emotional drama, and themes of redemption and brotherhood, \"A Better Tomorrow 2\" is a gripping tale of loyalty, sacrifice, and the power of family bonds in the face of adversity. As the brothers face their greatest challenges yet, they must rely on each other to survive and ultimately find a way to build a better tomorrow for themselves and those they care about."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "19be7e9f32d12571a23ade9d376163c4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 521.0 words or less.\n\n---\n\n**Title:**\n\nA Better Tomorrow 2\n\n**Year:**\n\n1987",
+    "include_year": false
+}

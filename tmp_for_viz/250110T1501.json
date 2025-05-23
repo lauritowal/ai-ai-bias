@@ -1,0 +1,1781 @@
+{
+    "metadata": {
+        "run_start": "2025-01-10T12:51:52.767075",
+        "run_end": "2025-01-10T15:01:16.240024",
+        "item_type": "proposal",
+        "item_title_like": [],
+        "items_covered": [
+            "social_politics_in_european_bord",
+            "new_perspectives_on_land_disposs",
+            "beyond_the_breadline_charitable_",
+            "fluidity_in_the_medieval_aristot",
+            "metabody_body_metacognition_ment",
+            "transnational_histories_of_corru",
+            "engaged_universals_ethnographic_",
+            "gestural_origins_linguistic_feat",
+            "simulation_of_transport_between_",
+            "revealing_earliest_animal_domest",
+            "late_ottoman_palestinians_social",
+            "classical_influences_and_irish_c",
+            "causes_and_consequences_of_labor",
+            "solidarity_sovereignty_and_sanct",
+            "politics_and_emotions_investigat",
+            "visual_representations_of_the_th",
+            "representational_preconditions_f",
+            "nextgeneration_building_informat",
+            "egalitarianism_forms_processes_c",
+            "microfoundations_of_collective_d",
+            "the_asian_origins_of_global_capi",
+            "nineteenthcentury_sociographic_j",
+            "life_in_a_cold_climate_the_adapt",
+            "funding_frictions_after_the_glob",
+            "pliocene_hominin_dispersal_to_so",
+            "active_ageing__resilience_and_ex",
+            "topological_atlas_mapping_contem",
+            "authority_and_innovation_in_earl",
+            "what_are_the_origins_of_empathy_",
+            "colonization_early_institutions_",
+            "the_neural_and_network_dynamics_",
+            "fragments_of_cuneiform_medicine_",
+            "wage_inequality_within_and_acros",
+            "australasian_colonization_resear",
+            "the_politics_of_climate_change_l",
+            "locus_ludi_the_cultural_fabric_o",
+            "digitalization_of_public_service",
+            "understanding_trajectories_of_we",
+            "meeting_darwins_last_challenge_t",
+            "mapping_emerging_gender_artivism",
+            "quantitative_models_of_cities",
+            "economic_fluctuations_productivi",
+            "understanding_the_processes_unde",
+            "developing_and_delivering_neuroc",
+            "do_early_stone_tools_indicate_a_",
+            "predictive_memory_systems_across",
+            "foraging_at_the_edge_of_capitali",
+            "how_nature_affects_cooperation_i",
+            "bridging_europe_a_quaternary_tim",
+            "how_varieties_of_nationalism_sha",
+            "cerebral_asymmetry_new_direction",
+            "crisis_on_the_margins_of_the_byz",
+            "medieval_placebo_effect_hope_and",
+            "reputation_matters_in_the_regula",
+            "experimentation_versus_interpret",
+            "reward_revisited_towards_a_compr",
+            "energy_and_emissions_thresholds_",
+            "forced_migration_and_development",
+            "forecasting_and_monitoring_econo",
+            "longterm_investment",
+            "wrap_it_up_deciphering_experienc",
+            "the_upcycled_clinic_a_global_eth",
+            "medically_assisted_reproduction_",
+            "the_impact_of_the_international_",
+            "law_without_mercy_japanese_court",
+            "globalization_regionalization_ur",
+            "planning_for_sustainable_ocean_u",
+            "the_everyday_politics_of_famine",
+            "a_dynamic_view_on_conscious_and_",
+            "towards_an_evidencebased_model_f",
+            "the_politics_and_practice_of_soc",
+            "the_multiple_layers_of_childhood",
+            "managing_performative_science",
+            "putting_water_at_the_centre_of_n",
+            "post_scriptum_a_digital_archive_",
+            "the_survival_of_damaged_medieval",
+            "global_economies_of_salvation_ar",
+            "lordship_and_the_rise_of_states_",
+            "we_are_all_ayotzinapa_the_role_o",
+            "beyond_the_genetics_of_addiction",
+            "behavioural_principles_of_larges",
+            "making_ancestors_the_politics_of",
+            "neuronal_mechanisms_for_consciou",
+            "overcoming_the_frontiers_of_biom",
+            "the_scale_revolution_in_physics_",
+            "animals_and_plants_in_cultural_p",
+            "towards_a_computational_account_",
+            "decolonising_madness_transcultur",
+            "the_rise_and_fall_of_populism_an",
+            "the_lost_manuscripts_of_medieval",
+            "belief_systems_project",
+            "sacralizing_security_religion_vi",
+            "vital_elements_and_postcolonial_",
+            "sustainable_and_healthy_food_sol",
+            "nonelected_politics_cure_or_curs",
+            "inequalityaware_market_design",
+            "not_getting_lost_in_multiscale_m",
+            "intelligent_instruments_understa",
+            "heterogeneity_monetary_policy_an",
+            "the_new_flow_of_news__how_social",
+            "the_swedish_historical_database_",
+            "reinterpreting_how_forests_suppo",
+            "digital_twin_politics_unlocking_",
+            "the_evolutionary_landscape_of_mo",
+            "its_about_time_towards_a_dynamic",
+            "corpora_in_greater_gandhra_traci",
+            "helping_children_to_make_the_bes",
+            "meritocracy_and_literature_trans",
+            "olfaction_as_the_link_between_fl",
+            "delegation_of_power_to_internati",
+            "insomnias_negative_sequelae_on_m",
+            "the_diseases_of_modern_life_nine",
+            "bringing_gis_to_the_digital_huma",
+            "solidarity_in_the_european_union",
+            "our_mythical_childhood_the_recep",
+            "structural_household_analysis_us",
+            "human_collaboration_with_ai_agen",
+            "subsistence_and_human_resilience",
+            "reinforcement_learning_from_post",
+            "fare_audit_fake_news_recommendat",
+            "rediscovering_the_hidden_structu",
+            "governance_in_babylon_negotiatin",
+            "mapping_the_impact_of_gut_microb",
+            "the_formal_turn__the_emergence_o",
+            "a_multitheory_multimethod_approa",
+            "firm_growth_and_market_power_in_",
+            "selfassembly_shifting_our_view_o",
+            "beyond_east_and_west_developing_",
+            "the_medieval_and_early_modern_na",
+            "historical_roots_of_conflict_and",
+            "mapping_the_deprived_visual_syst",
+            "the_evolutionary_origins_of_frie",
+            "narratives_of_loss_unravelling_t",
+            "evolutionary_government_origins_",
+            "remembering_activism_the_cultura",
+            "social_cognition_in_adolescents_",
+            "a_computational_approach_to_earl",
+            "inequality_in_3d__measurement_an",
+            "understanding_and_embracing_arti",
+            "dynamics_in_buddhist_networks_in",
+            "cultural_roots_and_institutional",
+            "stress_resilience_and_networkfee",
+            "egalitarian_but_not_equal_sector",
+            "becoming_a_mother_an_integrative",
+            "relocating_care_within_europe_mo",
+            "the_mental_economy_testing_a_dyn",
+            "enslaved_persons_in_the_making_o",
+            "from_spatial_relationships_to_te",
+            "from_international_to_global_kno",
+            "between_canon_and_coincidence_us",
+            "migrant_life_course_and_legal_st",
+            "from_warfare_to_welfare_a_compar",
+            "stories_of_survival_recovering_t",
+            "the_plasticity_of_parental_careg",
+            "how_citizens_try_to_influence_po",
+            "staging_national_abjection_theat",
+            "a_unified_framework_for_the_asse",
+            "the_role_of_consciousness_in_ada",
+            "prisons_the_rule_of_law_accounta",
+            "health_labor_and_environmental_r",
+            "modelling_and_maintaining_matern",
+            "an_individualspecific_understand",
+            "pregnancy_and_the_human_brain_a_",
+            "good_attention_attention_norms_a",
+            "inference_in_microeconometric_mo",
+            "the_multisensory_mind_from_neura",
+            "change_in_policy_fields_the_impa",
+            "control_of_impulsive_action",
+            "climate_policy_integration__a_co",
+            "rethinking_chinas_model_of_urban",
+            "economic_engineering_of_cooperat",
+            "the_silence_of_states_in_interna",
+            "florilegia_syriaca_the_intercult",
+            "metacognition_of_concepts",
+            "cultural_evolution_of_kinship_di",
+            "principles_of_musical_structure_",
+            "oscilang_a_neurofeedback_system_",
+            "jewish_translation_and_cultural_",
+            "temporal_structures_of_gender_in",
+            "the_legal_status_of_religious_mi",
+            "the_advantages_and_pitfalls_of_e",
+            "is_the_presence_of_technology_im",
+            "indias_politics_in_its_vernacula",
+            "reevaluating_the_eleventh_centur",
+            "network_epistemology_in_practice",
+            "navigating_the_marketplace_of_in",
+            "implications_of_genderaffirming_",
+            "collaborative_ai_counters_hate",
+            "the_real_estatefinancial_complex",
+            "the_design_creation_and_survival",
+            "multilingual_locals_significant_",
+            "portable_eegbased_screening_of_s",
+            "effort_and_social_inequality_adv",
+            "information_services_competition",
+            "it_takes_a_village_an_interdisci",
+            "health_cognition_family_and_empl",
+            "making_time_organized_labour_and",
+            "an_ecometabolistic_framework_for",
+            "towards_a_systematic_theory_of_a",
+            "in_praise_of_community_shared_cr",
+            "postauthoritarian_norms_and_the_",
+            "drivers_of_growth_in_bank_lendin",
+            "scalefores_scaling_rules_for_eco",
+            "shared_responsibility_in_interna",
+            "memory_mechanisms_in_man_and_mac",
+            "do_legislatures_enhance_democrac",
+            "craft_work_understanding_the_rel",
+            "innovation_firm_dynamics_and_gro",
+            "the_role_of_reputation_and_corru",
+            "epigenetics_experience_and_respo",
+            "communities_and_connectivities_i",
+            "decentralized_markets_with_infor",
+            "in_blockchain_we_trustless_the_f",
+            "a_consolidated_library_of_anglos",
+            "the_enemy_of_the_good_towards_a_",
+            "the_praxis_of_coexistence_a_comp",
+            "reforming_schools_globally_a_mul",
+            "fitting_the_world_to_minds_brain",
+            "truth_and_semantics",
+            "energy_vulnerability_and_urban_t",
+            "biomarkers_of_individual_differe",
+            "urban_terrorism_in_europe_200420",
+            "wide_incremental_learning_with_d",
+            "blockchain4biodiversity_a_digita",
+            "beyond_enemy_lines_literature_an",
+            "artemisininbased_combination_the",
+            "the_values_of_french_language_an",
+            "a_new_perspective_on_city_logist",
+            "intergroup_toleration_its_nature",
+            "multinationals_institutions_and_",
+            "the_future_of_prediction_the_soc",
+            "climate_landscape_settlement_and",
+            "transoceanic_fishers_multiple_mo",
+            "time_to_pay_up_reparations_and_g",
+            "from_micro_to_macro_aggregate_im",
+            "a_social_demography_of_widowhood",
+            "projections_of_jerusalem_in_euro",
+            "students_understanding_and_appro",
+            "knowledge_for_use_k4u_making_the",
+            "resilient_cultures__music_art_an",
+            "south_american_population_histor",
+            "repetition_parallelism_and_creat",
+            "the_causal_effect_of_public_poli",
+            "decentering_eighteenthcentury_po",
+            "the_first_bantu_speakers_south_o",
+            "emotional_learning_in_social_int",
+            "crossed_memories_politics_of_sil",
+            "neural_mechanisms_of_learning_in",
+            "the_cognitive_primers_of_human_c",
+            "ecologies_of_violence_crimes_aga"
+        ],
+        "min_description_generation_count": 1,
+        "engine_and_prompt_permutations": [
+            {
+                "comparison_engine": "gpt-4-1106-preview",
+                "comparison_prompt_key": "proposal_pick_one",
+                "description_engine": "gpt-4-1106-preview",
+                "description_prompt_key": "include_descriptions"
+            }
+        ]
+    },
+    "results": {
+        "proposal---DESCRIPTION-include_descriptions|gpt-4-1106-preview---COMPARISON-proposal_pick_one|gpt-4-1106-preview": {
+            "details_by_item": {
+                "social_politics_in_european_bord": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "new_perspectives_on_land_disposs": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "beyond_the_breadline_charitable_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "fluidity_in_the_medieval_aristot": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "metabody_body_metacognition_ment": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "transnational_histories_of_corru": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "engaged_universals_ethnographic_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "gestural_origins_linguistic_feat": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "simulation_of_transport_between_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "revealing_earliest_animal_domest": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "late_ottoman_palestinians_social": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "classical_influences_and_irish_c": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "causes_and_consequences_of_labor": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "solidarity_sovereignty_and_sanct": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "politics_and_emotions_investigat": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "visual_representations_of_the_th": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "representational_preconditions_f": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "nextgeneration_building_informat": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "egalitarianism_forms_processes_c": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "microfoundations_of_collective_d": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_asian_origins_of_global_capi": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "nineteenthcentury_sociographic_j": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "life_in_a_cold_climate_the_adapt": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "funding_frictions_after_the_glob": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "pliocene_hominin_dispersal_to_so": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "active_ageing__resilience_and_ex": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "topological_atlas_mapping_contem": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "authority_and_innovation_in_earl": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "what_are_the_origins_of_empathy_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "colonization_early_institutions_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_neural_and_network_dynamics_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "fragments_of_cuneiform_medicine_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "wage_inequality_within_and_acros": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "australasian_colonization_resear": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "the_politics_of_climate_change_l": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "locus_ludi_the_cultural_fabric_o": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "digitalization_of_public_service": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "understanding_trajectories_of_we": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "meeting_darwins_last_challenge_t": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "mapping_emerging_gender_artivism": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "quantitative_models_of_cities": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "economic_fluctuations_productivi": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "understanding_the_processes_unde": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "developing_and_delivering_neuroc": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "do_early_stone_tools_indicate_a_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "predictive_memory_systems_across": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "foraging_at_the_edge_of_capitali": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "how_nature_affects_cooperation_i": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "bridging_europe_a_quaternary_tim": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "how_varieties_of_nationalism_sha": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "cerebral_asymmetry_new_direction": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "crisis_on_the_margins_of_the_byz": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "medieval_placebo_effect_hope_and": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "reputation_matters_in_the_regula": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "experimentation_versus_interpret": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "reward_revisited_towards_a_compr": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "energy_and_emissions_thresholds_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "forced_migration_and_development": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "forecasting_and_monitoring_econo": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "longterm_investment": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "wrap_it_up_deciphering_experienc": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "the_upcycled_clinic_a_global_eth": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "medically_assisted_reproduction_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_impact_of_the_international_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "law_without_mercy_japanese_court": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "globalization_regionalization_ur": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "planning_for_sustainable_ocean_u": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "the_everyday_politics_of_famine": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "a_dynamic_view_on_conscious_and_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "towards_an_evidencebased_model_f": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_politics_and_practice_of_soc": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_multiple_layers_of_childhood": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "managing_performative_science": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "putting_water_at_the_centre_of_n": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "post_scriptum_a_digital_archive_": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "the_survival_of_damaged_medieval": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "global_economies_of_salvation_ar": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "lordship_and_the_rise_of_states_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "we_are_all_ayotzinapa_the_role_o": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "beyond_the_genetics_of_addiction": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "behavioural_principles_of_larges": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "making_ancestors_the_politics_of": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "neuronal_mechanisms_for_consciou": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "overcoming_the_frontiers_of_biom": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "the_scale_revolution_in_physics_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "animals_and_plants_in_cultural_p": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "towards_a_computational_account_": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "decolonising_madness_transcultur": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_rise_and_fall_of_populism_an": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_lost_manuscripts_of_medieval": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "belief_systems_project": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "sacralizing_security_religion_vi": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "vital_elements_and_postcolonial_": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "sustainable_and_healthy_food_sol": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "nonelected_politics_cure_or_curs": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "inequalityaware_market_design": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "not_getting_lost_in_multiscale_m": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "intelligent_instruments_understa": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "heterogeneity_monetary_policy_an": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_new_flow_of_news__how_social": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_swedish_historical_database_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "reinterpreting_how_forests_suppo": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "digital_twin_politics_unlocking_": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "the_evolutionary_landscape_of_mo": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "its_about_time_towards_a_dynamic": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "corpora_in_greater_gandhra_traci": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "helping_children_to_make_the_bes": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "meritocracy_and_literature_trans": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "olfaction_as_the_link_between_fl": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "delegation_of_power_to_internati": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "insomnias_negative_sequelae_on_m": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_diseases_of_modern_life_nine": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "bringing_gis_to_the_digital_huma": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "solidarity_in_the_european_union": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "our_mythical_childhood_the_recep": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "structural_household_analysis_us": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "human_collaboration_with_ai_agen": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "subsistence_and_human_resilience": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "reinforcement_learning_from_post": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "fare_audit_fake_news_recommendat": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "rediscovering_the_hidden_structu": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "governance_in_babylon_negotiatin": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "mapping_the_impact_of_gut_microb": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_formal_turn__the_emergence_o": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "a_multitheory_multimethod_approa": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "firm_growth_and_market_power_in_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "selfassembly_shifting_our_view_o": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "beyond_east_and_west_developing_": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "the_medieval_and_early_modern_na": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "historical_roots_of_conflict_and": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "mapping_the_deprived_visual_syst": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "the_evolutionary_origins_of_frie": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "narratives_of_loss_unravelling_t": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "evolutionary_government_origins_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "remembering_activism_the_cultura": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "social_cognition_in_adolescents_": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "a_computational_approach_to_earl": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "inequality_in_3d__measurement_an": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "understanding_and_embracing_arti": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 2,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "dynamics_in_buddhist_networks_in": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "cultural_roots_and_institutional": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "stress_resilience_and_networkfee": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "egalitarian_but_not_equal_sector": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "becoming_a_mother_an_integrative": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "relocating_care_within_europe_mo": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_mental_economy_testing_a_dyn": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "enslaved_persons_in_the_making_o": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "from_spatial_relationships_to_te": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "from_international_to_global_kno": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "between_canon_and_coincidence_us": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "migrant_life_course_and_legal_st": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 2,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "from_warfare_to_welfare_a_compar": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "stories_of_survival_recovering_t": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_plasticity_of_parental_careg": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "how_citizens_try_to_influence_po": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "staging_national_abjection_theat": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "a_unified_framework_for_the_asse": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_role_of_consciousness_in_ada": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "prisons_the_rule_of_law_accounta": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "health_labor_and_environmental_r": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "modelling_and_maintaining_matern": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "an_individualspecific_understand": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "pregnancy_and_the_human_brain_a_": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "good_attention_attention_norms_a": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "inference_in_microeconometric_mo": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_multisensory_mind_from_neura": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "change_in_policy_fields_the_impa": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "control_of_impulsive_action": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "climate_policy_integration__a_co": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "rethinking_chinas_model_of_urban": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "economic_engineering_of_cooperat": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_silence_of_states_in_interna": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "florilegia_syriaca_the_intercult": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "metacognition_of_concepts": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "cultural_evolution_of_kinship_di": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "principles_of_musical_structure_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "oscilang_a_neurofeedback_system_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "jewish_translation_and_cultural_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "temporal_structures_of_gender_in": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_legal_status_of_religious_mi": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "the_advantages_and_pitfalls_of_e": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "is_the_presence_of_technology_im": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "indias_politics_in_its_vernacula": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "reevaluating_the_eleventh_centur": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "network_epistemology_in_practice": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "navigating_the_marketplace_of_in": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "implications_of_genderaffirming_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "collaborative_ai_counters_hate": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_real_estatefinancial_complex": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_design_creation_and_survival": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "multilingual_locals_significant_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "portable_eegbased_screening_of_s": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "effort_and_social_inequality_adv": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "information_services_competition": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "it_takes_a_village_an_interdisci": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 2,
+                    "LLM": 0,
+                    "Invalid": 0
+                },
+                "health_cognition_family_and_empl": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "making_time_organized_labour_and": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "an_ecometabolistic_framework_for": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "towards_a_systematic_theory_of_a": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "in_praise_of_community_shared_cr": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "postauthoritarian_norms_and_the_": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "drivers_of_growth_in_bank_lendin": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "scalefores_scaling_rules_for_eco": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "shared_responsibility_in_interna": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "memory_mechanisms_in_man_and_mac": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "do_legislatures_enhance_democrac": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "craft_work_understanding_the_rel": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "innovation_firm_dynamics_and_gro": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "the_role_of_reputation_and_corru": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "epigenetics_experience_and_respo": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "communities_and_connectivities_i": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "decentralized_markets_with_infor": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "in_blockchain_we_trustless_the_f": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "a_consolidated_library_of_anglos": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_enemy_of_the_good_towards_a_": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "the_praxis_of_coexistence_a_comp": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "reforming_schools_globally_a_mul": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "fitting_the_world_to_minds_brain": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "truth_and_semantics": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "energy_vulnerability_and_urban_t": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "biomarkers_of_individual_differe": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "urban_terrorism_in_europe_200420": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "wide_incremental_learning_with_d": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "blockchain4biodiversity_a_digita": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "beyond_enemy_lines_literature_an": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "artemisininbased_combination_the": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "the_values_of_french_language_an": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "a_new_perspective_on_city_logist": {
+                    "LLM_win_ratio": null,
+                    "Human": 0,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "intergroup_toleration_its_nature": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "multinationals_institutions_and_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_future_of_prediction_the_soc": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "climate_landscape_settlement_and": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "transoceanic_fishers_multiple_mo": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "time_to_pay_up_reparations_and_g": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "from_micro_to_macro_aggregate_im": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "a_social_demography_of_widowhood": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "projections_of_jerusalem_in_euro": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "students_understanding_and_appro": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "knowledge_for_use_k4u_making_the": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "resilient_cultures__music_art_an": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "south_american_population_histor": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "repetition_parallelism_and_creat": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 1,
+                    "LLM": 0,
+                    "Invalid": 1
+                },
+                "the_causal_effect_of_public_poli": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "decentering_eighteenthcentury_po": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "the_first_bantu_speakers_south_o": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "emotional_learning_in_social_int": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "crossed_memories_politics_of_sil": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "neural_mechanisms_of_learning_in": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "the_cognitive_primers_of_human_c": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                },
+                "ecologies_of_violence_crimes_aga": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 1,
+                    "LLM": 1,
+                    "Invalid": 0
+                }
+            },
+            "total_tallies": {
+                "Human": 141,
+                "LLM": 260,
+                "Invalid": 99
+            },
+            "avg_llm_win_ratio": 0.6452282157676349
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Marked Woman",
+    "descriptions": [
+        " In Bette Davis's gritty 1937 drama \"Marked Woman,\" she portrays Mary Dwight, a savvy nightclub hostess. The narrative unfolds in a seedy, crime-ridden New York City, where Mary and her fellow hostesses are manipulated by ruthless gangster Johnny Vanning, played by Eduardo Ciannelli. Vanning uses the women to entrap influential men in compromising situations, helping him maintain his grip on the city.\n\nMary's life takes a dramatic turn when her innocent younger sister Betty is drawn into Vanning's web and is murdered. This tragedy ignites Mary's desire for justice, and she convinces her colleagues to stand against Vanning. Despite facing threats and violence, they bravely agree to testify against him.\n\nAssistant District Attorney David Graham, portrayed by Humphrey Bogart, is determined to bring down Vanning's criminal empire. He forms an alliance with Mary, using her testimony and that of her colleagues to build a case against the gangster. However, the path to justice is fraught with danger, and Mary and her friends must confront their fears to put an end to Vanning's reign of terror. \"Marked Woman\" is a compelling tale of a woman's courage and resilience in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "055a1d7c3bd762b867f5f764a86dab9a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937",
+    "include_year": false
+}

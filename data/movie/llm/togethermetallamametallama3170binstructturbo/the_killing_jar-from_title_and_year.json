@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Killing Jar",
+    "descriptions": [
+        "The Killing Jar is a 2010 American crime thriller film. The movie follows Noreen (played by Amber Benson), a quiet and reserved young woman who lives in a small Texas town. Her mundane life takes an unexpected turn when she witnesses a gruesome and violent crime committed by a mysterious stranger named Doe (played by Danny Trejo). \n\nThe events unfold in a non-linear fashion, with Noreen's story being presented through a series of flashbacks and fragmented memories. As the story progresses, it becomes clear that Noreen's past is intertwined with Doe's, and their fates are inextricably linked.\n\nThrough a series of intense and suspenseful scenes, the film slowly unravels the complex relationship between Noreen and Doe. The movie's title, 'The Killing Jar,' refers to a jar used to trap and kill insects. This serves as a metaphor for the main characters, who are trapped in their own violent world and struggling to find a way out.\n\nThe film features a star-studded cast, including Lew Temple, Mark Young, and Kevin Rankin. Director Mark Young weaves a gripping narrative that explores themes of trauma, violence, and redemption. The movie's non-linear storytelling style and intense performances make for a thrilling and unsettling viewing experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b4a0c21459503bc4dde5319edc54f0f5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 724.0 words or less.\n\n---\n\n**Title:**\n\nThe Killing Jar\n\n**Year:**\n\n2010",
+    "include_year": false
+}

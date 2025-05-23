@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Multiple Maniacs",
+    "descriptions": [
+        "Multiple Maniacs is a cult classic film released in 1970 that follows the story of a traveling sideshow troupe led by a deranged woman named Lady Divine. The group lures unsuspecting victims into their show, only to brutally murder them in various grotesque ways. Lady Divine's main goal is to shock and disgust her audiences, reveling in the chaos and violence that ensues.\n\nAs the film progresses, we see the inner workings of Lady Divine's disturbed mind unraveling. She becomes increasingly unhinged, driven by a thirst for blood and a desire for complete control over her followers. The members of her troupe are a motley crew of misfits and outcasts, each with their own dark desires and twisted motivations.\n\nThe film takes a dark turn when Lady Divine's own inner demons begin to consume her. The line between reality and fantasy blurs as she descends into madness, driven by a relentless urge to commit more heinous acts of violence. Despite her escalating insanity, Lady Divine remains a charismatic and magnetic figure, drawing in those around her with her twisted charm.\n\nAs the bodies pile up and the authorities close in, Lady Divine's reign of terror reaches its bloody climax. The film culminates in a shocking and brutal finale, as the true extent of Lady Divine's madness is finally revealed. In a final act of defiance, she unleashes a wave of destruction that leaves a trail of death and destruction in her wake.\n\nMultiple Maniacs is a dark and disturbing film that pushes the boundaries of good taste and decency. It explores themes of violence, power, and the darker aspects of human nature in a way that is both shocking and thought-provoking. The film's raw and unapologetic portrayal of depravity and madness has made it a cult classic that continues to shock and disturb audiences to this day."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "cb26f58888eaa897ce87dba4e283a5b8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 451.0 words or less.\n\n---\n\n**Title:**\n\nMultiple Maniacs\n\n**Year:**\n\n1970",
+    "include_year": false
+}

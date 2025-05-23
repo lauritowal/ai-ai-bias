@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daivanamathil",
+    "descriptions": [
+        "Daivanamathil is a 2005 Indian Malayalam drama film directed by Jayaraj. The story revolves around a young man named Krishnanunni, who lives in a small village in Kerala. Krishnanunni is a talented artist and poet, but he faces various challenges in his life.\n\nKrishnanunni's father is a strict and orthodox man who does not approve of his son's artistic pursuits. Despite this, Krishnanunni continues to follow his passion and dreams of making a name for himself in the world of art. His love interest, Bhadra, is a strong and independent woman who supports him in his endeavors.\n\nAs Krishnanunni's reputation as an artist grows, he becomes entangled in a web of politics and corruption. He finds himself caught between his artistic aspirations and the harsh realities of the world around him. The film delves into themes of love, betrayal, and the struggle for personal and artistic freedom.\n\nThroughout the movie, Krishnanunni must navigate the complexities of his relationships with his family, friends, and the society he lives in. As he faces various challenges and obstacles, he must find a way to stay true to himself and his art.\n\nDaivanamathil explores the clash between tradition and modernity, the pursuit of dreams in the face of adversity, and the power of art to transcend boundaries. The film provides a poignant and thought-provoking look at the struggles and triumphs of a young artist trying to find his place in the world.\n\nOverall, Daivanamathil is a compelling and emotionally resonant film that offers a glimpse into the life of a young man grappling with personal and artistic dilemmas in a changing world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "632ce75844ddbfb9ea3530b771c305e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nDaivanamathil\n\n**Year:**\n\n2005",
+    "include_year": false
+}

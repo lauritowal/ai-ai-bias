@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Pregnancy and the Human Brain: A Window of Neuroplasticity",
+    "descriptions": [
+        "**Abstract**\n\n\"Pregnancy and the Human Brain: A Window of Neuroplasticity\" is a groundbreaking research initiative aimed at comprehensively mapping the changes in brain anatomy and function that occur during pregnancy and the postpartum period. This project seeks to identify and understand the key factors driving pregnancy-related neuroplasticity, with a focus on maternal caregiving, mental health disorders, and memory issues. Utilizing a prospective cohort study design, we will track women from before conception through the postpartum period, employing cutting-edge neuroimaging techniques, psychopedagogic measures, and biomedical assessments. Our research aims to pinpoint the neural substrates involved in both adaptive and maladaptive processes associated with pregnancy. By laying the foundation for an emerging field of human neuroscience, this study promises to provide profound insights into the neurobiological journey to motherhood, potentially leading to new interventions and support strategies for maternal health."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "400db5582c918b64f4ec2a3aadf45771",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 277 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Pregnancy and the Human Brain: A Window of Neuroplasticity', 'proposal_details': {'descriptions': ['Pregnancy leads to long-lasting changes in human brain structure, revealing dramatic pregnancy-related neuroplasticity.'], 'aims': ['Comprehensively map changes in brain anatomy and function across pregnancy and postpartum period', 'Pinpoint key factors driving pregnancy-related neuroplasticity', 'Reveal neural substrates for potential adaptive and maladaptive processes'], 'focus': ['Maternal caregiving', 'Mental health disorders', 'Memory issues'], 'methods': ['Prospective cohort study', 'Tracking women from before conception through postpartum period', 'Cutting-edge neuroimaging', 'Psychopedagogic measures', 'Biomedical measures'], 'potential_outcomes': ['Foundation for emerging field of human neuroscience', 'Insights into neurobiological journey to motherhood']}}"
+}

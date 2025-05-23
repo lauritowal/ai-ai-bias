@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "White Wedding",
+    "descriptions": [
+        "\"White Wedding\" (1989) is a romantic comedy that explores the trials and tribulations of love, commitment, and the chaos that often accompanies the journey to the altar. The plot centers around a young couple, Anna and Robert, who are deeply in love and excited to tie the knot in a traditional white wedding. However, their path to marital bliss is anything but smooth.\n\nAs the wedding day approaches, a series of comedic mishaps ensues. Anna's overbearing mother is determined to take control of the wedding planning, insisting on an extravagant ceremony that neither Anna nor Robert wants. Meanwhile, Robert's best man, a notorious playboy and joker, seems more interested in throwing a memorable bachelor party than ensuring the day goes off without a hitch.\n\nComplications pile up as misunderstandings, family drama, and cold feet threaten to derail the entire event. The couple must navigate the interference of eccentric relatives, the rekindling of old flames, and their own doubts about whether they are making the right decision.\n\nDespite the chaos, Anna and Robert's love for each other remains the guiding force, leading them to realize that a perfect wedding doesn't require flawless execution, but rather the joy of celebrating their union with the people they care about most. In the end, they learn that the imperfections of their \"White Wedding\" are what make it unforgettable."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "73007e000a4ba5fce2c777252f0a7cf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 226.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989",
+    "include_year": false
+}

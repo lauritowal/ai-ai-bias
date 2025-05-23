@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Ringer",
+    "descriptions": [
+        "\"Dead Ringer,\" released in 1964, is a psychological thriller centered around twins, Veronica and Clarice, who share a complex relationship. When Veronica, a model, disappears, Clarice, a psychiatrist, becomes suspicious. She investigates and uncovers disturbing secrets, leading her to question if the missing twin is who she claims to be. The film explores themes of identity, deception, and the blurred lines between reality and illusion as Clarice delves deeper into a psychological battle that challenges her own sanity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "e7a5935e21717fc8edca0d81974a4762",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964",
+    "include_year": false
+}

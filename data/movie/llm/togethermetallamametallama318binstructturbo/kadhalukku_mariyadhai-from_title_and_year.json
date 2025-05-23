@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kadhalukku Mariyadhai",
+    "descriptions": [
+        "Kadhalukku Mariyadhai is a 1997 Indian Tamil-language romantic drama film written and directed by K.S. Ravikumar. The film stars Vijay and Kajol in the lead roles. \n\nThe story revolves around Aarthi (Kajol), a rich and spoiled girl from a wealthy family. She is engaged to Karthik (Vijay), the son of her parents' friends. However, Aarthi develops feelings for Karthik, but he doesn't reciprocate her emotions and instead wants to marry her for her family's wealth.\n\nAarthi is heartbroken and decides to travel to the United States, where she meets Ravi (Vijay), a young doctor who bears an uncanny resemblance to Karthik. Aarthi is drawn to Ravi's kindness and humility, and they start developing a romantic relationship.\n\nMeanwhile, Karthik realizes his mistake and sets out to win Aarthi's heart back. However, Aarthi is now smitten with Ravi and is unsure about returning to Karthik. The film follows the complex relationships between Aarthi, Karthik, and Ravi, exploring themes of love, class differences, and personal growth.\n\nThe film received positive reviews for its engaging storyline, beautiful music, and the performances of the lead actors. Kadhalukku Mariyadhai was a commercial success and helped establish Vijay as a leading star in Tamil cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "5941eebdbee11d1110d050b440a2a479",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 326.0 words or less.\n\n---\n\n**Title:**\n\nKadhalukku Mariyadhai\n\n**Year:**\n\n1997",
+    "include_year": false
+}

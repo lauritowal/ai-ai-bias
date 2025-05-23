@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Journey of Jared Price",
+    "descriptions": [
+        "I couldn't find any information on a movie called \"The Journey of Jared Price\" released in 2000. It is possible that this movie is not well-known or that it may be a lesser-released or independent film.\n\nHowever, I found that there is a TV movie called \"The Journey of Jared Price\" released in 2001, not 2000. The 2001 film \"The Journey of Jared Price\" is a drama film that tells the story of a young boy named Jared Price, who lives in a small town in the American South. Jared's life is marked by poverty, abuse, and neglect. Despite these challenges, he finds solace in his relationship with his grandmother, who teaches him about the importance of family, love, and perseverance.\n\nAs Jared navigates his way through adolescence, he confronts the harsh realities of his life and struggles to find a sense of belonging. With the help of his grandmother and a few close friends, Jared begins to see a glimmer of hope and a chance to create a better life for himself.\n\nThe film is a heart-wrenching portrayal of a young boy's struggle to overcome adversity and find his place in the world. It explores themes of poverty, abuse, family, and resilience, offering a powerful and emotional portrayal of a young boy's journey towards hope and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "eb3da9459c305557c25fbcc2fd867cda",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 287.0 words or less.\n\n---\n\n**Title:**\n\nThe Journey of Jared Price\n\n**Year:**\n\n2000",
+    "include_year": false
+}

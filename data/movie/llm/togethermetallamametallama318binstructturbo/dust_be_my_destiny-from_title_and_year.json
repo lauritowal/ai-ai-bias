@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dust Be My Destiny",
+    "descriptions": [
+        "Dust Be My Destiny is a 1939 American drama film starring John Garfield and Ann Sheridan. The movie is a romantic drama set during the Great Depression. \n\nThe film follows the story of Joe Bell (played by John Garfield), a young man who is struggling to make a living during the economic crisis. Joe is a drifter and a thief, who gets involved with a troubled woman named Alba (played by Ann Sheridan). \n\nAlba is a former prostitute who has escaped her past but still carries the emotional scars. As Joe and Alba's relationship deepens, they face numerous challenges, including the threat of the law and their own personal demons. The movie explores themes of love, redemption, and the human desire for connection in the face of hardship.\n\nThe film is a commentary on the social and economic conditions of the time, highlighting the struggles of the working class and the vulnerable during the Great Depression. Dust Be My Destiny features strong performances from its lead actors, particularly John Garfield, who would go on to become a prominent figure in film noir."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7503a80b36448cbcc6b19ce17a99e3dd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 231.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939",
+    "include_year": false
+}

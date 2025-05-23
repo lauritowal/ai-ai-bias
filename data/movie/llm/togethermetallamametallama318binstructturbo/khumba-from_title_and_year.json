@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Khumba",
+    "descriptions": [
+        "\"Khumba\" is a 2013 animated adventure film produced by Triggerfish Animation Studios. The story takes place in a post-apocalyptic world where a drought has struck the land, causing a severe water shortage.\n\nThe main character is a zebra named Khumba, who is ostracized by his community due to a physical deformity - he only has one eye. Khumba is shunned by his fellow zebras, who view him as a bad omen. However, he is determined to find a way to bring water back to their parched land.\n\nKhumba sets out on a perilous journey to find the Great Waterhole, a legendary source of water that is said to be hidden at the end of a treacherous path. Along the way, he meets a group of outcasts, including a clever meerkat and a wise old tortoise, who join him on his quest.\n\nTogether, they face numerous challenges and dangers, including fierce predators and treacherous terrain. As they journey deeper into the unknown, Khumba discovers that his unique appearance may hold the key to their survival.\n\n\"Khumba\" is a heartwarming and action-packed tale of self-discovery, friendship, and perseverance. The film's vibrant animation and memorable characters bring this inspiring story to life, making it a delightful watch for both children and adults."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "ff47d5bb7ce7a87937dbd0529a81be8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 303.0 words or less.\n\n---\n\n**Title:**\n\nKhumba\n\n**Year:**\n\n2013",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Miracle Man",
+    "descriptions": [
+        " In the bustling city of New York, 1919, \"The Miracle Man\" unfolds as a gripping tale of deception, redemption, and the power of belief. The story revolves around a group of criminals, led by the cunning and charismatic \"The Frog\" (Thomas Meighan), who stumbles upon a seemingly perfect scheme. They discover a remote town where a faith healer, known as \"The Miracle Man\" (Lon Chaney), has garnered a reputation for his miraculous abilities.\n\nThe criminals, seeking to exploit this, hatch a plan to pose as a group of cripples who are miraculously healed by The Miracle Man. The group recruits The Dope (Betty Compson), a drug addict, and The Waif (Joseph Dowling), a destitute man, to join their scheme. As they infiltrate the town, they begin to witness the transformative power of faith and healing, which gradually impacts their own lives.\n\nThe Frog, initially driven by greed, becomes increasingly conflicted as he witnesses the genuine joy and relief experienced by those who have been healed. He begins to question the morality of their plan and develops a deep respect for The Miracle Man. In a twist of fate, The Miracle Man, who is revealed to be a former convict, is arrested, leaving the town's faith in tatters.\n\nTo save the town's belief and his own redemption, The Frog decides to take on the role of The Miracle Man. In a final climactic scene, he performs a seemingly impossible miracle, restoring faith in the town and proving that the true power of healing lies not in the individual, but in the collective belief and hope of the community.\n\n\"The Miracle Man\" is a poignant exploration of the human condition, delving into themes of faith, redemption, and the power of community. The film's powerful message resonated with audiences, making it one of the most successful films of the silent era. Despite its age, \"The Miracle Man\" remains a timeless classic, a testament to the enduring themes of hope and redemption."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "b59190dc96728848f2a5bf9c0b6ad920",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 316.0 words or less.\n\n---\n\n**Title:**\n\nThe Miracle Man\n\n**Year:**\n\n1919",
+    "include_year": false
+}

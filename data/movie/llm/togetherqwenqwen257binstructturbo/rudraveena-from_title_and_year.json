@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rudraveena",
+    "descriptions": [
+        "Rudraveena, released in 1988, tells the story of a talented sitar player, Rudraveena Singh, who dreams of making a mark in the world of Indian classical music. Despite the societal pressures and expectations to marry and have children, she pursues her passion for music. The film explores her journey, marked by personal sacrifices and the unwavering support of her family, especially her father who encourages her artistic endeavors. As she faces challenges and critics who doubt her talent, Rudraveena's perseverance and dedication lead her to perform at prestigious music festivals, finally achieving recognition and a place for herself in the male-dominated world of Indian classical music."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "540715a47fbcf755ac393c9609058246",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 213.0 words or less.\n\n---\n\n**Title:**\n\nRudraveena\n\n**Year:**\n\n1988",
+    "include_year": false
+}

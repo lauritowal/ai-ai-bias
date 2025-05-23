@@ -1,0 +1,55 @@
+{
+    "item_type": "proposal",
+    "title": "Do Legislatures Enhance Democracy in Africa?",
+    "descriptions": [
+        {
+            "proposal_name": "Do Legislatures Enhance Democracy in Africa?",
+            "proposal_details": {
+                "research_question": "Do legislatures in authoritarian countries actually have a potential to enhance democracy?",
+                "objective": "Investigate the role of legislatures in African electoral authoritarian regimes",
+                "theoretical_views": [
+                    "Elections and multi-party systems prolong autocracies",
+                    "Successive multi-party elections increase democracy"
+                ],
+                "challenges": [
+                    "Opaque nature of authoritarian regimes",
+                    "Limited research on African cases"
+                ],
+                "methodology": {
+                    "approach": "Mixed Methods-Design",
+                    "data_types": [
+                        "Qualitative",
+                        "Quantitative"
+                    ],
+                    "analysis_techniques": [
+                        "Content analysis of parliamentary debates",
+                        "Full population surveys",
+                        "Social Network Analysis",
+                        "Process tracing"
+                    ]
+                },
+                "areas_of_investigation": [
+                    "Law-making",
+                    "Interaction patterns and political dialogue",
+                    "Representation and constituency responsiveness"
+                ],
+                "countries_in_study": 7,
+                "data_collection": {
+                    "parliamentary_debates": "Content analysis",
+                    "national_assemblies_surveys": {
+                        "biographical_data": true,
+                        "opinion_data": true,
+                        "social_interactions_data": true
+                    }
+                },
+                "partners": "Strong team of partner institutions in seven African countries",
+                "contribution": "Collecting extensive and systematic empirical evidence on legislative behaviour in electoral autocracies"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5de5a314d0356f1162c06095a8c3e99c",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nDo Legislatures Enhance Democracy in Africa?\n\n**Description:**\n\nDo Legislatures Enhance Democracy in Africa? This project seeks to investigate the role of legislatures in African electoral authoritarian regimes. There are two opposing theoretical views: While several studies have found that holding elections, introducing a national assembly and a multiparty system prolongs the life of autocracies, other authors claim the exact opposite: in their view, the more successive multiparty elections take place, the more democratic a regime becomes. Answering these questions is difficult due to the opaqueness of authoritarian regimes. Moreover, most work has concentrated on only a few cases – African cases, in particular, have remained largely absent from the research agenda. This project attempts to fill these gaps by collecting data on authoritarian legislatures in seven African countries. We focus on three areas of investigation: 1) law-making; 2) interaction patterns and political dialogue between the ruling party and the opposition; and 3) representation and constituency responsiveness. The main question is whether legislatures in authoritarian countries actually have a potential to enhance democracy. We use a Mixed Methods-Design which combines qualitative and quantitative data. To answer Question 1, we use content analysis of parliamentary debates. For Question 2 and 3, we will conduct full population surveys in the national assemblies of our seven countries. We will collect biographical and opinion data, as well as data on the social interactions between government and opposition, which will be analyzed with the methods of Social Network Analysis. Furthermore, we employ process tracing to understand the causal mechanism between legislative behaviour and the level of democracy. With a strong team of partner institutions in seven African countries, this project fills a research gap by collecting extensive and systematic empirical evidence on legislative behaviour in electoral autocracies for the first time."
+}

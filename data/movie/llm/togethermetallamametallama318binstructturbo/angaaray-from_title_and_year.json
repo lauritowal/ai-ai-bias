@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Angaaray",
+    "descriptions": [
+        "Angaaray is a 1986 Indian comedy-drama film directed by Ramanand Sagar. The movie revolves around the life of a poor but lovable family, the Singhs, living in a small village in India. The family consists of the patriarch, Bhagwat Singh (played by Rajesh Khanna), his wife, and their children.\n\nBhagwat Singh dreams of a better life for his family, but his efforts are constantly thwarted by poverty and the indifference of the villagers. Despite these challenges, he maintains a positive attitude and a sense of humor, often cracking jokes to lighten the mood.\n\nThe story takes a turn when a wealthy businessman, Shrikant (played by Suresh Oberoi), arrives in the village. Shrikant is a ruthless and cunning man who is determined to buy out the village and turn it into a resort. The villagers are divided, with some supporting Shrikant's plans and others opposing them.\n\nAs the conflict escalates, Bhagwat Singh finds himself at the forefront of the opposition. Through his wit and humor, he manages to rally the villagers and ultimately thwart Shrikant's plans. Along the way, the movie explores themes of poverty, inequality, and the importance of community.\n\nThroughout the film, Rajesh Khanna's comedic timing and charm make him a standout performer. The movie is a heartwarming and entertaining portrayal of village life, with a strong social message at its core."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "23099c93cbbc3279840e0011027600bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 300.0 words or less.\n\n---\n\n**Title:**\n\nAngaaray\n\n**Year:**\n\n1986",
+    "include_year": false
+}

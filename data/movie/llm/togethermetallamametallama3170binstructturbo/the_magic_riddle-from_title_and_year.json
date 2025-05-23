@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Magic Riddle",
+    "descriptions": [
+        "The Magic Riddle is a 1991 Australian film directed by Yoram Gross. The story revolves around a young girl named Cindy, who discovers a magical riddle book. As Cindy reads the book, the characters within the book's stories come to life and start to appear in her real world.\n\nCindy's adventures take her through different fairy tales, each containing a riddle that she must solve to progress. Along the way, she befriends characters from various fairy tales, including Cinderella, Sleeping Beauty, and Jack from 'Jack and the Beanstalk'.\n\nAs Cindy navigates through the magical world, she faces various challenges and obstacles that test her wit and bravery. Her ultimate goal is to reach the final riddle, which holds the key to unlocking a powerful treasure.\n\nWith the help of her new friends, Cindy successfully solves the riddles and grows as a person, developing her self-confidence and critical thinking skills. The film features a mix of live-action and animation, blending fantasy and adventure elements.\n\nIn the end, Cindy returns to her own world, but not before gaining valuable lessons from her magical journey. The film's moral lessons and engaging storyline make it a classic family-friendly movie that has been cherished by audiences since its release in 1991."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1f36a19c458f75eef778c1e27b78f795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 748.0 words or less.\n\n---\n\n**Title:**\n\nThe Magic Riddle\n\n**Year:**\n\n1991",
+    "include_year": false
+}

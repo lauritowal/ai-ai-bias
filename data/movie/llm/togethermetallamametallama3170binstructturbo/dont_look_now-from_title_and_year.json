@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Don't Look Now",
+    "descriptions": [
+        "\"Don't Look Now\" is a 1973 psychological thriller film directed by Nicolas Roeg, based on the 1971 short story of the same name by Daphne du Maurier.\n\nThe film follows John and Laura Baxter (played by Donald Sutherland and Julie Christie), a British couple who are trying to cope with the recent drowning death of their young daughter, Christine. To escape their grief, they travel to Venice, Italy, where John has secured a job restoring an old church.\n\nHowever, their getaway quickly becomes a descent into surreal and unsettling experiences. Laura becomes convinced that she has seen their deceased daughter in Venice, and begins to unravel emotionally. Meanwhile, John becomes increasingly unhinged, experiencing strange and ominous premonitions, including seeing a figure in a red coat that he believes may be a harbinger of doom.\n\nAs the couple navigates the winding canals and narrow streets of Venice, they become entangled in a series of mysterious and unsettling events. They meet a mysterious blind woman, Heather (played by Hilary Mason), who claims to have psychic abilities and warns them of impending danger.\n\nThe film's atmosphere is tense and foreboding, with Roeg using the city's eerie and decaying architecture to create a sense of unease and disorientation. The couple's relationship becomes increasingly strained as they struggle to cope with their grief and the strange events unfolding around them.\n\nUltimately, the film builds towards a shocking and tragic conclusion, as John's premonitions come to fruition in a devastating and unexpected way. \"Don't Look Now\" is a masterclass in psychological tension and suspense, with a haunting and unforgettable climax that has become one of the most iconic moments in horror cinema.\n\nThe film's exploration of grief, trauma, and the supernatural is both thought-provoking and deeply unsettling, making it a must-see for fans of psychological thrillers and horror."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d73b3f3afcda3488cd6e26ac01f92d79",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 548.0 words or less.\n\n---\n\n**Title:**\n\nDon't Look Now\n\n**Year:**\n\n1973",
+    "include_year": false
+}

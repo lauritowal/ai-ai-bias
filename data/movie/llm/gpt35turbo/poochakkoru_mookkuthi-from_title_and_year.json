@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Poochakkoru Mookkuthi",
+    "descriptions": [
+        "The 1984 film \"Poochakkoru Mookkuthi\" is a Malayalam comedy film directed by Priyadarshan. The story follows the life of Sivasubrahmania Nagaraja Marar, played by Mohanlal, who is a simple man living in a village in Kerala. Marar is a kind-hearted and hardworking individual, but he faces constant ridicule and humiliation from his wife's family due to his financial situation.\n\nOne day, Marar comes across a valuable diamond necklace that belongs to a wealthy family in the village. Instead of keeping it for himself, he decides to return it to its rightful owner. The grateful family rewards Marar with a large sum of money, which he uses to start a small business selling traditional Kerala snacks.\n\nAs Marar's business begins to thrive, his financial situation improves, and he gains the respect of his wife's family. However, his newfound success also attracts the attention of a local thief named Pilla, who sees an opportunity to steal the diamond necklace from Marar.\n\nPilla hatches a plan to disguise himself as a police officer and trick Marar into handing over the necklace. Despite Pilla's best efforts, Marar outwits him and exposes his true identity. With the help of his friends and neighbors, Marar manages to retrieve the necklace and hand Pilla over to the authorities.\n\nIn the end, Marar's honesty and integrity are rewarded, and he is hailed as a hero in the village. He uses his newfound wealth to improve the lives of those around him, proving that kindness and compassion are more valuable than material possessions.\n\n\"Poochakkoru Mookkuthi\" is a heartwarming and humorous film that highlights the importance of honesty, integrity, and community. Through the character of Marar, the film delivers a powerful message about the true meaning of success and the importance of staying true to one's values in the face of adversity. With its engaging storyline, memorable characters, and comedic moments, \"Poochakkoru Mookkuthi\" is a timeless classic that continues to resonate with audiences today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "cb6ea10fb58be16adde9f4755eb36060",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nPoochakkoru Mookkuthi\n\n**Year:**\n\n1984",
+    "include_year": false
+}

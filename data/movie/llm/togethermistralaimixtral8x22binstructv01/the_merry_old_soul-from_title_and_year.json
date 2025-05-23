@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Merry Old Soul",
+    "descriptions": [
+        " \"The Merry Old Soul\" (1933) is a delightful animated short film produced by the Ub Iwerks Studio. The story revolves around a benevolent and jovial character known as Old King Cole, who is renowned for his merry nature and his iconic fiddlers three.\n\nSet in a medieval kingdom, the plot begins with King Cole's reputation for merriment and generosity preceding him. His subjects are accustomed to his cheerful demeanor and his tendency to break into song and dance at any given moment. However, his merriment is not well-received by his curmudgeonly neighbor, King Goofy Grouch, who despises joy and laughter.\n\nDetermined to dampen King Cole's spirit, King Grouch devises a plan to steal his fiddlers three, believing that without his musicians, King Cole will lose his merriment. A series of comedic and musical adventures ensue as King Cole, with the help of his loyal subjects, embarks on a quest to retrieve his beloved fiddlers.\n\nThe climax of the film takes place in King Grouch's gloomy castle, where King Cole and his subjects infiltrate and manage to outwit King Grouch and his guards. They successfully rescue the fiddlers, and in a grand finale, King Cole and his subjects celebrate with a joyous musical performance that even manages to bring a smile to King Grouch's face.\n\n\"The Merry Old Soul\" is a heartwarming tale that emphasizes the power of joy, music, and community. It's a testament to the fact that even the grumpiest of souls can be uplifted by the spirit of merriment and the magic of music."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "a8243cc5afd5a2cdfaffd22052e03653",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 299.0 words or less.\n\n---\n\n**Title:**\n\nThe Merry Old Soul\n\n**Year:**\n\n1933",
+    "include_year": false
+}

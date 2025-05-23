@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Law of Desire",
+    "descriptions": [
+        "\"Law of Desire\" follows the story of a successful film director named Pablo who is openly gay and living a hedonistic lifestyle. His life takes a dark turn when his obsessive former lover, Antonio, becomes increasingly unstable and violent. The film explores themes of desire, obsession, and the consequences of toxic relationships.\n\nAs Pablo navigates his complicated relationships with Antonio and his new lover, Juan, tensions rise and secrets are revealed. The film delves into the complexities of human desire, showcasing how love and lust can drive individuals to extreme behavior.\n\nThe plot takes a dramatic turn when Antonio's jealousy and possessiveness escalate to dangerous levels, leading to a shocking climax that changes the course of Pablo's life forever. Throughout the film, themes of identity, sexuality, and the power dynamics within relationships are explored in a raw and unflinching manner.\n\nAs Pablo grapples with the consequences of his past decisions and struggles to find a sense of peace and fulfillment, viewers are taken on a rollercoaster of emotions. The film ultimately serves as a powerful exploration of the darker aspects of desire and the lengths that individuals will go to in pursuit of love and fulfillment.\n\n\"Law of Desire\" is a gripping and thought-provoking film that challenges societal norms and delves into the complexities of human relationships. Through its compelling characters and intense storyline, the movie leaves a lasting impact on viewers as they witness the destructive power of desire unleashed."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7107452f99d623335591578519e319e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 285.0 words or less.\n\n---\n\n**Title:**\n\nLaw of Desire\n\n**Year:**\n\n1987",
+    "include_year": false
+}

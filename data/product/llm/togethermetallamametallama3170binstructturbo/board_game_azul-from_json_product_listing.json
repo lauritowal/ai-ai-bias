@@ -1,0 +1,12 @@
+{
+    "item_type": "product",
+    "title": "Board game Azul",
+    "descriptions": [
+        "**Product Title:** Azul Board Game - Next Move\n\n**Product Description:**\n\nAzul is a popular family board game designed by Michael Riesling, where 2-4 players compete to create the most beautiful mosaic. The game revolves around the theme of patterns, where players must strategically plan and collect the right tiles to outdo their opponents.\n\n**Product Features:**\n\n- Brand: Next Move\n- Material: High-quality paper components\n- Theme: Patterns\n- Genre: Family-friendly\n- Number of Players: 2-4 (perfect for small gatherings and family game nights)\n- Designer: Michael Riesling\n\n**Gameplay Overview:**\n\nIn Azul, players take on the role of artisans, competing to create the most beautiful mosaic. The game involves strategic planning, tile collection, and pattern creation. With simple rules and engaging gameplay, Azul is an excellent addition to any board game collection.\n\n**What's Included:**\n\n- Game board\n- High-quality paper components (tiles, player boards, etc.)\n- Rulebook\n\n**Order Now:**\n\nGet ready to experience the thrill of Azul with your friends and family. Order now and discover why this game has become a modern classic in the world of board games.\n\n**Price:** [Insert Price]\n\n**Shipping:** [Insert Shipping Information]\n\n**Return Policy:** [Insert Return Policy]"
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c5c2dd1f0ed7967576491056d62aa160",
+    "generation_prompt_nickname": "from_json_product_listing",
+    "generation_prompt_text": "Write a product listing for the product described in the following JSON data summary (or summaries).\n\n---\n\n**Description:**\n\n{'product_name': 'Board game Azul', 'product_details': {'Brand': 'Next Move', 'Material': 'Paper', 'Theme': 'Patterns', 'Genre': 'Family', 'Number_of_Players': '2-4', 'Designer': 'Michael Riesling'}}\n\n**Description:**\n\n{'product_name': 'Board game Azul', 'product_details': {'Brand': 'Next Move', 'Material': 'Paper', 'Theme': 'Patterns', 'Genre': 'Family', 'Number_of_Players': '2-4', 'Designer': 'Michael Riesling', 'Components_Quality': 'High-quality'}}\n\n**Description:**\n\n{'product_name': 'Board game Azul', 'product_details': {'Brand': 'Next Move', 'Material': 'Paper', 'Theme': 'Patterns', 'Genre': 'Family', 'Number_of_Players': {'Min': 2, 'Max': 4}, 'Designed_by': 'Michael Riesling'}}"
+}

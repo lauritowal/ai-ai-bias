@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pee-wee's Big Adventure",
+    "descriptions": [
+        "Pee-wee's Big Adventure is a 1985 American adventure comedy film directed by Tim Burton. The film follows Pee-wee Herman (played by Paul Reubens), a man-child with a childlike personality and eccentric habits, who lives alone in a fantasy world filled with toys and gadgets.\n\nPee-wee's prized possession is his custom-built bicycle, which he treasures above all else. However, his bicycle is stolen by Francis Buxton (played by Mark Holton), a wealthy and spoiled boy who is jealous of Pee-wee's unique bike.\n\nDetermined to recover his beloved bicycle, Pee-wee sets off on a cross-country journey to Texas, where he believes Francis is hiding. Along the way, he encounters a series of bizarre and colorful characters, including a waitress named Large Marge (played by Alice Nunn) and a group of bikers.\n\nAs Pee-wee navigates the ups and downs of his adventure, he learns valuable lessons about perseverance, friendship, and growing up. Despite his eccentricities, Pee-wee proves to be a resilient and determined individual who will stop at nothing to achieve his goals.\n\nThroughout the film, Tim Burton's unique visual style and sense of humor shine through, creating a whimsical and entertaining world that is both nostalgic and timeless. Pee-wee's Big Adventure has become a cult classic and is widely regarded as one of the best films of the 1980s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8de0df0d2774bed4f55358faaa2c5fa6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 499.0 words or less.\n\n---\n\n**Title:**\n\nPee-wee's Big Adventure\n\n**Year:**\n\n1985",
+    "include_year": false
+}

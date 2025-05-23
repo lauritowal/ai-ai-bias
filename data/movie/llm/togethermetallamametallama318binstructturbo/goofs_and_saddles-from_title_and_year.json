@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Goofs and Saddles",
+    "descriptions": [
+        "Unfortunately, I could not verify any information about a movie titled \"Goofs and Saddles\" released in 1937.\n\nHowever, based on the title \"Goofs and Saddles\" and the year 1937, it seems likely that the movie is a Western comedy. The title \"Goofs and Saddles\" suggests a lighthearted, humorous tone.\n\nIf we consider the era and the type of movie likely to be released in 1937, it's possible that \"Goofs and Saddles\" is a series of comedic sketches or a Western comedy short film featuring a popular actor of the time.\n\nGiven the information, here's a hypothetical plot summary:\n\n\"Goofs and Saddles\" is a 1937 Western comedy short film that features a series of comedic sketches and sketches. The movie likely features a popular actor of the time, such as the Three Stooges. The plot revolves around a cowboy who gets into various misadventures, often due to his own clumsiness. The movie features slapstick humor, pranks, and physical comedy, which were hallmarks of 1930s comedies. The exact plot is unknown, but the tone is likely lighthearted and humorous."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "2dc6f6db15dcc5f948faacb247277182",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 309.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+    "include_year": false
+}

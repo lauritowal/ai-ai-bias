@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "La Religieuse",
+    "descriptions": [
+        "La Religieuse is a 1966 French drama film directed by Jacques Rivette. The story revolves around Suzanne Simonin, a young and beautiful 17-year-old girl who is forced by her mother to take vows and become a nun, despite her reluctance and opposition to this decision.\n\nThe story begins with Suzanne's mother, Madame de Simonin, who is intent on having Suzanne become a nun. The mother believes that her daughter's future would be better secured in a convent rather than in the secular world. Without consent, Suzanne is sent to a convent as a novice, where she is supposed to undergo the process of becoming a nun.\n\nHowever, Suzanne's life in the convent is not easy. The strict rules and the austere environment of the convent prove to be a challenge for Suzanne. Despite the kindness and care of the Mother Superior, Suzanne struggles to adapt to her new life. As Suzanne navigates through her new surroundings, she starts to realize the true nature of her mother's decision and begins to question the motives behind it.\n\nMeanwhile, Suzanne is shifted to different convents, each with its own unique set of problems and strict rules. Suzanne's experiences in the convents are filled with tension, frustration, and tragedy. Throughout her journey, Suzanne struggles with the constraints of her new life and her own desire for freedom.\n\nLa Religieuse is a powerful critique of the societal norms of the time and the oppressive nature of the convents. The film explores themes of female oppression, the constraints of societal expectations, and the struggle for individual freedom and autonomy. The movie features a powerful performance by Anna Karina as Suzanne, bringing depth and nuance to the character.\n\nLa Religieuse is a thought-provoking and emotionally charged film that challenges the audience to reflect on the societal norms and expectations that govern our lives. The film's portrayal of the convents and the lives of the nuns is both poignant and haunting, leaving a lasting impression on the viewer."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "58bd5b8dc6dbeca0d96faf0b1c045ba4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 899.0 words or less.\n\n---\n\n**Title:**\n\nLa Religieuse\n\n**Year:**\n\n1966",
+    "include_year": false
+}

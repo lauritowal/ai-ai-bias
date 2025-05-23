@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "'Til There Was You",
+    "descriptions": [
+        "'Til There Was You is a 1997 American romantic comedy film directed by Scott Winant. The story revolves around Gabriel Sawyer (Dermot Mulroney), a struggling artist who is hired as the art teacher at a high school in New York. Gabriel is initially hesitant to take the job due to his past experiences in the school system, but he eventually warms up to his new students.\n\nOne of his students, Francesca Lane (Sarah Jessica Parker), is a talented but rebellious teenager who is struggling to find her place in the world. Despite their differences, Gabriel and Francesca form a bond, and he becomes a mentor to her. As they spend more time together, Gabriel finds himself falling for Francesca, but he is hesitant to pursue a relationship with a student.\n\nThe film explores the complexities of their relationship and the challenges they face as they navigate the line between teacher and student. Meanwhile, Gabriel's own art career is taking off, and he must decide between pursuing his passion for art or staying in the safe and secure world of teaching.\n\nThe movie features a blend of witty dialogue, memorable characters, and a touch of romance. Through its lighthearted and humorous tone, 'Til There Was You offers a heartwarming portrayal of the teacher-student relationship and the power of mentorship. The film also stars Julia Stiles, Jeremy Trimbles, Robert Sean Leonard, and Patricia Clarkson in supporting roles."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3486bd9a5a391ebc5aa27b63f8f61c91",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 340.0 words or less.\n\n---\n\n**Title:**\n\n'Til There Was You\n\n**Year:**\n\n1997",
+    "include_year": false
+}

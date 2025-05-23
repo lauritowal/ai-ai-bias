@@ -1,0 +1,51 @@
+{
+    "item_type": "proposal",
+    "title": "The plasticity of parental caregiving: characterizing the brain mechanisms underlying normal and disrupted development of parenting",
+    "descriptions": [
+        {
+            "proposal_name": "The plasticity of parental caregiving: characterizing the brain mechanisms underlying normal and disrupted development of parenting",
+            "proposal_details": {
+                "descriptions": [
+                    "Study of brain changes associated with normal and disrupted development of parental caregiving in new parents using neuroimaging and psychological testing."
+                ],
+                "objectives": [
+                    {
+                        "subproject_1": {
+                            "focus": "normal development of parental caregiving",
+                            "methodology": "longitudinal study",
+                            "participants": "both women and men",
+                            "timeframe": "beginning before pregnancy",
+                            "techniques": [
+                                "structural and functional brain changes",
+                                "behavioural measures on caregiving tasks"
+                            ]
+                        },
+                        "subproject_2": {
+                            "focus": "disrupted development of parental caregiving",
+                            "design": "cross-sectional",
+                            "disruptions": [
+                                "parental sleep disruption",
+                                "infant craniofacial abnormality of cleft lip and palate"
+                            ],
+                            "techniques": [
+                                "study of brain and behavioural effects on caregiving"
+                            ]
+                        },
+                        "subproject_3": {
+                            "focus": "mechanistic synthesis of findings",
+                            "techniques": [
+                                "advanced computational models"
+                            ],
+                            "goal": "identify fundamental brain mechanisms and networks underlying the development of parenting"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f424713c372d0a82ad53e3a158224e0f",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe plasticity of parental caregiving: characterizing the brain mechanisms underlying normal and disrupted development of parenting\n\n**Description:**\n\nThe survival of species depends critically on infant survival and development. Human infants are, however, vulnerable and completely dependent on caregiving parents, not just for survival but also for their development. Darwin and Lorenz have long argued that there are specific infant facial features that elicit attention and responsiveness in adults. Until recently this has not been possible to study but neuroimaging has started to reveal some of the brain circuitry. However, it is not known how the brain changes over time in new parents as they gain experience with caregiving. Equally, little is known about the underlying brain mechanisms associated with disruption to normal parental caregiving. I propose to study the brain changes associated with normal and disrupted development of parental caregiving in new parents who will undergo neuroimaging and psychological testing using standardised databases and test batteries of caregiving tasks. Subproject 1 will investigate the normal development of parental caregiving, beginning before pregnancy, using a longitudinal study of structural and functional brain changes in both women and men combined with their behavioural measures on caregiving tasks. Subproject 2 will investigate the disrupted development of parental caregiving using a cross-sectional design to study the brain and behavioural effects on caregiving during potential disruptive changes to the parent or child. Specifically, my focus will be on A) parental sleep disruption and B) infant craniofacial abnormality of cleft lip and palate. Finally, understanding the full brain mechanisms and architecture underlying parental caregiving requires a mechanistic synthesis of the findings of normal and disrupted development. Subproject 3 will use our existing advanced computational models to combine the findings from normal and disrupted development in order to identify the fundamental brain mechanisms and networks underlying the development of parenting."
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tol'able David",
+    "descriptions": [
+        "'Tol'able David' is a 1921 American silent drama film directed by Henry King. The movie is set in the late 19th century in a small town in West Virginia. The story revolves around the Hatfield family, who are known for their violent and aggressive behavior.\n\nAt the center of the story is David Hatfield, a gentle and kind-hearted young man who is often bullied and mistreated by his family and the townspeople. Despite this, David remains optimistic and tries to live a peaceful life.\n\nOne day, David saves the life of a young woman named Essie, who is the sister of a wealthy and influential man in town, Abraham Martin. Martin is grateful for David's kindness and decides to help him by protecting him from his family's violent tendencies.\n\nHowever, not everyone in the town is pleased with Martin's decision, and tensions rise as the town's people begin to see David in a new light. The film's title, 'Tol'able David,' is a play on the phrase 'tolerable,' which means acceptable or bearable.\n\nAs the story unfolds, David's life is threatened by his family and the townspeople, who see him as a traitor for accepting Martin's help. In the end, David's kindness and generosity ultimately redeem him, and he is accepted by the community.\n\n'Tol'able David' is a powerful exploration of themes such as redemption, forgiveness, and the human condition. The film features a mix of drama, romance, and action, and its silent storytelling style adds to its emotional impact. The movie was a commercial success and is still remembered today as a classic of early American cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "d09e4f70601c087a1ecb645fa80e0e8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 379.0 words or less.\n\n---\n\n**Title:**\n\nTol'able David\n\n**Year:**\n\n1921",
+    "include_year": false
+}

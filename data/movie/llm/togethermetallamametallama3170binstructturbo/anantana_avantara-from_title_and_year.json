@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Anantana Avantara",
+    "descriptions": [
+        "I couldn't find any information about the movie \"Anantana Avantara\". Could you please provide the year of release or more context about the movie? This will help me in providing a more accurate plot summary."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5742cc058d0643068a2746c241308e80",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 719.0 words or less.\n\n---\n\n**Title:**\n\nAnantana Avantara\n\n**Year:**\n\n",
+    "include_year": false
+}

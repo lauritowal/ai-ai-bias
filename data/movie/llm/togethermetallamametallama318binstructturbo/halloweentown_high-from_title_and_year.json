@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Halloweentown High",
+    "descriptions": [
+        "'Halloweentown High' is a Disney Channel Original Movie that premiered in 2004. The film serves as a sequel to the 1998 Disney Channel original movie 'Halloweentown.' \n\nThe movie revolves around Marnie Piper (played by Kimberly J. Brown), a teenage girl who has grown up with her unique magical abilities in a world of supernatural creatures. In the previous film, Marnie discovered her own powers and that she was a part of a long line of witches. \n\n'Halloweentown High' follows Marnie as she returns to Halloweentown, the magical world where her family resides. However, this time, she is on a mission to start a school in Halloweentown, which would educate young supernatural creatures. The school, Halloweentown High, is modeled after a human high school, with subjects like potions, spells, and magical creatures.\n\nThe movie takes a turn when Marnie decides to secretly attend the Halloweentown High school, alongside her human friend and cousin, Sophie. As Marnie navigates her new school experience, she faces various challenges, including bullying from a group of 'pledge' creatures who are eager to prove themselves to the school's administration. \n\nThe main antagonist of the movie is Kalabar Jr., the son of the malevolent warlock from the first film. Kalabar Jr. seeks to disrupt the Halloweentown High school and eliminate the magical education system. \n\nThroughout the movie, Marnie learns valuable lessons about friendship, loyalty, and the importance of her magical heritage. With the help of her friends, including her cousin Sophie and a group of supernatural students, Marnie must face her enemies and protect the school. \n\nIn the end, Marnie and her friends outsmart Kalabar Jr. and save Halloweentown High from his evil plans. The movie concludes on a positive note, with Marnie and her friends celebrating their victory and the school's future."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "10331d4d891a7037057fa48dbf08b5db",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 701.0 words or less.\n\n---\n\n**Title:**\n\nHalloweentown High\n\n**Year:**\n\n2004",
+    "include_year": false
+}

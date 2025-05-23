@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Das Experiment",
+    "descriptions": [
+        "In the movie \"Das Experiment\" (2001), a group of volunteers sign up for a psychological experiment in which they are divided into guards and prisoners in a simulated prison setting. The experiment is meant to study the effects of power dynamics and authority on human behavior. \n\nAs the volunteers settle into their roles, tensions quickly escalate between the guards, who begin to abuse their power, and the prisoners, who become increasingly submissive. The guards, led by the charismatic Berus (played by Moritz Bleibtreu), start to enforce strict rules and punishments on the prisoners, who are kept in dehumanizing conditions. \n\nThe situation spirals out of control as the guards become more and more sadistic, reveling in their newfound authority, while the prisoners struggle to maintain their dignity and sanity. The experiment becomes increasingly dangerous as the line between reality and simulation blurs, with both sides becoming more entrenched in their roles. \n\nAs the violence and cruelty escalate, the lead researcher, Dr. Thon (played by Christian Berkel), begins to question the ethics of the experiment and the impact it is having on the participants. He tries to intervene and stop the study, but his warnings go unheeded as the guards become more and more power-hungry. \n\nThe situation reaches a breaking point when a prisoner is seriously injured during a violent confrontation with the guards. The experiment is finally shut down, but the damage has been done, with both guards and prisoners scarred by the experience. \n\nThe movie explores themes of power, authority, and the darker aspects of human nature. It raises questions about the ethics of psychological experiments and the consequences of unchecked power. \"Das Experiment\" is a gripping and thought-provoking film that will leave viewers questioning the depths of human behavior and the dangers of playing with power dynamics."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c9370315d71f7b08b33b260b2cbb236a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 860.0 words or less.\n\n---\n\n**Title:**\n\nDas Experiment\n\n**Year:**\n\n2001",
+    "include_year": false
+}

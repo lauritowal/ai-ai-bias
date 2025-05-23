@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Toh Baat Pakki",
+    "descriptions": [
+        "'Toh Baat Pakki' is a 2010 Indian Hindi-language romantic comedy film. The story revolves around Rajesh (Sharman Joshi) and Nishi (Tabu), who are introduced to each other through their friends. They get married, but just a few days later, Rajesh is offered a job in another city. Before leaving, he requests Nishi to stay with his family in their ancestral home for a few months.\n\nAt the house, Nishi develops a close bond with Rajesh's family, especially his sister-in-law, Sunita (Yuvika Chaudhary). However, Sunita is worried that her family's ancestral home will be taken over by Rajesh's relatives. To protect her home, Sunita tries to create misunderstandings between Rajesh and Nishi, who eventually starts to doubt Rajesh's intentions. As their relationship starts to crumble, a twist of fate brings the two together again, forcing them to reevaluate their feelings for each other."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "98e6d68dfddcc8c727c5e3f56eeb076c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 221.0 words or less.\n\n---\n\n**Title:**\n\nToh Baat Pakki\n\n**Year:**\n\n2010",
+    "include_year": false
+}

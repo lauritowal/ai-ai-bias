@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tirangaa",
+    "descriptions": [
+        "In the movie \"Tirangaa\" released in 1992, the plot revolves around a police officer named Shivajirao Wagle who is determined to take down a corrupt politician named Rudra Pratap Chauhan. As Wagle delves deeper into Chauhan's criminal activities, he uncovers a web of corruption, deceit, and violence that threatens the very fabric of society.\n\nDespite facing numerous obstacles and threats to his life, Wagle remains steadfast in his mission to bring Chauhan to justice. Along the way, he forms an unlikely alliance with a street-smart young man named Arjun, who becomes his loyal sidekick in the fight against corruption.\n\nAs Wagle and Arjun work together to gather evidence against Chauhan, they face dangerous adversaries, including Chauhan's ruthless henchmen and crooked police officers on his payroll. The stakes are raised when Chauhan kidnaps Wagle's family in an attempt to silence him once and for all.\n\nIn a dramatic climax, Wagle and Arjun launch a daring rescue mission to save Wagle's family and bring Chauhan to justice. The final showdown between Wagle and Chauhan is intense, filled with action-packed fight sequences and suspenseful moments.\n\nIn the end, justice prevails as Wagle exposes Chauhan's crimes to the public, leading to his downfall and arrest. \"Tirangaa\" is a gripping tale of courage, friendship, and the enduring power of truth in the face of corruption and oppression."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "e29bdb8658ec308e3ca0d6c7947ebc09",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 293.0 words or less.\n\n---\n\n**Title:**\n\nTirangaa\n\n**Year:**\n\n1992",
+    "include_year": false
+}

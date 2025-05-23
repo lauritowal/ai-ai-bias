@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gamera vs. Viras",
+    "descriptions": [
+        "Gamera vs. Viras is a 1968 Japanese kaiju film and the fourth installment in the Gamera series. The story revolves around two young boys who befriend an alien boy named Jim, who is a member of an advanced underwater species. The aliens have the ability to control sea creatures and are planning to invade Earth using a powerful, giant squid-like monster called Virasaurus, or Viras for short.\n\nThe alien boy Jim is torn between his loyalty to his people and his friendship with the human boys. Meanwhile, Gamera, the giant flying turtle, is awakened from his sleep and becomes aware of the alien invasion. As the aliens launch their attack using Viras, Gamera intervenes to stop the monster and save the Earth.\n\nThe film features a mix of science fiction and monster battles, with Gamera ultimately emerging victorious against Viras. The movie also explores the theme of friendship and loyalty, as Jim must decide where his true allegiance lies. The film's special effects and monster battle scenes are typical of the kaiju genre, providing an entertaining experience for fans of classic Japanese monster movies."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d2f57f3aac903c548bde178b7c53cffa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nGamera vs. Viras\n\n**Year:**\n\n1968",
+    "include_year": false
+}

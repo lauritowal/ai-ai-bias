@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naseeb Apna Apna",
+    "descriptions": [
+        "In the 1986 Bollywood film \"Naseeb Apna Apna,\" the story follows the lives of three childhood friends - Ravi, Vijay, and Dheeraj. The trio grows up together and dreams of achieving success and wealth in life. However, their paths diverge as they become adults.\n\nRavi, played by Rishi Kapoor, is a charming and ambitious young man who works hard to make a name for himself in the business world. He is determined to become rich and successful to provide a comfortable life for his family. On the other hand, Vijay, portrayed by Farooq Shaikh, is an easy-going and carefree individual who prefers to enjoy life without worrying about material success. Dheeraj, played by Amrish Puri, is a cunning and manipulative man who believes in using any means necessary to achieve his goals.\n\nAs the story unfolds, the friendship between the three friends is put to the test when they find themselves entangled in a web of deceit, betrayal, and rivalry. Dheeraj, driven by jealousy and greed, betrays his friends and plots against them to further his own interests. Ravi and Vijay must navigate through a series of challenges and obstacles to overcome Dheeraj's schemes and restore their friendship.\n\nThe film explores themes of loyalty, friendship, and the consequences of greed and ambition. It delves into the complexities of human relationships and the impact of personal choices on one's destiny. As the characters face moral dilemmas and ethical challenges, they are forced to confront their own values and priorities.\n\nWith a mix of drama, romance, and action, \"Naseeb Apna Apna\" takes the audience on an emotional rollercoaster ride filled with twists and turns. The film's powerful performances, engaging storyline, and memorable music make it a classic Bollywood movie that continues to resonate with audiences even decades after its release. Ultimately, \"Naseeb Apna Apna\" is a tale of friendship, redemption, and the triumph of good over evil."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "bc50ba909d2460df782a838550c57125",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nNaseeb Apna Apna\n\n**Year:**\n\n1986",
+    "include_year": false
+}

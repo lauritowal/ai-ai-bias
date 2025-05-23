@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Majunu",
+    "descriptions": [
+        "The movie \"Majunu\" takes place in a small village in India where we meet our protagonist, Vishu, a young man who is known for his mischievous behavior and carefree attitude. Despite his reputation, Vishu is well-liked in the village for his charm and wit.\n\nOne day, Vishu meets Aarthi, a beautiful and kind-hearted girl who has just moved to the village with her family. Vishu is immediately smitten with Aarthi, but she is unimpressed by his antics and dismisses him. Determined to win her over, Vishu sets out on a mission to impress Aarthi and prove that he is a worthy match for her.\n\nAs Vishu tries to woo Aarthi, he must also contend with his rival, a wealthy and arrogant young man named Rajesh who is also vying for Aarthi's affections. Rajesh uses his money and influence to try and sabotage Vishu's efforts, but Vishu remains undeterred in his pursuit of Aarthi.\n\nThrough a series of comedic mishaps and misunderstandings, Vishu and Aarthi grow closer and develop a genuine bond. However, their budding romance is threatened when Aarthi's family announces that they are moving back to the city, leaving Vishu heartbroken.\n\nDetermined to win Aarthi back, Vishu follows her to the city and must navigate the challenges of urban life as he tries to reunite with his true love. Along the way, Vishu learns important lessons about love, sacrifice, and the true meaning of happiness.\n\nIn the end, Vishu's perseverance and sincerity win Aarthi's heart, and the two reconcile their differences and embrace their love for each other. As they embark on a new chapter in their lives together, Vishu and Aarthi are reminded that true love knows no boundaries and can overcome any obstacle.\n\n\"Majunu\" is a heartwarming and entertaining film that explores the universal themes of love, friendship, and self-discovery. With its engaging characters, charming humor, and heartfelt moments, \"Majunu\" is a delightful romantic comedy that will leave audiences smiling and rooting for the power of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "4153211dec32c12f4dadd8e884f88e96",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 687.0 words or less.\n\n---\n\n**Title:**\n\nMajunu\n\n**Year:**\n\n2001",
+    "include_year": false
+}

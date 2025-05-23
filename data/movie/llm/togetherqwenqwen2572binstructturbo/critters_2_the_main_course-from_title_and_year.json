@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Critters 2: The Main Course",
+    "descriptions": [
+        "\"Critters 2: The Main Course,\" released in 1988, is a sci-fi horror comedy that continues the story of the nefarious Krites, alien creatures with insatiable appetites for human flesh. This time, the action shifts to a remote summer camp, Camp Fawndale, where a group of unsuspecting campers and staff are about to become the aliens' next meal.\n\nThe film opens with a group of scientists who have captured a Critter, hoping to study it. However, their efforts go awry when the creature escapes, leading to a chain reaction that frees more Krites. The escaped Critters quickly make their way to Camp Fawndale, a seemingly idyllic retreat nestled in the woods.\n\nAt the camp, a diverse group of teenagers and adults are preparing for a fun-filled summer. Unbeknownst to them, the Critters have already begun to pick off campers one by one, using their vicious claws and teeth to satisfy their ravenous hunger. The campers initially dismiss the disappearances as accidents, but as the body count rises, they realize they are dealing with something far more sinister.\n\nThe camp's counselor, Mike, and his girlfriend, Amy, take it upon themselves to investigate the strange occurrences. They soon discover the Critters' lair and learn that the creatures are not only intelligent but also capable of rapid reproduction. With the help of a few brave campers and a resourceful groundskeeper, Mike and Amy devise a plan to lure the Critters into a trap and destroy them before they can wipe out the entire camp.\n\nAs the night progresses, the campers must band together to survive the Critters' relentless attacks. The film blends horror with humor, as the campers' desperate attempts to stay alive are interspersed with moments of slapstick comedy and witty dialogue. In the end, the campers manage to outsmart the Critters, but not without significant loss. The survivors are left to rebuild and recover from the night that turned their summer camp into a battlefield."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "45f0f2adff61eaeb90ca9b7c56539912",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 314.0 words or less.\n\n---\n\n**Title:**\n\nCritters 2: The Main Course\n\n**Year:**\n\n1988",
+    "include_year": false
+}

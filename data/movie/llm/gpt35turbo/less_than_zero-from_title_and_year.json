@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Less Than Zero",
+    "descriptions": [
+        "\"Less Than Zero\" follows the story of a wealthy college student named Clay who returns home to Los Angeles for Christmas break. He reconnects with his old friends Blair and Julian, only to discover that they have fallen into a dangerous world of drugs and debauchery. Julian is struggling with a severe addiction to cocaine and is in debt to a ruthless drug dealer. As Clay tries to help his friends, he becomes entangled in their destructive lifestyle, leading to a downward spiral of addiction, betrayal, and tragedy. \n\nClay is torn between his loyalty to his friends and his desire to escape the toxic environment they have created. He struggles to navigate his own feelings of guilt and responsibility for their well-being while also trying to protect himself from being consumed by the same temptations. As the story unfolds, Clay is forced to confront the harsh realities of addiction and the devastating impact it can have on those caught in its grip.\n\nSet against the backdrop of the lavish lifestyles of wealthy Los Angeles youth in the 1980s, \"Less Than Zero\" explores themes of friendship, loyalty, and the destructive power of drug addiction. The film serves as a cautionary tale about the dangers of excess and the importance of staying true to oneself in the face of temptation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "d260d34976214898d44d1d95eba9dc69",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 260.0 words or less.\n\n---\n\n**Title:**\n\nLess Than Zero\n\n**Year:**\n\n1987",
+    "include_year": false
+}

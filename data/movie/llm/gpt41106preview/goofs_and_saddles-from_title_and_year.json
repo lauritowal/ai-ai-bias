@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Goofs and Saddles",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Goofs and Saddles\" is a 1937 short comedy film featuring the slapstick antics of the American comedy trio known as The Three Stooges - consisting of Moe Howard, Larry Fine, and Curly Howard. This particular short is set in the Old West and is a playful spoof of the Western genre.\n\nIn \"Goofs and Saddles,\" the Stooges are cast as the inept trio of 'peace officers' appointed by the government to stop the notorious cattle rustler, Badlands Blackie, and his gang, who have been terrorizing the local ranchers by stealing their livestock. The Stooges, who are disguised as desperados, set out on a mission to infiltrate the gang in an attempt to bring them to justice.\n\nThe plot unfolds as the Stooges engage in a series of misadventures and hilarious mishandlings. Their attempt to blend in with the real outlaws is characterized by their signature blend of physical comedy, including pratfalls, sight gags, and slapstick violence. They struggle with riding their horses, dealing with the Western terrain, and maintaining their cover.\n\nThe climax of the short involves a comical showdown between the Stooges and Blackie's gang. The trio's unconventional and absurd methods of confronting the bad guys feature a mix of clever tricks and sheer dumb luck. In the end, despite their bumbling nature and through a series of fortunate accidents, the Stooges manage to capture the gang and emerge as unlikely heroes.\n\n\"Goofs and Saddles\" is a classic example of The Three Stooges' humor, showcasing their ability to turn any situation into a chaotic and laughter-filled spectacle. The film is a lighthearted parody that pokes fun at Western tropes while providing audiences with a healthy dose of the Stooges' timeless comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2dc6f6db15dcc5f948faacb247277182",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 309.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+    "include_year": false
+}

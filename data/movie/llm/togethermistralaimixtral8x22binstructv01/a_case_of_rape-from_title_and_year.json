@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Case of Rape",
+    "descriptions": [
+        " In the gripping 1974 drama \"A Case of Rape,\" the film delves into the harrowing aftermath of a brutal assault and its impact on the life of a young woman named Ellen Harrod, portrayed by Elizabeth Montgomery. Directed by Boris Sagal, the film provides a stark and unflinching look at the social stigma, legal challenges, and emotional turmoil faced by rape survivors during that era.\n\nAfter finishing a late-night shift at her nursing job, Ellen is violently attacked and raped by a stranger in the hospital parking lot. In the immediate aftermath, she struggles with feelings of shame and self-blame, fearing that she will not be believed. As she grapples with her trauma, Ellen decides to pursue justice and reports the crime to the police. However, she soon realizes that the legal system offers little solace, as she is subjected to invasive questions and humiliating examinations.\n\nThe film then follows Ellen's journey through the court system, as her credibility is repeatedly called into question. The defense attorney discredits her character and attempts to paint her as a promiscuous woman who consented to the act. Meanwhile, the media sensationalizes her story, further perpetuating the notion that she is somehow responsible for the crime committed against her.\n\nAs the trial progresses, Ellen's personal life begins to unravel. Her husband, unable to cope with the trauma inflicted upon his wife, becomes emotionally distant, further isolating Ellen. Her friends and colleagues also begin to distance themselves, leaving her to face her pain alone. Despite the overwhelming odds, Ellen remains steadfast in her pursuit of justice, determined to hold her attacker accountable for his actions.\n\n\"A Case of Rape\" is a poignant and thought-provoking exploration of the victim-blaming culture that often results in the silencing of survivors. The film serves as a powerful reminder of the importance of believing and supporting survivors, as well as the need for systemic change in the way our society responds to sexual violence."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "6a86e493dccbc8de901a3b12de7aa7f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 333.0 words or less.\n\n---\n\n**Title:**\n\nA Case of Rape\n\n**Year:**\n\n1974",
+    "include_year": false
+}

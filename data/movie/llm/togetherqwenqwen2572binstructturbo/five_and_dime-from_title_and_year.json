@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Five and Dime",
+    "descriptions": [
+        "\"Five and Dime\" (1933) is a Depression-era comedy-drama that follows the lives of the employees and customers of a small five-and-dime store in a quaint American town. The film centers around the store's owner, Mr. Thompson, a well-meaning but struggling businessman trying to keep his shop afloat during tough economic times. The cast of characters includes the ambitious and flirtatious salesgirl, Betty, who dreams of a better life; the kind-hearted and loyal cashier, Mr. Jenkins, who has been with the store for years; and the mischievous young delivery boy, Tommy, who often finds himself in humorous predicaments.\n\nThe plot thickens when a charismatic con man, Jack, arrives in town, charming the locals and setting his sights on the store. His schemes threaten to disrupt the delicate balance of the community and the store's future. However, the employees band together, using their wits and resourcefulness to protect their workplace and the livelihoods it provides.\n\nAmidst the chaos, love stories blossom, and personal ambitions are tested. The film highlights the resilience and camaraderie of the community, showcasing how even in the darkest times, people can come together to overcome adversity. \"Five and Dime\" is a heartwarming tale of hope and human connection in the face of economic hardship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "342a8c7870b4806930b84965a9c3f78d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 291.0 words or less.\n\n---\n\n**Title:**\n\nFive and Dime\n\n**Year:**\n\n1933",
+    "include_year": false
+}

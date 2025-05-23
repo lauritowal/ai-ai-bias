@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Multiple Maniacs",
+    "descriptions": [
+        "**Title: Multiple Maniacs**\n\n**Year: 1970**\n\n**Plot Summary:**\n\n\"Multiple Maniacs,\" directed by John Waters, is a provocative and transgressive film that pushes the boundaries of conventional cinema. Set in the early 1970s, the film follows the exploits of a deranged and flamboyant cult leader named Chicklet (played by Divine), who leads a group of misfits and societal outcasts known as the \"Multiple Maniacs.\" The film is a satirical and often shocking commentary on American culture, consumerism, and the nature of entertainment.\n\nThe story begins with Chicklet and her gang, including Crackers, a young woman with a penchant for biting off the fingers of her victims, and a variety of other eccentric characters, as they embark on a series of bizarre and criminal activities. Their primary goal is to raise money to finance a sex-change operation for Chicklet, who is obsessed with becoming a man.\n\nThe film takes a dark turn when the group kidnaps a wealthy socialite, Miss Slag, and holds her for ransom. However, their plan goes awry when they are forced to perform a series of increasingly outrageous and grotesque acts to keep their hostages entertained. These acts include a mock reenactment of John F. Kennedy's assassination, a live sex show, and a bizarre ritual involving a chicken.\n\nThroughout the film, Waters employs a mix of shock humor, surrealism, and social critique to challenge the audience's perceptions and comfort zones. The characters are both repulsive and compelling, their actions a critique of the absurdities and hypocrisies of society. The film's visual style is raw and unpolished, with a DIY aesthetic that adds to its subversive charm.\n\n\"Multiple Maniacs\" is not for the faint of heart. It is a film that revels in its own excesses and refuses to conform to traditional narrative or moral structures. It is a bold and daring work that has since become a cult classic, celebrated for its fearless approach to taboo subjects and its unapologetic embrace of the bizarre and the outrageous."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "cb091381cb05983024da36041cda928c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 442.0 words or less.\n\n---\n\n**Title:**\n\nMultiple Maniacs\n\n**Year:**\n\n1970",
+    "include_year": false
+}

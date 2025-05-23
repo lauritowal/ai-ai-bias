@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Doomsday",
+    "descriptions": [
+        "**Plot Summary for \"Doomsday\" (2008)**\n\nIn 2008's \"Doomsday,\" a global catastrophe sends humanity into a state of chaos. Set in a post-apocalyptic world, the film follows a group of survivors as they navigate a world ravaged by a mysterious virus that causes society to collapse. The story begins in a crumbling, dystopian New York City, where a small band of survivors, including Sarah (Sonia Braga), a former scientist, and Brian (David Keith), a former army officer, must navigate the dangerous landscape filled with both fellow survivors and dangerous new creatures.\n\nSarah and Brian, along with other survivors like Anna (Bridgette Wilson), a young girl, and her father (Terry Kiser), embark on a harrowing journey to find safety and a place where they can begin to rebuild society. As they travel through the ruins, they encounter various factions, each with their own interests and agendas. One of the most significant threats they face is the \"Nightwalkers,\" monstrous, human-like creatures that emerge at night, hunting and killing survivors.\n\nThe survivors' journey is further complicated by the lack of communication and resources, forcing them to rely on their wits and the bonds they form. Along the way, they discover that the virus, known as \"The Plague,\" might have a cure, hidden in a secure facility in a remote location. Driven by hope and the desire to save what remains of humanity, they make a daring attempt to reach the facility.\n\nAs they near their destination, they are ambushed by a group of ruthless survivors who have taken control of the facility. This leads to a tense standoff and a brutal fight for survival. In the climax, Sarah and Brian must make a difficult decision that will determine the fate of all survivors, whether to take all the resources and leave, or to try to save as many as possible, potentially sacrificing their own chances for a new life.\n\n\"Doomsday\" is a thrilling, action-packed film that explores themes of survival, humanity, and the lengths people will go to for a better future. Despite the bleak setting, the movie offers moments of hope and the resilience of the human spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1e1098274ef51269a16834893185e80c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nDoomsday\n\n**Year:**\n\n2008",
+    "include_year": false
+}

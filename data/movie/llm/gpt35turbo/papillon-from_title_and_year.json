@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Papillon",
+    "descriptions": [
+        "Set in 1933, \"Papillon\" follows the story of Henri Charrière, a French petty criminal who is wrongfully convicted of murder and sentenced to life in the penal colony of French Guiana. Upon arriving at the infamous Devil's Island prison, Charrière befriends Louis Dega, a wealthy counterfeiter who agrees to finance his escape in exchange for protection.\n\nDespite facing brutal conditions and harsh treatment from the prison guards, Charrière and Dega begin to plan their daring escape. Through a series of failed attempts and setbacks, they eventually make their way to the mainland and embark on a treacherous journey through the jungle in search of freedom.\n\nAs they navigate dangerous terrain and face numerous obstacles, including hostile natives and the unforgiving environment, Charrière and Dega form a strong bond and rely on each other for survival. Along the way, they encounter other prisoners and form alliances to increase their chances of success.\n\nDespite the odds stacked against them, Charrière and Dega refuse to give up and continue to push forward in their quest for freedom. Their determination and resilience are put to the test as they face betrayal, capture, and near-death experiences.\n\nAs their journey unfolds, Charrière is driven by a relentless desire to prove his innocence and seek justice for the injustices he has suffered. Through his unwavering determination and courage, he becomes a symbol of hope and resilience for his fellow prisoners.\n\nIn the end, Charrière and Dega's perseverance pays off as they finally reach the safety of a remote village and are able to start a new life free from the confines of the prison. Their epic escape and journey to freedom serve as a testament to the power of the human spirit and the strength of friendship in the face of adversity.\n\n\"Papillon\" is a gripping tale of survival, friendship, and the enduring quest for freedom in the face of overwhelming odds. Through its compelling storytelling and powerful performances, the film captures the resilience and indomitable spirit of its characters as they fight for their right to live free."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "f7941e4af8a9837c2d1feb3afa97af43",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nPapillon\n\n**Year:**\n\n1973",
+    "include_year": false
+}

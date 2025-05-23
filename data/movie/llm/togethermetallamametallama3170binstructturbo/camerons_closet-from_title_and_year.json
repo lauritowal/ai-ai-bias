@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cameron's Closet",
+    "descriptions": [
+        "Cameron's Closet is a 1988 American supernatural horror film. The story revolves around Cameron, a teenager who has just moved into a new house with his family. Upon exploring his new home, Cameron discovers a mysterious closet that seems to have supernatural powers.\n\nInitially, the closet appears to be granting Cameron's wishes, making him popular among his peers and even helping him solve a mystery at school. However, it soon becomes apparent that the closet's powers come with a terrible cost, and its influence is malevolent.\n\nAs Cameron becomes more dependent on the closet, it begins to exert a dark influence on him, causing him to experience terrifying and supernatural events. The closet's powers also start to affect those around Cameron, including his family and friends.\n\nAs the supernatural occurrences escalate, Cameron realizes that he must find a way to stop the closet's influence before it's too late. With the help of his friends, Cameron embarks on a perilous journey to uncover the secrets behind the mysterious closet and put an end to its evil powers.\n\nCameron's Closet is a classic 80s horror film that explores themes of teen angst, peer pressure, and the dangers of making deals with supernatural forces. The film's blend of supernatural horror and coming-of-age drama makes for a thrilling and suspenseful ride."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9b62d3d490eee066c71aa9d5a7a69e5c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 540.0 words or less.\n\n---\n\n**Title:**\n\nCameron's Closet\n\n**Year:**\n\n1988",
+    "include_year": false
+}

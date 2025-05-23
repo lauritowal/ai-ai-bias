@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spanish Masala",
+    "descriptions": [
+        "It seems like you might have missed providing the year for the movie \"Spanish Masala.\" However, I can still provide a plot summary based on the available information.\n\n\"Spanish Masala\" is a 2016 Indian romantic comedy film directed by Dibakar Banerjee. The film stars Diana Penty, Vijay Varma, and Radhika Apte in the lead roles. The movie is a unique blend of cultures, set against the backdrop of Spain, and explores the complexities of relationships, identity, and personal growth.\n\nThe story revolves around Nikita (Diana Penty), a young and ambitious Indian woman who moves to Spain to escape the monotony of her life in Mumbai. She finds herself drawn to two very different men: the charismatic and passionate Spaniard, Alex (Vijay Varma), and the grounded and thoughtful Indian, Rohan (Radhika Apte), who is also living in Spain.\n\nNikita's journey is not just about finding love but also about discovering herself and her place in the world. As she navigates the challenges of a new country, a new language, and a new culture, she begins to question her values and what she truly wants from life. The film explores the themes of cultural identity, the pursuit of happiness, and the sometimes unexpected paths that lead to self-discovery.\n\n\"Spanish Masala\" is a heartwarming and humorous tale that delves into the intricacies of modern relationships and the universal quest for belonging. Through its colorful settings and rich characters, the movie offers a fresh perspective on love and life, making it a delightful watch for audiences who enjoy cross-cultural narratives and romantic comedies."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "47a7726ee302f9f000e33ad4c1e1db30",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 396.0 words or less.\n\n---\n\n**Title:**\n\nSpanish Masala\n\n**Year:**\n\n",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aage se right",
+    "descriptions": [
+        " In the bustling city of Mumbai, \"Aage se right\" (2009) tells the story of Dinkar Waghmare, a middle-aged, simple-hearted auto-rickshaw driver who aspires to become a successful actor. Dinkar's life takes an unexpected turn when he crosses paths with a notorious gangster named Kachara Seth. Looking for a quick escape, Seth hides a valuable diamond in Dinkar's auto-rickshaw, unbeknownst to the humble driver.\n\nWhen Dinkar discovers the diamond, he becomes the target of both the police and the gangsters, who are determined to retrieve the precious gem. Dinkar, however, sees this as an opportunity to fund his acting dreams and hides the diamond, leading to a series of comedic events.\n\nDinkar's innocent yet clever demeanor allows him to outsmart the police and the gangsters, while also captivating the heart of a beautiful journalist named Soniya, who is covering the diamond heist story. As Dinkar navigates through the chaos, he learns valuable lessons about life, love, and the true meaning of success.\n\nIn the end, Dinkar manages to use the diamond to produce his own film, which becomes a surprise hit, making him an overnight sensation. He also manages to expose Kachara Seth's criminal activities, leading to his arrest. With newfound fame and a blossoming romance with Soniya, Dinkar finds happiness in his unconventional path to stardom and proves that sometimes, all it takes is a little luck and a whole lot of heart to achieve one's dreams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "594bc742e5d347d8cff7785cb9a832b5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 262.0 words or less.\n\n---\n\n**Title:**\n\nAage se right\n\n**Year:**\n\n2009",
+    "include_year": false
+}

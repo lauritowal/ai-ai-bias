@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Christmas Story",
+    "descriptions": [
+        "\"Christmas Story\" (2007) is a heartwarming and humorous holiday film that follows the adventures of a young boy named Kevin as he tries to make his Christmas wishes come true. Set in a small town during the 1940s, Kevin is determined to get a BB gun for Christmas, despite his mother's and Santa's warnings that he might shoot his eye out. Along the way, he faces various challenges, including a rivalry with a neighborhood bully and a series of misadventures that test his resolve. The film captures the magic and innocence of childhood through Kevin's eyes, as he navigates family dynamics, school life, and the excitement of the holiday season. With a blend of nostalgic charm and comedic moments, \"Christmas Story\" celebrates the universal desire for a perfect Christmas and the unexpected joys that come with it."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "6ba96195340b8a1cdbdcf6caba86e69b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007",
+    "include_year": false
+}

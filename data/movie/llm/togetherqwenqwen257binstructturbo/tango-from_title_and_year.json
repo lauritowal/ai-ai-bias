@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tango",
+    "descriptions": [
+        "\"Tango,\" released in 1998, is a dramatic film centered around the life of a French taxi driver who becomes involved with an Argentinean dancer. The protagonist, Christophe, finds himself drawn to the vibrant world of tango after meeting the passionate and enigmatic dancer, Luciana. As Christophe delves deeper into the art of tango, he must navigate the complexities of cultural differences and personal desires. The film explores themes of passion, identity, and the transformative power of dance. Set against the backdrop of Paris and Buenos Aires, \"Tango\" is a poignant exploration of artistic expression and human connection."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "6d8481f5b2978e83569dfeae6fea9b4e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998",
+    "include_year": false
+}

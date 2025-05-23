@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Amistad",
+    "descriptions": [
+        "\"Amistad\" is a historical drama film directed by Steven Spielberg, released in 1997. The film is based on the true story of the Amistad slave ship mutiny that took place in 1839. The plot follows the journey of a group of African slaves who revolt against their captors on the ship and take control of it. Led by Sengbe Pieh, also known as Cinque, they manage to overpower the crew and demand to be taken back to Africa.\n\nThe mutiny leads to a legal battle as the ship eventually lands in the United States. The slaves are arrested and charged with murder and piracy, sparking a heated debate about their legal status. The case attracts the attention of abolitionists who see an opportunity to fight against slavery. A young lawyer named Roger Sherman Baldwin takes on the case and argues that the slaves were illegally kidnapped and have the right to fight for their freedom.\n\nAs the trial unfolds, tensions rise between the abolitionists, who support the slaves, and the pro-slavery advocates who want to see them returned to their owners in Cuba. The case eventually reaches the Supreme Court, where the justices must decide whether the slaves are property to be returned or free individuals fighting for their rights.\n\nThe film delves into themes of justice, freedom, and human rights as the characters grapple with the moral implications of slavery. Through the lens of the Amistad case, the audience is confronted with the harsh realities of the transatlantic slave trade and the struggle for equality in a deeply divided society.\n\nIn the end, the Supreme Court rules in favor of the slaves, declaring them free individuals who were wrongfully enslaved. The decision is a victory for the abolitionist movement and a symbol of hope for those fighting against the injustices of slavery. The film ends with the freed slaves returning to Africa, their homeland, as they embark on a new chapter of their lives filled with the promise of freedom and dignity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3cc2c11945d2c11e74232b7f3790a071",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1717.0 words or less.\n\n---\n\n**Title:**\n\nAmistad\n\n**Year:**\n\n1997",
+    "include_year": false
+}

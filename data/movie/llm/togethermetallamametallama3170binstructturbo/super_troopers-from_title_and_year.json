@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Super Troopers",
+    "descriptions": [
+        "Super Troopers is a 2001 American comedy film directed by Jay Chandrasekhar, who also co-wrote the screenplay and stars in the movie. The film follows a group of five Vermont state troopers who work together to solve crimes and cause chaos in their small town.\n\nThe main characters, Thorny (Jay Chandrasekhar), Foster (Paul Soter), Mac (Steve Lemme), Rabbit (Erik Stolhanske), and Farva (Kevin Heffernan), are a misfit group of troopers who spend more time bickering and engaging in childish antics than they do enforcing the law. However, when they stumble upon a large shipment of marijuana, they must work together to solve the mystery behind the shipment and take down the smugglers.\n\nAs the troopers delve deeper into the case, they begin to uncover a larger conspiracy involving a group of local police officers and the smugglers. Along the way, they must also deal with their own personal issues, including Thorny's rivalry with a local police officer named Ursula Hanson (Marisa Coughlan).\n\nThroughout the film, the troopers engage in various comedic misadventures, including a memorable scene in which they pull over a group of girls and try to impress them with their police skills, and another scene in which they accidentally drink a bottle of hot sauce, leading to a series of hilarious reactions.\n\nDespite their bumbling nature, the troopers eventually manage to solve the case and take down the smugglers, earning them recognition and respect from their peers. However, the film ultimately ends on a comedic note, with the troopers returning to their old antics and causing chaos in the town once again.\n\nOverall, Super Troopers is a hilarious and entertaining film that showcases the comedic talents of the Broken Lizard comedy troupe, who also wrote and starred in the movie. The film's lighthearted and irreverent humor makes it a fun and enjoyable watch, and its memorable characters and quotes have become cult classics among fans of comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b059faced9d55d5f65dabfc700a5bb8e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nSuper Troopers\n\n**Year:**\n\n2001",
+    "include_year": false
+}

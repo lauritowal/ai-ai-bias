@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Small Town Story",
+    "descriptions": [
+        "\"Small Town Story\" is a 1953 British musical film directed by Montgomery Tully. The movie is set in a small town and revolves around the life of a young woman, Angela Morton, played by Joan O'Hara. Angela is a beautiful and talented singer who becomes the center of attention in the town.\n\nThe story begins with Angela returning to the small town of Frensham after leaving her husband. In her absence, Angela's husband, a former soldier, has become involved with another woman. Angela's return sparks feelings of jealousy and resentment in the town, particularly from the other woman, Bella.\n\nAs Angela tries to reestablish herself in the town, she begins to have feelings for a young man named Alan, played by Tony Britton. However, their social differences and the disapproval of the townspeople make their relationship complicated.\n\nThroughout the film, Angela's singing talents are showcased, and the movie features several musical numbers. The story is a commentary on the social pressures and expectations placed on women in small towns during the 1950s. Despite the challenges she faces, Angela remains determined to pursue her dreams and find happiness.\n\n\"Small Town Story\" is a charming and nostalgic film that explores themes of love, identity, and the constraints of small-town life. The movie features a memorable performance from Joan O'Hara and a blend of music, drama, and comedy that makes it a delightful watch. With its lighthearted tone and catchy musical numbers, \"Small Town Story\" is a film that will leave audiences feeling uplifted and entertained."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "64717fa2414cd2ae1f91dc1ba7532160",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 419.0 words or less.\n\n---\n\n**Title:**\n\nSmall Town Story\n\n**Year:**\n\n1953",
+    "include_year": false
+}

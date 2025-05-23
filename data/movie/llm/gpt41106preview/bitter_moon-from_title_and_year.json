@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bitter Moon",
+    "descriptions": [
+        "\"Bitter Moon\" is a 1993 erotic romantic drama film directed by Roman Polanski. The movie explores the themes of obsession, seduction, and the dark side of passionate love. It is based on the novel \"Lunes de fiel\" by Pascal Bruckner.\n\nPlot Summary:\n\nThe story revolves around a British couple, Nigel and Fiona Dobson, who are on a cruise to Istanbul. Nigel is a reserved and somewhat uptight man, while Fiona is more open and adventurous. On the cruise, they encounter a wheelchair-bound American writer named Oscar and his beautiful French wife, Mimi.\n\nOscar, a cynical and bitter man, notices Nigel's fascination with Mimi and decides to share the story of his relationship with her. Through a series of flashbacks, we learn of Oscar and Mimi's intensely passionate and ultimately toxic love affair, which began in Paris.\n\nInitially, their romance is filled with excitement and erotic exploration. However, as time passes, their relationship becomes increasingly destructive. Oscar's once-adorable quirks turn into controlling and sadistic behaviors. Mimi, who is deeply in love with Oscar, endures his emotional and physical abuses, believing this to be part of their passionate love.\n\nAs Oscar narrates the story to Nigel, it becomes evident that he is using it to manipulate both Nigel and Mimi, who is still with him on the cruise. Nigel becomes more and more entranced by the tale and by Mimi herself, leading to a dangerous level of obsession. Fiona, recognizing the changes in her husband, grows concerned and frustrated.\n\nThe story reaches its climax with a series of twists and turns as the true nature of Oscar's motives and the depths of his and Mimi's twisted relationship are revealed. Nigel finds himself caught in a web of desire, jealousy, and deceit, which threatens to destroy his own marriage to Fiona.\n\n\"Bitter Moon\" is a tale of erotic obsession and the complex dynamics of love and power, showcasing how relationships can become a battleground for dominance and submission. Polanski creates a provocative and unsettling atmosphere, blending dark humor with intense drama, ultimately questioning the very nature of love and the destructive force it can become when corrupted by obsession."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "910b9e8160990fdf9ed39a11db226d4d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 802.0 words or less.\n\n---\n\n**Title:**\n\nBitter Moon\n\n**Year:**\n\n1993",
+    "include_year": false
+}

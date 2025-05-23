@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "See No Evil",
+    "descriptions": [
+        "\"See No Evil\" is a 1971 psychological horror film directed by Bernard Girard and starring James Caan, Robert Duvall, and Goldie Hawn. The story revolves around Adam Clay (James Caan), a blind pianist who regains his sight through a corneal transplant. After his surgery, Adam returns to his hometown, only to be plagued by disturbing visions and auditory hallucinations that suggest his new eyes have a dark past.\n\nAdam begins to suspect that the donor's eyes belonged to a serial killer, and he starts to experience the killer's memories and urges. As he struggles to distinguish between reality and his haunted mind, Adam's relationships with his girlfriend, Sarah (Goldie Hawn), and his friend, Detective Frank (Robert Duvall), become strained.\n\nDetermined to uncover the truth, Adam delves deeper into the mystery, leading him to a small town where he uncovers a trail of brutal murders. The more he learns, the more he realizes that the killer's influence might be stronger than he thought, and he must fight to maintain his sanity and prevent a new series of killings. The film climaxes in a tense confrontation where Adam must face his fears and the sinister connection to his new eyes."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "1371fa654bd0201c4053df6bc3320df4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 262.0 words or less.\n\n---\n\n**Title:**\n\nSee No Evil\n\n**Year:**\n\n1971",
+    "include_year": false
+}

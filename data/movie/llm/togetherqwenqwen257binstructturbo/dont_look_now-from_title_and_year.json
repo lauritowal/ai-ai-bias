@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Don't Look Now",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Don't Look Now\" (1973), directed by Nicolas Roeg, is a psychological thriller that explores the grief and guilt of a married couple following the death of their daughter. The story begins in Venice, Italy, where John Baxter, a renowned photographer, and his wife Laura are coping with the recent loss of their 16-year-old daughter. To distract themselves, they accept an invitation to a friend’s house where they meet a young couple, Mark and Anne. Anne, in particular, strikes Laura as eerily similar to her deceased daughter.\n\nHaunted by her daughter's image, Laura becomes increasingly unstable and begins to see visions of her daughter, believing that she is still alive and in need of help. The Baxters become entangled in strange occurrences and coincidences, which seem to confirm Anne's belief that the spirits of children are trying to communicate with them. John, more rational, starts to uncover a darker side to the couple’s story, suspecting that they might be involved in something sinister.\n\nAs the Baxters delve deeper into the mystery, they find themselves in a web of deceit and danger. The line between reality and delusion blurs, and both John and Laura are forced to confront their guilt and the unresolved aspects of their lives. The film climaxes with a series of chilling happenings, culminating in a tragic event that forces the couple to finally face the full extent of their grief and the shadows of their past.\n\nThe movie is known for its visually striking cinematography, non-linear narrative, and the interplay between reality and illusion, making it a classic in the psychological thriller genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "d73b3f3afcda3488cd6e26ac01f92d79",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 548.0 words or less.\n\n---\n\n**Title:**\n\nDon't Look Now\n\n**Year:**\n\n1973",
+    "include_year": false
+}

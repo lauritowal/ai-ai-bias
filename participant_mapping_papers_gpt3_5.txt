@@ -1,0 +1,8 @@
+Participant ID mapping for Papers (GPT3_5):
+Omitting 1: Autochthon
+Omitting 2: Mateusz
+Omitting 3: Verča
+Omitting 4: janpro
+Omitting 5: jh
+Omitting 6: marta_st
+Omitting 7: msvana

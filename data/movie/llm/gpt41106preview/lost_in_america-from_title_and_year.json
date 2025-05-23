@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lost in America",
+    "descriptions": [
+        "\"Lost in America\" is a 1985 comedy film directed by Albert Brooks, who also co-wrote and starred in the film alongside Julie Hagerty. The plot centers around a married couple, David and Linda Howard, who live a comfortable but unfulfilling upper-middle-class life in Los Angeles.\n\nDavid works in advertising and is eagerly awaiting a promotion. However, when he is unexpectedly fired instead of promoted, he and Linda are thrown into an existential crisis. Frustrated by the materialistic and corporate lifestyle, David convinces Linda that they should drop out of society and seek a more meaningful existence. Inspired by the movie \"Easy Rider,\" the Howards decide to sell their house and liquidate their assets to buy a Winnebago. They plan to roam America free from the constraints of their old lives, aiming to \"touch Indians\" and find themselves, in a modern take on the nomadic countercultural journey.\n\nTheir idealistic adventure quickly starts to unravel when Linda gambles away their \"nest egg\" at a Las Vegas casino. With their financial security gone, David and Linda are forced to confront the harsh realities of life on the road. The couple encounters a series of comedic and sometimes humbling experiences as they attempt to navigate their new lifestyle. From taking low-paying, menial jobs to dealing with the breakdown of their motorhome, David and Linda's journey becomes a humorous exploration of the American Dream turned upside down.\n\n\"Lost in America\" is a satirical odyssey that pokes fun at the notion of escaping the rat race and the often romanticized idea of finding oneself through travel and dropping out of society. The film is a humorous take on midlife crises, the search for purpose, and the challenges of rejecting conventional living."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1e89f850c286543494b1a8c6f42ea8b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nLost in America\n\n**Year:**\n\n1985",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Night of the Demons 2",
+    "descriptions": [
+        "Night of the Demons 2 is a 1994 American supernatural horror-comedy film and a sequel to the 1988 film Night of the Demons. The movie takes place after the events of the first film, where Angela Franklin, the main antagonist, has been presumed dead after the night of the party at Hull House.\n\nHowever, as the movie begins, it is revealed that Angela has been awakened and sent back to hell after her resurrection at the hands of a series of misfortunes. But her spirit manages to possess one of the students at St. Rita's Academy, where the surviving character from the first film, Z-Boy, has been trying to rebuild his life.\n\nA group of rebellious students, led by the sister of one of Angela's victims, decide to break into Hull House, despite the rumors and warnings about the house's dark history. Unbeknownst to them, Angela has returned, and with her powers growing stronger, she starts possessing the students one by one.\n\nAs the group becomes trapped in the house, they discover the true nature of Angela's powers and the reason behind her return: to unleash a hellish demon on the world. In a desperate attempt to stop her, the students must use their wits, courage, and knowledge of exorcisms to defeat Angela and save themselves.\n\nThroughout the film, the tone balances between horror and dark comedy, providing an entertaining ride filled with gruesome possessions, over-the-top gore, and supernatural battles. Ultimately, Night of the Demons 2 delivers a thrilling and action-packed experience that lives up to the expectations of fans of the original film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "642aff32c329f3fa340b8dc4fcd88fac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 559.0 words or less.\n\n---\n\n**Title:**\n\nNight of the Demons 2\n\n**Year:**\n\n1994",
+    "include_year": false
+}

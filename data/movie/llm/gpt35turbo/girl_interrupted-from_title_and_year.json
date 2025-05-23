@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Girl, Interrupted",
+    "descriptions": [
+        "In 1999's \"Girl, Interrupted,\" the story follows the life of Susanna Kaysen, a young woman struggling with her mental health in the late 1960s. The film begins with Susanna being admitted to a psychiatric hospital after a suicide attempt. She is diagnosed with borderline personality disorder and is placed in a ward for women with various mental illnesses.\n\nUpon her arrival, Susanna meets a range of fascinating characters, each with their own unique struggles. She forms a close bond with Lisa, a charismatic and rebellious patient who becomes both a friend and a rival to Susanna. The two quickly become inseparable, leading to a series of adventures and misadventures within the hospital.\n\nAs Susanna navigates life within the hospital, she begins to question the nature of her illness and the effectiveness of the treatment she is receiving. She forms relationships with the other patients, including Daisy, a shy and fragile girl, and Polly, a woman who is scarred from a suicide attempt. Through these interactions, Susanna begins to confront her own demons and gain a better understanding of herself.\n\nThroughout the film, Susanna grapples with her identity, her relationships, and her place in the world. She struggles with the stigma of mental illness and the pressure to conform to societal expectations. As she forms connections with the other patients, she learns valuable lessons about acceptance, compassion, and the importance of seeking help when needed.\n\nAs the story unfolds, Susanna experiences both moments of clarity and moments of confusion. She is forced to confront her own fears and insecurities, as well as the harsh realities of life within a psychiatric hospital. Through it all, she remains determined to find her own path and define her own future.\n\nIn the end, \"Girl, Interrupted\" is a powerful and poignant exploration of mental illness, friendship, and the complexities of the human mind. It is a story of resilience, redemption, and the enduring strength of the human spirit. Through Susanna's journey, the film challenges viewers to rethink their perceptions of mental health and to embrace the inherent beauty and complexity of the human experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8e7e11faf1a6c5a78022a394b2d7d6c2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 849.0 words or less.\n\n---\n\n**Title:**\n\nGirl, Interrupted\n\n**Year:**\n\n1999",
+    "include_year": false
+}

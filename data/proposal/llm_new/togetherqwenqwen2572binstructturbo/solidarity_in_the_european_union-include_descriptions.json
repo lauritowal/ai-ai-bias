@@ -1,0 +1,13 @@
+{
+    "item_type": "proposal",
+    "title": "Solidarity in the European Union",
+    "descriptions": [
+        "This project seeks to explore the principles of socioeconomic justice applicable to the European Union and the cross-border obligations of social justice among European citizens. By developing a normative model of inter-, trans-, and supra-national solidarity (EUSOL1), grounded in the EU's unique history and circumstances, the project aims to provide a comprehensive framework. This model will be applied to critical issues such as the free movement of persons, refugee policy burden-sharing, inter-state transfers, and EU enlargement (EUSOL2). The research will advance normative debates on EU development, international/global justice, and the integration of factual contexts into political theory, addressing key challenges facing the EU today."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "2b78d59a8b03edd1dc442bbf485c396c",
+    "generation_prompt_nickname": "include_descriptions",
+    "generation_prompt_text": "Write an abstract for a grant proposal. Use the existing description below as a guideline, matching it roughly in quality and level of detail. Do not include information not available in the description below. Do not directly plagiarize the description below.\n\nPlease limit the response to 165 words or less.\n\n---\n\n**Description:**\n\nWhat principles of socioeconomic justice, if any, should apply to the European Union? Do European citizens have obligations of social justice that cross the borders of member states? If so, what are their grounds? I propose to answer these questions by providing a normative account of one of the fundamental values underpinning European integration, namely solidarity. The project has two main aims. The first is to develop a normative model of inter-, trans-, and supra-national solidarity that is responsive to the specific circumstances and history of the European Union (EUSOL1). The second aim is to apply this model to a number of central issues dividing the EU, including the free movement of persons, burden-sharing within the EU’s refugee policy, inter-state transfers, and enlargement and accession (EUSOL2). The project breaks new ground in normative debates on the nature and development of the EU, international/global justice, and the role of facts in normative political theory, and addresses some of the most pressing issues facing the EU today.",
+    "include_year": false
+}

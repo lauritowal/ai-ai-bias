@@ -1,0 +1,48 @@
+{
+    "item_type": "proposal",
+    "title": "Meritocracy and Literature: Transcultural Approaches to Hegemonic Forms",
+    "descriptions": [
+        {
+            "proposal_name": "Meritocracy and Literature: Transcultural Approaches to Hegemonic Forms",
+            "proposal_details": {
+                "acronym": "MERLIT",
+                "investigation_type": "systematic, diachronic and comparative",
+                "subject": "meritocratic narratives in literature",
+                "global_relevance": true,
+                "criticisms": [
+                    "enmeshment with structures of domination",
+                    "privilege"
+                ],
+                "research_gaps": [
+                    "lack of investigations into formal principles",
+                    "narrow focus on Western contexts",
+                    "concentration on recent developments"
+                ],
+                "objectives": [
+                    "explore practices of writing shaping meritocratic articulations and critiques",
+                    "expand contextual focus to Global South and transcultural anglophone contexts",
+                    "engage with historical forms of meritocracy from the 17th century to present"
+                ],
+                "work_packages": 6,
+                "interdisciplinary_fields": [
+                    "literary history",
+                    "new formalist theory",
+                    "cultural translation"
+                ],
+                "aims": [
+                    "offer a literary history of meritocratic thought",
+                    "advance understanding of hegemonic forms in writing",
+                    "highlight literature's worldmaking role"
+                ],
+                "descriptions": [
+                    "MERLIT is the first systematic, diachronic and comparative investigation of meritocratic narratives in literature."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "52bb750dc027dff056e92a724883ae32",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMeritocracy and Literature: Transcultural Approaches to Hegemonic Forms\n\n**Description:**\n\nMERLIT is the first systematic, diachronic and comparative investigation of meritocratic narratives in literature. Meritocratic thinking manifests itself in powerful narratives across the globe, from the constitutionally embedded “pursuit of happiness” to neoliberal narratives of self-enhancement. MERLIT investigates forms of these narratives, which are embraced for their seemingly empowering and universalist appeal, but also criticised for their enmeshment with structures of domination and privilege. MERLIT explores how meritocratic narratives are written, how they are written into cultures, but also how they are written back to in text forms that have shaped the zeitgeist of particular moments respectively. Although research into meritocratic thinking is a vibrant interdisciplinary field, it is characterised (1) by a lack of investigations into the formal principles underpinning – or challenging – meritocratic articulations, (2) by a narrow focus on (white) Western contexts and (3) by a concentration on recent developments. To counter these gaps, (1) MERLIT explores in six work packages how practices of writing have played, and continue to play, crucial roles in shaping meritocratic articulations but also critiques thereof; (2) MERLIT expands the contextual focus of existing scholarship by engaging with radical writing practices from the Global South and a range of transculturally entangled anglophone contexts; eventually, (3) MERLIT challenges perceptions of meritocratic thinking and its critiques as recent phenomena by engaging with changing forms of articulating value, merit and success from the 17th century to the present. Situated at the intersections of literary history, new formalist theory and cultural translation, MERLIT not only offers a literary history of meritocratic thought, but significantly advances our understanding of the workings of a set of hegemonic forms in and through writing, and of the formative, worldmaking role of literature."
+}

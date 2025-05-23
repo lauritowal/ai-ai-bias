@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned Thing",
+    "descriptions": [
+        "**The Damned Thing (2006)**\n\nIn a remote, picturesque town, a series of mysterious and gruesome deaths begins to unfold, leaving the residents bewildered and terrified. The local sheriff, Tom Hawkins, initially attributes the killings to a wild animal, but as more bodies turn up with bizarre and inexplicable wounds, he starts to suspect that something far more sinister is at play.\n\nThe town's peace is shattered when a group of outsiders, including a skeptical journalist named Sarah and a reclusive scientist, Dr. Alan Grant, arrive to investigate the strange occurrences. As they delve deeper, they uncover a dark secret that has been hidden for generations: a malevolent entity known as \"The Damned Thing\" has been lurking in the shadows, preying on the town's inhabitants.\n\nAs the deaths continue, the town is gripped by fear and paranoia. Tom, Sarah, and Dr. Grant must race against time to unravel the mystery and stop the entity before it claims more lives. Their investigation leads them to an ancient, abandoned mine on the outskirts of town, where they discover the true nature of The Damned Thing and its connection to a long-forgotten tragedy.\n\nWith the town on the brink of chaos, the trio must confront their own fears and the supernatural forces that threaten to destroy everything they hold dear. In a climactic showdown, they face The Damned Thing in a battle that will determine the fate of the town and its people."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "b8fff6341ed860a8db99af152607ae1d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 308.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned Thing\n\n**Year:**\n\n2006",
+    "include_year": false
+}

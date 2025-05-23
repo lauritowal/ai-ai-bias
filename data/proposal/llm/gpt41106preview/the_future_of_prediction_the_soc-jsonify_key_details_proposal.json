@@ -1,0 +1,45 @@
+{
+    "item_type": "proposal",
+    "title": "The Future of Prediction: The Social Consequences of Algorithmic Forecast in Insurance, Medicine and Policing",
+    "descriptions": [
+        {
+            "proposal_name": "The Future of Prediction: The Social Consequences of Algorithmic Forecast in Insurance, Medicine and Policing",
+            "proposal_details": {
+                "domains": [
+                    "social sciences",
+                    "insurance",
+                    "medicine",
+                    "policing"
+                ],
+                "focus_areas": [
+                    "Big Data",
+                    "Machine Learning",
+                    "digital forecasting",
+                    "uncertainty management",
+                    "probability calculus",
+                    "algorithmic prediction"
+                ],
+                "research_areas": [
+                    "personalized insurance",
+                    "precision medicine",
+                    "predictive policing"
+                ],
+                "challenges": [
+                    "individualization of prediction",
+                    "undermining mutualization principle",
+                    "combination of algorithmic and statistical methods",
+                    "problem of bias",
+                    "distinction between prevention and repression"
+                ],
+                "descriptions": [
+                    "Investigation of the transition from probabilistic to algorithmic forms of prediction and its consequences for social institutions."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "18b229e49103709dd7d6718fc1da5fe8",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Future of Prediction: The Social Consequences of Algorithmic Forecast in Insurance, Medicine and Policing\n\n**Description:**\n\nThe algorithmic turn of prediction, connected with Big Data and Machine Learning, presents an exciting and urgent challenge for the social sciences. Recent advances in digital forecasting claim to provide a predictive score for individual persons or singular events, thereby introducing a new way to manage the uncertainty of the future. But knowing the future in advance is not only advantageous. In fact, for our society, uncertainty about the future is also a resource. Since modernity, with the support of probability calculus various social institutions in different domains have developed means of coping with ignorance of the future by starting with the one thing that we all share – uncertainty. What happens to the stabilized forms of management of the future when their first resource – shared uncertainty – is missing? There is still no systematic research on this groundbreaking transformation. This project proposes a set of theory-driven empirical studies of the transition from probabilistic forms of uncertainty management to the new algorithmic forms of prediction. We will investigate three important social areas highlighting three fundamental dimensions with which digital forecast must deal. 1) First we will focus on personalized insurance. Here the key dimension is individualization of prediction, where the challenge is that such prediction could undermine the mutualization principle organized around actuarial practices. 2) Our second research area is precision medicine, highlighting the dimension of generalization where the challenge is the combination of algorithmic procedures with established statistical methods. 3) In the third field, predictive policing underscores the problem of bias while it challenges the distinction between prevention and repression. Exploring these transformation and its consequences, the project aims at developing a comprehensive approach to study the social, technical and theoretical aspects of prediction in digital society"
+}

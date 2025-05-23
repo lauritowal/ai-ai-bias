@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mera Naam Joker",
+    "descriptions": [
+        "**Plot Summary of Mera Naam Joker (1970):**\n\nMera Naam Joker, which translates to \"My Name is Joker,\" is a 1970 Indian film directed by Yash Chopra and starring Rajesh Khanna in the lead role. The movie is a quintessential example of the romantic and melodramatic films that were popular during the 1970s.\n\nThe story revolves around a man named Rajpal, who is the son of a rich and influential lawyer. Rajpal is known as the \"Joker\" for his flamboyant and unpredictable behavior. Despite his wealthy background, Rajpal is deeply in love with a poor girl named Geeta, played by Mumtaz. Their love story is filled with obstacles as Rajpal's father disapproves of their relationship, viewing Geeta's lower social status as a significant barrier.\n\nThe film's narrative unfolds as Rajpal and Geeta face various challenges, including the interference of Rajpal's father, who tries to sabotage their relationship. However, the couple remains steadfast in their love, even when faced with the prospect of being separated forever. The climax of the film sees Rajpal and Geeta overcoming all odds, with the support of a friend who helps them escape and live together in hiding.\n\nThroughout the film, Rajpal's \"Joker\" persona is both a source of comedy and a reason for his father's disapproval. The character's unpredictable and often mischievous behavior adds a layer of humor to the otherwise emotionally charged plot. The film explores themes of love, social status, and the lengths to which people will go for the one they love.\n\nMera Naam Joker is known for its memorable songs and dance sequences, many of which are still popular today. The film also features a strong supporting cast, including Mehmood and Kuldip Kaur, and showcases the talented performance of Rajesh Khanna, who is perhaps best known for his role as Rajpal \"Joker.\"\n\nThe film's romantic tension and emotional depth, combined with its lighthearted moments and memorable music, make Mera Naam Joker a significant work in the history of Indian cinema, contributing to the romantic genre's popularity in the 1970s and beyond."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "3fbe27e4645ae0fd15a6bc5d174605f1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nMera Naam Joker\n\n**Year:**\n\n1970",
+    "include_year": false
+}

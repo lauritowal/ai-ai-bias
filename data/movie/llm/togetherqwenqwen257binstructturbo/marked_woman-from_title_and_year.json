@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Marked Woman",
+    "descriptions": [
+        "\"Marked Woman,\" released in 1937, follows the story of a woman, Sarah, who is falsely accused of murder and branded with a letter \"M\" on her forehead as a symbol of her alleged guilt. The film explores her struggle against the injustice she faces from the community and police. Seeking redemption, Sarah teams up with an investigative journalist to expose the corruption and the true culprit behind her wrongful accusation. Along the way, she faces numerous challenges, including societal prejudice and personal dangers, but her determination leads to a dramatic finale where the truth is revealed, and she is finally cleared of all charges."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "055a1d7c3bd762b867f5f764a86dab9a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Small Town Story",
+    "descriptions": [
+        "\"Small Town Story\" is a 1953 American drama film that delves into the lives of the residents of a quaint, seemingly idyllic Midwestern town. Directed by Jean Negulesco and starring Joan Crawford, the film explores themes of ambition, small-town politics, and the complexities of human relationships.\n\nThe story centers around Mary Turner (Joan Crawford), a determined and ambitious woman who moves to the small town of Millville with her husband, Steve (James Craig). Mary, who has dreams of making a better life for herself and her family, quickly becomes involved in the local social and business scene. She starts working at the local department store, where her keen business sense and charm help her rise to the position of manager.\n\nHowever, Mary's success and her outspoken nature begin to stir up resentment among the town's established residents, particularly the influential and domineering Mrs. Carter (Spring Byington), who sees Mary as a threat to the town's traditional ways. Mrs. Carter and her allies, including the town's mayor (Ward Bond), plot to undermine Mary's influence and protect their own interests.\n\nAs tensions rise, Mary finds herself caught between her desire to improve the town and the resistance of those who are content with the status quo. Her relationship with Steve is also tested as he struggles to find his own place in the community and support his wife's ambitions without alienating his friends and colleagues.\n\nThe film culminates in a series of dramatic events that force the town to confront its own prejudices and ultimately decide whether to embrace change or remain stuck in the past. \"Small Town Story\" is a poignant and often tense exploration of the human spirit and the challenges of progress in a close-knit community. It highlights the resilience of individuals who dare to dream and the power of community to either stifle or uplift those dreams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "3cf7fca830aa6fc58c1e3461adea5fa3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 414.0 words or less.\n\n---\n\n**Title:**\n\nSmall Town Story\n\n**Year:**\n\n1953",
+    "include_year": false
+}

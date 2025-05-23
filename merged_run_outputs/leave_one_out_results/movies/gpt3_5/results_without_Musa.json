@@ -1,0 +1,306 @@
+{
+  "movie---DESCRIPTION-from_title_and_year|gpt3_5---COMPARISON-pick_one|humans": {
+    "details_by_item": {
+      "night_of_the_demons_2-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "samson-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "cleopatra-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "hot_blood-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "up_in_the_air-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "seven_men_from_now-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "dont_look_now-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.5
+      },
+      "mera_naam_joker-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "once_upon_a_time_in_china_ii-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "the_mad_magician-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "mysteries_of_a_barbershop-movie": {
+        "Human": 3,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.25
+      },
+      "poochakkoru_mookkuthi-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "eating_out_5_the_open_weekend-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "roots_the_gift-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 2,
+        "LLM_win_ratio": 1.0
+      },
+      "the_trial-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "the_chaser-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "maduve_mane-movie": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.5
+      },
+      "our_gang_follies_of_1938-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "the_bone_snatcher-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "the_merry_old_soul-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "gigi-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "gifted_hands_the_ben_carson_stor-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "the_super_dimension_fortress_mac-movie": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "inspector_gadget-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "rudraveena-movie": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "interview_with_the_assassin-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "love_with_the_proper_stranger-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "expresso-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "satan_in_high_heels-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "gamera_vs-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "billy_two_hats-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "black_belt_jones-movie": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "rokkk-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "arena-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "til_there_was_you-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "humanit-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "daddy_cool-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "lost_in_america-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "white_wedding-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "the_perfect_circle-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "six_degrees_of_separation-movie": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "marked_woman-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "lucky_no_time_for_love-movie": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "christmas_story-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "me_and_orson_welles-movie": {
+        "Human": 0,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "the_vulture-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "the_hit-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "king-movie": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "colors-movie": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      }
+    },
+    "total_tallies": {
+      "Human": 52,
+      "LLM": 70,
+      "Invalid": 8
+    },
+    "llm_win_ratio": 0.5737704918032787
+  }
+}

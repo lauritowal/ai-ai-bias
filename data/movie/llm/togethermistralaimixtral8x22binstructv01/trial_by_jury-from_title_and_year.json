@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trial by Jury",
+    "descriptions": [
+        " In the 1994 thriller \"Trial by Jury,\" Valerie (Joanne Whalley) is a single mother who is suddenly selected as a juror for a high-profile mafia trial. As the trial proceeds, she becomes increasingly anxious, as her young son is being held captive by mobsters who threaten to kill him unless she persuades the jury to deliver a not-guilty verdict. Unable to seek help from authorities without endangering her son's life, Valerie must navigate the tense courtroom drama while devising a plan to save her son.\n\nAs the pressure mounts, Valerie befriends a fellow juror, Daniel (Gabriel Byrne), who becomes suspicious of her erratic behavior. He eventually uncovers the truth about her predicament, and together they try to outwit the mobsters and expose the corruption within the jury. With time running out, Valerie and Daniel must find a way to ensure justice is served without sacrificing the life of her child."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "9cc2fa39e3b1f778da835d9985f8ab75",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994",
+    "include_year": false
+}

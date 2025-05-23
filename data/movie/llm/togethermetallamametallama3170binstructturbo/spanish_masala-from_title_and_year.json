@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spanish Masala",
+    "descriptions": [
+        "I'm sorry, but the year is missing in the provided information. However, I found that 'Spanish Masala' is a 2012 Indian Malayalam-language romantic comedy film. \n\nHere's a plot summary:\n\nSpanish Masala is a 2012 Indian Malayalam-language romantic comedy film directed by Lal Jose. The movie follows the life of an Indian chef named Lukman (played by Dileep), who runs a restaurant in Spain. Lukman befriends several people in Spain, including a Spanish woman named Marina (played by Daniela Zacherl).\n\nLukman's life becomes complicated when he gets into a misunderstanding with the local police and the Indian embassy. He then starts a romantic relationship with Marina, and they decide to get married. However, things get more complicated when Lukman has to deal with the complexities of getting married to a foreigner.\n\nThe movie showcases Lukman's journey as he navigates through the complexities of Spanish culture and eventually makes his way back to Kerala with his wife. Along the way, he also helps his friends resolve their personal issues and teaches them about the importance of love and relationships.\n\nThe film features a mix of comedy, drama, and romance, with beautiful scenes of Spain and Kerala. The movie received mixed reviews from critics but was a moderate box office success."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2aeb1f7a9f86373d5d48f10e51849ec8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 400.0 words or less.\n\n---\n\n**Title:**\n\nSpanish Masala\n\n**Year:**\n\n",
+    "include_year": false
+}

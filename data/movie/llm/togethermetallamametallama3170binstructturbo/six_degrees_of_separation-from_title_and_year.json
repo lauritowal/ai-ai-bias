@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Six Degrees of Separation",
+    "descriptions": [
+        "'Six Degrees of Separation' is a 1993 American comedy-drama film. The story revolves around Paul Poitier (played by Will Smith), a charismatic young con artist who poses as the son of actor Sidney Poitier. Paul claims to be a Harvard student and befriends the wealthy Kittredge family, including Ouisa (Stockard Channing) and Flan (Donald Sutherland). \n\nHe gains their trust by claiming to be on the run from an attempted murder and shares stories of his life, including his supposed connection to the famous actor. The Kittredges are taken by Paul's charm and become involved in his life. However, their interactions are soon disrupted by Paul's various deceptions and the true nature of his intentions.\n\nAs the story unfolds, the connections between Paul and the Kittredges lead them to reflect on the 'six degrees of separation' concept, which states that any two people can be connected through a chain of no more than six acquaintances. The film raises questions about social connections, relationships, and human nature, all while navigating the complexities of Paul's lies and the impact they have on the people around him."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+    "include_year": false
+}

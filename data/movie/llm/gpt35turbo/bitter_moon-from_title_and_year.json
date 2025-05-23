@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bitter Moon",
+    "descriptions": [
+        "\"Bitter Moon\" is a 1993 psychological thriller film directed by Roman Polanski. The movie follows the story of a couple, Nigel and Fiona, as they embark on a cruise ship vacation. Their seemingly stable marriage takes a dark turn when they encounter a mysterious and enigmatic couple, Oscar and Mimi.\n\nOscar, a wheelchair-bound writer, begins to share the story of his tumultuous relationship with Mimi with Nigel. As the story unfolds, it becomes clear that their relationship is filled with obsession, manipulation, and emotional abuse. Nigel becomes both fascinated and repulsed by the extreme dynamics of Oscar and Mimi's relationship.\n\nAs the cruise continues, Nigel and Fiona's own relationship begins to unravel as they are both drawn into the toxic web of Oscar and Mimi's twisted love affair. Nigel finds himself increasingly drawn to Mimi, while Fiona becomes suspicious and resentful of the influence Oscar has over her husband.\n\nThe story takes a dark turn when Oscar's obsession with Mimi reaches a breaking point, leading to a series of shocking and disturbing events that ultimately culminate in tragedy. Nigel is forced to confront his own desires and the darkness within himself as he becomes entangled in the destructive love triangle.\n\nThroughout the film, themes of power, control, and desire are explored as the characters navigate the complexities of love, obsession, and betrayal. \"Bitter Moon\" is a gripping and unsettling exploration of the darker aspects of human relationships, leaving audiences questioning the boundaries of love and the depths of human depravity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "910b9e8160990fdf9ed39a11db226d4d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 802.0 words or less.\n\n---\n\n**Title:**\n\nBitter Moon\n\n**Year:**\n\n1993",
+    "include_year": false
+}

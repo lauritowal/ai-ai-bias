@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mice Follies",
+    "descriptions": [
+        "Mice Follies is a 1954 animated short film directed by Jules White. The cartoon revolves around a theatrical performance by mice. The plot centers on a group of mice who put on an extravagant stage show. \n\nThe mice reenact various musical and dance performances, including ballet and opera, mimicking human styles. Each act features the mice dressed in elaborate costumes, showcasing various talents such as music, dance, and acrobatics. \n\nThroughout the cartoon, the mice's performances are filled with slapstick humor and comedic mishaps. The mice struggle to contain their performances, leading to chaos and mayhem on stage.\n\nMice Follies is a satirical take on the grandeur and spectacle of human performances, poking fun at the conventions of theater and music. The cartoon is a lighthearted, entertaining commentary on the world of entertainment, using mice as the main characters to create a humorous and engaging storyline."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6a1ba1350a9fdb91bf811c6abe13b795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMice Follies\n\n**Year:**\n\n1954",
+    "include_year": false
+}

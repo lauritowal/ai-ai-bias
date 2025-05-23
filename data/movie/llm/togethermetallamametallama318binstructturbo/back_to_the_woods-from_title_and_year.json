@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Back to the Woods",
+    "descriptions": [
+        "I couldn't find any information on a movie called 'Back to the Woods' released in 1937. It's possible that the movie is unknown or not well-documented. However, I can suggest some possible plots based on the title and year.\n\nIf we assume the movie is a comedy or adventure film, it might follow the story of a group of people who return to the woods for a camping trip or to escape the city. The group could encounter various obstacles, such as treacherous terrain, wild animals, or other complications, but ultimately they learn valuable lessons about teamwork, perseverance, and the importance of nature.\n\nAlternatively, if the movie is a drama or mystery, it might focus on a character who returns to their childhood home in the woods, only to uncover secrets or confront past traumas. The character could be forced to confront their inner demons and make amends with their past in order to find peace and closure.\n\nUnfortunately, without more information, it's difficult to provide a more specific plot summary. If you have any additional context or details about the movie, I'd be happy to try and help further."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "71100496287e5f70bae81ed0067e4484",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 248.0 words or less.\n\n---\n\n**Title:**\n\nBack to the Woods\n\n**Year:**\n\n1937",
+    "include_year": false
+}

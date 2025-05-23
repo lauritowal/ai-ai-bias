@@ -1,0 +1,44 @@
+{
+    "item_type": "proposal",
+    "title": "Biomarkers of individual differences in human cortical visual processing",
+    "descriptions": [
+        {
+            "proposal_name": "Biomarkers of individual differences in human cortical visual processing",
+            "proposal_details": {
+                "objective": "Understand how vision is affected by physiological state and personality traits.",
+                "methods": [
+                    "Pupil responses",
+                    "Ultra-high field Magnetic Resonance of human visual cortex",
+                    "Psychophysics"
+                ],
+                "predictions": "Behavioral and cortical properties co-vary with personality traits.",
+                "target_population": "Normally sighted people, including young children.",
+                "potential_impacts": [
+                    "Change understanding of pervasive developmental disorders",
+                    "Aid diagnosis of Autistic Spectrum Disorders",
+                    "Encourage therapeutic approaches affecting general physiology"
+                ],
+                "innovative_approach": "Combining visual processing measures with physiological interventions.",
+                "interventions": [
+                    "Ketosis induced by fasting and intense physical activity"
+                ],
+                "expected_outcomes": [
+                    "New reliable biomarkers for local context-independent perception",
+                    "Evidence of perceptual style changes within individuals due to metabolism"
+                ],
+                "descriptions": [
+                    {
+                        "vision": "Best understood system of the human brain",
+                        "gap": "Lack of knowledge on why normally sighted people perceive differently",
+                        "aim": "Provide new knowledge on the relationship between metabolism, cortical processing, and perception"
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0796c2d54fabf69bc96e8631f35e381c",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nBiomarkers of individual differences in human cortical visual processing\n\n**Description:**\n\nVision is probably the best understood system of the human brain: studying vision has taught us much about the human mind and its complex processes. We know in detail the fundamental steps leading to visual perception, but we do not know why normally sighted people differ in how they perceive: why some “see the forest before the trees”, while others have a fragmented perceptual experience focused on local features. PUPILTRAITS aims to fill this gap by taking an innovative approach to vision science, to understand how vision is affected by physiological state and personality traits. I will measure visual processing with both classic and new methods (that I helped develop), including pupil responses, ultra-high field Magnetic Resonance of human visual cortex, and psychophysics. Based on solid pilot data, I predict that differences in behavioral and cortical properties co-vary with personality traits, providing new reliable biomarkers of the local context-independent perception associated with autistics traits, even in young children (using pupillometry). These tools will also reveal changes of perception within individuals: during a safe and simple physiological intervention (ketosis, a metabolic state that can be naturally induced by fasting and intense physical activity), to show that early visual processing can be altered by acting on metabolism, and that this consequently affects holistic/local perceptual styles. My aim is to provide new knowledge on the relationship between metabolism, cortical processing and perception. This has the potential for a strong societal impact: it can change our understanding of pervasive developmental disorders, like Autistic Spectrum Disorders, characterized by a different way of processing incoming information; it can aid their diagnosis through objective evaluation of perceptual styles, and encourage innovative therapeutic approaches aimed at changing perception and behavior by acting on general physiology: how we eat and exercise"
+}

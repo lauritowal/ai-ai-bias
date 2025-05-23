@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Don: The Chase Begins Again",
+    "descriptions": [
+        "Don: The Chase Begins Again is a 2006 Indian action thriller film directed by Farhan Akhtar. The film is a remake of the 1978 film Don, which was directed by Chandra Barot.\n\nThe movie follows the story of Don (Shah Rukh Khan), a powerful and ruthless crime lord who controls the underworld in Malaysia. Don is known for his cunning and intelligence, and the police are unable to catch him due to his elaborate network of informants and operatives.\n\nThe story begins with the introduction of Vijay (Shah Rukh Khan), a poor but honest man who lives in India. The police, led by DCP D'Silva (Boman Irani), are trying to capture Don, but their efforts are in vain. In an attempt to finally capture Don, D'Silva comes up with a plan to create a duplicate of Don in the form of Vijay, who bears a striking resemblance to the crime lord.\n\nVijay is trained by the police to behave and act like Don, and he is sent to Malaysia to infiltrate Don's organization. However, things take a complicated turn when Don is killed in an encounter with the police, and Vijay is forced to take his place. As Vijay navigates the complex world of Don's organization, he must also contend with the police, who are still trying to capture Don.\n\nAs the story unfolds, Vijay becomes embroiled in a web of intrigue and deception, and he must use his wits to stay alive and uncover the truth about Don's organization. Along the way, he also falls in love with Roma (Priyanka Chopra), a woman who was once in love with Don.\n\nThe film features a complex and engaging storyline, with plenty of twists and turns to keep the viewer on the edge of their seat. The movie also features impressive action sequences, stylish cinematography, and strong performances from the cast. Overall, Don: The Chase Begins Again is a thrilling and entertaining film that is sure to appeal to fans of action-packed movies."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1e1085e3a400ae4567a67f45291afc1a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 728.0 words or less.\n\n---\n\n**Title:**\n\nDon: The Chase Begins Again\n\n**Year:**\n\n2006",
+    "include_year": false
+}

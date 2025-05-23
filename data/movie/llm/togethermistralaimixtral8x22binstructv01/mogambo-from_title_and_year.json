@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mogambo",
+    "descriptions": [
+        " Mogambo, a 1953 adventure drama directed by John Ford, is set against the breathtaking backdrop of the African wilderness. The story revolves around Victor Marswell (played by Clark Gable), a seasoned big-game hunter and tour guide, who leads safari expeditions for wealthy clients. His life takes an unexpected turn when he encounters two beautiful and contrasting women during one of his tours.\n\nThe first, Eloise \"Honey Bear\" Kelly (Ava Gardner), is a sultry, free-spirited American showgirl who arrives in Africa seeking adventure and excitement. She quickly catches Victor's eye, and the two engage in a passionate yet volatile romance. However, their relationship is threatened by the arrival of the second woman, Linda Nordley (Grace Kelly), a prim and proper British anthropologist who joins Victor's safari alongside her husband, Donald (Philip Stainton).\n\nLinda, initially reserved and distant, gradually develops feelings for Victor as they spend more time together. She is drawn to his rugged charisma and his intimate knowledge of the African wilderness. Meanwhile, Honey Bear becomes increasingly jealous and insecure, leading to heated confrontations and emotional turmoil.\n\nAs the safari progresses, the love triangle between Victor, Honey Bear, and Linda intensifies, with each character grappling with their desires and loyalties. The African setting serves as a stark contrast to the emotional drama, with scenes of dangerous wildlife encounters and stunning landscapes highlighting the raw, untamed nature of the characters' passions.\n\nIn the end, Victor must choose between the two women, each offering him a vastly different future. His decision will not only impact his own life but also the lives of Honey Bear and Linda, who have both undergone significant personal transformations during their time in Africa. Mogambo is a gripping exploration of love, jealousy, and the consequences of desire, set against the majestic and unforgiving backdrop of the African wilderness."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "a5b4e9db3669d3a0cad74fef5cad2741",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 342.0 words or less.\n\n---\n\n**Title:**\n\nMogambo\n\n**Year:**\n\n1953",
+    "include_year": false
+}

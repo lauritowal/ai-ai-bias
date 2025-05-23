@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Children of the Corn III: Urban Harvest",
+    "descriptions": [
+        "Children of the Corn III: Urban Harvest is a 1995 American horror film directed by James D.R. Hickox. It is the third installment in the Children of the Corn series, based on the 1977 short story by Stephen King.\n\nThe story begins with two young brothers, Eli and Joshua, who escape from Gatlin, Nebraska, where they were part of a cult that worshipped the supernatural entity known as \"He Who Walks Behind the Rows.\" The brothers are taken in by a foster family in Chicago, where they attempt to start a new life.\n\nHowever, Eli, who has been possessed by the entity, begins to exert his influence over Joshua, trying to bring him back to the old ways of the cult. Meanwhile, a series of bizarre and gruesome events start to occur in the city, as people who come into contact with Eli begin to die under mysterious circumstances.\n\nAs the story unfolds, it becomes clear that Eli's ultimate goal is to spread the influence of \"He Who Walks Behind the Rows\" to the city, using the corn that has been secretly planted in an abandoned lot. The corn, which seems to have a life of its own, begins to grow at an alarming rate, and those who come into contact with it become increasingly violent and aggressive.\n\nJoshua, who has begun to resist Eli's influence, must find a way to stop his brother and prevent the cult from spreading its dark influence to the entire city. Along the way, he enlists the help of a local priest, who is familiar with the cult's activities and is determined to put an end to their evil plans.\n\nAs the body count rises and the city descends into chaos, Joshua and the priest must confront Eli and the cult in a final showdown. In the end, Joshua manages to defeat Eli and destroy the corn, but not before the cult's influence has had a profound impact on the city.\n\nOverall, Children of the Corn III: Urban Harvest is a tense and suspenseful horror film that explores themes of possession, cultism, and the dangers of blindly following a charismatic leader. While it may not be as well-known as some of the other films in the series, it is a worthy addition to the Children of the Corn franchise."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "884ded7469d08eb11627f6108eaaacd3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 627.0 words or less.\n\n---\n\n**Title:**\n\nChildren of the Corn III: Urban Harvest\n\n**Year:**\n\n1995",
+    "include_year": false
+}

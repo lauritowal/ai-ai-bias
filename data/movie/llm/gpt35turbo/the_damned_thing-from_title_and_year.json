@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Damned Thing",
+    "descriptions": [
+        "In the 2006 film \"The Damned Thing,\" a small town is plagued by a mysterious and malevolent force that seems to be causing chaos and death among its residents. As the townspeople struggle to understand what is happening, a group of individuals bands together to investigate the source of the disturbances.\n\nThey soon discover that the cause of the town's troubles is a sinister creature known as \"The Damned Thing,\" a malevolent force that feeds on fear and suffering. As they delve deeper into the mystery, they uncover a dark secret that has been hidden for generations.\n\nThe group must race against time to stop The Damned Thing before it destroys the entire town and claims even more lives. Along the way, they face terrifying encounters with the creature and must confront their own inner demons in order to survive.\n\nAs the tension mounts and the body count rises, the group must come together to find a way to defeat The Damned Thing once and for all. In a final showdown, they confront the creature in a battle for the town's very survival.\n\n\"The Damned Thing\" is a thrilling and suspenseful horror film that keeps viewers on the edge of their seats as they follow the characters' journey to uncover the truth behind the mysterious force terrorizing their town. With its chilling atmosphere and intense action, this film is sure to leave audiences with a sense of unease long after the credits roll."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "31c2868a37d5b8d6257d261efb59ee65",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 310.0 words or less.\n\n---\n\n**Title:**\n\nThe Damned Thing\n\n**Year:**\n\n2006",
+    "include_year": false
+}

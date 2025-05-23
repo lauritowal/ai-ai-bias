@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trial by Jury",
+    "descriptions": [
+        "Trial by Jury is a 1994 American comedy film. The movie follows Valerie Alston (Joanne Whalley), an ex-con who is a juror on a high-profile case. The case revolves around a mob boss, Rusty Pirone (Armand Assante), who is accused of murder. As the trial progresses, Valerie gains the attention of Rusty, and they begin a romantic affair. Valerie's involvement with Rusty complicates the trial and puts her fellow jurors in danger.\n\nAs the trial comes to a close, Valerie is torn between her affection for Rusty and her sense of justice. She must decide whether to follow her heart or uphold the law. Meanwhile, Rusty's loyal henchmen try to intimidate the jurors, including Valerie, to secure an acquittal.\n\nTrial by Jury is a crime comedy-drama that explores the themes of love, loyalty, and the justice system. The film features a mix of drama, romance, and dark humor, making it a unique take on the traditional courtroom drama."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9cc2fa39e3b1f778da835d9985f8ab75",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994",
+    "include_year": false
+}

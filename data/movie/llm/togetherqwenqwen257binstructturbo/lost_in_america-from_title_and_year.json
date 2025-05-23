@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lost in America",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Lost in America\" (1985) is a comedy about a young Japanese man, Takashi, who travels to the United States in search of the American Dream. Upon arrival, he finds the reality vastly different from what he expected. Stranded with no job and no place to stay, Takashi accidentally enrolls in a college course when he mistakes it for a job interview. He befriends an eccentric professor, who helps him navigate his new life. Takashi's humorous and often awkward attempts to fit in with American culture lead to a series of misadventures. Along the way, he discovers the true meaning of friendship, love, and the importance of embracing cultural differences. The film showcases the humorous and poignant moments of a foreigner's journey to understand and belong in America."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1e89f850c286543494b1a8c6f42ea8b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nLost in America\n\n**Year:**\n\n1985",
+    "include_year": false
+}

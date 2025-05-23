@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Goofy Gophers",
+    "descriptions": [
+        "The Goofy Gophers is a 1947 American animated short film produced by Warner Bros. Cartoons, Inc. The movie is based on the popular Looney Tunes characters. \n\nThe story revolves around a pair of mischievous chipmunks named Spike the Bulldog and Chester the Terrier's rivals, the Goofy Gophers, who are two chipmunk brothers. The brothers' personalities are quite different - one brother is a cunning, quick-witted chipmunk known as Spike, while the other brother, Chester, is portrayed as more slow-witted and laid-back.\n\nIn the film, Spike and Chester are trying to steal Spike's rival, Spike the Bulldog, and Chester the Terrier's lunch. The Goofy Gophers devise a clever plan to snatch the food from the bulldog and the terrier without getting caught. However, their plan keeps getting foiled due to their own clumsiness.\n\nThe Goofy Gophers' hilarious antics continue as they face various mishaps, such as a series of mishandled traps and chaotic chases. The brothers' rivalry with Spike and Chester ultimately ends in their defeat, as the bulldog and the terrier outsmart them once again.\n\nThe Goofy Gophers is a classic cartoon that showcases the signature Warner Bros. style of slapstick humor and comedic timing. The film's simple yet engaging storyline, combined with the lovable and quirky characters, makes it a timeless and entertaining addition to the Looney Tunes franchise."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b1c828de2acc8c1225122d5c4489954d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 786.0 words or less.\n\n---\n\n**Title:**\n\nThe Goofy Gophers\n\n**Year:**\n\n1947",
+    "include_year": false
+}

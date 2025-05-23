@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cleopatra",
+    "descriptions": [
+        "'Cleopatra' is a 1934 historical drama film directed by Cecil B. DeMille, starring Claudette Colbert as the legendary Egyptian queen. The movie begins with Julius Caesar's conquest of Egypt, where he meets the beautiful and cunning Cleopatra. The queen, determined to save her kingdom, uses her charm and wit to manipulate Caesar and gain his support.\n\nAs their relationship deepens, Cleopatra and Caesar become romantically involved, and he helps her solidify her power in Egypt. However, their love is ultimately doomed when Caesar is assassinated by Brutus and other Roman senators.\n\nCleopatra then turns her attention to Mark Antony, one of Caesar's most powerful generals. The two engage in a passionate love affair, but their relationship is also fraught with danger as they face opposition from Octavius, Caesar's adopted son and heir.\n\nThe film's climax features a dramatic battle between the forces of Mark Antony and Octavius, resulting in the defeat of Antony and Cleopatra. The movie ends with the tragic death of the star-crossed lovers, who ultimately take their own lives rather than submit to their enemies.\n\n'Cleopatra' is a classic tale of love, power, and politics, set against the dramatic backdrop of ancient Egypt and Rome. The film features opulent sets, elaborate costumes, and stunning cinematography, showcasing the grandeur and majesty of the ancient world. Claudette Colbert delivers a captivating performance as the enigmatic and alluring Cleopatra, bringing depth and nuance to the legendary queen's story."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "cfd1e5ae003e6f8b2da4b8573e22f2c6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 478.0 words or less.\n\n---\n\n**Title:**\n\nCleopatra\n\n**Year:**\n\n1934",
+    "include_year": false
+}

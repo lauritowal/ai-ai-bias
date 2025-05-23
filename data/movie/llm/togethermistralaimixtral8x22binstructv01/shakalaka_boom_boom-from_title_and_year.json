@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shakalaka Boom Boom",
+    "descriptions": [
+        " In the vibrant and competitive world of Bollywood, \"Shakalaka Boom Boom\" (2007) is a dramatic tale of ambition, betrayal, and redemption. The story revolves around two up-and-coming musicians, Reggie (Bobby Deol) and AJ (Upen Patel), who share a passionate love for music and a burning desire for fame.\n\nReggie, the more established of the two, is a successful pop star who enjoys the limelight and the adoration of his fans. His life takes a dramatic turn when he crosses paths with AJ, a talented but struggling musician who idolizes Reggie. AJ's raw talent and determination catch the eye of Reggie's music producer, Ruhaan (Kunal Kapoor), who sees AJ as the next big thing.\n\nAs AJ's career takes off, Reggie's popularity starts to wane. Jealous of AJ's success, Reggie conspires to sabotage his career. He hires a cunning and manipulative manager, Guru (Celina Jaitly), who uses her charm and guile to create a rift between the two musicians. The rivalry between Reggie and AJ intensifies, leading to a series of misunderstandings and betrayals that threaten to destroy their friendship and careers.\n\nIn a twist of fate, Reggie's life spirals out of control, and he hits rock bottom. Realizing the error of his ways, Reggie sets out to make amends with AJ and rebuild his life. With the help of his loyal friend and manager, Ruhaan, Reggie embarks on a journey of self-discovery and redemption. Along the way, he learns the true meaning of friendship, love, and music.\n\n\"Shakalaka Boom Boom\" is a cautionary tale about the perils of fame and the importance of staying true to oneself. With its catchy soundtrack, stellar performances, and gripping narrative, the film is a must-watch for fans of Bollywood cinema and music lovers alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "a5decffe654e0363ff95aa4f15fd3d88",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 338.0 words or less.\n\n---\n\n**Title:**\n\nShakalaka Boom Boom\n\n**Year:**\n\n2007",
+    "include_year": false
+}

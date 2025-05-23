@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "'Til There Was You",
+    "descriptions": [
+        "'Til There Was You is a 1997 romantic drama centered around the life of Sarah Bishop, a young woman who, after the death of her fiancé in a tragic accident, returns to her small hometown in Vermont to come to terms with her loss. The film, directed by George Armstrong, explores Sarah's journey as she reconnects with her past and the people who knew her before her fiancé, Daniel. One of the key characters is Daniel's younger sister, Chloe, who becomes a confidante and friend to Sarah. As Sarah navigates the challenges of grief and the complexities of newfound relationships, she discovers the strength and resilience of those around her. The movie also delves into themes of love, loss, and the enduring bonds that connect people, particularly in the small, close-knit community where Sarah grew up. Through a series of flashbacks and present-day interactions, the film paints a poignant picture of Sarah's emotional journey, ultimately leading to a greater understanding of herself and her place in the world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "3486bd9a5a391ebc5aa27b63f8f61c91",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 340.0 words or less.\n\n---\n\n**Title:**\n\n'Til There Was You\n\n**Year:**\n\n1997",
+    "include_year": false
+}

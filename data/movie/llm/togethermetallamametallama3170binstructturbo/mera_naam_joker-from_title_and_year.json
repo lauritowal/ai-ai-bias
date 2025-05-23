@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mera Naam Joker",
+    "descriptions": [
+        "Mera Naam Joker is a 1970 Indian Hindi-language film directed by Raj Kapoor. The film is a semi-autobiographical account of Kapoor's life and struggles as an actor. The movie is divided into three acts, each representing a different phase in the life of the protagonist, Raju (played by Raj Kapoor).\n\nThe film begins with Raju's childhood, where he is portrayed as a young, sensitive boy who aspires to become an actor. He falls in love with his teacher, Mary (played by Simi Garewal), but is unable to express his feelings due to social differences. The first act showcases Raju's early struggles and his passion for acting.\n\nIn the second act, Raju becomes a young adult and starts his career as a clown. He meets a free-spirited woman, Marina (played by Kseniya Ryabinkina), who is a Russian trapeze artist. They develop a strong bond, but their social differences and personal struggles make it difficult for them to be together.\n\nThe third act revolves around Raju's rise to fame as an actor. He meets a young woman, Meena (played by Padmini), who is initially hesitant to fall in love with him due to his profession as a clown. However, they eventually develop a deep connection, and Meena becomes Raju's emotional anchor.\n\nThroughout the film, Raju's character grapples with the idea of identity and his place in society. He struggles to balance his passion for acting with the harsh realities of life. The film explores themes of love, loss, and self-discovery, ultimately portraying Raju as a resilient and determined individual who finds solace in his art.\n\nMera Naam Joker is a poignant and introspective film that showcases Raj Kapoor's exceptional direction and acting skills. The movie features iconic songs, including \"Jeena Yahan Marna Yahan\" and \"Ang Lagade Ke Bol Bala,\" which have become an integral part of Indian cinema's heritage."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3fbe27e4645ae0fd15a6bc5d174605f1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nMera Naam Joker\n\n**Year:**\n\n1970",
+    "include_year": false
+}

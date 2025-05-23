@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Winchester '73",
+    "descriptions": [
+        "Winchester '73 is a 1950 American Western film directed by Anthony Mann and starring James Stewart. The movie is set in the post-Civil War era, specifically in 1876.\n\nThe story revolves around a prized rifle, a Winchester model 1873, which is the main prize in a shooting competition in the town of Dodge City. Lin McAdam (played by James Stewart) wins the rifle but soon finds it stolen by his rival, Dutch Henry Brown (played by Stephen McNally).\n\nThe plot unfolds as Lin pursues Dutch Henry across the American West, driven by his determination to retrieve the rifle. Along the way, Lin encounters various characters, including Lola Manners (played by Shelley Winters), a saloon owner, and Young Bull (played by Rock Hudson), a Native American.\n\nThroughout his journey, Lin's character is revealed through his interactions with these characters. He is portrayed as a rugged and skilled gunslinger, but also a man with a deep sense of honor and integrity.\n\nThe pursuit eventually leads Lin to a showdown with Dutch Henry, and the two engage in a fierce gunfight. Lin emerges victorious, reclaiming his prized rifle.\n\nThe film is notable for its themes of perseverance, honor, and the American West. The cinematography, shot in black and white, captures the vast and rugged landscape of the American frontier. The movie's success can be attributed to its well-crafted storyline, strong performances, and the direction of Anthony Mann, who would go on to work with James Stewart on several other Western films."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b9339ec785ad6762bb1301ec20e956d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 939.0 words or less.\n\n---\n\n**Title:**\n\nWinchester '73\n\n**Year:**\n\n1950",
+    "include_year": false
+}

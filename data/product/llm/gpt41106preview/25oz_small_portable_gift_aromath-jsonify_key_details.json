@@ -1,0 +1,118 @@
+{
+    "item_type": "product",
+    "title": "2.5oz Small Portable Gift Aromatherapy Candle,Soy Wax Tin Candles,Set of 16 Scented Candles Gift for Mother, Wife, Daughter, Friend",
+    "descriptions": [
+        {
+            "product_name": "2.5oz Small Portable Gift Aromatherapy Candle, Soy Wax Tin Candles, Set of 16 Scented Candles Gift for Mother, Wife, Daughter, Friend",
+            "product_details": {
+                "quantity": 16,
+                "scents": [
+                    "Jasmine",
+                    "Rose",
+                    "Vanilla",
+                    "Bergamot",
+                    "Fig",
+                    "Lavender",
+                    "Lemon",
+                    "Spring",
+                    "Gardenia",
+                    "Strawberry",
+                    "Rosemary",
+                    "Peppermint",
+                    "Blue bell",
+                    "Wood sage & sea salt",
+                    "Peony cherry blossom",
+                    "English pear & freesia"
+                ],
+                "material": "Natural soy wax",
+                "essential_oils": true,
+                "burn_time": "18-20 hours per candle",
+                "container_type": "Tin can",
+                "recyclable": true,
+                "safety_note": "Keep out of reach of children and pets when unattended to avoid accidents and fire"
+            }
+        },
+        {
+            "product_name": "2.5oz Small Portable Gift Aromatherapy Candle, Soy Wax Tin Candles, Set of 16",
+            "product_details": {
+                "recipient": "Mother, Wife, Daughter, Friend",
+                "quantity": 16,
+                "scents": [
+                    "Jasmine",
+                    "Rose",
+                    "Vanilla",
+                    "Bergamot",
+                    "Fig",
+                    "Lavender",
+                    "Lemon",
+                    "Spring",
+                    "Gardenia",
+                    "Strawberry",
+                    "Rosemary",
+                    "Peppermint",
+                    "Bluebell",
+                    "Wood Sage & Sea Salt",
+                    "Peony Cherry Blossom",
+                    "English Pear & Freesia"
+                ],
+                "materials": {
+                    "wax_type": "Soy Wax",
+                    "essential_oils": true
+                },
+                "burn_time": "18-20 hours per candle",
+                "container": {
+                    "material": "Tin",
+                    "recyclable": true,
+                    "alternative_uses": [
+                        "Flowerpot",
+                        "Home Decorations"
+                    ]
+                },
+                "safety_instructions": "Keep out of reach of children and pets when unattended to avoid accidents and fire"
+            }
+        },
+        {
+            "product_name": "2.5oz Small Portable Gift Aromatherapy Candle, Soy Wax Tin Candles, Set of 16 Scented Candles Gift",
+            "product_details": {
+                "intended_recipients": [
+                    "Mother",
+                    "Wife",
+                    "Daughter",
+                    "Friend"
+                ],
+                "fragrances": [
+                    "Jasmine",
+                    "Rose",
+                    "Vanilla",
+                    "Bergamot",
+                    "Fig",
+                    "Lavender",
+                    "Lemon",
+                    "Spring",
+                    "Gardenia",
+                    "Strawberry",
+                    "Rosemary",
+                    "Peppermint",
+                    "Blue bell",
+                    "Wood sage & sea salt",
+                    "Peony cherry blossom",
+                    "English pear & freesia"
+                ],
+                "materials": {
+                    "wax_type": "Natural soy wax",
+                    "essential_oils": true
+                },
+                "burning_duration": "18-20 hours",
+                "container_type": "Tin cans",
+                "container_recyclability": true,
+                "safety_instructions": "Keep out of reach of children and pets when unattended to avoid accidents and fire"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "024341b572b0dc7f0fe2455301a1e103",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: 2.5oz Small Portable Gift Aromatherapy Candle,Soy Wax Tin Candles,Set of 16 Scented Candles Gift for Mother, Wife, Daughter, Friend\n\nDescription: Ladies Candles: This set of candles includes 16 refreshing fragrances of Jasmine, rose, vanilla, bergamot, fig, lavender, lemon, spring, gardenia, strawberry, rosemary, peppermint,Blue bell wood sage & sea salt peony cherry blossom ,English pear & free.you can enjoy each fragrance\n\nHigh quality materials: Our candles are made from natural soy wax and aromatherapy essential oils, which guarantee a fresh aroma for a long time, purify the air in your home, and create a comfortable and calm home atmosphere\n\nSustained burning: Each 2.5 oz single wick candle burns for about 18-20 hours\n\nRecyclable: Candle containers are tin cans, which tin can be used as flowerpot or home decorations after use\n\nNote: When unattended, keep candles out of the reach of children and pets to avoid accidents and fire\n\n\n›  See more product details",
+    "__pydantic_initialised__": true
+}

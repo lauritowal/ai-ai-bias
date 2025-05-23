@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "House of the Dead",
+    "descriptions": [
+        "House of the Dead is a 2003 action horror film directed by Uwe Boll. The movie is loosely based on the popular light gun arcade game of the same name by Sega.\n\nThe story revolves around a group of friends, including Alicia (Jürgen Prochnow's character's daughter, played by Jürgen Prochnow's actual daughter, but in the film it is actually Claudia's friend, played by Ona Grauer) and Alicia's friend, Simon (Tyron Leitso), who arrive at a rave party on a remote island. The event is hosted by the enigmatic and sinister, Castillo Serman (Jürgen Prochnow). \n\nUpon arrival, the group discovers that the party has been overrun by zombies, a result of Serman's sinister experiments using the island as a testing ground for his reanimation serum. As the night unfolds, the friends find themselves in the midst of chaos and terror, fighting to survive against the undead.\n\nThe group discovers that Serman's true intention is to use the partygoers as test subjects for his serum, turning them into zombies. They soon uncover the dark history of the island, including Serman's connection to the infamous 15th-century executioner, Castillo Serman's ancestor. \n\nThe remaining survivors, including Simon, Alicia's friend, and others, must band together and fight their way through the hordes of undead to escape the island. Along the way, they must confront Serman and put an end to his sinister plans.\n\nHouse of the Dead is known for its campy humor, over-the-top action sequences, and poor reception by critics. Despite its flaws, the movie has gained a cult following and remains a nostalgic favorite among fans of the original game."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5b34f9d41912c2706add77ee3296d7df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 547.0 words or less.\n\n---\n\n**Title:**\n\nHouse of the Dead\n\n**Year:**\n\n2003",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Little Quacker",
+    "descriptions": [
+        "2006\n\n**Plot Summary:**\n\n\"Little Quacker\" is a heartwarming animated film that follows the story of a small and timid duckling named Quacker who is constantly teased and bullied by his fellow ducklings for being different. Despite his struggles, Quacker remains optimistic and dreams of one day proving himself to his peers.\n\nOne day, Quacker stumbles upon a beautiful pond where he meets a wise old duck named Grandpa Quack who takes him under his wing and teaches him valuable life lessons about self-acceptance and the importance of believing in oneself. Grandpa Quack encourages Quacker to embrace his uniqueness and to never give up on his dreams.\n\nAs Quacker grows stronger and more confident, he decides to enter the annual Duckling Games, a competition where young ducklings showcase their talents and skills. Despite facing ridicule and doubt from his peers, Quacker trains tirelessly with the help of Grandpa Quack and his newfound friends to prepare for the big event.\n\nOn the day of the Duckling Games, Quacker faces off against his rivals in a series of challenges that test his agility, strength, and courage. Despite a rocky start, Quacker surprises everyone with his determination and perseverance, eventually emerging as the underdog hero of the competition.\n\nThrough his hard work and unwavering spirit, Quacker not only wins the Duckling Games but also earns the respect and admiration of his peers. The once-bullied duckling is now celebrated as a hero and role model for other young ducklings who may feel different or out of place.\n\nAs the film comes to a close, Quacker reflects on his journey and realizes that true success comes from within and that being true to oneself is the key to happiness. With Grandpa Quack by his side, Quacker looks forward to a future filled with endless possibilities and new adventures.\n\n\"Little Quacker\" is a touching tale of self-discovery, friendship, and the power of believing in oneself. It reminds audiences of all ages that it's okay to be different and that everyone has the potential to achieve greatness if they have the courage to follow their dreams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7b0491ca67e388c6cce3d2a2e4dbc9c5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 698.0 words or less.\n\n---\n\n**Title:**\n\nLittle Quacker\n\n**Year:**\n\n",
+    "include_year": false
+}

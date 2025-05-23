@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ee Parakkum Thalika",
+    "descriptions": [
+        "Ee Parakkum Thalika is a 2001 Indian Malayalam-language comedy film. The movie revolves around Sreekuttan, a young man who is struggling to find a job. He is supported by his loving sister, Sreekutty, and his parents who are worried about his unemployment.\n\nSreekuttan's life changes when he meets two con artists, Prem and Suresh, who claim to have a foolproof plan to make money. The trio devises a plan to deceive a wealthy businessman by pretending to be the long-lost sons of a rich relative.\n\nHowever, their plan backfires when they discover that they are not the only ones after the businessman's wealth. The movie is filled with hilarious situations, comedic misunderstandings, and unexpected twists as the characters navigate through their devious plans.\n\nThroughout the film, Sreekuttan must balance his loyalty to his family and his involvement in the con scheme. The movie features a talented cast, including Dileep, Harisree Ashokan, and Oduvil Unnikrishnan, and is known for its witty dialogue and comedic performances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "651ae988e9b785fc8369dd64b6202da8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 266.0 words or less.\n\n---\n\n**Title:**\n\nEe Parakkum Thalika\n\n**Year:**\n\n2001",
+    "include_year": false
+}

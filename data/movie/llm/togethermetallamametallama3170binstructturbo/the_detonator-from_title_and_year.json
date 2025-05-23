@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Detonator",
+    "descriptions": [
+        "In \"The Detonator\" (2006), Wesley Snipes stars as Sonni Griffith, a former CIA operative who is sent to Bucharest, Romania to help his former partner, Nelson (Tim Dutton), who has been kidnapped. Upon arrival, Sonni discovers that Nelson has been working undercover, investigating a group of Russian mafia who are attempting to sell a nuclear bomb on the black market.\n\nAs Sonni navigates the complex web of espionage, he teams up with a local cop, Brigitte (Silvia Colloca), who helps him track down the kidnappers. Their investigation leads them to the mastermind behind the plot, a mysterious figure with a personal vendetta against the United States.\n\nWith the help of Brigitte, Sonni must use his skills to prevent the detonation of the nuclear bomb and save his former partner. Along the way, he must evade the Russian mafia and face his own demons in order to complete his mission. The film is a tense, action-packed thriller that keeps viewers on the edge of their seats."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c32b501ee1d9a114e3121fb32c9a718a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nThe Detonator\n\n**Year:**\n\n2006",
+    "include_year": false
+}

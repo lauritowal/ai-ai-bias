@@ -1,0 +1,128 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "E09-1079", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Hassan, Sajjad | Helmut, Schmid", 
+    "raw_text": "The decision tree uses different context features for the prediction of different attributes (Schmid and Laws, 2008)", 
+    "clean_text": "The decision tree uses different context features for the prediction of different attributes (Schmid and Laws, 2008).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "W12-3402", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Yannick, Versley", 
+    "raw_text": "Morphological information is annotated using RFTagger (Schmid and Laws, 2008), a state-of-the-art morphological tagger based on decision trees and a large context window (which allows it to model morphological agreement more accurately than a normal trigram-based sequence tagger)", 
+    "clean_text": "Morphological information is annotated using RFTagger (Schmid and Laws, 2008), a state-of-the-art morphological tagger based on decision trees and a large context window (which allows it to model morphological agreement more accurately than a normal trigram-based sequence tagger).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "P10-1068", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Christian, Chiarcos", 
+    "raw_text": "With respect to morphosyntactic annotations (parts of speech ,pos) and morphological an notations (morph), five Annotation Models for German are currently available: STTS (Schiller et al, 1999 ,pos), TIGER (Brants and Hansen, 2002, morph), Morphisto (Zielinski and Simon, 2008 ,pos, morph), RFTagger (Schmid and Laws, 2008 ,pos, morph), Connexor (Tapanainen and Ja ?rvinen, 1997 ,pos, morph)", 
+    "clean_text": "RFTagger (Schmid and Laws, 2008 ,pos, morph),.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "P10-1068", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Christian, Chiarcos", 
+    "raw_text": "(4 )rdf: type (olia: PronounOrDeterminer )rdf: type (olia: Pronoun )olia: has Number (some olia: Singular )olia: has Gender (some olia: Feminine )rdf: type (olia: DemonstrativePronoun )olia: has Case (some olia: Nominative) Analogously, the corresponding RFTaggeranaly sis (Schmid and Laws, 2008) given in (5) can be transformed into a description in terms of the OLiA Reference Model such as in (6)", 
+    "clean_text": "", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "W12-3144", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Eunah, Cho | Alex, Waibel | Jan, Niehues | Yuqi, Zhang | Mohammed, Mediani | Teresa, Herrmann", 
+    "raw_text": "The POS tags are generated with the RFTagger (Schmid and Laws, 2008) for German, which produces fine-grained tags that include person, gender and case information", 
+    "clean_text": "The POS tags are generated with the RFTagger (Schmid and Laws, 2008) for German, which produces fine-grained tags that include person, gender and case information.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "C10-2023", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Josep Maria, Crego | Fran&ccedil;ois, Yvon", 
+    "raw_text": "Additional German tags are obtained using the RFTagger 2 toolkit, which annotates text with fine-grained part-of-speech tags (Schmid and Laws, 2008) with a vocabulary of more than 700 tags containing rich morpho-syntactic information (gender, number, case, tense, etc.)", 
+    "clean_text": "Additional German tags are obtained using the RFTagger toolkit, which annotates text with fine-grained part-of-speech tags (Schmid and Laws, 2008) with a vocabulary of more than 700 tags containing rich morpho-syntactic information (gender, number, case, tense, etc.).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "W11-2147", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Maria, Holmqvist | Sara, Stymne | Lars, Ahrenberg", 
+    "raw_text": "ForGerman, the POS and morphological tags were obtained from RFTagger (Schmid and Laws, 2008) which provides morphological information such as case, number and gender for nouns and tense for verbs", 
+    "clean_text": "For German, the POS and morphological tags were obtained from RFTagger (Schmid and Laws, 2008) which provides morphological information such as case, number and gender for nouns and tense for verbs.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "P10-1020", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Jackie Chi Kit, Cheung | Gerald, Penn", 
+    "raw_text": "However, we found that we achieved better accuracy by using RFTagger (Schmid and Laws, 2008), which tags nouns with their morphological case", 
+    "clean_text": "However, we found that we achieved better accuracy by using RFTagger (Schmid and Laws, 2008), which tags nouns with their morphological case.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "W11-2135", 
+    "citing_paper_authority": 9, 
+    "citing_paper_authors": "Alexandre, Allauzen | H&eacute;l&egrave;ne, Bonneau-Maynard | Hai-Son, Le | Aur&eacute;lien, Max | Guillaume, Wisniewski | Fran&ccedil;ois, Yvon | Gilles, Adda | Josep Maria, Crego | Adrien, Lardilleux | Thomas, Lavergne | Artem, Sokolov", 
+    "raw_text": "For German, the fine-grained POS information used for pre-processing was computed by the RFTagger (Schmid and Laws, 2008)", 
+    "clean_text": "For German, the fine-grained POS information used for pre-processing was computed by the RFTagger (Schmid and Laws, 2008).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "W11-2145", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Teresa, Herrmann | Mohammed, Mediani | Jan, Niehues | Alex, Waibel", 
+    "raw_text": "The part-of-speeches were generated using the TreeTagger and the RFTagger (Schmid and Laws, 2008), which produces more fine-grained tags that include also person, gender and case information", 
+    "clean_text": "The part-of-speeches were generated using the TreeTagger and the RFTagger (Schmid and Laws, 2008), which produces more fine-grained tags that include also person, gender and case information.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "W10-1727", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Sara, Stymne | Maria, Holmqvist | Lars, Ahrenberg", 
+    "raw_text": "For Germanwe used morphologically rich tags from RFTagger (Schmid and Laws, 2008), that contains morphological information such as case, number, and gender for nouns and tense for verbs", 
+    "clean_text": "For German we used morphologically rich tags from RFTagger (Schmid and Laws, 2008), that contains morphological information such as case, number, and gender for nouns and tense for verbs.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "W10-1704", 
+    "citing_paper_authority": 7, 
+    "citing_paper_authors": "Alexandre, Allauzen | Josep M., Crego | Ilknur, Durgar El-Kahlout | Fran&ccedil;ois, Yvon", 
+    "raw_text": "Thesenormalization patterns use the lemma information computed by the TreeTagger and the fine-grained POSinformation computed by the RFTagger (Schmid and Laws, 2008), which uses a tag set containing approximately 800 tags", 
+    "clean_text": "These normalization patterns use the lemma information computed by the TreeTagger and the fine-grained POS information computed by the RFTagger (Schmid and Laws, 2008), which uses a tag set containing approximately 800 tags.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "D12-1133", 
+    "citing_paper_authority": 33, 
+    "citing_paper_authors": "Bernd, Bohnet | Joakim, Nivre", 
+    "raw_text": "For German, we obtain a tagging accuracy of 97.24, which is close to the 97.39 achieved by the RF-Tagger (Schmid and Laws, 2008), which to our knowledge is the best tagger for German.5 The results are not directly comparable to the RF-Tagger as it was evaluated on a different part of the TigerTreebank and trained on a larger part of the Tree bank", 
+    "clean_text": "For German, we obtain a tagging accuracy of 97.24, which is close to the 97.39 achieved by the RF-Tagger (Schmid and Laws, 2008), which to our knowledge is the best tagger for German. The results are not directly comparable to the RF-Tagger as it was evaluated on a different part of the Tiger Treebank and trained on a larger part of the Treebank.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "D12-1133", 
+    "citing_paper_authority": 33, 
+    "citing_paper_authors": "Bernd, Bohnet | Joakim, Nivre", 
+    "raw_text": "The lexicon supplies entries for additional words that are not found in the training corpus and additional tags for words that do occur in the training data (Schmid and Laws, 2008)", 
+    "clean_text": "The lexicon supplies entries for additional words that are not found in the training corpus and additional tags for words that do occur in the training data (Schmid and Laws, 2008).", 
+    "keep_for_gold": 0
+  }
+]

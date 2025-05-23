@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Roots: The Gift",
+    "descriptions": [
+        "**Title:** Roots: The Gift  \n**Year:** 1988\n\n\"Roots: The Gift\" is a television film that serves as a prequel to the groundbreaking 1977 miniseries \"Roots.\" Set in 1819, the film focuses on the life of Kunta Kinte (LeVar Burton), a Mandinka warrior from Gambia who was captured and brought to America as a slave. The story delves into Kunta's early days on the Waller plantation in Virginia, where he struggles to maintain his identity and cultural heritage despite the brutal conditions of slavery. The film highlights Kunta's relationship with his owner, John Waller (Jason Robards), and the plantation's overseer, Thomas Davies (John Lithgow), who both view him as a troublesome and defiant slave. Kunta's resilience and determination to preserve his African roots are tested as he faces numerous challenges, including a failed escape attempt and a severe punishment that leaves him mutilated. Despite these adversities, Kunta's spirit remains unbroken, and he passes on his story and values to his daughter, Kizzy (Diahann Carroll), ensuring that his legacy and the memory of his African heritage live on. The film provides a poignant and powerful exploration of the human spirit's capacity for endurance and the importance of cultural identity in the face of oppression."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "93b466ec1ca78331106fc466f94154ca",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 249.0 words or less.\n\n---\n\n**Title:**\n\nRoots: The Gift\n\n**Year:**\n\n",
+    "include_year": false
+}

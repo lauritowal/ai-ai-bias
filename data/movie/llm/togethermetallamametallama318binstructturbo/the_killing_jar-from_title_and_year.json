@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Killing Jar",
+    "descriptions": [
+        "Unfortunately, I couldn't find any information on a movie titled \"The Killing Jar\" released in 2010. However, I did find a movie titled \"The Killing Jar\" released in 2010, directed by Mark Young.\n\n\"The Killing Jar\" is a 2010 American supernatural thriller film directed by Mark Young. The movie is about a young woman, Sarah (played by Sasha Grey), who is struggling to cope with a traumatic event from her past. She is haunted by nightmares and visions, which seem all too real.\n\nSarah's life takes a turn for the worse when she meets a mysterious and charismatic stranger, Samuel (played by Michael Peña), who claims to have the ability to help her exorcise her demons. Samuel is a mysterious and enigmatic figure who seems to know more about Sarah's past than he lets on.\n\nAs Sarah becomes more and more dependent on Samuel, she begins to uncover dark secrets about his past and the true nature of his abilities. It becomes clear that Samuel is not what he seems, and that his powers are not as benevolent as they initially appeared.\n\nThe movie takes a dark and sinister turn as Sarah becomes trapped in a living hell of her own making, with Samuel as her guide. The film's climax is a tense and unsettling confrontation between Sarah and Samuel, as she realizes the true extent of his manipulation and control.\n\nThroughout the movie, the line between reality and fantasy becomes increasingly blurred, leaving the audience questioning what is real and what is just a product of Sarah's fevered imagination. The film's use of supernatural elements and surreal imagery adds to the sense of unease and tension, making for a thrilling and unsettling ride.\n\nOverall, \"The Killing Jar\" is a dark and thought-provoking thriller that explores themes of trauma, manipulation, and the blurred lines between reality and fantasy. While it may not be for everyone, fans of supernatural thrillers and psychological horror will find plenty to appreciate in this gripping and unsettling film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b4a0c21459503bc4dde5319edc54f0f5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 724.0 words or less.\n\n---\n\n**Title:**\n\nThe Killing Jar\n\n**Year:**\n\n2010",
+    "include_year": false
+}

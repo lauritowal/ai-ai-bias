@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ánimas Trujano",
+    "descriptions": [
+        " In the 1962 Mexican drama film, \"Ánimas Trujano,\" the story revolves around the titular character, a poor, alcoholic, and abusive peasant named Ánimas Trujano, living in a small village in Oaxaca, Mexico. Desperate to prove his worth and gain respect from his community, Trujano yearns to become the next \"mayordomo,\" a prestigious position in the annual town festival honoring the village's patron saint.\n\nWhen Trujano's wife, Catalina, becomes gravely ill, he promises to honor the Virgin of Guadalupe if she recovers. However, his reckless behavior and debts lead him to sell his youngest daughter, Juanita, to a wealthy man. As Trujano's life spirals out of control, he faces harsh realities and must confront his inner demons to redeem himself and rebuild his relationships with his family and community.\n\nDirected by Ismael Rodríguez, \"Ánimas Trujano\" is an exploration of pride, redemption, and the destructive consequences of addiction. The film stars notable actors such as Toshiro Mifune, Columba Domínguez, and Flor Silvestre, and was nominated for the Best Foreign Language Film at the 1962 Academy Awards."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "8228f62331d6b3bb43b52d56cb1a3a00",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nÁnimas Trujano\n\n**Year:**\n\n1962",
+    "include_year": false
+}

@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "The multisensory mind: From neural mechanisms to cognition",
+    "descriptions": [
+        "Title: The Multisensory Mind: From Neural Mechanisms to Cognition\n\nThis grant proposal seeks funding for a research program investigating multisensory integration (MI), a crucial aspect of human perception. The project aims to examine neural and neurochemical markers of MI and test a novel hypothesis regarding synchronized neural populations. Using a combination of human EEG data, source modeling of synchronized EEG activity, and magnetic resonance spectroscopy, we will study both healthy subjects and patients with schizophrenia. The objectives of this research are to advance our understanding of multisensory integration and explore its applications in the treatment of conditions characterized by impaired MI. By uncovering the neural mechanisms underlying MI, this project has the potential to improve our comprehension of perceptual processes and contribute to the development of novel therapeutic strategies for individuals with multisensory integration deficits. The proposed research program will provide valuable insights into the complex relationships between sensory inputs and coherent multisensory percepts, ultimately enhancing our knowledge of the multisensory mind."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "generation_prompt_uid": "0a45916d3843857b243cae3933926ddb",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 269 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'The multisensory mind: From neural mechanisms to cognition', 'proposal_details': {'field_of_study': 'multisensory integration (MI)', 'research_methods': ['human EEG data', 'source modeling of synchronized EEG activity', 'magnetic resonance spectroscopy'], 'objectives': ['examine neural and neurochemical markers of MI', 'test a new hypothesis regarding synchronized neural populations'], 'participant_groups': ['healthy subjects', 'patients with schizophrenia'], 'applications': ['understanding of multisensory integration', 'treatment of conditions with impaired multisensory integration'], 'descriptions': ['This research program aims to uncover how sensory inputs merge into coherent multisensory percepts.']}}"
+}

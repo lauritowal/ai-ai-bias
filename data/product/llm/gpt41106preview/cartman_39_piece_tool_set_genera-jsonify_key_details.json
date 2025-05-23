@@ -1,0 +1,92 @@
+{
+    "item_type": "product",
+    "title": "CARTMAN 39 Piece Tool Set General Household Hand Kit with Plastic Toolbox Storage Case Orange",
+    "descriptions": [
+        {
+            "product_name": "CARTMAN 39 Piece Tool Set General Household Hand Kit with Plastic Toolbox Storage Case Orange",
+            "product_details": {
+                "tool_count": 39,
+                "suitable_for": [
+                    "small repairs",
+                    "DIY projects"
+                ],
+                "includes": [
+                    "hammer",
+                    "pliers",
+                    "screwdrivers",
+                    "tape measure"
+                ],
+                "features": {
+                    "durable": true,
+                    "corrosion_resistant": true,
+                    "heat_treated": true,
+                    "chrome_plated": true
+                },
+                "storage": {
+                    "case_material": "plastic",
+                    "case_feature": "organizer"
+                },
+                "portability": {
+                    "lightweight": true,
+                    "carrying_handle": true
+                },
+                "ideal_for": [
+                    "DIY amateur",
+                    "avid handyman"
+                ],
+                "color": "orange"
+            }
+        },
+        {
+            "product_name": "CARTMAN 39 Piece Tool Set General Household Hand Kit with Plastic Toolbox Storage Case Orange",
+            "product_details": {
+                "tool_count": 39,
+                "included_items": [
+                    "hammer",
+                    "pliers",
+                    "screwdrivers",
+                    "tape measure"
+                ],
+                "material_finish": "Heat treated and chrome plated",
+                "corrosion_resistant": true,
+                "storage_type": "plastic toolbox storage case",
+                "organization_feature": "tool compartments",
+                "portability": "lightweight with carrying handle",
+                "suitability": [
+                    "small repairs",
+                    "DIY projects"
+                ],
+                "gift_idea": true,
+                "color": "orange"
+            }
+        },
+        {
+            "product_name": "CARTMAN 39 Piece Tool Set General Household Hand Kit with Plastic Toolbox Storage Case Orange",
+            "product_details": {
+                "tool_count": 39,
+                "suitable_for": [
+                    "small repairs",
+                    "DIY projects"
+                ],
+                "tool_inclusion": [
+                    "hammer",
+                    "pliers",
+                    "screwdrivers",
+                    "tape measure"
+                ],
+                "durability": "Heat treated and chrome plated",
+                "corrosion_resistance": true,
+                "storage": "Plastic toolbox storage case",
+                "organization": "Easy tool organization",
+                "portability": "Lightweight with carrying handle",
+                "gift_idea": true
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "52a6636a0dda2b4f1c0e9cfd95aaf727",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: CARTMAN 39 Piece Tool Set General Household Hand Kit with Plastic Toolbox Storage Case Orange\n\nDescription: Comprehensive tool set: Includes all the tools you need for most small repairs and DIY projects, from a hammer, pliers and screwdrivers to a tape measure and many more.\n\nDurable and reliable: Heat treated and chrome plated to resist corrosion\n\nEasy organization: Comes with a plastic toolbox storage case to keep all your tools organized and securely stored.\n\nPortable and lightweight: The tool kit is lightweight and comes with a carrying handle, making it easy to take with you wherever you go.\n\nGreat gift idea: The tool set makes for a great gift idea for the DIY amateur or the avid handyman.\n\n\n›  See more product details",
+    "__pydantic_initialised__": true
+}

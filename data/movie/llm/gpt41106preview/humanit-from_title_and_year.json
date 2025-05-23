@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Humanité",
+    "descriptions": [
+        "\"Humanité\" is a 1999 French drama film directed by Bruno Dumont. The film is set in a small town in northern France and follows the life of Pharaon De Winter, a police lieutenant who is both gentle and deeply sensitive. De Winter is portrayed as a man of few words, suffering from a deep existential sadness after the death of his girlfriend and their child.\n\nThe plot is triggered by a tragic event: the rape and murder of an 11-year-old girl. This crime shocks the small community and De Winter is tasked with investigating the case. However, the film is less a conventional crime thriller and more a study of human nature and the condition of human suffering.\n\nDe Winter struggles not only with the investigation but also with his own emotions and loneliness. He seeks solace in the company of his neighbor, Domino, and her boyfriend, Joseph. The three form an unusual relationship, characterized by unspoken feelings and complex dynamics.\n\nThe film delves into themes of humanity, morality, and the search for meaning in a world marked by tragedy. Dumont's minimalist style, the slow pace, and the focus on the mundane aspects of daily life serve to heighten the emotional intensity and the philosophic underpinnings of the narrative. \"Humanité\" is regarded as a challenging and thought-provoking work that leaves a lasting impression on its audience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "30441b301a481382dff20b122f946029",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999",
+    "include_year": false
+}

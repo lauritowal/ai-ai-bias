@@ -1,0 +1,73 @@
+{
+    "item_type": "proposal",
+    "title": "The Survival of Damaged Medieval Polychromed Heritage in the Nordics",
+    "descriptions": [
+        {
+            "proposal_name": "The Survival of Damaged Medieval Polychromed Heritage in the Nordics",
+            "proposal_details": {
+                "project": "POLYCHROME",
+                "study_focus": [
+                    "Painted",
+                    "Gilded",
+                    "Christian images",
+                    "Wooden sculptures",
+                    "Panel paintings",
+                    "Shrines",
+                    "Winged altarpieces"
+                ],
+                "timeframe": "Since the Reformation",
+                "geographic_scope": [
+                    "Denmark",
+                    "Norway",
+                    "Sweden"
+                ],
+                "transformation": "From devotion to cultural heritage",
+                "heritage_risk": "Assessment of risk to cultural heritage",
+                "historical_events": [
+                    {
+                        "country": "Sweden",
+                        "event": "Break with church in Rome",
+                        "year": 1527,
+                        "leader": "Gustav I"
+                    },
+                    {
+                        "country": "Denmark-Norway",
+                        "event": "Break with church in Rome",
+                        "year": 1537,
+                        "leader": "Christian III"
+                    }
+                ],
+                "research_gap": "Status, volatility, and repairs of objects",
+                "hypothesis": "Damage linked to iconoclastic acts",
+                "current_assumptions": [
+                    "Accidents",
+                    "Unspecific vandalism"
+                ],
+                "challenges": [
+                    "Lack of archival evidence",
+                    "Secondary paints masking information"
+                ],
+                "methodology": "Technologies from natural sciences",
+                "objectives": [
+                    "Analytical overview of c. 150 polychromed objects",
+                    "Material data collection",
+                    "Mapping of restorations and repairs",
+                    "Establishment of foundations for multidisciplinary studies",
+                    "Debate about heritage values and future care"
+                ],
+                "expected_outcomes": [
+                    "Understand preserving effects of Lutheranism",
+                    "Influence training priorities"
+                ],
+                "descriptions": [
+                    "Project to determine if damages to Nordic polychromed Christian images are due to violence, accidents, or inherent weakness."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "cf04002c3c7d5f47c3770d7c48a09d21",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Survival of Damaged Medieval Polychromed Heritage in the Nordics\n\n**Description:**\n\nPOLYCHROME will study the shifting fortunes of richly painted and gilded (polychromed) Christian images that have survived in the Nordic countries since the Reformation. How have wooden sculptures, panel paintings, shrines, and winged altarpieces transformed from potent objects of devotion to cultural heritage? To what extent is this category of cultural heritage at risk? Values attached to Catholic devotional objects have fluctuated dramatically since Gustav I of Sweden and Christian III of Denmark-Norway declared a break with the church in Rome (1527 and 1537, respectively). However, documentary sources shed little light on changes in status, volatility, and repairs. POLYCHROME will take an ambitious leap that scholars concerned with polychromy in Denmark, Norway and Sweden have been reluctant to make: to determine the extent to which losses of noses, eyes and limbs are tied to iconoclastic acts. To date, historians and most conservators have attributed damage to accidents or unspecific vandalism, but not to targeted violence. This is due in part to a lack of archival evidence, but also because secondary paints often mask critical information on surfaces and in internal structures. POLYCHROME will harness technologies from the natural sciences to create, from the ground up, the first analytical overview of c. 150 polychromed objects that are (or potentially were) partially mutilated. The material data will offer essential foundations for determining whether damages and losses can be linked to violence, accidents or inherent weakness. The data will guide the mapping of restorations and repairs, and will establish foundations for multidisciplinary studies and cross-cultural debates about heritage values and the future care of religious heritage in the Nordics. The outcomes will complicate conversations about the preserving effects of Lutheranism on medieval devotional objects, and will influence training priorities for years to come."
+}

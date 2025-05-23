@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Satan in High Heels",
+    "descriptions": [
+        "\"Satan in High Heels\" (1962) is an exploitation film set in the gritty underbelly of the New York City nightclub scene. The story follows Stacey Kane, a cunning and ambitious woman with a troubled past. Eager to escape her life as a burlesque dancer and her abusive relationship, Stacey steals money from her boyfriend and sets off to reinvent herself in the big city.\n\nUpon her arrival in New York, she uses her seductive charm and ruthless cunning to manipulate men and climb the social ladder. Stacey lands a job as a singer at a trendy nightclub, where she quickly becomes the star attraction, drawing in crowds with her sultry performances and provocative demeanor.\n\nAs Stacey's power and influence grow, so does her ego and desire for control. She engages in a series of manipulative and destructive relationships with men, including a wealthy businessman and the club's owner. Her relentless pursuit of money and status leads to betrayal, heartbreak, and scandal.\n\nDespite her seemingly unstoppable ascent, Stacey's past eventually catches up with her, threatening to topple her newfound empire. \"Satan in High Heels\" is a tale of ambition, deception, and the price one pays for trying to outsmart the devil himself."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "2503aa2bfec3a5b555d76aa997fd3006",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 208.0 words or less.\n\n---\n\n**Title:**\n\nSatan in High Heels\n\n**Year:**\n\n1962",
+    "include_year": false
+}

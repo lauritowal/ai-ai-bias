@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Ánimas Trujano",
+    "descriptions": [
+        "\"Ánimas Trujano\" from 1962 is a Mexican drama that follows the life of a humble farmer named Trujano, who struggles to survive in the harsh desert landscape of northern Mexico. Despite harsh conditions and constant threats from bandits, Trujano works tirelessly to protect his family and land. The story unfolds through his daily struggles and moments of hope, weaving a tale of resilience and the human spirit. Trujano's journey is a poignant exploration of love, loss, and the fight for survival in a challenging environment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "8228f62331d6b3bb43b52d56cb1a3a00",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nÁnimas Trujano\n\n**Year:**\n\n1962",
+    "include_year": false
+}

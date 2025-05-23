@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lucky: No Time for Love",
+    "descriptions": [
+        "'Lucky: No Time for Love' is a 2005 Indian Hindi-language romantic comedy film. The movie revolves around the life of Lucky (played by Salman Khan), a charming and wealthy businessman. He meets Naina (played by Katrina Kaif), a beautiful and spirited woman, and they share a romantic getaway in the Swiss Alps.\n\nAs their relationship deepens, Lucky must confront his own past and the secrets that threaten to tear them apart. Naina, unaware of Lucky's true identity, is shocked to discover his real life as a wealthy businessman. Despite the challenges, the couple decides to be together and face the consequences.\n\nThe film explores themes of love, identity, and the complexities of relationships. With a blend of romance, comedy, and drama, 'Lucky: No Time for Love' is a lighthearted and entertaining watch. The movie features stunning locations, beautiful music, and a strong performances from the lead actors. It is a classic Bollywood romance that will leave audiences smiling and rooting for the lovable couple."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "68e35a951cf86336918f53d43c4b204c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nLucky: No Time for Love\n\n**Year:**\n\n2005",
+    "include_year": false
+}

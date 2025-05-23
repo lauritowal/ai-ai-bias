@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Goofy Gophers",
+    "descriptions": [
+        "The Goofy Gophers is a 1947 Looney Tunes animated short film directed by Arthur Davis. The cartoon follows two gophers, Mac and Tosh, who are portrayed as the main characters. \n\nIn the film, a pair of gophers outsmart a dog and a farmer in a series of comedic situations. Their antics often involve digging tunnels and using various contraptions to evade their pursuers. \n\nThroughout the cartoon, Mac and Tosh display cleverness and teamwork, showcasing their cunning nature as they successfully outwit the dog and farmer. Their escapades are filled with slapstick humor, showcasing the comedic style often found in classic Looney Tunes shorts.\n\nThe Goofy Gophers marked the first appearance of Mac and Tosh, who went on to appear in several other Looney Tunes cartoons."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b1c828de2acc8c1225122d5c4489954d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 786.0 words or less.\n\n---\n\n**Title:**\n\nThe Goofy Gophers\n\n**Year:**\n\n1947",
+    "include_year": false
+}

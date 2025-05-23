@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Severance",
+    "descriptions": [
+        "Severance is a 2006 British comedy horror film directed by Christopher Smith. The movie takes place in Eastern Europe, where a group of office workers from a weapons manufacturer, Palisade Defence, embark on a team-building retreat in the wilderness.\n\nThe group includes the uptight team leader, Richard (Tim McInnerny), his assistant, Maggie (Laura Harris), and several other coworkers. They are accompanied by a guide, Yanks (Andy Nyman), who appears unprepared and inexperienced. The team's goal is to participate in a series of bonding exercises and team-building activities in the forest.\n\nHowever, their trip quickly takes a turn for the worse. The group discovers that they are lost in the woods, and their guide seems to be hiding something. As tensions rise, they stumble upon a mysterious abandoned mine and decide to explore it. It becomes apparent that they are not alone in the forest, and they soon find themselves being hunted by a group of ruthless and sadistic Eastern European mercenaries who were once used as test subjects by Palisade Defence.\n\nThe group must fight for survival and try to find a way out of the forest. Along the way, they are picked off one by one, and the remaining survivors are forced to confront their own dark pasts and the true nature of their company's business.\n\nSeverance combines elements of horror, comedy, and satire, using the team-building retreat as a vehicle to comment on the darker aspects of corporate culture and the consequences of playing with fire. The film features a blend of witty dialogue, gruesome violence, and dark humor, making it a unique and entertaining take on the horror genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "21dbe032954b36bb5e5f40ecb6c75505",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 999.0 words or less.\n\n---\n\n**Title:**\n\nSeverance\n\n**Year:**\n\n2006",
+    "include_year": false
+}

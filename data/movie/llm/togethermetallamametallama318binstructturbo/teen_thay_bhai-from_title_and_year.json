@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Teen Thay Bhai",
+    "descriptions": [
+        "\"Teen Thay Bhai\" is a 2011 Indian comedy-drama film directed by Syed Ahmad Afzal. The movie revolves around three brothers, all of whom are eccentric and flawed in their own ways. \n\nThe eldest brother, Sanjay (played by Deepak Dobriyal), is an obsessive-compulsive disorder patient who is extremely cleanliness-conscious. The middle brother, Raja (played by Ravi Shastri), is a complete opposite; he is a drunken and a slobbering mess. The youngest brother, Pappu (played by Manoj Bajpayee), is a corrupt and scheming individual who makes a living by scamming people.\n\nWhen their father passes away, the brothers are forced to come together to settle his estate. However, their petty squabbles and disagreements hinder their efforts to do so. As they navigate through their father's will, they are surprised to discover that they have inherited a large estate in the city.\n\nHowever, their plans to sell the estate are foiled when a woman, Anjali (played by Sena Das), appears claiming to have been the brothers' father's long-lost lover and wife. The brothers are now forced to navigate the complex web of their family's history and their own relationships with each other.\n\nThroughout the movie, the brothers' eccentricities and quirks are on full display, leading to comedic situations and moments of drama. In the end, the brothers are forced to confront their own flaws and weaknesses in order to come to terms with their past and move forward."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "687c61c2345c9dc90d9c232d0c01a7d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 322.0 words or less.\n\n---\n\n**Title:**\n\nTeen Thay Bhai\n\n**Year:**\n\n2011",
+    "include_year": false
+}

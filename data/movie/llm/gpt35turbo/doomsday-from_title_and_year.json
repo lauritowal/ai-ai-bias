@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Doomsday",
+    "descriptions": [
+        "In the year 2008, a deadly virus known as the \"Reaper Virus\" breaks out in Scotland, leading to the government quarantining the entire country to prevent the spread of the disease. Thirty years later, the virus resurfaces in London, prompting the government to send a team led by Major Eden Sinclair to Scotland to find a cure.\n\nAs Sinclair and her team venture into the quarantined zone, they discover a society of survivors who have turned to cannibalism to survive. They also encounter a group of heavily armed soldiers led by a man named Sol, who claims to have a cure for the virus. However, Sol's true intentions are revealed when he captures Sinclair and reveals that he plans to use the cure as leverage to gain control of the outside world.\n\nSinclair manages to escape and, with the help of a survivor named Kane, sets out to find the true source of the virus and a way to stop it once and for all. Along the way, they encounter various obstacles, including a ruthless gang of survivors and a group of genetically engineered soldiers known as the \"Reapers.\"\n\nAs Sinclair and Kane race against time to find a cure, they uncover a shocking truth about the origins of the virus and the government's role in its creation. With the fate of the world hanging in the balance, Sinclair must make a difficult choice between saving humanity or succumbing to the chaos that threatens to consume them all.\n\nIn a final showdown with Sol and his soldiers, Sinclair and Kane must use all their skills and determination to defeat their enemies and prevent the virus from spreading beyond Scotland. In the end, they succeed in finding a cure and bringing hope to a world on the brink of destruction.\n\n\"Doomsday\" is a thrilling and action-packed movie that explores themes of survival, sacrifice, and redemption in the face of a global catastrophe. It is a story of courage, resilience, and the power of humanity to overcome even the most dire of circumstances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1e1098274ef51269a16834893185e80c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nDoomsday\n\n**Year:**\n\n2008",
+    "include_year": false
+}

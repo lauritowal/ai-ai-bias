@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Small Town Story",
+    "descriptions": [
+        "'Small Town Story' is a 1953 British film about a football team in a small town. The story revolves around a struggling football team in a small English town. When the team's owner, a wealthy businessman, threatens to withdraw his financial support, the team's future hangs in the balance.\n\nIn a desperate attempt to save the team, the players and fans come together to raise the necessary funds. However, their efforts are put in jeopardy when a rival businessman tries to sabotage their plans and take control of the team for himself.\n\nAs the team faces numerous challenges on and off the field, the community rallies around them in a show of support. The film ends on a hopeful note, with the team's spirit and determination ultimately prevailing over adversity.\n\n'Small Town Story' is a heartwarming tale of community spirit, perseverance, and the power of football to bring people together. The film celebrates the importance of local identity and the role that sports can play in fostering a sense of belonging and pride.\n\nWhile the plot may seem simple, 'Small Town Story' is a charming and engaging film that explores themes of community, friendship, and the love of football. The film's portrayal of small-town life in 1950s England adds to its nostalgic charm, making it a delightful watch for fans of classic British cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "64717fa2414cd2ae1f91dc1ba7532160",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 419.0 words or less.\n\n---\n\n**Title:**\n\nSmall Town Story\n\n**Year:**\n\n1953",
+    "include_year": false
+}

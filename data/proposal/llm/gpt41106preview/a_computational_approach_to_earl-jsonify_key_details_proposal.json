@@ -1,0 +1,72 @@
+{
+    "item_type": "proposal",
+    "title": "A computational approach to early language bootstrapping",
+    "descriptions": [
+        {
+            "proposal_name": "A computational approach to early language bootstrapping",
+            "proposal_details": {
+                "descriptions": [
+                    "The project constructs a model to simulate the early language acquisition process in infants, which is then tested on speech databases and through infant behavioral and neurological studies."
+                ],
+                "infant_age_months": [
+                    6,
+                    9,
+                    12
+                ],
+                "language_databases": [
+                    "Japanese",
+                    "French",
+                    "Dutch"
+                ],
+                "research_methods": [
+                    "Machine Learning",
+                    "Automatic Speech Recognition",
+                    "behavioral studies",
+                    "EEGs",
+                    "fNIRS"
+                ],
+                "subprojects": [
+                    {
+                        "coding": {
+                            "focus": "defining coding features for speech",
+                            "range": [
+                                "fine-grained",
+                                "coarse-grained"
+                            ]
+                        }
+                    },
+                    {
+                        "lexicon": {
+                            "focus": "word segmentation in raw speech",
+                            "infant_lexicon_characteristic": "large and different from adult lexicon"
+                        }
+                    },
+                    {
+                        "rules": {
+                            "focus": "predictive model of coarticulation in auditory space",
+                            "process": "reverse coarticulation"
+                        }
+                    },
+                    {
+                        "integration": {
+                            "focus": "iteratively integrate approximate representations for phonemes, words, and contextual rules",
+                            "assessment": "numerical assessment on adult directed and infant directed speech database"
+                        }
+                    }
+                ],
+                "prediction_testing": {
+                    "methods": [
+                        "artificial languages",
+                        "longitudinal study"
+                    ],
+                    "comparative_analysis": "state-of-the-art supervised phoneme recognizers"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "054025529b55d0c0cae56a31df95b3e9",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nA computational approach to early language bootstrapping\n\n**Description:**\n\nDuring their first year of life, infants become attuned to the phonemes, words and phonological rules of their language, with little or no adult supervision. After 30 years of accumulated experimental results, we are still lacking an account for the puzzling fact that these 3 interdependent components of language are acquired not sequentially, but in parallel. Drawing tools from Machine Learning and Automatic Speech Recognition, we construct a model of this early process, test it on 2 large spontaneous speech databases (Japanese, French and Dutch) and test its predictions in infants using behavioral, EEGs and fNIRS techniques. 1. Coding. We study different ways of defining coding features for speech, from fine-grained to coarse grained, in view of the automatic discovery of a hierarchy of linguistic units. We compare this with a systematic study of the units of speech coding as they unfold in 6, 9 and 12 month old infants.. 2. Lexicon. Infants recognize some words before they know the phonemes of their language; we modify existing word segmentation algorithms so they can work on raw speech. We test the unique prediction that infants start with a large lexicon that’s quite different from the adult one. 3. Rules. Phonemes are produced as overlapping, coarticulated gestures. To untangle these context effects, we use a predictive model of coarticulation in auditory space and invert it. We test when and how infants perform reverse coarticulation. 4. Integration. The above subprojects provide only an initial bootstrapping into approximate phonemes, words, and contextual rules. We show how to iteratively integrate these approximate representations to derive better ones. The outcome will be numerically assessed on an adult directed and infant directed speech database, and compared to those of to state-of-the-art supervized phoneme recognizers. The predictions will be tested in infants learning artificial languages and in a longitudinal study."
+}

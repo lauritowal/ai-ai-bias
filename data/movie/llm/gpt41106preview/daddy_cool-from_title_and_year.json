@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daddy Cool",
+    "descriptions": [
+        "\"Daddy Cool\" is a 2009 Indian comedy film that takes place against the backdrop of a funeral. The movie follows the life of Steven Lazarus, whose father's death becomes the catalyst for a series of comedic and dramatic events. As the Lazarus family comes together to arrange the final rites, various members with their quirks and hidden agendas turn the solemn occasion into a chaotic and humorous spectacle.\n\nWith relatives arriving from different parts of the world, the funeral home becomes a melting pot of personalities, each with their own eccentricities. Among them is Steven's brother Brian, a struggling writer, along with a host of other colorful characters including a hyperactive youngster, a wannabe rock band, a seductive neighbor, and a dysfunctional couple.\n\nAmidst the ensuing mayhem, Steven tries to keep the peace and give his father a dignified farewell. However, misunderstandings and misplaced priorities lead to a series of laugh-out-loud mishaps. As the funeral proceedings go haywire, the Lazarus family is forced to confront their differences and find a way to come together in their time of grief.\n\n\"Daddy Cool\" is a comedy-drama that explores themes of family, reconciliation, and the unpredictable nature of life, all under the guise of a funerary farce."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "0a1b41ca8b850243987cd2bca5649dd9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 219.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009",
+    "include_year": false
+}

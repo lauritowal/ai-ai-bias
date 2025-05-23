@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daddy Cool",
+    "descriptions": [
+        " In 2009, the Indian comedy-drama \"Daddy Cool\" unfolds the story of a quirky, loving father, played by Suniel Shetty, who is unexpectedly reunited with his family after being presumed dead for years. In reality, he had been working as an undercover cop, keeping a low profile to protect his loved ones from dangerous criminals.\n\nWhen he finally returns home, he finds that his family has moved on without him. His wife, played by Javed Jaffrey, has remarried and his children, played by Aarti Chabria, Tulip Joshi, and Prem Kaa Game, have grown up with their new stepfather. However, his family's newfound happiness is threatened when the same criminal gang he once infiltrated resurfaces, forcing him to balance his undercover work with reconnecting with his family.\n\nAs he struggles to win back his family's love and trust, he also must protect them from the dangerous criminals who are hell-bent on revenge. Along the way, he discovers that his family is his true identity, and he will do anything to keep them safe.\n\n\"Daddy Cool\" is a heartwarming and hilarious film that celebrates the importance of family, even in the face of adversity. With its engaging storyline and talented cast, this movie is a must-watch for anyone looking for a feel-good comedy with a twist."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "0a1b41ca8b850243987cd2bca5649dd9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 219.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Love Exposure",
+    "descriptions": [
+        "Love Exposure is a 2008 Japanese romantic comedy-drama film written and directed by Sion Sono. The film revolves around Yu Honda, an introverted and socially awkward high school student, who struggles to connect with others. His life changes after his father, a priest, starts pressuring him to confess his sins. In an attempt to gain experience in sinning, Yu starts taking upskirt photographs of women's skirts in public, wearing a woman's disguise.\n\nYu's double life leads him to cross paths with Yoko, a beautiful and fiery punk girl who initially despises him for his perverted actions. However, they develop a complex and intense relationship after Yu saves her from a group of thugs. The two form an unbreakable bond, and their relationship becomes the central plot point in the film.\n\nAs the story unfolds, it is revealed that Yoko has her own share of emotional baggage, with a dark past that has left her with deep emotional scars. The two begin to open up to each other, sharing their innermost fears, desires, and insecurities. Their connection grows stronger, and they start to explore the complexities of love, relationships, and the blurred lines between right and wrong.\n\nMeanwhile, a mysterious cult, led by a charismatic figure known as Koike, emerges in the background, exerting a profound influence on Yoko's life. The cult's manipulative tactics threaten to disrupt Yu and Yoko's blossoming relationship, forcing them to confront their deepest fears and insecurities.\n\nLove Exposure is a thought-provoking exploration of love, relationships, and the complexities of the human condition. Through the lens of Yu and Yoko's tumultuous relationship, the film delves into themes of identity, morality, and the power dynamics of relationships. With its eclectic blend of dark humor, poignant drama, and offbeat romance, Love Exposure has become a cult classic in Japanese cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "b3cdb8a0833993acab5c60fe65755f9e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 546.0 words or less.\n\n---\n\n**Title:**\n\nLove Exposure\n\n**Year:**\n\n2008",
+    "include_year": false
+}

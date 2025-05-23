@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eating Out 5: The Open Weekend",
+    "descriptions": [
+        "In \"Eating Out 5: The Open Weekend\" (2011), Zack and his boyfriend Ben decide to spice up their relationship by attending a gay retreat for a weekend. Upon arrival, they meet a diverse group of characters, including the flirtatious Lilith and her girlfriend, the conservative Penny. As the weekend progresses, Zack finds himself drawn to Casey, a handsome and charming guy who is also attending the retreat.\n\nAs the group participates in various activities and workshops, tensions rise as secrets are revealed and relationships are tested. Zack struggles with his feelings for Casey, unsure of whether he should act on them and risk hurting Ben. Meanwhile, Lilith and Penny navigate their own issues, leading to unexpected twists and turns in their relationships.\n\nThroughout the weekend, the characters confront their fears, insecurities, and desires, ultimately coming to a better understanding of themselves and their partners. Zack must make a choice between staying with Ben, who he loves, or pursuing a new connection with Casey. As the weekend comes to a close, relationships are redefined, hearts are broken, and new bonds are formed in this romantic comedy about love, attraction, and self-discovery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "13400134e181445799c0d6432aa8911b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 234.0 words or less.\n\n---\n\n**Title:**\n\nEating Out 5: The Open Weekend\n\n**Year:**\n\n2011",
+    "include_year": false
+}

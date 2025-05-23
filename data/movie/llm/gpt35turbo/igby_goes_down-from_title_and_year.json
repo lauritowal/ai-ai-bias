@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Igby Goes Down",
+    "descriptions": [
+        "\"Igby Goes Down\" is a coming-of-age dark comedy film released in 2002. The movie follows the story of Igby Slocumb, a rebellious and intelligent teenager who is fed up with his wealthy and dysfunctional family. Igby struggles to find his place in the world while dealing with his mentally ill mother, Mimi, and his domineering older brother, Oliver.\n\nThe film begins with Igby being expelled from yet another prestigious boarding school. Igby decides to run away from home and ends up living in New York City, where he explores his independence and tries to figure out what he wants from life. Along the way, he meets and becomes romantically involved with Sookie, a free-spirited artist who challenges his perspective on the world.\n\nAs Igby navigates through the complexities of adulthood, he is forced to confront his troubled family history. His father, Jason, is a neglectful figure who is more interested in his own career than in being a father to his sons. Igby's relationship with his mother, Mimi, is strained due to her mental illness and substance abuse problems. His brother, Oliver, is a successful businessman who embodies everything Igby despises about their privileged upbringing.\n\nThroughout the film, Igby struggles to find his identity and purpose in life. He rebels against the expectations of his family and society, choosing to follow his own path instead. As he grapples with issues of love, loss, and betrayal, Igby learns valuable lessons about the importance of self-discovery and authenticity.\n\nIn the end, Igby must confront his past in order to move forward and create a future for himself. The film concludes with Igby making a decision that will shape the course of his life and relationships. \"Igby Goes Down\" is a poignant and thought-provoking film that explores the challenges of growing up and finding one's place in the world amidst a backdrop of privilege and dysfunction."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c67777baafcc73035d776c6cd8d74ac3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 382.0 words or less.\n\n---\n\n**Title:**\n\nIgby Goes Down\n\n**Year:**\n\n2002",
+    "include_year": false
+}

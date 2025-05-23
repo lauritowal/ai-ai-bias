@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Doomsday",
+    "descriptions": [
+        "'Doomsday' is a 2008 science fiction action film directed by Neil Marshall. The movie takes place in a post-apocalyptic Scotland and England, where a deadly virus has spread across the United Kingdom, forcing the government to seal off Scotland and quarantine the infected.\n\nThe story begins in 2008, where Major Eden Sinclair (Rhona Mitra) is a skilled and tough-as-nails soldier who witnesses the devastating effects of the virus firsthand. The infected quickly turn into violent, zombie-like creatures, and the UK government decides to isolate the outbreak by building a massive wall across the border between England and Scotland.\n\n27 years later, in 2035, the virus reemerges in London, and the government becomes desperate to find a cure. They learn that a possible cure might be found in a research facility in Scotland, where a scientist named Dr. Marcus Kane (Malcolm McDowell) has been working on a cure.\n\nMajor Sinclair is tasked with leading a team of commandos, including Sean Pertwee, Adrian Lester, and MyAnna Buring, into the quarantined zone to retrieve Dr. Kane and his research. However, upon entering the quarantined zone, they realize that the infected are not the only dangers they will face. A group of marauders, led by a ruthless leader named Sol (Craig Conway), have taken over the area and will stop at nothing to kill them.\n\nAs Major Sinclair and her team navigate the treacherous landscape of post-apocalyptic Scotland, they encounter numerous obstacles, including the infected, the marauders, and the remnants of a medieval society that has formed in the ruins of an old castle. Along the way, they also discover that Dr. Kane has been hiding secrets that threaten the entire mission.\n\n'Doomsday' is a fast-paced, action-packed film that combines elements of science fiction, horror, and adventure. With its intense action sequences and dark atmosphere, the movie is a thrilling ride from start to finish."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1e1098274ef51269a16834893185e80c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nDoomsday\n\n**Year:**\n\n2008",
+    "include_year": false
+}

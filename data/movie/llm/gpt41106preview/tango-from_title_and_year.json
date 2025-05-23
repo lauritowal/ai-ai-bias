@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tango",
+    "descriptions": [
+        "\"Tango,\" released in 1998, is a dramatic film that delves into the passionate world of tango dancing, set against the backdrop of Buenos Aires, Argentina. The story centers around Mario Suárez, a middle-aged Argentine film director who is going through a personal crisis after his wife leaves him. Seeking solace and distraction, he throws himself into directing a new film about tango.\n\nThe film within the film explores the art of the dance as well as the lives and emotions of the dancers, reflecting Mario's own turmoil and search for meaning. As he becomes engrossed in the project, Mario meets Elena Flores, a beautiful young dancer who is the girlfriend of the film's main investor, Angelo Larroca. A powerful and dangerous man, Larroca has a deep connection with the underworld.\n\nMario and Elena's shared love for tango leads to a complex and intense relationship, with the dance serving as a metaphor for their desire and struggle. Through the interplay of narrative and dance sequences, we witness the characters' stories of love, betrayal, and redemption, all set to the rhythm and emotion of tango music.\n\n\"Tango\" is a visually stunning film, directed by Carlos Saura, that not only showcases the elegance and sensuality of the dance but also portrays the rich cultural tapestry of Argentinean society. The film earned an Academy Award nomination for Best Foreign Language Film, recognizing its artistic achievement and powerful storytelling."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "6d8481f5b2978e83569dfeae6fea9b4e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998",
+    "include_year": false
+}

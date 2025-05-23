@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pyaar Ke Side Effects",
+    "descriptions": [
+        "\"Pyaar Ke Side Effects\" is a 2006 romantic comedy that delves into the humorous and sometimes chaotic aftermath of falling in love. The story follows Ravi, a doting doctor, who has all his life focused on his career and his love for his work. When he meets Priya, a free-spirited artist, their mutual attraction is immediate but is met with resistance from Ravi's traditional family and Priya's bohemian friends. \n\nAs Ravi and Priya navigate the ups and downs of their relationship, they both experience the unexpected side effects of love. Ravi, who has never had to balance his personal life with his professional responsibilities, must now learn to set boundaries and find a new balance that allows him to be himself while still being with Priya. Meanwhile, Priya's artistic nature and love for spontaneity clash with Ravi's structured lifestyle, leading to a series of amusing incidents and misunderstandings.\n\nThe film explores themes of compromise, communication, and the challenges of long-distance relationships. As Ravi and Priya face the tests that love presents, they discover the true meaning of sacrifice and the importance of understanding each other's worlds. The movie is filled with heartfelt moments, witty dialogues, and a mix of laughter and tears, all set against the backdrop of the vibrant Indian cityscape. Ultimately, \"Pyaar Ke Side Effects\" is a charming tale about how love can transform lives and bring people closer, despite the obstacles it may present."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "945de2a97984919b6ffe7fed2110f877",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 356.0 words or less.\n\n---\n\n**Title:**\n\nPyaar Ke Side Effects\n\n**Year:**\n\n2006",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Law of Desire",
+    "descriptions": [
+        "\"Law of Desire\" (1987) is a Spanish-language drama film directed by Pedro Almodóvar, a pivotal figure in the cinematic movement known as La Movida Madrileña. The film delves into themes of complex human emotions, sexual identity, and passionate romance, and is often celebrated for its bold narrative and visual style, which are characteristic of Almodóvar's work.\n\nThe plot revolves around Pablo Quintero, a successful gay film director, who becomes entangled in a web of desire, jealousy, and obsession. Pablo's life is deeply complicated by his relationships with two individuals: his transgender sister Tina, who is dealing with her own set of emotional and personal struggles, and a young, attractive man named Antonio.\n\nAntonio, who becomes infatuated with Pablo after a sexual encounter, is unable to manage his intense and unreciprocated feelings. This leads to a tumultuous sequence of events, as Antonio's obsession grows increasingly dangerous and destructive. Meanwhile, Tina's role as a caretaker for her niece and her efforts to reconcile with her past add an additional layer of complexity to the dynamic between the characters.\n\nAs the film unfolds, the characters' lives intertwine in a narrative that explores the interplay between love, lust, and the darker aspects of human desire. The film challenges traditional norms and societal expectations, offering a candid look at the characters' personal struggles with identity and the pursuit of happiness.\n\n\"Law of Desire\" is notable for its exploration of LGBTQ+ themes at a time when such topics were not widely represented in cinema, making it a significant and provocative work that helped to establish Almodóvar as a leading voice in contemporary filmmaking."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7107452f99d623335591578519e319e5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 285.0 words or less.\n\n---\n\n**Title:**\n\nLaw of Desire\n\n**Year:**\n\n1987",
+    "include_year": false
+}

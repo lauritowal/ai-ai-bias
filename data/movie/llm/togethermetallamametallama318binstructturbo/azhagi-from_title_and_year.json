@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Azhagi",
+    "descriptions": [
+        "Azhagi is a 2002 Indian Tamil-language drama film directed by R. K. Selvamani. The movie revolves around Kavin (played by Arjun), a visually impaired man who lives with his mother. His mother's death sparks a chain of events, and Kavin's life is turned upside down.\n\nKavin's sister, Rukmini (played by Maheswari), is forced to marry a wealthy man, Ramu (played by Pasupathy), due to family circumstances. However, Ramu is already married, and his wife is mentally unstable. The situation puts Rukmini in a difficult position, and she struggles to cope with her new life.\n\nAs the story unfolds, Kavin falls in love with a woman named Ponnu (played by Sridevi), who is a kind-hearted and caring individual. Despite their differences, they start a romantic relationship.\n\nThe film explores themes of love, family, and social class. Kavin's visual impairment serves as a metaphor for the societal barriers that people with disabilities often face. The movie highlights the difficulties and challenges that arise when people with disabilities try to navigate their way through the world.\n\nAzhagi features a mix of drama, romance, and social commentary. The film's title, Azhagi, means \"beautiful\" in Tamil, which is a reference to Ponnu's kind heart and gentle nature. Overall, the movie is a poignant portrayal of the struggles and triumphs of people with disabilities and those who love them."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3ff1ae95bab7b9f051e07505e41f04af",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nAzhagi\n\n**Year:**\n\n2002",
+    "include_year": false
+}

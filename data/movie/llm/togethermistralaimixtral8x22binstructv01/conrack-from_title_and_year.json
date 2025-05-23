@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Conrack",
+    "descriptions": [
+        " In the heartwarming drama \"Conrack\" (1974), Pat Conroy, a young white teacher, is assigned to remote Yamacraw Island, home to poor Gullah descendants with a distinct African culture. Initially met with distrust and resistance, Conroy, nicknamed \"Conrack,\" struggles to connect with his unruly students, who speak a unique dialect and have little formal education.\n\nUndeterred, Conroy employs unconventional teaching methods, like singing and storytelling, and introduces his students to new experiences, such as a field trip to the mainland. As he gains their trust, Conroy discovers the children's potential and becomes determined to break the cycle of poverty and illiteracy. However, his efforts to modernize their education clash with the traditional Gullah way of life, causing tension with the island's elders.\n\n\"Conrack\" is a poignant exploration of cultural differences, the power of education, and the transformative impact of one teacher's dedication to his students. Based on Pat Conroy's memoir, \"The Water is Wide,\" the film delicately balances humor and heartache, offering a captivating portrait of resilience and the human spirit."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "7aa3bb1ffec85a45083e5fcb12ddc053",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 212.0 words or less.\n\n---\n\n**Title:**\n\nConrack\n\n**Year:**\n\n1974",
+    "include_year": false
+}

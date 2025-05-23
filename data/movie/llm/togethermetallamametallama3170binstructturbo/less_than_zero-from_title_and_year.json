@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Less Than Zero",
+    "descriptions": [
+        "'Less Than Zero' is a 1987 American drama film directed by Marek Kanievska. The movie follows three college friends - Clay Easton (Andrew McCarthy), Julian Kaye (Robert Downey Jr.), and Blair (Jami Gertz) - who reconnect during the Christmas break in Los Angeles.\n\nUpon returning home, Clay discovers that Julian, who was once a charismatic and confident friend, has now become a cocaine addict. Despite his wealthy family's luxurious lifestyle, Julian's addiction has led him down a path of self-destruction. Blair, who had a romantic relationship with Julian in the past, tries to help him, but her efforts are hindered by her own complicated feelings.\n\nAs the story unfolds, Clay tries to intervene and save Julian from his downward spiral, but it becomes increasingly difficult. The film is a poignant portrayal of the consequences of addiction and the complexities of friendship. 'Less Than Zero' received critical acclaim, particularly for Robert Downey Jr.'s powerful performance as the troubled Julian Kaye.\n\nThe movie serves as a commentary on the excesses of 1980s Los Angeles, as well as the devastating effects of addiction on individuals and those around them. Despite the bleak subject matter, 'Less Than Zero' remains a haunting and thought-provoking drama that explores the complexities of human relationships and the struggles of adulthood."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d260d34976214898d44d1d95eba9dc69",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 260.0 words or less.\n\n---\n\n**Title:**\n\nLess Than Zero\n\n**Year:**\n\n1987",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cameron's Closet",
+    "descriptions": [
+        "'Cameron's Closet' is a 1988 American made-for-television horror film directed by Robert M. Young. The movie revolves around a young boy named Cameron (played by Jason Scott Lee) who discovers a supernatural presence in his bedroom closet. \n\nCameron soon starts experiencing strange and terrifying events. The main source of fear seems to be his closet, where he finds evidence of a malevolent spirit. Cameron initially tries to ignore the supernatural occurrences but eventually decides to investigate the source of the problem.\n\nAs the events escalate, Cameron's friends and family become increasingly concerned about his well-being. They soon realize that the spirit in the closet is indeed causing harm and decide to take action to protect Cameron. However, their efforts are thwarted by a mysterious figure who seems to be connected to the supernatural entity.\n\nThroughout the movie, the atmosphere becomes increasingly tense as the supernatural events intensify. Ultimately, Cameron must face the malevolent spirit head-on to put an end to the terror and restore peace to his life. The movie culminates in a climactic confrontation between Cameron and the evil presence.\n\n'Cameron's Closet' is often associated with the 'Closet Monster' urban legend, which involves a person's closet being a hub for supernatural activity. The film serves as a classic representation of the legend and has become a cult favorite among horror fans. While it may not be a groundbreaking horror movie, 'Cameron's Closet' delivers a chilling experience with its blend of mystery, suspense, and supernatural terror.\n\n'Cameron's Closet' may be a lesser-known horror film, but it provides an engaging narrative and a unique spin on the supernatural genre. The movie's eerie atmosphere, coupled with its exploration of the supernatural, makes it a compelling watch for fans of horror and mystery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "9b62d3d490eee066c71aa9d5a7a69e5c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 540.0 words or less.\n\n---\n\n**Title:**\n\nCameron's Closet\n\n**Year:**\n\n1988",
+    "include_year": false
+}

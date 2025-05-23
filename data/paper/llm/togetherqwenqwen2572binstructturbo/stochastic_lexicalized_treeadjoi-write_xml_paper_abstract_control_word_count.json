@@ -1,0 +1,12 @@
+{
+    "item_type": "paper",
+    "title": "Stochastic Lexicalized Tree-Adjoining Grammars",
+    "descriptions": [
+        "It seems there is a significant issue with the provided XML content, as it is incomplete and does not contain a coherent structure or full text of an academic paper. The snippet provided is very minimal and does not contain enough information to create a meaningful abstract. Typically, an abstract summarizes the key points of a research paper, including the introduction, methods, results, and conclusions. \n\nIf you can provide the full XML content or a more complete version of the paper, I would be happy to help you create an abstract. If you have the text of the paper in another format, such as plain text or a different XML structure, please share that, and I can assist you further."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "ee990ad6f4e196d080a8136937c99a7f",
+    "generation_prompt_nickname": "write_xml_paper_abstract_control_word_count",
+    "generation_prompt_text": "Read the following academic paper provided in XML format and create an abstract for it.\n\nPlease limit the response to 5396 words or less.\n\n---\n\n**Description:**\n\n<PAPER>\n\t<S sid=\"0\">Stochastic Lexicalized Tree-Adjoining Grammars</S><SECTION title=\"If b\\[..7\\] ~ t\\[..Talt\\[$7~\\]: l(b, 7, i,j,k,I)=. \" number=\"3\">\n</SECTION>\n</PAPER>"
+}

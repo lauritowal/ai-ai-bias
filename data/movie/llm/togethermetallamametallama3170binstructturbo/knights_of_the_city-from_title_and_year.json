@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Knights of the City",
+    "descriptions": [
+        "\"Knights of the City\" is a 1986 American drama film. The movie revolves around a former breakdancing champion named Troy, who gets out of prison after serving time for a crime he did not commit. Troy is determined to turn his life around and open a breakdancing school for underprivileged kids.\n\nHowever, his plans are threatened when a rival dance crew, led by a ruthless gang leader, starts causing trouble in the neighborhood. Troy is forced to confront his past and the gang leader, and in the process, he must defend his dance school and the kids who look up to him as a mentor.\n\nAs Troy navigates the challenges he faces, he finds love and support from a local social worker who helps him get his life back on track. With the help of his friends and the community, Troy is able to overcome the obstacles in his path and create a positive future for himself and the kids he cares about.\n\n\"Knights of the City\" is a classic underdog story that showcases the power of perseverance, dance, and community, set against the vibrant backdrop of 1980s breakdancing culture."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "7b1a5ded30013ad458daffe0609dbf25",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 684.0 words or less.\n\n---\n\n**Title:**\n\nKnights of the City\n\n**Year:**\n\n1986",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tirangaa",
+    "descriptions": [
+        " In the bustling city of Mumbai, India, \"Tirangaa\" (1992) unfolds as a gripping patriotic action thriller. The plot revolves around Brigadier Suryadev Singh (played by Raaj Kumar), a war hero who is entrusted with the task of safeguarding the nation's security.\n\nThe story takes a dramatic turn when a sinister terrorist organization, led by the ruthless international terrorist Javahar Laal (played by Narendra Bedi), plans to detonate a series of devastating bombs across India, intending to cripple the nation and create chaos. The terrorists also kidnap the nation's top nuclear scientist, Dr. Shastri, to force him into developing a powerful nuclear weapon for their nefarious purposes.\n\nMeanwhile, Suryadev's daughter, Shweta (played by Heera Rajgopal), is in love with a daring and upright police officer, Ajay (played by Harish Kumar). When Ajay learns of the terrorist plot, he teams up with Suryadev to thwart the terrorists' plans and rescue Dr. Shastri.\n\nAs the clock ticks down, Ajay and Suryadev race against time to locate the bombs, with Ajay also determined to apprehend Javahar Laal and bring him to justice. In a thrilling climax, the duo manages to disarm the bombs, rescue Dr. Shastri, and neutralize Javahar Laal and his terrorist organization.\n\n\"Tirangaa\" is an ode to the spirit of patriotism and the unwavering commitment of the nation's protectors. The film showcases the bravery and selflessness of its characters, as they risk their lives to safeguard the nation and its people. The movie is a testament to the enduring power of unity, courage, and love for one's country, and serves as a reminder of the sacrifices made by the brave men and women who serve to protect the nation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "e29bdb8658ec308e3ca0d6c7947ebc09",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 293.0 words or less.\n\n---\n\n**Title:**\n\nTirangaa\n\n**Year:**\n\n1992",
+    "include_year": false
+}

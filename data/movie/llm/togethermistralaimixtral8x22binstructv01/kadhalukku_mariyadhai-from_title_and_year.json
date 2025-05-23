@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kadhalukku Mariyadhai",
+    "descriptions": [
+        " \"Kadhalukku Mariyadhai\" is a 1997 Tamil romantic drama film directed by Fazil. The story revolves around Jeeva (Vijay) and Mini (Shalini), who hail from contrasting backgrounds. Jeeva is a carefree youngster who enjoys life with his friends, while Mini belongs to a conservative Christian family and is studying to be a nurse.\n\nTheir paths cross when Mini saves Jeeva's friend from an accident, and they develop a deep affection for each other. However, their love story faces several obstacles due to their differing cultural and religious backgrounds. Mini's strict and orthodox father (S.P. Balasubrahmanyam) is against their relationship, seeing it as a threat to their family's reputation and beliefs.\n\nDespite the challenges, Jeeva and Mini remain steadfast in their love for each other. Jeeva, with his persistent and respectful approach, gradually wins over Mini's siblings and mother, who begin to see his sincerity and genuine love for Mini.\n\nHowever, their happiness is short-lived when Mini's father discovers their relationship. In a fit of rage, he sends Mini away to her uncle's house in Ooty to separate them. Jeeva, heartbroken but undeterred, follows her to Ooty, where he is met with hostility from Mini's uncle and cousins.\n\nThrough a series of dramatic events, Jeeva manages to prove his love and commitment to Mini, and her family finally accepts their relationship. The film ends with their joyous wedding, symbolizing their triumph over the societal and familial barriers that once threatened to separate them.\n\n\"Kadhalukku Mariyadhai\" is a heartwarming tale of love and respect, emphasizing the importance of understanding and acceptance in relationships. The film was a huge commercial success and won several awards, including the National Film Award for Best Film on Family Welfare and six Tamil Nadu State Film Awards."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "5941eebdbee11d1110d050b440a2a479",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 326.0 words or less.\n\n---\n\n**Title:**\n\nKadhalukku Mariyadhai\n\n**Year:**\n\n1997",
+    "include_year": false
+}

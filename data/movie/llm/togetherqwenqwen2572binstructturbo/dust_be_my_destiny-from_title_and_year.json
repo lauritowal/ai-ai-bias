@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dust Be My Destiny",
+    "descriptions": [
+        "\"Dust Be My Destiny,\" a 1939 Western, follows Tom Logan, a man with a mysterious past, as he rides into a small, dusty town on the edge of the frontier. His arrival stirs up local tensions, particularly with the town's corrupt sheriff, who has a tight grip on the community and its resources. Tom, known for his quick draw and unyielding sense of justice, finds himself drawn into a conflict that threatens to expose the dark secrets of the town and its residents.\n\nAs Tom delves deeper into the town's problems, he allies with a local schoolteacher, Mary, who shares his desire to see the town freed from the sheriff's tyranny. Together, they work to rally the townspeople and stand up against the corrupt officials. However, Tom's past catches up with him, revealing a connection to the sheriff that complicates his mission.\n\nThe film culminates in a tense showdown where Tom must confront not only the sheriff but also his own demons to bring peace to the town and find his true destiny."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "37f48d83395a2832f25566b3d441031d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nDust Be My Destiny\n\n**Year:**\n\n1939",
+    "include_year": false
+}

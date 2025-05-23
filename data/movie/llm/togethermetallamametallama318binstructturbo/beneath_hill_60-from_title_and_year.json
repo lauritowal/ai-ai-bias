@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Beneath Hill 60",
+    "descriptions": [
+        "'Beneath Hill 60' is a 2010 Australian war drama film that tells the story of the tunnelling efforts by Australian soldiers during World War I. The film is set in 1916, in the Ypres salient in Belgium, where the Allies are engaged in a fierce battle with the Germans.\n\nThe story centers around Sergeant Will Edwards (played by Brendan Cowell), a Scottish-born Australian soldier who volunteers for the tunnelling corps. Will's unit is tasked with digging tunnels beneath the German lines, with the goal of detonating explosives to destroy enemy strongholds.\n\nAs Will navigates the treacherous and claustrophobic tunnels, he forms a bond with his fellow soldiers, including Sergeant Oliver Woodward (played by Harrison Gilbertson), a British-born Australian soldier who is also part of the tunnelling corps. Oliver is a skilled miner and becomes Will's mentor, teaching him the intricacies of tunnelling and the importance of teamwork.\n\nAs the tunnels progress, the soldiers face numerous challenges, including treacherous terrain, toxic gases, and the constant threat of German detection. The tension builds as Will and Oliver lead their team in a series of daring operations, including a massive explosion that targets a key German stronghold.\n\nMeanwhile, Will struggles with the moral implications of his work, grappling with the consequences of the destruction he is causing. He also faces the harsh realities of war, including the loss of comrades and the trauma inflicted on soldiers.\n\nThe film's title, 'Beneath Hill 60', refers to a real-life Australian tunnel that was dug beneath the German lines. The tunnel was a key part of the Allies' strategy and played a significant role in the Battle of Messines Ridge, one of the bloodiest battles of the war.\n\nThrough its gripping narrative and well-developed characters, 'Beneath Hill 60' offers a powerful and moving portrayal of the Australian experience in World War I. The film explores themes of courage, sacrifice, and the human cost of war, making it a compelling and thought-provoking watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "f4a8bccf0957199bae23ea3758f8ca32",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 585.0 words or less.\n\n---\n\n**Title:**\n\nBeneath Hill 60\n\n**Year:**\n\n2010",
+    "include_year": false
+}

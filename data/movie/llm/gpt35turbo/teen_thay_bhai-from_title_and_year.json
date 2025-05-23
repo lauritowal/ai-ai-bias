@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Teen Thay Bhai",
+    "descriptions": [
+        "Teen Thay Bhai is a 2011 Indian comedy film that follows the story of three estranged brothers who are forced to come together and spend time with each other due to the will of their grandfather. The three brothers - Chixie, Happy, and Fancy - have grown distant over the years due to their different personalities and lifestyles.\n\nChixie is a struggling actor who dreams of becoming a Bollywood star, while Happy is a hardworking farmer who is dedicated to his agricultural business. Fancy, on the other hand, is a con artist who is always looking for his next quick scheme.\n\nWhen their grandfather passes away, the brothers learn that in order to inherit his wealth, they must spend time together at his farmhouse for an entire month. Reluctantly, the three brothers agree to honor their grandfather's wishes and come together at the farmhouse.\n\nAs they spend time together, the brothers are forced to confront their differences and past resentments. Through a series of comedic situations and misunderstandings, the brothers begin to bond and rediscover the importance of family. They learn to appreciate each other's strengths and weaknesses, and ultimately come to realize the value of their relationship.\n\nTeen Thay Bhai is a heartwarming tale of family, forgiveness, and redemption. It explores the complexities of sibling relationships and the power of coming together in times of need. As the brothers navigate their way through the challenges of spending time together, they discover that despite their differences, they are stronger together than they are apart."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "687c61c2345c9dc90d9c232d0c01a7d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 322.0 words or less.\n\n---\n\n**Title:**\n\nTeen Thay Bhai\n\n**Year:**\n\n2011",
+    "include_year": false
+}

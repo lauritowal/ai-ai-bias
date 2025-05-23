@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "When Were You Born",
+    "descriptions": [
+        "When Were You Born, released in 1938, is a poignant drama that delves into the lives of two families in a small American town. The film opens on the birthday of the main character, Margaret, a young woman whose life is profoundly shaped by societal expectations and the Great Depression. Margaret, born in 1920, must navigate the challenges of her time, including the economic downturn that leaves her family struggling to make ends meet.\n\nThe story also introduces the family of Margaret's fiancé, John, who comes from a more affluent background. Their contrasting upbringings create tension and conflict as they prepare for their wedding. Margaret's family, particularly her father, is wary of the financial instability that comes with John's family, while John's mother is concerned about Margaret's ability to adapt to their lifestyle.\n\nAs the film progresses, the characters are faced with the realities of their social status and the expectations placed upon them. Margaret's determination to marry John despite the odds showcases the strength of their love and the obstacles they must overcome. The narrative explores themes of class, duty, and personal happiness, set against the backdrop of the country's economic struggles.\n\nWhen Were You Born also features a subplot involving Margaret's younger sister, who dreams of becoming a writer but faces the societal pressures to conform to traditional women's roles. This subplot adds depth to the film's exploration of individual desires versus societal norms.\n\nThe film culminates in a bittersweet resolution, where the characters must decide whether to follow their hearts or adhere to the expectations of their families and society. When Were You Born is a classic example of a Hollywood drama from the Golden Age, offering a glimpse into the complexities of relationships and personal identity during a tumultuous period in American history."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "54bede93b3eba067e4d1dec5abcc385e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 498.0 words or less.\n\n---\n\n**Title:**\n\nWhen Were You Born\n\n**Year:**\n\n1938",
+    "include_year": false
+}

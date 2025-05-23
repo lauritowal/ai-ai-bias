@@ -1,0 +1,42 @@
+{
+    "item_type": "proposal",
+    "title": "Beyond East and West: Developing and Documenting an Evolving Transcultural Musical Practice",
+    "descriptions": [
+        {
+            "proposal_name": "Beyond East and West: Developing and Documenting an Evolving Transcultural Musical Practice",
+            "proposal_details": {
+                "country": "Turkey",
+                "objectives": [
+                    "Integrate Turkey's musical heritage into contemporary concert music",
+                    "Train traditional instrumentalists and singers in new repertoire",
+                    "Train Western singers in non-Western vocal techniques",
+                    "Develop approaches for modelling music's impacts on musicians and audiences",
+                    "Create ensemble interface with newly designed instruments",
+                    "Produce studies on timbre",
+                    "Establish template for Eastern and Western tuning systems"
+                ],
+                "activities": [
+                    "Research workshops in Istanbul, Holland, and the UK",
+                    "Performance training for traditional and Western musicians",
+                    "Development of ensemble interface",
+                    "Timbre studies",
+                    "Mapping Eastern and Western tuning systems"
+                ],
+                "outputs": [
+                    "E-book titled 'Integrating Turkish Instruments and Voices into Contemporary Music'",
+                    "Orchestration manual for Turkish sounds",
+                    "Online audio and visual examples"
+                ],
+                "publisher": "CUP",
+                "descriptions": [
+                    "A model for transcultural musical practice and overcoming cultural barriers"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e27a756a338fba7c32ce8a6dcad2cefb",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nBeyond East and West: Developing and Documenting an Evolving Transcultural Musical Practice\n\n**Description:**\n\nFor composers in Turkey today, the urge to integrate the beauties of Turkey’s rich musical heritage into contemporary concert music has become almost an imperative. But differences in tuning, texture, and between oral and notated orientations to performance have presented seemingly intractable obstacles. This project systematises practical processes essential for the creation of a new, East-West strand of contemporary music and opera. It initiates cutting-edge research workshops in Istanbul, Holland and the UK to: 1. Train top-level traditional instrumentalists and singers in Turkey effectively to perform a new repertoire; 2. Train top professional Western singers in non-Western techniques and nuances of vocal production; 3. Develop approaches for modelling such music's impacts on Turkish and Western musicians’ adaptive processes in rehearsal and performance, and diverse audiences’ perceptions of such music; 4. Create an ensemble interface (including newly designed instruments) to increase capacity for merging sounds beyond levels now achievable; 5. Produce groundbreaking studies on timbre to provide new insights into how sound is produced; 6. Establish a new template for mapping Eastern and Western tuning systems onto one another. This research, together with an orchestration manual for Turkish sounds will comprise the core of a published (CUP) team-authored e-book, Integrating Turkish Instruments and Voices into Contemporary Music (ITI), with included audio and visual examples linked as an online resource. Looking further, this project’s multi-modal, transdisciplinary approach also suggests a model for probing how the ‘free play’ of the imagination (Kant) possible within processes of art and its creation can provide metaphors towards understanding one of the most urgent and compelling issues of our time: how to transcend cultural barriers (real or imagined) that exist today."
+}

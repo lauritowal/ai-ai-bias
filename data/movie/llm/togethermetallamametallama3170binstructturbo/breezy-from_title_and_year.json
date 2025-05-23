@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Breezy",
+    "descriptions": [
+        "'Breezy' is a 1973 American romantic drama film directed by Clint Eastwood. The movie stars William Holden and Kay Lenz.\n\nThe story revolves around Frank Harmon (played by William Holden), a middle-aged, divorced real estate agent who leads a solitary life. His life takes a drastic turn when he meets a free-spirited young hippie named Breezy (played by Kay Lenz). Breezy is a drifter who has just arrived in Los Angeles after hitchhiking across the country.\n\nDespite their significant age gap and vastly different lifestyles, Frank and Breezy begin to develop a romantic connection. Breezy's carefree nature and zest for life gradually bring out Frank's long-dormant emotions and desires. However, their budding relationship is put to the test as they face societal disapproval, personal insecurities, and the challenges that come with their significant age difference.\n\nThroughout the film, Clint Eastwood's direction explores themes of love, loneliness, and self-discovery as Frank and Breezy navigate their unconventional relationship. The movie ultimately becomes a poignant exploration of two individuals who find love and companionship in each other, despite the odds against them."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "d92445e4eadf3a00aeecd65cb4c8bc44",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 973.0 words or less.\n\n---\n\n**Title:**\n\nBreezy\n\n**Year:**\n\n1973",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Up, Up, and Away",
+    "descriptions": [
+        "I couldn't find any information about a movie called 'Up, Up, and Away' released in 2000. However, I found that there is a movie called 'Up, Up, and Away' that was released in 2000, but it's a TV movie. \n\n'Up, Up, and Away' is a 2000 TV movie that tells the story of a group of former superheroes who are trying to make a comeback. The movie follows the adventures of a group of retired superheroes, including the original leader, 'The Ace', who was once a legend. The team members are now in their 40s and have lost their youthful vigor.\n\nThe story starts with 'The Ace' putting together a team of former heroes, including 'The Ace's' daughter, 'Stardust', to stop a villain who threatens to destroy the city. As they start their mission, they realize that their skills and powers are not as sharp as they used to be. The team faces various challenges and setbacks, and they begin to question whether they can still be heroes.\n\nThroughout the movie, the team members reflect on their past and the reasons they retired. They also face personal struggles, including family problems and health issues. As they try to stop the villain, they learn to work together and rely on each other's strengths.\n\nThe movie is a nostalgic and humorous take on the superhero genre, with a focus on the human side of the heroes. It features a mix of action, comedy, and drama, and explores the themes of identity, community, and redemption.\n\nOverall, 'Up, Up, and Away' is a heartwarming and entertaining TV movie that celebrates the spirit of heroism and the power of friendship and teamwork."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "770567aed11905ec6b00cf91e9791557",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 935.0 words or less.\n\n---\n\n**Title:**\n\nUp, Up, and Away\n\n**Year:**\n\n2000",
+    "include_year": false
+}

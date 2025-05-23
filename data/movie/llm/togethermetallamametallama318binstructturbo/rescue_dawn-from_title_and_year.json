@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rescue Dawn",
+    "descriptions": [
+        "\"Rescue Dawn\" is a 2006 biographical drama film directed by Werner Herzog. The movie is based on the true story of Dieter Dengler, a German-American fighter pilot who was shot down over Laos in 1966.\n\nThe film follows Dieter Dengler (played by Christian Bale), a U.S. Navy pilot who is captured by the Pathet Lao, a communist organization in Laos. Dieter is subjected to physical and psychological torture, but he refuses to break and eventually manages to escape from the prison camp.\n\nAlong with a group of fellow prisoners, Dieter embarks on a perilous journey through the dense jungles of Laos, facing numerous obstacles and dangers. They must navigate treacherous terrain, avoid detection by their captors, and contend with the harsh elements.\n\nAs they near the border of Thailand, the group becomes increasingly fragmented, and Dieter must use all his skills and determination to lead them to safety. The film is a gripping and intense portrayal of survival and the human spirit in the face of extreme adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cdbcb6267390216c9a35e429e6ab6c51",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nRescue Dawn\n\n**Year:**\n\n2006",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Back to the Woods",
+    "descriptions": [
+        "\"Back to the Woods,\" released in 1937, follows the tumultuous journey of a family trying to reclaim their ancestral estate after years of neglect. Set in a secluded English village, the film centers on the eldest son, who returns from the city to take charge of the family property. Amidst the lush, yet overgrown land, he discovers the estate is in dire financial straits and must navigate complex family dynamics and local prejudices to restore it to its former glory. Alongside his efforts, he contends with a mysterious woman who claims to have a secret connection to the land, adding a layer of suspense and romance to his mission. As the seasons change, so does the family's fortune, testing their will to persevere and their belief in the enduring power of home and heritage."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "71100496287e5f70bae81ed0067e4484",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 248.0 words or less.\n\n---\n\n**Title:**\n\nBack to the Woods\n\n**Year:**\n\n1937",
+    "include_year": false
+}

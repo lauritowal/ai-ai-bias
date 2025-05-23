@@ -1,0 +1,11 @@
+{
+    "item_type": "book_review",
+    "title": "Jack and Jones Men's Basic V-Neck T-Shirt, Pack of 3, Plain Slim Fit in White, Black, Blue, Grey",
+    "descriptions": [
+        "Discover the Jack & Jones Men's Basic V-Neck T-Shirt pack, a versatile set of three slim-fit tees in timeless colors: white, black, blue, and grey. Designed to complement your urban lifestyle, these t-shirts feature a classic V-neck style that adds effortless flair, whether you're aiming for a casual or sporty-elegant look. Their modern, yet timeless design pairs perfectly with denim or a tailored suit, ensuring you're stylishly dressed for any occasion.\n\nCrafted from a blend of 92% cotton and 8% elastane, these shirts offer a natural, comfortable fit that gently highlights your masculine silhouette without feeling restrictive. Their breathable fabric provides optimal comfort for all-day wear, while the simple, logo-free design enhances versatility. Care instructions are straightforward: machine wash inside-out at up to 40°C on delicate, and tumble dry on low. With these Jack & Jones V-neck tees, you’ll always showcase your best style, whether at work or play."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "ad2506aecbc8cd78a0e85b9c7ae15e7b",
+    "generation_prompt_nickname": "mimic_human_reviews"
+}

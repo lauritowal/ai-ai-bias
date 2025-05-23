@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Smashing Bird I Used to Know",
+    "descriptions": [
+        "The Smashing Bird I Used to Know is a 1969 British drama film directed by Roger O. Hirson and Andrew Molson. The movie is a semi-autobiographical drama based on the life of British writer and musician, Barry Miles.\n\nThe film follows the life of a young and aspiring musician, played by Paul Jones, who is deeply in love with a woman named Pauline (played by Judy Geeson). The story revolves around their tumultuous relationship and the struggles that come with pursuing a career in the music industry.\n\nThe title 'The Smashing Bird I Used to Know' refers to a poem written by Barry Miles, which is also the title of the film. The poem serves as a metaphor for Pauline, who is portrayed as a free-spirited and independent individual, much like the bird in the poem.\n\nThroughout the film, the protagonist grapples with the challenges of relationships, the music industry, and his own sense of identity. His relationship with Pauline is marked by intense passion and conflict, as they navigate the complexities of love and loyalty.\n\nThe film also features a blend of music and poetry, reflecting the creative endeavors of the protagonist. Barry Miles' own experiences as a musician and writer are woven into the narrative, adding a layer of authenticity to the story.\n\nThe Smashing Bird I Used to Know is a poignant and introspective exploration of love, art, and identity. With its blend of music, poetry, and drama, the film offers a unique and thought-provoking portrayal of the human experience. The movie's themes and tone continue to resonate with audiences today, making it a significant and influential work of 1960s British cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "d5e7a5b66f7f34e922be871554b9b28f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 493.0 words or less.\n\n---\n\n**Title:**\n\nThe Smashing Bird I Used to Know\n\n**Year:**\n\n1969",
+    "include_year": false
+}

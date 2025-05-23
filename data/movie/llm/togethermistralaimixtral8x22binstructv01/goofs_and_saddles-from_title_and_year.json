@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Goofs and Saddles",
+    "descriptions": [
+        " In the 1937 comedy western \"Goofs and Saddles,\" Stan Laurel and Oliver Hardy find themselves in a series of mishaps and misadventures in the wild west. The film begins with the duo traveling by stagecoach, where they meet their old friend, the beautiful singer Lily. When they learn that Lily's father has been murdered and his gold mine stolen, they vow to help her reclaim her rightful inheritance.\n\nDisguised as detectives, Stan and Ollie arrive in the town of Goldville. They soon discover that the villainous land-grabber Jim the Barfly is behind the scheme to steal the mine. With their usual bumbling antics, they attempt to outsmart Jim and his gang, leading to a series of hilarious misunderstandings and physical comedy.\n\nAs they try to locate the stolen gold, Stan and Ollie accidentally stumble upon a counterfeit operation run by Jim's associates. They are captured and forced to work in the mine, but manage to escape with the help of a friendly Native American tribe. Meanwhile, Lily is also captured and held hostage by Jim, who threatens to marry her in order to seize control of the mine.\n\nIn the climactic final act, Stan and Ollie team up with the tribe to outwit Jim and his henchmen. In a chaotic showdown, they manage to rescue Lily and expose Jim's crimes. With the help of the tribe, they retrieve the stolen gold and return it to its rightful owner.\n\nAs the town celebrates their victory, Stan and Ollie are hailed as heroes. They bid farewell to Lily and the tribe, and set off on their next adventure, leaving behind a trail of laughter and chaos. \"Goofs and Saddles\" is a classic example of Laurel and Hardy's unique brand of slapstick comedy, blending humor and western action in a delightful and memorable film."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "2dc6f6db15dcc5f948faacb247277182",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 309.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+    "include_year": false
+}

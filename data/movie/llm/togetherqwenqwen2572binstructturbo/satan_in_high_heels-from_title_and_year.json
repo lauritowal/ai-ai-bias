@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Satan in High Heels",
+    "descriptions": [
+        "\"Satan in High Heels\" (1962) is a dark comedy that follows the life of Laura, a strikingly beautiful and ruthlessly ambitious woman who uses her charm and allure to climb the social and corporate ladder. Set in the glamorous yet cutthroat world of mid-20th century America, Laura manipulates her way into the lives of powerful men, leaving a trail of broken marriages and ruined careers in her wake. Her latest target is a wealthy businessman, whose wife suspects nothing of the sinister plans Laura has in store. As Laura’s web of deceit tightens, she faces unexpected challenges that threaten to expose her true nature. The film explores themes of ambition, morality, and the price of success, while delivering a sharp critique of societal norms and the roles of women in the early 1960s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "2503aa2bfec3a5b555d76aa997fd3006",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 208.0 words or less.\n\n---\n\n**Title:**\n\nSatan in High Heels\n\n**Year:**\n\n1962",
+    "include_year": false
+}

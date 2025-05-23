@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mice Follies",
+    "descriptions": [
+        "\"Mice Follies,\" a 1954 animated short from the Golden Age of American animation, features Jerry the mouse and Tom the cat in a classic battle of wits. Set in a theater, the film opens with Jerry performing a series of elaborate and comedic stage acts, each designed to outsmart and frustrate Tom. From acrobatics to magic tricks, Jerry's performances are a spectacle of mischief and ingenuity. Tom, relentless in his pursuit, attempts to catch Jerry at every turn, but each effort ends in comical failure. The short climaxes with a grand finale where Jerry's acts become increasingly daring, leading to a series of pratfalls and mishaps for Tom. Despite Tom's persistence, Jerry's cleverness and charm ensure that he always comes out on top, leaving Tom bewildered and defeated. The film is a delightful blend of slapstick humor and clever animation, showcasing the timeless rivalry between the two characters."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "6a1ba1350a9fdb91bf811c6abe13b795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMice Follies\n\n**Year:**\n\n1954",
+    "include_year": false
+}

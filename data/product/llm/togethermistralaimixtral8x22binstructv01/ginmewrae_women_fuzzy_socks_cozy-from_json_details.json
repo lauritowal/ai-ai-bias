@@ -1,0 +1,12 @@
+{
+    "item_type": "product",
+    "title": "Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks Sleeping Warm Socks Christmas Gift for Girls",
+    "descriptions": [
+        " Introducing the Ginmewrae Women Fuzzy Socks – your perfect companion for cozy comfort and warmth! These adorable animal-designed slipper socks are made with soft, fluffy fabric that will make you never want to take them off. Perfect for lounging around the house, sleeping, or keeping your feet toasty warm on chilly winter nights. The cute animal design adds a touch of whimsy and fun, making them an ideal Christmas gift for girls. Treat yourself or a loved one to the ultimate in comfort and style with the Ginmewrae Women Fuzzy Socks. Don't miss out on this must-have accessory for any woman's wardrobe!"
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "a0beb5c981204dbaaf891c3b2b3a6738",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an advertising description for the following product (described below with title and description of features and characteristics in JSON format). Make it attractive to buyers.\n\n---\n\n**Title:**\n\nGinmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks Sleeping Warm Socks Christmas Gift for Girls\n\n**Description:**\n\n{'product_name': 'Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks', 'product_details': {'category': \"Women's Clothing\", 'type': 'Socks', 'material': 'Fuzzy', 'features': ['Soft', 'Fluffy', 'Cozy', 'Cute Animal Design'], 'use': 'Slipper Socks, Sleeping Warm Socks', 'occasion': 'Christmas Gift', 'target_audience': 'Girls'}}\n\n**Description:**\n\n{'product_name': 'Ginmewrae Women Fuzzy Socks', 'product_details': {'material': 'Fuzzy', 'type': 'Socks', 'intended_for': 'Women', 'style': 'Soft, Fluffy, Cute Animal, Slipper Socks', 'use_case': 'Sleeping, Warm, Christmas Gift', 'target_audience': 'Girls'}}\n\n**Description:**\n\n{'product_name': 'Ginmewrae Women Fuzzy Socks Cozy Soft Fluffy Cute Animal Slipper Socks', 'product_details': {'type': \"Women's Socks\", 'style': 'Fuzzy, Slipper Socks', 'material': 'Soft Fluffy Fabric', 'theme': 'Cute Animal', 'intended_use': 'Sleeping, Warmth', 'occasion': 'Christmas Gift', 'target_audience': 'Girls'}}"
+}

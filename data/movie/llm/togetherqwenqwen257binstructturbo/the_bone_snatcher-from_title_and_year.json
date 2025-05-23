@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Bone Snatcher",
+    "descriptions": [
+        "The Bone Snatcher, released in 2003, is a dark and intense psychological thriller. The film follows Dr. Benjamin Stone, a forensic pathologist who becomes obsessed with solving a series of mysterious bone thefts from graves in a small town. As he delves deeper into the case, he uncovers a sinister conspiracy involving local officials and a cult. The plot twists and turns, blurring the lines between reality and the supernatural as Dr. Stone struggles to stay one step ahead of the bone snatcher who seems to always be a step ahead of him. The movie builds to a chilling climax that challenges the main character's sanity and moral compass."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "651b1a8f68930e564bc152b1f54f5e3d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+    "include_year": false
+}

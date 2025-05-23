@@ -1,0 +1,15 @@
+{
+    "item_type": "book_summary",
+    "title": "Le Grand Duc [René Goscinny]",
+    "descriptions": [
+        "\"Le Grand Duc\" by René Goscinny tells the comedic tale of a Russian grand duke's visit to the United States. Wanting a taste of the wild west before signing an important treaty, the duke insists on a trip filled with bandits and Indian attacks. Lucky Luke is tasked with protecting the grand duke, who soon becomes a target for various villains, including a relentless Russian spy seeking to assassinate him.",
+        "\"Le Grand Duc\" is a humorous tale set in the Wild West, featuring a Russian grand duke on a diplomatic mission to the United States. Before agreeing to complete an important treaty, the grand duke insists on experiencing the thrill of the West, including encounters with bandits and Indian attacks. Lucky Luke, the hero of the story, is assigned as the grand duke's bodyguard and must protect him from a variety of threats - the most dangerous being a Russian spy intent on assassinating the grand duke. The book is a delightful mix of adventure, comedy, and political intrigue.",
+        "\"Le Grand Duc\" is a comedic tale of a Russian grand duke's adventure-filled visit to the United States. Desiring an authentic wild west experience before signing an important treaty, the duke embarks on a recreational trip filled with bandits and Indian attacks. The hero, Lucky Luke, is assigned to protect the quirky duke from a slew of villains, most notably a Russian spy determined to assassinate him. The story is a humorous take on diplomacy, culture clash and the romanticized wild west.",
+        "Le Grand Duc tells the story of a Russian grand duke who embarks on a diplomatic visit to the United States. Before finalizing an important treaty, the duke insists on experiencing the adventures of the West, including bandits and Indian attacks. The character of Lucky Luke is appointed to protect the duke during his journey and soon finds that a Russian spy is determined to assassinate the grand duke. The book unfolds with a series of thrilling incidents as Lucky Luke tries to save the grand duke from various threats."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4",
+    "generation_prompt_uid": "546ecda7e28be007a6f9ffbf85fbede8",
+    "generation_prompt_nickname": "summary_with_human_version_as_guideline",
+    "generation_prompt_text": "Please write a summary of the following book. A sample summary is included below for reference. Use the sample as a guideline for quality and level of detail.\n\n---\n\nTitle: Le Grand Duc [René Goscinny]\n\nDescription: A Russian grand duke pays a diplomatic visit to the United States, but in order for an important treaty to be completed, he first wants to have a recreational trip through the West, complete with bandits and Indian attacks! Lucky Luke is assigned as a bodyguard to the duke, who is quickly targeted by all sorts of villainous persons - first and foremost a Russian spy who tries his best (or worst) to assassinate the grand duke."
+}

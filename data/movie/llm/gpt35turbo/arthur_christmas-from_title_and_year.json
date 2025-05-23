@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arthur Christmas",
+    "descriptions": [
+        "In the animated film \"Arthur Christmas,\" we follow the story of Santa's youngest son, Arthur, who works in the North Pole's mail department. The film is set in the modern day, where Santa now uses advanced technology to deliver presents to children all around the world in one night.\n\nOn Christmas Eve, a small gift for a little girl named Gwen is accidentally left behind at the North Pole. Arthur, being the compassionate and kind-hearted person that he is, feels responsible for making sure the gift gets delivered to Gwen before she wakes up on Christmas morning. Despite being told that it's too late and that the gift is insignificant in the grand scheme of things, Arthur is determined to make things right.\n\nWith the help of his grandfather, Grandsanta, and a wrapping elf named Bryony, Arthur embarks on a wild and whimsical adventure to deliver the gift to Gwen. Along the way, they encounter various obstacles and challenges, including navigating through a bustling city and dealing with a malfunctioning sleigh.\n\nAs Arthur and his companions race against time, the film explores themes of family, tradition, and the true meaning of Christmas. Arthur's unwavering belief in the magic of Christmas inspires those around him and reminds everyone of the importance of spreading joy and love during the holiday season.\n\nIn the end, Arthur's determination pays off as they successfully deliver the gift to Gwen, making her Christmas morning a magical one. The film concludes with a heartwarming message about the power of kindness and the importance of never giving up on spreading happiness, no matter how big or small the gesture may be.\n\n\"Arthur Christmas\" is a delightful and charming holiday film that captures the spirit of Christmas and reminds audiences of the magic that comes with believing in the impossible. It is a story of hope, family, and the joy of giving, making it a perfect addition to any holiday movie marathon."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9498e256a9b77ac24327f1e04b93e98c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 711.0 words or less.\n\n---\n\n**Title:**\n\nArthur Christmas\n\n**Year:**\n\n2011",
+    "include_year": false
+}

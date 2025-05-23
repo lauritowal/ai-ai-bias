@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Colors",
+    "descriptions": [
+        "\"Colors\" is a 2009 Italian drama film directed by Gabriele Salvatores. The film explores the lives of three young immigrants living in Rome, each facing unique challenges and dreams. The story is set against the backdrop of a vibrant and diverse city, where the characters' lives intersect in unexpected ways.\n\nThe first character, a Nigerian named Kofi, dreams of becoming a professional soccer player. Despite facing racism and the harsh realities of illegal immigration, Kofi remains determined to make a better life for himself and his family.\n\nThe second character, a Chinese girl named Mei, works in a small Chinese restaurant. She aspires to become a fashion designer and often sketches her designs during her breaks. Mei's life is a delicate balance between her dreams and the responsibilities she has to her family.\n\nThe third character, a Romanian named Mihai, is a talented musician who plays the violin in the streets to earn a living. He dreams of playing in a renowned orchestra, but his illegal status in Italy hinders his progress.\n\nAs the film progresses, the paths of these three young immigrants cross, and they form a bond through their shared experiences of struggle and hope. \"Colors\" is a poignant and visually rich narrative that highlights the resilience of the human spirit and the universal pursuit of a better future."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "9300432e31407304ee60f2088835aefd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 270.0 words or less.\n\n---\n\n**Title:**\n\nColors\n\n**Year:**\n\n2009",
+    "include_year": false
+}

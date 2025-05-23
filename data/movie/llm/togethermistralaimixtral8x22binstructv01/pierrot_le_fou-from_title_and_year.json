@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pierrot le fou",
+    "descriptions": [
+        " \"Pierrot le fou\" (1965) is a French New Wave film directed by Jean-Luc Godard, featuring Jean-Paul Belmondo as Ferdinand Griffon, a disillusioned man, and Anna Karina as Marianne Renoir, a captivating yet enigmatic woman. The story begins when Ferdinand, a middle-aged man bored with his bourgeois lifestyle, reconnects with Marianne, his former flame and the babysitter of his children. Their reunion sparks an intense passion, leading Ferdinand to abandon his family and flee Paris with Marianne.\n\nAs they journey through the French countryside, Marianne reveals that she is on the run from a dangerous gang of criminals. Ferdinand, now known as Pierrot, becomes entangled in a web of lies, violence, and deceit. They engage in a series of adventures, including a botched robbery attempt, a brief stint as pirate radio hosts, and a chance encounter with an American film crew. These escapades serve as a backdrop for the couple's tumultuous relationship, characterized by their intense love for each other and their inability to communicate effectively.\n\nThe film's title, \"Pierrot le fou,\" translates to \"Pierrot the madman,\" a reference to the classical clown character of the Commedia dell'arte and Ferdinand's descent into madness. As the narrative progresses, the line between reality and fantasy blurs, reflecting Ferdinand's struggle to maintain his sanity amidst the chaos. The film culminates in a tragic and surreal ending, as Ferdinand, unable to reconcile his love for Marianne with the danger she represents, takes drastic measures to escape their destructive cycle.\n\n\"Pierrot le fou\" is a visually stunning and emotionally complex exploration of love, identity, and the human condition, marked by Godard's signature use of non-linear storytelling, bold color choices, and unconventional narrative techniques. The film remains a celebrated example of the French New Wave movement and a testament to Godard's innovative approach to cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "cf41356f93713cb5788cb0c31df63cad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 297.0 words or less.\n\n---\n\n**Title:**\n\nPierrot le fou\n\n**Year:**\n\n1965",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Operation: Rabbit",
+    "descriptions": [
+        "Operation: Rabbit is a 1952 American animated short film directed by Chuck Jones and produced by Warner Bros. The film is the 14th cartoon in the series to feature Bugs Bunny and Elmer Fudd, as well as the 100th Looney Tunes short.\n\nThe plot revolves around Bugs Bunny outsmarting Elmer Fudd once again. In this cartoon, Bugs dresses up as a scientist and convinces Elmer that he is going to help him catch a \"wascally wabbit\" using a complex contraption. Unbeknownst to Elmer, the device is actually designed to catch himself, not the rabbit.\n\nAs the story unfolds, Bugs tricks Elmer into using the device, which results in Elmer getting hit with various objects and projectiles. Despite Elmer's repeated failures, he continues to believe that the device will eventually catch the rabbit.\n\nThroughout the cartoon, Bugs uses his quick wit and cunning to evade Elmer's attempts to catch him, often turning the tables and using the device against his pursuer. In the end, Elmer is left frustrated and covered in bandages, while Bugs escapes unscathed, once again outsmarting his nemesis.\n\nOperation: Rabbit is a classic example of the Looney Tunes formula, featuring clever wordplay, slapstick humor, and the never-ending rivalry between Bugs Bunny and Elmer Fudd."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3c28b3e4c07cb66977171ff512d115f8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 763.0 words or less.\n\n---\n\n**Title:**\n\nOperation: Rabbit\n\n**Year:**\n\n1952",
+    "include_year": false
+}

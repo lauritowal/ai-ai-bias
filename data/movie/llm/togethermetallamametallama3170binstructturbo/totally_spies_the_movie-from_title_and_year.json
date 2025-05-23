@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Totally Spies! The Movie",
+    "descriptions": [
+        "Totally Spies! The Movie is a 2009 animated film based on the popular television series of the same name. The movie follows the adventures of three teenage girls, Alex, Sam, and Clover, who are also international spies working for the secret organization, W.O.O.H.P. (World Organization of Human Protection).\n\nThe story begins with the girls graduating from high school and preparing for their next adventure. However, their plans are soon disrupted when they discover that a former villain, Tim Scam, has stolen a powerful device that can drain the world's intelligence. \n\nThe girls must use their skills and gadgets to track down Tim Scam and retrieve the device before it's too late. Along the way, they encounter various obstacles and challenges, including other villains and treacherous terrain.\n\nThroughout the movie, Alex, Sam, and Clover also face personal challenges as they navigate their relationships and futures. The film combines action, comedy, and heart, showcasing the girls' friendship and teamwork as they work together to save the world.\n\nIn the end, the girls successfully defeat Tim Scam and recover the stolen device, saving the world from his evil plans. The movie concludes with the girls setting off on a new adventure, ready to face whatever challenges come their way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8ea230c7c06d77539929cef83a2d38bd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 906.0 words or less.\n\n---\n\n**Title:**\n\nTotally Spies! The Movie\n\n**Year:**\n\n2009",
+    "include_year": false
+}

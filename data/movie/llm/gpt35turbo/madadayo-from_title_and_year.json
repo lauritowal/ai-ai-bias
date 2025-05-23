@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Madadayo",
+    "descriptions": [
+        "\"Madadayo\" is a Japanese film directed by Akira Kurosawa, released in 1993. The film follows the life of a retired professor named Hyakken Uchida as he navigates the challenges of aging and celebrates the power of friendship and community. As he reaches the later years of his life, Uchida decides to retire from teaching and become a writer. He announces to his students that he will continue to ask them if they are ready, to which they respond with a resounding \"Madadayo!\" meaning \"Not yet.\" \n\nThe film explores themes of resilience, companionship, and the passage of time as Uchida's former students continue to support and celebrate him through various milestones in his life. Despite facing physical and emotional challenges, Uchida finds solace in the unwavering support of his friends and the memories they share. \"Madadayo\" is a touching and poignant portrayal of the beauty of aging gracefully and the importance of human connection in finding meaning and purpose in life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "f2014c8ca9859e48a197ddb21e04feeb",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMadadayo\n\n**Year:**\n\n1993",
+    "include_year": false
+}

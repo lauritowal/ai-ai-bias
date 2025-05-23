@@ -1,0 +1,42 @@
+{
+    "item_type": "proposal",
+    "title": "Sustainable and healthy food solutions: system dynamics and trade-offs",
+    "descriptions": [
+        {
+            "proposal_name": "Sustainable and healthy food solutions: system dynamics and trade-offs",
+            "proposal_details": {
+                "objectives": [
+                    "Contribute to a transformation of global agri-food production, trade, and consumption",
+                    "Create essential evidence to identify and implement the shifts in practices and behaviours",
+                    "Enable the identification of most effective, targeted solutions by considering trade-offs, synergies, and dynamics"
+                ],
+                "activities": [
+                    "Diagnosing the integrated health and environmental outcomes of food systems globally",
+                    "Identifying key threats and opportunities using system dynamics and complex network analyses",
+                    "Targeting and evaluating tailored solutions with an inter-disciplinary modelling framework"
+                ],
+                "scope": "Global",
+                "approach": "Systemic",
+                "interdisciplinarity": true,
+                "focus_areas": [
+                    "Sustainability",
+                    "Health",
+                    "Environment",
+                    "Agriculture",
+                    "Food Production",
+                    "Trade",
+                    "Consumption"
+                ],
+                "project_name": "FLORA project",
+                "descriptions": [
+                    "This innovative project builds on the PI’s excellent track record in leading interdisciplinary research focused on the global agri-food system and its environmental impacts."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f2564dbee18cd58950bdc2dfbca7f5aa",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nSustainable and healthy food solutions: system dynamics and trade-offs\n\n**Description:**\n\nFood systems are crucial to end hunger, but also to mitigate and adapt to climate change, to protect and restore biodiversity, to ensure human health and well-being, to end poverty, and to support sustainable communities. While hunger has receded, food systems are causing increasingly severe damage to our environment and health. The FLORA project will contribute to a transformation of global agri-food production, trade, and consumption necessary to achieve sustainable and healthy food systems. The project will create essential evidence to identify and implement the shifts in practices and behaviours needed to effectively achieve this transformation, by (1) making a diagnosis of the integrated health and environmental outcomes of food systems globally, from the production and consumption perspectives, with innovative measures of sustainability, (2) identifying key threats and opportunities with system dynamics and complex network analyses, and (3) targeting and evaluating tailored solutions with an inter-disciplinary modelling framework. The project will enable the identification of most effective, targeted solutions by considering trade-offs, synergies, and dynamics of key food systems components. Global in scope, it sets the ambitious goal to overcome barriers in current approaches by taking a systemic approach and establishing a robust, interdisciplinary framework supported by empirical advancements to tackle complex food systems challenges. This innovative project builds on the PI’s excellent track record in leading interdisciplinary research focused on the global agri-food system and its environmental impacts."
+}

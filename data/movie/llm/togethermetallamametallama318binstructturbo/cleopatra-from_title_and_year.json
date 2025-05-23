@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Cleopatra",
+    "descriptions": [
+        "The 1934 film 'Cleopatra' is a historical epic directed by Cecil B. DeMille. The movie is based on the life of the Egyptian queen Cleopatra VII, who ruled Egypt from 51 BC until her death in 30 BC.\n\nThe story begins with Cleopatra (played by Claudette Colbert) as a young woman, watching from the sidelines as her parents, Ptolemy XII and Cleopatra V Tryphaena (played by Joseph Schildkraut and Gertrude Niesen), rule Egypt. After they die, Cleopatra is placed on the throne alongside her brother Ptolemy XIII (played by Henry Wilcoxon). However, their relationship is strained, and Ptolemy XIII seeks to eliminate Cleopatra and rule Egypt alone.\n\nCleopatra's intelligence, charm, and beauty allow her to navigate the complexities of Egyptian politics. She forms an alliance with Julius Caesar (played by Warren William), the Roman general, who helps her assert her authority as queen. Their relationship is portrayed as a romance, but it's also clear that Caesar sees Cleopatra as a means to gain control over Egypt.\n\nAs Caesar's power grows, Cleopatra becomes increasingly dependent on him. However, when Caesar is assassinated in Rome, Cleopatra is left vulnerable and must navigate a new landscape of power. She turns to Mark Antony (played by Henry Wilcoxon), one of Caesar's generals, and forms a romantic and strategic alliance with him.\n\nThe movie follows the tumultuous relationship between Cleopatra and Mark Antony as they face challenges from their enemies, including Octavian (played by Stuart Erwin), Caesar's adopted son and future Roman Emperor Augustus. The film ends with the Battle of Actium, where Mark Antony and Cleopatra's forces are defeated by Octavian's army.\n\nThe 1934 'Cleopatra' is a classic historical epic that showcases the grandeur and drama of ancient Egypt. While it takes creative liberties with the historical record, it captures the essence of Cleopatra's life and her struggles to maintain power in a treacherous world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cfd1e5ae003e6f8b2da4b8573e22f2c6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 478.0 words or less.\n\n---\n\n**Title:**\n\nCleopatra\n\n**Year:**\n\n1934",
+    "include_year": false
+}

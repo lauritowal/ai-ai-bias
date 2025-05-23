@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Interview With the Assassin",
+    "descriptions": [
+        "\"Interview With the Assassin\" is a 2002 mockumentary thriller directed by Neil Burger. The plot centers around a down-on-his-luck TV cameraman named Ron Kobeleski, played by Dylan Haggerty. One day, Ron is approached by his mysterious neighbor, Walter Ohlinger, portrayed by Raymond J. Barry. Walter shockingly claims he was the infamous \"grassy knoll shooter,\" the second gunman who conspired in the assassination of President John F. Kennedy.\n\nIntrigued by the potential of this story, Ron decides to document Walter's confession and the subsequent investigation into the truth behind his claims. As Ron delves deeper into Walter's story, he finds himself entangled in a web of conspiracy theories and paranoia. Despite Ron's skepticism, Walter provides compelling details that seem to corroborate his involvement, and he insists that he's revealing the truth because he has a terminal illness and wants to clear his conscience.\n\nThe film takes the audience on a suspenseful journey as Ron and Walter travel across the country, trying to piece together evidence that could prove Walter's assertion. The mockumentary style gives it an air of authenticity, further blurring the lines between truth and fiction. As they face obstacles and the danger of digging too deep into a historical mystery, Ron must decide what he believes and how far he's willing to go to uncover the reality of one of America's most enduring conspiracy theories."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1573aec6a37c7379f787e50e7132e5d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nInterview With the Assassin\n\n**Year:**\n\n2002",
+    "include_year": false
+}

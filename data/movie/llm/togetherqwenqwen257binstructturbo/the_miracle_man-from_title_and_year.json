@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Miracle Man",
+    "descriptions": [
+        "In 1919, \"The Miracle Man\" tells the story of John Miller, a humble man from a small American town, who gains sudden healing abilities, leaving the townspeople in awe. As news of his miraculous cures spreads, John finds himself at the center of a whirlwind of attention and skepticism. The film follows John's journey as he navigates the moral and ethical dilemmas of using his gift, facing conflict with religious leaders who fear his abilities are a divine sign he cannot control or explain. John must decide whether to use his powers for the greater good or to reject the limelight and live a quiet life. Along the way, he forms a close bond with Maria, a kind-hearted nurse who believes in his extraordinary nature. As both the townspeople and religious authorities press for control over his powers, John must find a way to balance his newfound fame with his personal values, ultimately choosing to embrace his role as a healer and use his gift to help others, even as he remains a mystery to the world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "b59190dc96728848f2a5bf9c0b6ad920",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 316.0 words or less.\n\n---\n\n**Title:**\n\nThe Miracle Man\n\n**Year:**\n\n1919",
+    "include_year": false
+}

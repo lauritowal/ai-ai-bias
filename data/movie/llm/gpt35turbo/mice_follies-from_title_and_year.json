@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mice Follies",
+    "descriptions": [
+        "In the movie \"Mice Follies\" (1954), a group of mischievous mice living in a small town set out on a thrilling adventure to save their home from destruction. When a new developer arrives with plans to tear down their beloved community to make way for a shopping mall, the mice must band together and come up with a clever plan to stop him.\n\nLed by a courageous and resourceful mouse named Whiskers, the group faces numerous challenges and obstacles along the way. As they navigate through the dangers of the human world, they also discover the true power of friendship and teamwork.\n\nWith the help of a wise old mouse named Professor Squeaks, the group devises a daring scheme to outsmart the developer and save their home. Along the way, they encounter colorful characters, face thrilling adventures, and learn important lessons about courage, perseverance, and the strength of unity.\n\nFilled with heartwarming moments, exciting action sequences, and plenty of humor, \"Mice Follies\" is a timeless tale that will captivate audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "6a1ba1350a9fdb91bf811c6abe13b795",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 217.0 words or less.\n\n---\n\n**Title:**\n\nMice Follies\n\n**Year:**\n\n1954",
+    "include_year": false
+}

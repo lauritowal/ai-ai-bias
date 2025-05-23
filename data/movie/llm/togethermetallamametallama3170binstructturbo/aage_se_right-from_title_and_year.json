@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aage se right",
+    "descriptions": [
+        "'Aage Se Right' is a 2009 Indian comedy film. The movie revolves around Dinkar Waghmare (Shreyas Talpade), a sub-inspector in the Mumbai police department who aspires to be a part of the elite Encounter Squad. Dinkar is obsessed with becoming a hero and is desperate to make a name for himself.\n\nDinkar stumbles upon a gun that has been lost by a group of terrorists. Unaware of its origin, he decides to use the gun to gain fame by killing a notorious gangster. However, things take a turn when the gun is discovered by a struggling filmmaker, Ravi (Kay Kay Menon), who decides to use it as a plot twist in his film.\n\nMeanwhile, a terrorist named Amol (Bhushan) wants the gun back and will stop at nothing to retrieve it. As Dinkar and Ravi navigate their respective worlds, they find themselves entangled in a series of misadventures, leading to a chaotic and unpredictable climax.\n\n'Aage Se Right' is a satirical comedy that pokes fun at the Indian film industry, the police force, and the societal obsession with fame and heroism. The movie features a talented ensemble cast, witty dialogue, and a host of humorous situations, making it an entertaining watch."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "594bc742e5d347d8cff7785cb9a832b5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 262.0 words or less.\n\n---\n\n**Title:**\n\nAage se right\n\n**Year:**\n\n2009",
+    "include_year": false
+}

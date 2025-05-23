@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Dead Ringer",
+    "descriptions": [
+        " In the 1964 psychological thriller \"Dead Ringer,\" directed by Paul Henreid, Bette Davis delivers a captivating dual performance as twin sisters, Edith and Margaret. The film explores the complex dynamics of sibling rivalry, jealousy, and revenge.\n\nEdith, a wealthy widow, and Margaret, a struggling bar owner, are polar opposites in every way. Their lives take a dramatic turn when Margaret, consumed by envy of her sister's affluent lifestyle, decides to assume Edith's identity after her husband's death. She uses a clever ruse to trick everyone into believing that she is Edith.\n\nAs Margaret enjoys her newfound wealth and quiets her conscience with her husband's morphine, Edith's former lover and private investigor, Jim Hobbson, becomes suspicious of her sudden change in behavior. He starts digging into her past, putting Margaret's scheme in jeopardy.\n\nThe tension escalates as the sisters' lives intertwine in a deadly game of deception. Margaret's grip on her new life begins to slip, and she is forced to confront the consequences of her actions. The film reaches its climax with a shocking revelation that tests the limits of sisterly love and loyalty. \"Dead Ringer\" is a chilling exploration of identity, morality, and the destructive power of envy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "e7a5935e21717fc8edca0d81974a4762",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964",
+    "include_year": false
+}

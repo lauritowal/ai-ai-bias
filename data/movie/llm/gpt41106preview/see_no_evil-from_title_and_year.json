@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "See No Evil",
+    "descriptions": [
+        "\"See No Evil\" (1971), also known as \"Blind Terror,\" is a British psychological thriller directed by Richard Fleischer. The film follows the story of Sarah, a young blind woman played by Mia Farrow, who returns to her uncle's countryside home after losing her eyesight. Unbeknownst to Sarah, a brutal family tragedy has occurred there, leaving her the sole survivor amidst unseen horrors.\n\nSarah's ordeal begins when she comes back from a horseback ride to find that her family members are not responding to her calls. As she navigates through the house, her disability prevents her from seeing the grisly fate that has befallen her loved ones; they have all been murdered by an unknown assailant. Oblivious to the danger she is in, Sarah carries on with her routine, unknowingly brushing past the corpses and the evidence of the gruesome acts committed in the home.\n\nThe tension mounts as the killer realizes that Sarah is blind and still inside the house. As night falls, Sarah starts to sense that something is terribly wrong, relying on her other senses to piece together the horrifying truth. The murderer, still nearby, becomes an ominous presence, and Sarah must use her wits and remaining senses to survive.\n\n\"See No Evil\" is a suspenseful thriller that plays on the vulnerability of its protagonist and the audience's fear of the unseen. It's a chilling tale of survival against a backdrop of silent terror, as Sarah's blindness adds a layer of chilling vulnerability to the already tense atmosphere."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "38af57b758f7cfdbfaf1e9c1580d897a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 265.0 words or less.\n\n---\n\n**Title:**\n\nSee No Evil\n\n**Year:**\n\n1971",
+    "include_year": false
+}

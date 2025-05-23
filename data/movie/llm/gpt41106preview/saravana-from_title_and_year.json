@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Saravana",
+    "descriptions": [
+        "\"Saravana\" is a Tamil-language romantic action film released in 2006. Directed by K. S. Ravikumar and starring Silambarasan and Jyothika in the lead roles, the film revolves around the life of Saravana (played by Silambarasan), who is a carefree and jovial college student.\n\nThe plot of \"Saravana\" unfolds as Saravana meets Sadhana (played by Jyothika) during a college event and instantly falls in love with her. Saravana's affable nature and charm win over Sadhana, and the two begin a sweet and tender romance. However, their love story is not without obstacles. Sadhana comes from a conservative family, and her brother, a powerful and influential man, has arranged for her to marry another person.\n\nSaravana is undeterred by the challenges, and he sets out to win Sadhana's family's approval. His journey is met with a series of confrontations and conflicts, as Sadhana's brother and the intended fiancé are not willing to let go easily. Saravana must prove his love and demonstrate his worthiness to Sadhana's family. Alongside this central narrative, there are subplots involving Saravana's friends and their own comedic and romantic escapades, which add a light-hearted touch to the film.\n\nThe film's climax involves Saravana's heartfelt efforts to rescue Sadhana from the unwanted marriage and confront her brother. In a typical masala movie fashion, there are action sequences, emotional confrontations, and dramatic revelations. Saravana's determination and bravery are put to the test as he navigates through the dangerous waters of familial honor and societal expectations.\n\nUltimately, \"Saravana\" is a story of true love overcoming all odds, with a mix of action, romance, and family drama that is characteristic of the Indian cinema of its time. The film's soundtrack, composed by Srikanth Deva, adds to the emotional and dramatic elements of the story, with songs that became popular among the audience.\n\n\"Saravana\" received mixed reviews upon release but managed to capture the attention of the audience, particularly for the chemistry between the lead actors and the entertainment value provided by the mix of genres."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7579a431f3c938c147f193a3de074bc0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 697.0 words or less.\n\n---\n\n**Title:**\n\nSaravana\n\n**Year:**\n\n2006",
+    "include_year": false
+}

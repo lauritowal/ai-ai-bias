@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daddy Cool",
+    "descriptions": [
+        "\"Daddy Cool\" (2009) follows the life of Tom O’Horgan, a washed-up rock star turned security guard in Las Vegas. Haunted by his past and seeking redemption, he reconnects with his estranged daughter, Lily, who dreams of becoming a singer. As Tom helps Lily pursue her music career, he is drawn back into the world of rock and roll, facing old demons and new challenges. The film blends humor, poignant moments, and a nostalgic look at the 1980s rock scene, as Tom learns to reconcile his past with his new role as a father."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "0a1b41ca8b850243987cd2bca5649dd9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 219.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Elementary School",
+    "descriptions": [
+        " In the 1991 Czechoslovakian film, \"The Elementary School,\" director Jan Svankmajer explores the absurdities and complexities of the human condition through the lens of a seemingly ordinary elementary school. The story unfolds in a surreal, Kafkaesque world where the line between reality and fantasy is blurred, and the audience is left to decipher the symbolism and metaphors that pervade the narrative.\n\nThe film primarily revolves around the lives of the school's eccentric staff, including the authoritarian headmaster, who rules with an iron fist, and the peculiar teachers, each with their unique quirks and obsessions. Their dysfunctional dynamics and the absurd school rules reflect the oppressive nature of the totalitarian regime that was still in power at the time of the film's release.\n\nThe students, who initially appear to be mere background characters, gradually reveal their own stories and struggles, mirroring the broader social and political issues faced by Czechoslovakia. They navigate the treacherous waters of childhood, grappling with issues such as bullying, loneliness, and the desire for individuality in a society that demands conformity.\n\nThroughout the film, Svankmajer employs his signature stop-motion animation to depict the students' fantasies, fears, and dreams. These surreal sequences, often featuring grotesque and bizarre imagery, serve to underscore the emotional turmoil and inner lives of the characters.\n\n\"The Elementary School\" ultimately serves as a scathing critique of the oppressive society in which it was created, using the microcosm of the school to expose the absurdity and hypocrisy of the ruling regime. However, the film also offers moments of dark humor and satire that lighten the otherwise heavy subject matter, making it a compelling and thought-provoking cinematic experience.\n\nDespite its seemingly simple premise, \"The Elementary School\" is a complex and layered film that requires multiple viewings to fully appreciate its nuances and symbolism. It is a testament to Svankmajer's unique vision and his ability to use the medium of film to explore profound and often uncomfortable truths about the human condition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "a24471cd36ea39a6538f7a9b8b035a9f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 331.0 words or less.\n\n---\n\n**Title:**\n\nThe Elementary School\n\n**Year:**\n\n1991",
+    "include_year": false
+}

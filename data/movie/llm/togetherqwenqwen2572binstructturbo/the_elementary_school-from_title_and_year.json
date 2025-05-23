@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Elementary School",
+    "descriptions": [
+        "**The Elementary School (1991)**\n\n Directed by Laurent Boutonnat, \"The Elementary School\" (French: \"L'École\") is a French drama that delves into the lives of a group of young students and their teacher, Monsieur Durand, in a Parisian elementary school. The film is a poignant exploration of innocence, curiosity, and the challenges of growing up in a diverse and sometimes harsh urban environment.\n\nSet in the early 1990s, the story revolves around a class of 10-year-olds who are navigating the complexities of their social dynamics, family issues, and personal aspirations. Monsieur Durand, a dedicated and compassionate teacher, tries to guide his students through their academic and emotional journeys, often stepping in to provide support and stability in their lives.\n\nThe film highlights the experiences of several key characters, including a bright and curious girl named Marie, who dreams of becoming a writer; a troubled boy, Vincent, who struggles with his parents' divorce; and a shy immigrant student, Amir, who faces the challenges of fitting in and overcoming language barriers. Through their interactions and the lessons they learn, the film captures the essence of childhood and the formative experiences that shape young minds.\n\n\"The Elementary School\" is a gentle and realistic portrayal of the everyday triumphs and setbacks of elementary school life. It touches on themes of friendship, resilience, and the importance of a supportive community. The film’s authentic and sensitive approach to its young cast and their stories has made it a beloved and enduring piece of French cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "cedcd23bceda646206522db018f9d1b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 324.0 words or less.\n\n---\n\n**Title:**\n\nThe Elementary School\n\n**Year:**\n\n1991",
+    "include_year": false
+}

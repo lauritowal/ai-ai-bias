@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aage se right",
+    "descriptions": [
+        "\"Aage Se Right\" (Starting from the Right) is a 2009 Indian comedy-drama that explores themes of love, family, and social norms. The film revolves around Rohit (played by Saurabh Shukla), a young man who finds himself at a crossroads in life. After a series of unfortunate events, including his girlfriend's disapproval and family pressure to marry a suitable bride, Rohit decides to seek the advice of a matchmaker. The matchmaker, however, suggests a series of complex and often humorous right-hand and left-hand gestures to help him choose the right path in life. Along the way, Rohit meets Priya (played by Sudam Jaisinghani), a woman with her own set of challenges and expectations. As they navigate through life's obstacles together, they learn about love, acceptance, and the importance of being true to oneself. The film blends comedy with heartfelt moments, ultimately delivering a message about embracing one's path in life and the power of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "594bc742e5d347d8cff7785cb9a832b5",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 262.0 words or less.\n\n---\n\n**Title:**\n\nAage se right\n\n**Year:**\n\n2009",
+    "include_year": false
+}

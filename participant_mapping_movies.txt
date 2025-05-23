@@ -1,0 +1,8 @@
+Participant ID mapping for Movies:
+Omitting 1: Fran
+Omitting 2: Mateusz
+Omitting 3: Muaaz
+Omitting 4: Musa
+Omitting 5: fnj
+Omitting 6: hammad
+Omitting 7: marta_st

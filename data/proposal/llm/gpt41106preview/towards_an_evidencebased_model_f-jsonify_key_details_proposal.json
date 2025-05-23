@@ -1,0 +1,41 @@
+{
+    "item_type": "proposal",
+    "title": "Towards an evidence-based model for big data policing: Evaluating the statistical-methodological, criminological and legal and ethical conditions",
+    "descriptions": [
+        {
+            "proposal_name": "Towards an evidence-based model for big data policing: Evaluating the statistical-methodological, criminological and legal and ethical conditions",
+            "proposal_details": {
+                "descriptions": [
+                    "Big data policing is a strategy utilizing historical data to predict high-risk crime locations to optimize police resource deployment and reduce crime rates."
+                ],
+                "variables": [
+                    "previous crime events",
+                    "poverty index",
+                    "residential mobility",
+                    "presence of shops",
+                    "distance to nearest highway",
+                    "intelligent cameras",
+                    "police patrol intensity"
+                ],
+                "knowledge_gaps": [
+                    "fragmented expertise in big data policing in Europe",
+                    "lack of interdisciplinarity in big data policing studies",
+                    "insufficient scientific evaluations of big data policing models"
+                ],
+                "project_objective": "To develop an evidence-based model for big data policing by integrating statistical-methodological, criminological, legal, and ethical dimensions, and to test the model through randomized controlled trials based on European and interdisciplinary principles.",
+                "PhD_tracks": [
+                    "statistical-methodological",
+                    "criminological",
+                    "legal",
+                    "ethical"
+                ],
+                "innovation_aspect": "The approach is distinct from commercial and economic initiatives by focusing on transparency regarding predictive reliability, validity, effectiveness, and legal and ethical standards."
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f5e3035b1931b041b8d013e09cbbcc25",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nTowards an evidence-based model for big data policing: Evaluating the statistical-methodological, criminological and legal and ethical conditions\n\n**Description:**\n\nBig data policing is an innovative strategy that uses historical data to forecast when and where there is a high risk of new crime events in order to use police resources more efficiently and proactively, and ultimately reduce crime rates. Big data policing models can consist of variables based on crime data available in police databases (e.g. previous crime events), socio-economic data (e.g. poverty index, residential mobility), opportunity characteristics (e.g. the presence of shops, distance to nearest highway), data from new technologies (e.g. intelligent cameras) and other known predictors of crime (e.g. police patrol intensity). However, there are several research gaps that need to be addressed. First, knowledge about and expertise in big data policing in Europe is currently fragmented. Second, there is a lack of interdisciplinarity with regard to big data policing studies, and yet the involvement of several disciplines is required when studying the issue. Third, there is a lack of scientific evaluations of big data policing models. The overarching objective of this ERC project is to unite and integrate the statistical-methodological, criminological, legal and ethical dimensions of big data policing in an evidence-based model that will be tested by different randomized controlled trials and built on the principles of an international (i.e. European) and interdisciplinary approach. The latter aim should be enabled by incorporating and conducting different PhD tracks focusing on these specific dimensions, which should allow better knowledge, insights and understanding of big data policing to be developed. This approach is innovative and radically different from the existing commercial and economic initiatives, which lack transparency on their predictive reliability and validity, effectiveness and legal and ethical safeguards."
+}

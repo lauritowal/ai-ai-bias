@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shakalaka Boom Boom",
+    "descriptions": [
+        "Shakalaka Boom Boom is a 2007 Indian Bollywood musical film directed by Suneel Darshan. The film revolves around two young musicians, AJ (played by Bobby Deol) and Reggie (played by Upen Patel), who were once friends and bandmates but had a falling out years ago. AJ is now a successful music composer, while Reggie is struggling to find his place in the music industry.\n\nA young and talented singer, Ruhi (played by Kangana Ranaut), enters the scene and becomes a key figure in bringing AJ and Reggie back together. As they collaborate on a new music project, old rivalries and tensions resurface, but they also discover a newfound appreciation for each other's talents.\n\nThroughout the film, AJ and Reggie's friendship is put to the test as they navigate the cutthroat music industry, deal with personal demons, and confront their past mistakes. Meanwhile, Ruhi finds herself caught in the middle of their rivalry and must navigate her own feelings and ambitions.\n\nThe film features a mix of music, drama, and romance, with a focus on the ups and downs of the music industry. The title \"Shakalaka Boom Boom\" refers to the catchy title song of the film, which becomes a hit and symbolizes the trio's musical chemistry. Ultimately, the film is a story about friendship, redemption, and the power of music to bring people together."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a5decffe654e0363ff95aa4f15fd3d88",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 338.0 words or less.\n\n---\n\n**Title:**\n\nShakalaka Boom Boom\n\n**Year:**\n\n2007",
+    "include_year": false
+}

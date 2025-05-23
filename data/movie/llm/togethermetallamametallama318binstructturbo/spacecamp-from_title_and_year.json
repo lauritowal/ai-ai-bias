@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "SpaceCamp",
+    "descriptions": [
+        "\"SpaceCamp\" is a 1986 American science fiction adventure film directed by Harry Harris. The movie takes place at a NASA training facility in Huntsville, Alabama, where a group of young teenagers participate in a Space Camp program to learn about space exploration and astronautical training.\n\nThe story centers around a group of five campers: T.J. (Kelly Preston), a rebellious teenager with a passion for space; Max (Laraine Newman), a cynical counselor who is initially hesitant to participate in the training; and three young campers, Scott (Scott Thomson), Jo (Joan Severance), and Chuck (John Ratzenberger). The campers are led by a team of NASA instructors, including Commander Jason Edwards (Dermot Mulroney) and astronaut Judy O'Brien (Lea Thompson).\n\nAs the campers progress through the training program, they have the opportunity to participate in a simulated space mission. However, things take a turn when they discover a hidden room in the training facility that contains a real-life space shuttle simulator. T.J. and his friends decide to sneak into the simulator and launch it into space, despite the warnings from the instructors.\n\nAs the campers blast off into space, they encounter a series of challenges and obstacles that test their skills and teamwork. Meanwhile, Commander Edwards and Judy O'Brien must navigate the crisis and try to rescue the campers before it's too late.\n\nThe movie features a mix of science fiction and coming-of-age themes, as the campers learn valuable lessons about teamwork, perseverance, and the importance of following rules. The film also features impressive special effects and a thrilling space adventure sequence.\n\n\"SpaceCamp\" was a commercial success upon its release and received positive reviews from critics, who praised the movie's unique blend of science fiction and adventure elements. The film has since become a cult classic and is still enjoyed by audiences today for its nostalgic charm and memorable performances."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cbc57be84c61d41c8779ccee8e6d4421",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 654.0 words or less.\n\n---\n\n**Title:**\n\nSpaceCamp\n\n**Year:**\n\n1986",
+    "include_year": false
+}

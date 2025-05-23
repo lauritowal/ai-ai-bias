@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Funny About Love",
+    "descriptions": [
+        "In the romantic comedy \"Funny About Love,\" directed by Leonard Nimoy in 1990, we follow the story of Duffy Bergman, a cartoonist who marries his childhood sweetheart, Meg Lloyd. As they navigate married life and the challenges that come with it, they struggle to conceive a child, which puts a strain on their relationship. \n\nDuffy finds himself tempted by another woman, Daphne Delillo, but ultimately decides to stay committed to his wife. However, Meg becomes pregnant through artificial insemination, complicating their already tumultuous relationship even further. As they try to navigate the complexities of parenthood and marriage, they must come to terms with their own insecurities and fears.\n\nThroughout the film, we see the ups and downs of their relationship, as well as the humorous moments that arise from their unconventional journey to parenthood. Despite the challenges they face, Duffy and Meg ultimately realize that love is about acceptance, compromise, and finding humor in the chaos of life.\n\n\"Funny About Love\" is a heartwarming tale that explores the complexities of relationships, parenthood, and the importance of communication and understanding in sustaining a lasting love. Through laughter and tears, Duffy and Meg learn that sometimes, the most important thing in life is being able to laugh about the things that make us human."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "ea05ec1ad63dbae0612e954bfcef03d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nFunny About Love\n\n**Year:**\n\n1990",
+    "include_year": false
+}

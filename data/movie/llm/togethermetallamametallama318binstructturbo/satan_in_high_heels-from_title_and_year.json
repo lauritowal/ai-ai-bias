@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Satan in High Heels",
+    "descriptions": [
+        "\"Satan in High Heels\" is a 1962 American musical comedy film directed by Douglas Sirk. The movie follows the story of Vicki Lynn (played by Jayne Mansfield), a struggling nightclub singer who becomes involved in a series of misadventures. Vicki is not only a talented performer but also a seductress who attracts the attention of various men, including her wealthy and demanding boss, Tony Vincent (played by Jack Jones).\n\nAs Vicki navigates her complicated personal and professional life, she finds herself torn between her desire for financial security and her need for independence. Along the way, she becomes embroiled in a series of comedic misadventures, including a high-speed car chase and a confrontation with a group of angry women.\n\nThe film features a mix of music, dance, and comedy, with Mansfield's performance as the charismatic and alluring Vicki serving as the central focus. While \"Satan in High Heels\" may not be a critically acclaimed film, it has developed a cult following over the years for its campy charm and Mansfield's energetic performance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "2503aa2bfec3a5b555d76aa997fd3006",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 208.0 words or less.\n\n---\n\n**Title:**\n\nSatan in High Heels\n\n**Year:**\n\n1962",
+    "include_year": false
+}

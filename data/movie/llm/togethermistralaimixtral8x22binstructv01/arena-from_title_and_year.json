@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Arena",
+    "descriptions": [
+        " In the futuristic world of 1989's \"Arena,\" intergalactic gladiatorial combat has become the most popular form of entertainment, broadcasted throughout the galaxy. The story follows Steve Armstrong (played by Paul Satterfield), a human fighter who is abducted from Earth to compete in the deadly games.\n\nUpon his arrival, Steve is trained by an alien mentor named Weezil (Marc Alaimo), who teaches him the skills needed to survive in the Arena. Steve's impressive abilities and determination quickly make him a fan favorite, which catches the attention of the malevolent owner of the Arena, Rogor (Armen Shimerman).\n\nRogor, threatened by Steve's growing popularity, challenges him to a high-stakes match against the undefeated champion, Horn (Hamilton Camp). The battle is fierce, but Steve's unwavering spirit and combat prowess eventually lead him to victory.\n\nIn the aftermath, Rogor, enraged by his champion's defeat, tries to have Steve killed. However, the human fighter manages to outwit him and expose Rogor's corrupt practices to the galaxy. With Rogor ousted, Steve takes over the Arena and vows to make it a place of fair competition and honor once again.\n\n\"Arena\" is a thrilling sci-fi adventure that explores themes of survival, redemption, and the human spirit's resilience in the face of adversity. With its engaging storyline and captivating visual effects, the movie offers a unique take on the gladiatorial combat genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+    "include_year": false
+}

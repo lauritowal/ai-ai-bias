@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Igby Goes Down",
+    "descriptions": [
+        "**Plot Summary:**\n\nIgby Goes Down, released in 2002, is a dark comedy directed by Hal Hartley. The film follows the troubled and rebellious 19-year-old Igby (played by Gabriel Byrne), who returns to his small hometown in the South after a stint in a mental institution. Upon his return, Igby is still struggling with self-image and a sense of purpose. He takes up with a local woman, Lola (played by Kate Lyn Sheil), who is the sister of his former high school sweetheart, Daisy (played by Lily Taylor).\n\nIgby's arrival stirs up old resentments and rivalries, particularly with his ex-girlfriend's brother, Jack (played by Paul Schneider), whom he must face after a childhood incident. Jack, a local bully and thug, has been keeping tabs on Igby and decides to challenge him to a fight. The fight goes badly for Igby, but his life takes an unexpected turn when he is involved in a hit-and-run accident, leaving a man in critical condition.\n\nFeeling guilty, Igby tries to cover up the incident. His actions lead him into a series of comedic and tragic situations, including running away from home and being pursued by local law enforcement and the man he hit. Along the way, he befriends a quirky local, a retired sheriff (played by David Paymer), and a washed-up country singer (played by Danny Glover), who offer him advice and support.\n\nThe film explores themes of identity, redemption, and the search for meaning. Igby's journey is filled with moments of dark humor, poignant reflection, and a quest to find his place in the world. The movie culminates in a series of emotional confrontations and revelations that challenge Igby's understanding of his past and his potential for change."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "c67777baafcc73035d776c6cd8d74ac3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 382.0 words or less.\n\n---\n\n**Title:**\n\nIgby Goes Down\n\n**Year:**\n\n2002",
+    "include_year": false
+}

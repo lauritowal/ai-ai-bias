@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Transit",
+    "descriptions": [
+        "In the 2012 film 'Transit,' a group of family vacationers are pursued by a ruthless and cunning thief. The story takes place on a road trip, where the main character, Nate, is traveling with his wife and son. Along the way, they pick up a hitchhiker who turns out to be a fugitive pursued by the police.\n\nHowever, unbeknownst to Nate and his family, this fugitive has stolen a large sum of money, which he conceals in their car. When a ruthless thief discovers the fugitive's ruse, he sets out to track down Nate's family to obtain the stolen money for himself.\n\nAs Nate and his family try to enjoy their vacation, they become increasingly entangled in a cat-and-mouse chase with the thief, who will stop at nothing to get the money. The film is a tense, action-packed thriller that explores the consequences of chance encounters and the lengths people will go to for survival."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "aec605f8f9222d29de447c44d00f6880",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1761.0 words or less.\n\n---\n\n**Title:**\n\nTransit\n\n**Year:**\n\n2012",
+    "include_year": false
+}

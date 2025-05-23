@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Detonator",
+    "descriptions": [
+        "The Detonator follows a former undercover CIA agent, Sonni Griffith, who is tasked with tracking down a stolen top-secret stealth bomber that is equipped with a nuclear warhead. As Griffith delves deeper into the investigation, he discovers a conspiracy involving Russian arms dealers and a corrupt American businessman. With the help of a beautiful Russian translator, Griffith races against time to prevent the bomber from being detonated in a major city, while also trying to uncover the true mastermind behind the plot. \n\nAs Griffith navigates through a web of lies and deceit, he must confront his own past and come to terms with the consequences of his actions as an agent. With intense action sequences and suspenseful twists, The Detonator keeps viewers on the edge of their seats as Griffith races to save innocent lives and prevent a catastrophic disaster. The film culminates in a high-stakes showdown where Griffith must make split-second decisions that will determine the fate of countless individuals."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c32b501ee1d9a114e3121fb32c9a718a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nThe Detonator\n\n**Year:**\n\n2006",
+    "include_year": false
+}

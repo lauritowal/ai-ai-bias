@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Expresso",
+    "descriptions": [
+        "Unfortunately, I couldn't find any information on a 2007 movie titled \"Expresso.\" If you could provide more context or details, I may be able to help you better."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e49f13d9da53bfce82c870a47a6608ac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 283.0 words or less.\n\n---\n\n**Title:**\n\nExpresso\n\n**Year:**\n\n2007",
+    "include_year": false
+}

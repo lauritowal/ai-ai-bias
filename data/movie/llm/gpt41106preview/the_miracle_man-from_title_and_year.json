@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Miracle Man",
+    "descriptions": [
+        "\"The Miracle Man\" is a 1919 silent film that tells the story of a group of con artists who exploit the faith of a small town to make money by orchestrating fake healings. The group, led by the cunning Tom Burke, hears about a faith healer known as the Patriarch in a rural village who is reputed to have genuine healing powers. Sensing an opportunity to capitalize on the villagers' beliefs, they set up a scam to profit from the Patriarch's reputation.\n\nTom, along with his accomplices, the cynical Rose and the contortionist known as \"The Frog,\" arrive in the town pretending to seek healing. The plan is for The Frog, who can contort his body in seemingly impossible ways, to feign a crippling disease that the Patriarch will then \"heal,\" thereby convincing onlookers of the Patriarch's divine power.\n\nHowever, as they integrate into the community and witness the Patriarch's genuine acts of kindness and healing, the con artists are profoundly affected. The pure faith and goodness of the people around them begin to inspire a change of heart. Rose finds herself drawn to the town's simple, honest way of life and starts to fall in love with John Madison, a local man who is also deeply influenced by the Patriarch's spirituality.\n\nUltimately, the presence of the Patriarch and the influence of the townspeople lead each member of the group to reevaluate their lives. The film culminates in their redemption as they abandon their deceitful ways, confess their intentions to the townspeople, and seek to make amends for their wrongdoing.\n\n\"The Miracle Man\" was a critical and commercial success upon its release and is considered a classic example of the silent film era. It showcased the transformative power of faith and redemption, themes that resonated deeply with audiences of the time."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "b59190dc96728848f2a5bf9c0b6ad920",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 316.0 words or less.\n\n---\n\n**Title:**\n\nThe Miracle Man\n\n**Year:**\n\n1919",
+    "include_year": false
+}

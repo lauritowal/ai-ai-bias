@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Sebastian Star Bear: First Mission",
+    "descriptions": [
+        "Sebastian Star Bear: First Mission is a 1991 Danish-American animated science fiction film. The movie follows the adventures of Sebastian Star Bear, a young bear who dreams of becoming an astronaut and exploring space. \n\nThe story begins with Sebastian living on the planet Ursa, where bears have developed advanced technology and live in harmony with their environment. Sebastian becomes fascinated with space travel and decides to pursue his dream by enrolling in the Ursa Space Academy. \n\nAfter completing his training, Sebastian is assigned to his first mission alongside his crewmates, a group of skilled bears from different planets. Their mission is to explore a distant planet and uncover its secrets. As they journey through space, they encounter various obstacles, including hostile aliens and malfunctioning equipment. \n\nThroughout the film, Sebastian learns valuable lessons about teamwork, perseverance, and the importance of following his dreams. With the help of his crewmates, Sebastian successfully completes his first mission and proves himself as a brave and capable space explorer.\n\nSebastian Star Bear: First Mission is a heartwarming and action-packed film that combines stunning animation with a compelling storyline, making it an enjoyable watch for both children and adults."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2161afbf04307680648f0b682e7dd848",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1096.0 words or less.\n\n---\n\n**Title:**\n\nSebastian Star Bear: First Mission\n\n**Year:**\n\n1991",
+    "include_year": false
+}

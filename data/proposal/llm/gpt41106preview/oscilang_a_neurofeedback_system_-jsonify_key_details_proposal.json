@@ -1,0 +1,37 @@
+{
+    "item_type": "proposal",
+    "title": "OsciLang: A neurofeedback system based on oscillatory activity for diagnosis and intervention in language and reading impairments",
+    "descriptions": [
+        {
+            "proposal_name": "OsciLang: A neurofeedback system based on oscillatory activity for diagnosis and intervention in language and reading impairments",
+            "proposal_details": {
+                "goal": "Provide an affordable, lightweight, wearable brain-computer-interface neurofeedback system for the detection and treatment of language disorders",
+                "target_disorders": [
+                    "dyslexia",
+                    "specific language impairment (SLI)"
+                ],
+                "functions": [
+                    "diagnose/measure",
+                    "improve/rehabilitate"
+                ],
+                "mechanism": "synchronize brain’s activity with changes in speech signal",
+                "innovation": "neurofeedback based on phase coherence of neural oscillatory activity with speech",
+                "research_basis": "reduced auditory tracking in delta band in dyslexic readers",
+                "expected_outcome": "improved literacy skills in dyslexics by enhancing brain-speech tracking capabilities",
+                "operational_environment": "especially in noisy environments",
+                "user_interaction": "interface that quantifies basic parameters of brain activity in real time via EEG",
+                "user_benefit": "facilitate top-down control on specific activation patterns",
+                "monitoring_parameters": [
+                    "phase coherence at theta band",
+                    "phase coherence at delta band"
+                ],
+                "potential_extension": "provide a framework and technology for enhancing reading abilities"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "aa2b9453daf188a47e27f658dd6521d9",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nOsciLang: A neurofeedback system based on oscillatory activity for diagnosis and intervention in language and reading impairments\n\n**Description:**\n\nThe goal of OsciLang is to provide an affordable, lightweight, wearable brain-computer-interface neurofeedback system that can facilitate the detection and treatment of language disorders such as dyslexia and specific language impairment (SLI). To date there is no established neurofeedback protocols for treating language or reading impairments. In essence, this tool will (a) diagnose/measure and (b) improve/rehabilitate an individual’s ability to synchronize their brain’s activity with changes in a speech signal. This novel type of neurofeedback, based on phase coherence of the neural oscillatory activity with speech, will allow us to detect and enhance language function. It capitalizes on our recent research on neural oscillations during speech processing, where we found reduced auditory tracking in delta band in dyslexic readers compared with controls, advocating impaired auditory processing in dyslexia. Thus, our work and related findings suggest that literacy skills in dyslexics will improve by means of neurofeedback training protocols that enhance brain-speech tracking capabilities, especially in noisy environments. OsciLang will help to sustainably enhance brain-speech synchronization strength by allowing participants to shape their neural activity while tracking speech. This will be accomplished by presenting participants with a simple and friendly interface that quantifies basic parameters of their brain activity in real time, measured via EEG. This information can then be used by participants to facilitate top-down control on specific activation patterns. Based on our prior findings, OsciLang’ algorithms will be monitoring phase coherence at theta and delta bands, an innovative approach that has yet to be implemented in a neurofeedback system. Oscilang will also lay the foundations for extending this novel approach to provide a general framework and technology for enhancing any individual’s ability to learn to read."
+}

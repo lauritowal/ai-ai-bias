@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Once Upon a Time in China II",
+    "descriptions": [
+        "\"Once Upon a Time in China II\" is a 1992 martial arts film directed by Tsui Hark, and it is the second installment in the \"Once Upon a Time in China\" series. The film serves as a sequel to the 1991 film of the same name.\n\nThe movie takes place after the events of the first film, with Wong Fei-Hung (played by Jet Li), a skilled martial artist and folk hero of the Qing dynasty, returning to his hometown of Foshan in Guangdong Province. Upon his return, he must deal with the consequences of his previous actions and face new challenges.\n\nThe story follows Wong as he confronts the corrupt and ruthless Qing officials, who are attempting to suppress the local population and suppress their cultural heritage. Wong must use his martial arts skills and cunning to protect the people of Foshan and uphold justice.\n\nMeanwhile, Wong's romantic interest, Leung Fung (played by Rosamund Kwan), is caught in the middle of the conflict, as her father, a Qing official, is at odds with Wong. The situation becomes complicated when Leung Fung's father orders her to marry a wealthy and powerful man, which goes against her feelings for Wong.\n\nThroughout the film, Wong faces numerous challenges, including fierce battles with the Qing officials and their minions, as well as internal conflicts with his own sense of identity and purpose. The film features a mix of action, romance, and drama, showcasing Wong's bravery, loyalty, and dedication to justice.\n\n\"Once Upon a Time in China II\" explores themes of cultural identity, social justice, and personal growth, making it a compelling and engaging watch for fans of martial arts films and historical dramas. The film's success was a major factor in the growth of the \"Once Upon a Time in China\" franchise, which went on to become one of the most popular and influential film series in Hong Kong cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "fe654dd8c1082b175d665ddc9a41f1b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 467.0 words or less.\n\n---\n\n**Title:**\n\nOnce Upon a Time in China II\n\n**Year:**\n\n1992",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Angaaray",
+    "descriptions": [
+        "**Plot Summary for Angaaray (1986):**\n\nAngaaray, released in 1986, is a poignant drama set against the backdrop of a small village in India, exploring themes of love, family, and destiny. The film revolves around the life of a young woman named Madhumita, played by Sridevi, who is deeply in love with a man named Aarav, portrayed by Anil Kapoor. Despite their affection for each other, societal pressures and family conflicts threaten their relationship.\n\nMadhumita comes from a conservative family where arranged marriages are the norm, and her parents wish her to marry a wealthy man named Dhiraj, played by Rajesh Khanna. The pull between her heart and her family's expectations creates a tense and emotional struggle. Aarav, who belongs to a lower economic status, faces the challenge of not only winning Madhumita's love but also her family's approval.\n\nThe story unfolds as Madhumita finds herself torn between her true love and the pressures of tradition. As the conflict intensifies, Aarav and Madhumita's love story takes a dramatic turn when Aarav enlists in the Indian Navy, leaving Madhumita to face the rigors of her family's wishes alone. The film climaxes with a heart-wrenching confrontation between Madhumita and her parents, where she must choose between love and duty.\n\nAngaaray, directed by Anil Gangaram Deshmukh, is a significant work in the Indian cinema, known for its powerful performances and poignant storyline. It explores the theme of following one's heart while adhering to societal norms, reflecting the complex realities of relationships and family dynamics in Indian society during the late 1980s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "23099c93cbbc3279840e0011027600bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 300.0 words or less.\n\n---\n\n**Title:**\n\nAngaaray\n\n**Year:**\n\n1986",
+    "include_year": false
+}

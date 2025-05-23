@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Making Ancestors: The Politics of Death in Prehistoric Europe",
+    "descriptions": [
+        "**Abstract:**\n\nThis grant proposal outlines the research project titled \"Making Ancestors: The Politics of Death in Prehistoric Europe,\" which seeks to re-evaluate the traditional understanding of inequality and politics in prehistoric Europe. The project challenges prevailing views by proposing that inequality manifested situationally rather than overtly, focusing on the Neolithic, Final Neolithic to Early Bronze Age, and Middle Bronze Age to Iron Age periods in Peninsular Italy. Utilizing osteobiography and funerary taphonomy, the project aims to analyze 200 individuals per period, providing empirical evidence to assess how inequality influenced lives and the role of ancestors in society. By testing alternative models of prehistoric inequality and death practices, this research will contribute significantly to our understanding of social dynamics and cultural evolution in prehistoric Europe."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "07485511691e77f68171fe53bcce83d6",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 275 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Making Ancestors: The Politics of Death in Prehistoric Europe', 'proposal_details': {'research_focus': 'politics and inequality in prehistoric Europe', 'critique_of_traditional_view': True, 'new_perspective': 'inequality manifesting situationally rather than overtly', 'empirical_testing': True, 'methodologies': ['osteobiography', 'funerary taphonomy'], 'test_sequence_region': 'Peninsular Italy', 'key_periods': [{'period': 'Neolithic', 'years': '6000-4000 BC'}, {'period': 'Final Neolithic to Early Bronze Age', 'years': '4000-1800 BC'}, {'period': 'Middle Bronze Age to Iron Age', 'years': '1800-600 BC'}], 'number_of_individuals_analyzed_per_period': 200, 'research_goals': ['evaluate how inequality affected lives', 'understand the role of ancestors'], 'descriptions': ['This project tests alternative models of prehistoric inequality and deathways.']}}"
+}

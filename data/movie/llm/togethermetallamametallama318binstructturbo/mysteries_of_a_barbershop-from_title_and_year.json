@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mysteries of a Barbershop",
+    "descriptions": [
+        "I couldn't find a movie with the title \"Mysteries of a Barbershop.\" However, I found a 1946 film called \"Mysteries of a Barbershop\" also known as \"Barbershops.\""
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "c3a73040dc46186b8543a8a8a85cd9df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nMysteries of a Barbershop\n\n**Year:**\n\n",
+    "include_year": false
+}

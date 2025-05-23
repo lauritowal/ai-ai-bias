@@ -1,0 +1,80 @@
+{
+    "item_type": "product",
+    "title": "YESWELDER True Color Solar Powered Auto Darkening Welding Helmet, Wide Shade 4/9-13 for TIG MIG ARC Weld Hood Helmet",
+    "descriptions": [
+        {
+            "product_name": "YESWELDER True Color Solar Powered Auto Darkening Welding Helmet",
+            "product_details": {
+                "suitable_processes": [
+                    "TIG",
+                    "MIG",
+                    "MMA"
+                ],
+                "viewing_size": {
+                    "width": 3.64,
+                    "height": 1.67
+                },
+                "sensors": 2,
+                "switch_speed": "1/30000 sec",
+                "optical_clarity": "1/1/1/1",
+                "lens_compatibility": "Cheater Lens / Magnifying Lens",
+                "battery_life": "Increased",
+                "comfort": "Superior with the pivot style headgear",
+                "shade_range": {
+                    "min": 4,
+                    "max": 13
+                }
+            }
+        },
+        {
+            "product_name": "YESWELDER True Color Solar Powered Auto Darkening Welding Helmet",
+            "product_details": {
+                "applications": [
+                    "TIG",
+                    "MIG",
+                    "MMA"
+                ],
+                "viewing_size": {
+                    "width": 3.64,
+                    "height": 1.67
+                },
+                "sensors": 2,
+                "switch_speed": "1/30000 sec",
+                "optical_clarity": "1/1/1/1",
+                "compatibility": [
+                    "Cheater Lens",
+                    "Magnifying Lens"
+                ],
+                "battery_life": "Increased",
+                "comfort": "Superior",
+                "headgear_style": "pivot"
+            }
+        },
+        {
+            "product_name": "YESWELDER True Color Solar Powered Auto Darkening Welding Helmet",
+            "product_details": {
+                "applications": [
+                    "TIG",
+                    "MIG",
+                    "MMA"
+                ],
+                "viewing_size": "3.64\"X1.67\"",
+                "sensors": 2,
+                "switch_speed": "1/30000 sec",
+                "optical_clarity": "1/1/1/1",
+                "lens_compatibility": [
+                    "Cheater Lens",
+                    "Magnifying Lens"
+                ],
+                "battery_life": "Increased",
+                "headgear_style": "Pivot"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "39a4a57f0dd4895a2fc4fad6757de8d5",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: YESWELDER True Color Solar Powered Auto Darkening Welding Helmet, Wide Shade 4/9-13 for TIG MIG ARC Weld Hood Helmet\n\nDescription: Great For TIG MIG MMA\n\nViewing Size 3.64\"X1.67\" with 2 Premium Sensors,switches from light to dark in 1/30000 sec\n\nBetter clarity, True color view - 1/1/1/1 Optical Clarity\n\nCheater Lens / Magnifying Lens Compatible Design\n\nIncreased battery life,Superior comfort with the pivot style headgear\n\n\n›  See more product details",
+    "__pydantic_initialised__": true
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Majunu",
+    "descriptions": [
+        "Majunu is a 2001 Indian Tamil-language film directed by Ravichandran. The film stars Prashanth and Rinke Khanna in the lead roles.\n\nThe plot revolves around Vasanth (played by Prashanth), a young man who works as a cab driver. He falls in love with Heena (played by Rinke Khanna), a beautiful and charming young woman. However, Heena is already engaged to marry a wealthy businessman named Kumar.\n\nVasanth and Heena's love blossoms despite the odds against them. Vasanth learns that Kumar is not the right man for Heena and decides to stop their wedding. He takes drastic measures and eventually exposes Kumar's true intentions.\n\nAs the story unfolds, Vasanth and Heena face various obstacles and challenges, but their love for each other remains strong. In the end, they manage to overcome the hurdles and be together.\n\nMajunu is a romantic drama that explores the complexities of love and relationships. The film features stunning music and impressive performances from the lead actors. Despite receiving mixed reviews from critics, Majunu has become a cult classic among fans of Tamil cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "4153211dec32c12f4dadd8e884f88e96",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 687.0 words or less.\n\n---\n\n**Title:**\n\nMajunu\n\n**Year:**\n\n2001",
+    "include_year": false
+}

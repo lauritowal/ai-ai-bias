@@ -1,0 +1,53 @@
+{
+    "item_type": "proposal",
+    "title": "Behavioural Principles of Large-Scale Cooperation",
+    "descriptions": [
+        {
+            "proposal_name": "Behavioural Principles of Large-Scale Cooperation",
+            "proposal_details": {
+                "problems_addressed": [
+                    "Global warming",
+                    "Covid19"
+                ],
+                "cooperation_importance": "Act in collective interest",
+                "current_models_limitation": "Focus on one narrow aspect",
+                "research_approach": "Integrated",
+                "interdisciplinary_fields": [
+                    "Economics",
+                    "Sociology",
+                    "Moral and Social Psychology"
+                ],
+                "ambition": "Unified science of human cooperation",
+                "key_concept": "Rule following",
+                "objectives": [
+                    "Develop a comprehensive model",
+                    "Experimentally test behavioural principles of cooperation",
+                    "Investigate behavioural links between principles",
+                    "Analyse models of social dilemmas",
+                    "Explain behaviour in large-scale cooperation problems"
+                ],
+                "methods": [
+                    "Combining insights and methods from different social sciences",
+                    "Novel experimentally tested framework",
+                    "Incentivised experiments in representative samples"
+                ],
+                "target_problems": [
+                    "Climate care"
+                ],
+                "target_audience": [
+                    "Researchers",
+                    "Policy makers"
+                ],
+                "project_name": "PRINCIPLES",
+                "descriptions": [
+                    "PRINCIPLES will equip researchers and policy makers across disciplines with behavioural principles, tools and data to study problems of cooperation using an interdisciplinary and experimentally tested framework."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3ecf320ffc9fba6cb6fcf588bbf03762",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nBehavioural Principles of Large-Scale Cooperation\n\n**Description:**\n\nGlobal warming and Covid19 are two prime examples of problems that require cooperation at a very large scale. A failure to cooperate, that is, to act in one’s self-interest rather than the collective interest, could spell a bleak future for humanity. When are people prepared to play their part in the solution of these fundamental problems? Current behavioural models of cooperation from across the social sciences, including economics, are inadequate for answering this fundamental question, because they typically focus on one narrow aspect of people’s behaviour, but people might be motivated by different factors at the same time. Hence, to make progress, an integrated approach is needed. The major ambition of my interdisciplinary research programme is to achieve synergy by combining insights and methods from economics, sociology, and moral and social psychology into a novel experimentally tested framework thereby making a major step forward in the creation of a unified science of human cooperation. Rule following is the most basic behaviour to achieve large-scale cooperation. I will use it as a first step to develop, and experimentally test a comprehensive model of behavioural principles of cooperation. Second, I will then employ the framework to systematically investigate behavioural links between previously disjointed behavioural principles as developed across the social sciences. I also use the model to provide comprehensive new behavioural analyses of the most important models of social dilemmas. Finally, I will use the new framework in representative samples from major economies around the globe to explain people’s behaviour in relevant large-scale cooperation problems, most importantly caring for the climate, by using incentivised experiments. PRINCIPLES will equip researchers and policy makers across disciplines with behavioural principles, tools and data to study problems of cooperation using an interdisciplinary and experimentally tested framework."
+}

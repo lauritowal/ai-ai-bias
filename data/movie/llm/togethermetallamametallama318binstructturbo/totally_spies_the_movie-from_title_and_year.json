@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Totally Spies! The Movie",
+    "descriptions": [
+        "Totally Spies! The Movie is a 2009 animated spy comedy film produced by Morgenfilms and Image Entertainment Corporation. The movie is based on the popular animated television series of the same name, which followed the adventures of three teenage girls who lead secret double lives as international spies.\n\nThe movie picks up where the TV series left off, with Sam, Alex, and Clover (the three main protagonists) having saved the world from various villains. However, their lives are not as glamorous as they seem, and they begin to feel like they're stuck in a rut.\n\nThe story takes a new turn when an evil villain named Gerald Trelawney escapes from prison and threatens to destroy the world. Trelawney has a personal vendetta against the spies, who foiled his previous plans, and he's determined to get revenge.\n\nThe spies must use their skills and teamwork to stop Trelawney and his minions. Along the way, they face numerous obstacles, including treacherous landscapes, high-tech gadgets, and even a rival spy agency that's trying to steal their secrets.\n\nAs the stakes get higher, the spies realize that they must work together if they're going to save the world. They use their unique skills and strengths to outsmart Trelawney's henchmen and navigate the complex web of international espionage.\n\nThroughout the movie, the spies also have to navigate their personal lives, which are just as complicated as their spy lives. They have to balance their relationships with their friends and family while keeping their secret lives a secret.\n\nIn the end, the spies succeed in stopping Trelawney and saving the world. However, the movie ends on a cliffhanger, setting up the possibility for a sequel.\n\nOverall, Totally Spies! The Movie is a fun and action-packed animated film that's perfect for fans of the TV series and spy movies in general. It features the same blend of humor, adventure, and girl power that made the TV series a hit, and it's sure to delight audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "8ea230c7c06d77539929cef83a2d38bd",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 906.0 words or less.\n\n---\n\n**Title:**\n\nTotally Spies! The Movie\n\n**Year:**\n\n2009",
+    "include_year": false
+}

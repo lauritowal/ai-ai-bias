@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Murder, He Says",
+    "descriptions": [
+        "**Murder, He Says (1945)**\n\n\"Murder, He Says\" is a British comedy-mystery film directed by Basil Dearden and starring Alfred Drayton, James Hayter, and Jean Cadell. The film revolves around the character of Sidney Bramble, played by Drayton, a timid and unassuming accountant who finds himself entangled in a series of bizarre and often hilarious murder cases. Each time a murder occurs, Sidney is inexplicably present at the scene, leading to his repeated involvement in the investigations.\n\nDespite his lack of formal training in detective work, Sidney's keen eye for detail and his unwitting knack for solving puzzles make him an effective, albeit accidental, detective. His wife, Mabel, is initially skeptical of his newfound hobby but gradually grows supportive as Sidney's reputation as a solver of crimes begins to spread.\n\nThe film's plot is a series of interconnected episodes, each centered around a different murder. Sidney's involvement in these cases often leads to misunderstandings and comic situations, as he tries to navigate the complexities of each investigation while maintaining his normal life. His interactions with the police, particularly the exasperated Inspector Roper, played by Hayter, add to the film's comedic elements.\n\nAs the story unfolds, Sidney's methods of solving crimes become more refined, and he starts to enjoy the thrill of the chase. However, his newfound enthusiasm for detective work also causes tension in his personal life, as he must make a choice between his mundane existence and his growing passion for solving murders.\n\n\"Murder, He Says\" is a delightful blend of humor and mystery, showcasing the charm and wit of its lead character as he stumbles through a series of unfortunate events, ultimately becoming the unlikely hero of his own story."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "3171934f93adba4345b5b913924511ad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 342.0 words or less.\n\n---\n\n**Title:**\n\nMurder, He Says\n\n**Year:**\n\n1945",
+    "include_year": false
+}

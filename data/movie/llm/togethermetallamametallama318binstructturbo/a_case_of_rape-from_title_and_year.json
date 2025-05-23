@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "A Case of Rape",
+    "descriptions": [
+        "'A Case of Rape' is a 1974 American drama film directed by Joseph Hardy. The movie revolves around the rape of a college student, Jennifer, by her date, Richard, at a party. The film explores the aftermath of the event from both the victim's and the perpetrator's perspectives.\n\nThe story follows Jennifer, who is struggling to cope with the traumatic experience. She faces emotional turmoil, fear, and anxiety as she tries to come to terms with what happened. Meanwhile, Richard, who initially denies the crime, eventually confesses and is arrested.\n\nAs the story unfolds, the movie delves into the complexities of the case, highlighting the gray areas between consent and non-consent. It also sheds light on the societal attitudes towards rape, the victim-blaming culture, and the inadequate support system for survivors.\n\nThroughout the film, the characters' emotions and actions are portrayed in a realistic and nuanced manner, often blurring the lines between right and wrong. The movie raises important questions about the nature of consent, the consequences of rape, and the need for a more empathetic and supportive society.\n\n'A Case of Rape' was a groundbreaking film in its time, tackling a sensitive and often taboo topic. The movie's thought-provoking narrative and its exploration of complex themes continue to resonate with audiences today. Although it may not be as widely known as some other films, 'A Case of Rape' remains a significant and influential work in the drama genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "6a86e493dccbc8de901a3b12de7aa7f6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 333.0 words or less.\n\n---\n\n**Title:**\n\nA Case of Rape\n\n**Year:**\n\n1974",
+    "include_year": false
+}

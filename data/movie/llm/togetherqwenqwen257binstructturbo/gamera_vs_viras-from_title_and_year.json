@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gamera vs. Viras",
+    "descriptions": [
+        "In 1968, \"Gamera vs. Viras\" is a thrilling installment in the Gamera series. Gamera, the legendary flying turtle, is once again called to defend Earth from an alien threat. This time, the menace is Viras, a colossal alien monster with the ability to manipulate gravity. The creature crashes onto a Japanese island, causing chaos and destruction. The Japanese government mobilizes all available resources to combat Viras, but Gamera emerges from his hidden lair to face the gravity-manipulating beast. The battle between Gamera and Viras is intense, with the flying turtle utilizing his unique powers to counter Viras's abilities. As the two titanic creatures clash, Gamera's friends and allies come to his aid, fighting alongside him to protect humanity. The film builds towards an epic showdown where Gamera must use his full strength to defeat Viras and save the world from this new cosmic threat."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "d2f57f3aac903c548bde178b7c53cffa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nGamera vs. Viras\n\n**Year:**\n\n1968",
+    "include_year": false
+}

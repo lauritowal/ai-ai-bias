@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spider Forest",
+    "descriptions": [
+        "\"Spider Forest\" is a 2004 South Korean psychological thriller directed by Song Il-gon. The film is known for its complex narrative and atmospheric tension, weaving a dark and haunting tale that delves into the human psyche and the nature of memory and reality.\n\nThe plot follows Kang Min (played by Kam Woo-sung), a television producer who wakes up in the mysterious Spider Forest only to witness the gruesome murder of his girlfriend, Min Ji-won (played by Kang Kyeong-heon), and his colleague. Horrified and disoriented, he stumbles out of the forest and is hit by a car. When he comes to, he finds himself in a hospital with no clear memory of how he got there or what transpired in the forest.\n\nAs Kang Min recovers, he is plagued by fragmented and disturbing memories of the forest, the murders, and events leading up to them. He becomes obsessed with piecing together his broken memories to uncover the truth and is determined to return to Spider Forest to solve the mystery. However, his quest is hindered by his injuries, the skepticism of those around him, and his own faltering grasp on reality.\n\nThe film's narrative structure is non-linear, with flashbacks and ambiguous scenes that challenge the viewer's perception of what is real and what might be a product of Kang Min's traumatized mind. The forest itself, shrouded in mystery and darkness, becomes a character in its own right, symbolizing the tangled web of the human mind and the secrets it can hold.\n\nAs Kang Min delves deeper into his own subconscious and the enigmatic circumstances surrounding the murders, the line between victim and perpetrator begins to blur. The movie explores themes of love, loss, guilt, and the human capacity for violence, ultimately leaving the audience to question the reliability of memory and the possibility of redemption.\n\n\"Spider Forest\" is a film that stays with the viewer long after the credits roll, inviting interpretations and discussions about its intricate plot and the complex nature of its characters' motivations. It's a haunting cinematic experience that combines psychological depth with the eerie allure of a classic thriller."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7bc41809a75823e4ee0735b382cad28c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 376.0 words or less.\n\n---\n\n**Title:**\n\nSpider Forest\n\n**Year:**\n\n2004",
+    "include_year": false
+}

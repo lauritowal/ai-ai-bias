@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pyaar Ke Side Effects",
+    "descriptions": [
+        "\"Pyaar Ke Side Effects\" (2006) is a romantic comedy film from Bollywood that explores the complexities and humorous aspects of relationships and love. The title literally translates to \"The Side Effects of Love.\"\n\nThe story revolves around a commitment-phobic DJ, Siddharth Bose, known as Sid, played by Rahul Bose, who enjoys his bachelor lifestyle and is in no hurry to settle down. His outlook towards life is laid-back and he shies away from serious commitments, especially marriage.\n\nSid's life takes an unexpected turn when he meets the vibrant and beautiful Trisha Mallick, portrayed by Mallika Sherawat. Despite his fears of commitment, Sid falls for Trisha, and they begin a passionate relationship. Trisha, on the other hand, is ready to take the next step and is eager to get married.\n\nThe plot thickens as Sid grapples with his fear of marriage and the expectations of Trisha and her family. Sid's comic and often clumsy attempts to confront his phobias and the societal pressure to tie the knot form the crux of the story. The couple goes through a rollercoaster of emotions and situations, dealing with their friends' opinions, family pressures, and their own doubts about marriage.\n\nAs the film unfolds, Sid's journey towards overcoming his fears is marked by a series of humorous and heartwarming events. The side effects of love are depicted through the ups and downs in Sid and Trisha's relationship, including misunderstandings, arguments, and reconciliations. The narrative is interspersed with witty dialogues and situational comedy, making it a relatable and entertaining depiction of modern-day romance.\n\nIn the climax, Sid must decide whether he is willing to confront his deepest fears and commit to Trisha or continue to run from the idea of marriage. The film reaches a resolution that addresses the side effects that love has on both Sid and Trisha's lives.\n\n\"Pyaar Ke Side Effects\" struck a chord with audiences for its lighthearted take on relationships, the charming chemistry between the leads, and its humorous portrayal of the dilemmas faced by couples contemplating marriage."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "945de2a97984919b6ffe7fed2110f877",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 356.0 words or less.\n\n---\n\n**Title:**\n\nPyaar Ke Side Effects\n\n**Year:**\n\n2006",
+    "include_year": false
+}

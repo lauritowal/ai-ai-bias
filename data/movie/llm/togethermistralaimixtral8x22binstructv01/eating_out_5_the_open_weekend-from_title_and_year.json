@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eating Out 5: The Open Weekend",
+    "descriptions": [
+        " In the 2011 romantic comedy \"Eating Out 5: The Open Weekend,\" the franchise continues its exploration of the complexities of love and sexuality within the LGBTQ+ community. The story follows Zack and his new boyfriend Benji, who decide to take a weekend trip to a gay resort in Palm Springs. Hoping to reinvigorate their relationship, they soon find themselves surrounded by a diverse group of characters, each with their own quirks and romantic entanglements.\n\nAs they settle into the resort, Zack and Benji meet Casey, a charming and ambitious young man who catches Zack's eye. Meanwhile, Benji becomes infatuated with Luis, the resort's handsome and enigmatic owner. As relationships evolve and new connections are made, the group must navigate a web of lies, jealousy, and insecurity.\n\nThe film explores themes of commitment, monogamy, and the fluidity of sexuality, all while delivering its signature blend of humor and heart. As the weekend progresses, the characters grapple with their desires and insecurities, ultimately learning that honesty and self-acceptance are the keys to finding true love. \"Eating Out 5: The Open Weekend\" is a light-hearted yet thought-provoking addition to the popular \"Eating Out\" series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "13400134e181445799c0d6432aa8911b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 234.0 words or less.\n\n---\n\n**Title:**\n\nEating Out 5: The Open Weekend\n\n**Year:**\n\n2011",
+    "include_year": false
+}

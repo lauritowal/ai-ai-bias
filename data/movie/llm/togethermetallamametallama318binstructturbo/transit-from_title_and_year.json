@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Transit",
+    "descriptions": [
+        "\"Transit\" is a 2012 French drama film directed by Christian Petzold, based on the 1944 novel of the same name by Anna Seghers. Set in Marseille during World War II, the film follows a German theatrical director, Georg Meisel, who is on the run from the Nazis.\n\nAfter the fall of France, Georg's wife, Maria, was forced to leave him to join the French Resistance. Georg is struggling to find his footing in Marseille, where he faces poverty, hunger, and the constant threat of capture by the Nazis.\n\nMeanwhile, a young doctor named Weidel arrives in Marseille, and through a series of events, Georg is forced to impersonate him in order to obtain a visa to leave France. As Georg assumes Weidel's identity, he becomes embroiled in the doctor's complicated relationships with his wife, Marie, and his mistress, Céline.\n\nAs Georg navigates the complexities of Weidel's life, he begins to develop feelings for Marie, which creates tension in his relationships with both Marie and Céline. The film explores themes of identity, love, and survival in the midst of war.\n\n\"Transit\" is a poignant and thought-provoking exploration of the human experience during one of the darkest periods in history. Through its complex characters and nuanced storytelling, the film offers a powerful commentary on the fragility of human relationships and the importance of survival."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "aec605f8f9222d29de447c44d00f6880",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1761.0 words or less.\n\n---\n\n**Title:**\n\nTransit\n\n**Year:**\n\n2012",
+    "include_year": false
+}

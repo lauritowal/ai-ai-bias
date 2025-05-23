@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Curse of Frankenstein",
+    "descriptions": [
+        "The Curse of Frankenstein is a 1957 British horror film directed by Terence Fisher. The movie serves as a loose adaptation of Mary Shelley's classic novel, 'Frankenstein.' The story revolves around Victor Frankenstein, played by Peter Cushing, a brilliant and ambitious scientist who becomes obsessed with the idea of creating life.\n\nThe film begins with Victor Frankenstein in prison, awaiting his execution for a murder he claims he did not commit. As he tells his story to a priest, the narrative unfolds through a series of flashbacks. Victor, fueled by his obsession, recruits his former tutor, Paul Krempe (Robert Urquhart), to help him in his experiments.\n\nVictor's experiments involve reanimating the dead using electricity. However, as the story progresses, Victor's fixation on his work leads him down a dark path. He becomes increasingly ruthless and willing to do whatever it takes to achieve his goal, including murder.\n\nAfter Victor and Paul successfully create the creature, played by Christopher Lee, Victor's obsession takes a toll on his relationships. Paul, horrified by the creature's appearance and Victor's actions, tries to leave, but Victor will not let him go. The creature eventually breaks free and wreaks havoc on the town, leading to a tragic confrontation between Victor and his creation.\n\nThe Curse of Frankenstein marks a significant milestone in the history of horror cinema, particularly for Hammer Films, a British production company known for their gothic horror films. The movie's success can be attributed to its atmospheric setting, coupled with Peter Cushing's portrayal of the complex and twisted Victor Frankenstein. The film's influence can still be seen in modern adaptations of the classic novel and remains a classic in the horror genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8692f6b0605433225a3a2298ec4ec951",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 426.0 words or less.\n\n---\n\n**Title:**\n\nThe Curse of Frankenstein\n\n**Year:**\n\n1957",
+    "include_year": false
+}

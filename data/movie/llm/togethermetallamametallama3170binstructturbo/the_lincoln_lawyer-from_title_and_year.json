@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Lincoln Lawyer",
+    "descriptions": [
+        "The Lincoln Lawyer is a 2011 American crime thriller film directed by Brad Furman. The movie is based on the 2005 novel of the same name by Michael Connelly.\n\nThe story revolves around Mick Haller (played by Matthew McConaughey), a defense attorney who operates out of the back of his Lincoln Town Car. Haller is a smooth-talking and confident lawyer who has a knack for winning cases. He takes on a high-profile case defending Louis Roulet (played by Ryan Phillippe), a wealthy real estate agent accused of assaulting a prostitute.\n\nAs Haller delves deeper into the case, he starts to suspect that Roulet may be more involved in the crime than he initially claimed. Haller's investigation puts him at odds with the prosecution, led by a determined district attorney (played by Josh Lucas). Meanwhile, Haller's personal life is also complicated, as he is going through a divorce with his ex-wife Maggie (played by Marisa Tomei), who is also a prosecutor.\n\nAs the trial approaches, Haller becomes increasingly entangled in the complexities of the case, and he must use his wit and cunning to prove Roulet's innocence. However, Haller soon discovers a dark secret about Roulet's past, which threatens to destroy his defense strategy.\n\nThroughout the film, Haller's character is portrayed as a morally ambiguous figure who operates in the gray areas of the law. Despite his questionable tactics, Haller is a charismatic and likable protagonist who is driven by a desire to win at all costs.\n\nThe film features a strong supporting cast, including William H. Macy as Haller's private investigator and Bryan Cranston as a detective who is investigating Roulet. The movie's climax features a tense courtroom showdown between Haller and the prosecution, with Haller using his skills to turn the case in his favor.\n\nOverall, The Lincoln Lawyer is a gripping and engaging thriller that explores the complexities of the justice system. With its strong performances and clever plot twists, the film is a compelling watch for fans of crime dramas."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "443105cc171f90876b344694e812cdd6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 664.0 words or less.\n\n---\n\n**Title:**\n\nThe Lincoln Lawyer\n\n**Year:**\n\n2011",
+    "include_year": false
+}

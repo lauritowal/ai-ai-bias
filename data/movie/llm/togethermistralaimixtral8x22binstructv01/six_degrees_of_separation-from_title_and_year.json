@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Six Degrees of Separation",
+    "descriptions": [
+        " In the 1993 drama \"Six Degrees of Separation,\" a young, charismatic African-American man named Paul (played by Will Smith) enters the lives of an upper-class New York couple, Flan and Ouisa Kittredge (Stockard Channing and Donald Sutherland). Paul arrives at their apartment claiming to be a friend of their children and the son of Sidney Poitier. Captivated by his charm and intelligence, the Kittredges invite him in, and he regales them with tales of his life and connections to the rich and famous.\n\nOver time, Paul becomes a regular visitor in their home, even introducing the couple to his wealthy and influential friends. However, when Paul's lies begin to unravel, the Kittredges are left questioning their own naivety and the nature of their relationships with those around them. As they delve deeper into Paul's background, they discover a web of deceit and manipulation that stretches across the city, and they are forced to confront the truth about their own privilege and prejudice.\n\n\"Six Degrees of Separation\" is a thought-provoking examination of class, race, and the ways in which we connect with one another. Based on the play by John Guare, the film is a poignant exploration of the human condition and the lengths to which we will go to maintain our illusions of status and belonging."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+    "include_year": false
+}

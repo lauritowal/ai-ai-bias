@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Wing and a Prayer",
+    "descriptions": [
+        "In the midst of World War II, \"Wing and a Prayer\" follows the crew of a U.S. Navy aircraft carrier, the fictional USS Enterprise, as they navigate the dangerous waters of the Pacific Ocean. The film begins with the crew facing a series of challenging missions, including air raids, enemy attacks, and the constant threat of Japanese forces. Despite the odds stacked against them, the crew members, led by Captain Wooley, are determined to carry out their duties and protect their country.\n\nAs the battles rage on, tensions rise among the crew as they struggle to cope with the stress and uncertainty of war. Personal relationships are tested, friendships are strained, and sacrifices must be made in order to ensure the safety of the ship and its crew. Throughout it all, the crew members must rely on each other for support and guidance as they face the harsh realities of combat.\n\nAmidst the chaos of war, a sense of camaraderie and unity begins to emerge among the crew. They learn to trust each other, work together as a team, and find strength in their shared mission. Through their bravery and determination, they are able to overcome seemingly insurmountable obstacles and emerge victorious in the face of adversity.\n\nAs the film reaches its climax, the crew of the USS Enterprise faces their most challenging mission yet. They are tasked with leading a crucial assault against a heavily fortified enemy stronghold, where they must confront overwhelming odds and put their lives on the line for the greater good. With their courage and resilience put to the ultimate test, the crew must summon all of their training and skill to achieve their objective and emerge victorious in the face of overwhelming danger.\n\nIn the end, \"Wing and a Prayer\" is a stirring tribute to the courage and sacrifice of the men who served on the front lines of World War II. Through their struggles and triumphs, the crew of the USS Enterprise exemplifies the values of honor, duty, and perseverance in the face of adversity. As they navigate the treacherous waters of war, they prove that with determination, unity, and a wing and a prayer, anything is possible."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "9412756760b66483092bdd4129e65259",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 532.0 words or less.\n\n---\n\n**Title:**\n\nWing and a Prayer\n\n**Year:**\n\n1944",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Click",
+    "descriptions": [
+        "'Click' is a 2006 American fantasy comedy-drama film directed by Frank Coraci and starring Adam Sandler. The movie is loosely based on the 2000 German film 'Der Erste Herr der Erde' (The First Man on Earth).\n\nMichael Newman (played by Adam Sandler) is a workaholic architect who has been neglecting his family, particularly his wife Donna (played by Kate Beckinsale) and their son Ben (played by Joseph Castanon). Michael has been preoccupied with his career and has lost touch with his family.\n\nOne day, while shopping for a universal remote control, Michael meets Morty (played by Christopher Walken), an eccentric and wise old man who claims to have the perfect remote. Michael buys the remote, and as he starts using it, he discovers that it has the ability to fast-forward through his life.\n\nMichael uses the remote to speed through mundane tasks and chores, and at first, it seems to have a positive impact on his life. He has more time to spend with his family, and his career begins to flourish. However, as Michael continues to use the remote, he starts to miss out on important moments in his life, including his son's childhood and his wife's needs and feelings.\n\nAs Michael's life begins to unravel, he starts to realize that the remote is not as perfect as he thought. In fact, it's a curse that's causing him to miss out on the things that truly matter in life. With the help of Morty, who becomes a mentor to Michael, he learns the value of living in the present and appreciating the people and moments that make life worth living.\n\nIn the end, Michael must decide whether to continue using the remote or to live life on his own terms. Will he choose to fast-forward through the rest of his life or take a chance on the present? 'Click' is a heartwarming and thought-provoking film that explores the importance of family, love, and living in the moment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1b275e4f011ed5d6252523067f4193e6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 828.0 words or less.\n\n---\n\n**Title:**\n\nClick\n\n**Year:**\n\n2006",
+    "include_year": false
+}

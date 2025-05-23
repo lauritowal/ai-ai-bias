@@ -1,0 +1,40 @@
+{
+    "item_type": "proposal",
+    "title": "Firm Growth and Market Power in the Global Economy",
+    "descriptions": [
+        {
+            "proposal_name": "Firm Growth and Market Power in the Global Economy",
+            "proposal_details": {
+                "research_objective": "Analyze the sources of firm growth and market power to provide insights into welfare and policy in a globalized world.",
+                "motivation_ec_reference": "EC 2007",
+                "research_methodology": {
+                    "approach": "Incorporate richer firms behavior in models of international trade",
+                    "perspective": "How trade and industrial policies impact growth, especially in less developed markets"
+                },
+                "research_questions": [
+                    "How can trade and competition policy ensure consumers benefit from globalization when firms engaged in international trade have market power?",
+                    "How do domestic policies to encourage agribusiness firms affect the extent to which small farmers gain from trade?",
+                    "How do industrial policies affect firm growth through input linkages?",
+                    "What is the impact of banking globalization on the growth of firms in the real sector?"
+                ],
+                "research_activities": {
+                    "duration_years": 5,
+                    "data_focus": "Developing economies",
+                    "integration": "Theoretical work with rich data"
+                },
+                "expected_outcomes": [
+                    "Expand the frontier of knowledge on trade and industrial policy",
+                    "Provide a basis for informed policymaking"
+                ],
+                "descriptions": [
+                    "BIGlobal will examine the sources of firm growth and market power to provide new insights into welfare and policy in a globalized world."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "00ad70b01e61fdf00a0a8f5cfa22b085",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nFirm Growth and Market Power in the Global Economy\n\n**Description:**\n\nAccording to the European Commission, to design effective policies for ensuring a “more dynamic, innovative and competitive” economy, it is essential to understand the decision-making process of firms as they differ a lot in terms of their capacities and policy responses (EC 2007). The objective of my future research is to provide such an analysis. BIGlobal will examine the sources of firm growth and market power to provide new insights into welfare and policy in a globalized world. Much of analysis of the global economy is set in the paradigm of markets that allocate resources efficiently and there is little role for policy. But big firms dominate economic activity, especially across borders. How do firms grow and what is the effect of their market power on the welfare impact of globalization? This project will determine how firm decisions matter for the aggregate gains from globalization, the division of these gains across different individuals and their implications for policy design. Over the next five years, I will incorporate richer firms behaviour in models of international trade to understand how trade and industrial policies impact the growth process, especially in less developed markets. The specific questions I will address include: how can trade and competition policy ensure consumers benefit from globalization when firms engaged in international trade have market power, how do domestic policies to encourage agribusiness firms affect the extent to which small farmers gain from trade, how do industrial policies affect firm growth through input linkages, and what is the impact of banking globalization on the growth of firms in the real sector. Each project will combine theoretical work with rich data from developing economies to expand the frontier of knowledge on trade and industrial policy, and to provide a basis for informed policymaking."
+}

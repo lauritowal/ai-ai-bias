@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "On the Edge of Innocence",
+    "descriptions": [
+        "\"On the Edge of Innocence\" is a 1997 American drama film written and directed by John G. Avildsen. The movie revolves around the life of a young woman named Jenny Quinn, portrayed by Sharon Stone, who is a single mother living in a small town in the United States.\n\nJenny is a free-spirited and independent woman who struggles to make ends meet. Despite her tough exterior, she is a devoted mother to her 14-year-old daughter, Jessie. However, their lives are turned upside down when a new family, the Swansons, moves into the neighborhood. The father, played by Joe Mantegna, is a man with a troubled past who is trying to rebuild his life.\n\nAs the story unfolds, Jenny and the Swansons' father start a romantic relationship. This new relationship brings about a sense of stability and security for Jenny and her daughter, but it also raises questions about morality and the consequences of their actions.\n\nThe movie explores the complexities of relationships and the challenges faced by single mothers. It also delves into the theme of redemption, as the Swansons' father tries to make amends for his past mistakes.\n\nThroughout the film, the relationships between the characters are portrayed as complex and multifaceted. The characters are not one-dimensional, and their motivations and actions are driven by a desire to connect with each other and find happiness.\n\nThe movie features a strong performance from Sharon Stone, who brings depth and nuance to the character of Jenny Quinn. The supporting cast, including Joe Mantegna and Eric Balfour, also deliver solid performances that add to the emotional impact of the film.\n\nUltimately, \"On the Edge of Innocence\" is a thought-provoking drama that explores the intricacies of human relationships and the challenges faced by those who are struggling to find their place in the world. The movie raises important questions about morality, redemption, and the consequences of our actions, and it encourages viewers to think critically about the complexities of human relationships."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "9a7a04ff08db77912a66f6e4be3ee010",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 719.0 words or less.\n\n---\n\n**Title:**\n\nOn the Edge of Innocence\n\n**Year:**\n\n1997",
+    "include_year": false
+}

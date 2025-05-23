@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Expresso",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Expresso\" (2007) follows the chaotic journey of a late-night express train that becomes a microcosm of societal tensions and personal dramas. The story unfolds as passengers, including a struggling actress, a desperate job seeker, and a disillusioned businessman, board the train. As the journey progresses, their lives intersect in unexpected ways, revealing personal secrets and conflicts. The train's journey from the bustling city to a remote rural station becomes a metaphor for the journey of self-discovery and confrontation of one's true desires. Along the way, the passengers face moral dilemmas, confront personal fears, and seek redemption. The film culminates in a thrilling climax that challenges the characters' perceptions of right and wrong, ultimately leading to a transformative experience for each of them."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "e49f13d9da53bfce82c870a47a6608ac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 283.0 words or less.\n\n---\n\n**Title:**\n\nExpresso\n\n**Year:**\n\n2007",
+    "include_year": false
+}

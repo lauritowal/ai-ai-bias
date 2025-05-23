@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hot Blood",
+    "descriptions": [
+        "\"Hot Blood\" is a 1956 American drama film directed by Nicholas Ray and Guy Trosper. The movie is set in Sicily and tells the story of a young, passionate, and fiercely independent woman, Vicky Parker (played by Jane Russell), who works as a nightclub singer. Vicky is determined to escape her life of poverty and bring her family out of their struggling circumstances.\n\nVicky meets and falls in love with a charismatic and charming young man, Al (played by Cornel Wilde), who is a passionate and idealistic artist. Al's dedication to his art and his love for Vicky inspire her to pursue her own dreams and ambitions.\n\nAs Vicky and Al's relationship deepens, they must confront the societal norms and expectations that threaten to tear them apart. The film explores themes of love, passion, and the struggle for individuality and self-expression.\n\nShot on location in Italy, \"Hot Blood\" is a visually stunning and emotionally charged film that celebrates the beauty and intensity of the human experience. With its powerful performances and sweeping cinematography, \"Hot Blood\" remains a classic of American cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "25f211d561e48c823de2791c70bc36ed",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+    "include_year": false
+}

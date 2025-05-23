@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Elementary School",
+    "descriptions": [
+        "**Plot Summary:**\n\"The Elementary School\" (1991) is a chilling psychological thriller that delves into the dark underbelly of a seemingly normal elementary school. Set in the desolate outskirts of an unnamed city, the film follows the story of a group of young students and their teachers who begin to experience a series of inexplicable and terrifying occurrences. Strange noises, unexplained injuries, and uncharacteristic behavior from their peers and teachers create an atmosphere of fear and suspicion. As the events escalate, a group of students and staff members must uncover the hidden truth behind the school's walls, which may involve a teacher with a sinister agenda. The film culminates in a tense confrontation that challenges the very essence of trust and authority. Through its haunting imagery and unsettling atmosphere, \"The Elementary School\" offers a stark commentary on the fragility of innocence and the unpredictable nature of human nature."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a24471cd36ea39a6538f7a9b8b035a9f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 331.0 words or less.\n\n---\n\n**Title:**\n\nThe Elementary School\n\n**Year:**\n\n1991",
+    "include_year": false
+}

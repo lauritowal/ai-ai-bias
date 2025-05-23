@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stardust",
+    "descriptions": [
+        "In the fantastical world of Stardust, a young man named Tristan Thorn lives in the quaint English village of Wall. One night, while trying to impress his crush Victoria, he promises to retrieve a fallen star for her in exchange for her hand in marriage. Little does he know that the star has fallen in a magical realm beyond the Wall, and that it is not just a chunk of rock, but a living, breathing woman named Yvaine.\n\nTristan sets off on a journey to find the star, unaware of the dangers that lie ahead. Along the way, he discovers that Yvaine is being hunted by the wicked witch queen, Lamia, who seeks to capture the star's heart in order to regain her youth and power. As they travel together, Tristan and Yvaine encounter a colorful cast of characters, including a pirate captain named Shakespeare, a cross-dressing sky pirate named Captain Shakespeare, and a trio of witches who also seek the star's heart.\n\nAs Tristan and Yvaine grow closer, they begin to realize that their fates are intertwined, and that their journey is about more than just fulfilling a promise. Along the way, they face numerous obstacles and challenges, including battles with the witch queen and her minions, as well as betrayal and deception from unexpected sources.\n\nUltimately, Tristan and Yvaine must confront their own fears and insecurities in order to fulfill their destinies and save the magical realm from destruction. In a climactic showdown with Lamia, Tristan must make the ultimate sacrifice to protect the woman he loves and secure the future of both their worlds.\n\nStardust is a whimsical and enchanting tale of love, adventure, and self-discovery, filled with magic, humor, and heart. It reminds us that true love knows no bounds, and that sometimes, the greatest adventures are the ones that lead us back to ourselves."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "84bc4c2220bf856aadb067059558bb3f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 952.0 words or less.\n\n---\n\n**Title:**\n\nStardust\n\n**Year:**\n\n2007",
+    "include_year": false
+}

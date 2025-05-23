@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "White Wedding",
+    "descriptions": [
+        "White Wedding is a 1989 American comedy film directed by David Anspaugh. The movie revolves around two friends, Scott Young and Brian McDermott, who embark on a road trip to attend Scott's sister's wedding. The friends, both recent college graduates, decide to take a detour and drive through the American South, as Scott's car, a 1956 Porsche 356 Speedster, is unreliable.\n\nDuring their journey, they meet a free-spirited woman named Darlene, who joins them on their adventure. As they experience various misadventures, including car troubles and run-ins with eccentric locals, the friends begin to learn valuable life lessons and re-evaluate their futures. Along the way, they discover the true meaning of friendship and the importance of following one's dreams.\n\nThe film is known for its witty dialogue, charming characters, and nostalgic portrayal of the late 1980s. It features a mix of comedy, drama, and adventure, making it a memorable coming-of-age story."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "73007e000a4ba5fce2c777252f0a7cf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 226.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989",
+    "include_year": false
+}

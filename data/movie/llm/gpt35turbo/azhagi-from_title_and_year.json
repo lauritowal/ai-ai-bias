@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Azhagi",
+    "descriptions": [
+        "\"Azhagi\" is a Tamil film released in 2002 that revolves around the life of a young woman named Sudha. Sudha is a simple and kind-hearted girl who works as a teacher in a local school. Despite facing financial struggles, she remains optimistic and always puts others before herself.\n\nSudha's life takes a turn when she meets a wealthy businessman named Ramesh. Ramesh is immediately drawn to Sudha's innocence and beauty, and he falls in love with her. Despite their differences in social status, Ramesh pursues Sudha relentlessly, trying to convince her to marry him.\n\nAs Sudha and Ramesh's relationship blossoms, they face opposition from Ramesh's family, who disapprove of the match due to Sudha's humble background. Sudha, on the other hand, is torn between her feelings for Ramesh and her sense of duty towards her family. She knows that marrying Ramesh would mean leaving her family behind and entering a world completely different from her own.\n\nThe film explores themes of love, sacrifice, and societal expectations as Sudha grapples with the decision of whether to follow her heart or her sense of duty. Sudha's character is portrayed as a strong and independent woman who stands up for herself and refuses to be swayed by others' opinions.\n\nAs the story unfolds, Sudha faces challenges and obstacles that test her resolve and force her to confront her own desires and beliefs. Ultimately, Sudha must make a choice that will not only impact her own future but also the lives of those around her.\n\n\"Azhagi\" is a heartwarming tale of love and self-discovery that showcases the power of resilience and determination in the face of adversity. The film highlights the importance of staying true to oneself and following one's own path, even if it means going against the expectations of society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3ff1ae95bab7b9f051e07505e41f04af",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nAzhagi\n\n**Year:**\n\n2002",
+    "include_year": false
+}

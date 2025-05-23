@@ -1,0 +1,11 @@
+Improved Word-Level System Combination for Machine Translation
+Recently, confusion network decoding has been applied in machine translation system combination.
+Due to errors in the hypothesis alignment, decoding may result in ungrammatical combination outputs.
+This paper describes an improved confusion network based method to combine outputs from multiple MT systems.
+In this approach, arbitrary features may be added log-linearly into the objective function, thus allowing language model expansion and re-scoring.
+Also, a novel method to automatically select the hypothesis which other hypotheses are aligned against is proposed.
+A generic weight tuning algorithm may be used to optimize various automatic evaluation metrics including TER, BLEU and METEOR.
+The experiments using the 2005 Arabic to English and Chinese to English NIST MT evaluation tasks show significant improvements in BLEU scores compared to earlier confusion network decoding based methods.
+We use the tercom script (Snover et al, 2006), which uses a number of heuristics (as well as dynamic programming) for finding a sequence of edits (insertions, deletions, substitutions and block shifts) that convert an input string to another.
+We propose a multiple confusion network (CN) or super-network framework, where we use each of all individual system results as the backbone to build CNs based on an alignment metric, TER.
+Each word in the confusion network is associated with a word posterior probability.

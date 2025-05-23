@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Charas",
+    "descriptions": [
+        " In the thrilling 1976 Hindi film \"Charas,\" directed by Ramanand Sagar, viewers are taken on an exhilarating journey filled with suspense, drama, and action.\n\nThe story revolves around Suraj (Dharmendra), a brave and honest police officer, who is tasked with dismantling a powerful drug smuggling ring led by the cunning criminal mastermind, Rattan (Ajit). Rattan, a man with a mysterious past and a sinister reputation, operates his illicit drug empire from a secluded island, making him nearly untouchable.\n\nWhile investigating the drug network, Suraj crosses paths with the beautiful and enigmatic Sheetal (Hema Malini), a woman with her own secrets and connections to the criminal underworld. Initially, Sheetal is reluctant to help Suraj in his quest to bring down Rattan, but she eventually forms an alliance with him after learning about the devastating impact of the drugs on innocent lives.\n\nAs Suraj and Sheetal delve deeper into the criminal underworld, they uncover a complex web of deceit, betrayal, and corruption that extends to the highest echelons of society. Along the way, they are pursued by Rattan's relentless henchmen and must use all their skills and wits to stay one step ahead.\n\nThe climax of the film takes place on Rattan's island fortress, where Suraj and Sheetal must confront the criminal mastermind and his army of goons in a thrilling showdown. With time running out, they must outsmart Rattan and bring an end to his drug empire once and for all.\n\n\"Charas\" is a gripping tale of good versus evil, filled with nail-biting suspense, high-octane action sequences, and a touch of romance. The film explores themes of justice, morality, and the corrupting influence of power, while also showcasing the bravery and determination of its heroic protagonists.\n\nWith its memorable performances, iconic soundtrack, and edge-of-your-seat storytelling, \"Charas\" remains a beloved classic of Indian cinema, captivating audiences with its timeless tale of courage, love, and the unwavering pursuit of justice."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "137e815ab187c9619f710421301cae6e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nCharas\n\n**Year:**\n\n1976",
+    "include_year": false
+}

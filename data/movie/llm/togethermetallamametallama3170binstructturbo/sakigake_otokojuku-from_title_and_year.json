@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Sakigake!! Otokojuku",
+    "descriptions": [
+        "Sakigake!! Otokojuku is a 2008 Japanese live-action film adaptation of the manga of the same name, written and illustrated by Akira Miyashita. The story takes place at Otokojuku, an elite private boys' high school famous for its brutal training methods and its aim to produce the country's future leaders.\n\nThe plot revolves around the new student, Momotaro Tsurugi, who transfers to Otokojuku seeking to become stronger. Tsurugi faces various challenges and adversaries, but he also gains valuable friendships and mentorship from his peers and teachers. Throughout his time at the school, Tsurugi and his friends engage in intense battles against rival schools and individuals, pushing their physical and mental limits.\n\nAs the story unfolds, Tsurugi grows both in strength and character, learning the values of perseverance, friendship, and the true meaning of being a man. The film showcases the characters' intense martial arts training, as well as their unwavering camaraderie, set against the backdrop of the harsh and demanding world of Otokojuku.\n\nThe movie offers a mix of action, drama, and comedy, exploring themes of masculinity, leadership, and personal growth, all of which are central to the original manga and anime series."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6b4ecb75b471a58fa4d2e6a1a6486423",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 891.0 words or less.\n\n---\n\n**Title:**\n\nSakigake!! Otokojuku\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Murder, He Says",
+    "descriptions": [
+        "In \"Murder, He Says\" (1945), retired detective and private investigator John Harper (played by a seasoned actor) is reluctantly drawn back into the world of crime-solving when his niece, Sarah, is found murdered in her small, seemingly peaceful hometown. Harper, who has been living a quiet life in Los Angeles, receives a frantic call from Sarah’s fiancé, Jack, asking him to return to the town where they both grew up. The town, known for its picturesque landscapes and tight-knit community, is shocked by the brutal murder, and the local police are at a loss.\n\nHarper arrives to find a town in turmoil, its residents suspicious and secretive. The investigation leads him to uncover a web of secrets, including infidelity, blackmail, and a hidden family scandal that goes back generations. Each clue Harper uncovers seems to point to a different suspect, but as he delves deeper, he realizes that the killer is someone close to the family.\n\nAs Harper pieces together the puzzle, he must confront his own past and the reasons why he left his career in the force. His methods, though initially controversial in the small town, gain the respect of the local police, who are eager to solve the case. In a twist of fate, Harper discovers that the killer is none other than a town elder with a history of using violence to suppress family secrets.\n\nThe climax takes place in a dramatic confrontation in the old family mansion, where Harper must outsmart his antagonist and clear his name. In a tense and thrilling finale, Harper not only solves the murder but also exposes the long-standing family secrets that have haunted the town. The movie concludes with Harper deciding to stay in the town, not as a private investigator, but as a friend and advisor to the community, bringing the closure and peace that both he and the town so desperately need."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "ad53995dcf23d3b943187cce5f22a45a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 350.0 words or less.\n\n---\n\n**Title:**\n\nMurder, He Says\n\n**Year:**\n\n1945",
+    "include_year": false
+}

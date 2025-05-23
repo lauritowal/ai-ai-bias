@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "King",
+    "descriptions": [
+        "In the movie \"King\" (2002), the story follows the rise and fall of a powerful crime boss in a fictional city. The film begins by introducing us to the protagonist, a young man named Marcus who is determined to make a name for himself in the criminal underworld. Through cunning and ruthlessness, Marcus quickly climbs the ranks of the city's most notorious gang, eventually becoming the feared and respected leader known as \"King.\"\n\nAs King, Marcus rules with an iron fist, using intimidation and violence to maintain his power and control over the city's criminal activities. However, as his empire grows, so does the number of enemies who want to see him fail. Rival gangs, corrupt cops, and even members of his own organization begin to turn against him, leading to a series of escalating conflicts that threaten to bring down everything Marcus has worked so hard to build.\n\nAs the pressure mounts, Marcus is forced to confront the consequences of his actions and the toll his criminal lifestyle has taken on those around him. He struggles to maintain his grip on power while also trying to protect his loved ones from the dangers that come with being associated with a kingpin like himself.\n\nUltimately, Marcus must make difficult choices that will determine his fate and the future of his criminal empire. Will he continue down a path of violence and destruction, or will he find a way to redeem himself and leave behind the life of crime that has consumed him for so long?\n\n\"King\" is a gripping crime drama that explores the dark and dangerous world of organized crime, showcasing the brutal realities of power, loyalty, and betrayal. Through its compelling storytelling and intense performances, the film offers a gripping portrayal of one man's quest for power and the consequences that come with it."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "92a68e2cc05e4e2afc5b2a64cb960a93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 339.0 words or less.\n\n---\n\n**Title:**\n\nKing\n\n**Year:**\n\n2002",
+    "include_year": false
+}

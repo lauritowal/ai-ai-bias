@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kadhalukku Mariyadhai",
+    "descriptions": [
+        "\"Kadhalukku Mariyadhai\" (1997) is a Tamil romantic drama film directed by Fazil. The film's title translates to \"Respect for Love\" in English. The plot revolves around the love story between Jeeva and Mini, who come from different religious backgrounds. Their love faces numerous societal and familial obstacles due to the communal differences between a Hindu family and a Christian family.\n\nJeeva, played by Vijay, is a college-going young man from a Hindu family, who is known for his good-hearted nature and helpful attitude. Mini, portrayed by Shalini, is a shy and innocent girl hailing from a conservative Christian family. The two meet by chance and slowly develop a deep friendship, which blossoms into love over time.\n\nAs their relationship grows, they are forced to confront the harsh realities of their differing religious and cultural backgrounds. The couple faces staunch opposition from their families, who are unwilling to accept their union. Mini's father, in particular, is depicted as a strict and traditional man who places great importance on religion and community, and he vehemently opposes the relationship.\n\nDespite the relentless pressure and the seeming impossibility of their situation, Jeeva and Mini remain steadfast in their commitment to each other. They attempt to navigate through the maze of societal norms and prejudices, seeking understanding and acceptance from their families. The film delves into themes of love, respect, and the hardships that come with inter-religious relationships.\n\n\"Kadhalukku Mariyadhai\" is notable for its poignant portrayal of love's power to transcend barriers and for its sensitive handling of delicate subject matter. The movie was well-received for its storytelling, the performances of the lead actors, and its melodious soundtrack composed by Ilaiyaraaja, which contributed significantly to the film's emotional depth.\n\nThe film concludes with a message of hope and unity, emphasizing that love and respect for one another's differences can pave the way for reconciliation and harmony between divided communities. It is a heartwarming tale that encourages viewers to look beyond societal divisions and honor the sanctity of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5941eebdbee11d1110d050b440a2a479",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 326.0 words or less.\n\n---\n\n**Title:**\n\nKadhalukku Mariyadhai\n\n**Year:**\n\n1997",
+    "include_year": false
+}

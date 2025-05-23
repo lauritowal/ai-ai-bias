@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hit",
+    "descriptions": [
+        "In \"The Hit\" (1979), a gritty crime thriller, a hired assassin, Jack Lynch, is sent to eliminate a powerful crime figure. However, as he closes in on his target, he becomes increasingly conflicted. Lynch's moral compass begins to shift when he learns of the target's involvement in a charity that helps underprivileged children. The more he investigates, the more he realizes the true nature of the crime syndicate and the blurred lines between right and wrong. As he contemplates his mission, Lynch finds himself drawn to his target's wife, a woman caught between her loyalty to her husband and her growing feelings for Lynch. The film culminates in a tense showdown where Lynch must choose between completing his job and doing what he believes is right."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "6bb4802fe5a4bc97439a2cd6add731d9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 317.0 words or less.\n\n---\n\n**Title:**\n\nThe Hit\n\n**Year:**\n\n1979",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Back to the Woods",
+    "descriptions": [
+        "In the 1937 film \"Back to the Woods,\" the story follows a group of friends who decide to go on a camping trip deep into the woods to escape the hustle and bustle of city life. As they venture further into the wilderness, they encounter various challenges and obstacles that test their friendship and survival skills.\n\nThe group must rely on each other as they navigate through the dense forest, facing wild animals, harsh weather conditions, and limited resources. Tensions rise as they struggle to find their way back to civilization, and secrets are revealed that threaten to tear them apart.\n\nAmidst the chaos and danger, the friends also discover hidden strengths and bonds that bring them closer together. They learn valuable lessons about teamwork, trust, and the importance of friendship in times of adversity.\n\nAs they finally make their way back to safety, the group emerges stronger and more resilient than ever. \"Back to the Woods\" is a heartwarming tale of friendship, survival, and the power of nature to bring people together in unexpected ways."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "71100496287e5f70bae81ed0067e4484",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 248.0 words or less.\n\n---\n\n**Title:**\n\nBack to the Woods\n\n**Year:**\n\n1937",
+    "include_year": false
+}

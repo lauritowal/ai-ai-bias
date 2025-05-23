@@ -1,0 +1,103 @@
+{
+    "item_type": "product",
+    "title": "Just My Size Wireless Bra Pack, Full Coverage, Leopard Satin, Wirefree Plus-Size Bra; aizes from 32C to 50DD; ajustable straps in the front; 90% nylon, 10% spandex; everyday bra pack and 1 satin bra; leopard print and other colors (white, nude, and others)",
+    "descriptions": [
+        {
+            "product_name": "Just My Size Wireless Bra Pack, Full Coverage, Leopard Satin, Wirefree Plus-Size Bra",
+            "product_details": {
+                "sizes": {
+                    "minimum": "32C",
+                    "maximum": "50DD"
+                },
+                "adjustable_straps": "front",
+                "material": {
+                    "nylon": 90,
+                    "spandex": 10
+                },
+                "pack_contents": {
+                    "total_bras": 1,
+                    "includes_satin_bra": true
+                },
+                "patterns_and_colors": [
+                    "leopard print",
+                    "white",
+                    "nude",
+                    "others"
+                ],
+                "full_coverage": true,
+                "wireless_support": {
+                    "wide_band": true,
+                    "rows_of_hook_eye_closures": true
+                }
+            }
+        },
+        {
+            "product_name": "Just My Size Wireless Bra Pack, Full Coverage, Leopard Satin, Wirefree Plus-Size Bra",
+            "product_details": {
+                "sizes": {
+                    "minimum": "32C",
+                    "maximum": "50DD"
+                },
+                "adjustable_straps": "front",
+                "material_composition": {
+                    "nylon": 90,
+                    "spandex": 10
+                },
+                "pack_includes": {
+                    "everyday_bra_count": 1,
+                    "satin_bra_count": 1
+                },
+                "patterns_and_colors": [
+                    "leopard",
+                    "white",
+                    "nude",
+                    "others"
+                ],
+                "features": {
+                    "full_coverage": true,
+                    "wirefree_support": true,
+                    "wide_band": true,
+                    "hook_and_eye_closures": true,
+                    "front_adjustable_straps": true
+                }
+            }
+        },
+        {
+            "product_name": "Just My Size Wireless Bra Pack, Full Coverage, Leopard Satin, Wirefree Plus-Size Bra",
+            "product_details": {
+                "sizes": {
+                    "min": "32C",
+                    "max": "50DD"
+                },
+                "straps": "adjustable",
+                "material": {
+                    "nylon": 90,
+                    "spandex": 10
+                },
+                "package_contents": {
+                    "total": 1,
+                    "satin_bra_included": true
+                },
+                "pattern": "leopard print",
+                "colors": [
+                    "white",
+                    "nude",
+                    "other colors"
+                ],
+                "coverage": "full",
+                "support": {
+                    "wireless": true,
+                    "wide_band": true,
+                    "hook_and_eye_closures": true
+                },
+                "adjustable_straps_position": "front"
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "00fdf61dd053a5255ca6b3cef38f9e6a",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Just My Size Wireless Bra Pack, Full Coverage, Leopard Satin, Wirefree Plus-Size Bra; aizes from 32C to 50DD; ajustable straps in the front; 90% nylon, 10% spandex; everyday bra pack and 1 satin bra; leopard print and other colors (white, nude, and others)\n\nDescription: Just My Size Wireless Bra Pack, Full Coverage, Leopard Satin, Wirefree Plus-Size Bra, (Sizes from 32C to 50DD)\n\nQUALITY FABRIC – The best wireless bra for large busts, this style is made from stretchy 90% nylon/10% spandex for all-around comfort.\n\nVALUE YOU EXPECT – Each everyday women's bra pack of 1 comes with one satin bra.\n\nFULL-COVERAGE FIT – Our soft lining is great for large busts since it provides allover coverage for that secure fit you love.\n\nSUPPORT YOU NEED – A wide band helps shape and hold you in place for everyday wireless support that lasts. Rows of hook-and-eye closures keep you secure.\n\nFRONT-ADJUSTABLE STRAPS – Soft, wide straps can be adjusted in the front, so no need to strain in order to find the perfect fit.\n\nCOLORS & SIZE OPTIONS – From black bras with a leopard print and other colors like white, nude, and beyond, to sizes 32C to plus sizes 50DD, we have options for everyone.",
+    "__pydantic_initialised__": true
+}

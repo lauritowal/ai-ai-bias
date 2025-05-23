@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gamera vs. Viras",
+    "descriptions": [
+        "When a group of children are kidnapped by an alien race known as the Virasians, it's up to the giant flying turtle, Gamera, to save the day in the 1968 film \"Gamera vs. Viras.\" The Virasians plan to use the children as hostages to force Gamera into doing their bidding, but the heroic turtle isn't about to let that happen without a fight.\n\nAs Gamera battles the Virasians and their monstrous squid-like creature, Viras, the fate of both the children and the Earth itself hangs in the balance. The two powerful beings engage in an epic showdown, with destruction and chaos reigning down upon the city as they clash in a battle for supremacy.\n\nThroughout the film, the children play a key role in aiding Gamera, using their wits and resourcefulness to outsmart the Virasians and help their giant turtle friend in his time of need. As the stakes grow higher and higher, Gamera must dig deep and find the strength to overcome his formidable foes and save the day.\n\nIn the end, Gamera emerges victorious, defeating Viras and rescuing the children from the clutches of the aliens. The city is saved, and peace is restored once more thanks to the heroic efforts of Gamera and the brave children who stood by his side.\n\n\"Gamera vs. Viras\" is a thrilling and action-packed monster movie that showcases the power of teamwork and courage in the face of overwhelming odds. With stunning special effects and heart-pounding battles, this film is a must-see for fans of classic kaiju cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "d2f57f3aac903c548bde178b7c53cffa",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nGamera vs. Viras\n\n**Year:**\n\n1968",
+    "include_year": false
+}

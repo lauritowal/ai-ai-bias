@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Summer Heat",
+    "descriptions": [
+        "'Summer Heat' is a 2008 drama film. The plot revolves around a group of people who come together and form connections at a summer resort. \n\nAs the summer progresses, the characters develop deep relationships with each other. The story delves into their experiences, desires, and emotions. They find solace in the warmth and care provided by the others at the resort.\n\nThe characters struggle to cope with their inner turmoil and emotional pain. As they allow themselves to open up and be vulnerable with the others, they start to heal. They form a sense of belonging and connection that helps them navigate their personal struggles.\n\nThe movie is a poignant portrayal of human relationships, loss, and growth. It showcases how people can find comfort and solace in each other during difficult times. \n\nThe title 'Summer Heat' highlights the themes of the film. It symbolizes the warmth and comfort provided by human connections, as well as the emotional intensity experienced by the characters during their time at the resort."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "76c9674bf3f7e006ed0fed3b5b7bf780",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 360.0 words or less.\n\n---\n\n**Title:**\n\nSummer Heat\n\n**Year:**\n\n2008",
+    "include_year": false
+}

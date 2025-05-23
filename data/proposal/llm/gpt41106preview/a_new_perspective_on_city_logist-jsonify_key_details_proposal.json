@@ -1,0 +1,55 @@
+{
+    "item_type": "proposal",
+    "title": "A New Perspective on City Logistics: Concepts, Theory, and Models for Designing and Managing Logistics as a Service",
+    "descriptions": [
+        {
+            "proposal_name": "A New Perspective on City Logistics: Concepts, Theory, and Models for Designing and Managing Logistics as a Service",
+            "proposal_details": {
+                "descriptions": [
+                    "Develop public value as a measurement system for city logistics planning and management, incorporating multi-criteria decision making, sustainability analysis, simulation, and optimization."
+                ],
+                "objectives": [
+                    {
+                        "objective_number": 1,
+                        "aim": "Develop public value as a measurement system",
+                        "methods": [
+                            "multi-criteria decision making",
+                            "sustainability analysis",
+                            "simulation",
+                            "optimization"
+                        ]
+                    },
+                    {
+                        "objective_number": 2,
+                        "aim": "Develop principles, models, and tools for LaaS infrastructure design",
+                        "methods": [
+                            "network optimization"
+                        ]
+                    },
+                    {
+                        "objective_number": 3,
+                        "aim": "Develop theoretical framework and models for LaaS operating procedures",
+                        "methods": [
+                            "introduce logistics markets",
+                            "learning-based optimization"
+                        ]
+                    }
+                ],
+                "expected_outcomes": [
+                    "A new theory of city logistics",
+                    "Efficiency gains in LaaS infrastructure",
+                    "Maximization of public value in city logistics"
+                ],
+                "implications": [
+                    "Scientific and practical implications for transport and logistics",
+                    "Social, economic, and environmental consequences"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "3b1828117af000c19c7ac2301c7d6a92",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nA New Perspective on City Logistics: Concepts, Theory, and Models for Designing and Managing Logistics as a Service\n\n**Description:**\n\nSeveral social, economic, and technological trends are coming together to revolutionize the way people, products, and services are brought together. Goods are gaining more mobility with drastic implications for cities. The current city logistics (CL) paradigm, which does not consider the mobility of goods a public need, limits our capacity to understand and respond to the challenges and opportunities brought by this profound change. Taking a different perspective, GoodMobility proposes to replace the techno-business-centric smart thinking with network-centric wise logistics that takes the public value as the primary goal and envisions setting up a logistics web with the required infrastructure (hardware) and operating procedures (software) to establish logistics as a service (LaaS). The first objective is to develop public value as a measurement system to assess and guide CL planning and management, which will be achieved with an iterative process, combining multi-criteria decision making, sustainability analysis, simulation, and optimization. The second objective is to develop the principles, models, and tools for LaaS infrastructure design. Novel network optimization methods will be developed for designing the hardware of LaaS to provide orders of magnitude efficiency gains and influence the stakeholder activities to maximize public value. The third objective is to develop a theoretical framework and models for the operating procedures of LaaS, introducing the logistics markets to ensure efficiency and reliability and secure public value in matching logistics demand and supply. Learning-based optimization methods will be developed to manage logistics markets. If successful, GoodMobility will lay the foundations of a new theory of CL with significant scientific and practical implications. The novel ideas, concepts, and methodologies will open up new research perspectives in transport and logistics with far-reaching social, economic, and environmental consequences."
+}

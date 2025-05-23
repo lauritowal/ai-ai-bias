@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Transit",
+    "descriptions": [
+        "In the 2012 film \"Transit,\" a young man named Nate is on his way to New York City to visit his girlfriend when he is suddenly caught in the middle of a terrorist attack. The attack causes chaos and confusion, leaving Nate stranded in a city he doesn't know, with no way to contact his girlfriend or anyone else. As he struggles to navigate the chaos and find a way out of the city, Nate meets a diverse group of strangers who are also trying to make their way out of the city.\n\nAs Nate and his newfound companions navigate the dangerous streets of New York, they must rely on each other to survive and find a way to safety. Along the way, they encounter various challenges, including run-ins with the authorities, violent gangs, and other dangers lurking in the city. Through their journey, Nate forms bonds with his fellow travelers and learns valuable lessons about trust, friendship, and the resilience of the human spirit.\n\nAs the group faces one obstacle after another, they are forced to confront their fears and rely on each other's strengths to make it out of the city alive. Ultimately, \"Transit\" is a gripping tale of survival, resilience, and the power of human connection in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "aec605f8f9222d29de447c44d00f6880",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1761.0 words or less.\n\n---\n\n**Title:**\n\nTransit\n\n**Year:**\n\n2012",
+    "include_year": false
+}

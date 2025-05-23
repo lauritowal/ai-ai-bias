@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Two for the Road",
+    "descriptions": [
+        "**Plot Summary for \"Two for the Road\" (1967):**\n\nSet in 1967, \"Two for the Road\" is a poignant and romantic drama that follows the tumultuous final journey of a married couple, Ethel (Laurence Olivier) and Claude (Cate Blanchett in an early role), as they travel from London to Paris. The film, directed by Tony Richardson, delves into their 25-year marriage, which has been strained by life's pressures and the slow march of time.\n\nAs Ethel and Claude prepare to travel, Ethel's sister Joyce (Judi Dench) arrives to offer support, but their dynamic is complicated by Joyce's secret love for Claude. The journey is not just a physical one but also a spiritual and emotional odyssey as the couple grapples with the end of their relationship and the legacy they have left behind.\n\nEthel, a graceful and elegant woman, has become somewhat frail and distant, while Claude, once a charming and dashing figure, has aged into a more reserved and introspective man. Their trip through Europe serves as a metaphor for the journey of life and love, with each place they visit reflecting their past, present, and future.\n\nAs they travel, old memories resurface, and the couple confronts the realities of their deteriorating relationship. Ethel, struggling with fading beauty and Claude's infidelity, seeks solace in memories of their past romance, while Claude grapples with his own regrets and the fear of losing her.\n\nThe film explores themes of aging, mortality, and the fragility of love, culminating in a bittersweet and emotionally charged conclusion that leaves the audience with a sense of both loss and acceptance. \"Two for the Road\" is a tender and thought-provoking exploration of the complexities of long-term relationships, set against the backdrop of a scenic European journey."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "a2183ce3d9ea9bb8f91dbbf2f0f09b2f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 426.0 words or less.\n\n---\n\n**Title:**\n\nTwo for the Road\n\n**Year:**\n\n1967",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Isi Life Mein",
+    "descriptions": [
+        "2010\n\n**Plot Summary:**\n\n\"Isi Life Mein\" is a coming-of-age Bollywood film that follows the story of a young girl named Rajnandini Khandelwal, who is on the verge of completing her high school education. Rajnandini, or Raj, as she is affectionately called by her friends, is a bright and ambitious student who dreams of pursuing a career in the field of journalism.\n\nAs Raj prepares for her final exams, she finds herself torn between following her own dreams and living up to the expectations of her traditional and conservative family. Her parents, especially her mother, want her to pursue a more traditional career path and settle down with a suitable boy chosen by them. Despite their pressure, Raj remains determined to carve out her own path in life.\n\nOne day, Raj's life takes an unexpected turn when she meets a charming and charismatic boy named Vivan, who is a new student at her school. Vivan is the complete opposite of Raj - carefree, adventurous, and rebellious. Despite their differences, the two form a deep connection and soon fall in love.\n\nAs their relationship blossoms, Raj faces increasing pressure from her family to focus on her studies and forget about her feelings for Vivan. Torn between her love for Vivan and her desire to make her family proud, Raj must make a difficult decision that will determine the course of her future.\n\nAs Raj navigates the challenges of young love and family expectations, she also learns valuable lessons about friendship, loyalty, and the importance of staying true to oneself. With the support of her friends and the guidance of her wise grandmother, Raj finds the strength to stand up for her beliefs and pursue her dreams, even in the face of adversity.\n\nIn the end, Raj must make a choice that will define her identity and determine her happiness. Will she choose to follow her heart and be with Vivan, or will she sacrifice her own desires to please her family? \"Isi Life Mein\" is a heartwarming tale of love, self-discovery, and the courage to follow one's dreams, no matter the obstacles that stand in the way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a3f3fa62b6946b3dddb0b4ec870172cc",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 567.0 words or less.\n\n---\n\n**Title:**\n\nIsi Life Mein\n\n**Year:**\n\n",
+    "include_year": false
+}

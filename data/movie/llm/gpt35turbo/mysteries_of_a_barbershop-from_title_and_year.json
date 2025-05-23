@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mysteries of a Barbershop",
+    "descriptions": [
+        "2021\n\nIn \"Mysteries of a Barbershop,\" a young aspiring detective named Lily takes a job at her uncle's barbershop in a small town. She quickly realizes that the shop is not just a place for haircuts, but also a hub for gossip, secrets, and mysteries. As Lily starts to interact with the quirky regulars who come in for their trims, she uncovers a web of interconnected stories and hidden pasts.\n\nOne day, a mysterious stranger walks into the barbershop with a request that sets off a chain of events that lead Lily on a thrilling investigation. As she delves deeper into the town's secrets, she finds herself entangled in a dangerous web of lies and deception. With the help of her friends and some unexpected allies, Lily must race against time to solve the biggest mystery of all - the truth behind the barbershop itself.\n\n\"Mysteries of a Barbershop\" is a heartwarming and suspenseful tale about friendship, community, and the power of uncovering the truth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "c3a73040dc46186b8543a8a8a85cd9df",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nMysteries of a Barbershop\n\n**Year:**\n\n",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Rabbit Fire",
+    "descriptions": [
+        "Rabbit Fire is a 1951 American animated short film produced by Warner Bros. Cartoons, directed by Chuck Jones, and starring Bugs Bunny and Daffy Duck. The cartoon is the first in the 'Duck Season, Rabbit Season' trilogy.\n\nThe film starts with Elmer Fudd hunting rabbits during rabbit season. However, Bugs Bunny and Daffy Duck soon get involved, creating chaos and confusion. Daffy tries to outsmart Bugs by convincing Elmer that it's duck season, not rabbit season, in an attempt to save his own life.\n\nThroughout the cartoon, Bugs and Daffy engage in a series of comedic exchanges, constantly switching between rabbit and duck season, and each trying to outwit the other. The two characters repeatedly rewrite a signboard that initially says 'Rabbit Season' to either 'Duck Season' or 'Rabbit Season,' depending on their situation.\n\nAs the cartoon progresses, the banter between Bugs and Daffy escalates, with Elmer Fudd getting increasingly confused and frustrated. The cartoon builds up to a series of hilarious sequences, showcasing the comedic genius of the Looney Tunes characters.\n\nUltimately, the cartoon ends with Elmer Fudd getting the short end of the stick, as Bugs and Daffy manage to outsmart him once again. The film showcases the iconic chemistry between Bugs Bunny and Daffy Duck, and the 'Duck Season, Rabbit Season' trilogy has become a beloved series of Looney Tunes cartoons.\n\nRabbit Fire has been praised for its clever writing, engaging storyline, and the memorable performances of its characters. The cartoon remains a timeless classic, entertaining audiences with its witty humor and slapstick comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "4a750dd221f1ae450df8cca934917c7d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 486.0 words or less.\n\n---\n\n**Title:**\n\nRabbit Fire\n\n**Year:**\n\n1951",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Homam",
+    "descriptions": [
+        "Homam is a 2008 Indian Malayalam-language romantic drama film directed by Lal Jose. The film is a remake of the 2007 Kannada film Moggina Manasu. \n\nThe story revolves around Sreelakshmi (played by Padmapriya), a young woman who marries Anand (played by Jayasurya), a gay man. They come from different social backgrounds and initially, their families do not approve of their union. \n\nAnand is known to be gay, but he decides to get married to Sreelakshmi in the hopes of changing his orientation. However, their marriage becomes a facade, with Anand struggling to live up to societal expectations and Sreelakshmi longingly seeking a genuine relationship.\n\nThe film explores themes of love, family, and societal pressures, highlighting the complexities of a same-sex marriage in a conservative Indian setting. As the story unfolds, it becomes a poignant portrayal of the emotional turmoil faced by Anand and Sreelakshmi as they navigate their marriage and confront the harsh realities of their situation.\n\nThrough its engaging narrative and strong performances, Homam sheds light on the often-overlooked aspects of Indian society, sparking a thought-provoking conversation about love, identity, and acceptance."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "19ac69ea77b4f2a00b33a61ec0f0edf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nHomam\n\n**Year:**\n\n2008",
+    "include_year": false
+}

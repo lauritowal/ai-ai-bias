@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Saravana",
+    "descriptions": [
+        "Saravana is a 2006 Indian Tamil-language romantic thriller film directed by K. S. Ravikumar and starring Silambarasan and Trisha in the lead roles. The film is a remake of the 2003 Telugu film 'Siva' starring J.D. Chakravarthy.\n\nThe movie revolves around Saravana (Silambarasan), a young man who lives with his mother (Vadivukarasi). He is an honest and kind-hearted person who dreams of becoming a police officer. Saravana falls in love with Pooja (Trisha), a beautiful and charming woman who is from a wealthy family.\n\nAs Saravana and Pooja's relationship deepens, they face opposition from Pooja's family, who do not approve of Saravana's humble background. Despite these obstacles, Saravana decides to marry Pooja and starts to build a life with her.\n\nHowever, their happiness is short-lived as Pooja is revealed to be leading a double life. She is actually a high-class call girl, and her family is involved in the underworld. Saravana is shocked and heartbroken to discover the truth about his wife.\n\nAs Saravana delves deeper into Pooja's past, he uncovers a web of deceit and corruption that threatens to destroy his life. He must now navigate this treacherous world to save himself and his loved ones from the clutches of Pooja's family.\n\nThroughout the film, Saravana's character undergoes a significant transformation as he grapples with the complexities of love, loyalty, and betrayal. The film's climax features a thrilling confrontation between Saravana and Pooja's family, as he fights to protect his reputation and the people he cares about.\n\nSaravana features a mix of romance, action, and drama, with a strong focus on the protagonist's emotional journey. The film received mixed reviews from critics but was a commercial success at the box office. Silambarasan's performance as the titular character was particularly praised for its intensity and emotional depth."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7579a431f3c938c147f193a3de074bc0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 697.0 words or less.\n\n---\n\n**Title:**\n\nSaravana\n\n**Year:**\n\n2006",
+    "include_year": false
+}

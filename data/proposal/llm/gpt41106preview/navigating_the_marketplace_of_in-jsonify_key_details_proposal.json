@@ -1,0 +1,39 @@
+{
+    "item_type": "proposal",
+    "title": "Navigating the Marketplace of Indicators",
+    "descriptions": [
+        {
+            "proposal_name": "Navigating the Marketplace of Indicators",
+            "proposal_details": {
+                "descriptions": [
+                    {
+                        "policy_fields": [
+                            "education",
+                            "global governance",
+                            "climate policy",
+                            "pandemic preparedness"
+                        ],
+                        "focus": "country performance indicators (CPIs)",
+                        "main_issue": "abundance of CPIs multiplies complexity",
+                        "paradox": "CPIs simplify individually but complicate collectively",
+                        "research_gap": "navigation of policy fields with multiple CPIs",
+                        "study_goal": "investigate CPI users' and producers' adaptation over time",
+                        "framework_inspiration": "marketplace of ideas",
+                        "analysis_type": "systemic, longitudinal",
+                        "user_focus": [
+                            "learning from CPI criticism",
+                            "decision-making with diverse CPIs"
+                        ],
+                        "producer_focus": "competition within crowded policy fields",
+                        "research_advancement": "systematic problem shift in CPI research"
+                    }
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d6aad5fc94b989a589a96c5ac56531fa",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNavigating the Marketplace of Indicators\n\n**Description:**\n\nMost policy fields in global governance have an abundance of country performance indicators (CPIs) and new CPIs proliferate apace. States are now measured and ranked on a dizzying array of cross-cutting metrics. Prima facie, the era of indicators promises a revolution: armed with ever improving data, policymakers can better allocate scarce resources to address global challenges. Yet, the era of indicators generates a problem and a paradox: while each individual CPI strives to simplify complexity, an abundance of CPIs on the same issue multiplies complexity and thus generates ambiguity. Moreover, while it would be reassuring if we could assume only the soundest CPIs would thrive, many high-profile CPIs remain in widespread use despite well-known shortcomings.Crucially, the paradox begets a major puzzle that prior research has yet to consider: How do private and public bodies navigate policy fields populated with multiple indicators, each portending to measure the same phenomenon? Although prior research provides firm grounds to hope that CPI users and producers improve their practices over time, no studies have investigated whether they do. Rendering this gap tractable, Navigator investigates the “marketplace of indicators” in four major policy fields: education, global governance, climate policy, and pandemic preparedness. Navigator’s novel framework—inspired by the classic liberal theory of the marketplace of ideas—enables the systemic, longitudinal analysis of how users’ and producers adapt their practices over time: Whether users learn in light of criticism of their favoured CPIs, how they discern when faced with a diversity of CPIs; and how producers compete for users within crowded policy fields. In this way, Navigator would push the frontier of CPI research by conducting a systematic problem shift: from investigating a single CPI’s influence or limitations, to examining how users and producers adapt in the face of growing CPI competition and CPI critique."
+}

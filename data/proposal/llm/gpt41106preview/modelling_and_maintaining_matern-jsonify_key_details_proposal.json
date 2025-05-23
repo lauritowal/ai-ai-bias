@@ -1,0 +1,46 @@
+{
+    "item_type": "proposal",
+    "title": "Modelling and maintaining maternal mental health",
+    "descriptions": [
+        {
+            "proposal_name": "Modelling and maintaining maternal mental health",
+            "proposal_details": {
+                "objectives": [
+                    "Study traces of unwanted terminated pregnancy in the female brain",
+                    "Understand the reversal of motherhood associated changes in brain anatomy and function after pregnancy loss",
+                    "Identify traces and determinants of afflicted mental health post-pregnancy loss",
+                    "Uncover relationships between brain trajectories, environmental factors, and genetic risk factors for mental health maintenance"
+                ],
+                "methods": [
+                    "Acquire longitudinal data following early miscarriage or stillbirth",
+                    "Conduct repeated brain imaging and hormonal assessments",
+                    "Monitor mental health comprehensively",
+                    "Perform whole genome sequencing of women and their life partners",
+                    "Utilize detailed surveys to correlate findings"
+                ],
+                "tools": [
+                    "Multimodal brain imaging",
+                    "Statistical genetics",
+                    "Computational psychiatry"
+                ],
+                "expected_outcomes": [
+                    "Understand female-specific brain dynamics",
+                    "Reveal neurogenetic signatures of mental disorder vulnerability",
+                    "Identify targets for maintaining maternal mental health"
+                ],
+                "implications": [
+                    "Implications for women's health",
+                    "Indirect implications for the health of future offspring"
+                ],
+                "descriptions": [
+                    "The HealthyMom project will leverage expertise in multimodal brain imaging, statistical genetics, and computational psychiatry to explore the effects of early and late pregnancy loss on women's mental health, using innovative research methods and advanced computational techniques."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "445d97a97d73afbe3e6d073a4fad6be0",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nModelling and maintaining maternal mental health\n\n**Description:**\n\nPregnancy loss oftentimes yields extensive negative consequences on the mental health of the affected women and their families, yet it is a largely neglected factor in global health. While we have started to gain insights into how pregnancy shapes the female brain toward motherhood, the impact of the abrupt termination of pregnancy on maternal brain plasticity remains largely unknown. Here, I seek to study traces of unwanted terminated pregnancy following early and late pregnancy loss in the female brain, understanding to what degree motherhood associated changes in brain anatomy and function are formed back when a pregnancy is lost. I aim to identify traces and determinants of afflicted mental health in this period of profound vulnerability and (self-)stigmatization. Leveraging my portfolio of expertise in multimodal brain imaging, statistical genetics, and computational psychiatry, the HealthyMom project will acquire unique longitudinal data of the weeks and months following early miscarriage or stillbirth. Specifically, women will undergo repeated brain imaging, hormonal assessment and a comprehensive monitoring of their mental health. I will perform whole genome sequencing, not only of the women but also of their life partners. Together with detailed surveys, this will allow me to uncover how individual brain trajectories relate to environmental levers for mental health maintenance and to genetic risk factors, including genetic effects of the partners on the women. The project will draw on existing big data and advanced computational modelling techniques to chart individual brain imaging patterns in the context of the population norm. As such, HealthyMom offers unprecedented opportunities to understand female-specific brain dynamics and to reveal neurogenetic signatures of mental disorder vulnerability as well as targets for maintaining maternal mental health. It has significant implications for women’s health and (indirectly) the health of future offspring."
+}

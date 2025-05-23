@@ -1,0 +1,182 @@
+[
+  {
+    "citance_No": 1, 
+    "citing_paper_id": "W02-1011", 
+    "citing_paper_authority": 298, 
+    "citing_paper_authors": "Bo, Pang | Lillian, Lee | Shivakumar, Vaithyanathan", 
+    "raw_text": "This would not rule out the possibility that bigram presence is as equally useful a feature as unigram presence; in fact, Pedersen (2001) found that bi grams alone can be effective features for word sense disambiguation", 
+    "clean_text": "This would not rule out the possibility that bigram presence is as equally useful a feature as unigram presence; in fact, Pedersen (2001) found that bigrams alone can be effective features for word sense disambiguation.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 2, 
+    "citing_paper_id": "W09-1309", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Mark, Stevenson | Yikun, Guo | Abdulaziz, Alamri | Robert J., Gaizauskas", 
+    "raw_text": "Salient bi grams: Salient bi grams within the abstract with high log-likelihood scores, as described by Pedersen (2001)", 
+    "clean_text": "Salient bigrams: Salient bigrams within the abstract with high log-likelihood scores, as described by Pedersen (2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 3, 
+    "citing_paper_id": "N03-3004", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Amruta, Purandare", 
+    "raw_text": "Bigrams have recently been shown to be very successful features in supervised word sense disambiguation (Pedersen, 2001)", 
+    "clean_text": "Bigrams have recently been shown to be very successful features in supervised word sense disambiguation (Pedersen, 2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 4, 
+    "citing_paper_id": "W02-0812", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Ted, Pedersen", 
+    "raw_text": "Such descriptions can be found in (Pedersen, 2001b) or (Pedersen, 2002)", 
+    "clean_text": "Such descriptions can be found in (Pedersen, 2001b) or (Pedersen, 2002).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 5, 
+    "citing_paper_id": "W02-0812", 
+    "citing_paper_authority": 2, 
+    "citing_paper_authors": "Ted, Pedersen", 
+    "raw_text": "The frustration with models that lack an intuitive interpretation led to the development of decision trees based on bigram features (Pedersen, 2001a)", 
+    "clean_text": "The frustration with models that lack an intuitive interpretation led to the development of decision trees based on bigram features (Pedersen, 2001a).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 6, 
+    "citing_paper_id": "W04-0850", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Ted, Pedersen", 
+    "raw_text": "The Duluth systems participated in various lexical sample tasks in SENSEVAL-3, using both super vised and unsupervised methodologies. The supervised lexical sample system that par tic ipated in SENSEVAL-3 is the Duluth3 (English )orDuluth8 (Spanish) system as used in SENSEVAL 2 (Pedersen, 2001b)", 
+    "clean_text": "The supervised lexical sample system that participated in SENSEVAL-3 is the Duluth3 (English) or Duluth8 (Spanish) system as used in SENSEVAL 2 (Pedersen, 2001b).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 7, 
+    "citing_paper_id": "W04-0850", 
+    "citing_paper_authority": 0, 
+    "citing_paper_authors": "Ted, Pedersen", 
+    "raw_text": "In (Pedersen, 2001a) we introduced the use of decision trees based strictly on bigram features", 
+    "clean_text": "In (Pedersen, 2001a) we introduced the use of decision trees based strictly on bigram features.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 8, 
+    "citing_paper_id": "C02-1115", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Armando, Su&aacute;rez | Manuel, Palomar", 
+    "raw_text": "The former approach relies on previously acquired linguistic knowledge, and the latter uses techniques from statistics and machine learning to induce models of language usage from large samples of text (Pedersen, 2001)", 
+    "clean_text": "The former approach relies on previously acquired linguistic knowledge, and the latter uses techniques from statistics and machine learning to induce models of language usage from large samples of text (Pedersen, 2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 9, 
+    "citing_paper_id": "W04-0813", 
+    "citing_paper_authority": 7, 
+    "citing_paper_authors": "Eneko, Agirre | David, Martinez", 
+    "raw_text": "We also obtain salient bi grams in the context, with the methods and the software described in (Pedersen, 2001)", 
+    "clean_text": "We also obtain salient bigrams in the context, with the methods and the software described in (Pedersen, 2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 10, 
+    "citing_paper_id": "W06-2007", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Xinglong, Wang | David, Martinez", 
+    "raw_text": "We also obtained salient bi grams inthe context, with the methods and the software described in (Pedersen, 2001)", 
+    "clean_text": "We also obtained salient bigrams in the context, with the methods and the software described in (Pedersen, 2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 11, 
+    "citing_paper_id": "C08-1003", 
+    "citing_paper_authority": 3, 
+    "citing_paper_authors": "Eneko, Agirre | Oier, L&oacute;pez de Lacalle", 
+    "raw_text": "Finally, Bag-of-words features are the lemmas of the content words in the whole context, plus the salient bi grams in the context (Pedersen, 2001)", 
+    "clean_text": "Finally, Bag-of-words features are the lemmas of the content words in the whole context, plus the salient bigrams in the context (Pedersen, 2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 12, 
+    "citing_paper_id": "W08-0611", 
+    "citing_paper_authority": 1, 
+    "citing_paper_authors": "Mark, Stevenson | Yikun, Guo | Robert J., Gaizauskas | David, Martinez", 
+    "raw_text": "Salient bi grams: Salient bi grams within the abstract with high log-likelihood scores, as described by Pedersen (2001)", 
+    "clean_text": "Salient bigrams: Salient bigrams within the abstract with high log-likelihood scores, as described by Pedersen (2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 13, 
+    "citing_paper_id": "W04-0839", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Saif, Mohammad | Ted, Pedersen", 
+    "raw_text": "They are derived from the Duluth systems that participated in SENSEVAL-2, and which are more fully described in (Pedersen, 2001b) .The context of a word is a rich source of discrete features which lend themselves nicely to decision tree learning", 
+    "clean_text": "They are derived from the Duluth systems that participated in SENSEVAL-2, and which are more fully described in (Pedersen, 2001b).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 14, 
+    "citing_paper_id": "W04-0839", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Saif, Mohammad | Ted, Pedersen", 
+    "raw_text": "However, both (Pedersen, 2001a) and (Lee and Ng,2002) show that different learning algorithms pro duce similar results and that the use of appropriate features may dramatically improve results", 
+    "clean_text": "However, both (Pedersen, 2001a) and (Lee and Ng, 2002) show that different learning algorithms produce similar results and that the use of appropriate features may dramatically improve results.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 15, 
+    "citing_paper_id": "W07-2074", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Eneko, Agirre | Oier, L&oacute;pez de Lacalle", 
+    "raw_text": "We also obtain salient bi grams in the context, with the methods and the software described in (Pedersen, 2001) .Domain features: The WordNet Domains resource was used to identify the most relevant domains in the context", 
+    "clean_text": "We also obtain salient bigrams in the context, with the methods and the software described in (Pedersen, 2001).", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 16, 
+    "citing_paper_id": "W02-1006", 
+    "citing_paper_authority": 44, 
+    "citing_paper_authors": "Yoong Keok, Lee | Hwee Tou, Ng", 
+    "raw_text": "The recent work of Pedersen (2001a) and Zavrel et al (2000 )evaluateda variety of learning algorithms on the SENSEVAL1 data set", 
+    "clean_text": "The recent work of Pedersen (2001a) and Zavrel et al (2000) evaluated a variety of learning algorithms on the SENSEVAL1 data set.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 17, 
+    "citing_paper_id": "W02-1006", 
+    "citing_paper_authority": 44, 
+    "citing_paper_authors": "Yoong Keok, Lee | Hwee Tou, Ng", 
+    "raw_text": "In SENSEVAL-2, the various Duluth systems (Pedersen, 2001b) attempted to investigate whether features or learning algorithms are more important", 
+    "clean_text": "In SENSEVAL-2, the various Duluth systems (Pedersen, 2001b) attempted to investigate whether features or learning algorithms are more important.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 18, 
+    "citing_paper_id": "W04-2404", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Saif, Mohammad | Ted, Pedersen", 
+    "raw_text": "It should be noted that the experiments for the SENSEVAL-2 and SENSEVAL-1 data using unigrams and bi grams are re-implementations of (Pedersen, 2001a), and that our results are comparable", 
+    "clean_text": "It should be noted that the experiments for the SENSEVAL-2 and SENSEVAL-1 data using unigrams and bigrams are re-implementations of (Pedersen, 2001a), and that our results are comparable.", 
+    "keep_for_gold": 0
+  }, 
+  {
+    "citance_No": 19, 
+    "citing_paper_id": "W04-2404", 
+    "citing_paper_authority": 4, 
+    "citing_paper_authors": "Saif, Mohammad | Ted, Pedersen", 
+    "raw_text": "(Pedersen, 2001b) compares decision trees, decision stumps and a Naive Bayesian classifier to show that bi grams are very useful in identifying the intended sense of a word", 
+    "clean_text": "(Pedersen, 2001b) compares decision trees, decision stumps and a Naive Bayesian classifier to show that bigrams are very useful in identifying the intended sense of a word.", 
+    "keep_for_gold": 1
+  }, 
+  {
+    "citance_No": 20, 
+    "citing_paper_id": "E09-1006", 
+    "citing_paper_authority": 5, 
+    "citing_paper_authors": "Eneko, Agirre | Oier, L&oacute;pez de Lacalle", 
+    "raw_text": "Finally, Bag-of-words features are the lemmas of the content words in the whole context, plus the salient bi grams in the context (Pedersen, 2001)", 
+    "clean_text": "Finally, Bag-of-words features are the lemmas of the content words in the whole context, plus the salient bigrams in the context (Pedersen, 2001).", 
+    "keep_for_gold": 0
+  }
+]

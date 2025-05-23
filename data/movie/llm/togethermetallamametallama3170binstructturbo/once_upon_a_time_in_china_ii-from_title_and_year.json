@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Once Upon a Time in China II",
+    "descriptions": [
+        "Once Upon a Time in China II is a 1992 Hong Kong martial arts film written and directed by Tsui Hark. The film is the second installment in the Once Upon a Time in China series and stars Jet Li as Wong Fei-hung, a legendary Chinese martial artist and folk hero.\n\nThe story takes place in 1895, a year after the events of the first film. Wong Fei-hung (Jet Li) is now traveling with his apprentices, including Leung Foon (Siu-ho Chin), and his aunt, the Thirteenth Aunt (Rosamund Kwan), to Canton (now Guangzhou). Upon their arrival, they become embroiled in a violent conflict between a group of radical White Lotus sect members and the Chinese government.\n\nThe White Lotus sect, a mystical and anti-Qing dynasty organization, is secretly infiltrating the city and spreading their influence. Wong Fei-hung, with his impressive martial arts skills and knowledge of Chinese medicine, finds himself at odds with the sect's leader, a ruthless and cunning woman named the White Lotus priestess.\n\nAs Wong Fei-hung navigates the complex web of intrigue and violence, he also discovers that his aunt's life is in danger. The sect is seeking to eliminate her due to her connections to the government. Wong Fei-hung must use his skills and intelligence to protect his aunt and stop the White Lotus sect's plans to overthrow the Qing dynasty.\n\nThroughout the film, Wong Fei-hung faces numerous challenges and opponents, showcasing his impressive martial arts abilities and his commitment to justice. The film's action sequences are highly stylized and feature a mix of traditional martial arts, acrobatics, and innovative wire fu techniques.\n\nOnce Upon a Time in China II is an action-packed and entertaining film that explores themes of loyalty, honor, and the clash between tradition and modernity. The film's blend of martial arts, drama, and historical fiction helped to cement Jet Li's status as a major star in Hong Kong cinema, and it remains a beloved classic among fans of the genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "fe654dd8c1082b175d665ddc9a41f1b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 467.0 words or less.\n\n---\n\n**Title:**\n\nOnce Upon a Time in China II\n\n**Year:**\n\n1992",
+    "include_year": false
+}

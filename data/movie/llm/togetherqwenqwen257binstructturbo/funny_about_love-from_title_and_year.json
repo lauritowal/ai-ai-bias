@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Funny About Love",
+    "descriptions": [
+        "\"Fun About Love\" from 1990 is a romantic comedy that follows the misadventures of a young man named Jack who is determined to find true love but is repeatedly thwarted by his own insecurities and misunderstandings. Jack, a charming yet socially awkward writer, sets out to woo the elegant and sophisticated Jane, a successful gallery owner. His efforts are met with humorous and often disastrous results as he misinterprets social cues and finds himself in a series of comical situations. Along the way, Jack learns to confront his fears and grow as a person, ultimately finding not just love but also self-acceptance. The film is filled with witty dialogue, quirky characters, and a heartwarming journey that celebrates the unpredictability of love."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "ea05ec1ad63dbae0612e954bfcef03d3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nFunny About Love\n\n**Year:**\n\n1990",
+    "include_year": false
+}

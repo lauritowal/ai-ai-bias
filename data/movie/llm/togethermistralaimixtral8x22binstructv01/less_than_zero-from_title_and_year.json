@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Less Than Zero",
+    "descriptions": [
+        " \"Less Than Zero\" (1987) is a film adaptation of Bret Easton Ellis' novel, directed by Marek Kanievska. Set in the hedonistic world of wealthy Los Angeles teenagers, it follows Clay Easton (Andrew McCarthy), a college freshman returning home for Christmas break. He hopes to rekindle his relationship with his ex-girlfriend, Blair (Jami Gertz), who has become involved with his former best friend, Julian Wells (Robert Downey Jr.).\n\nJulian, once a popular and charismatic figure, has descended into a dangerous world of drug addiction and debt. He owes a significant amount of money to his violent drug dealer, Rip (James Spader), and resorts to desperate measures to pay it off, including prostitution. Clay and Blair, witnessing Julian's downward spiral, attempt to intervene, but their efforts are met with resistance and heartbreak.\n\nAs the story unfolds, the trio navigates a world of excess, filled with parties, drugs, and casual sex. The film explores themes of disillusionment, lost innocence, and the destructive power of addiction. The title, \"Less Than Zero,\" refers to Julian's spiraling self-worth and the emptiness he feels despite his privileged upbringing. The film ends on a tragic note, serving as a stark commentary on the consequences of substance abuse and the harsh realities of the high life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "d260d34976214898d44d1d95eba9dc69",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 260.0 words or less.\n\n---\n\n**Title:**\n\nLess Than Zero\n\n**Year:**\n\n1987",
+    "include_year": false
+}

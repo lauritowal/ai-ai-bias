@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Billy Two Hats",
+    "descriptions": [
+        "'Billy Two Hats' is a 1974 American Western film directed by Ted Kotcheff. The story follows Billy Two Hats (Desi Arnaz Jr.), a half-Scottish and half-Native American outlaw who befriends an English aristocrat, Lord Rockingham (David Huddleston). After they rob a bank, Lord Rockingham is wounded, and Billy Two Hats helps him escape to safety.\n\nAs they travel through the American West, they encounter various obstacles and adventures, including run-ins with rival outlaws and law enforcement. Along the way, their friendship deepens as they learn to appreciate and respect each other's cultural backgrounds.\n\nDespite their differences, they form an unlikely bond, with Billy Two Hats introducing Lord Rockingham to the harsh realities of the American frontier. As they navigate their way through treacherous landscapes, they also develop a sense of loyalty and trust towards each other.\n\nThe film explores themes of friendship, cultural identity, and the clash between traditional values and the harsh realities of the American West. 'Billy Two Hats' offers a unique blend of action, adventure, and drama, set against the backdrop of the late 19th-century American frontier."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2d70d8da925ad0ef805759c56970e23e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 276.0 words or less.\n\n---\n\n**Title:**\n\nBilly Two Hats\n\n**Year:**\n\n1974",
+    "include_year": false
+}

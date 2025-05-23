@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Six Degrees of Separation",
+    "descriptions": [
+        "In \"Six Degrees of Separation\" (1993), a charismatic con artist named Paul (played by Will Smith) convinces a young actress and her family that he is the long-lost son of their deceased friend. The film explores the ethical and moral implications of deception through the eyes of the family, specifically the father, who is a successful playwright. As the charade continues, Paul interacts with various characters, leading the family to question their own beliefs and the nature of reality. The story delves into themes of identity, trust, and the interconnectedness of human relationships, ultimately challenging the audience to consider the consequences of lies and the strength of human connection."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+    "include_year": false
+}

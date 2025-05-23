@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Intent to Kill",
+    "descriptions": [
+        "Intent to Kill is a gripping film that follows the story of a man named Jim Fuller, who finds himself entangled in a web of deceit and betrayal. Set in the 1950s, the movie opens with Jim, a hardworking and dedicated family man, who is wrongly accused of a crime he did not commit. As he tries to prove his innocence, Jim discovers that someone close to him has been plotting against him all along.\n\nThe plot thickens when Jim's wife is found murdered, and he becomes the prime suspect in her death. As the police close in on him, Jim goes on the run, determined to clear his name and find the real killer. Along the way, he uncovers a series of shocking revelations that lead him to believe that his wife's death was not a random act of violence, but a carefully orchestrated plan to frame him for her murder.\n\nWith the help of a few loyal friends, Jim delves deeper into the mystery, following a trail of clues that eventually point to a wealthy businessman with a hidden agenda. As Jim gets closer to the truth, he realizes that he is not the only one in danger, and that his own life is at stake.\n\nIntent to Kill is a suspenseful thriller that keeps viewers on the edge of their seats as they follow Jim's desperate quest for justice. Filled with unexpected twists and turns, the film explores themes of betrayal, revenge, and the lengths that people will go to in order to protect their own interests.\n\nIn the end, Jim must confront his own demons and make a difficult choice that will determine the outcome of his fate. Will he be able to prove his innocence and uncover the truth behind his wife's murder, or will he fall victim to the sinister forces that seek to destroy him?\n\nIntent to Kill is a classic film noir that delves into the dark side of human nature, leaving audiences questioning the true intentions of those around them. With its gripping storyline and strong performances, this movie is sure to leave a lasting impression on viewers long after the credits roll."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "99d04d530279a98dc1c311859cd79a38",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 489.0 words or less.\n\n---\n\n**Title:**\n\nIntent to Kill\n\n**Year:**\n\n1958",
+    "include_year": false
+}

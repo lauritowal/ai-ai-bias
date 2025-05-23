@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Eating Out 5: The Open Weekend",
+    "descriptions": [
+        "'Eating Out 5: The Open Weekend' is a 2011 American gay comedy film directed by Phil Connell. The movie follows three friends, Tiff (Jocelyn Osorio), Riese (Derek Theler), and Victor (Chris Salvatore), who are on a road trip to the beach for a weekend of relaxation and fun. \n\nUpon arrival, they discover that the beach town is empty due to a recent natural disaster, and they decide to take advantage of the situation. They spend their time having a wild and carefree weekend, engaging in various adventures and misadventures. \n\nTiff and Riese develop feelings for each other, and the movie explores their blossoming romance against the backdrop of their vacation. Along the way, they encounter other characters and form unexpected connections. The film features a mix of humor, drama, and lighthearted moments, making it a fun and entertaining watch for fans of the 'Eating Out' series. 'Eating Out 5: The Open Weekend' is a lighthearted, feel-good film perfect for a relaxing evening."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "13400134e181445799c0d6432aa8911b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 234.0 words or less.\n\n---\n\n**Title:**\n\nEating Out 5: The Open Weekend\n\n**Year:**\n\n2011",
+    "include_year": false
+}

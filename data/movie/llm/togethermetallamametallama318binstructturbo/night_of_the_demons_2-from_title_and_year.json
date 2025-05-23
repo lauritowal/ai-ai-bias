@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Night of the Demons 2",
+    "descriptions": [
+        "'Night of the Demons 2' is a supernatural horror film directed by Brian Trenchard-Smith and released in 1994. The movie is a sequel to the 1988 film 'Night of the Demons,' but it is not a direct continuation of the original story.\n\nThe film takes place in the present day and revolves around a group of teenagers who plan to throw a Halloween party in an abandoned asylum. They discover that the asylum was once the site of a horrific massacre, and the spirits of the victims still linger.\n\nAmong the group is a teenager named Max. Max's girlfriend, Marci, is a occultist who is initially hesitant to participate in the party. However, her curiosity and desire for thrills eventually lead her to join the group.\n\nAs the party gets underway, strange and terrifying events begin to occur. The group discovers that the asylum is home to a variety of malevolent spirits, including a demon known as 'Angstrom' who was responsible for the original massacre.\n\nAs the spirits begin to possess the partygoers, Marci and Max find themselves at the center of the chaos. They soon realize that the only way to survive the night is to uncover the truth behind the asylum's dark past and find a way to exorcise the demons that haunt it.\n\nThroughout the film, the characters are stalked and attacked by the malevolent spirits, and they must use their wits and resourcefulness to stay alive. As the night wears on, the stakes become higher, and the group is forced to confront the evil that surrounds them.\n\nThe film features a mix of gore, horror, and suspense, and it has become a cult classic among fans of the genre. While it may not be as well-known as some other horror films, 'Night of the Demons 2' is a terrifying and entertaining ride that is sure to leave viewers on the edge of their seats.\n\nOverall, 'Night of the Demons 2' is a fun and frightening horror movie that is perfect for fans of the genre. Its blend of gore, suspense, and supernatural terror makes it a must-see for anyone looking for a thrilling Halloween movie experience."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "642aff32c329f3fa340b8dc4fcd88fac",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 559.0 words or less.\n\n---\n\n**Title:**\n\nNight of the Demons 2\n\n**Year:**\n\n1994",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lost in America",
+    "descriptions": [
+        "\"Lost in America\" is a 1985 American comedy film directed by Albert Brooks. The movie follows David Howard (played by Albert Brooks), a successful advertising executive who becomes disillusioned with the materialistic and superficial lifestyle of Los Angeles. Along with his wife Linda (played by Julie Hagerty), David decides to leave his high-paying job and embark on a journey of self-discovery.\n\nThe couple leaves Los Angeles with a large sum of money, hoping to live off their savings and pursue their interests in art and music. However, they quickly find themselves struggling to cope with the financial constraints and the lack of social status that comes with their new lifestyle.\n\nAs they navigate their way through the challenges of living off their savings, David and Linda's relationship begins to fray. David's desire for freedom and self-expression clashes with Linda's need for security and stability. The film explores themes of identity, materialism, and the American Dream, offering a satirical commentary on the excesses of 1980s Los Angeles.\n\nThrough its witty dialogue and absurdist humor, \"Lost in America\" provides a comedic take on the disillusionment of the American Dream and the search for meaning in a post-materialistic world. The film showcases Albert Brooks' unique brand of humor and his ability to balance satire with poignancy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "1e89f850c286543494b1a8c6f42ea8b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nLost in America\n\n**Year:**\n\n1985",
+    "include_year": false
+}

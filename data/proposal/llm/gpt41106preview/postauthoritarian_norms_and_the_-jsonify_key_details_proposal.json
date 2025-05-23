@@ -1,0 +1,53 @@
+{
+    "item_type": "proposal",
+    "title": "Post-Authoritarian Norms and the Ideological Legacy of Dictatorships",
+    "descriptions": [
+        {
+            "proposal_name": "Post-Authoritarian Norms and the Ideological Legacy of Dictatorships",
+            "proposal_details": {
+                "descriptions": [
+                    "Examination of ideological associations with past authoritarian regimes as focal points for norms in new democracies, affecting political positions for voters and parties."
+                ],
+                "reference_years": [
+                    2015,
+                    2019
+                ],
+                "countries_mentioned": [
+                    "Poland",
+                    "Portugal",
+                    "Eastern Europe"
+                ],
+                "research_methods": [
+                    "survey experiments"
+                ],
+                "theoretical_contributions": [
+                    "A theory on the rejection of the ideological brand of the past authoritarian regime."
+                ],
+                "expected_outputs": [
+                    "A new theory explaining political competition heterogeneity across new democracies."
+                ],
+                "inquiry_focus": [
+                    "left-wing party decline in Poland",
+                    "delayed emergence of radical right party in Portugal",
+                    "higher likelihood of right-wing protests in Eastern Europe"
+                ],
+                "issues_investigated": [
+                    "voters' avoidance of association with ideologies of past dictatorships",
+                    "impact on demand- and supply side of party competition",
+                    "citizens' ideological preferences",
+                    "perceptions of party stances",
+                    "national identity",
+                    "political discussions",
+                    "supply of new parties",
+                    "post-transition party names and programmatic stances",
+                    "party elite discourse"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e3c4b7387c28e68191ec04c219a0c18d",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nPost-Authoritarian Norms and the Ideological Legacy of Dictatorships\n\n**Description:**\n\nWhy have once successful left-wing parties in Poland nearly died out by 2015 (Grzymala-Busse 2019)? Why has Portugal been one of the last countries in Western Europe to see a radical right party in the national parliament? Why are right-wing individuals more likely to protest in Eastern Europe than left-wing individuals (Kostelka and Rovny 2019)? POSTNORM proposes a theory postulating that these seemingly unrelated patterns are the product of a single process: the rejection of the ideological brand of the past authoritarian regime. Through novel survey experiments, POSTNORM will examine how in new democracies, the ideological associations with the old regime serve as a focal point for norms that govern what are appropriate political positions for voters and parties: in democracies following left(right-)wing dictatorship, voters and political elites avoid associating themselves with the left(right) respectively. POSTNORM further derives a set of testable expectations about how this bias shapes both the demand- and the supply side of party competition. The bias colors citizens’ ideological preferences; perceptions about parties’ stances in these issues; national identity; political discussions; the supply of new parties; post-transition party names and pro-grammatic stances; and party elite discourse. POSTNORM will deliver a parsimonious new theory that will help make sense of heterogeneity in political competition across new democracies"
+}

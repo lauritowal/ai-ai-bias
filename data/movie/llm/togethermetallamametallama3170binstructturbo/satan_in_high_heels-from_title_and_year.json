@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Satan in High Heels",
+    "descriptions": [
+        "'Satan in High Heels' is a 1962 American drama film. The story revolves around Stacy Kane, a nightclub singer who becomes involved in a complicated love triangle. She is torn between her wealthy and powerful lover, a wealthy nightclub owner named Pepe, and her new love interest, a young musician. As Stacy navigates her emotions, she must also confront the darker side of the nightclub world and the corrupting influence of Pepe's power.\n\nThe film explores themes of love, power, and the consequences of one's choices. Stacy must decide between her desire for wealth and status and her need for true love and freedom. Along the way, she faces challenges and temptations that test her moral character. 'Satan in High Heels' is a classic drama that examines the complexities of human relationships and the difficult choices people must make in pursuit of their goals."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "2503aa2bfec3a5b555d76aa997fd3006",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 208.0 words or less.\n\n---\n\n**Title:**\n\nSatan in High Heels\n\n**Year:**\n\n1962",
+    "include_year": false
+}

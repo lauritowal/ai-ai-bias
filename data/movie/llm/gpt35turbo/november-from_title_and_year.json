@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "November",
+    "descriptions": [
+        "In the movie \"November\" (2004), the story follows the life of a young woman named Sophie, who is struggling to cope with the sudden and tragic loss of her boyfriend in a car accident. The film is set in the month following the accident, and we see Sophie trying to navigate her grief and come to terms with her new reality.\n\nAs Sophie tries to move on from the loss, she begins to experience strange and unexplainable occurrences. She starts seeing and hearing things that others cannot, and she becomes convinced that her boyfriend is trying to communicate with her from beyond the grave.\n\nThroughout November, we see Sophie grappling with her grief and trying to make sense of the supernatural events happening around her. She becomes obsessed with finding a way to communicate with her boyfriend and understand the messages he is trying to send her.\n\nAs the month progresses, Sophie's mental state deteriorates, and she becomes increasingly isolated and detached from reality. Her friends and family become worried about her well-being, but Sophie is determined to uncover the truth behind the mysterious events that are unfolding.\n\nIn a climactic twist, Sophie discovers the shocking truth behind the supernatural occurrences and realizes that her boyfriend's death was not a random accident. She uncovers a web of deceit and betrayal that leads her to confront the people responsible for his death.\n\n\"November\" is a gripping and emotional film that explores themes of love, loss, and the power of belief. It is a haunting and atmospheric story that delves into the depths of grief and the lengths we will go to in order to find closure and understanding in the face of tragedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "5aa0e0bd99d5549bdccb188219f8b9bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 380.0 words or less.\n\n---\n\n**Title:**\n\nNovember\n\n**Year:**\n\n2004",
+    "include_year": false
+}

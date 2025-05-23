@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spider Forest",
+    "descriptions": [
+        " In the haunting 2004 South Korean psychological thriller, \"Spider Forest,\" director Il-gon Song weaves a tangled web of mystery and suspense that ensnares the viewer from its opening moments.\n\nThe film's central character, Kang Min, awakens in a strange forest with no memory of how he arrived there. He is quickly plunged into a nightmare when he stumbles upon a horrific scene: the mutilated body of a woman hanging from a vast spider web. As he struggles to comprehend the gruesome sight, he is attacked by an unknown assailant and left for dead.\n\nWhen Kang Min regains consciousness, he finds himself in a hospital bed, with fragments of his memory returning. He recalls a romantic relationship with a woman named Choi Mi-ok, who bears a striking resemblance to the murder victim. As he delves deeper into his past, Kang Min becomes increasingly convinced that Choi Mi-ok is not only alive but also somehow connected to the murder in the forest.\n\nAs Kang Min's investigation unfolds, he is drawn into a complex web of deceit and manipulation. He suspects that his former lover, Choi Mi-ok, may be a key player in the mystery, but he is unsure of her motives or her true identity. He is also plagued by recurring nightmares and hallucinations, which blur the line between reality and illusion.\n\nAs the story progresses, Kang Min discovers that he is not the only one searching for answers. A detective named Choi is also investigating the murder in the forest, and he becomes increasingly suspicious of Kang Min's involvement. The two men become locked in a tense game of cat and mouse, as they race to uncover the truth behind the grisly crime.\n\nAs the plot thickens, it becomes clear that nothing is as it seems. The lines between past and present, reality and imagination, and guilt and innocence become increasingly blurred. In the end, the truth is finally revealed, but at a terrible cost.\n\n\"Spider Forest\" is a chilling and atmospheric thriller that explores the darkest corners of the human psyche. With its labyrinthine plot and haunting imagery, it is a film that will stay with the viewer long after the final credits roll."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "7bc41809a75823e4ee0735b382cad28c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 376.0 words or less.\n\n---\n\n**Title:**\n\nSpider Forest\n\n**Year:**\n\n2004",
+    "include_year": false
+}

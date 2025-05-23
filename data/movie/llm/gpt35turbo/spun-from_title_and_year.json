@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spun",
+    "descriptions": [
+        "Spun follows the lives of a group of drug addicts as they navigate through a whirlwind of chaos and self-destruction. The story is centered around Ross, a methamphetamine user, who spends his days bouncing from one drug-fueled adventure to the next. His life is a mess of hallucinations, paranoia, and violence as he spirals deeper into addiction.\n\nRoss is surrounded by a colorful cast of characters, each with their own struggles and vices. There's Nikki, a stripper who becomes Ross's girlfriend and partner in crime, and The Cook, a drug manufacturer who supplies them with meth. There's also Spider Mike, a fellow addict who introduces Ross to the world of drug dealing, and Cookie, a young woman who finds herself caught up in the chaos of their lives.\n\nAs the group's drug use escalates, so does the intensity of their experiences. Ross and Nikki find themselves in increasingly dangerous situations, from violent confrontations with rival dealers to encounters with law enforcement. The Cook's erratic behavior and violent outbursts only add to the tension, pushing the group closer to the edge.\n\nDespite the chaos and destruction that surrounds them, there are moments of humanity and connection among the characters. Ross forms a bond with Cookie, who offers him a glimpse of a different kind of life. Spider Mike struggles with his own demons, trying to find a way out of the cycle of addiction and violence.\n\nAs the story unfolds, the characters are forced to confront the consequences of their actions. Ross's drug use spirals out of control, leading to a devastating breakdown. Nikki grapples with her own demons, torn between her love for Ross and her desire for a better life. The Cook's violent tendencies come to a head, putting everyone in danger.\n\nIn the end, Spun is a raw and unflinching look at the dark underbelly of addiction. It's a story of desperation and destruction, but also of resilience and hope. As the characters struggle to find their way out of the chaos, they must confront their own demons and face the consequences of their actions. It's a harrowing journey, but one that ultimately offers a glimmer of redemption in the face of overwhelming odds."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "4df379a449eaf8f426a0186d19c6a745",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 765.0 words or less.\n\n---\n\n**Title:**\n\nSpun\n\n**Year:**\n\n2003",
+    "include_year": false
+}

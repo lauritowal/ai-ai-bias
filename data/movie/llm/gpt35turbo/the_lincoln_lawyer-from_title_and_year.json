@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Lincoln Lawyer",
+    "descriptions": [
+        "\"The Lincoln Lawyer\" follows the story of Mick Haller, a slick and charismatic defense attorney who operates out of the backseat of his Lincoln Town Car. Haller is known for his ability to navigate the legal system and get his clients off the hook, regardless of their guilt or innocence. \n\nOne day, Haller is approached by a wealthy client named Louis Roulet, who has been accused of brutally assaulting a woman. Roulet claims he is innocent and insists on going to trial to clear his name. Haller sees this as a high-profile case that could bring him even more success and prestige. He agrees to take on Roulet as a client, despite some reservations about his innocence.\n\nAs Haller begins to investigate the case, he uncovers a web of lies and deceit that lead him to believe that Roulet may not be telling the truth. It becomes clear to Haller that Roulet has a dark and sinister past that he is trying to hide. Haller is faced with a moral dilemma - should he continue to defend Roulet and risk letting a dangerous criminal walk free, or should he do the right thing and expose Roulet for who he truly is?\n\nAs the trial progresses, Haller finds himself caught in a dangerous game of cat and mouse with Roulet, who will stop at nothing to maintain his innocence and keep his secrets hidden. Haller must use all of his cunning and legal expertise to outsmart Roulet and bring him to justice.\n\nIn the end, Haller is able to uncover the truth about Roulet's past and present it in court, leading to Roulet's conviction for his crimes. Despite the risks and challenges he faced along the way, Haller ultimately chooses to do the right thing and ensure that justice is served.\n\n\"The Lincoln Lawyer\" is a gripping legal thriller that explores the complexities of the legal system and the moral dilemmas that defense attorneys often face. With a stellar cast, compelling storyline, and unexpected twists and turns, this film keeps viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "443105cc171f90876b344694e812cdd6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 664.0 words or less.\n\n---\n\n**Title:**\n\nThe Lincoln Lawyer\n\n**Year:**\n\n2011",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Satan in High Heels",
+    "descriptions": [
+        " In \"Satan in High Heels\" (1962), we follow the tumultuous journey of Stacey Kane, a strikingly beautiful yet cunning woman who escapes her mundane existence in a small town to pursue her dreams in the glamorous world of New York City. Stacey secures a job as a nightclub singer, where her sultry voice and captivating stage presence quickly gain her fame and fortune.\n\nHowever, Stacey's past catches up with her when her estranged husband, Gil, discovers her new identity and attempts to extort money from her. Desperate to maintain her newfound status, Stacey manipulates her wealthy lover, Arnold, and convinces him to eliminate Gil. As Stacey's web of deceit grows, she becomes entangled with a dangerous crime boss, Pete, who blackmails her into becoming a high-class call girl to pay off her mounting debts.\n\nTrapped in a vicious cycle of crime, lust, and betrayal, Stacey must navigate her perilous circumstances and confront her own inner demons. As she struggles to break free from the clutches of her past and the sinister forces that threaten her future, Stacey discovers that the glittering allure of the high life may come at a deadly cost."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "2503aa2bfec3a5b555d76aa997fd3006",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 208.0 words or less.\n\n---\n\n**Title:**\n\nSatan in High Heels\n\n**Year:**\n\n1962",
+    "include_year": false
+}

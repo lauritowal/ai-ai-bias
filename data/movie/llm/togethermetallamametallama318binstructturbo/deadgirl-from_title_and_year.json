@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Deadgirl",
+    "descriptions": [
+        "\"Deadgirl\" is a 2008 American horror film directed by Marianna Palka. The movie takes place at a run-down reform school in the 1980s, where a group of misfit teenagers have been sent to serve time.\n\nThe story revolves around the complex and often disturbing relationships between the students and the school's administrators. The main characters are Joyce (Shari Summers), the school's nurse, and the protagonist, Brady (Shiloh Fernandez), a troubled teenager who often clashes with the school's rules.\n\nOne day, Brady and his friend, Casey (Aaron Paul), stumble upon a local abandoned asylum where they discover a comatose young woman, who becomes the central character of the film. The two boys, driven by curiosity and a sense of adventure, decide to take the girl back to their reform school, where they attempt to revive her.\n\nAs the days pass, the students become increasingly obsessed with the girl, who they nickname \"Deadgirl.\" Brady, in particular, becomes fascinated with her and starts to form an unusual bond. However, as the story unfolds, it becomes clear that the students' fascination with the girl is not just about curiosity, but also about their own dark desires and insecurities.\n\nThroughout the film, the director skillfully explores themes of trauma, abuse, and the exploitation of the vulnerable. The students' behavior towards the girl is a reflection of their own troubled pasts and their struggles with identity and belonging.\n\nAs the story reaches its climax, the boundaries between reality and fantasy become increasingly blurred, and the audience is forced to confront the darker aspects of human nature. Ultimately, \"Deadgirl\" is a haunting and unsettling film that challenges viewers to confront the consequences of their own actions and the harm they can inflict upon others.\n\nThe film received mixed reviews from critics, with some praising its bold and unflinching approach to the subject matter, while others found it to be disturbing and exploitative. However, \"Deadgirl\" remains a thought-provoking and unsettling horror film that continues to spark debate and discussion among audiences."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "28721906e3f056bf4f33f8129422c4a0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 569.0 words or less.\n\n---\n\n**Title:**\n\nDeadgirl\n\n**Year:**\n\n2008",
+    "include_year": false
+}

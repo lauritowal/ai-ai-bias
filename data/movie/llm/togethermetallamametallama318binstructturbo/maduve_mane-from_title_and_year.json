@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Maduve Mane",
+    "descriptions": [
+        "I'm not aware of any information about the movie \"Maduve Mane\" and its release year. However, I can suggest a few possibilities about what the movie might be about.\n\n'Maduve Mane' is a Kannada word in India that translates to 'House of Roses' or 'Honeycomb'. It is possible that 'Maduve Mane' is a Kannada movie. However, I could not find any reliable sources about the movie.\n\nIf you provide the release year of the movie \"Maduve Mane\", I can attempt to find more information and provide a plot summary. \n\nPlease note that without the release year or more context, it's challenging to provide a detailed plot summary of the movie. I would be happy to help you with more information."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "23cce7a2669de698e50a741c9b981319",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 417.0 words or less.\n\n---\n\n**Title:**\n\nMaduve Mane\n\n**Year:**\n\n",
+    "include_year": false
+}

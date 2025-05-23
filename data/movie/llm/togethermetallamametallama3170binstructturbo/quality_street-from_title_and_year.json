@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Quality Street",
+    "descriptions": [
+        "Quality Street is a 1937 American romantic comedy film directed by George Stevens, starring Katharine Hepburn and Franchot Tone. The movie is an adaptation of J.M. Barrie's 1901 play of the same name.\n\nPhoebe Throssel (Katharine Hepburn) is a young, spirited, and kind-hearted schoolteacher in a small English town during the Napoleonic era. When her brother, Will (Eric Blore), enlists to fight in the war, Phoebe is left to manage the family's household and care for her elderly aunt.\n\nPhoebe's life is turned upside down when a group of soldiers, including a dashing and proud young officer named Valentine Brown (Franchot Tone), arrive in town. Valentine is immediately smitten with Phoebe but is also a proud and arrogant man who finds it difficult to express his feelings.\n\nTen years pass, and the war ends. Valentine returns to the town, now a mature and responsible man, but finds that his feelings for Phoebe remain unchanged. However, Phoebe, believing that Valentine has forgotten her, has now become a mature and reserved spinster. To win her heart, Valentine concocts a plan to pose as an old, gray-haired suitor, and Phoebe, unaware of his true identity, begins to develop feelings for the \"old\" suitor.\n\nAs the story unfolds, Valentine's plan threatens to backfire, and Phoebe's feelings for him are put to the test. The film explores themes of love, deception, and self-discovery, ultimately leading to a heartwarming and romantic conclusion.\n\nQuality Street is a charming and witty film, showcasing the talents of Katharine Hepburn and Franchot Tone. With its blend of humor, romance, and period drama, the movie remains a delightful classic of 1930s American cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "3553135b3835bea4a10ab264661ed9e3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 413.0 words or less.\n\n---\n\n**Title:**\n\nQuality Street\n\n**Year:**\n\n1937",
+    "include_year": false
+}

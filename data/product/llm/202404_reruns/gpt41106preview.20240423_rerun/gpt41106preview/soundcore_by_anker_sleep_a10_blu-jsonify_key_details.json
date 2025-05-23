@@ -1,0 +1,70 @@
+{
+    "item_type": "product",
+    "title": "soundcore by Anker, Sleep A10 Bluetooth Sleep Earbuds, Noise Blocking Earbuds for Sleep, Comfortable Fit, Bluetooth 5.2, App, for Unlimited Sleep Sounds, Sleep Monitor, Personal Alarm, Side Sleeper",
+    "descriptions": [
+        {
+            "product_name": "soundcore by Anker, Sleep A10 Bluetooth Sleep Earbuds",
+            "product_details": {
+                "comfort": "Comfortable for side sleepers, slim and lightweight, designed for indoor use",
+                "noise_blocking": {
+                    "system": "4-Point Noise Masking System",
+                    "ear_wings": true,
+                    "twin_seal_ear_tips": true,
+                    "smart_volume_control": true,
+                    "active_noise_cancelling": false
+                },
+                "bluetooth_version": "5.2",
+                "app_integration": {
+                    "unlimited_sleep_sounds": true,
+                    "soundcore_app": true
+                },
+                "customized_sleep_sounds": {
+                    "customized_dynamic_drivers": true,
+                    "enhanced_low_frequency_sound": "-10dB"
+                },
+                "sleep_management": {
+                    "sleep_monitor": true,
+                    "automatic_pause_audio": true,
+                    "personal_alarm": true
+                }
+            }
+        },
+        {
+            "product_name": "soundcore by Anker, Sleep A10 Bluetooth Sleep Earbuds",
+            "product_details": {
+                "comfort": "Comfortable for all night use, even for side sleepers",
+                "build": "Slim and lightweight",
+                "ear_fit": "Snug with no protruding",
+                "usage_environment": "Indoor recommended for peak performance",
+                "noise_blocking_system": "4-Point Noise Masking System without ANC",
+                "ear_wings": "Yes",
+                "twin_seal_ear_tips": "Yes",
+                "smart_volume_control": "Adjusts sleep sounds' volume to mask external noise",
+                "bluetooth_version": "5.2",
+                "app_compatibility": "soundcore app for white noise and soothing sounds",
+                "audio_customization": "Customized dynamic drivers for enhanced sleep sounds",
+                "sleep_monitor": "Monitors sleep status and provides feedback",
+                "audio_pause_feature": "Automatically pauses once asleep",
+                "personal_alarm": "Yes, to avoid disturbing others"
+            }
+        },
+        {
+            "product_name": "soundcore by Anker, Sleep A10 Bluetooth Sleep Earbuds",
+            "product_details": {
+                "comfort": "Designed for side sleepers, lightweight and snug fit without protruding, for all-night comfort. Not suitable for outdoor use.",
+                "noise_blocking_system": "4-Point Noise Masking System without ANC, including ear wings and Twin Seal ear tips for a secure seal.",
+                "bluetooth_version": "5.2",
+                "app_integration": "soundcore app for a variety of white noise and soothing sleep sounds.",
+                "customized_sleep_sounds": "Customized dynamic drivers produce low frequency sounds that are 10dB lower than standard ones.",
+                "sleep_monitoring": "Monitors sleep status with feedback on sleep duration and quality, automatically pauses audio when the user falls asleep.",
+                "personal_alarm": "Allows for setting a personal alarm to wake up without disturbing others."
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "9a0a7286d63bb6eff49dc167114bfd3a",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: soundcore by Anker, Sleep A10 Bluetooth Sleep Earbuds, Noise Blocking Earbuds for Sleep, Comfortable Fit, Bluetooth 5.2, App, for Unlimited Sleep Sounds, Sleep Monitor, Personal Alarm, Side Sleeper\n\nDescription: Comfortable, Even for Side Sleepers: The slim, lightweight build keeps Sleep A10 snug in your ears without protruding. Wear all night long without feeling discomfort. Note: Do not use Sleep A10 outdoors, which may cause unstable performance. Indoor usage (e.g. bedroom) ensures peak performance.\n\nFor Peaceful Sleep: Stay asleep with the 4-Point Noise Masking System. Ear wings and Twin Seal ear tips create a secure seal for noise blocking. Smart Volume Control adjusts sleep sounds' volume to mask external noise. Note: No Active Noise Cancelling (ANC)\n\nEnjoy Virtually Unlimited Audio: Connect Sleep A10 using Bluetooth 5.2 to listen to audio from your favorite apps. Also, choose from a wide variety of white noise and soothing sounds on the soundcore app to help you sleep and relax.\n\nCustomized for Sleep Sounds: By using customized dynamic drivers that produce low frequency sound that's 10dB lower than standard ones, Sleep A10 enhances white noise and other sleep-in\n\nManage Your Sleep: Monitor your sleep status and get feedback on the duration and quality of sleep. The earbuds automatically pause audio once you've fallen asleep, and you can set a personal alarm to avoid disturbing your partner.",
+    "__pydantic_initialised__": true
+}

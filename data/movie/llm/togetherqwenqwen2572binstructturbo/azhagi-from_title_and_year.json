@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Azhagi",
+    "descriptions": [
+        "\"Azhagi,\" released in 2002, is a Tamil drama directed by Sundar C. The film stars Jyothika and Jeeva in the lead roles, with a compelling narrative that delves into the complexities of love, duty, and societal norms.\n\nThe story revolves around Azhagi (Jyothika), a beautiful and talented classical dancer who lives in a conservative village in Tamil Nadu. Azhagi is deeply devoted to her art and dreams of achieving greatness on the stage. Her life takes a dramatic turn when she meets and falls in love with Ravi (Jeeva), a young and ambitious city boy who is visiting the village for a short period.\n\nDespite the immediate chemistry between them, their relationship faces numerous obstacles. Azhagi's family, bound by traditional values, disapproves of her romance with Ravi, viewing him as an outsider who does not fit into their cultural framework. Meanwhile, Ravi struggles to understand and adapt to the strict village customs that govern Azhagi's life.\n\nAs the pressure from their families and the community mounts, Azhagi and Ravi must make difficult choices. Azhagi is torn between her love for Ravi and her duty to her family and the village. The situation becomes even more complicated when a tragic event forces Azhagi to make a life-altering decision that could either unite or permanently separate her from Ravi.\n\nThe film explores themes of personal freedom, the clash between tradition and modernity, and the sacrifices one makes for love. \"Azhagi\" is a poignant tale that resonates with audiences through its deep emotional layers and the performances of its lead actors, who bring the characters' struggles and aspirations to life with authenticity and depth.\n\n\"Azhagi\" received critical acclaim for its sensitive portrayal of a love story set against the backdrop of a traditional Tamil village, and it remains a significant entry in the canon of Tamil cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "c49219ab2c1ff3799812a097933f6f0b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 366.0 words or less.\n\n---\n\n**Title:**\n\nAzhagi\n\n**Year:**\n\n2002",
+    "include_year": false
+}

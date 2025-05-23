@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Igby Goes Down",
+    "descriptions": [
+        "\"Igby Goes Down\" is a dark comedy-drama film released in 2002, directed by Burr Steers. It follows the life of 17-year-old Jason \"Igby\" Slocumb, Jr. (played by Kieran Culkin), a rebellious and sardonic teenager struggling to break free from the suffocating world of his dysfunctional upper-class family.\n\nThe story opens with Igby trying to escape his overbearing mother, Mimi (Susan Sarandon), who is controlling and emotionally distant. His father, Jason Slocumb, Sr. (Bill Pullman), has been institutionalized due to schizophrenia, and Igby fears he might inherit his father's mental illness. His older brother, Oliver (Ryan Phillippe), is the opposite of Igby—polished, ambitious, and conforming to the expectations of their mother and society.\n\nAfter being expelled from several prep schools, Igby is sent to a military academy, which he quickly abandons, setting out on his own in New York City. He takes refuge with his godfather, D.H. Banes (Jeff Goldblum), and develops a romantic relationship with D.H.'s mistress, Rachel, also known as Sookie Sapperstein (Claire Danes), a college student with her own set of quirks.\n\nAs Igby navigates his chaotic life, he attempts to find a sense of purpose and identity amidst a series of misadventures and familial crises. He wrestles with his feelings of love and resentment towards his family, particularly as he uncovers secrets about his mother's past and the nature of his father's illness.\n\nThe film is a coming-of-age story that delves into themes of existential angst, the search for authenticity, and the desire to escape from societal and familial expectations. Igby's sharp wit and critical view of the world around him provide a satirical commentary on the absurdities of the privileged class to which he belongs.\n\n\"Igby Goes Down\" received critical acclaim for its writing, dark humor, and the performances of its cast, particularly Kieran Culkin, who delivers a breakout performance as the titular character. The film resonates with audiences who identify with the struggles of adolescence and the universal quest to find one's place in an often incomprehensible world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c67777baafcc73035d776c6cd8d74ac3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 382.0 words or less.\n\n---\n\n**Title:**\n\nIgby Goes Down\n\n**Year:**\n\n2002",
+    "include_year": false
+}

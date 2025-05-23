@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Marked Woman",
+    "descriptions": [
+        "Marked Woman is a 1937 American drama film directed by Lloyd Bacon. The movie is based on a true story and stars Bette Davis. The film tells the story of Marie Brennan (Bette Davis), a young woman who becomes embroiled in a prostitution ring in New York City. Marie is forced into prostitution by her boyfriend, Tommy (John Emery), and is eventually rescued by an honest and compassionate lawyer, David Edwards (Lester Matthews).\n\nAs Marie begins to rebuild her life, she testifies against the prostitution ring and its corrupt businessman, Abe Bernstein (James Cagney). Bernstein is a ruthless and cunning individual who will stop at nothing to eliminate Marie and protect his operation. Despite the danger she faces, Marie remains steadfast in her determination to expose the truth and bring the perpetrators to justice.\n\nMarked Woman is a powerful and thought-provoking drama that sheds light on the dark underbelly of organized crime and the exploitation of vulnerable women. Bette Davis delivers a standout performance as the courageous and resilient Marie Brennan."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "055a1d7c3bd762b867f5f764a86dab9a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937",
+    "include_year": false
+}

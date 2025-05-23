@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Going Under",
+    "descriptions": [
+        "\"Going Under\" is a 2004 drama film that revolves around the life of Samantha 'Sam' Casey, a young woman played by Julia Stiles. Sam is a 25-year-old nurse who returns to her hometown in New Jersey after being laid off from her job. \n\nDuring her time in her hometown, Sam reconnects with her high school sweetheart, Mike, played by David Boreanaz. However, she also meets Mike's new fiancée, Dr. Cammy, a beautiful doctor who works in a local hospital. \n\nAs Sam settles back into her hometown, she starts working at the same hospital where Dr. Cammy practices. The two women become roommates, which creates tension between them. Throughout the film, Sam and Dr. Cammy engage in a heated rivalry, both on and off the job.\n\nAs the story unfolds, Sam finds herself developing feelings for Mike, but she's also drawn to Dr. Cammy's charming and confident personality. She becomes increasingly torn between her feelings for Mike and her attraction to Dr. Cammy.\n\nThe film takes a dramatic turn as Sam and Dr. Cammy's relationship reaches a boiling point. They engage in physical and emotional confrontations, which ultimately lead to a shocking revelation about Dr. Cammy's past. The film's climax reveals that Dr. Cammy is actually a trans woman who has been hiding her true identity from the people around her.\n\nThe film's final act explores the complexities of identity, love, and acceptance. Sam and Dr. Cammy's relationship is put to the test as they navigate their feelings for each other in a small town where they face prejudice and judgment.\n\nUltimately, \"Going Under\" is a powerful drama that explores themes of identity, love, and acceptance in a small town. The film features a strong performance from Julia Stiles and an nuanced portrayal of Dr. Cammy's character by LisaGay Hamilton."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "844c87d8b779192f81abf36f71d7609d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 758.0 words or less.\n\n---\n\n**Title:**\n\nGoing Under\n\n**Year:**\n\n2004",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Spanish Masala",
+    "descriptions": [
+        "I couldn't find any information on a movie called \"Spanish Masala\" released in a specific year. However, I found a Telugu-language film titled \"Spanish Masala\" released in 2013. Here's a plot summary of the 2013 Telugu movie:\n\n\"Spanish Masala\" is a Telugu romantic comedy-drama film released in 2013. It is set in a small town in Andhra Pradesh, India. The story revolves around Sathya (played by Sundeep Kishan), a young, unemployed man who lives in a small town. He travels to Europe for a job but ends up staying in Spain for several months. During his stay, he falls in love with a Spanish girl named Silvia (played by Aakanksha Singh) and decides to marry her.\n\nHowever, things become complicated when Sathya returns to India and must adjust to his new life with Silvia. The cultural differences between the two countries lead to comedic misunderstandings and cultural clashes. Meanwhile, Sathya's family, including his mother (played by Jayasudha) and his friend (played by Raj Tarun), are not comfortable with Silvia and her Western ways.\n\nAs the story unfolds, Sathya and Silvia face numerous challenges in their relationship. They must navigate the complexities of cultural differences, family expectations, and personal desires. The film explores themes of love, culture, and identity, raising questions about what it means to be Indian and what it means to be in love.\n\nThe film features a mix of humor, drama, and romance, with a touch of social commentary. The movie received positive reviews for its unique storyline, witty dialogue, and the performances of the lead actors. Overall, \"Spanish Masala\" is a heartwarming and entertaining film that explores the complexities of love and culture in a humorous and engaging way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "2aeb1f7a9f86373d5d48f10e51849ec8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 400.0 words or less.\n\n---\n\n**Title:**\n\nSpanish Masala\n\n**Year:**\n\n",
+    "include_year": false
+}

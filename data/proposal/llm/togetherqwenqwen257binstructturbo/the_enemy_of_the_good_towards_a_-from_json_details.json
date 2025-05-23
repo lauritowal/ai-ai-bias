@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "The Enemy of the Good: Towards a Theory of Moral Progress",
+    "descriptions": [
+        "**Abstract:**\n\nThis grant proposal seeks to develop a novel theory of moral progress, entitled \"The Enemy of the Good: Towards a Theory of Moral Progress.\" The central aim is to extend our understanding of moral progress beyond its current limitations—such as parochial empathy and altruism confined to kin and friends—by focusing on different forms of moral progress that are not constrained by evolutionary factors. The proposed theory will explore moral attitudes and institutions that can surpass the inherent psychological limitations of our inherited cognitive frameworks. By expanding moral concern to ethically arbitrary features like class, age, gender, ethnicity, religion, and species membership, this project aims to provide a robust account of moral progress that is inclusive and just. The \"expanding circle\" approach will guide this endeavor, offering a framework to address and overcome these ethical barriers. This research has the potential to significantly advance our ethical understanding and guide the development of more inclusive and progressive moral frameworks."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "60b6c3fa906e97eda2043cb41de9c824",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 206 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'The Enemy of the Good: Towards a Theory of Moral Progress', 'proposal_details': {'descriptions': ['Develop an alternative theory of moral progress focusing on different forms of moral progress, different moral attitudes not subject to evolutionary constraints, and smart institutions bypassing limits of our inherited psychology.'], 'moral_progress_account': 'expanding circle', 'current_limitations': ['parochial empathy', 'altruism tied to friends and kin'], 'ethical_features_to_overcome': ['class', 'age', 'gender', 'ethnicity', 'religion', 'species membership'], 'goal': 'Extend moral concern beyond ethically arbitrary features'}}"
+}

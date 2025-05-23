@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Lost in America",
+    "descriptions": [
+        "\"Lost in America\" is a 1985 comedy film directed by Albert Brooks. The story follows David and Linda Howard, a yuppie couple living in Los Angeles who decide to quit their jobs, sell their house, and travel across the country in a Winnebago, believing it will bring them true freedom and happiness. However, their journey takes an unexpected turn when David loses their entire savings in a Las Vegas casino.\n\nFeeling lost and desperate, the couple is forced to confront the reality of their situation as they struggle to come to terms with their newfound financial insecurity. They attempt to navigate the challenges of life on the road, including encountering eccentric characters and adjusting to a simpler way of living.\n\nAs David and Linda try to find their way back to stability, they are forced to confront their own values and priorities. Through a series of humorous and poignant moments, they learn important lessons about the true meaning of freedom, happiness, and fulfillment. Along the way, they are forced to reconsider their assumptions about what it means to be successful and truly content in life.\n\n\"Lost in America\" is a satirical take on the American Dream and the pitfalls of consumerism, highlighting the importance of finding one's own path and staying true to oneself in a society that often values material wealth over personal growth and happiness. With its blend of comedy and introspection, the film offers a thought-provoking and entertaining look at the complexities of modern life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1e89f850c286543494b1a8c6f42ea8b7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 282.0 words or less.\n\n---\n\n**Title:**\n\nLost in America\n\n**Year:**\n\n1985",
+    "include_year": false
+}

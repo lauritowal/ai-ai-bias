@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Your Mother Wears Combat Boots",
+    "descriptions": [
+        " In the heart of 1989, \"Your Mother Wears Combat Boots\" unfolds as a heartwarming comedic drama. The story revolves around the unconventional Johnson family, particularly the matriarch, Martha Johnson, a former military sergeant known for her tough demeanor and combat boots, which she wears even in civilian life. Martha is a single mother of two, struggling to balance her disciplined military past with the challenges of raising her teenage children, rebellious daughter Jamie and introverted son Timmy.\n\nWhen Martha's past catches up with her in the form of a former military colleague, now a high-ranking officer, she is offered a prestigious job back in the army. This opportunity forces Martha to grapple with the decision of whether to return to her military career or continue raising her children as a full-time mother. As she contemplates her future, Martha's children begin to exhibit behavioral issues stemming from her absence during their formative years.\n\nJamie starts skipping school and hanging out with the wrong crowd, while Timmy withdraws further into his shell, finding solace in his art. Martha is torn between her dedication to her family and the desire to reclaim her military career. As she tries to bring stability back into their lives, Martha realizes that her military training and experiences have equipped her with the skills necessary to handle even the most challenging situations at home.\n\nIn a touching climax, Martha makes a life-altering decision, demonstrating that motherhood is the ultimate test of strength and resilience. She learns that the combat boots she wears are not just a symbol of her military past, but also a testament to her unwavering commitment to her children and the love that binds their family together. The film concludes with Martha finding a balance between her military past and her role as a mother, ultimately strengthening her bond with Jamie and Timmy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "bf16a593ede557c9b33894d843d9511b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 321.0 words or less.\n\n---\n\n**Title:**\n\nYour Mother Wears Combat Boots\n\n**Year:**\n\n1989",
+    "include_year": false
+}

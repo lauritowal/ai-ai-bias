@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Interview With the Assassin",
+    "descriptions": [
+        "Set in 1930s China, \"Interview with the Assassin\" (2002) follows the life of a young woman named Yu Shuhong, who is recruited by a secret society to become an assassin. As she trains and learns the art of assassination, the film delves into her personal growth and moral dilemmas. The story unfolds through a series of flashbacks, revealing the complex relationships and political intrigue that shape her destiny. A pivotal interview with her mentor challenges her beliefs and sets her on a path of self-discovery and questioning the very nature of her existence as an assassin. The film explores themes of loyalty, betrayal, and the blurred lines between right and wrong, culminating in a tense and thought-provoking climax."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "1573aec6a37c7379f787e50e7132e5d0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 238.0 words or less.\n\n---\n\n**Title:**\n\nInterview With the Assassin\n\n**Year:**\n\n2002",
+    "include_year": false
+}

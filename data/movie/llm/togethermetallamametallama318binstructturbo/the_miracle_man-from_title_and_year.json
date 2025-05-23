@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Miracle Man",
+    "descriptions": [
+        "The Miracle Man is a 1919 American silent drama film directed by George Loane Tucker, based on a novel by Louis Stevens. The film tells the story of a con man who becomes paralyzed from the neck down after a streetcar accident.\n\nHowever, the man's condition is soon discovered to be a ruse, and he is revealed to be a scoundrel who has been using his supposed paralysis for personal gain. He is confronted by a woman who had been caring for him, and she demands payment for her services.\n\nThe man is then coerced into going to a spiritualist who claims to have the power to heal him. The con man agrees to pretend to be healed in exchange for money, but the spiritualist inadvertently reveals the man's true condition. The man is then forced to confront his own deceit and the harm it has caused to those who trusted him.\n\nThe film explores themes of deception, morality, and the consequences of one's actions. It features a mix of drama and social commentary, typical of silent films from the time period.\n\nThe Miracle Man is a notable film for its commentary on the social issues of the time, including the exploitation of the poor by false spiritualists and the dangers of deception. It also showcases the talents of its lead actor, Thomas Meighan, who delivers a nuanced performance as the con man. Overall, The Miracle Man is a thought-provoking and engaging silent film that offers a glimpse into the social and cultural concerns of the early 20th century."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b59190dc96728848f2a5bf9c0b6ad920",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 316.0 words or less.\n\n---\n\n**Title:**\n\nThe Miracle Man\n\n**Year:**\n\n1919",
+    "include_year": false
+}

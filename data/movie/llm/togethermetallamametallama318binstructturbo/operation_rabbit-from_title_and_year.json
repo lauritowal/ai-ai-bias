@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Operation: Rabbit",
+    "descriptions": [
+        "Unfortunately, I could not find any information on a 1952 movie titled \"Operation: Rabbit.\" It's possible that the movie is a lesser-known or obscure title, or it may not exist at all.\n\nHowever, I can suggest some alternative options:\n\n1. Check if the title is misspelled or if there's a similar title that might be what you're looking for.\n2. Look for movies from 1952 that might have a similar plot or theme.\n3. If you have more information about the movie, such as the director or cast, I might be able to help you identify it.\n\nIf you have any additional information or clarification, I'd be happy to try and assist you further."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3c28b3e4c07cb66977171ff512d115f8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 763.0 words or less.\n\n---\n\n**Title:**\n\nOperation: Rabbit\n\n**Year:**\n\n1952",
+    "include_year": false
+}

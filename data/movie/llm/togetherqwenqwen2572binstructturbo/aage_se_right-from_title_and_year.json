@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aage se right",
+    "descriptions": [
+        "\"Aage Se Right\" is a 2009 Indian romantic comedy directed by Milan Bafna. The film stars Sanjay Dutt, Arshad Warsi, and Genelia D'Souza in lead roles. The story revolves around the lives of three friends, Raj (Sanjay Dutt), Rakesh (Arshad Warsi), and Neha (Genelia D'Souza), who are in their late 30s and early 40s, struggling to find love and balance in their lives.\n\nRaj is a successful businessman who is still single and often finds himself in awkward romantic situations. Rakesh, a fun-loving and carefree man, is always on the lookout for his next romantic adventure. Neha, a career-oriented woman, is torn between her professional ambitions and her desire for a meaningful relationship.\n\nThe narrative unfolds as the three friends navigate the complexities of modern relationships, with each facing their own set of challenges. Raj's attempts to find the right woman lead to humorous and embarrassing moments, while Rakesh's casual approach to love often lands him in trouble. Neha, on the other hand, discovers that her independence and success do not necessarily guarantee happiness.\n\nAs the friends support each other through their romantic trials, they learn valuable lessons about love, commitment, and the importance of personal growth. \"Aage Se Right\" is a light-hearted and relatable film that explores the universal quest for love and happiness in the modern world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "8e683fb98f3ac60ebd4b516156b8cfe3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nAage se right\n\n**Year:**\n\n2009",
+    "include_year": false
+}

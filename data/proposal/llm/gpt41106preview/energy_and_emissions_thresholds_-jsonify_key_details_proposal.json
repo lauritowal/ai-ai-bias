@@ -1,0 +1,58 @@
+{
+    "item_type": "proposal",
+    "title": "Energy and emissions thresholds for providing decent living standards to all",
+    "descriptions": [
+        {
+            "proposal_name": "Energy and emissions thresholds for providing decent living standards to all",
+            "proposal_details": {
+                "descriptions": [
+                    "Quantifies energy needs and climate change impacts for providing decent living standards to all."
+                ],
+                "research_questions": [
+                    "What constitutes 'decent living standards'?",
+                    "What energy resources are required to provide these goods and services in different countries, and what impact will this have on climate change?",
+                    "How do the constituents of decent living and their energy needs evolve as countries develop?"
+                ],
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "description": "Operationalize basic needs views of human development, advance empirical validity by discerning characteristics of basic goods in household consumption patterns."
+                    },
+                    {
+                        "task_id": 2,
+                        "description": "Quantify energy needs and climate-related emissions for decent living constituents, dependence on culture, climate, technology, and other conditions in countries using lifecycle analysis, input-output analysis, and mapping energy to climate change using integrated assessment modelling tools for 5 emerging economies."
+                    },
+                    {
+                        "task_id": 3,
+                        "description": "Analyze path dependencies and trends in the evolution of basic goods and their energy intensity using empirical analysis."
+                    }
+                ],
+                "objectives": [
+                    "Develop knowledge on energy needs for decent living standards.",
+                    "Analyze climate change impacts of energy use for decent living standards.",
+                    "Identify low-carbon pathways for developing societies.",
+                    "Help quantify burden-sharing arrangements for climate mitigation."
+                ],
+                "methods": [
+                    "Lifecycle analysis",
+                    "Input-output analysis",
+                    "Integrated assessment modelling"
+                ],
+                "focus_countries": [
+                    "5 emerging economies"
+                ],
+                "contextual_factors": [
+                    "Culture",
+                    "Climate",
+                    "Technology",
+                    "Other contextual conditions"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "f4d8b26ac724b185d4998e1085a524a7",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nEnergy and emissions thresholds for providing decent living standards to all\n\n**Description:**\n\nThere is confusion surrounding how poverty eradication will contribute to climate change. This is due to knowledge gaps related to the material basis of poverty, and the relationship between energy and human development. Addressing this issue rigorously requires bridging gaps between global justice, economics, energy systems analysis, and industrial ecology, and applying this knowledge to projections of anthropogenic greenhouse gases. This project will develop a body of knowledge that quantifies the energy needs and related climate change impacts for providing decent living standards to all. The research will address three questions: which goods and services, and with what characteristics, constitute ‘decent living standards’? What energy resources are required to provide these goods and services in different countries, and what impact will this energy use have on climate change? How do the constituents of decent living and their energy needs evolve as countries develop? The first task will operationalize basic needs views of human development and advance their empirical validity by discerning characteristics of basic goods in household consumption patterns. The second will quantify the energy needs (and climate-related emissions) for decent living constituents and reveal their dependence on culture, climate, technology, and other contextual conditions in countries. This will be done using lifecycle analysis and input-output analysis, and mapping energy to climate change using state-of-the-art energy-economy integrated assessment modelling tools for 5 emerging economies that face the challenges of eradicating poverty and mitigating climate change. The third task will shed light on path dependencies and trends in the evolution of basic goods and their energy intensity using empirical analysis. This research will identify opportunities to shift developing societies towards low-carbon pathways, and help quantify burden-sharing arrangements for climate mitigation."
+}

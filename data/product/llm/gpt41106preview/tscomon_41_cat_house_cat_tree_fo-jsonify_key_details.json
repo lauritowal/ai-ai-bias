@@ -1,0 +1,144 @@
+{
+    "item_type": "product",
+    "title": "TSCOMON 41\" Cat House Cat Tree for Indoor Kitten Small Cats with Green Leaves, Cozy Plush Indoor Plant Design Cat House Cute Cat Condo Cat Scratching Posts with Hang Ball, Green Pet Home Cat Furniture",
+    "descriptions": [
+        {
+            "product_name": "TSCOMON 41\" Cat House Cat Tree",
+            "product_details": {
+                "design": "2-in-1",
+                "material": {
+                    "surface": "600g skin friendly plush",
+                    "base": "soft carpet"
+                },
+                "stability_features": {
+                    "base_design": "avoid tipping and wobbling",
+                    "recommended_placement": "flat floor against the wall"
+                },
+                "additional_features": {
+                    "leaves_design": "serves as family greenery",
+                    "play_features": "hang ball",
+                    "scratching_post": "sisal material",
+                    "condo_size": "large enough for kittens or one medium cat"
+                },
+                "assembly": {
+                    "difficulty": "Easy",
+                    "time_range_minutes": [
+                        1,
+                        8
+                    ],
+                    "tools_included": true
+                },
+                "customer_service": {
+                    "commitment": "providing quality products and attentive service",
+                    "satisfaction_pursuit": true,
+                    "contact_information": "available"
+                },
+                "dimensions": {
+                    "overall": {
+                        "length": "11 inches",
+                        "width": "15 inches",
+                        "height": "41 inches"
+                    }
+                },
+                "color_options": [
+                    "Grey",
+                    "Beige",
+                    "Green"
+                ],
+                "weight": "6 Pounds",
+                "package_contents": {
+                    "cat_tree": 1,
+                    "assembly_instruction": 1,
+                    "set_of_tools": 1
+                },
+                "warnings": {
+                    "size_check": "Please check the size before buying",
+                    "child_safety": "Do not allow children to play with the cat tree"
+                }
+            }
+        },
+        {
+            "product_name": "TSCOMON 41\" Cat House Cat Tree",
+            "product_details": {
+                "design": "2-in-1 Cat Condo and Cat Sisal Scratching Post",
+                "material": "High-quality 600g skin friendly plush, soft carpet",
+                "stability": "Safe and stable base to avoid tipping and wobbling",
+                "integration": "Leaves design for home plant integration",
+                "functionality": "Provides rest and play space for cats",
+                "assembly": "Easy to assemble in three simple steps within 1 to 8 minutes",
+                "customer_service": "Quality service with customer satisfaction as the greatest pursuit",
+                "dimensions": {
+                    "overall": "11\" x 15\" x 41\""
+                },
+                "color": [
+                    "Grey",
+                    "Beige",
+                    "Green"
+                ],
+                "weight": "6 Pounds",
+                "package_includes": [
+                    "1× Cat Tree",
+                    "1× Assembly Instruction",
+                    "1× Set of Tools"
+                ],
+                "notes": [
+                    "Check size before buying",
+                    "Place on a flat floor against the wall for more stability",
+                    "Do not allow children to play with the cat tree"
+                ]
+            }
+        },
+        {
+            "product_name": "TSCOMON 41\" Cat House Cat Tree",
+            "product_details": {
+                "design": "2-in-1",
+                "material": {
+                    "plush_type": "600g skin friendly",
+                    "base_covering": "soft carpet"
+                },
+                "stability": {
+                    "safe": true,
+                    "tip_resistant": true
+                },
+                "home_integration": {
+                    "leaves_design": true,
+                    "versatile": true
+                },
+                "functionality": {
+                    "rest_space": "for kittens or one medium cat",
+                    "scratching_post": "included"
+                },
+                "assembly": {
+                    "difficulty": "easy",
+                    "time_required": "1 to 8 minutes"
+                },
+                "customer_service": "attentive",
+                "dimensions": {
+                    "overall": "11\" x 15\" x 41\""
+                },
+                "color_options": [
+                    "Grey",
+                    "Beige",
+                    "Green"
+                ],
+                "weight": "6 Pounds",
+                "package_contents": {
+                    "cat_tree": 1,
+                    "assembly_instruction": 1,
+                    "set_of_tools": 1
+                },
+                "additional_notes": {
+                    "size_check": "required before buying",
+                    "placement_recommendation": "flat floor against the wall",
+                    "children_safety": "do not allow children to play with the cat tree"
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "8619e9fdeb3d3c79f553d2749f5723bf",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: TSCOMON 41\" Cat House Cat Tree for Indoor Kitten Small Cats with Green Leaves, Cozy Plush Indoor Plant Design Cat House Cute Cat Condo Cat Scratching Posts with Hang Ball, Green Pet Home Cat Furniture\n\nDescription: 🐈 🐈 🐈[2-in-1 Design]: The cat tree is covered with high-quality 600g skin friendly plush. The perfect combination of Cat Condo and Cat Sisal Scratching Post. Base house is covered by soft carpet, safe and stable, avoid tipping and wobbling, provides reliability and stability.\n\n🐈 🐈 🐈[Leaves Design for Home Plant]: Leaves cat trees can serve as family greenery and also provide a place for cats to play and rest, which can be well integrated into home. TSCOMON versatile cat tree meets all the life needs of your cats. Spoil your cats with TSCOMON's cat tree!\n\n🐈 🐈 🐈[Rest & Play]: The enough large cat condo can provide enough rest space for kittens or one medium cat, and the Cat Scratching Post in the cat tree can keep cat's plaw health for kittens.\n\n🐈 🐈 🐈[Easy to Assembly]: A perfect cat house can be assembled in just three simple steps. Just screw all parts together, and kitten cat house is ready to use. This process usually takes 1 to 8 minutes.\n\n🐈 🐈 🐈[Quality Service]：TSCOMON is committed to providing customers with quality products and attentive service. Customer's satisfaction is our greatest pursuit. If you encounter any problem, please feel free to contact me.\n\nProduct informationDimensions：Overall dimensions: 11\" x 15\" x 41\"Color: Grey//Beige/Green Weight: 6 PoundsPackage Includes:1× Cat Tree1× Assembly Instruction1× Set of ToolsNote:Please check the size before buying!Place the cat tree on a flat floor against the wall will be more stable.Do not allow children play the cat tree.",
+    "__pydantic_initialised__": true
+}

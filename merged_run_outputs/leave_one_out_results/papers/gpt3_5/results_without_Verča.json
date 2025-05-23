@@ -1,0 +1,510 @@
+{
+  "paper---DESCRIPTION-write_xml_paper_abstract_combined|gpt3_5---COMPARISON-pick_one|humans": {
+    "details_by_item": {
+      "A_Classifier-Based_Parser_With_Linear_Run-Time_Complexity": {
+        "Human": 3,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.4
+      },
+      "A_Comparison_of_Vector-based_Representations_for_Semantic_Composition": {
+        "Human": 1,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.75
+      },
+      "A_Composite_Kernel_To_Extract_Relations_Between_Entities_With_Both_Flat_And_Structured_Features": {
+        "Human": 3,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "A_Corpus-Based_Approach_For_Building_Semantic_Lexicons": {
+        "Human": 2,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "A_Maximum_Entropy_Model_For_Part-Of-Speech_Tagging": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "A_Monolingual_Tree-based_Translation_Model_for_Sentence_Simplification": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "A_New_Dataset_and_Method_for_Automatically_Grading_ESOL_Texts": {
+        "Human": 5,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.16666666666666666
+      },
+      "A_Regression_Model_of_Adjective-Noun_Compositionality_in_Distributional_Semantics": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 3,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "A_Sentimental_Education_Sentiment_Analysis_Using_Subjectivity_Summarization_Based_On_Minimum_Cuts": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "A_Study_on_Similarity_and_Relatedness_Using_Distributional_and_WordNet-based_Approaches": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "A_Uniform_Approach_to_Analogies_Synonyms_Antonyms_and_Associations": {
+        "Human": 3,
+        "LLM": 1,
+        "Invalid": 2,
+        "LLM_win_ratio": 0.25
+      },
+      "An_Improved_Error_Model_For_Noisy_Channel_Spelling_Correction": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Bayesian_Learning_of_a_Tree_Substitution_Grammar": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Bayesian_Word_Sense_Induction": {
+        "Human": 4,
+        "LLM": 0,
+        "Invalid": 2,
+        "LLM_win_ratio": 0.0
+      },
+      "Better_Hypothesis_Testing_for_Statistical_Machine_Translation_Controlling_for_Optimizer_Instability": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "Better_K-Best_Parsing": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Categorial_Unification_Grammars": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Chart_Generation": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Chinese_Syntactic_Reordering_for_Statistical_Machine_Translation": {
+        "Human": 4,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "Chunking_With_Support_Vector_Machines": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "CogNIAC_High_Precision_Coreference_With_Limited_Knowledge_And_Linguistic_Resources": {
+        "Human": 3,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Corpus_Variation_And_Parser_Performance": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "Cut_And_Paste_Based_Text_Summarization": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "Deterministic_Dependency_Parsing_Of_English_Text": {
+        "Human": 4,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Edge-Based_Best-First_Chart_Parsing": {
+        "Human": 3,
+        "LLM": 3,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Efficient_Third-Order_Dependency_Parsers": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Evaluating_The_Accuracy_Of_An_Unlexicalized_Statistical_Parser_On_The_PARC_DepBank": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Extracting_Parallel_Sub-Sentential_Fragments_From_Non-Parallel_Corpora": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Extraposition_Grammars": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Finding_Parts_In_Very_Large_Corpora": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Forest_Rescoring_Faster_Decoding_with_Integrated_Language_Models": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Fully_Unsupervised_Discovery_of_Concept-Specific_Relationships_by_Web_Mining": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "Guided_Learning_for_Bidirectional_Sequence_Classification": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "Guiding_Semi-Supervision_with_Constraint-Driven_Learning": {
+        "Human": 1,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.6666666666666666
+      },
+      "Improved_Automatic_Keyword_Extraction_Given_More_Linguistic_Knowledge": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "Improved_Part-of-Speech_Tagging_for_Online_Conversational_Text_with_Word_Clusters": {
+        "Human": 2,
+        "LLM": 3,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.6
+      },
+      "Improving_Machine_Translation_Performance_By_Exploiting_Non-Parallel_Corpora": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 4,
+        "LLM_win_ratio": 0.0
+      },
+      "Incorporating_Non-Local_Information_Into_Information_Extraction_Systems_By_Gibbs_Sampling": {
+        "Human": 5,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.16666666666666666
+      },
+      "Indirect-HMM-based_Hypothesis_Alignment_for_Combining_Outputs_from_Machine_Translation_Systems": {
+        "Human": 3,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.25
+      },
+      "Information_Fusion_In_The_Context_Of_Multi-Document_Summarization": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Integrating_Graph-Based_and_Transition-Based_Dependency_Parsers": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Integrating_Multiple_Knowledge_Sources_For_Detection_And_Correction_Of_Repairs_In_Human-Computer_Dialog": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "Joint_Unsupervised_Coreference_Resolution_with_Markov_Logic": {
+        "Human": 4,
+        "LLM": 0,
+        "Invalid": 2,
+        "LLM_win_ratio": 0.0
+      },
+      "Joshua_An_Open_Source_Toolkit_for_Parsing-Based_Machine_Translation": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "Knowledge-Free_Induction_Of_Morphology_Using_Latent_Semantic_Analysis": {
+        "Human": 2,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Learning_Subjective_Nouns_Using_Extraction_Pattern_Bootstrapping": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Linguistic_Regularities_in_Continuous_Space_Word_Representations": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Local_Phrase_Reordering_Models_For_Statistical_Machine_Translation": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "Machine_Learning_For_Coreference_Resolution_From_Local_Classification_To_Global_Ranking": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Machine_Translation_by_Triangulation_Making_Effective_Use_of_Multi-Parallel_Corpora": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Meaningful_Clustering_Of_Senses_Helps_Boost_Word_Sense_Disambiguation_Performance": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Minimum_Error_Rate_Training_In_Statistical_Machine_Translation": {
+        "Human": 3,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.4
+      },
+      "Multitext_Grammars_And_Synchronous_Parsers": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "NLTK_The_Natural_Language_Toolkit": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Named_Entity_Recognition_Using_An_HMM-Based_Chunk_Tagger": {
+        "Human": 5,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "Named_Entity_Recognition_With_Character-Level_Models": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Parsing_The_Wall_Street_Journal_Using_A_Lexical-Functional_Grammar_And_Discriminative_Estimation_Techniques": {
+        "Human": 2,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.3333333333333333
+      },
+      "Personalizing_PageRank_for_Word_Sense_Disambiguation": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "Phrasal_Cohesion_And_Statistical_Machine_Translation": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Pronunciation_Modeling_For_Improved_Spelling_Correction": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Prototype-Driven_Learning_For_Sequence_Models": {
+        "Human": 2,
+        "LLM": 3,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.6
+      },
+      "Randomised_Language_Modelling_for_Statistical_Machine_Translation": {
+        "Human": 2,
+        "LLM": 3,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.6
+      },
+      "Representing_Text_Chunks": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Reranking_And_Self-Training_For_Parser_Adaptation": {
+        "Human": 4,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.2
+      },
+      "SemEval-2010_Task_13_TempEval-2": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Sentence_Level_Discourse_Parsing_Using_Syntactic_And_Lexical_Information": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Soft_Syntactic_Constraints_For_Word_Alignment_Through_Discriminative_Training": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Statistical_Decision-Tree_Models_For_Parsing": {
+        "Human": 4,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Statistical_Machine_Translation_By_Parsing": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Stochastic_Lexicalized_Tree-Adjoining_Grammars": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "Tailoring_Word_Alignments_to_Syntactic_Machine_Translation": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "Text_Chunking_Using_Transformation-Based_Learning": {
+        "Human": 5,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "The_Grammar_Matrix_An_Open-Source_Starter-Kit_For_The_Rapid_Development_Of_Cross-Linguistically_Consistent_Broad-Coverage_Precision_Grammars": {
+        "Human": 0,
+        "LLM": 2,
+        "Invalid": 0,
+        "LLM_win_ratio": 1.0
+      },
+      "The_ICSI_Meeting_Recorder_Dialog_Act_MRDA_Corpus": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "The_Reliability_Of_A_Dialogue_Structure_Coding_Scheme": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "The_Second_Release_Of_The_RASP_System": {
+        "Human": 2,
+        "LLM": 0,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.0
+      },
+      "Transductive_learning_for_statistical_machine_translation": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Two_Languages_are_Better_than_One_for_Syntactic_Parsing": {
+        "Human": 3,
+        "LLM": 1,
+        "Invalid": 2,
+        "LLM_win_ratio": 0.25
+      },
+      "Unsupervised_Discovery_Of_Morphemes": {
+        "Human": 1,
+        "LLM": 0,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.0
+      },
+      "Unsupervised_Learning_Of_Disambiguation_Rules_For_Part_Of_Speech_Tagging": {
+        "Human": 0,
+        "LLM": 1,
+        "Invalid": 1,
+        "LLM_win_ratio": 1.0
+      },
+      "Unsupervised_Multilingual_Learning_for_Morphological_Segmentation": {
+        "Human": 3,
+        "LLM": 2,
+        "Invalid": 1,
+        "LLM_win_ratio": 0.4
+      },
+      "Vector-based_Models_of_Semantic_Composition": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      },
+      "Whats_In_A_Translation_Rule": {
+        "Human": 1,
+        "LLM": 1,
+        "Invalid": 0,
+        "LLM_win_ratio": 0.5
+      }
+    },
+    "total_tallies": {
+      "Human": 135,
+      "LLM": 89,
+      "Invalid": 42
+    },
+    "llm_win_ratio": 0.39732142857142855
+  }
+}

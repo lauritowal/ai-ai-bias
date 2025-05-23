@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "'Til There Was You",
+    "descriptions": [
+        "'Til There Was You' is a romantic comedy that follows the lives of two individuals, Nick and Gwen, as they navigate through life in Los Angeles. Nick is a successful architect who is struggling to find love and settle down, while Gwen is an idealistic writer who believes in fate and destiny. The two characters' lives intersect in various ways throughout the film, but they never actually meet until the very end.\n\nAs the story unfolds, we see Nick and Gwen each dealing with their own personal struggles and relationships. Nick is dating a high-maintenance woman who is more interested in his success than in him as a person. On the other hand, Gwen is still searching for her soulmate, convinced that there is someone out there who is meant for her.\n\nThroughout the movie, we see how Nick and Gwen's paths cross without them even realizing it. They attend the same events, live in the same building, and have mutual friends, but they never seem to meet face to face. It isn't until a chance encounter at a party that the two finally come together and realize that they may have been meant for each other all along.\n\nAs Nick and Gwen's relationship blossoms, they both learn valuable lessons about love, fate, and the importance of taking chances. They discover that sometimes the person you are meant to be with has been right in front of you all along, and that true love can come when you least expect it.\n\nIn the end, 'Til There Was You' is a heartwarming tale of love, destiny, and the power of following your heart. It reminds us that sometimes all it takes is a little bit of fate to bring two people together and create a love story that is truly meant to be."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "3486bd9a5a391ebc5aa27b63f8f61c91",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 340.0 words or less.\n\n---\n\n**Title:**\n\n'Til There Was You\n\n**Year:**\n\n1997",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Infidel",
+    "descriptions": [
+        "**Plot Summary of \"The Infidel\" (2010)**\n\n\"The Infidel\" delves into the complex world of a British Muslim woman named Fatima, played by Noomi Rapace, who grapples with her faith and her sense of self in the aftermath of the 2005 London bombings. The film, directed by Arnaud Desplech, explores themes of identity, religious extremism, and the challenges faced by Muslims in modern Western societies.\n\nFatima, a young woman from a Somali-British background, is sent by her father to live with her aunt in London after her brother is killed in the 7/7 bombings. Initially, Fatima finds solace in her aunt's traditional lifestyle, including strict adherence to Islamic practices. However, her aunt's stern stance on religious doctrine and her strict control over Fatima's life begin to weigh heavily on her. Fatima is drawn to a more liberal interpretation of Islam and finds support in her relationship with Aamer, a Pakistani-British man who shares her views.\n\nAs Fatima's relationship with Aamer deepens, she becomes increasingly disillusioned with her aunt's rigid religious practices and her own sense of being trapped. The couple's path to a more moderate and accepting form of Islam is fraught with danger, as they face the threat of extremist elements within their community who see their choices as a betrayal of their faith.\n\nThe film reaches a climax when Fatima and Aamer are approached by an extremist group that threatens violence if they do not renounce their views. Fatima must make a difficult choice: adhere to her faith as she understands it, or risk everything for the freedom to interpret her religion on her own terms. The movie ends with Fatima making a bold decision, one that impacts her life and the lives of those around her in profound ways.\n\n\"The Infidel\" is a poignant exploration of cultural and religious identity in the contemporary world, highlighting the tensions and conflicts that arise when personal beliefs clash with societal expectations. It challenges viewers to consider the complexity of religious practice and the importance of individual freedom in the face of communal pressures."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "45b44cfb569a67a384c329182a30bf21",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 717.0 words or less.\n\n---\n\n**Title:**\n\nThe Infidel\n\n**Year:**\n\n2010",
+    "include_year": false
+}

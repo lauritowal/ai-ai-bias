@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Back to the Woods",
+    "descriptions": [
+        "\"Back to the Woods\" is a 1937 black-and-white short film starring the comedic trio known as The Three Stooges, featuring Moe Howard, Larry Fine, and Curly Howard. The film is set during the colonial period in America, where the Stooges are convicted criminals who have been sent to the New World to help colonize the land.\n\nThe plot follows the Stooges as they bumble their way through their punishment, tasked with settling in the untamed wilderness. Upon arrival, they encounter a variety of challenges, including building shelter, finding food, and dealing with the native inhabitants. Their unique brand of slapstick comedy shines through as they attempt to hunt for game with their inept marksmanship and try to build a log cabin, only to have it comically collapse around them.\n\nAs they struggle to adapt to their new environment, the Stooges inadvertently cross paths with the local Native American tribe. In typical Stooge fashion, their encounter leads to a series of misunderstandings and chaotic escapades. They manage to offend the tribe's chief, leading to a humorous confrontation where the Stooges must use their wits and slapstick skills to avoid capture or worse.\n\nThroughout the film, their antics are interspersed with classic Stooge gags, physical comedy, and pun-laden dialogue, making \"Back to the Woods\" a typical entry in the Three Stooges body of work that entertained audiences during the era of early American cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "71100496287e5f70bae81ed0067e4484",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 248.0 words or less.\n\n---\n\n**Title:**\n\nBack to the Woods\n\n**Year:**\n\n1937",
+    "include_year": false
+}

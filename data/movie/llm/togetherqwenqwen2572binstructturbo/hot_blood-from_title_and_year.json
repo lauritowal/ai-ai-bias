@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hot Blood",
+    "descriptions": [
+        "\"Hot Blood\" (1956) is a gritty crime drama directed by Robert Wise. The film stars James Dean in one of his final roles, showcasing his talent as a rebellious and troubled youth. Set in Los Angeles, the story follows Tony Arzento (Dean), a young man of Italian descent who is desperate to prove his toughness and loyalty to his friends. Tony becomes entangled in a series of increasingly dangerous crimes, including a botched robbery that leaves a police officer injured. As the pressure from the law and his own moral dilemmas mount, Tony must confront the consequences of his actions and the true meaning of courage and integrity. The film explores themes of identity, peer pressure, and the struggle to find one's place in a world that often seems hostile and unforgiving. \"Hot Blood\" is known for its intense performances and its realistic portrayal of urban youth culture in the 1950s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "08d19b5f9026e0f88aa806602cc2d88b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 230.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+    "include_year": false
+}

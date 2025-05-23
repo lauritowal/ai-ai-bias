@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tirangaa",
+    "descriptions": [
+        "Tirangaa is a 1992 Indian Hindi-language action drama film directed by Mehul Kumar. The movie features Raaj Kumar, Nana Patekar, and Alka in the lead roles.\n\nThe film's plot revolves around a police officer named Ravi (played by Alka), who starts an investigation into a mysterious murder case. The investigation leads him to a notorious underworld don, and a powerful politician. As Ravi delves deeper into the case, he faces numerous challenges and obstacles from powerful forces who want to keep the truth hidden.\n\nThe title 'Tirangaa' refers to the Indian tricolor flag and represents patriotism. The movie explores themes of patriotism, corruption, and justice. Nana Patekar's character plays a key role in the film, as a strong and justice-seeking individual who supports Ravi in his quest for truth. Raaj Kumar also appears in a significant role.\n\nThroughout the film, the protagonist faces numerous challenges in his pursuit of justice. As Ravi fights against corruption, he must also confront his own morals and values. The film's climax is full of action and suspense, as Ravi battles against the culprits to bring them to justice.\n\nTirangaa received mixed reviews from critics at the time of its release. However, it has since become a cult classic and is remembered for its strong performances, particularly by Nana Patekar."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "e29bdb8658ec308e3ca0d6c7947ebc09",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 293.0 words or less.\n\n---\n\n**Title:**\n\nTirangaa\n\n**Year:**\n\n1992",
+    "include_year": false
+}

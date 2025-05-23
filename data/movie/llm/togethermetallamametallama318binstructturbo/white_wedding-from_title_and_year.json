@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "White Wedding",
+    "descriptions": [
+        "\"White Wedding\" is a 1989 British musical comedy film directed by Rodney James. The movie follows the story of a young woman named Ruby (played by Jenny Seagrove). Ruby is a free-spirited and eccentric bride-to-be, but she has second thoughts about marrying her fiancé, Tony.\n\nAs Ruby tries to decide whether to go through with the wedding, she embarks on a journey with her sister, Lotta (played by Claire Skinner), to figure out what she truly wants in life. Along the way, Ruby and Lotta encounter various eccentric characters and engage in humorous misadventures.\n\nThe film features a mix of comedy, drama, and music, as Ruby struggles to reconcile her desire for independence with her commitment to her fiancé. With its lighthearted tone and quirky characters, \"White Wedding\" is a charming and entertaining film that explores themes of love, identity, and self-discovery."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "73007e000a4ba5fce2c777252f0a7cf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 226.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989",
+    "include_year": false
+}

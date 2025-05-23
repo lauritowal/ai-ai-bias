@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mogambo",
+    "descriptions": [
+        "Mogambo is a 1953 adventure film directed by John Ford, starring Clark Gable, Ava Gardner, and Grace Kelly. The story revolves around Victor Marswell (Clark Gable), a big game hunter and safari guide in Africa. Marswell is a rugged, self-centered bachelor who has grown accustomed to the solitude of the African wilderness.\n\nWhen Eloise Y. 'Honey Bear' Kelly (Ava Gardner), a seductive and beautiful nightclub singer, arrives in Africa, Marswell reluctantly agrees to take her on a safari. Kelly is hiding a dark secret and is on the run from her past. Her presence disrupts Marswell's peaceful existence and sparks a complex web of emotions.\n\nMeanwhile, Donald Nordley (Donald Sinden) and his wife Linda (Grace Kelly), a young and beautiful American couple, join Marswell's safari. Linda and Marswell soon develop feelings for each other, leading to a complicated love triangle with Kelly. As tensions rise, Marswell must confront his emotions and make a choice between the two women.\n\nAs the story unfolds, the group faces various challenges, including the dangers of the African wilderness and the pursuit of Kelly by her former lover. The film's title, 'Mogambo,' is a reference to the local term for 'passion,' which becomes a fitting theme throughout the story.\n\nJohn Ford's direction masterfully weaves together the complex relationships, drama, and adventure, set against the breathtaking backdrop of the African savannah. The film's cinematography, coupled with the chemistry between the leads, makes Mogambo a captivating and memorable classic."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a5b4e9db3669d3a0cad74fef5cad2741",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 342.0 words or less.\n\n---\n\n**Title:**\n\nMogambo\n\n**Year:**\n\n1953",
+    "include_year": false
+}

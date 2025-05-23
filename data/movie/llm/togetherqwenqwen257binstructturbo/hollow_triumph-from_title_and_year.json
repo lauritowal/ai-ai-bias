@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hollow Triumph",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Hollow Triumph,\" released in 1948, is a gripping thriller that delves into the life of successful businessman James Carter, who appears to have it all—wealth, power, and a seemingly perfect family. The film opens with a tense scene showcasing Carter's latest business venture, which seems to be a resounding success, setting the stage for his status as a celebrated figure in the business world. However, beneath the surface, Carter's life is teetering on the edge of collapse.\n\nAs the story unfolds, we learn that Carter's triumphs are often built on deceit and manipulation. His wife, Elizabeth, is deeply unhappy and feels suffocated by Carter's controlling nature. Meanwhile, their teenage daughter, Sarah, becomes increasingly disillusioned with her father's cold demeanor and his refusal to acknowledge her. The balance of Carter's world begins to shift when a long-lost business associate, Jonathan, resurfaces, bringing with him a series of revelations that shake Carter's foundation.\n\nJonathan, now a successful entrepreneur, reveals that Carter's current business success is based on a complex scheme he orchestrated years ago, using a combination of illegal activities and manipulation of a major corporation. Carter is forced to confront the reality that his triumph is hollow, built on lies and deception. The film explores the psychological toll this revelation takes on Carter, as well as its impact on his family, particularly on Elizabeth and Sarah, who must navigate their own emotional turmoil.\n\nAs Carter grapples with the truth, he finds himself at a crossroads, forced to choose between his public image and the truth. The climax of the film is a tense confrontation where Carter must decide whether to expose the truth and risk everything or continue living a lie. The film's conclusion is bittersweet, with Carter facing a new reality, one that is both humbling and liberating.\n\n\"Hollow Triumph\" is a powerful exploration of the costs of success and the importance of authenticity in one's personal and professional life. It challenges the audience to question the nature of triumph and the price of ambition."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "57f0ff69486808c116a59673c7a08aae",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 516.0 words or less.\n\n---\n\n**Title:**\n\nHollow Triumph\n\n**Year:**\n\n1948",
+    "include_year": false
+}

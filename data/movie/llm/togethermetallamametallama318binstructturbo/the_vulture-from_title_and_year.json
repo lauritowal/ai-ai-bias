@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Vulture",
+    "descriptions": [
+        "Unfortunately, I couldn't find information about a 1937 movie called \"The Vulture.\" However, I can tell you that there are several films with this title released in different years.\n\nIf you're interested, I can provide information about a 1967 film called \"The Vulture,\" which is a Soviet drama film directed by Aleksandr Mitta. It tells the story of a young boy named Sergei who joins a group of orphans and, under the guidance of their leader, Ivan, must learn to survive and grow in a harsh world.\n\nIf you meant a different \"The Vulture,\" please provide more context or details, and I'll try to help you with the plot summary."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "3f2ad087bb1cac376822658c08cbe5e7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 232.0 words or less.\n\n---\n\n**Title:**\n\nThe Vulture\n\n**Year:**\n\n1937",
+    "include_year": false
+}

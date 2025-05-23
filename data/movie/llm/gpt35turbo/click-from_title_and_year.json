@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Click",
+    "descriptions": [
+        "In the movie \"Click\" from 2006, Michael Newman, played by Adam Sandler, is a workaholic architect who is constantly torn between his demanding job and his family. He is always trying to impress his boss, Ted, in the hopes of getting promoted. Michael's wife, Donna, played by Kate Beckinsale, and his two children, Ben and Samantha, often feel neglected by him due to his workaholic nature.\n\nOne day, Michael goes shopping for a universal remote control and stumbles upon a mysterious store run by Morty, played by Christopher Walken. Morty gives Michael a special remote that can control time, allowing him to fast forward, pause, and rewind his life. At first, Michael uses the remote to skip through boring or unpleasant moments, like arguments with his wife or tedious meetings at work.\n\nHowever, Michael soon realizes that using the remote to skip through life's challenges has unintended consequences. He fast-forwards through important family moments, missing out on quality time with his wife and children. He also discovers that the remote has a mind of its own, often fast-forwarding through parts of his life without his consent.\n\nAs Michael's life spirals out of control, he realizes the importance of being present in the moment and appreciating the little things in life. He learns that true happiness comes from spending time with loved ones and making memories, rather than focusing solely on his career and material possessions.\n\nThroughout the movie, Michael goes through a series of humorous and heartwarming experiences as he tries to navigate his newfound power and repair his relationships with his family. He has to confront his own shortcomings and learn to appreciate the moments that truly matter.\n\nIn the end, Michael learns an important lesson about the value of time and the importance of cherishing every moment. He realizes that life is too short to be fast-forwarded through, and that the key to happiness lies in living in the present and making the most of every moment. The movie ends on a poignant note as Michael reflects on his journey and makes amends with his family, vowing to be more present and attentive in the future."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "1b275e4f011ed5d6252523067f4193e6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 828.0 words or less.\n\n---\n\n**Title:**\n\nClick\n\n**Year:**\n\n2006",
+    "include_year": false
+}

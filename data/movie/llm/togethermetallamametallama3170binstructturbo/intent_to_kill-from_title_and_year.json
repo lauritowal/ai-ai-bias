@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Intent to Kill",
+    "descriptions": [
+        "Intent to Kill is a 1958 British thriller film directed by Jack Cardiff. The story revolves around Dr. Bob McLaurin (Richard Todd), a surgeon who becomes embroiled in a complex web of deceit and murder.\n\nDr. McLaurin is a successful surgeon who has just become engaged to his beautiful and charming fiancée, Carol (Catherine Boyle). However, their happiness is short-lived as they become embroiled in a mystery surrounding the murder of a Brazilian businessman. The police are stumped, and as they begin to investigate further, they discover that the victim had been blackmailing several people, including Dr. McLaurin.\n\nThe more Dr. McLaurin becomes involved in the case, the more he realizes that he is being framed for the murder. Desperate to clear his name, he sets out to uncover the truth behind the crime. Along the way, he meets a mysterious woman named Juanita (Betsy Blair), who seems to be connected to the case.\n\nAs the investigation unfolds, Dr. McLaurin finds himself in increasing danger. He must navigate a complex network of suspects and motives to uncover the truth and clear his name. With the help of Juanita, he uncovers a surprising twist that leads him to the real killer.\n\nIntent to Kill is a gripping thriller that keeps viewers on the edge of their seats as Dr. McLaurin navigates the twists and turns of the case. With its suspenseful plot and intriguing characters, the film is a classic example of a 1950s thriller."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "99d04d530279a98dc1c311859cd79a38",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 489.0 words or less.\n\n---\n\n**Title:**\n\nIntent to Kill\n\n**Year:**\n\n1958",
+    "include_year": false
+}

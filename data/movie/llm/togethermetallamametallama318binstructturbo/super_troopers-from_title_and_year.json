@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Super Troopers",
+    "descriptions": [
+        "\"Super Troopers\" is a 2001 American comedy film directed by Jay Chandrasekhar, written by and starring the comedy group Broken Lizard. The movie follows the story of a group of Vermont state troopers, who are often at odds with their more serious counterparts, the New York State Police.\n\nThe film takes place at the Vermont State Police barracks in Bridgewater, where five troopers work together under the command of Lieutenant Thayer (played by Brian Cox). The main characters include Thorny (Jay Chandrasekhar), a laid-back and eccentric trooper; Mac (Steve Lemme), a tough-talking, beer-loving cop; Foster (Paul Soter), a wisecracking, loose-cannon trooper; Rabbit (Erik Stolharsen), a quiet and reserved officer; and Farva (Kevin Heffernan), a young, inexperienced trooper who often clashes with the others.\n\nThe story begins with the Vermont State Police being threatened with elimination due to budget cuts. The troopers, who have grown complacent in their roles, must band together to prevent the closure of their barracks. Along the way, they encounter a series of misadventures, including a disastrous stakeout, a wild goose chase through the woods, and a confrontation with a group of rowdy hunters.\n\nThroughout the film, the troopers engage in a series of humorous misadventures, often at each other's expense. Despite their differences, the group develops a sense of camaraderie and comes together to save their barracks. The film features a talented comedic cast, with each member bringing their unique brand of humor to the screen.\n\n\"Super Troopers\" has become a cult classic, praised for its witty dialogue, physical comedy, and genuine heart. The film's success has spawned a long-running franchise, including a spin-off TV series and a sequel. Despite its low budget and limited release, \"Super Troopers\" has developed a loyal following and remains one of the most beloved comedies of the early 2000s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "b059faced9d55d5f65dabfc700a5bb8e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 508.0 words or less.\n\n---\n\n**Title:**\n\nSuper Troopers\n\n**Year:**\n\n2001",
+    "include_year": false
+}

@@ -1,0 +1,125 @@
+{
+    "item_type": "product",
+    "title": "BlissTrends Foot Rest for Under Desk at Work-Versatile Foot Stool with Washable Cover-Comfortable Footrest with 2 Adjustable Heights for Car,Home and Office to Relieve Back,Lumbar,Knee Pain-Black",
+    "descriptions": [
+        {
+            "product_name": "BlissTrends Foot Rest for Under Desk at Work",
+            "product_details": {
+                "material": "High quality foam with durable fabric cover",
+                "color": "Black",
+                "dimensions": {
+                    "lower_layer": {
+                        "length": "16.9 inches",
+                        "width": "11.2 inches",
+                        "height": "2.0 inches"
+                    },
+                    "upper_layer": {
+                        "thickness": "3.7 inches"
+                    }
+                },
+                "adjustable_height": {
+                    "adjustability": true,
+                    "mechanism": "Magic tapes and zipper"
+                },
+                "cleaning": {
+                    "cover_removal": "Zipper",
+                    "machine_washable": true
+                },
+                "non_slip_design": true,
+                "usage": {
+                    "suitable_for": [
+                        "office",
+                        "car",
+                        "home",
+                        "airplane"
+                    ],
+                    "positions": [
+                        "under feet",
+                        "behind knees"
+                    ]
+                },
+                "benefits": {
+                    "relieves_discomfort": true,
+                    "supports_correct_sitting_habits": true
+                }
+            }
+        },
+        {
+            "product_name": "BlissTrends Foot Rest for Under Desk at Work",
+            "product_details": {
+                "color": "Black",
+                "dimensions": {
+                    "lower_layer": {
+                        "length": 16.9,
+                        "width": 11.2,
+                        "height": 2.0
+                    },
+                    "upper_layer_thickness": 3.7
+                },
+                "adjustable_height": true,
+                "height_adjustment_method": "magic tapes",
+                "cover": {
+                    "removable": true,
+                    "washable": true,
+                    "closure_type": "zipper"
+                },
+                "material": {
+                    "core": "high quality foam",
+                    "bottom": "non-slip design"
+                },
+                "usability": {
+                    "ergonomic_design": true,
+                    "multi_use": [
+                        "under feet",
+                        "behind knees",
+                        "airplane footrest"
+                    ],
+                    "relief_support": [
+                        "back",
+                        "lumbar",
+                        "knee pain"
+                    ]
+                },
+                "maintenance": {
+                    "washing_method": "machine wash"
+                }
+            }
+        },
+        {
+            "product_name": "BlissTrends Foot Rest for Under Desk at Work",
+            "product_details": {
+                "color": "Black",
+                "dimensions": {
+                    "lower_layer": {
+                        "length": "16.9 inches",
+                        "width": "11.2 inches",
+                        "height": "2.0 inches"
+                    },
+                    "upper_layer_thickness": "3.7 inches"
+                },
+                "adjustable_height": true,
+                "layers": 2,
+                "cleaning": {
+                    "cover_removal_method": "zipper",
+                    "machine_washable": true
+                },
+                "material": {
+                    "core": "high quality foam",
+                    "bottom": "non-slip design"
+                },
+                "ergonomic_design": true,
+                "uses": [
+                    "under feet",
+                    "behind knees",
+                    "airplane footrest"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "ef986e79a0374a9369f8c8dd2c0f7fee",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: BlissTrends Foot Rest for Under Desk at Work-Versatile Foot Stool with Washable Cover-Comfortable Footrest with 2 Adjustable Heights for Car,Home and Office to Relieve Back,Lumbar,Knee Pain-Black\n\nDescription: 【Comfortable Experience】The BlissTrends foot rest has two layers: the lower layer measures 16.9\"*11.2\"*2.0\", and the upper layer is 3.7\" thick. The foot stool is ergonomically designed with sufficient height and curvature to better relieve the pressure on your limbs and discomfort when sitting for long periods of time.\n\n【Adjustable Height】Our foot rest is a two-piece set with magic tapes between the upper and lower layers so you can adjust the height of the foot rest according to your usage needs. When you want to adjust the thickness of the foot rest, you only need to pull the zipper and magic tapes between the two layers of the foot rest to switch the thickness.\n\n【Easy to Clean】The cover of the foot rest is installed with a zipper and it can be easily removed for machine washing. The foot rest’s fabric is durable and easy to clean. The foot rests are perfect for the office. You only need to wash regularly, you can enjoy the comfort of the foot rests for a long time.\n\n【High Quality Material】The core of the foot pillow is made of high quality foam, which is supportive and does not easily collapse or lose shape. The bottom of the foot pillow is made with a non-slip design, which ensures that the foot pillow does not easily shift when being used.\n\n【Multiple Use Options】The foot rest can be used under your feet or behind your knees. Whether in the office or on the go the foot rest can make sitting more comfortable. Also great as an airplane footrest. You will gradually develop the correct sitting habits in the process of using the foot rest under desk at work, which can effectively relieve the pressure on your spine and allow your body to be more stretched.",
+    "__pydantic_initialised__": true
+}

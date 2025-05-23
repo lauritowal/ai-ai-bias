@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Shakalaka Boom Boom",
+    "descriptions": [
+        "**Shakalaka Boom Boom (2007)**\n\n\"Shakalaka Boom Boom\" is a vibrant Spanish musical comedy-drama that takes place in the bustling streets of Madrid. Directed by Nacho G. Velilla, the film is a colorful celebration of dance and music, blending hip-hop, breakdancing, and traditional Spanish rhythms into a unique and energetic narrative.\n\nThe story centers around Ana (played by Blanca Suárez), a talented young dancer from a modest background who dreams of making it big in the competitive world of professional dance. Ana is passionate about her craft but faces numerous obstacles, including a lack of formal training and financial constraints. Despite these challenges, she refuses to give up on her dream.\n\nAna's life takes an unexpected turn when she meets Leo (played by Álvaro Cervantes), a charismatic and skilled dancer who is part of a famous dance crew. Leo recognizes Ana's raw talent and invites her to join his group, which is preparing for a major dance competition. The competition offers a grand prize that could change their lives, and the stakes are high.\n\nAs Ana integrates into the crew, she not only has to prove herself but also navigates the complexities of friendship, rivalry, and romance. The crew members, each with their own backgrounds and struggles, form a tight-knit bond as they work together to perfect their routines. However, tensions rise as the competition approaches, and personal issues threaten to derail their chances of success.\n\n\"Shakalaka Boom Boom\" is a heartwarming tale of perseverance, the power of friendship, and the transformative nature of dance. The film is filled with dynamic choreography, catchy music, and a cast of characters that audiences will root for. It not only showcases the vibrant dance culture in Madrid but also touches on themes of cultural identity and the pursuit of one's dreams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "21ba8b9f7322752af490e3fde89bd2f0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 335.0 words or less.\n\n---\n\n**Title:**\n\nShakalaka Boom Boom\n\n**Year:**\n\n2007",
+    "include_year": false
+}

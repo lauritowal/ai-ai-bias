@@ -1,0 +1,37 @@
+{
+    "item_type": "proposal",
+    "title": "How Varieties of Nationalism Shape Our Polarized Politics",
+    "descriptions": [
+        {
+            "proposal_name": "How Varieties of Nationalism Shape Our Polarized Politics",
+            "proposal_details": {
+                "objective": "Examine how nationalism polarizes electoral politics in advanced democracies and assess the potential for national identities to bring people together.",
+                "research_framework": "Contrasts the common framework of a transnational cleavage based on cultural conflict with a new perspective focusing on different varieties of nationalism.",
+                "theoretical_approach": "Multi-method comparative research design.",
+                "work_packages": [
+                    {
+                        "package_number": 1,
+                        "description": "Analyze novel survey data to study how public conceptions of nationalism shape partisan divisions using open-ended survey questions."
+                    },
+                    {
+                        "package_number": 2,
+                        "description": "Examine elite mobilization efforts based on different varieties of nationalism."
+                    },
+                    {
+                        "package_number": 3,
+                        "description": "Explore the impact of elite appeals to national identities on public opinion and partisan hostility."
+                    }
+                ],
+                "expected_contributions": [
+                    "Academic research advancements",
+                    "Public debate enrichment regarding societal challenges"
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "fd6e0c8c165e3bf3d233948f556d852f",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nHow Varieties of Nationalism Shape Our Polarized Politics\n\n**Description:**\n\nThis project examines how nationalism polarizes the electoral politics of advanced democracies: how it drives us apart and whether it could bring us closer together. Across advanced democracies, concerns over deepening divisions have proliferated in recent years, and national identities have emerged as a prime suspect in driving this polarization. According to the common framework in electoral politics research, this polarization is shaped by a transnational cleavage that has at its core a cultural conflict between national attachments and universalist values. VARNATPOL proposes a different perspective: that the dividing lines structuring our politics are drawn not between those with stronger and weaker national attachments, but rather across groups who subscribe to different varieties of nationalism. To assess how varieties of nationalism shape polarization, VARNATPOL theorizes and empirically investigates how national identities are linked with mass attitudes and commitments to democratic norms, map onto partisan identities, and provide opportunities for political mobilization. VARNATPOL’s theoretical approach calls for a multi-method comparative research design. The first Work Package analyzes novel survey data to investigate how common understandings of nationalism in the public shape partisan divisions, and includes methodological innovations using open-ended survey questions to study national identities. The second Work Package examines how elites differ in their efforts to mobilize support based on appeals to the varieties of nationalism identified in the first Work Package. The third Work Package explores whether elite appeals to national identities shape polarization through their effect on public opinion and partisan hostility. Challenging the common wisdom regarding the ways in which nationalism polarizes the electoral arena, VARNATPOL will contribute not only to academic research but also to public debates about the challenges facing our societies."
+}

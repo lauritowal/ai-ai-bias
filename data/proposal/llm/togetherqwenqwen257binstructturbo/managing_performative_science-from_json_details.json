@@ -1,0 +1,12 @@
+{
+    "item_type": "proposal",
+    "title": "Managing Performative Science",
+    "descriptions": [
+        "Abstract:\n\nThis grant proposal seeks to establish \"Managing Performative Science\" (MAPS), a groundbreaking initiative that aims to develop a novel philosophical framework for understanding and managing performativity in science. The project will focus on three key subjects: economics, epidemiology, and machine learning, with aims to close the current lacuna in philosophical guidance on performative science. MAPS will explore the dynamic interplay between performativity and scientific prediction and explanation, as well as the ethical questions that arise from these dynamics. By addressing these focus areas, the project will provide essential orientation for the assessment and management of performative science, ensuring that scientific practices are both effective and ethically sound. This initiative will contribute significantly to the broader field of philosophy of science, offering practical tools and theoretical insights to navigate the complexities of performative scientific practices."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "07a206b6e76d0d39268950c9faa7ff25",
+    "generation_prompt_nickname": "from_json_details",
+    "generation_prompt_text": "Write an abstract for a grant proposal based on the following details provided in JSON format. The JSON includes the title and key characteristics of the proposed project.\n\nPlease limit the response to 287 words or less.\n\n---\n\n**Description:**\n\n{'proposal_name': 'Managing Performative Science', 'proposal_details': {'focus_areas': ['performativity in science', 'scientific prediction and explanation', 'ethical questions in science', 'philosophy of science', 'performativity management'], 'subjects': ['economics', 'epidemiology', 'machine learning'], 'aims': ['develop a novel understanding of performativity', 'assess the ethical risks of performativity', 'provide orientation for assessment and management of performative science'], 'descriptions': ['MAPS will close the lacuna in philosophical guidance on performative science.']}}"
+}

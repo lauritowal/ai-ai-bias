@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Hot Blood",
+    "descriptions": [
+        " In the vibrant 1956 film \"Hot Blood,\" directed by Nicholas Ray, Jane Russell stars as Stephanie, a headstrong and independent woman who defies societal norms in the gypsy community. The story unfolds in a small American town where gypsy culture thrives, with its rich traditions and customs. Stephanie is bound to marry Marco, played by Cornel Wilde, due to an arranged marriage brokered by their fathers. Marco, a charismatic and rebellious man, initially resents the union and the constraints it imposes on his freedom.\n\nAs the couple navigates their new life together, they clash over their differing views on love, marriage, and gypsy traditions. Marco, a passionate dancer, introduces Stephanie to the world of gypsy dance, and she discovers a newfound appreciation for her heritage. Despite their initial tension, the pair's connection deepens as they learn to understand and respect each other's perspectives.\n\nThe plot thickens when Marco's old flame, Annie, portrayed by Lisa Ferraday, reenters his life, creating a love triangle that threatens to tear the couple apart. Marco must choose between his past and his future, while Stephanie grapples with the possibility of losing the man she has grown to love. Amidst this turmoil, the couple must also confront the disapproval of their community, which frowns upon their unconventional relationship.\n\n\"Hot Blood\" is a tale of love, passion, and the struggle for independence, set against the backdrop of a close-knit gypsy community in the 1950s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "25f211d561e48c823de2791c70bc36ed",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+    "include_year": false
+}

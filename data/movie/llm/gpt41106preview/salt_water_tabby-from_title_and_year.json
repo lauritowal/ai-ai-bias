@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Salt Water Tabby",
+    "descriptions": [
+        "\"Salt Water Tabby\" is a short animated film released in 1947, created by the famous animation studio MGM and part of the Tom and Jerry series. As the title suggests, the plot typically revolves around the water-themed antics of the iconic cat and mouse duo, Tom and Jerry.\n\nIn \"Salt Water Tabby,\" Tom the cat decides to take a trip to the beach, looking for a relaxing day by the sea. With his beach gear in tow, he appears ready to enjoy the sun, surf, and sand. However, as expected in a Tom and Jerry cartoon, his plans for a peaceful day are quickly disrupted by the presence of Jerry the mouse.\n\nThe plot likely unfolds with Tom trying to lay out his beach blanket, apply suntan lotion, and engage in typical beach activities like swimming or building a sandcastle. Meanwhile, Jerry is determined to ruin Tom's day with a series of pranks and mischievous acts. This could involve stealing Tom's food, sabotaging his sandcastle, or causing general mayhem that prevents Tom from enjoying his beach outing.\n\nThe conflict between Tom and Jerry usually escalates through a series of slapstick comedy and physical gags, often involving other beach elements like crabs, seagulls, or the ocean itself. Tom, despite his best efforts, finds himself outwitted by Jerry at every turn, leading to humorous situations and a never-ending chase.\n\nAs with most Tom and Jerry cartoons, \"Salt Water Tabby\" would not have any dialogue, relying instead on visual humor, exaggerated animations, and the expressive reactions of the characters to tell the story. The music and sound effects play a crucial role in enhancing the comedic timing and overall enjoyment of the film.\n\nIn the end, the short film would likely conclude with Jerry coming out on top, leaving Tom frustrated or in a humorous predicament. The story wraps up with the status quo maintained, setting the stage for future encounters between the warring cat and mouse.\n\n\"Salt Water Tabby\" is a classic example of the enduring appeal of Tom and Jerry's rivalry, showcasing the clever and inventive ways in which a simple premise can be turned into an entertaining and memorable piece of animation."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "d36393ae1f8ef8c5a52971865fe59a8a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1023.0 words or less.\n\n---\n\n**Title:**\n\nSalt Water Tabby\n\n**Year:**\n\n",
+    "include_year": false
+}

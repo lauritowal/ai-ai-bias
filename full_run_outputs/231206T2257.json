@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "run_start": "2023-12-06T22:34:18.797477",
+        "run_end": "2023-12-06T22:57:03.100253",
+        "item_type": "paper",
+        "item_title_like": [],
+        "items_covered": [
+            "extracting_parallel_subsententia",
+            "a_comparison_of_vectorbased_repr",
+            "sentence_level_discourse_parsing",
+            "unsupervised_multilingual_learni",
+            "better_hypothesis_testing_for_st",
+            "information_fusion_in_the_contex",
+            "the_grammar_matrix_an_opensource",
+            "statistical_decisiontree_models_",
+            "improving_machine_translation_pe",
+            "better_kbest_parsing",
+            "a_uniform_approach_to_analogies_",
+            "improved_partofspeech_tagging_fo",
+            "finding_parts_in_very_large_corp",
+            "tailoring_word_alignments_to_syn",
+            "stochastic_lexicalized_treeadjoi"
+        ],
+        "min_description_generation_count": 4,
+        "engine_and_prompt_permutations": [
+            {
+                "comparison_engine": "gpt-3.5-turbo-1106",
+                "comparison_prompt_key": "submit_tomorrow_with_full_paper_details_matter",
+                "description_engine": "gpt-3.5-turbo-1106",
+                "description_prompt_key": "write_xml_paper_abstract_control_word_count"
+            }
+        ]
+    },
+    "results": {
+        "paper---DESCRIPTION-write_xml_paper_abstract_control_word_count|gpt-3.5-turbo-1106---COMPARISON-submit_tomorrow_with_full_paper_details_matter|gpt-3.5-turbo-1106": {
+            "details_by_item": {
+                "extracting_parallel_subsententia": {
+                    "LLM_win_ratio": 0.0,
+                    "Human": 6,
+                    "LLM": 0,
+                    "Invalid": 2
+                },
+                "a_comparison_of_vectorbased_repr": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 2
+                },
+                "sentence_level_discourse_parsing": {
+                    "LLM_win_ratio": 0.14285714285714285,
+                    "Human": 6,
+                    "LLM": 1,
+                    "Invalid": 1
+                },
+                "unsupervised_multilingual_learni": {
+                    "LLM_win_ratio": 0.8333333333333334,
+                    "Human": 1,
+                    "LLM": 5,
+                    "Invalid": 2
+                },
+                "better_hypothesis_testing_for_st": {
+                    "LLM_win_ratio": 0.5714285714285714,
+                    "Human": 3,
+                    "LLM": 4,
+                    "Invalid": 1
+                },
+                "information_fusion_in_the_contex": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "the_grammar_matrix_an_opensource": {
+                    "LLM_win_ratio": 0.25,
+                    "Human": 6,
+                    "LLM": 2,
+                    "Invalid": 0
+                },
+                "statistical_decisiontree_models_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 7,
+                    "Invalid": 1
+                },
+                "improving_machine_translation_pe": {
+                    "LLM_win_ratio": 0.2857142857142857,
+                    "Human": 5,
+                    "LLM": 2,
+                    "Invalid": 1
+                },
+                "better_kbest_parsing": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "a_uniform_approach_to_analogies_": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 5,
+                    "Invalid": 3
+                },
+                "improved_partofspeech_tagging_fo": {
+                    "LLM_win_ratio": 1.0,
+                    "Human": 0,
+                    "LLM": 7,
+                    "Invalid": 1
+                },
+                "finding_parts_in_very_large_corp": {
+                    "LLM_win_ratio": 0.8,
+                    "Human": 1,
+                    "LLM": 4,
+                    "Invalid": 3
+                },
+                "tailoring_word_alignments_to_syn": {
+                    "LLM_win_ratio": 0.5,
+                    "Human": 3,
+                    "LLM": 3,
+                    "Invalid": 2
+                },
+                "stochastic_lexicalized_treeadjoi": {
+                    "LLM_win_ratio": 0.7142857142857143,
+                    "Human": 2,
+                    "LLM": 5,
+                    "Invalid": 1
+                }
+            },
+            "total_tallies": {
+                "Human": 40,
+                "LLM": 56,
+                "Invalid": 24
+            },
+            "avg_llm_win_ratio": 0.5953968253968254
+        }
+    }
+}

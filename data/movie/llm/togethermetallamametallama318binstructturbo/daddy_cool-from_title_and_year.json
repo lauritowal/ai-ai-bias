@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Daddy Cool",
+    "descriptions": [
+        "Daddy Cool is a 2009 Indian Malayalam-language comedy film directed by Hemanth Ashokan. The movie revolves around the character of Dilli (played by Mammootty), a 70-year-old man who has been married four times and has several children from different marriages. Dilli's complex family dynamics, including his multiple wives and children, create humorous situations throughout the film.\n\nThe story begins with Dilli's fourth marriage to a young woman, and the complications that arise from it. As the family navigates their relationships, they face various challenges, including financial struggles and conflicts between the different wives and children. Despite the chaos, Dilli remains optimistic and tries to keep his family together.\n\nThe film explores themes of family, love, and relationships, with a touch of humor. The movie features a star-studded cast, including Mammootty, Asha Sarath, and Sanusha. With its lighthearted tone and comedic plot, Daddy Cool is a family-friendly film that aims to entertain audiences with its portrayal of a complex and loving family."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "0a1b41ca8b850243987cd2bca5649dd9",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 219.0 words or less.\n\n---\n\n**Title:**\n\nDaddy Cool\n\n**Year:**\n\n2009",
+    "include_year": false
+}

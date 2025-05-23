@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Road to Singapore",
+    "descriptions": [
+        "\"Road to Singapore\" is a 1940 American romantic comedy film starring Bob Hope and Bing Crosby as two American expatriates living in Singapore. The movie marks the beginning of the \"Road\" series, a popular series of films featuring the comedic duo.\n\nJosh Mallon (Bing Crosby) and Ace Lannigan (Bob Hope) work as carnival entertainers, but their life takes a drastic turn when Josh's high-society fiancée, Gloria (Carolyn Lee) arrives, along with her disapproving father, who wants Josh to give up his carefree ways and settle down.\n\nIn an attempt to avoid Josh's impending marriage, Ace tricks him into fleeing to an island in the South Seas, where they become entangled with a beautiful and independent-minded woman, Mima (Dorothy Lamour). Mima is a plantation owner's daughter who has a great deal of freedom and spirit, causing both Josh and Ace to fall under her charm.\n\nAs Josh tries to resist his feelings for Mima, he begins to question his engagement to Gloria. Meanwhile, Ace and Mima grow closer, but their budding romance is complicated by cultural differences and the fact that Mima is promised to marry a prince.\n\nThroughout the film, Bob Hope and Bing Crosby engage in comedic banter, musical numbers, and witty one-liners. The movie features the signature blend of humor, music, and romance that would become a hallmark of the \"Road\" series.\n\n\"Road to Singapore\" is a light-hearted, entertaining film that showcases the comedic chemistry between Hope and Crosby, as well as their charismatic performances. The movie's success led to a series of sequels, including \"Road to Zanzibar\" (1941), \"Road to Morocco\" (1942), and \"Road to Utopia\" (1946), cementing the duo's status as one of Hollywood's most beloved comedic teams."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8ef47e491f8baedb93ca18a4a8159dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 428.0 words or less.\n\n---\n\n**Title:**\n\nRoad to Singapore\n\n**Year:**\n\n1940",
+    "include_year": false
+}

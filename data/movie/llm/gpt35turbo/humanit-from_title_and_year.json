@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Humanité",
+    "descriptions": [
+        "\"Humanité\" is a French film released in 1999 that follows the story of a police superintendent named Pharaon De Winter. Set in a small town in northern France, the film explores the unraveling of a murder investigation that De Winter becomes involved in. As the investigation progresses, De Winter finds himself increasingly disturbed by the brutal and senseless nature of the crime.\n\nThe film delves into the psychological toll that the investigation takes on De Winter, as he becomes consumed by the violence and depravity he encounters. As he struggles to make sense of the crime and find the perpetrator, De Winter also grapples with his own inner demons and personal struggles.\n\nAs the film unfolds, the audience is taken on a dark and introspective journey into the complexities of human nature and the mysteries of the human psyche. \"Humanité\" is a haunting and thought-provoking exploration of crime, morality, and the fragile boundaries that separate good from evil. Through its stark and unflinching portrayal of the investigation, the film ultimately raises questions about the nature of justice, redemption, and the capacity for compassion in a world marked by violence and despair."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "30441b301a481382dff20b122f946029",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 225.0 words or less.\n\n---\n\n**Title:**\n\nHumanité\n\n**Year:**\n\n1999",
+    "include_year": false
+}

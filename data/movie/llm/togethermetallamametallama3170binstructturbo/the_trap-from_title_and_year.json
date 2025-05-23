@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trap",
+    "descriptions": [
+        "The Trap is a 1966 British-Canadian adventure drama film directed by Sidney Hayers. The story revolves around a former trapper, Jean La Bête (Oliver Reed), who lives in the Canadian wilderness. Jean is a rugged and skilled trapper, feared by the local community due to his volatile temper and intimidating appearance.\n\nThe plot unfolds when Jean rescues a young woman named Eve (Rita Tushingham) from a group of abusive men in a tavern. Jean, unable to communicate effectively with Eve due to his lack of understanding of the English language, decides to take her back to his cabin. Initially, Eve is terrified of Jean but eventually warms up to him.\n\nAs Eve settles into her new environment, she begins to tame Jean's wild nature, introducing him to the world of books and teaching him the English language. Over time, Jean starts to develop feelings for Eve, but his inexperience with emotions makes him struggle to express them.\n\nHowever, their peaceful life is disrupted by the arrival of a group of trappers who seek to exploit Jean's skills for their own gain. The group's leader, a ruthless and cunning man, takes advantage of Jean's naivety and manipulates him into joining their hunting expedition.\n\nAs tensions rise, Jean's ferocity is unleashed, and he ultimately decides to protect Eve and his land at all costs. The film culminates in a violent confrontation between Jean and the group of trappers, showcasing his unbridled fury and determination to shield those he cares about.\n\nThrough the story, The Trap explores themes of love, redemption, and the human condition, as Jean's character undergoes significant transformation throughout the film. Despite the rough exterior, Jean reveals a deep sense of vulnerability and a longing for connection, making him a complex and intriguing character."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "16bb68c5850b094c416c92d2ad98ac8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 588.0 words or less.\n\n---\n\n**Title:**\n\nThe Trap\n\n**Year:**\n\n1966",
+    "include_year": false
+}

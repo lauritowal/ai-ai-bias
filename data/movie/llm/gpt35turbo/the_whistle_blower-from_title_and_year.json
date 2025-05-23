@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Whistle Blower",
+    "descriptions": [
+        "In the 1987 film \"The Whistle Blower,\" the story follows Frank Jones, a British engineer who is sent to work in a Soviet nuclear facility in the final years of the Cold War. Frank is initially excited about the opportunity to work on cutting-edge technology and to experience life in a different country. However, he soon becomes suspicious of the safety protocols at the facility and begins to uncover evidence of a massive cover-up.\n\nAs Frank delves deeper into his investigation, he discovers that the facility is cutting corners on safety measures in order to meet production quotas. The workers at the facility are overworked and undertrained, and accidents are common. Frank realizes that the facility is a ticking time bomb, with the potential to cause a catastrophic nuclear disaster.\n\nDespite the dangers, Frank is determined to blow the whistle on the facility's negligence. He begins secretly documenting the safety violations and gathering evidence to expose the truth. However, his actions do not go unnoticed, and he soon becomes the target of the facility's ruthless security chief, who will stop at nothing to protect the facility's secrets.\n\nAs Frank races against time to gather enough evidence to bring the truth to light, he finds himself caught in a dangerous game of cat and mouse with the security chief. He must use all of his wits and resourcefulness to outmaneuver his adversaries and stay one step ahead of them.\n\nIn the final act of the film, Frank's efforts pay off as he is able to gather enough evidence to expose the facility's negligence to the world. The revelations spark an international outcry, and the facility is shut down. Frank's bravery and determination are hailed as heroic, and he returns to Britain as a whistleblower and a hero.\n\n\"The Whistle Blower\" is a gripping thriller that highlights the importance of speaking out against injustice and standing up for what is right, even in the face of great danger. The film also serves as a cautionary tale about the risks of cutting corners on safety measures, particularly in high-risk environments like nuclear facilities."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "423e1d1dc3dc4ded287e9fee782c1218",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 846.0 words or less.\n\n---\n\n**Title:**\n\nThe Whistle Blower\n\n**Year:**\n\n1987",
+    "include_year": false
+}

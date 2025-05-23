@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Elementary School",
+    "descriptions": [
+        "I couldn't find information about a movie titled 'The Elementary School' released in 1991."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a24471cd36ea39a6538f7a9b8b035a9f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 331.0 words or less.\n\n---\n\n**Title:**\n\nThe Elementary School\n\n**Year:**\n\n1991",
+    "include_year": false
+}

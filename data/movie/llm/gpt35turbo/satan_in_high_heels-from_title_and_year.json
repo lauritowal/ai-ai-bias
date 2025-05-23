@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Satan in High Heels",
+    "descriptions": [
+        "\"Satan in High Heels\" is a 1962 film that follows the story of Stacy Kane, a seductive and manipulative exotic dancer who arrives in a small town and quickly becomes the center of attention. With her glamorous style and irresistible charm, Stacy captivates everyone she meets, including the wealthy and powerful men in town.\n\nAs Stacy rises to fame at the local nightclub, she begins to use her beauty and wit to manipulate those around her, including her boss and the men who fall under her spell. However, her actions quickly catch up to her as jealousy and betrayal lead to a dangerous game of power and seduction.\n\nThroughout the film, Stacy's true intentions and dark secrets are slowly revealed, painting her as a cunning and ruthless character willing to do whatever it takes to get what she wants. As the tension escalates and relationships unravel, the town becomes embroiled in a web of deceit and desire that ultimately leads to a shocking and dramatic conclusion.\n\n\"Satan in High Heels\" is a classic tale of temptation, greed, and the dangerous allure of power, showcasing the darker side of human nature in a captivating and thrilling story."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "2503aa2bfec3a5b555d76aa997fd3006",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 208.0 words or less.\n\n---\n\n**Title:**\n\nSatan in High Heels\n\n**Year:**\n\n1962",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chakkikotha Chankaran",
+    "descriptions": [
+        "Unfortunately, I am unable to retrieve information about the movie \"Chakkikotha Chankaran\" released in 1989."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "03ff703b541931a4d705a19ae5542878",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nChakkikotha Chankaran\n\n**Year:**\n\n1989",
+    "include_year": false
+}

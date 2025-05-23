@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Kadhalukku Mariyadhai",
+    "descriptions": [
+        "\"Kadhalukku Mariyadhai\" (1997) is a Tamil romantic drama film directed by R. Sundarrajan and produced by S. P. B. Charan. The film features an ensemble cast including Prashanth, Suvalakshmi, Manivannan, and Varalaxmi. The music for the film was composed by A. R. Rahman, which became a significant highlight of the movie.\n\nThe story revolves around Mohan (Prashanth), a young and passionate individual who is deeply in love with Latha (Suvalakshmi). Their relationship is a beautiful blend of love, respect, and understanding, but it faces a significant challenge when Mohan’s father, a strict and conservative man, disapproves of the match due to Latha’s humble background.\n\nDespite the obstacles, Mohan and Latha decide to elope and start a new life together. However, their happiness is short-lived when Mohan is involved in a tragic accident that leaves him in a coma. Latha, now pregnant, is left to face the world alone and must return to her village, where she struggles to support herself and her unborn child.\n\nYears pass, and Mohan eventually recovers, only to find that his world has changed dramatically. He sets out to find Latha and their child, leading to a series of emotional and heart-wrenching events. The film explores themes of love, sacrifice, and the resilience of the human spirit, culminating in a poignant and unforgettable conclusion.\n\n\"Kadhalukku Mariyadhai\" is a touching tale that resonated with audiences for its emotional depth and the stellar performances of its cast, particularly Prashanth and Suvalakshmi. The film’s soundtrack, composed by A. R. Rahman, added to its charm, with several tracks becoming popular hits."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "185f0792668fee0f14619cfbd83c838f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 317.0 words or less.\n\n---\n\n**Title:**\n\nKadhalukku Mariyadhai\n\n**Year:**\n\n1997",
+    "include_year": false
+}

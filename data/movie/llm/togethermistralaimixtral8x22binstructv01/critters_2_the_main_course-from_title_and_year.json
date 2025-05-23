@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Critters 2: The Main Course",
+    "descriptions": [
+        " In \"Critters 2: The Main Course\" (1988), the sequel to the 1986 horror-comedy \"Critters,\" the small town of Grover's Bend once again finds itself under attack by the carnivorous, furry aliens known as the Critters. Set two years after the events of the first film, the residents of Grover's Bend have tried to move on from the traumatic experience, but they are soon reminded of the horrors they faced when the Critters return, this time in even greater numbers.\n\nThe film follows the same group of protagonists from the first movie, including Brad Brown (Scott Grimes), a teenager who has become an expert on the Critters and their weaknesses; Charlie McFadden (Don Keith Opper), a bounty hunter who has made it his mission to destroy the Critters; and the Brown family, who are once again caught in the middle of the chaos. As the Critters wreak havoc on the town, the group must band together to find a way to stop them before it's too late.\n\nHowever, things become even more complicated when the Critters begin to evolve, developing new abilities and becoming even more dangerous than before. The group soon discovers that the Critters are not just mindless beasts, but are in fact part of a larger invasion force sent to Earth to consume all life. With the fate of the planet hanging in the balance, Brad, Charlie, and the Browns must find a way to stop the Critters once and for all.\n\n\"Critters 2: The Main Course\" is a fast-paced, action-packed horror-comedy that combines laughs and scares in equal measure. With its memorable characters, creative creature designs, and over-the-top gore, the film has become a cult classic among fans of the genre. Despite its low budget, \"Critters 2\" delivers a thrilling and entertaining ride that will keep audiences on the edge of their seats."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "45f0f2adff61eaeb90ca9b7c56539912",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 314.0 words or less.\n\n---\n\n**Title:**\n\nCritters 2: The Main Course\n\n**Year:**\n\n1988",
+    "include_year": false
+}

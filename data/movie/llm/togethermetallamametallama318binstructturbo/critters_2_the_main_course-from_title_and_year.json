@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Critters 2: The Main Course",
+    "descriptions": [
+        "Critters 2: The Main Course is a science fiction horror-comedy film released in 1988. The movie takes place after the events of the first film. It follows the character Charlie McFadden, who is now a sheriff in a small town. Charlie is about to become a father and is adjusting to married life.\n\nHowever, the town is invaded by a new, even larger group of Crites, the same alien creatures that terrorized a family in the first film. These creatures are more aggressive and destructive than the ones seen in the first movie. \n\nThe residents of the town are initially unaware of the danger, but they soon become the Crites' main course. Charlie and a few locals must band together to save the town and their families from the Crites' destruction. \n\nThe movie features a mix of action, comedy, and horror elements. Critics have noted that while Critters 2 has some entertaining moments, it lacks the charm and humor of the original film. The movie has a more serious tone and includes more gore and violence than the first film. \n\nDespite some negative reviews, Critters 2 has become a cult classic, and fans of the original film continue to enjoy it for its over-the-top creature effects and cheesy humor. The movie has since spawned a few sequels and a television series, cementing the Critters franchise as a staple of 1980s science fiction horror-comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "45f0f2adff61eaeb90ca9b7c56539912",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 314.0 words or less.\n\n---\n\n**Title:**\n\nCritters 2: The Main Course\n\n**Year:**\n\n1988",
+    "include_year": false
+}

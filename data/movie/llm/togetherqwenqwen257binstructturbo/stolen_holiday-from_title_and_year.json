@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Stolen Holiday",
+    "descriptions": [
+        "In \"Stolen Holiday\" (1937), a wealthy businessman named Charles Hawthorne finds himself in a predicament when his prized possession, a rare diamond, is stolen right under his nose at a high-society event. As the police investigation stalls, Charles, desperate to recover his gem, embarks on a personal quest for justice. Along the way, he befriends a resourceful young woman, Clara, who runs a small antique shop in the city. Together, they navigate a web of suspects, from jealous competitors to resentful former employees, as they race against time to locate the stolen diamond before it disappears forever. Their unlikely partnership not only leads them to a sequence of thrilling misadventures but also blossoms into a romance, proving that sometimes, the most valuable discoveries are not just material treasures but the bonds we form along the way."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "c09921acee0c38276011296cc44a28ea",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 272.0 words or less.\n\n---\n\n**Title:**\n\nStolen Holiday\n\n**Year:**\n\n1937",
+    "include_year": false
+}

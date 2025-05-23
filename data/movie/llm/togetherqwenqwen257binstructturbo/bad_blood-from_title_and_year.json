@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bad Blood",
+    "descriptions": [
+        "In \"Bad Blood\" (2010), a small-town veterinarian, Dr. Sarah Collins, finds herself entangled in a web of corruption and murder when her estranged brother, a former sheriff, is found dead. As she delves into the mystery, she uncovers a dangerous conspiracy involving local politicians and lawyers who are willing to do anything to maintain their power. Sarah must navigate the treacherous landscape of her hometown, risking her career and life to bring the truth to light and exact justice for her brother. Along the way, she forms an uneasy alliance with a cynical detective who has his own reasons for wanting the truth to come out. As Sarah gets closer to the truth, she realizes that the lines between good and evil are blurred, and she must make a choice that could change her life forever."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "fad8e49af36a1e504874a347d99bf4b4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 259.0 words or less.\n\n---\n\n**Title:**\n\nBad Blood\n\n**Year:**\n\n2010",
+    "include_year": false
+}

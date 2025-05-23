@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Sebastian Star Bear: First Mission",
+    "descriptions": [
+        "Sebastian Star Bear: First Mission is a children's adventure film released in 1991. The movie revolves around a young boy named Sebastian, who is a member of the Star Bear tribe, a group of mythical creatures tasked with spreading love, peace, and harmony in the world.\n\nThe story begins with Sebastian, who is training to become a full-fledged Star Bear. Under the guidance of his wise and experienced mentor, a Star Bear named Night Eagle, Sebastian is taught various skills and lessons to help him on his mission.\n\nSebastian's first mission is to help a family who is struggling to come together and find peace. The family, consisting of parents and two children, is on the verge of breaking apart due to their differences and conflicts. Night Eagle sends Sebastian to intervene and guide the family towards a path of understanding and love.\n\nUpon arrival, Sebastian discovers that the family is being threatened by a mischievous and evil spirit, who is fueling their anger and hatred towards each other. Determined to complete his mission, Sebastian sets out to defeat the evil spirit and bring peace back to the family.\n\nThroughout his journey, Sebastian encounters various obstacles and challenges, including the evil spirit's minions and his own self-doubt. However, with the help of his Star Bear friends and his own inner strength, Sebastian is able to overcome these challenges and ultimately succeed in his mission.\n\nThe movie teaches valuable lessons about the importance of love, peace, and harmony in our lives. It also promotes self-discovery, friendship, and the power of believing in oneself."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "2161afbf04307680648f0b682e7dd848",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1096.0 words or less.\n\n---\n\n**Title:**\n\nSebastian Star Bear: First Mission\n\n**Year:**\n\n1991",
+    "include_year": false
+}

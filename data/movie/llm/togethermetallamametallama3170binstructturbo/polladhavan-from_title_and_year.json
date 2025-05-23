@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Polladhavan",
+    "descriptions": [
+        "Polladhavan is a 2007 Indian Tamil-language action drama film. The story revolves around Prabhu, a young man who earns his living by selling bicycles and is in love with a college girl, Hema. Prabhu's life changes when he becomes the owner of a stolen Pulsar bike after the real thief is killed.\n\nInitially, Prabhu keeps the bike a secret and starts using it. However, his life takes a drastic turn when the real owner of the bike, a local goon named Selvam, starts searching for his stolen vehicle. Prabhu becomes the target of Selvam's men and has to use his wits to evade them.\n\nAs Prabhu navigates the underworld of Chennai, he transforms from a timid young man into a confident and fearless individual. Along the way, he earns the respect of his peers and becomes a hero in his own right.\n\nPolladhavan features an ensemble cast, including Dhanush, Divya Spandana, and Santhanam. The film is known for its gritty portrayal of life in the slums and the struggles faced by the underprivileged. It also explores themes of love, friendship, and redemption.\n\nThe film received critical acclaim and is considered a cult classic in the Tamil cinema industry."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "c9e6c5d9dde9c2c7869474f8b642baba",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 1073.0 words or less.\n\n---\n\n**Title:**\n\nPolladhavan\n\n**Year:**\n\n2007",
+    "include_year": false
+}

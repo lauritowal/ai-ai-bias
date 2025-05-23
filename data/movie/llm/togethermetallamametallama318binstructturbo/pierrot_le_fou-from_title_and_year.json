@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pierrot le fou",
+    "descriptions": [
+        "\"Pierrot le Fou\" is a 1965 French New Wave film directed by Jean-Luc Godard. The movie tells the story of Ferdinand Griffon, a former thief known as \"Pierrot,\" who is released from prison after serving a short sentence. Upon his release, Pierrot reunites with his girlfriend, Marianne Renoir, a former actress who is now a prostitute. They decide to leave their past behind and start a new life in the French countryside.\n\nHowever, their plans are quickly derailed as they become embroiled in a series of misadventures and crime. Pierrot becomes obsessed with a young woman named Florence, and the couple sets out on a journey across France. Along the way, they encounter a series of eccentric characters, including a wealthy businessman and a pair of thieves.\n\nAs the story unfolds, Pierrot and Marianne's relationship becomes increasingly strained. They begin to argue and fight with each other, and their love for each other slowly begins to disintegrate. The film's tone is marked by a sense of disaffection and disillusionment, as Pierrot and Marianne struggle to find meaning and purpose in a world that seems to be crumbling around them.\n\nThroughout the film, Godard employs a range of innovative filmmaking techniques, including jump cuts, handheld camera work, and a non-linear narrative structure. These techniques add to the film's sense of urgency and chaos, and help to create a sense of unease and disorientation in the viewer. Overall, \"Pierrot le Fou\" is a critically acclaimed film that explores themes of love, identity, and social dislocation in 1960s France."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "cf41356f93713cb5788cb0c31df63cad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 297.0 words or less.\n\n---\n\n**Title:**\n\nPierrot le fou\n\n**Year:**\n\n1965",
+    "include_year": false
+}

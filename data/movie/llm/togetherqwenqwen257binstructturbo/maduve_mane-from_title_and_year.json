@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Maduve Mane",
+    "descriptions": [
+        "**Title: Maduve Mane**\n**Year: 1992**\n\n\"Maduve Mane\" (The Daughter-in-Law) is a poignant drama set in a small village in South India, exploring the complex dynamics of family and traditional customs. The story unfolds in the late 1980s, following the life of Maduve, a young woman who marries into a conservative family. Her husband, Vasudev, is a kind-hearted farmer deeply rooted in his village's traditions and beliefs.\n\nMaduve's life takes a dramatic turn when she becomes pregnant just months after her marriage, a pregnancy that shocks her in-laws and neighbors due to her young age. The village reacts with a mix of curiosity and judgment, and Maduve finds herself thrust into a world she is unprepared for.\n\nStruggling to balance her new role as a mother and a wife, Maduve faces numerous challenges. Her in-laws, particularly her mother-in-law, are overprotective and demand absolute obedience. Maduve's attempts to seek independence and her husband’s support are met with resistance, leading to increased tension and conflicts within the household.\n\nAs the story progresses, Maduve's relationship with her husband evolves, and she begins to find strength in her own decisions and the support of a few friends who understand her plight. The film delves into themes of tradition versus modernity, the role of women in society, and the importance of family in shaping one's identity.\n\nThe climax of the film brings a powerful confrontation between Maduve and her in-laws, highlighting the stark reality of gender roles in rural societies. Ultimately, the movie serves as a poignant reflection on the journey towards self-empowerment and the resilience of the human spirit in the face of societal pressures."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "23cce7a2669de698e50a741c9b981319",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 417.0 words or less.\n\n---\n\n**Title:**\n\nMaduve Mane\n\n**Year:**\n\n",
+    "include_year": false
+}

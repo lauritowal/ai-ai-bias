@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Detonator",
+    "descriptions": [
+        "Title: The Detonator\nYear: 2006\n\nPlot Summary:\n\n\"The Detonator\" is an action thriller film released in 2006, starring Wesley Snipes as Sonni Griffith, a skilled CIA operative. The story follows Griffith as he is assigned to a mission in Romania where he must secure and transport a reluctant witness named Nadia Cominski, played by Silvia Colloca, who holds the key intel on an elaborate corruption scheme involving a vicious arms dealer.\n\nAs Griffith and Cominski embark on their dangerous journey to reach the U.S. embassy, they are relentlessly pursued by the arms dealer's mercenaries, intent on silencing Nadia before she can testify. The operation becomes even more complicated when Griffith realizes there's a mole within the agency, leading to a lack of trust and a constant guessing game of who to rely on.\n\nWith his expertise in explosives and combat, Griffith must use all of his skills to protect Nadia, outsmart the enemy, and uncover the traitor within his ranks. The film is a high-octane ride filled with suspenseful moments and explosive action sequences, as the duo navigates through treacherous territory, leading up to a climactic showdown where Griffith must become both the detonator and defuser of a deadly plot."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "c32b501ee1d9a114e3121fb32c9a718a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 211.0 words or less.\n\n---\n\n**Title:**\n\nThe Detonator\n\n**Year:**\n\n2006",
+    "include_year": false
+}

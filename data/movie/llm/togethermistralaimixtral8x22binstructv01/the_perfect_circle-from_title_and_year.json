@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Perfect Circle",
+    "descriptions": [
+        " In the 1997 drama \"The Perfect Circle,\" a young boy named Alija struggles to find hope amidst the brutal backdrop of the Bosnian War. Living in Sarajevo, Alija's world is shattered as the conflict divides his city and family. His father, a soldier, is captured, while his mother remains trapped in the besieged city.\n\nDesperate to reunite with his loved ones, Alija embarks on a perilous journey through the war-torn landscape. Along the way, he befriends an old man named Kerim, who becomes his mentor and protector. Together, they navigate the dangerous terrain, meeting other refugees and soldiers who reveal the complexities of war and humanity.\n\nAs Alija's journey unfolds, he discovers the importance of resilience and compassion in the face of adversity. He experiences the horrors of war but also witnesses acts of kindness and bravery. The film explores the power of friendship and the strength of the human spirit, even in the darkest of times.\n\n\"The Perfect Circle\" is a poignant tale of survival, highlighting the impact of war on children and the power of hope in the face of despair. Through Alija's journey, the film offers a sobering perspective on the Bosnian War, emphasizing the importance of empathy and understanding in the midst of conflict."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nThe Perfect Circle\n\n**Year:**\n\n1997",
+    "include_year": false
+}

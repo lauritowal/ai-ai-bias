@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Conrack",
+    "descriptions": [
+        "\"Conrack\" is a 1974 film based on the autobiographical book \"The Water Is Wide\" by Pat Conroy. The title \"Conrack\" is derived from the children's mispronunciation of the name Conroy. Directed by Martin Ritt and starring Jon Voight in the titular role, the film tells the story of a young, idealistic white teacher named Pat Conroy who takes a job on a remote island off the coast of South Carolina.\n\nThe island, Yamacraw Island (a fictional representation of Daufuskie Island), is isolated from the mainland and its inhabitants are primarily African American. The children on the island have received little to no formal education due to their segregation and the neglect of the school system. They are initially illiterate and know very little of the world beyond their shores.\n\nConrack is shocked by the conditions he finds: outdated textbooks, a lack of basic supplies, and a community resistant to change. Despite these challenges, he is determined to make a difference in the lives of his students. He uses unconventional teaching methods, introduces them to a world of education and experiences beyond their island, and forms deep connections with the children.\n\nHowever, his methods clash with the rigid and conservative school administration. The film delves into themes of racism, education, and the clash between progressive ideals and traditional norms. Conrack's dedication to his students and his fight against the status quo make for an inspiring and heartwarming narrative."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "7aa3bb1ffec85a45083e5fcb12ddc053",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 212.0 words or less.\n\n---\n\n**Title:**\n\nConrack\n\n**Year:**\n\n1974",
+    "include_year": false
+}

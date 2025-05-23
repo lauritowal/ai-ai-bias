@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trial",
+    "descriptions": [
+        "\"The Trial\" (2009) is a drama that centers around the life of a small-town lawyer named Mac McClain who is still grieving the loss of his wife and two sons in a tragic accident. The story picks up with Mac at a low point in his life, struggling with depression and questioning his faith in God. He is on the brink of giving up when he is presented with a new case that could potentially reignite his will to live and his belief in justice.\n\nMac is reluctantly drawn into defending a young man named Pete Thomason, who is accused of killing his girlfriend and is facing the death penalty. Pete is uncommunicative and has given up on his life, much like Mac. Despite the overwhelming evidence against Pete, Mac decides to take the case, seeing it as his last chance for redemption, both personally and professionally.\n\nThroughout the trial, Mac faces numerous obstacles, including a hostile prosecutor, a skeptical judge, and his own inner demons. As he delves deeper into the evidence and witnesses' testimonies, Mac begins to uncover hidden truths and a possible conspiracy surrounding the murder. His commitment to finding the truth rekindles his passion for law and helps him to confront his past.\n\nThe trial becomes a catalyst for Mac's journey toward healing and forgiveness. He becomes a mentor to Pete, who slowly starts to open up and show signs of hope. The movie presents themes of justice, redemption, and the search for truth, culminating in a courtroom climax that challenges the characters' beliefs and the audience's expectations."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5a03754bb22e9219f8eb42e2b0dd22d2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 274.0 words or less.\n\n---\n\n**Title:**\n\nThe Trial\n\n**Year:**\n\n2009",
+    "include_year": false
+}

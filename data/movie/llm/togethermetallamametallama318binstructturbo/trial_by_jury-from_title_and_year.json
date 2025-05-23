@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trial by Jury",
+    "descriptions": [
+        "In the 1994 film \"Trial by Jury,\" a woman named Cheryl is brutally raped and left for dead by a man named Norman. Cheryl, played by Joanne Whalley, is left traumatized and struggles to come to terms with her new reality.\n\nThe court case against Norman is a difficult and emotional journey for both Cheryl and her husband, Billy (played by Armand Assante). As the trial unfolds, the defense team attempts to portray Norman as a victim of circumstance, while the prosecution fights to prove his guilt.\n\nAs the trial reaches its climax, the audience is left wondering if justice will be served. Will Norman be held accountable for his heinous crime, or will he walk free? The film raises questions about the fairness of the justice system and the impact that it has on those affected by violent crime.\n\n\"Trial by Jury\" is a thought-provoking and intense drama that explores the complexities of the human psyche and the aftermath of traumatic events."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "9cc2fa39e3b1f778da835d9985f8ab75",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994",
+    "include_year": false
+}

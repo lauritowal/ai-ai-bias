@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "King",
+    "descriptions": [
+        "I couldn't find any information on a movie titled \"King\" released in 2002. It's possible that the movie is lesser-known or a non-English film. If you could provide more context or details about the movie, I may be able to help you better.\n\nHowever, I found a 2017 Tamil-language film titled \"King\" but it was not released in 2002. If you are looking for information on a different movie, please provide more details, and I will try to assist you.\n\nIf you are referring to the 2002 Australian television movie \"King\", it's based on a true story of Graham 'Shirley' Marsh, an Australian boxer who rose to fame in the 1970s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "92a68e2cc05e4e2afc5b2a64cb960a93",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 339.0 words or less.\n\n---\n\n**Title:**\n\nKing\n\n**Year:**\n\n2002",
+    "include_year": false
+}

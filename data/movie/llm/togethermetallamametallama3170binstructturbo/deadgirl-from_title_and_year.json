@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Deadgirl",
+    "descriptions": [
+        "\"Deadgirl\" is a 2008 American horror film directed by Marcel Sarmiento and Gadi Harel. The film follows two high school outcasts, Rickie (Shiloh Fernandez) and J.T. (Noah Segan), who spend their days exploring the woods and avoiding the social pressures of their school. \n\nOne day, while exploring an abandoned mental hospital, they stumble upon a mysterious, naked woman (Jenny Spain) chained to a table in the basement. The woman is revealed to be the 'dead girl' of the title, seemingly undead and invulnerable to pain and injury. \n\nAs the story progresses, the 'dead girl' is subjected to various forms of physical and emotional abuse by Rickie and J.T., with the latter becoming increasingly obsessed and violent towards the woman. \n\nMeanwhile, Rickie begins to develop feelings of guilt and empathy towards the 'dead girl' and starts questioning J.T.'s motives and behavior. As their friendship deteriorates, Rickie must decide whether to continue down the path of abuse and exploitation or take a stand against J.T. and try to save the 'dead girl' from further harm.\n\nThe film explores themes of teenage angst, social isolation, and the consequences of abuse and exploitation. Despite its graphic content and disturbing subject matter, \"Deadgirl\" has been praised for its thought-provoking and uncomfortable take on the traditional zombie genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "28721906e3f056bf4f33f8129422c4a0",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 569.0 words or less.\n\n---\n\n**Title:**\n\nDeadgirl\n\n**Year:**\n\n2008",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Chandamama",
+    "descriptions": [
+        "**Plot Summary:**\n\nChandamama, released in 2007, is a heartwarming family drama that revolves around the life of a single mother, Chandamama, and her efforts to provide a better life for her son, Ravi. Chandamama, a widow, works tirelessly as a domestic helper to support her son who dreams of becoming a film director. Despite the challenges and financial struggles, Chandamama remains resilient, instilling in Ravi the importance of education and his dreams. The movie explores themes of sacrifice, perseverance, and the unwavering bond between a mother and her son as they navigate the complexities of life together. Through a series of ups and downs, Chandamama and Ravi's journey highlights the strength of the human spirit and the lengths a parent will go to ensure their child's success."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "5f682c2bf484b9f3e4b8f257135fa2e1",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 306.0 words or less.\n\n---\n\n**Title:**\n\nChandamama\n\n**Year:**\n\n2007",
+    "include_year": false
+}

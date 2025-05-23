@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "When Were You Born",
+    "descriptions": [
+        "When Were You Born is a 1938 American mystery film directed by William C. McGann. The story revolves around a crime-solving astrologer, Madame Selina, who claims to possess the ability to determine a person's birth date, time, and place by simply touching their hand.\n\nMadame Selina (played by Anna May Wong) uses her supposed psychic abilities to aid the police in solving a murder mystery. When a crime is committed, Madame Selina uses her astrological knowledge to identify the perpetrator's birth date and other details, narrowing down the list of suspects.\n\nAs the investigation unfolds, Madame Selina teams up with a police detective, played by Frank M. Thomas. Despite initial skepticism, the detective is impressed by Madame Selina's accuracy and decides to collaborate with her in solving the case.\n\nThroughout the film, Madame Selina proves to be a skilled and intuitive detective, often uncovering clues and piecing together the evidence that the police have missed. Her astrological abilities seem to be an asset in the investigation, and the detective comes to rely on her expertise.\n\nHowever, it is eventually revealed that Madame Selina's \"psychic\" abilities are merely a result of her exceptional skills of observation, deduction, and knowledge of human behavior. She uses her understanding of people's characteristics, associated with their astrological signs, to make educated guesses and gather information.\n\nAs the mystery is solved, Madame Selina's reputation as a skilled detective is solidified, and the police come to respect her unique approach to crime-solving. The film showcases Anna May Wong's captivating performance as the intelligent and resourceful Madame Selina, making When Were You Born a compelling and entertaining mystery movie of its time."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "54bede93b3eba067e4d1dec5abcc385e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 498.0 words or less.\n\n---\n\n**Title:**\n\nWhen Were You Born\n\n**Year:**\n\n1938",
+    "include_year": false
+}

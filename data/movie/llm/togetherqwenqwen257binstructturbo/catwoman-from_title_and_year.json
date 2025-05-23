@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Catwoman",
+    "descriptions": [
+        "**Plot Summary:**\n\n\"Catwoman,\" released in 2004, is a dark and gritty take on the classic DC Comics character. The film centers around Selina Kyle (played by Halle Berry), a skilled burglar and thief who, after a traumatic event in her past, turns to a life of crime. When a mysterious new character, Adrian Chase (a menacing portrayal by Griffin Dunne), threatens the city of Gotham, Selina finds herself entangled in his schemes. To protect her city and her newfound sense of purpose, Selina dons the iconic Catwoman costume, a transformation that challenges her moral compass and deepens her connection to the city and its people. The film explores themes of redemption, power, and the price of freedom, making Selina a formidable and complex superheroine."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "80a857bf39597b277bb973a114b056d7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 349.0 words or less.\n\n---\n\n**Title:**\n\nCatwoman\n\n**Year:**\n\n2004",
+    "include_year": false
+}

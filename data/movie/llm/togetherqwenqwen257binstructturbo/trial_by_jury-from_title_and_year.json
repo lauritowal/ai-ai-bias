@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Trial by Jury",
+    "descriptions": [
+        "\"Trial by Jury\" (1994) follows the tumultuous legal proceedings of a high-profile case where a prominent businessman is accused of embezzlement. The trial is a media sensation, drawing intense public interest. As the case unfolds, the line between justice and media spectacle becomes blurred. The defense and prosecution present compelling evidence, but the personal lives and hidden secrets of key witnesses threaten to undermine the proceedings. Amidst legal maneuvering and public pressure, the jury faces a daunting task to reach a verdict in a case that has become as much about public opinion as it is about law."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "9cc2fa39e3b1f778da835d9985f8ab75",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nTrial by Jury\n\n**Year:**\n\n1994",
+    "include_year": false
+}

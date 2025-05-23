@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Christmas Story",
+    "descriptions": [
+        "\"Christmas Story\" (2007) is a Finnish family drama that delves into the origins of the beloved figure of Santa Claus. Set in the frosty landscapes of Lapland, the movie follows the touching tale of a young orphan boy named Nikolas. After a family tragedy leaves him without parents, the villagers decide to care for him, passing him from one home to another each Christmas.\n\nNikolas is known for his kind heart and for crafting toys, which he gives to the children of the families he stays with as a token of gratitude. His selflessness and the joy he brings to the village children with his handmade gifts begin a tradition that will eventually inspire the legend of Santa Claus.\n\nAs the years pass, Nikolas continues to carry on his legacy of giving, even as he faces personal hardships and challenges. The story explores themes of generosity, compassion, and the enduring power of human kindness, demonstrating how a simple act can ignite a universal symbol of hope and joy.\n\n\"Christmas Story\" is a heartfelt narrative that offers a magical interpretation of how a young boy's altruism and creative spirit could lead to the creation of one of the most cherished mythical figures in the world."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "066626c149517f8e3bbaa8d94c7bbbb7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007",
+    "include_year": false
+}

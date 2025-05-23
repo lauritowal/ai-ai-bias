@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Chaser",
+    "descriptions": [
+        "\"The Chaser\" is a South Korean thriller film released in 2008, directed by Na Hong-jin. The plot revolves around an ex-detective turned pimp, Eom Joong-ho, who realizes that his girls have been disappearing without clearing their debts. His suspicions lead him to believe that the girls are being sold off or have simply run away. However, when another girl named Mi-jin goes missing, Joong-ho becomes convinced that a more sinister fate has befallen the women.\n\nDesperate to find Mi-jin, Joong-ho starts his own investigation, retracing her last known steps. His search becomes urgent when he learns that Mi-jin has left her young daughter alone at home. As Joong-ho digs deeper, he discovers that the disappearances are connected to a particular client of his, a man named Young-min. After a tense chase, Joong-ho captures Young-min and hands him over to the police, but due to a lack of evidence and the intricacies of the legal system, the suspect may be released within 12 hours.\n\nUnder intense time pressure, Joong-ho must now race against the clock to find definitive proof of Young-min's guilt and rescue Mi-jin. The film delves into a gritty cat-and-mouse game between Joong-ho and Young-min, with the latter giving cryptic clues and toying with the former. Young-min's chilling calmness and evasion tactics create a disturbing contrast to Joong-ho's growing desperation and rough methods.\n\nThroughout the film, the audience is exposed to the grim underbelly of Seoul, where corruption and indifference seem to hinder Joong-ho's frantic search. The film's dark atmosphere is punctuated by intense action sequences and moments of brutal violence, reflecting the high stakes and moral ambiguity of Joong-ho's world.\n\n\"The Chaser\" is a gripping and harrowing tale that combines elements of a crime thriller with psychological horror, showcasing a relentless pursuit of justice in the face of overwhelming odds. The film received critical acclaim for its tight narrative, strong performances, particularly by Kim Yoon-seok as Joong-ho and Ha Jung-woo as Young-min, and its unflinching portrayal of a seedy urban landscape fraught with danger and despair."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "1f954faa08091689109b8c997782cebe",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 981.0 words or less.\n\n---\n\n**Title:**\n\nThe Chaser\n\n**Year:**\n\n2008",
+    "include_year": false
+}

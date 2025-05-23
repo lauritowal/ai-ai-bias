@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Naseeb Apna Apna",
+    "descriptions": [
+        " In the bustling city of Mumbai, Naseeb Apna Apna (1986) weaves a tale of love, betrayal, and redemption. The plot revolves around two friends, Ravi (Rishi Kapoor) and Vicky (Farah Khan), who share a deep bond despite their contrasting personalities. Ravi is a hardworking young man with dreams of making it big, while Vicky is a charismatic trickster, always looking for a quick buck.\n\nRavi falls in love with Pooja (Farha Naaz), a beautiful and kind-hearted woman, who reciprocates his feelings. However, their love story is not without its hurdles. Pooja's wealthy father, Mr. Saxena (Amjad Khan), disapproves of their relationship due to Ravi's humble background. Meanwhile, Vicky, smitten by Pooja's younger sister Nita (Aarti Gupta), tries to impress her with his antics, often landing himself in trouble.\n\nIn a twist of fate, Vicky discovers that he is the long-lost son of a wealthy businessman. This revelation turns his life upside down, as he grapples with his newfound wealth and the responsibilities that come with it. Despite his new status, Vicky remains loyal to his friendship with Ravi and helps him in his pursuit of Pooja.\n\nHowever, Vicky's life takes another unexpected turn when he is framed for a crime he did not commit. As he fights to clear his name, Vicky realizes the true value of friendship and love. With R Naseeb Apna Apna (1986) is a heartwarming tale of friendship and love. The story revolves around two contrasting friends, Ravi (Rishi Kapoor), a hardworking man, and Vicky (Farah Khan), a charismatic trickster. Ravi falls for Pooja (Farha Naaz), a kind-hearted woman, but her wealthy father disapproves. Meanwhile, Vicky tries to impress Pooja's sister Nita (Aarti Gupta). In a twist, Vicky discovers he's the long-lost son of a businessman. Despite his new wealth, he remains loyal to Ravi and helps him win Pooja. However, Vicky is framed for a crime, leading him to understand the true value of friendship and love. As he fights to clear his name, Vicky and Ravi's friendship is tested, but they emerge stronger, proving that love and friendship can overcome any obstacle."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "bc50ba909d2460df782a838550c57125",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nNaseeb Apna Apna\n\n**Year:**\n\n1986",
+    "include_year": false
+}

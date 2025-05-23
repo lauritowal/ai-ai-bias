@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Trial",
+    "descriptions": [
+        "In \"The Trial\" (2009), the story follows a young lawyer named James who is assigned to defend a man accused of a heinous crime. As James delves into the case, he begins to uncover a web of corruption and deceit that goes far beyond the courtroom. The accused, John, insists on his innocence despite overwhelming evidence against him, and James becomes determined to uncover the truth.\n\nAs the trial progresses, James finds himself caught up in a dangerous game of cat and mouse, with powerful forces working to ensure that John is convicted no matter what. James must navigate a treacherous legal system while also dealing with threats to his own safety.\n\nAs James digs deeper, he starts to unravel a conspiracy involving high-ranking officials and members of the legal system. He discovers that John has been framed in order to cover up a larger crime, and that his own life may be in danger if he continues to pursue the truth.\n\nIn a race against time, James must gather evidence to prove John's innocence and expose the true culprits behind the crime. With the help of a dedicated investigator and a few key witnesses, James sets out to clear John's name and bring the real criminals to justice.\n\n\"The Trial\" is a gripping legal thriller that explores the dark underbelly of the justice system and the lengths to which some will go to protect their own interests."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "5a03754bb22e9219f8eb42e2b0dd22d2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 274.0 words or less.\n\n---\n\n**Title:**\n\nThe Trial\n\n**Year:**\n\n2009",
+    "include_year": false
+}

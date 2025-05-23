@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Merry Old Soul",
+    "descriptions": [
+        "**The Merry Old Soul (1933)**\n\n\"The Merry Old Soul\" is a charming British comedy from 1933, directed by Victor Saville. The film stars George Formby, a beloved British comedian and ukelele player, alongside Elsie Taverner and Jack Hulbert.\n\nThe story revolves around Tom Fairchild (George Formby), a cheerful and resourceful young man who inherits a dilapidated music hall from his uncle. Despite the hall's poor condition and Tom's lack of experience in the entertainment business, he is determined to revive it and make it a success. Tom's enthusiasm and optimistic spirit are infectious, and he quickly wins over the local community, including the skeptical but kind-hearted Miss Watson (Elsie Taverner), who becomes his ally and confidante.\n\nTom faces numerous challenges, from financial difficulties to the skepticism of the town's elite, who doubt his ability to turn the music hall around. However, with the help of Miss Watson and a group of talented but down-on-their-luck performers, Tom stages a variety show that captures the hearts of the audience. The show's success not only saves the music hall but also brings the community together in a celebration of talent and camaraderie.\n\n\"The Merry Old Soul\" is a heartwarming tale of perseverance, friendship, and the power of positivity, set against the backdrop of a small British town during the early 1930s. George Formby's signature charm and musical performances add a delightful touch to this classic British comedy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "3f23f7a0bce37bb8b965ebe9cba4c558",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 300.0 words or less.\n\n---\n\n**Title:**\n\nThe Merry Old Soul\n\n**Year:**\n\n1933",
+    "include_year": false
+}

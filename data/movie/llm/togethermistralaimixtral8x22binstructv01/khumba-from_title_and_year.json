@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Khumba",
+    "descriptions": [
+        " \"Khumba\" is a heartwarming animated adventure film released in 2013. The story revolves around the protagonist, Khumba, a young zebra born with only half his stripes, who is ostracized and blamed for a severe drought by his superstitious herd. In a world where fitting in is the norm, Khumba's unusual appearance makes him an outcast, sparking his desire to find his missing stripes and be accepted by his community.\n\nEmbarking on a daring journey across the Great Karoo desert, Khumba is joined by a quirky trio of companions: an overprotective wildebeest named Mama V, a self-assured ostrich named Bradley, and a talkative springbok named Tombi. Together, they face various challenges and encounter diverse animals, each with their own unique personalities and lessons to share.\n\nAlong the way, Khumba and his friends confront a cunning leopard named Phango, who believes that preying on Khumba will grant him the strength of a hundred zebras. As their journey unfolds, Khumba discovers the true meaning of bravery, friendship, and self-acceptance.\n\nIn a climactic encounter, Khumba stands up to Phango, learning that his half-striped appearance is not a curse but a unique gift that sets him apart. He returns to his herd, not with his missing stripes but with newfound confidence and the courage to challenge the old traditions. Inspired by Khumba's bravery, the herd accepts him and begins to appreciate their differences, realizing that they are all unique in their own way.\n\n\"Khumba\" is an uplifting tale that encourages the celebration of individuality and promotes the acceptance of diversity. With its beautiful animation, captivating storyline, and memorable characters, this film is an entertaining and enlightening experience for audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "ff47d5bb7ce7a87937dbd0529a81be8b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 303.0 words or less.\n\n---\n\n**Title:**\n\nKhumba\n\n**Year:**\n\n2013",
+    "include_year": false
+}

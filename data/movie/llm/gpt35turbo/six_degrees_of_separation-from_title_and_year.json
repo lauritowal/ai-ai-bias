@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Six Degrees of Separation",
+    "descriptions": [
+        "In the 1993 film \"Six Degrees of Separation,\" a young con artist named Paul claims to be the son of Sidney Poitier and weaves an elaborate web of lies to infiltrate the lives of a wealthy New York couple, Ouisa and Flan Kittredge. Paul charms his way into their home by claiming he was mugged and needed help, sparking their sympathy and curiosity. As the story unfolds, Paul's manipulative nature comes to light as he dazzles the couple with his intelligence, wit, and knowledge of art and culture.\n\nOuisa and Flan become enamored with Paul's sophistication and the glamorous world he seems to inhabit, but as they dig deeper, they begin to uncover the truth about his fabricated identity. The film explores themes of identity, privilege, and the blurred lines between reality and fiction as Paul's deception forces the Kittredges to confront their own insecurities and desires.\n\nAs Paul's lies unravel, Ouisa and Flan are left questioning their own relationships and the connections that bind them to others. Through Paul's intricate manipulations, the characters navigate the complexities of human connection and the ways in which people are both connected and isolated in a vast and impersonal world. Ultimately, \"Six Degrees of Separation\" delves into the intricacies of deception, self-discovery, and the search for genuine connection in a world filled with illusions and facades."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+    "include_year": false
+}

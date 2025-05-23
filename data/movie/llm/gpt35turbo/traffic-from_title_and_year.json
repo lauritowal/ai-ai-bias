@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Traffic",
+    "descriptions": [
+        "In the movie \"Traffic\" (2011), the story follows the intertwining lives of several individuals whose paths cross due to their involvement with drugs. The film explores the various aspects of the drug trade, from the perspectives of law enforcement, drug traffickers, addicts, and politicians.\n\nThe plot follows a young DEA agent, who is determined to bring down a powerful drug cartel operating in his city. As he delves deeper into the investigation, he discovers corruption within his own department, making it difficult to trust anyone. At the same time, a wealthy socialite becomes entangled in the drug trade after her son becomes addicted to drugs, leading her to confront her own privilege and ignorance.\n\nMeanwhile, a Mexican drug lord struggles to maintain control over his territory, facing opposition from rival gangs and pressure from the authorities. His story is contrasted with that of a struggling migrant worker who becomes involved in the drug trade out of desperation, only to find himself trapped in a dangerous world with no way out.\n\nAs the different storylines converge, the characters must confront the consequences of their actions and choices. The film highlights the devastating impact of the drug trade on individuals and communities, exposing the dark underbelly of a multi-billion dollar industry that thrives on exploitation and violence.\n\n\"Traffic\" (2011) is a gripping and thought-provoking film that sheds light on the complexities of the drug trade and the human cost of addiction. Through its interconnected narrative and diverse characters, the movie offers a nuanced portrayal of a pervasive issue that continues to plague society."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "97715b165bc53cecbd7a4aa3fcaa268b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 401.0 words or less.\n\n---\n\n**Title:**\n\nTraffic\n\n**Year:**\n\n2011",
+    "include_year": false
+}

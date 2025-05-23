@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Run, Fat Boy, Run",
+    "descriptions": [
+        "\"Run, Fat Boy, Run\" is a 2007 British-American romantic comedy film directed by David Schwimmer. The movie follows the life of Dennis, a clumsy and overweight man who is about to get married to Libby, a beautiful and charming woman.\n\nHowever, on the eve of the wedding, Dennis discovers that Libby is infatuated with Whit, a charismatic and successful businessman. Fearing embarrassment and heartbreak, Dennis decides to call off the wedding and sets off to run the London Marathon, which he has never attempted before.\n\nAs Dennis trains for the marathon, he meets Libby and Whit, who are at the starting line of the event. Dennis is determined to beat Whit and prove his worth to Libby. Along the way, he meets a new friend, Whit's rival for Libby's affections, and Libby herself, who tries to convince Dennis to rejoin her.\n\nThroughout the film, Dennis's life is portrayed as a series of hilarious mishaps and personal struggles. Despite his lack of athletic ability, Dennis perseveres and faces his fears, learning valuable lessons about relationships, self-acceptance, and the true meaning of love.\n\nAs the London Marathon approaches, Dennis and Libby's relationship is put to the test. In a dramatic turn of events, Dennis must confront his doubts and fears, and make a choice between his feelings for Libby and his desire to prove himself.\n\nIn the end, \"Run, Fat Boy, Run\" is a heartwarming and entertaining film that explores themes of love, self-discovery, and redemption. With a talented cast, including Simon Pegg and Thandie Newton, the movie offers a fresh and humorous take on the classic romantic comedy genre."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "e214bf26bd66d0d73bc69f4a4ba73686",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 696.0 words or less.\n\n---\n\n**Title:**\n\nRun, Fat Boy, Run\n\n**Year:**\n\n2007",
+    "include_year": false
+}

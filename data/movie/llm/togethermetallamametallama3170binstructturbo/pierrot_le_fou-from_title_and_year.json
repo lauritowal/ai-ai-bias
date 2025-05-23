@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pierrot le fou",
+    "descriptions": [
+        "Pierrot le fou is a 1965 French New Wave film directed by Jean-Luc Godard. The movie is loosely based on the novel 'Obsession' by Lionel White. It tells the story of Ferdinand Griffon (Jean-Paul Belmondo), a disenchanted and bored married man, who runs away with his former flame, Marianne Renoir (Anna Karina). \n\nMarianne is a mysterious and free-spirited young woman, and Ferdinand is drawn to her carefree nature. Together, they embark on a chaotic and impulsive journey, leaving behind the monotony of their lives. As they travel through the French countryside, they become embroiled in a complex web of crime and violence, partly due to Marianne's involvement with her former associates.\n\nThroughout their adventure, Ferdinand and Marianne experience intense emotions, from passionate romance to desperation and despair. The film's narrative is often fragmented and non-linear, reflecting the characters' disorganized and unpredictable lives.\n\nPierrot le fou is known for its bold colors, innovative cinematography, and experimental narrative style, which were characteristic of the French New Wave movement. The film is also notable for its exploration of themes such as alienation, consumerism, and the search for meaning in a postmodern world.\n\nOverall, Pierrot le fou is a visually stunning and thought-provoking film that explores the complexities of human relationships and the disillusionment of modern life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "cf41356f93713cb5788cb0c31df63cad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 297.0 words or less.\n\n---\n\n**Title:**\n\nPierrot le fou\n\n**Year:**\n\n1965",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tango",
+    "descriptions": [
+        "In the 1998 film \"Tango,\" the story follows a passionate and tumultuous love affair between a married man and a beautiful woman. Set in the backdrop of Buenos Aires, the film explores the complexities of desire, betrayal, and the consequences of following one's heart. \n\nThe man, a successful businessman, finds himself drawn to the mysterious and alluring woman, despite being committed to his wife. Their forbidden romance ignites a fiery passion that threatens to unravel their lives and the lives of those around them. As their relationship intensifies, they must navigate the dangerous waters of infidelity and deception, risking everything for a love that may not be meant to last. \n\nAgainst the backdrop of the seductive tango dance, the characters are entangled in a web of emotions and secrets that ultimately lead to a dramatic and heartbreaking conclusion. \"Tango\" is a story of love, lust, and the consequences of following one's desires, showcasing the power of passion and its ability to both liberate and destroy."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "6d8481f5b2978e83569dfeae6fea9b4e",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 218.0 words or less.\n\n---\n\n**Title:**\n\nTango\n\n**Year:**\n\n1998",
+    "include_year": false
+}

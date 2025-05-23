@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Me and Orson Welles",
+    "descriptions": [
+        " In \"Me and Orson Welles,\" a 2009 historical drama film directed by Richard Linklater, a young and ambitious actor named Richard Samuels (Zac Efron) stumbles upon the opportunity of a lifetime. Set in 1937 New York City, the story unfolds as Richard encounters the charismatic and enigmatic Orson Welles (Christian McKay), who is in the midst of directing a groundbreaking production of Shakespeare's \"Julius Caesar\" at his Mercury Theatre.\n\nDesperate to prove his worth as an actor, Richard manages to secure a minor role in the play and becomes immersed in the world of the Mercury Theatre. As rehearsals progress, Richard finds himself captivated by the commanding presence of Welles and the talented cast and crew, particularly the enchanting Sonja Jones (Claire Danes), who works as Welles' assistant.\n\nHowever, Richard soon discovers that life in the theater is not as glamorous as it seems. He witnesses the tumultuous relationships, the artistic compromises, and the ruthless ambition that drive the production. Moreover, he becomes increasingly aware of Welles' manipulative and temperamental nature, which threatens to derail both the play and Richard's burgeoning acting career.\n\nAs opening night approaches, Richard must navigate the treacherous waters of the theater world while attempting to maintain his integrity and prove his talent. Ultimately, \"Me and Orson Welles\" is a captivating exploration of the allure and peril of artistic ambition, as well as the complex and often combustible relationship between mentors and protégés."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 267.0 words or less.\n\n---\n\n**Title:**\n\nMe and Orson Welles\n\n**Year:**\n\n2009",
+    "include_year": false
+}

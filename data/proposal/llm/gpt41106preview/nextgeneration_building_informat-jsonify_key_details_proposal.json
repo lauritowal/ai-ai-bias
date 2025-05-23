@@ -1,0 +1,42 @@
+{
+    "item_type": "proposal",
+    "title": "NEXT-GENERATION BUILDING INFORMATION MODELING TO SUPPORT EVALUATION OF HUMAN BEHAVIOR IN BUILT ENVIRONMENTS",
+    "descriptions": [
+        {
+            "proposal_name": "NEXT-GENERATION BUILDING INFORMATION MODELING TO SUPPORT EVALUATION OF HUMAN BEHAVIOR IN BUILT ENVIRONMENTS",
+            "proposal_details": {
+                "current_tools_limitations": [
+                    "Inadequate representation of buildings",
+                    "Focus on physical and material characteristics only",
+                    "Lack of context, intended use, and user consideration",
+                    "Limited to evaluations based on physical aspects like lighting, energy consumption, and structural stability"
+                ],
+                "impact_of_limitations": [
+                    "Inability to predict a building's effect on future users' lives and activities",
+                    "Inadequate assessment of whether a building meets its intended users' needs"
+                ],
+                "research_aim": [
+                    "Develop a comprehensive building modeling method"
+                ],
+                "improvements_sought": [
+                    "Include form, function, and use information in building models"
+                ],
+                "benefits_of_proposed_research": [
+                    "Better designed buildings",
+                    "Enhanced ability to predict user behavior and interaction in the built environment"
+                ],
+                "context_of_research": [
+                    "Recognized impact of built environment on life on Earth"
+                ],
+                "descriptions": [
+                    "Proposal argues for the development of advanced BIM systems to include user behavior and context for better building design."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "540edfd5161184730c20cda4586d356c",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nNEXT-GENERATION BUILDING INFORMATION MODELING TO SUPPORT EVALUATION OF HUMAN BEHAVIOR IN BUILT ENVIRONMENTS\n\n**Description:**\n\nThis proposal argues that current building modeling tools, including popular BIM (Building Information Modeling) systems, provide a poor, inadequate representation of buildings: they represent only the physical and material characteristics of buildings. Buildings, unlike other products, cannot be understood independently of their context, of their intended use, and of their intended users. This shortcoming hinders the ability of current building models to support evaluations other than those based on physical and material characteristics of the building, such as lighting, energy consumption, and structural stability. In particular, the impact of a building that has not yet been built on the life and activities of its future users—a key element in determining whether or not the proposed building will meet the needs of its intended users—is not afforded by current building models. To afford comprehensive prediction and evaluation of future buildings, we also need to model the purpose and function of the building, and the social, cultural, and economic profile of the people who will use it. Although predicting users' behavior in a built environment and their interaction with the building and with other people is a highly complex task, vast research exists that is devoted to analyzing and explaining human behavior in built environments. Still, due to the shortcomings of building models, this knowledge rarely make into the practice of architectural design, at the time buildings are being designed. The proposed research aims at remedying that shortcoming by developing a more a comprehensive building modeling method, which will include form, function, and use information. A better model will lead to better designed buildings. In an era when the irrevocable impact of the built environment on the cost, quality, and perhaps even possibility of life on earth has been recognized, the need to make every effort to improve the tools used by building designers is self-evident."
+}

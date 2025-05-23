@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pee-wee's Big Adventure",
+    "descriptions": [
+        "In \"Pee-wee's Big Adventure\" (1985), the eccentric man-child Pee-wee Herman embarks on a cross-country quest to find his beloved stolen bicycle. The film follows Pee-wee as he travels from his hometown of Fairville to various locations, encountering a colorful cast of characters along the way.\n\nPee-wee's journey takes him to a variety of quirky settings, from a biker bar to a dinosaur-themed amusement park. Throughout the film, Pee-wee's childlike innocence and enthusiasm lead to hilarious and improbable situations, such as a run-in with a ghostly truck driver and an impromptu performance at a biker rally.\n\nAs Pee-wee gets closer to finding his bike, he discovers that it has been taken to the Warner Bros. Studios in Hollywood. Determined to retrieve it, he sneaks onto the lot and embarks on a madcap chase through the studio backlots, culminating in a dramatic showdown on a movie set.\n\nIn the end, Pee-wee is reunited with his cherished bicycle and returns home to Fairville, where he is hailed as a hero by his friends and neighbors. The film concludes with Pee-wee riding off into the sunset, content in the knowledge that he has triumphed over adversity and proven that anything is possible with determination and a positive attitude.\n\n\"Pee-wee's Big Adventure\" is a whimsical and heartwarming comedy that celebrates the power of friendship, perseverance, and the joy of embracing one's inner child. With its offbeat humor, memorable characters, and iconic catchphrases, the film has become a cult classic beloved by audiences of all ages."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "8de0df0d2774bed4f55358faaa2c5fa6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 499.0 words or less.\n\n---\n\n**Title:**\n\nPee-wee's Big Adventure\n\n**Year:**\n\n1985",
+    "include_year": false
+}

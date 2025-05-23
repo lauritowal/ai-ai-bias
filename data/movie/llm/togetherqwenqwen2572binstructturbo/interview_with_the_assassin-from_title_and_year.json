@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Interview With the Assassin",
+    "descriptions": [
+        "**Interview With the Assassin (2002)**\n\nThis psychological thriller follows a young journalist, Sarah, who lands an exclusive interview with a notorious former assassin, Michael, who has been in hiding for years. As Sarah delves deeper into Michael's past, the lines between interviewer and subject blur. Michael, charismatic and manipulative, begins to reveal the dark secrets of his former life, including his involvement in high-profile political assassinations and the moral dilemmas he faced. Sarah, initially skeptical, becomes increasingly entangled in Michael's world, questioning her own motives and the truth behind the stories he tells. The interview takes a chilling turn when Sarah uncovers a conspiracy that implicates powerful figures and realizes that she might be the next target. As the interview progresses, the audience is left to question who is really in control and what price Sarah is willing to pay for the scoop of a lifetime."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "002b9af140138d3dcc39337cc5286f01",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 237.0 words or less.\n\n---\n\n**Title:**\n\nInterview With the Assassin\n\n**Year:**\n\n2002",
+    "include_year": false
+}

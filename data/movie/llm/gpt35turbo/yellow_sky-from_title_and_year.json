@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Yellow Sky",
+    "descriptions": [
+        "In the 1948 film \"Yellow Sky,\" a group of outlaws led by James \"Stretch\" Dawson (played by Gregory Peck) find themselves in a small desert town called Yellow Sky. They are on the run from the law after robbing a bank and are in desperate need of water and supplies. Upon arriving in Yellow Sky, they discover that the town is practically deserted due to a gold rush that has drawn all the townspeople away.\n\nAs the outlaws begin to explore the town, they come across an old prospector named Grandpa (played by James Barton) who has been living in Yellow Sky for years. Grandpa tells them that there is gold in the nearby hills, but the outlaws are skeptical and decide to stay in town to rest and stock up on supplies. \n\nWhile in Yellow Sky, Stretch meets a young woman named Mike (played by Anne Baxter) who is the only person left in town. Mike is tough and independent, having survived on her own ever since her father died. Despite their initial distrust of each other, Stretch and Mike develop a mutual attraction that complicates their already precarious situation.\n\nAs tensions rise among the outlaws and with the town's dwindling resources, Stretch is forced to make a decision between pursuing the gold in the hills or protecting the newfound relationship he has with Mike. The group's loyalty is tested as they face off against each other and the harsh desert environment that threatens their survival.\n\nIn the end, Stretch must confront his own demons and decide whether his loyalty lies with his fellow outlaws or with the woman who has captured his heart. \"Yellow Sky\" is a classic Western film that explores themes of redemption, greed, and the power of love in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "7f25b68064ee0fc036e936a24856221c",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 412.0 words or less.\n\n---\n\n**Title:**\n\nYellow Sky\n\n**Year:**\n\n1948",
+    "include_year": false
+}

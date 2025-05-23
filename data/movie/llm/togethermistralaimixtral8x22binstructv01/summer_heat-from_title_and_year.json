@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Summer Heat",
+    "descriptions": [
+        " In the summer of 2008, the small town of Harmony Springs is turned upside down by the arrival of a mysterious stranger in the movie \"Summer Heat.\" Jamie, a young woman with a troubled past, arrives in town looking for a fresh start. She quickly catches the eye of the town's golden boy, Jake, who is immediately smitten with her.\n\nDespite their differences, Jamie and Jake begin a passionate summer romance. However, their relationship is not without its challenges. Jake's wealthy and controlling father disapproves of Jamie and does everything in his power to keep them apart. Meanwhile, Jamie's dark past continues to haunt her, threatening to destroy everything she has built in Harmony Springs.\n\nAs the summer heats up, tensions rise between Jamie and Jake's father, leading to a dramatic confrontation. In the midst of all this, Jamie's past catches up with her, forcing her to make a difficult decision. She must choose between running away again or staying in Harmony Springs and facing her demons head-on.\n\nWith the help of Jake and the supportive community of Harmony Springs, Jamie finds the strength to confront her past and start anew. Together, they stand up to Jake's father and fight for their love. In the end, Jamie and Jake emerge victorious, their love stronger than ever before.\n\n\"Summer Heat\" is a heartwarming tale of love, redemption, and the power of community. The movie explores the complexities of small-town life and the struggles that come with starting over. With its captivating storyline and dynamic characters, \"Summer Heat\" is a must-see for fans of romantic dramas. The film's stunning cinematography and beautiful soundtrack only add to its allure, making it a standout movie of 2008."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "76c9674bf3f7e006ed0fed3b5b7bf780",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 360.0 words or less.\n\n---\n\n**Title:**\n\nSummer Heat\n\n**Year:**\n\n2008",
+    "include_year": false
+}

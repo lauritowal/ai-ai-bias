@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Hill",
+    "descriptions": [
+        "The Hill is a 1965 British drama film that takes place in a fictional British Army prison camp. The story revolves around the character of Joe Roberts, a British Army sergeant played by Sean Connery, who is serving time for manslaughter. Roberts is a tough and hardened soldier who has been sentenced to seven years in prison for killing a fellow soldier in a fight.\n\nThe prison camp is run by the strict and unforgiving Sergeant-Major Wilson, played by Ian B. Anne, who uses harsh discipline and corporal punishment to maintain order among the prisoners. Despite his tough exterior, Roberts forms a bond with a fellow prisoner, Billy Roberts, a young and vulnerable soldier who is struggling to cope with the harsh realities of prison life.\n\nAs the story unfolds, Roberts becomes a leader among the prisoners, using his charisma and influence to protect them from the harsh treatment of the prison guards. He also forms a close relationship with Billy, who becomes a surrogate son to him. Meanwhile, Roberts' own character is slowly revealed, showing a deeper vulnerability and humanity beneath his tough exterior.\n\nThe film explores themes of masculinity, loyalty, and the psychological effects of punishment on prisoners. It also critiques the British Army's treatment of soldiers and the use of corporal punishment in prison camps. Through its powerful performances and thought-provoking themes, The Hill is a gripping and emotionally charged drama that explores the complexities of human nature in one of the most unlikely of settings."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "7e80f012a3e6d943a0b037234a342233",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 397.0 words or less.\n\n---\n\n**Title:**\n\nThe Hill\n\n**Year:**\n\n1965",
+    "include_year": false
+}

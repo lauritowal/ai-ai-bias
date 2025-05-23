@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Wing and a Prayer",
+    "descriptions": [
+        "\"Wing and a Prayer\" is a 1944 American war film directed by Henry Hathaway, starring Don Ameche and Dana Andrews. The movie is based on the real-life experiences of US Navy Lieutenant Commander Edward \"Butch\" O'Hare, a Medal of Honor recipient and an early US ace in World War II.\n\nThe story revolves around Lieutenant Commander Bingo Harper (Don Ameche), a seasoned naval aviator who commands an aircraft carrier-based squadron of F4F Wildcat fighter planes. Harper is a by-the-book commander who is initially at odds with his new executive officer, Lieutenant Commander Al Luther (Dana Andrews), a former instructor at the US Naval Academy.\n\nAs the war in the Pacific intensifies, Harper's squadron is tasked with providing air support for the US invasion of the Marshall Islands. However, the squadron's tactics and strategies are put to the test when they encounter a large Japanese air attack.\n\nHarper's strict adherence to regulations and Luther's unorthodox approach to combat flying lead to tension between the two officers. However, as the battle rages on, Luther's instincts and Harper's experience prove to be a winning combination, and the squadron successfully defends the fleet against the Japanese attack.\n\nThrough their shared experiences, Harper and Luther develop a deep respect for each other, and their differences are eventually set aside. The movie ends on a triumphant note, with the squadron emerging victorious and Harper and Luther having forged a lasting bond.\n\n\"Wing and a Prayer\" is a classic war film that combines action, drama, and camaraderie, highlighting the bravery and sacrifices of the men who fought in the US Navy during World War II. The movie's title, \"Wing and a Prayer,\" refers to the hopes and fears of the pilots as they take to the skies, relying on their skills, their aircraft, and a little bit of luck to make it back alive."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "9412756760b66483092bdd4129e65259",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 532.0 words or less.\n\n---\n\n**Title:**\n\nWing and a Prayer\n\n**Year:**\n\n1944",
+    "include_year": false
+}

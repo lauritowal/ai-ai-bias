@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Small Town Story",
+    "descriptions": [
+        "\"Small Town Story\" is a heartwarming tale set in the idyllic small town of Willow Creek in 1953. The story follows the lives of several residents whose lives become intertwined in unexpected ways.\n\nThe film centers around Sarah, a young woman who returns to her hometown after pursuing her dreams in the city. She reconnects with her childhood friend Jack, who has always harbored feelings for her. Despite their obvious chemistry, Sarah is hesitant to get involved with Jack, fearing that a relationship would hold her back from her ambitions.\n\nMeanwhile, the town is abuzz with excitement as preparations are underway for the annual Willow Creek Festival. Sarah's father, the mayor of the town, is overseeing the planning, while her mother is busy organizing the bake-off competition. Sarah's sister, Emily, is also heavily involved in the festival, helping to coordinate the talent show.\n\nAs the festival draws nearer, tensions rise in the town as rivalries and conflicts come to the surface. Sarah finds herself caught in the middle of it all, trying to navigate her relationships with Jack, her family, and the townspeople.\n\nThrough a series of heartwarming and humorous events, Sarah slowly begins to realize the true meaning of home and the importance of family and community. She learns that sometimes the biggest adventures can be found in the smallest of towns.\n\nAs the festival finally arrives, Sarah must make a decision about her future and whether she is willing to give up her dreams for a chance at love and a life in Willow Creek. In a climactic moment, Sarah takes the stage at the talent show and delivers a heartfelt performance that captures the spirit of the town and its people.\n\nIn the end, \"Small Town Story\" is a charming tale of love, friendship, and the beauty of small-town life. It reminds us that sometimes the things we are searching for are right in front of us, waiting to be discovered."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "64717fa2414cd2ae1f91dc1ba7532160",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 419.0 words or less.\n\n---\n\n**Title:**\n\nSmall Town Story\n\n**Year:**\n\n1953",
+    "include_year": false
+}

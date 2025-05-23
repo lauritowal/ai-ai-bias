@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mad Hot Ballroom",
+    "descriptions": [
+        "'Mad Hot Ballroom' is a 2005 documentary film, directed by Marilyn Agrelo. The film follows a group of fifth-grade students from PS 112 in Manhattan as they learn to dance in the school's ballroom dance program. \n\nThe students, from diverse ethnic backgrounds, have varying levels of dance experience. Under the guidance of their instructor, Miss Fran, and later, the renowned dance instructor, Pierre Dulaine, they learn to dance in various styles, including waltz, tango, and rumba.\n\nThroughout the film, the students' dance skills and confidence grow as they participate in a city-wide dance competition. Along the way, the students learn valuable life lessons about teamwork, perseverance, and self-expression.\n\nThe film beautifully captures the transformative power of dance and the impact it has on the students' lives. It not only showcases their progress as dancers but also highlights the importance of dance as a means of self-expression and cultural exchange.\n\nThe documentary features a mix of humor, heart, and music, making it an engaging watch for audiences. 'Mad Hot Ballroom' is a heartwarming and entertaining film that celebrates the joy of dance and the power of mentorship."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "e0a0ed68c8446d78c2e0e77da68d07e8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 258.0 words or less.\n\n---\n\n**Title:**\n\nMad Hot Ballroom\n\n**Year:**\n\n2005",
+    "include_year": false
+}

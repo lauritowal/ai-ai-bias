@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Infidel",
+    "descriptions": [
+        "The Infidel is a 2010 British satirical comedy film directed by Josh Appignanesi. The movie revolves around the life of Mahmud Nasir (played by Omid Djalili), a British-Pakistani Muslim taxi driver who lives in London with his wife, Saamiya (played by Archie Panjabi), and their two children.\n\nMahmud is a devoted Muslim who often finds himself in humorous and awkward situations due to his adherence to Islamic traditions. However, his life takes a dramatic turn when he discovers that he was adopted as a child and his biological parents were Jewish. This revelation sparks a crisis of identity within Mahmud, forcing him to reevaluate his faith and his place in the world.\n\nAs Mahmud tries to navigate his newfound Jewish heritage, he begins to learn about the customs and traditions of Judaism, leading to comedic misunderstandings and cultural clashes. Despite the challenges, Mahmud's newfound connection to Judaism also allows him to forge an unexpected friendship with Lenny (played by Richard Schiff), a Jewish-American man who teaches him about the basics of Jewish culture.\n\nThroughout the film, Mahmud struggles to reconcile his dual identities and maintain his relationships with his family and friends. The Infidel tackles themes of identity, faith, and cultural heritage with humor and sensitivity, ultimately offering a heartwarming and thought-provoking exploration of the complexities of multiculturalism."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "45b44cfb569a67a384c329182a30bf21",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 717.0 words or less.\n\n---\n\n**Title:**\n\nThe Infidel\n\n**Year:**\n\n2010",
+    "include_year": false
+}

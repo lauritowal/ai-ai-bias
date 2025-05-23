@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Marked Woman",
+    "descriptions": [
+        "\"Marked Woman\" is a 1937 American drama film directed by Lloyd Bacon and starring Bette Davis and Humphrey Bogart. The film is loosely based on the true story of Mary Dew, a woman who testified against the notorious gangster Lucky Luciano.\n\nThe movie follows Mary Dwight (Bette Davis), a nightclub hostess who becomes embroiled in the underworld of organized crime when her sister is killed by a gangster. Mary is forced to testify against the crime lord, Johnny Vanning (Eduardo Ciannelli), who is based on Lucky Luciano. As Mary's testimony becomes more crucial to the prosecution, she finds herself in increasing danger.\n\nDavid Graham (Humphrey Bogart), a crusading prosecutor, is determined to bring Vanning to justice and must protect Mary from the gangster's henchmen. The film is a tense drama that explores the world of organized crime and the courage of a woman who dares to defy it. With its strong performances and gripping storyline, \"Marked Woman\" is considered a classic of the era."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "055a1d7c3bd762b867f5f764a86dab9a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nMarked Woman\n\n**Year:**\n\n1937",
+    "include_year": false
+}

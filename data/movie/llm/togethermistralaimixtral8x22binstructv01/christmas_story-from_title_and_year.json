@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Christmas Story",
+    "descriptions": [
+        " In the 2007 film \"Christmas Story,\" viewers are transported to the enchanting, snow-covered landscape of Finland. The story unfolds around a young boy named Nikolas, who embarks on an extraordinary journey after a tragic incident leaves him orphaned.\n\nNikolas is taken in by a group of elves who reside in a remote village, where they craft toys for children. With each passing year, he grows into a kind and generous man, embracing the elves' tradition of gift-giving. As he matures, Nikolas becomes determined to spread joy and happiness to children across the world, ultimately leading to the creation of the Santa Claus legend.\n\nHowever, the path to becoming the iconic figure is fraught with challenges. Nikolas must navigate through the harsh realities of the human world, face skepticism, and overcome adversity. Despite these obstacles, his unwavering resolve and the support of his elf friends help him bring light and magic to the lives of countless children, forever etching the spirit of Christmas in their hearts.\n\nThis heartwarming tale explores the origins of Santa Claus, weaving a captivating narrative of love, hope, and the power of giving. The 2007 \"Christmas Story\" is a timeless reminder of the true meaning of the holiday season."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "066626c149517f8e3bbaa8d94c7bbbb7",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 210.0 words or less.\n\n---\n\n**Title:**\n\nChristmas Story\n\n**Year:**\n\n2007",
+    "include_year": false
+}

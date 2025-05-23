@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Snoopy!!! The Musical",
+    "descriptions": [
+        "1988\n\n**Plot Summary:**\n\n\"Snoopy!!! The Musical\" is an animated adaptation of the musical of the same name, based on the beloved \"Peanuts\" comic strip by Charles M. Schulz. This delightful musical follows the adventures and musings of the lovable beagle, Snoopy, and his interactions with his owner Charlie Brown and the rest of the Peanuts gang, including Lucy, Linus, Sally, Schroeder, and Peppermint Patty.\n\nThe film opens with the Peanuts characters expressing their various concerns and dreams, setting the stage for a series of vignettes that highlight Snoopy's imaginative and playful world. Snoopy contemplates his place in life with the song \"Snoopy's Song,\" questioning what it means to be a dog and pondering his relationship with Charlie Brown.\n\nThroughout the movie, the children face their own personal challenges and look to Snoopy for guidance and support. Charlie Brown deals with his perpetual bad luck and insecurities, Lucy grapples with her bossiness, Linus remains attached to his security blanket, and Sally struggles with unrequited love for Linus. Meanwhile, Schroeder is immersed in his passion for Beethoven's music, and Peppermint Patty tries to navigate the complexities of school and sports.\n\nSnoopy, with his rich imagination, embarks on various escapades, from chasing the Red Baron as a World War I flying ace to throwing a wild party at his doghouse. Each adventure is captured through song and dance, revealing Snoopy's inner thoughts and fantasies.\n\nThe musical numbers are interwoven with humor and heartwarming moments, showcasing the strong bonds between Snoopy and the Peanuts gang. As the story progresses, the characters learn valuable life lessons about friendship, perseverance, and self-discovery.\n\n\"Snoopy!!! The Musical\" concludes with the characters coming together in celebration of their unique qualities and the joy they find in each other's company. The film leaves audiences with a sense of nostalgia and an appreciation for the simple pleasures in life, all through the whimsical perspective of Snoopy and his friends."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "111da4ab527ddc5d68d8dcfa86111dc8",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 301.0 words or less.\n\n---\n\n**Title:**\n\nSnoopy!!! The Musical\n\n**Year:**\n\n",
+    "include_year": false
+}

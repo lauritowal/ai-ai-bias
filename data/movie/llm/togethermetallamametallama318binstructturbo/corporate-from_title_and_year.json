@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Corporate",
+    "descriptions": [
+        "\"Corporate\" is a 2006 American satirical comedy film written and directed by Craig Brewer. The film takes place in the fictional town of Gulfhaven, Texas, and revolves around a group of middle-class office workers who resort to crime to gain financial security and social status.\n\nThe story follows a group of corporate employees, including Josh Walker (Matt Burns), a hotshot salesman, and Mark Rubin (Mark Webber), a struggling office worker. Josh lands a high-paying job at a local oil company, but soon finds himself at the center of a corrupt scheme involving company executives and local politicians.\n\nAs Josh becomes more entrenched in the corrupt world, he begins to question his values and the true nature of his success. Meanwhile, Mark becomes increasingly disillusioned with his own lack of success and the societal pressures that have led him to feel like a failure.\n\nThe film explores themes of corporate greed, social status, and the American Dream. It critiques the excesses of the corporate world and the ways in which people will go to great lengths to achieve success and status.\n\nThrough a series of escalating events, Josh and Mark find themselves caught up in a complex web of deceit and corruption. As they navigate this treacherous landscape, they must confront their own moral ambiguities and the consequences of their actions.\n\nUltimately, \"Corporate\" is a dark comedy that uses satire to critique the excesses of modern corporate culture. The film features a talented young cast, including Matt Burns and Mark Webber, and offers a sharp commentary on the ways in which societal pressures can drive people to make questionable choices."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "39e1085821db9c600d1615eb3aa621c2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 524.0 words or less.\n\n---\n\n**Title:**\n\nCorporate\n\n**Year:**\n\n2006",
+    "include_year": false
+}

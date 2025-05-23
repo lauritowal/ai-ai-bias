@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Mad Magician",
+    "descriptions": [
+        "The Mad Magician is a 1954 American 3D horror film. The movie revolves around Don Gallico, a stage magician who seeks revenge after his former employer, Ormond, steals his illusion, 'The Lady and the Buzzsaw'. \n\nGallico is driven by a desire for revenge and creates a new illusion, 'The Burning Curtain', which also gets stolen by Ormond. Feeling betrayed and seeking justice, Gallico kills Ormond and disguises the murder as a magic trick gone wrong.\n\nHowever, a detective starts investigating the death, and Gallico continues to eliminate anyone who gets close to uncovering his secret. As the body count rises, Gallico becomes increasingly unhinged, and the line between reality and illusion begins to blur.\n\nThe film stars Vincent Price as Don Gallico, and it features a mix of horror and mystery elements. The movie's use of 3D technology adds to the suspense and tension, making it a classic horror film from the 1950s."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "40819b90febcbfa30a2135d948e5c092",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 257.0 words or less.\n\n---\n\n**Title:**\n\nThe Mad Magician\n\n**Year:**\n\n1954",
+    "include_year": false
+}

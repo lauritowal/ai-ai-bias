@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "White Wedding",
+    "descriptions": [
+        "In 1989's \"White Wedding,\" the story follows a young couple, Rebecca and John, who are set to tie the knot. However, their wedding plans are thrown into chaos when John's best friend, who is also his best man, goes missing on the eve of the wedding. Determined to find his friend and make it to the altar on time, John embarks on a hilarious and adventurous journey across South Africa.\n\nAs John travels from Cape Town to Johannesburg, he encounters a series of mishaps and obstacles that threaten to derail his wedding day. Along the way, he is joined by an eclectic group of characters who help him navigate the challenges he faces. From car breakdowns to run-ins with the law, John must overcome it all to reach his destination.\n\nMeanwhile, Rebecca waits anxiously for John to arrive, unsure if he will make it in time. As the clock ticks down, both John and Rebecca must confront their doubts and fears about their relationship, ultimately realizing the true meaning of love and commitment.\n\n\"White Wedding\" is a heartwarming and comedic journey of love, friendship, and the power of perseverance in the face of adversity."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "73007e000a4ba5fce2c777252f0a7cf4",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 226.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Flashbacks of a Fool",
+    "descriptions": [
+        "\"Flashbacks of a Fool\" is a 2008 British drama film directed by Baillie Walsh and starring Daniel Craig. The movie tells the story of Joe Scott, a washed-up Hollywood actor who has fallen from grace, living a life of excess and loneliness. As Joe struggles to find meaning in his superficial world, he receives news that his childhood best friend has died.\n\nThe story unfolds as Joe, hit hard by the news, begins to reminisce about his past, leading to a series of flashbacks that reveal the formative experiences of his youth in a small English coastal town during the 1970s. The film takes us through Joe's memories, focusing on key moments that shaped his early ambitions, his relationships, and his eventual path to becoming an actor.\n\nJoe remembers his close friendship with Boots, the friend who has passed away, and the bond they shared during their formative years. We see the young Joe navigating the complexities of adolescence, experiencing his first love with a girl named Ruth, and grappling with the pain of her betrayal when she becomes involved with his older friend.\n\nThe film also explores the theme of escape, as the young Joe dreams of leaving his mundane life behind for the glamour and excitement of Hollywood. However, the flashbacks also hint at the cost of such dreams, revealing the moments of innocence lost and the personal sacrifices made in pursuit of fame.\n\nAs Joe's journey into the past unfolds, he begins to confront the mistakes and regrets that have haunted him throughout his adult life. The flashbacks help Joe understand the consequences of his actions and the shallow nature of the life he has been living. This introspection provides a catalyst for Joe's redemption, as he starts to reconcile with his past and seeks to make amends for his past behavior.\n\n\"Flashbacks of a Fool\" is a poignant tale of a man facing the truth of his past and finding a way to move forward. The film is a reflective exploration of how our early experiences shape us, the enduring nature of friendship, and the possibility of change even after a life seemingly set in its ways."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e230d609398ed8bc6a7f2017518e3533",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 786.0 words or less.\n\n---\n\n**Title:**\n\nFlashbacks of a Fool\n\n**Year:**\n\n2008",
+    "include_year": false
+}

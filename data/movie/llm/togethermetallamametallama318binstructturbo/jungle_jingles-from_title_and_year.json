@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Jungle Jingles",
+    "descriptions": [
+        "Unfortunately, I couldn't find any information on a 1929 movie titled \"Jungle Jingles\". It's possible that the movie is a lost film or not well-known.\n\nHowever, I can suggest some alternatives:\n\n1. If you have more information about the movie, such as the director or the cast, I may be able to help you find a plot summary.\n2. If you're interested in learning about movies from the 1920s, I can provide you with a general overview of the film industry during that time period.\n\nAlternatively, I can generate a fictional plot summary for a movie titled \"Jungle Jingles\" set in 1929. Keep in mind that this would be purely imaginary and not based on actual information.\n\nHere's a fictional plot summary:\n\n\"Jungle Jingles\" is a 1929 silent film comedy directed by Frank Mason. The movie takes place in the jungles of South America, where a group of American adventurers, led by the charismatic explorer Jack Taylor (played by a young actor named Basil Grant), embark on a perilous journey to find the legendary \"Golden Chimes\".\n\nAs they navigate through the treacherous jungle terrain, the group encounters a series of wacky misadventures, including encounters with wild animals, treacherous terrain, and a cast of colorful local characters. Along the way, Jack Taylor falls for a beautiful local woman named Maria (played by actress Lola LaRue), who helps him navigate the jungle and overcome the obstacles in their path.\n\nAs the group draws closer to their goal, they must confront their greatest challenge yet: a rival expedition led by the villainous Captain Blackbeak (played by actor Victor Vex). Will Jack Taylor and his team be able to find the Golden Chimes and escape the jungle with their lives?\n\n\"Jungle Jingles\" is a fun and exciting adventure film that showcases the talents of its cast and crew."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "6b523bab4b0eee0b84d085b744b8440d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nJungle Jingles\n\n**Year:**\n\n1929",
+    "include_year": false
+}

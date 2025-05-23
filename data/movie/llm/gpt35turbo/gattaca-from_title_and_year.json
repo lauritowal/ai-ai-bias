@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Gattaca",
+    "descriptions": [
+        "In a future society where genetic engineering has become the norm, a man named Vincent Freeman is born naturally, meaning he is considered inferior to those who have been genetically modified to be stronger, smarter, and healthier. Despite his genetic disadvantages, Vincent dreams of becoming an astronaut and traveling to space. \n\nTo achieve his dream, Vincent assumes the identity of Jerome Morrow, a genetically superior man who was paralyzed in an accident. With the help of Jerome's DNA, blood, and urine samples, Vincent is able to pass the genetic screening tests required to work at Gattaca, a prestigious aerospace corporation. \n\nVincent excels at his new job, impressing his colleagues and superiors with his intelligence and drive. However, his secret is put in jeopardy when the mission director is murdered, and a drop of Vincent's real blood is found at the crime scene. \n\nAs Vincent races to cover his tracks and avoid detection, he forms a close bond with his coworker Irene, who suspects his true identity but chooses to keep his secret. Together, they navigate the challenges of living in a society where genetic perfection is valued above all else. \n\nAs Vincent prepares for his first space mission, he must confront the reality that his dream may never be fully realized due to his genetic makeup. However, he refuses to let his past define him and decides to take a chance on his own abilities and determination. \n\nIn the end, Vincent successfully launches into space, proving that it is not one's genetic makeup but rather their perseverance and courage that ultimately determine their success. Gattaca serves as a powerful reminder that the human spirit is capable of overcoming any obstacle, no matter the odds stacked against it."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "6053717546631ece274d73f71439a06b",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 948.0 words or less.\n\n---\n\n**Title:**\n\nGattaca\n\n**Year:**\n\n1997",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Murder, He Says",
+    "descriptions": [
+        "In the 1945 film \"Murder, He Says,\" the story follows a hapless pollster named Pete Marshall who finds himself in a series of misadventures when he goes in search of a missing coworker. As Pete delves deeper into the mystery, he discovers a family of eccentric and murderous hillbillies known as the Fleagle family.\n\nThe Fleagles are a dangerous and dysfunctional group who are willing to do anything to keep their secrets hidden. Pete soon realizes that his coworker has met an untimely end at the hands of the Fleagles, but he must navigate the treacherous family dynamics to uncover the truth.\n\nAs Pete tries to gather information, he is met with hostility, deception, and danger at every turn. The Fleagles are determined to protect their dark secrets, and Pete must use all of his wit and resourcefulness to stay one step ahead of them.\n\nThroughout his investigation, Pete encounters a cast of quirky characters, including the beautiful and mysterious Claire Matthews, who may hold the key to unlocking the truth behind the Fleagle family's sinister activities. With the help of Claire and a few unlikely allies, Pete races against time to solve the mystery before he becomes the next victim of the Fleagles.\n\nAs the tension escalates, Pete finds himself embroiled in a deadly game of cat and mouse with the ruthless family. In a thrilling climax, Pete uncovers the shocking truth behind the murder and brings the perpetrators to justice.\n\n\"Murder, He Says\" is a suspenseful and darkly comedic film that combines elements of mystery, thriller, and black comedy. With its fast-paced plot, eccentric characters, and unexpected twists, the movie keeps viewers on the edge of their seats until the very end."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "ad53995dcf23d3b943187cce5f22a45a",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 350.0 words or less.\n\n---\n\n**Title:**\n\nMurder, He Says\n\n**Year:**\n\n1945",
+    "include_year": false
+}

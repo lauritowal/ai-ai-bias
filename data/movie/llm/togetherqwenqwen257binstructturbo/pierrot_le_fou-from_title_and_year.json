@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pierrot le fou",
+    "descriptions": [
+        "\"Pierrot le Fou\" (1965) is a surrealist film directed by Jean-Luc Godard. The story follows Ferdinand, a former boxer disillusioned with his life, who teams up with Marianne, a mysterious woman he meets in a hospital. Together, they embark on a wild and chaotic journey through France, evading the law and indulging in hedonistic acts. Their trip takes them from a luxurious chateau to a seedy circus, where they encounter a variety of eccentric characters. The film explores themes of love, freedom, and the absurdity of modern life, culminating in a dramatic and surreal climax that questions the nature of their relationship and their individual fates."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-7B-Instruct-Turbo",
+    "generation_prompt_uid": "cf41356f93713cb5788cb0c31df63cad",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 297.0 words or less.\n\n---\n\n**Title:**\n\nPierrot le fou\n\n**Year:**\n\n1965",
+    "include_year": false
+}

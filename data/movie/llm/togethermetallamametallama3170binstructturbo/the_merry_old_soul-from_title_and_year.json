@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Merry Old Soul",
+    "descriptions": [
+        "'The Merry Old Soul' is a 1933 American comedy film starring El Brendel. The movie revolves around a bumbling but lovable Scandinavian immigrant, Ole Olsen, played by El Brendel. Ole is a well-meaning but hapless character who often gets himself into trouble due to his good nature and naivety.\n\nOle lands a job at a large department store in the United States and immediately becomes the target of various pranks and jokes from his coworkers. Despite this, Ole perseveres and manages to win over his colleagues with his kindness and honesty.\n\nAs Ole navigates his new life in America, he becomes embroiled in a series of wacky misadventures, often caused by his own ineptitude. However, his innocence and good intentions ultimately help him to overcome these challenges and find success in his new home.\n\n'The Merry Old Soul' is a lighthearted, humorous film that showcases El Brendel's signature blend of physical comedy and Scandinavian charm. The movie provides a nostalgic look at the immigrant experience in 1930s America and offers a heartwarming portrayal of Ole's journey as he navigates his new life in the United States."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "a8243cc5afd5a2cdfaffd22052e03653",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 299.0 words or less.\n\n---\n\n**Title:**\n\nThe Merry Old Soul\n\n**Year:**\n\n1933",
+    "include_year": false
+}

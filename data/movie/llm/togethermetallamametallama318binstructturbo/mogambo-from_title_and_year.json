@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Mogambo",
+    "descriptions": [
+        "'Mogambo' is a classic romantic adventure film released in 1953. Directed by John Ford, the movie is an Americanized remake of the 1936 film 'Red Dust,' also based on the 1926 play 'Red Dust' by Wilson Collison.\n\nThe story revolves around Victor Marswell (played by Clark Gable), a big game hunter in British East Africa (now Kenya). Marswell's life changes when he encounters Victoria (played by Ava Gardner), a seductive and manipulative nightclub singer, and Eloise (played by Grace Kelly), an innocent and charming young woman.\n\nAs the story unfolds, Marswell finds himself entangled in a complicated love triangle. Victoria, who is part of a group of people living in the African jungle, tries to seduce Marswell, but he rejects her due to her manipulative nature. Meanwhile, Marswell falls for Eloise, and they begin to develop a romantic connection.\n\nHowever, their relationship is put to the test when Victoria's brother, Donald (played by Donald Sutherland) is not in the film, however,  the character of Donald runs the local game lodge and is also in love with Victoria. The character of Donald was in the 1936 film 'Red Dust'. \n\nIn the end, Marswell and Eloise are forced to confess their love for each other, and they ultimately decide to be together. The film 'Mogambo' is a classic tale of love, adventure, and the complexities of human relationships, set against the stunning backdrop of the African jungle."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "a5b4e9db3669d3a0cad74fef5cad2741",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 342.0 words or less.\n\n---\n\n**Title:**\n\nMogambo\n\n**Year:**\n\n1953",
+    "include_year": false
+}

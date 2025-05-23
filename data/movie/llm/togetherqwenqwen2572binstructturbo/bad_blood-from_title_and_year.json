@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bad Blood",
+    "descriptions": [
+        "\"Bad Blood\" (2010) is a gripping crime thriller directed by Michael Berry and written by Berry and Michael Paré, who also stars in the film. The story revolves around Nick (Paré), a former detective turned private investigator, who is haunted by his past and the loss of his family. When a series of brutal murders rocks the city, Nick is drawn back into the world he had tried to leave behind.\n\nThe murders bear a striking resemblance to a case from Nick's past, one that he had never solved and that has left him with a deep sense of guilt. Determined to find closure and redeem himself, Nick begins to investigate the killings on his own, clashing with the current police force, including a young detective named Mike (played by William Baldwin), who is skeptical of Nick's methods and motives.\n\nAs Nick delves deeper into the case, he uncovers a web of corruption and betrayal that goes to the highest levels of the city. The closer he gets to the truth, the more dangerous his quest becomes, and he finds himself in a race against time to stop the killer before he strikes again. The film is a tense exploration of redemption, the price of obsession, and the dark underbelly of a city where nothing is as it seems."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "40666b68e864df67ccd1d449d7842374",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 253.0 words or less.\n\n---\n\n**Title:**\n\nBad Blood\n\n**Year:**\n\n2010",
+    "include_year": false
+}

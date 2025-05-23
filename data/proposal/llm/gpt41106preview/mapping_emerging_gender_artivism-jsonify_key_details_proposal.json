@@ -1,0 +1,74 @@
+{
+    "item_type": "proposal",
+    "title": "MAPPING EMERGING GENDER ARTIVISM IN THE MEDITERRANEAN ARAB PUBLIC SPACE",
+    "descriptions": [
+        {
+            "proposal_name": "MAPPING EMERGING GENDER ARTIVISM IN THE MEDITERRANEAN ARAB PUBLIC SPACE",
+            "proposal_details": {
+                "acronym": "MEGAMAPS",
+                "study_focus": "Artivism for gender equality in the Mediterranean Arab public space",
+                "post_uprising_period": "After 2011",
+                "methodology": [
+                    "History",
+                    "Social Movements Theory",
+                    "Gender studies",
+                    "Visual Arts",
+                    "Digital Humanities"
+                ],
+                "countries": [
+                    "Jordan",
+                    "Lebanon",
+                    "Morocco",
+                    "Tunisia"
+                ],
+                "objectives": [
+                    "Innovate global academic knowledge on the Arab region",
+                    "Write a history from below",
+                    "Investigate interplay between gender, public aesthetic dissent, and social change",
+                    "Frame, explore and map emerging Artivism for gender equality",
+                    "Produce an open access participative digital platform",
+                    "Document and systematize a corpus of living sources",
+                    "Innovate traditional approaches of History and Social Movements Theory on the Arab region",
+                    "Provide the first research platform for Artivism, gender and social change in the Arab region",
+                    "Make the corpus FAIRly accessible to various audiences"
+                ],
+                "research_methods": [
+                    "Fieldwork",
+                    "Digital ethnography"
+                ],
+                "living_sources": [
+                    "Visual and performative arts",
+                    "Oral interviews",
+                    "Cartographies",
+                    "Maps",
+                    "Graphic tools"
+                ],
+                "digital_platform_features": [
+                    "Open access",
+                    "Participative",
+                    "Documenting and systematizing living sources",
+                    "FAIR accessibility"
+                ],
+                "dissemination_activities": [
+                    "Improve activists' participation in transnational networks",
+                    "Promote mutual exchanges of best practices",
+                    "Contribute to reversing victimization paradigm on women and sexual minorities",
+                    "Propose an agency paradigm to overcome orientalism and islamophobia"
+                ],
+                "target_audiences": [
+                    "Academics",
+                    "Stakeholders",
+                    "General public"
+                ],
+                "descriptions": [
+                    "A transnational in-depth study on Artivism for gender equality in the Mediterranean Arab public space, aiming to innovate academic knowledge and create a participative digital platform for research and exchange."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "83b5a34d2c6c810634e9ac365b96bf27",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nMAPPING EMERGING GENDER ARTIVISM IN THE MEDITERRANEAN ARAB PUBLIC SPACE\n\n**Description:**\n\nMEGAMAPS aims to produce a transnational in-depth study on Artivism for gender equality in the Mediterranean Arab public space after the 2011 uprisings, by using an interdisciplinary novel methodology, where History and Social Movements Theory intersect Gender studies, Visual Arts and Digital Humanities. By focusing on 4 countries (Jordan, Lebanon, Morocco, Tunisia) the project aims to innovate the global academic knowledge on the Arab region by the writing of an unprecedented history from below which investigates the interplay between gender, public aesthetic dissent and social change. Based on fieldwork and digital ethnography, MEGAMAPS aims to frame, explore and map emerging Artivism for gender equality, conceived as a political incubator which revitalizes an egalitarian project of society in the post-2011 authoritarian ebb. In addition to academic publications, the project aims at producing the first open access and participative digital platform which will consistently document, systematize and interconnect a corpus of living sources (visual and performative arts, oral interviews, and cartographies, maps, graphic tools) and will: a) innovate the traditional approaches of History and Social Movements Theory on the Arab region; b) provide the first research platform dealing with Artivism, gender and social change in the Arab region; c) make this corpus FAIRly accessible to academics, stakeholders and to the general public. MEGAMAPS also involves a set of dissemination activities aimed to improve activists’ participation in a transnational network of artists, researchers, policy-makers and civil society stakeholders in order to promote mutual exchanges of best practices in the field of gender equality, arts and democratic governance, and to contribute in reversing the victimization paradigm on women and sexual minorities in the Arab region by proposing an agency paradigm, which can also overcome orientalism and islamophobia within the Western public opinion."
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Aayirathil Oruvan",
+    "descriptions": [
+        "Aayirathil Oruvan (One Man in a Thousand) is a 2008 Indian Tamil-language historical adventure film written and directed by Selvaraghavan. The movie stars Karthi Sivakumar, Andrea Jeremiah, and Reemma Sen in the lead roles.\n\nThe story follows Anitha (Andrea Jeremiah), an archaeologist, who discovers an ancient Chola dynasty treasure map. The map is believed to be the key to unlocking the secrets of the long-lost Chola dynasty. Anitha assembles a team, including a police officer Muthu (Karthi Sivakumar) and a local guide, to embark on a perilous journey to find the treasure.\n\nAs they venture deeper into the jungle, they uncover the remnants of an ancient Chola city and face numerous challenges, including rival treasure hunters, wild animals, and treacherous terrain. Along the way, Anitha and Muthu develop feelings for each other, but their romance is put to the test by the dangers that surround them.\n\nAs they near their destination, the team discovers that the treasure is not just a collection of riches but also holds the key to understanding the history and culture of the Chola dynasty. However, they soon realize that they are not alone in their quest, and a rival group is hot on their heels.\n\nThe movie features a mix of action, adventure, romance, and historical drama, with stunning visuals and impressive stunts. The film received positive reviews from critics and audiences alike, with many praising the film's unique storyline and the performances of the lead actors.\n\nOverall, Aayirathil Oruvan is a thrilling adventure movie that takes viewers on a journey through time, exploring the rich history and culture of the Chola dynasty."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "abbe8da1cb99c4ea762db7903b84e959",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 624.0 words or less.\n\n---\n\n**Title:**\n\nAayirathil Oruvan\n\n**Year:**\n\n2008",
+    "include_year": false
+}

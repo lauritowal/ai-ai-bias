@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Angaaray",
+    "descriptions": [
+        " In the 1986 action-drama film \"Angaaray,\" two young brothers, Ajay and Vijay, find themselves orphaned after their father, a honest police officer, is murdered by a ruthless gangster named Bhaktawar. Bhaktawar, who also happens to be their father's childhood friend, has become a powerful and feared criminal in the city. The boys swear to avenge their father's death and bring Bhaktawar to justice.\n\nAs they grow older, Ajay becomes a police officer like his father, while Vijay turns to a life of crime, believing that the only way to defeat Bhaktawar is from within his own organization. Despite their different paths, both brothers remain determined to destroy Bhaktawar and his criminal empire.\n\nAs Ajay works within the law to gather evidence against Bhaktawar, Vijay infiltrates his gang and begins to rise through the ranks. However, their efforts to take down Bhaktawar are complicated by the fact that he is also their father's murderer, and they must navigate a dangerous web of lies, deceit, and betrayal.\n\nAs the brothers' plans unfold, they find themselves in a race against time to bring Bhaktawar to justice before he can carry out his own deadly plans. In the end, they must confront their own demons and come together as a family to defeat the man who destroyed their lives and bring peace to their city.\n\n\"Angaaray\" is a classic Bollywood film that explores themes of family, revenge, and justice, and features memorable performances by its lead actors. The film's tense and thrilling storyline, combined with its powerful musical score, make it a must-watch for fans of Indian cinema."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-mistralai/Mixtral-8x22B-Instruct-v0.1",
+    "generation_prompt_uid": "23099c93cbbc3279840e0011027600bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 300.0 words or less.\n\n---\n\n**Title:**\n\nAngaaray\n\n**Year:**\n\n1986",
+    "include_year": false
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Baran",
+    "descriptions": [
+        "\"Baran\" is a 2001 Iranian drama film directed by Majid Majidi. The movie tells the story of a young Iranian man named Lateef, who works on a construction site in Tehran. Lateef is initially portrayed as a somewhat lazy and carefree individual who enjoys teasing and bullying his coworkers.\n\nHowever, Lateef's life takes a dramatic turn when a young Afghan refugee girl named Baran, who is disguised as a boy to work on the construction site, is hired. Lateef is tasked with supervising Baran and initially treats her poorly, but as time passes, he becomes increasingly drawn to her and starts to feel a deep sense of responsibility and affection for her.\n\nAs Lateef learns more about Baran's difficult circumstances and struggles, he begins to transform from a selfish and arrogant individual to a compassionate and empathetic person. Despite the risks and challenges, Lateef decides to help Baran and eventually falls in love with her.\n\nThroughout the film, Majidi explores themes of love, identity, and social class, all set against the backdrop of the harsh realities of life in post-war Iran. The movie features stunning cinematography and a powerful performance from the lead actor, Hossein Abedini.\n\nUltimately, \"Baran\" is a poignant and thought-provoking film that explores the complexities of human relationships and the transformative power of love and compassion."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "6fbf26845699e64e75a7ff49711bd8b2",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 875.0 words or less.\n\n---\n\n**Title:**\n\nBaran\n\n**Year:**\n\n2001",
+    "include_year": false
+}

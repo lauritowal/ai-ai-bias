@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Final Storm",
+    "descriptions": [
+        "\"Final Storm\" is a 2010 action thriller film that follows the story of a small coastal town facing a devastating hurricane. As the storm approaches, tensions rise among the residents who must decide whether to evacuate or ride out the storm.\n\nThe main character, Jack, is a local fisherman who is determined to stay behind and protect his home. He lives with his wife, Sarah, and their young daughter, Emma. As the storm grows in intensity, Jack prepares his home for the worst, reinforcing windows and securing loose objects outside.\n\nMeanwhile, a group of criminals from out of town arrives in the area, seeking shelter from the storm. Led by a ruthless leader named Carl, the criminals take advantage of the chaos to rob and terrorize the townspeople. Jack becomes aware of their presence and takes it upon himself to protect his family and his community from these dangerous intruders.\n\nAs the hurricane makes landfall, the situation escalates into a violent confrontation between Jack and the criminals. Jack uses his knowledge of the area and resourcefulness to outsmart the criminals and defend his home against their attacks.\n\nThroughout the film, Jack's determination to protect his family is put to the test as he faces increasingly dangerous situations. The storm serves as a backdrop for the intense struggle between good and evil, as Jack fights to survive and protect those he loves.\n\nIn the end, Jack emerges victorious, having successfully defended his home and his family from the criminals. The storm passes, leaving behind a trail of destruction, but Jack's bravery and resilience have helped the town come together in the face of adversity.\n\n\"Final Storm\" is a thrilling tale of survival and redemption, showcasing the strength of the human spirit in the face of overwhelming odds. It is a story of courage, sacrifice, and the power of love to overcome even the most formidable challenges."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "23a4a99c202aedc6b0eb450363e21fc6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 434.0 words or less.\n\n---\n\n**Title:**\n\nFinal Storm\n\n**Year:**\n\n2010",
+    "include_year": false
+}

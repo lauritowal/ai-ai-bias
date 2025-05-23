@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "The Super Dimension Fortress Macross: Do You Remember Love?",
+    "descriptions": [
+        "The Super Dimension Fortress Macross: Do You Remember Love? is a 1984 Japanese animated science fiction film directed by Noboru Ishiguro and written by Sukehiro Tomita. The film is a condensed retelling of the original 36-episode anime series \"The Super Dimension Fortress Macross\" that aired in 1982.\n\nIn the film, humanity is on the brink of war with an alien species known as the Zentradi. The Zentradi are a technologically advanced and highly aggressive species that is determined to destroy the human species. As the war rages on, a massive spaceship known as the SDF-1 Macross is discovered and converted into a mobile fortress to fight against the Zentradi.\n\nThe story revolves around the adventures of Hikaru Ichijyo, a young pilot of the SDF-1's Vermillion Team, and his relationship with Lynn Minmay, a pop idol who becomes a symbol of hope for humanity during the war. As the war intensifies, Hikaru finds himself at the forefront of the battle, fighting against the Zentradi and struggling to maintain his relationship with Minmay.\n\nThroughout the film, the characters must confront their own emotions, the harsh realities of war, and the complexities of human relationships. As the conflict escalates, the SDF-1's crew discovers a way to communicate with the Zentradi, and a young Zentradi woman named Misa Hayakawa becomes a key figure in bridging the gap between humans and aliens.\n\nThe film culminates in a climactic battle as the SDF-1's crew launches a final assault against the Zentradi's mother ship. The battle is intense, and the fate of humanity hangs in the balance.\n\nUltimately, \"The Super Dimension Fortress Macross: Do You Remember Love?\" is a classic anime film that explores the complexities of human relationships, the horrors of war, and the power of love and music in the face of adversity. The film features a blend of action, drama, and romance, set against a backdrop of science fiction and mecha anime elements."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "8f7df91b3754f8e8ee9afa3c4ee7a2c3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 604.0 words or less.\n\n---\n\n**Title:**\n\nThe Super Dimension Fortress Macross: Do You Remember Love?\n\n**Year:**\n\n1984",
+    "include_year": false
+}

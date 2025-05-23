@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Tamil Padam",
+    "descriptions": [
+        "In the 2010 Indian Tamil-language parody film \"Tamil Padam,\" the story follows Shiva, a young man who is determined to avenge the death of his father, who was killed by a notorious gangster named Kattapa. Shiva sets out on a mission to seek revenge and bring justice to his family.\n\nThroughout his journey, Shiva encounters a variety of quirky characters and situations that parody typical tropes found in Tamil cinema. From over-the-top action sequences to melodramatic dialogues, the film pokes fun at the clichés and stereotypes often seen in Indian cinema.\n\nAs Shiva gets closer to his goal of confronting Kattapa, he enlists the help of his friends and allies, including a bumbling sidekick and a love interest who is equally determined to take down the villain. Together, they navigate through a series of obstacles and challenges, all while delivering hilarious one-liners and engaging in comical misunderstandings.\n\nDespite the serious nature of his mission, Shiva finds himself in increasingly absurd and comedic situations that test his resolve and determination. From mistaken identities to slapstick humor, the film keeps the audience entertained with its clever satire and witty humor.\n\nAs Shiva finally comes face to face with Kattapa, he realizes that there is more to the story than meets the eye. Through a series of unexpected twists and turns, Shiva uncovers a web of deception and betrayal that forces him to reconsider his motives and confront his own flaws.\n\nIn the end, \"Tamil Padam\" delivers a message about the power of forgiveness and the importance of looking beyond appearances. Through its clever parody and sharp wit, the film offers a unique take on the traditional revenge story, turning familiar tropes on their head and keeping the audience guessing until the very end.\n\nOverall, \"Tamil Padam\" is a hilarious and entertaining film that celebrates the rich history of Tamil cinema while also poking fun at its conventions. With its memorable characters, witty dialogue, and clever satire, the movie offers a fresh and engaging take on the classic revenge genre, making it a must-watch for fans of Indian cinema and comedy alike."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "a1480a707a248922d2d08899aad4168f",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 566.0 words or less.\n\n---\n\n**Title:**\n\nTamil Padam\n\n**Year:**\n\n2010",
+    "include_year": false
+}

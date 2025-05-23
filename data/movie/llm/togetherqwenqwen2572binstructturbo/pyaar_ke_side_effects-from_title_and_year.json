@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Pyaar Ke Side Effects",
+    "descriptions": [
+        "\"Pyaar Ke Side Effects,\" released in 2006, is a romantic comedy that delves into the quirky and unpredictable nature of love. Directed by Pritam Star, the film stars Soha Ali Khan and Sanjay Suri in the lead roles, alongside a supporting cast that adds layers of humor and drama to the narrative.\n\nThe story revolves around Aditi (Soha Ali Khan), a young and spirited woman who has just returned to India from the United States. Aditi is independent, modern, and has a no-nonsense attitude towards life and love. Her views on relationships are shaped by her experiences abroad, where she has seen a more liberal approach to dating and romance.\n\nUpon her return, Aditi meets Rohan (Sanjay Suri), a charming and successful businessman who is everything she thought she didn't want in a partner. Rohan is traditional, grounded, and has a conservative outlook on life, which initially clashes with Aditi's more liberated perspective. Despite their differences, they are drawn to each other, and a series of humorous and sometimes awkward encounters bring them closer.\n\nAs their relationship progresses, Aditi and Rohan must navigate the side effects of their love, which include family pressures, societal expectations, and their own internal conflicts. The film humorously explores the challenges of blending two different worlds and the compromises that come with it. Along the way, they discover that love can be a powerful force that transcends cultural and personal boundaries.\n\n\"Pyaar Ke Side Effects\" is a light-hearted yet insightful look at modern relationships, blending romantic elements with a touch of satire. The movie highlights the importance of understanding and accepting one's partner, even with all their quirks and flaws. It's a story that resonates with anyone who has ever fallen in love and had to deal with the unexpected side effects that come with it."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "06fc3ed591e9e3405c29383e929cb2c6",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 351.0 words or less.\n\n---\n\n**Title:**\n\nPyaar Ke Side Effects\n\n**Year:**\n\n2006",
+    "include_year": false
+}

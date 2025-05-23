@@ -1,0 +1,62 @@
+{
+    "item_type": "proposal",
+    "title": "The Role of Reputation and Corruption in Procurement",
+    "descriptions": [
+        {
+            "proposal_name": "The Role of Reputation and Corruption in Procurement",
+            "proposal_details": {
+                "sectors_involved": [
+                    "defense",
+                    "transportation",
+                    "education",
+                    "healthcare"
+                ],
+                "design_goals": [
+                    "avoid waste",
+                    "enhance social welfare",
+                    "prevent corruption",
+                    "ensure contractor compliance"
+                ],
+                "empirical_projects": 3,
+                "components": [
+                    {
+                        "component_number": 1,
+                        "focus": "use of reputation in contract procurement",
+                        "vendor_rating_system_impacts": [
+                            "contractor performance improvement",
+                            "procurement costs changes",
+                            "corruption concerns",
+                            "new bidders entry"
+                        ]
+                    },
+                    {
+                        "component_number": 2,
+                        "focus": "corruption in public procurement",
+                        "analysis_points": [
+                            "extent of criminal networks",
+                            "awarding rules effectiveness against corruption",
+                            "corruption detection tests"
+                        ]
+                    },
+                    {
+                        "component_number": 3,
+                        "focus": "healthcare procurement regulations",
+                        "analysis_targets": [
+                            "descriptive analysis of EU practices",
+                            "discretionary awarding rules impact on corruption and reputation",
+                            "evaluation in terms of patients’ welfare"
+                        ]
+                    }
+                ],
+                "descriptions": [
+                    "This research proposal describes three empirical projects that will advance the frontier of our understanding of the roles of corruption and reputation in procurement."
+                ]
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "12bbca58b87065e357cb092477e90461",
+    "generation_prompt_nickname": "jsonify_key_details_proposal",
+    "generation_prompt_text": "Extract and present the key details from this grant proposal abstract in valid JSON format. Keep array structures simple and flat where possible. Focus only on capturing the concrete features, characteristics, and data points - exclude any narrative text or prose descriptions. The response should contain exactly one item in the 'descriptions' array!\n\n---\n\n**Title:**\n\nThe Role of Reputation and Corruption in Procurement\n\n**Description:**\n\nNearly all activities in which the public sector is involved, from defense to transportation, from education to healthcare, require the public sector to procure works or goods from private contractors. Thus, it is crucial that the procedures through which procurement occurs be designed to avoid waste and enhance social welfare. Preventing corruption and ensuring contractor compliance with their obligations constitute primary design goals. Nevertheless, very limited evidence exists as to how different awarding methods are susceptible to corruption, and how contractors’ past reputation should be used to award new tenders. This research proposal describes three empirical projects that will advance the frontier of our understanding of the roles of corruption and reputation in procurement. Component 1 focuses on the use of reputation in contract procurement. It analyzes the evidence produced by the introduction of a vendor rating system to: i) determine whether the new system induced contractors to improve their performance, ii) determine whether performance improvements caused higher procurement costs, and iii) evaluate concerns on corruption and entry of new bidders. Component 2 focuses on corruption in public procurement. It analyzes evidence on the presence of networks of firms engaged in criminal activities in public procurement to determine: i) the extent of the phenomenon, (ii) the functioning of different awarding rules against corruption, and iii) the use of tests to detect corruption. Component 3 focuses on healthcare procurement regulations. It analyzes evidence on the public procurement of medical devices to accomplish: i) a descriptive analysis of the procurement practices across the EU, ii) an assessment of whether discretionary awarding rules are used to foster corruption or to reward contractors with better reputation, and iii) an evaluation of these procurement practices in terms of patients’ welfare."
+}

@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Bitter Moon",
+    "descriptions": [
+        "'Bitter Moon' is a 1993 British drama film directed by Roman Polanski. The movie is a dark and complex exploration of love, marriage, and the human condition.\n\nThe film follows the story of Nigel (played by Peter Coyote), a wealthy American who is traveling on a luxurious yacht with his wife, Fiona (played by Emmanuelle Seigner), a beautiful and alluring woman. Their marriage is on the brink of collapse, and Nigel is struggling to come to terms with his own desires and the moral compromises he has made in order to maintain his lifestyle.\n\nThe story takes a dramatic turn when the couple meets a young couple, Richard (played by Jonathan Pryce) and Hélène (played by Louise Fletcher), who are traveling together on a smaller boat. As the two couples spend more time together, Nigel becomes increasingly fascinated with Hélène, who is a beautiful and intense woman with a troubled past.\n\nAs the story unfolds, Nigel becomes embroiled in a complicated web of relationships and desires, which ultimately leads to a tragic confrontation with the darker aspects of his own nature. Through Nigel's story, the film explores themes of love, lust, and the human condition, raising questions about the nature of morality and the consequences of our actions.\n\nMeanwhile, Fiona begins to develop a complicated relationship with Richard, who is a more vulnerable and sensitive person than Nigel. This relationship adds a further layer of complexity to the story, as it highlights the differences between the two couples and the ways in which they approach love and relationships.\n\nThroughout the film, Roman Polanski's direction is characterized by his trademark use of atmospheric tension and his ability to elicit powerful performances from his actors. The film's cinematography is also noteworthy, capturing the beauty and luxury of the yacht and the contrast between the two couples' lives.\n\nOverall, 'Bitter Moon' is a complex and thought-provoking film that raises important questions about the human condition. Through its exploration of love, marriage, and desire, the film offers a nuanced and often disturbing portrayal of the darker aspects of human nature."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "generation_prompt_uid": "910b9e8160990fdf9ed39a11db226d4d",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 802.0 words or less.\n\n---\n\n**Title:**\n\nBitter Moon\n\n**Year:**\n\n1993",
+    "include_year": false
+}

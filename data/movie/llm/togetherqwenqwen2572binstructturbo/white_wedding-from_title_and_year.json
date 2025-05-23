@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "White Wedding",
+    "descriptions": [
+        "\"White Wedding\" (1989) is a romantic comedy that follows the story of Michael, a young and ambitious man who is about to get married. On the eve of his wedding, Michael is plagued by doubts and insecurities about his relationship with his fiancée, Susan. His fears are exacerbated when he encounters Sarah, an old flame who rekindles his past feelings and challenges his commitment to his upcoming marriage. As the wedding day approaches, Michael must navigate through a series of comic misadventures, including meddling family members and well-meaning friends, all while trying to decide whether he is making the right choice. The film explores themes of love, loyalty, and the complexities of modern relationships, ultimately leading to a heartfelt and humorous resolution that questions the true meaning of love and commitment."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-Qwen/Qwen2.5-72B-Instruct-Turbo",
+    "generation_prompt_uid": "522156c35aabaae548aa5dfb7aafcec3",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 224.0 words or less.\n\n---\n\n**Title:**\n\nWhite Wedding\n\n**Year:**\n\n1989",
+    "include_year": false
+}

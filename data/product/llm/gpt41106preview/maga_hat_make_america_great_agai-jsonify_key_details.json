@@ -1,0 +1,71 @@
+{
+    "item_type": "product",
+    "title": "MAGA Hat Make America Great Again Donald Trump Slogan with USA Flag Cap Adjustable 2024 Keep America Great Baseball Hat (Red)",
+    "descriptions": [
+        {
+            "product_name": "MAGA Hat Make America Great Again Donald Trump Slogan with USA Flag Cap Adjustable 2024 Keep America Great Baseball Hat (Red)",
+            "product_details": {
+                "brand": "Amasslove",
+                "year": "2020",
+                "material": "cotton",
+                "color": "red",
+                "style": "baseball cap",
+                "slogan": "Make America Great Again",
+                "features": [
+                    "USA flag",
+                    "adjustable",
+                    "embroidered logo and American flags"
+                ],
+                "suitability": [
+                    "fashion accessory",
+                    "head protection",
+                    "political statement"
+                ],
+                "target_audience": "Trump admirers and fans"
+            }
+        },
+        {
+            "product_name": "MAGA Hat Make America Great Again Donald Trump Slogan with USA Flag Cap Adjustable 2024 Keep America Great Baseball Hat (Red)",
+            "product_details": {
+                "brand": "Amasslove",
+                "year": "2020",
+                "material": "cotton",
+                "color": "red",
+                "closure_type": "adjustable",
+                "theme": "Donald Trump 2020 Campaign",
+                "embroidery": [
+                    "Make America Great Again logo",
+                    "American flags"
+                ],
+                "fit": "ergonomic",
+                "intended_use": "head protection, fashion, political statement",
+                "suitability": "Trump admirers and fans",
+                "quality": "premium"
+            }
+        },
+        {
+            "product_name": "MAGA Hat Make America Great Again Donald Trump Slogan with USA Flag Cap Adjustable 2024 Keep America Great Baseball Hat (Red)",
+            "product_details": {
+                "brand": "Amasslove",
+                "year": "2020",
+                "material": "cotton",
+                "color": "red",
+                "slogan": "Make America Great Again",
+                "logo": "Cool 'Make America Great Again' logo",
+                "embroidery": "American flags",
+                "fit": "adjustable",
+                "style": "baseball cap",
+                "special_feature": "ergonomic design",
+                "intended_use": "style and head protection",
+                "target_audience": "Trump admirers and fans",
+                "gift_idea": true
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "5d30c63fa29a9fe3784de64f8f43247a",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: MAGA Hat Make America Great Again Donald Trump Slogan with USA Flag Cap Adjustable 2024 Keep America Great Baseball Hat (Red)\n\nDescription: Make America Great Again With A Amasslove Donald Trump 2020 Baseball Cap!Tired of cheaply made hats? Looking for a unique and special baseball hat? Hate bulky and not fitting well caps?If so, then you should keep on reading. We have the ultimate American flag hat designed for you!Be In Style, Protect Your Head & Make America Great Again!If you are looking for an excellent combination of style and ergonomic design, this Trump hat is the way to go.Makes a perfect gift to a Trump admirer and fan., make this hat your number one choice when you go out.Still Not Sure If This Hat Is The Right One For You?Premium quality cotton baseball hat.Cool “Make America Great Again” logo and American flags embroidered.",
+    "__pydantic_initialised__": true
+}

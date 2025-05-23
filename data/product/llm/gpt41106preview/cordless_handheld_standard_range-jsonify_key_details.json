@@ -1,0 +1,99 @@
+{
+    "item_type": "product",
+    "title": "Cordless Handheld Standard Range Area Imager Kit with Presentation Cradle and USB Kit, Black,\nCompatible Devices: Laptop, Desktop, Power Source: Corded Electric, Usb Cable, 3 AAA batteries required.",
+    "descriptions": [
+        {
+            "product_name": "Cordless Handheld Standard Range Area Imager Kit with Presentation Cradle and USB Kit, Black",
+            "product_details": {
+                "compatible_devices": [
+                    "Laptop",
+                    "Desktop"
+                ],
+                "power_source": [
+                    "Corded Electric",
+                    "USB Cable",
+                    "3 AAA batteries"
+                ],
+                "brand": "ZEBRA",
+                "connectivity_technology": "USB Cable",
+                "number_of_batteries": 3,
+                "battery_type": "AAA",
+                "scanner_type": "1D/2D Imager",
+                "use_case": "General Purpose",
+                "intended_industry": [
+                    "Retail",
+                    "Hospitality"
+                ],
+                "features": {
+                    "ergonomic_design": true,
+                    "lightweight": true,
+                    "omni_directional_scanning": true,
+                    "pre_configured": true,
+                    "auto_host_cables": true
+                }
+            }
+        },
+        {
+            "product_name": "Cordless Handheld Standard Range Area Imager Kit with Presentation Cradle and USB Kit, Black",
+            "product_details": {
+                "Compatible_Devices": [
+                    "Laptop",
+                    "Desktop"
+                ],
+                "Power_Source": [
+                    "Corded Electric",
+                    "USB Cable",
+                    "3 AAA batteries"
+                ],
+                "Brand": "ZEBRA",
+                "Connectivity_Technology": "USB Cable",
+                "Number_of_Batteries": 3,
+                "Battery_Type": "AAA",
+                "Scanner_Type": "1D/2D Imager",
+                "Use_Case": [
+                    "Retail",
+                    "Hospitality"
+                ],
+                "Design": "Handheld, Ergonomic, Lightweight",
+                "Feature_Omni_directional_Scanning": true,
+                "Pre_configured": true
+            }
+        },
+        {
+            "product_name": "Cordless Handheld Standard Range Area Imager Kit with Presentation Cradle and USB Kit, Black",
+            "product_details": {
+                "Compatible_Devices": [
+                    "Laptop",
+                    "Desktop"
+                ],
+                "Power_Source": [
+                    "Corded Electric",
+                    "USB Cable",
+                    "3 AAA Batteries"
+                ],
+                "Brand": "ZEBRA",
+                "Connectivity_Technology": "USB Cable",
+                "Number_of_Batteries": 3,
+                "Battery_Type": "AAA",
+                "Scanner_Type": "1D/2D Imager",
+                "Use_Case": [
+                    "Retail",
+                    "Hospitality"
+                ],
+                "Design": "Handheld, Ergonomic, Lightweight",
+                "Features": {
+                    "Omni-directional_Scanning": true,
+                    "Aim_Line_Guidance": true,
+                    "Pre-configured": true,
+                    "Auto-host_Cables": true
+                }
+            }
+        }
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-4-1106-preview",
+    "generation_prompt_uid": "e7a028872b7051549b02eea0aef2b54f",
+    "generation_prompt_nickname": "jsonify_key_details",
+    "generation_prompt_text": "Summarize the key details of the following product description and present in valid JSON format. Focus on extracting the features and characteristics in data form, without flavor text or prose.\n\n---\n\nTitle: Cordless Handheld Standard Range Area Imager Kit with Presentation Cradle and USB Kit, Black,\nCompatible Devices: Laptop, Desktop, Power Source: Corded Electric, Usb Cable, 3 AAA batteries required.\n\nDescription: * Compatible Devices: Laptop, Desktop\n* Power Source: Corded Electric, Usb Cable\n* Brand: ZEBRA\n* Connectivity Technology: USB Cable\n* Number of Batteries: 3 AAA batteries required.\n\nAFFORDABLE 1D/2D SCANNER: An affordable 1D/2D imager that doesn’t compromise performance or features for price. Capture barcodes from mobile devices, 1D and 2D Paper barcodes on items for sale, coupons, loyalty cards and more.\n\nGENERAL PURPOSE USE: The DS4308 scanner is hand held with an ergonomic, lightweight design. Built to be used reliability all day long while reducing employee fatigue allowing this scanner to be used in a wide variety of business situations.\n\nBUILT FOR YOUR BUSINESS: This cordless imager is built primarily for retail and hospitality businesses everywhere, but the applications are endless. Placing this reliable tool at your point of sale will ensure quick transactions and keep the lines moving.\n\nEASY TO USE: Point and shoot scanning with omni-directional scanning means users never need to line up the imager and the barcode. The aim line guides users to scan at the ideal distance from the barcode. This is helpful when capturing wide barcodes.\n\nEASY TO DEPLOY: Pre-configured and ready to use right out of the box. Auto-host cables will identify your Point of Sale (POS) interface and connect the imager, simplifying and reducing set up time.",
+    "__pydantic_initialised__": true
+}

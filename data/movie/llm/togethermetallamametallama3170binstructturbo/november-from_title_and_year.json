@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "November",
+    "descriptions": [
+        "November is a 2004 American drama film written and directed by Greg Harrison. The movie stars Courteney Cox, James Le Gros, and Michael Ealy.\n\nThe story revolves around Sophie (played by Courteney Cox) and Hugh (played by James Le Gros), a couple whose relationship is put to the test after a tragic accident. The film is divided into five acts, with each act taking place on November 7th in different years.\n\nAs the story unfolds, Sophie and Hugh's relationship is shown to be in trouble. Hugh has an affair with a woman named Nicki (played by Nora Dunn), and Sophie becomes increasingly isolated. The accident that occurs on November 7th sets off a chain reaction of events that exposes the cracks in their relationship.\n\nOver the course of the five acts, Sophie and Hugh struggle to come to terms with the consequences of their actions. Sophie must confront her own guilt and grief, while Hugh must deal with the repercussions of his infidelity. Through a series of flashbacks and fragmented narratives, the film explores the complexities of their relationship and the ways in which it is affected by the accident.\n\nThroughout the movie, the characters' emotions are raw and intense, and the tension between them is palpable. The non-linear narrative adds to the sense of complexity and fragmentation, reflecting the disjointed state of Sophie and Hugh's relationship. Ultimately, November is a powerful exploration of love, loss, and the ways in which relationships can both heal and hurt us."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "5aa0e0bd99d5549bdccb188219f8b9bf",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 380.0 words or less.\n\n---\n\n**Title:**\n\nNovember\n\n**Year:**\n\n2004",
+    "include_year": false
+}

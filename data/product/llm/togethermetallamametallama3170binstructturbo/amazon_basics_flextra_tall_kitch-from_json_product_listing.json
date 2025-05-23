@@ -1,0 +1,12 @@
+{
+    "item_type": "product",
+    "title": "Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags, 13 Gallon, Unscented, 50 Count",
+    "descriptions": [
+        "**Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags**\n\n**Product Description**\n\nKeep your kitchen clean and organized with the Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags. These unscented, white trash bags are made of tear-resistant plastic material, ensuring they can withstand regular use. The 13-gallon capacity is perfect for everyday kitchen waste, and the red drawstring closure makes it easy to secure and dispose of the bag when it's full.\n\n**Product Features**\n\n- 50-count pack for long-lasting use\n- 13-gallon capacity for everyday kitchen waste\n- Unscented for odor-free disposal\n- Made of tear-resistant, white plastic material for durability\n- Red drawstring closure for easy and secure bag disposal\n- Flex-tra strength for added tear resistance\n- Compatible with Alexa voice shopping for convenient reordering\n\n**Order Now and Keep Your Kitchen Clean and Organized**\n\nClick the \"Add to Cart\" button to get your Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags today!"
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "1bd370b479a586424194b25a60ef90a4",
+    "generation_prompt_nickname": "from_json_product_listing",
+    "generation_prompt_text": "Write a product listing for the product described in the following JSON data summary (or summaries).\n\n---\n\n**Description:**\n\n{'product_name': 'Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags', 'product_details': {'count': 50, 'scent': 'Unscented', 'capacity': 13, 'unit': 'Gallon', 'material': 'Plastic', 'color': 'White', 'closure_type': 'Drawstring', 'closure_color': 'Red', 'tear_resistance': 'Flex-tra strength', 'alexa_voice_shopping': True}}\n\n**Description:**\n\n{'product_name': 'Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags', 'product_details': {'quantity': 50, 'capacity_gallons': 13, 'scent': 'Unscented', 'material': 'Tear-resistant white plastic', 'strength': 'Flex-tra', 'closure_type': 'Red drawstring', 'alexa_voice_shopping': True}}\n\n**Description:**\n\n{'product_name': 'Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags', 'product_details': {'count': 50, 'scent': 'Unscented', 'capacity_gallons': 13, 'material': 'Tear-resistant white plastic', 'strength': 'Flex-tra', 'closure_type': 'Red drawstring', 'alexa_voice_shopping': True}}"
+}

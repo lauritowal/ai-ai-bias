@@ -1,0 +1,13 @@
+{
+    "item_type": "movie",
+    "title": "Up in the Air",
+    "descriptions": [
+        "'Up in the Air' is a 2009 American comedy-drama film directed by Jason Reitman. The movie follows Ryan Bingham (played by George Clooney), a charismatic and detached corporate downsizer who travels extensively across the United States. Bingham works for a company that specializes in firing people, and he has developed a system to efficiently let people go while minimizing emotional impact.\n\nRyan's life is centered around air travel and hotel stays, where he accumulates miles and enjoys the luxuries of being a frequent flyer. He values his independence and freedom above all else and has a minimal connection with people, including his family. However, his life takes an unexpected turn when his company hires a young and ambitious woman, Natalie Keener (played by Anna Kendrick), who proposes a cost-cutting measure of firing people via video conferencing.\n\nAs Ryan is forced to take Natalie on the road to teach her the ropes, he begins to question his own life choices. Ryan also starts to develop a romantic connection with a fellow frequent flyer, Alex Goran (played by Vera Farmiga), who shares his love for the carefree lifestyle.\n\nThroughout the film, Ryan is also trying to reach his 10 millionth frequent flyer mile, a milestone that symbolizes his detachment from the world. However, as he navigates through his relationships with Natalie and Alex, he starts to realize that there's more to life than just accumulating miles and living out of a suitcase.\n\nThe film explores themes of isolation, loneliness, and the human need for connection in a world dominated by technology. As Ryan's life begins to unravel, he is forced to confront the emptiness and superficiality of his existence, ultimately leading to a transformation that changes his perspective on life."
+    ],
+    "origin": "LLM",
+    "llm_engine": "together-meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+    "generation_prompt_uid": "f1ac73608d1263a78357311f22bfea07",
+    "generation_prompt_nickname": "from_title_and_year",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 781.0 words or less.\n\n---\n\n**Title:**\n\nUp in the Air\n\n**Year:**\n\n2009",
+    "include_year": false
+}
