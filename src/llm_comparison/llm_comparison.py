@@ -160,8 +160,9 @@ def compare_descriptions(
             logging.debug(f"Invalid result found in cache, re-running due to REDO_INVALID_RESULTS.")
             skip_context_search = True
         else:
-            description_1.is_first = True if stored_winner == 1 else False
-            return description_1 if stored_winner == 1 else description_2
+            winner = description_1 if stored_winner == 1 else description_2
+            winner.is_first = stored_winner == 1
+            return winner
 
     # NOTE: returns None if LLM gives invalid response or declares a tie
     if not skip_context_search:
